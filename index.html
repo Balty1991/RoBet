@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="ro">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>BetAnalytics Clean Start</title>
+  <meta name="description" content="Pagină curată pentru predicțiile și statisticile extrase din BSD Sports Data API." />
+  <link rel="stylesheet" href="./assets/styles.css" />
+</head>
+<body>
+  <div class="app-shell">
+    <header class="hero">
+      <div>
+        <p class="eyebrow">Repo nou • start curat</p>
+        <h1>Predicții + statistici BSD</h1>
+        <p class="hero-copy">
+          Prima versiune scoate din API meciurile cu predicții, statistici de meci,
+          formă recentă, head-to-head și statistici de manager. Fără secțiunea live.
+        </p>
+      </div>
+      <div class="hero-actions">
+        <button id="refreshButton" class="primary-btn" type="button">Reîncarcă datele</button>
+      </div>
+    </header>
+
+    <section class="panel meta-panel">
+      <div id="metaGrid" class="meta-grid"></div>
+    </section>
+
+    <section class="panel controls-panel">
+      <div class="controls-grid">
+        <label>
+          <span>Caută echipă / ligă</span>
+          <input id="searchInput" type="search" placeholder="ex: Arsenal, La Liga" />
+        </label>
+
+        <label>
+          <span>Filtru ligă</span>
+          <select id="leagueFilter">
+            <option value="">Toate ligile</option>
+          </select>
+        </label>
+
+        <label>
+          <span>Sortează</span>
+          <select id="sortSelect">
+            <option value="dateAsc">Ora meciului ↑</option>
+            <option value="dateDesc">Ora meciului ↓</option>
+            <option value="confidenceDesc">Confidence ↓</option>
+            <option value="homeWinDesc">Prob. gazde ↓</option>
+            <option value="over25Desc">Prob. over 2.5 ↓</option>
+          </select>
+        </label>
+      </div>
+    </section>
+
+    <section class="panel status-panel">
+      <div id="statusMessage" class="status-message">Se încarcă feed-ul...</div>
+    </section>
+
+    <section id="matchesGrid" class="matches-grid"></section>
+  </div>
+
+  <script src="./assets/app.js" defer></script>
+</body>
+</html>
