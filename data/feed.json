@@ -1,0 +1,22 @@
+{
+  "generated_at": null,
+  "timezone": "Europe/Bucharest",
+  "source": {
+    "api_base": "https://sports.bzzoiro.com/api/",
+    "predictions_endpoint": "/predictions/",
+    "event_detail_endpoint": "/events/{id}/",
+    "managers_endpoint": "/managers/?team_id={id}"
+  },
+  "summary": {
+    "total_matches": 0,
+    "total_leagues": 0,
+    "average_confidence": 0,
+    "favorite_recommend": 0,
+    "over_15_recommend": 0,
+    "over_25_recommend": 0,
+    "over_35_recommend": 0,
+    "btts_recommend": 0,
+    "winner_recommend": 0
+  },
+  "items": []
+}
