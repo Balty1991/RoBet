@@ -113,8 +113,7 @@ select {
 .mini-card,
 .stat-block,
 .form-block,
-.manager-block,
-.raw-block {
+.manager-block {
   background: linear-gradient(180deg, rgba(18, 35, 60, 0.96), rgba(12, 23, 41, 0.96));
   border: 1px solid var(--border);
   border-radius: var(--radius-lg);
@@ -176,7 +175,7 @@ select {
   border-radius: var(--radius-xl);
   padding: 18px;
   display: grid;
-  gap: 16px;
+  gap: 14px;
 }
 
 .card-top {
@@ -193,7 +192,7 @@ select {
   align-items: center;
   gap: 6px;
   border-radius: 999px;
-  padding: 7px 12px;
+  padding: 7px 11px;
   font-size: 12px;
   font-weight: 700;
 }
@@ -219,6 +218,7 @@ select {
 .scoreline {
   color: var(--muted);
   font-size: 14px;
+  margin-top: 4px;
 }
 
 .tags-row,
@@ -261,34 +261,33 @@ select {
 }
 
 .mini-grid {
-  grid-template-columns: repeat(3, 1fr);
+  grid-template-columns: repeat(3, minmax(0, 1fr));
 }
 
 .mini-card,
 .stat-block,
 .form-block,
-.manager-block,
-.raw-block {
+.manager-block {
   padding: 14px;
 }
 
 .mini-label,
 .stat-title,
 .form-title,
-.manager-title,
-.raw-title {
+.manager-title {
   color: var(--muted);
   font-size: 12px;
   margin-bottom: 8px;
 }
 
 .mini-value {
-  font-size: 22px;
+  font-size: 20px;
   font-weight: 800;
+  line-height: 1.05;
 }
 
 .stats-grid {
-  grid-template-columns: repeat(2, 1fr);
+  grid-template-columns: repeat(2, minmax(0, 1fr));
 }
 
 .stat-row,
@@ -341,15 +340,6 @@ summary::-webkit-details-marker {
   gap: 14px;
 }
 
-.raw-block pre {
-  margin: 0;
-  white-space: pre-wrap;
-  word-break: break-word;
-  color: #d8e3f7;
-  font-size: 12px;
-  line-height: 1.5;
-}
-
 .empty-state {
   padding: 24px;
   border-radius: var(--radius-xl);
@@ -360,25 +350,183 @@ summary::-webkit-details-marker {
 
 @media (max-width: 720px) {
   body {
-    padding: 14px;
+    padding: 10px;
+  }
+
+  .app-shell {
+    gap: 12px;
   }
 
   .hero {
-    padding: 18px;
+    padding: 14px;
+    gap: 12px;
     flex-direction: column;
     align-items: flex-start;
+    border-radius: 20px;
   }
 
-  .mini-grid,
-  .stats-grid {
+  .eyebrow {
+    font-size: 10px;
+    margin-bottom: 6px;
+  }
+
+  .hero h1 {
+    font-size: 22px;
+    line-height: 1.1;
+  }
+
+  .hero-copy {
+    font-size: 13px;
+    line-height: 1.45;
+    margin-top: 8px;
+  }
+
+  .hero-actions,
+  .primary-btn {
+    width: 100%;
+  }
+
+  .primary-btn {
+    padding: 12px 14px;
+    border-radius: 12px;
+    font-size: 14px;
+  }
+
+  .panel {
+    padding: 12px;
+    border-radius: 18px;
+  }
+
+  .meta-grid {
+    grid-template-columns: repeat(2, minmax(0, 1fr));
+    gap: 8px;
+  }
+
+  .meta-item {
+    padding: 10px;
+    border-radius: 14px;
+  }
+
+  .meta-label {
+    font-size: 11px;
+    margin-bottom: 4px;
+  }
+
+  .meta-value {
+    font-size: 16px;
+  }
+
+  .controls-grid {
     grid-template-columns: 1fr;
+    gap: 8px;
+  }
+
+  label {
+    gap: 6px;
+  }
+
+  label span {
+    font-size: 12px;
+  }
+
+  input,
+  select {
+    padding: 10px 12px;
+    border-radius: 12px;
+    font-size: 14px;
+  }
+
+  .matches-grid {
+    grid-template-columns: 1fr;
+    gap: 12px;
+  }
+
+  .match-card {
+    padding: 12px;
+    gap: 10px;
+    border-radius: 18px;
   }
 
   .card-top {
     flex-direction: column;
+    gap: 6px;
+  }
+
+  .league-badge,
+  .tag,
+  .rec-tag {
+    padding: 5px 8px;
+    font-size: 11px;
+    gap: 4px;
   }
 
   .kickoff {
     text-align: left;
+    font-size: 12px;
+  }
+
+  .teams {
+    font-size: 18px;
+    line-height: 1.15;
+  }
+
+  .scoreline {
+    font-size: 12px;
+    margin-top: 2px;
+  }
+
+  .tags-row,
+  .rec-row {
+    gap: 6px;
+  }
+
+  .mini-grid {
+    grid-template-columns: repeat(3, minmax(0, 1fr));
+    gap: 8px;
+  }
+
+  .mini-card,
+  .stat-block,
+  .form-block,
+  .manager-block {
+    padding: 10px;
+    border-radius: 14px;
+  }
+
+  .mini-label,
+  .stat-title,
+  .form-title,
+  .manager-title {
+    font-size: 11px;
+    margin-bottom: 6px;
+  }
+
+  .mini-value {
+    font-size: 15px;
+  }
+
+  .stats-grid,
+  .form-grid,
+  .manager-grid {
+    grid-template-columns: 1fr;
+    gap: 8px;
+  }
+
+  .stat-row,
+  .form-row,
+  .manager-row {
+    padding: 4px 0;
+    font-size: 12px;
+    gap: 6px;
+  }
+
+  summary {
+    padding: 10px 12px;
+    font-size: 13px;
+  }
+
+  .details-content {
+    padding: 0 10px 10px;
+    gap: 10px;
   }
 }
