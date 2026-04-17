@@ -253,7 +253,6 @@ select {
 }
 
 .mini-grid,
-.stats-grid,
 .form-grid,
 .manager-grid {
   display: grid;
@@ -286,10 +285,6 @@ select {
   line-height: 1.05;
 }
 
-.stats-grid {
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-}
-
 .stat-row,
 .form-row,
 .manager-row {
@@ -310,6 +305,46 @@ select {
 .form-row span:first-child,
 .manager-row span:first-child {
   color: var(--muted);
+}
+
+.tabbed-block {
+  display: grid;
+  gap: 10px;
+}
+
+.card-tabs {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 8px;
+  padding: 6px;
+  background: rgba(7, 14, 28, 0.55);
+  border: 1px solid var(--border);
+  border-radius: 16px;
+}
+
+.card-tab {
+  appearance: none;
+  border: 1px solid transparent;
+  background: transparent;
+  color: var(--muted);
+  padding: 10px 12px;
+  border-radius: 12px;
+  font-weight: 700;
+  cursor: pointer;
+}
+
+.card-tab.is-active {
+  background: rgba(110, 168, 255, 0.14);
+  border-color: rgba(110, 168, 255, 0.28);
+  color: var(--text);
+}
+
+.tab-panel {
+  display: none;
+}
+
+.tab-panel.is-active {
+  display: block;
 }
 
 .form-grid,
@@ -505,11 +540,16 @@ summary::-webkit-details-marker {
     font-size: 15px;
   }
 
-  .stats-grid,
-  .form-grid,
-  .manager-grid {
-    grid-template-columns: 1fr;
-    gap: 8px;
+  .card-tabs {
+    gap: 6px;
+    padding: 5px;
+    border-radius: 14px;
+  }
+
+  .card-tab {
+    padding: 8px 10px;
+    border-radius: 10px;
+    font-size: 12px;
   }
 
   .stat-row,
@@ -518,6 +558,12 @@ summary::-webkit-details-marker {
     padding: 4px 0;
     font-size: 12px;
     gap: 6px;
+  }
+
+  .form-grid,
+  .manager-grid {
+    grid-template-columns: 1fr;
+    gap: 8px;
   }
 
   summary {
