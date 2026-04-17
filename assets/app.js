@@ -28,6 +28,21 @@ const decimal = (value, digits = 2) => value == null || Number.isNaN(Number(valu
   ? "—"
   : Number(value).toFixed(digits);
 
+const toNumeric = (value) => {
+  const numeric = Number(value);
+  return Number.isFinite(numeric) ? numeric : null;
+};
+
+const underFromOver = (value) => {
+  const numeric = toNumeric(value);
+  return numeric == null ? null : 100 - numeric;
+};
+
+const sumProbabilities = (...values) => {
+  const parsed = values.map(toNumeric);
+  return parsed.some((value) => value == null) ? null : parsed.reduce((acc, value) => acc + value, 0);
+};
+
 function formatDate(value) {
   if (!value) return "—";
   try {
@@ -45,39 +60,13 @@ function setStatus(message) {
   els.statusMessage.textContent = message;
 }
 
-async function loadFeed() {
-  setStatus("Se descarcă feed-ul local generat de workflow...");
-  try {
-    const response = await fetch(`./data/feed.json?v=${Date.now()}`, { cache: "no-store" });
-    if (!response.ok) {
-      throw new Error(`Nu s-a putut citi data/feed.json (${response.status}).`);
-    }
-
-    state.feed = await response.json();
-    hydrateLeagueOptions();
-    applyFilters();
-
-    const generatedAt = state.feed?.generated_at
-      ? formatDate(state.feed.generated_at)
-      : "necunoscut";
-
-    setStatus(`Feed încărcat. Ultima actualizare: ${generatedAt}.`);
-  } catch (error) {
-    console.error(error);
-    state.feed = null;
-    els.metaGrid.innerHTML = "";
-    els.matchesGrid.innerHTML = `<div class="empty-state">${error.message}</div>`;
-    setStatus("Eroare la încărcarea feed-ului. Verifică dacă workflow-ul a generat fișierul JSON.");
-  }
-}
-
-function hydrateLeagueOptions() {
-  const items = state.feed?.items ?? [];
-  const leagues = [...new Set(items.map((item) => getLeagueLabel(item)).filter(Boolean))].sort((a, b) => a.localeCompare(b, "ro"));
-
-  els.leagueFilter.innerHTML = `<option value="">Toate ligile</option>${leagues
-    .map((league) => `<option value="${escapeHtml(league)}">${escapeHtml(league)}</option>`)
-    .join("")}`;
+function escapeHtml(value) {
+  return String(value ?? "")
+    .replaceAll("&", "&amp;")
+    .replaceAll("<", "&lt;")
+    .replaceAll(">", "&gt;")
+    .replaceAll('"', "&quot;")
+    .replaceAll("'", "&#39;");
 }
 
 function getLeagueLabel(item) {
@@ -102,83 +91,40 @@ function getOver25(item) {
   return Number(item?.prediction?.prob_over_25 ?? 0);
 }
 
-function escapeHtml(value) {
-  return String(value ?? "")
-    .replaceAll("&", "&amp;")
-    .replaceAll("<", "&lt;")
-    .replaceAll(">", "&gt;")
-    .replaceAll('"', "&quot;")
-    .replaceAll("'", "&#39;");
+function getPredictedProbability(prediction) {
+  const raw = String(prediction?.predicted_result || "").trim().toLowerCase();
+
+  if (["1", "home", "home_win", "gazde", "h"].includes(raw)) return toNumeric(prediction?.prob_home_win);
+  if (["x", "draw", "egal", "d"].includes(raw)) return toNumeric(prediction?.prob_draw);
+  if (["2", "away", "away_win", "oaspeți", "oaspeti", "a"].includes(raw)) return toNumeric(prediction?.prob_away_win);
+
+  const max1x2 = Math.max(
+    toNumeric(prediction?.prob_home_win) ?? -Infinity,
+    toNumeric(prediction?.prob_draw) ?? -Infinity,
+    toNumeric(prediction?.prob_away_win) ?? -Infinity,
+  );
+
+  return Number.isFinite(max1x2) && max1x2 > -Infinity ? max1x2 : toNumeric(prediction?.favorite_prob);
 }
 
-function computeMeta(items) {
-  const summary = state.feed?.summary || {};
-  const avgConfidence = items.length
-    ? items.reduce((acc, item) => acc + getConfidence(item), 0) / items.length
-    : 0;
+function row(label, value) {
+  return `<div class="stat-row"><span>${escapeHtml(label)}</span><strong>${escapeHtml(value ?? "—")}</strong></div>`;
+}
 
-  return [
-    { label: "Meciuri în feed", value: items.length },
-    { label: "Ligi", value: new Set(items.map(getLeagueLabel).filter(Boolean)).size },
-    { label: "Confidence medie", value: `${number(avgConfidence * 100, 1)}%` },
-    { label: "Winner recommend", value: summary.winner_recommend ?? 0 },
-    { label: "Over 2.5 recommend", value: summary.over_25_recommend ?? 0 },
-    { label: "BTTS recommend", value: summary.btts_recommend ?? 0 },
+function recommendationTags(prediction) {
+  const mapping = [
+    [prediction.favorite_recommend, "Favorite"],
+    [prediction.over_15_recommend, "Over 1.5"],
+    [prediction.over_25_recommend, "Over 2.5"],
+    [prediction.over_35_recommend, "Over 3.5"],
+    [prediction.btts_recommend, "BTTS"],
+    [prediction.winner_recommend, "Winner"],
   ];
-}
 
-function renderMeta(items) {
-  els.metaGrid.innerHTML = computeMeta(items)
-    .map((item) => `
-      <article class="meta-item">
-        <span class="meta-label">${escapeHtml(item.label)}</span>
-        <strong class="meta-value">${escapeHtml(item.value)}</strong>
-      </article>
-    `)
-    .join("");
-}
-
-function applyFilters() {
-  const items = [...(state.feed?.items ?? [])];
-  const query = state.search.trim().toLowerCase();
-
-  let filtered = items.filter((item) => {
-    const haystack = [
-      item?.prediction?.event?.home_team,
-      item?.prediction?.event?.away_team,
-      item?.event_detail?.home_team,
-      item?.event_detail?.away_team,
-      getLeagueLabel(item),
-    ]
-      .filter(Boolean)
-      .join(" ")
-      .toLowerCase();
-
-    const leagueOk = !state.league || getLeagueLabel(item) === state.league;
-    const searchOk = !query || haystack.includes(query);
-
-    return leagueOk && searchOk;
-  });
-
-  filtered.sort((a, b) => {
-    switch (state.sort) {
-      case "dateDesc":
-        return new Date(getKickoff(b) || 0) - new Date(getKickoff(a) || 0);
-      case "confidenceDesc":
-        return getConfidence(b) - getConfidence(a);
-      case "homeWinDesc":
-        return getHomeWin(b) - getHomeWin(a);
-      case "over25Desc":
-        return getOver25(b) - getOver25(a);
-      case "dateAsc":
-      default:
-        return new Date(getKickoff(a) || 0) - new Date(getKickoff(b) || 0);
-    }
-  });
-
-  state.filteredItems = filtered;
-  renderMeta(filtered);
-  renderMatches(filtered);
+  return mapping
+    .filter(([active]) => Boolean(active))
+    .map(([, label]) => `<span class="rec-tag">${escapeHtml(label)}</span>`)
+    .join("") || `<span class="tag warn">Nicio recomandare automată</span>`;
 }
 
 function formRows(title, form) {
@@ -206,9 +152,6 @@ function formRows(title, form) {
       ${row("Pe poartă", number(form.avg_shots_on_target))}
       ${row("Pass accuracy", percent(form.avg_pass_accuracy))}
       ${row("Goal conversion", percent(form.goal_conversion_rate))}
-      ${row("Defensive efficiency", percent(form.defensive_efficiency))}
-      ${row("Duel win rate", percent(form.duel_win_rate))}
-      ${row("Aerial win rate", percent(form.aerial_win_rate))}
     </article>
   `;
 }
@@ -229,11 +172,9 @@ function managerRows(title, manager) {
       ${row("Manager", manager.name || "—")}
       ${row("Profil", manager.profile || "—")}
       ${row("Stil", manager.team_style || "—")}
-      ${row("Formație preferată", manager.preferred_formation || "—")}
+      ${row("Formație", manager.preferred_formation || "—")}
       ${row("Meciuri", manager.matches_total)}
       ${row("Win %", percent(manager.win_pct))}
-      ${row("Goluri marcate", number(manager.avg_goals_scored))}
-      ${row("Goluri primite", number(manager.avg_goals_conceded))}
       ${row("xG for", number(manager.avg_xg_for))}
       ${row("xG against", number(manager.avg_xg_against))}
       ${row("BTTS %", percent(manager.btts_pct))}
@@ -244,24 +185,40 @@ function managerRows(title, manager) {
   `;
 }
 
-function row(label, value) {
-  return `<div class="stat-row"><span>${escapeHtml(label)}</span><strong>${escapeHtml(value ?? "—")}</strong></div>`;
+function computeMeta(items) {
+  const summary = state.feed?.summary || {};
+  const avgConfidence = items.length
+    ? items.reduce((acc, item) => acc + getConfidence(item), 0) / items.length
+    : 0;
+
+  return [
+    { label: "Meciuri în feed", value: items.length },
+    { label: "Ligi", value: new Set(items.map(getLeagueLabel).filter(Boolean)).size },
+    { label: "Confidence model medie", value: `${number(avgConfidence * 100, 1)}%` },
+    { label: "Winner recommend", value: summary.winner_recommend ?? 0 },
+    { label: "Over 2.5 recommend", value: summary.over_25_recommend ?? 0 },
+    { label: "BTTS recommend", value: summary.btts_recommend ?? 0 },
+  ];
 }
 
-function recommendationTags(prediction) {
-  const mapping = [
-    [prediction.favorite_recommend, "Favorite"],
-    [prediction.over_15_recommend, "Over 1.5"],
-    [prediction.over_25_recommend, "Over 2.5"],
-    [prediction.over_35_recommend, "Over 3.5"],
-    [prediction.btts_recommend, "BTTS"],
-    [prediction.winner_recommend, "Winner (no draw)"],
-  ];
+function renderMeta(items) {
+  els.metaGrid.innerHTML = computeMeta(items)
+    .map((item) => `
+      <article class="meta-item">
+        <span class="meta-label">${escapeHtml(item.label)}</span>
+        <strong class="meta-value">${escapeHtml(item.value)}</strong>
+      </article>
+    `)
+    .join("");
+}
 
-  return mapping
-    .filter(([active]) => Boolean(active))
-    .map(([, label]) => `<span class="rec-tag">${escapeHtml(label)}</span>`)
-    .join("") || `<span class="tag warn">Fără recommendation flag</span>`;
+function hydrateLeagueOptions() {
+  const items = state.feed?.items ?? [];
+  const leagues = [...new Set(items.map(getLeagueLabel).filter(Boolean))].sort((a, b) => a.localeCompare(b, "ro"));
+
+  els.leagueFilter.innerHTML = `<option value="">Toate ligile</option>${leagues
+    .map((league) => `<option value="${escapeHtml(league)}">${escapeHtml(league)}</option>`)
+    .join("")}`;
 }
 
 function renderMatches(items) {
@@ -277,7 +234,14 @@ function renderMatches(items) {
     const homeManager = item.managers?.home || null;
     const awayManager = item.managers?.away || null;
     const confidencePct = getConfidence(item) * 100;
-
+    const predictedProbability = getPredictedProbability(prediction);
+    const prob1X = sumProbabilities(prediction.prob_home_win, prediction.prob_draw);
+    const probX2 = sumProbabilities(prediction.prob_away_win, prediction.prob_draw);
+    const prob12 = sumProbabilities(prediction.prob_home_win, prediction.prob_away_win);
+    const under15 = underFromOver(prediction.prob_over_15);
+    const under25 = underFromOver(prediction.prob_over_25);
+    const under35 = underFromOver(prediction.prob_over_35);
+    const bttsNo = underFromOver(prediction.prob_btts_yes);
     const resultTagClass = confidencePct >= 70 ? "" : confidencePct >= 55 ? "warn" : "danger";
 
     return `
@@ -298,36 +262,34 @@ function renderMatches(items) {
         </div>
 
         <div class="tags-row">
-          <span class="tag ${resultTagClass}">Confidence ${escapeHtml(number(confidencePct, 1))}%</span>
+          <span class="tag ${resultTagClass}">Confidence model ${escapeHtml(number(confidencePct, 1))}%</span>
+          <span class="tag">Prob. rezultat ${escapeHtml(percent(predictedProbability))}</span>
           <span class="tag">Favorite: ${escapeHtml(prediction.favorite || "—")}</span>
-          <span class="tag">Prob. favorite: ${escapeHtml(percent(prediction.favorite_prob))}</span>
           <span class="tag">Model ${escapeHtml(prediction.model_version || "—")}</span>
         </div>
 
         <div class="mini-grid">
-          <div class="mini-card">
-            <div class="mini-label">Home win</div>
-            <div class="mini-value">${escapeHtml(percent(prediction.prob_home_win))}</div>
-          </div>
-          <div class="mini-card">
-            <div class="mini-label">Draw</div>
-            <div class="mini-value">${escapeHtml(percent(prediction.prob_draw))}</div>
-          </div>
-          <div class="mini-card">
-            <div class="mini-label">Away win</div>
-            <div class="mini-value">${escapeHtml(percent(prediction.prob_away_win))}</div>
-          </div>
+          <div class="mini-card"><div class="mini-label">1</div><div class="mini-value">${escapeHtml(percent(prediction.prob_home_win))}</div></div>
+          <div class="mini-card"><div class="mini-label">X</div><div class="mini-value">${escapeHtml(percent(prediction.prob_draw))}</div></div>
+          <div class="mini-card"><div class="mini-label">2</div><div class="mini-value">${escapeHtml(percent(prediction.prob_away_win))}</div></div>
+          <div class="mini-card"><div class="mini-label">1X</div><div class="mini-value">${escapeHtml(percent(prob1X))}</div></div>
+          <div class="mini-card"><div class="mini-label">X2</div><div class="mini-value">${escapeHtml(percent(probX2))}</div></div>
+          <div class="mini-card"><div class="mini-label">12</div><div class="mini-value">${escapeHtml(percent(prob12))}</div></div>
         </div>
 
         <div class="stats-grid">
           <article class="stat-block">
-            <div class="stat-title">Expected goals din prediction</div>
+            <div class="stat-title">Predicții model</div>
             ${row("xG gazde", number(prediction.expected_home_goals))}
             ${row("xG oaspeți", number(prediction.expected_away_goals))}
             ${row("Over 1.5", percent(prediction.prob_over_15))}
+            ${row("Under 1.5", percent(under15))}
             ${row("Over 2.5", percent(prediction.prob_over_25))}
+            ${row("Under 2.5", percent(under25))}
             ${row("Over 3.5", percent(prediction.prob_over_35))}
+            ${row("Under 3.5", percent(under35))}
             ${row("BTTS yes", percent(prediction.prob_btts_yes))}
+            ${row("BTTS no", percent(bttsNo))}
           </article>
 
           <article class="stat-block">
@@ -381,6 +343,65 @@ function renderMatches(items) {
   }).join("");
 }
 
+function applyFilters() {
+  const items = [...(state.feed?.items ?? [])];
+  const query = state.search.trim().toLowerCase();
+
+  const filtered = items.filter((item) => {
+    const haystack = [
+      item?.prediction?.event?.home_team,
+      item?.prediction?.event?.away_team,
+      item?.event_detail?.home_team,
+      item?.event_detail?.away_team,
+      getLeagueLabel(item),
+    ].filter(Boolean).join(" ").toLowerCase();
+
+    const leagueOk = !state.league || getLeagueLabel(item) === state.league;
+    const searchOk = !query || haystack.includes(query);
+    return leagueOk && searchOk;
+  });
+
+  filtered.sort((a, b) => {
+    switch (state.sort) {
+      case "dateDesc":
+        return new Date(getKickoff(b) || 0) - new Date(getKickoff(a) || 0);
+      case "confidenceDesc":
+        return getConfidence(b) - getConfidence(a);
+      case "homeWinDesc":
+        return getHomeWin(b) - getHomeWin(a);
+      case "over25Desc":
+        return getOver25(b) - getOver25(a);
+      default:
+        return new Date(getKickoff(a) || 0) - new Date(getKickoff(b) || 0);
+    }
+  });
+
+  state.filteredItems = filtered;
+  renderMeta(filtered);
+  renderMatches(filtered);
+}
+
+async function loadFeed() {
+  setStatus("Se descarcă feed-ul local generat de workflow...");
+  try {
+    const response = await fetch(`./data/feed.json?v=${Date.now()}`, { cache: "no-store" });
+    if (!response.ok) throw new Error(`Nu s-a putut citi data/feed.json (${response.status}).`);
+
+    state.feed = await response.json();
+    hydrateLeagueOptions();
+    applyFilters();
+
+    const generatedAt = state.feed?.generated_at ? formatDate(state.feed.generated_at) : "necunoscut";
+    setStatus(`Feed încărcat. Ultima actualizare: ${generatedAt}.`);
+  } catch (error) {
+    console.error(error);
+    state.feed = null;
+    els.metaGrid.innerHTML = "";
+    els.matchesGrid.innerHTML = `<div class="empty-state">${error.message}</div>`;
+    setStatus("Eroare la încărcarea feed-ului. Verifică dacă workflow-ul a generat fișierul JSON.");
+  }
+}
+
 els.searchInput.addEventListener("input", (event) => {
   state.search = event.target.value;
   applyFilters();
@@ -396,8 +417,6 @@ els.sortSelect.addEventListener("change", (event) => {
   applyFilters();
 });
 
-els.refreshButton.addEventListener("click", () => {
-  loadFeed();
-});
+els.refreshButton.addEventListener("click", loadFeed);
 
 loadFeed();
