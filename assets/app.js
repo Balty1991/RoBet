@@ -80,7 +80,9 @@ function getKickoff(item) {
 }
 
 function getConfidence(item) {
-  return Number(item?.prediction?.confidence ?? 0);
+  const raw = toNumeric(item?.prediction?.confidence);
+  if (raw == null) return 0;
+  return raw <= 1 ? raw * 100 : raw;
 }
 
 function getHomeWin(item) {
@@ -107,8 +109,8 @@ function getPredictedProbability(prediction) {
   return Number.isFinite(max1x2) && max1x2 > -Infinity ? max1x2 : toNumeric(prediction?.favorite_prob);
 }
 
-function row(label, value) {
-  return `<div class="stat-row"><span>${escapeHtml(label)}</span><strong>${escapeHtml(value ?? "—")}</strong></div>`;
+function row(label, value, valueClass = "") {
+  return `<div class="stat-row"><span>${escapeHtml(label)}</span><strong class="${escapeHtml(valueClass)}">${escapeHtml(value ?? "—")}</strong></div>`;
 }
 
 function recommendationTags(prediction) {
@@ -187,14 +189,15 @@ function managerRows(title, manager) {
 
 function computeMeta(items) {
   const summary = state.feed?.summary || {};
-  const avgConfidence = items.length
-    ? items.reduce((acc, item) => acc + getConfidence(item), 0) / items.length
+  const confidenceValues = items.map(getConfidence).filter((value) => Number.isFinite(value));
+  const avgConfidence = confidenceValues.length
+    ? confidenceValues.reduce((acc, value) => acc + value, 0) / confidenceValues.length
     : 0;
 
   return [
     { label: "Meciuri în feed", value: items.length },
     { label: "Ligi", value: new Set(items.map(getLeagueLabel).filter(Boolean)).size },
-    { label: "Confidence model medie", value: `${number(avgConfidence * 100, 1)}%` },
+    { label: "Confidence model medie", value: `${number(avgConfidence, 1)}%` },
     { label: "Winner recommend", value: summary.winner_recommend ?? 0 },
     { label: "Over 2.5 recommend", value: summary.over_25_recommend ?? 0 },
     { label: "BTTS recommend", value: summary.btts_recommend ?? 0 },
@@ -233,7 +236,7 @@ function renderMatches(items) {
     const h2h = event.head_to_head;
     const homeManager = item.managers?.home || null;
     const awayManager = item.managers?.away || null;
-    const confidencePct = getConfidence(item) * 100;
+    const confidencePct = getConfidence(item);
     const predictedProbability = getPredictedProbability(prediction);
     const prob1X = sumProbabilities(prediction.prob_home_win, prediction.prob_draw);
     const probX2 = sumProbabilities(prediction.prob_away_win, prediction.prob_draw);
@@ -244,6 +247,10 @@ function renderMatches(items) {
     const bttsNo = underFromOver(prediction.prob_btts_yes);
     const resultTagClass = confidencePct >= 70 ? "" : confidencePct >= 55 ? "warn" : "danger";
     const tabBase = `match-${item.event_id || prediction.id || index}`;
+
+    const overMax = Math.max(...[prediction.prob_over_15, prediction.prob_over_25, prediction.prob_over_35].map((value) => toNumeric(value) ?? -Infinity));
+    const underMax = Math.max(...[under35, under25, under15].map((value) => toNumeric(value) ?? -Infinity));
+    const bttsMax = Math.max(...[prediction.prob_btts_yes, bttsNo].map((value) => toNumeric(value) ?? -Infinity));
 
     return `
       <article class="match-card">
@@ -287,16 +294,23 @@ function renderMatches(items) {
           <div class="tab-panel is-active" data-tab-panel="${tabBase}-pred">
             <article class="stat-block">
               <div class="stat-title">Predicții model</div>
+              <div class="subgroup-label">xG echipe</div>
               ${row("xG gazde", number(prediction.expected_home_goals))}
               ${row("xG oaspeți", number(prediction.expected_away_goals))}
-              ${row("Over 1.5", percent(prediction.prob_over_15))}
-              ${row("Under 1.5", percent(under15))}
-              ${row("Over 2.5", percent(prediction.prob_over_25))}
-              ${row("Under 2.5", percent(under25))}
-              ${row("Over 3.5", percent(prediction.prob_over_35))}
-              ${row("Under 3.5", percent(under35))}
-              ${row("BTTS yes", percent(prediction.prob_btts_yes))}
-              ${row("BTTS no", percent(bttsNo))}
+
+              <div class="subgroup-label">Over</div>
+              ${row("Over 1.5", percent(prediction.prob_over_15), toNumeric(prediction.prob_over_15) === overMax ? "prob-top" : "")}
+              ${row("Over 2.5", percent(prediction.prob_over_25), toNumeric(prediction.prob_over_25) === overMax ? "prob-top" : "")}
+              ${row("Over 3.5", percent(prediction.prob_over_35), toNumeric(prediction.prob_over_35) === overMax ? "prob-top" : "")}
+
+              <div class="subgroup-label">Under</div>
+              ${row("Under 3.5", percent(under35), toNumeric(under35) === underMax ? "prob-top" : "")}
+              ${row("Under 2.5", percent(under25), toNumeric(under25) === underMax ? "prob-top" : "")}
+              ${row("Under 1.5", percent(under15), toNumeric(under15) === underMax ? "prob-top" : "")}
+
+              <div class="subgroup-label">BTTS</div>
+              ${row("BTTS yes", percent(prediction.prob_btts_yes), toNumeric(prediction.prob_btts_yes) === bttsMax ? "prob-top" : "")}
+              ${row("BTTS no", percent(bttsNo), toNumeric(bttsNo) === bttsMax ? "prob-top" : "")}
             </article>
           </div>
 
