@@ -227,7 +227,7 @@ function renderMatches(items) {
     return;
   }
 
-  els.matchesGrid.innerHTML = items.map((item) => {
+  els.matchesGrid.innerHTML = items.map((item, index) => {
     const prediction = item.prediction || {};
     const event = item.event_detail || prediction.event || {};
     const h2h = event.head_to_head;
@@ -243,6 +243,7 @@ function renderMatches(items) {
     const under35 = underFromOver(prediction.prob_over_35);
     const bttsNo = underFromOver(prediction.prob_btts_yes);
     const resultTagClass = confidencePct >= 70 ? "" : confidencePct >= 55 ? "warn" : "danger";
+    const tabBase = `match-${item.event_id || prediction.id || index}`;
 
     return `
       <article class="match-card">
@@ -277,34 +278,43 @@ function renderMatches(items) {
           <div class="mini-card"><div class="mini-label">12</div><div class="mini-value">${escapeHtml(percent(prob12))}</div></div>
         </div>
 
-        <div class="stats-grid">
-          <article class="stat-block">
-            <div class="stat-title">Predicții model</div>
-            ${row("xG gazde", number(prediction.expected_home_goals))}
-            ${row("xG oaspeți", number(prediction.expected_away_goals))}
-            ${row("Over 1.5", percent(prediction.prob_over_15))}
-            ${row("Under 1.5", percent(under15))}
-            ${row("Over 2.5", percent(prediction.prob_over_25))}
-            ${row("Under 2.5", percent(under25))}
-            ${row("Over 3.5", percent(prediction.prob_over_35))}
-            ${row("Under 3.5", percent(under35))}
-            ${row("BTTS yes", percent(prediction.prob_btts_yes))}
-            ${row("BTTS no", percent(bttsNo))}
-          </article>
+        <div class="tabbed-block">
+          <div class="card-tabs" role="tablist" aria-label="Detalii meci">
+            <button class="card-tab is-active" type="button" data-tab-target="${tabBase}-pred">Predicții</button>
+            <button class="card-tab" type="button" data-tab-target="${tabBase}-event">Cote & meci</button>
+          </div>
 
-          <article class="stat-block">
-            <div class="stat-title">Statistici meci / cote din event</div>
-            ${row("xG actual gazde", number(event.actual_home_xg))}
-            ${row("xG actual oaspeți", number(event.actual_away_xg))}
-            ${row("xG live gazde", number(event.home_xg_live))}
-            ${row("xG live oaspeți", number(event.away_xg_live))}
-            ${row("Odd home", decimal(event.odds_home))}
-            ${row("Odd draw", decimal(event.odds_draw))}
-            ${row("Odd away", decimal(event.odds_away))}
-            ${row("Odd over 2.5", decimal(event.odds_over_25))}
-            ${row("Odd under 2.5", decimal(event.odds_under_25))}
-            ${row("Odd BTTS yes", decimal(event.odds_btts_yes))}
-          </article>
+          <div class="tab-panel is-active" data-tab-panel="${tabBase}-pred">
+            <article class="stat-block">
+              <div class="stat-title">Predicții model</div>
+              ${row("xG gazde", number(prediction.expected_home_goals))}
+              ${row("xG oaspeți", number(prediction.expected_away_goals))}
+              ${row("Over 1.5", percent(prediction.prob_over_15))}
+              ${row("Under 1.5", percent(under15))}
+              ${row("Over 2.5", percent(prediction.prob_over_25))}
+              ${row("Under 2.5", percent(under25))}
+              ${row("Over 3.5", percent(prediction.prob_over_35))}
+              ${row("Under 3.5", percent(under35))}
+              ${row("BTTS yes", percent(prediction.prob_btts_yes))}
+              ${row("BTTS no", percent(bttsNo))}
+            </article>
+          </div>
+
+          <div class="tab-panel" data-tab-panel="${tabBase}-event">
+            <article class="stat-block">
+              <div class="stat-title">Statistici meci / cote din event</div>
+              ${row("xG actual gazde", number(event.actual_home_xg))}
+              ${row("xG actual oaspeți", number(event.actual_away_xg))}
+              ${row("xG live gazde", number(event.home_xg_live))}
+              ${row("xG live oaspeți", number(event.away_xg_live))}
+              ${row("Odd home", decimal(event.odds_home))}
+              ${row("Odd draw", decimal(event.odds_draw))}
+              ${row("Odd away", decimal(event.odds_away))}
+              ${row("Odd over 2.5", decimal(event.odds_over_25))}
+              ${row("Odd under 2.5", decimal(event.odds_under_25))}
+              ${row("Odd BTTS yes", decimal(event.odds_btts_yes))}
+            </article>
+          </div>
         </div>
 
         <div class="rec-row">
@@ -418,5 +428,23 @@ els.sortSelect.addEventListener("change", (event) => {
 });
 
 els.refreshButton.addEventListener("click", loadFeed);
+
+els.matchesGrid.addEventListener("click", (event) => {
+  const button = event.target.closest(".card-tab");
+  if (!button) return;
+
+  const wrapper = button.closest(".tabbed-block");
+  if (!wrapper) return;
+
+  const target = button.dataset.tabTarget;
+
+  wrapper.querySelectorAll(".card-tab").forEach((tab) => {
+    tab.classList.toggle("is-active", tab === button);
+  });
+
+  wrapper.querySelectorAll(".tab-panel").forEach((panel) => {
+    panel.classList.toggle("is-active", panel.dataset.tabPanel === target);
+  });
+});
 
 loadFeed();
