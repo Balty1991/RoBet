@@ -350,7 +350,7 @@ function renderMatches(items) {
         </div>
 
         <details>
-          <summary>Formă, H2H, manageri și date brute</summary>
+          <summary>Formă, H2H și manageri</summary>
           <div class="details-content">
             <div class="form-grid">
               ${formRows(`Formă gazde • ${event.home_team || prediction.event?.home_team || ""}`, event.home_form)}
@@ -374,11 +374,6 @@ function renderMatches(items) {
               ${managerRows(`Manager gazde • ${event.home_team || prediction.event?.home_team || ""}`, homeManager)}
               ${managerRows(`Manager oaspeți • ${event.away_team || prediction.event?.away_team || ""}`, awayManager)}
             </div>
-
-            <article class="raw-block">
-              <div class="raw-title">Date brute API pentru acest meci</div>
-              <pre>${escapeHtml(JSON.stringify(item, null, 2))}</pre>
-            </article>
           </div>
         </details>
       </article>
