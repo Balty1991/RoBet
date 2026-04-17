@@ -307,6 +307,20 @@ select {
   color: var(--muted);
 }
 
+.prob-top {
+  color: #87f5ad;
+  font-weight: 800;
+}
+
+.subgroup-label {
+  margin: 12px 0 6px;
+  font-size: 11px;
+  font-weight: 800;
+  color: var(--accent-2);
+  text-transform: uppercase;
+  letter-spacing: 0.04em;
+}
+
 .tabbed-block {
   display: grid;
   gap: 10px;
@@ -538,6 +552,11 @@ summary::-webkit-details-marker {
 
   .mini-value {
     font-size: 15px;
+  }
+
+  .subgroup-label {
+    margin: 10px 0 5px;
+    font-size: 10px;
   }
 
   .card-tabs {
