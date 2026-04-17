@@ -113,6 +113,15 @@ function row(label, value, valueClass = "") {
   return `<div class="stat-row"><span>${escapeHtml(label)}</span><strong class="${escapeHtml(valueClass)}">${escapeHtml(value ?? "—")}</strong></div>`;
 }
 
+function miniCard(label, value, isTop = false) {
+  return `
+    <div class="mini-card ${isTop ? "top-choice" : ""}">
+      <div class="mini-label">${escapeHtml(label)}</div>
+      <div class="mini-value">${escapeHtml(percent(value))}</div>
+    </div>
+  `;
+}
+
 function recommendationTags(prediction) {
   const mapping = [
     [prediction.favorite_recommend, "Favorite"],
@@ -248,9 +257,30 @@ function renderMatches(items) {
     const resultTagClass = confidencePct >= 70 ? "" : confidencePct >= 55 ? "warn" : "danger";
     const tabBase = `match-${item.event_id || prediction.id || index}`;
 
+    const top1X2 = Math.max(...[prediction.prob_home_win, prediction.prob_draw, prediction.prob_away_win].map((value) => toNumeric(value) ?? -Infinity));
+    const topDouble = Math.max(...[prob1X, probX2, prob12].map((value) => toNumeric(value) ?? -Infinity));
     const overMax = Math.max(...[prediction.prob_over_15, prediction.prob_over_25, prediction.prob_over_35].map((value) => toNumeric(value) ?? -Infinity));
     const underMax = Math.max(...[under35, under25, under15].map((value) => toNumeric(value) ?? -Infinity));
     const bttsMax = Math.max(...[prediction.prob_btts_yes, bttsNo].map((value) => toNumeric(value) ?? -Infinity));
+
+    const marketOptions = [
+      { label: "1", value: toNumeric(prediction.prob_home_win) },
+      { label: "X", value: toNumeric(prediction.prob_draw) },
+      { label: "2", value: toNumeric(prediction.prob_away_win) },
+      { label: "1X", value: toNumeric(prob1X) },
+      { label: "X2", value: toNumeric(probX2) },
+      { label: "12", value: toNumeric(prob12) },
+      { label: "Over 1.5", value: toNumeric(prediction.prob_over_15) },
+      { label: "Over 2.5", value: toNumeric(prediction.prob_over_25) },
+      { label: "Over 3.5", value: toNumeric(prediction.prob_over_35) },
+      { label: "Under 3.5", value: toNumeric(under35) },
+      { label: "Under 2.5", value: toNumeric(under25) },
+      { label: "Under 1.5", value: toNumeric(under15) },
+      { label: "BTTS yes", value: toNumeric(prediction.prob_btts_yes) },
+      { label: "BTTS no", value: toNumeric(bttsNo) },
+    ].filter((itemOption) => itemOption.value != null);
+
+    const bestMarket = marketOptions.sort((a, b) => b.value - a.value)[0] || null;
 
     return `
       <article class="match-card">
@@ -276,13 +306,18 @@ function renderMatches(items) {
           <span class="tag">Model ${escapeHtml(prediction.model_version || "—")}</span>
         </div>
 
+        <div class="top-pick">
+          <span class="top-pick-label">Pronostic recomandat</span>
+          <strong class="top-pick-value">${escapeHtml(bestMarket ? `${bestMarket.label} • ${number(bestMarket.value, 1)}%` : "—")}</strong>
+        </div>
+
         <div class="mini-grid">
-          <div class="mini-card"><div class="mini-label">1</div><div class="mini-value">${escapeHtml(percent(prediction.prob_home_win))}</div></div>
-          <div class="mini-card"><div class="mini-label">X</div><div class="mini-value">${escapeHtml(percent(prediction.prob_draw))}</div></div>
-          <div class="mini-card"><div class="mini-label">2</div><div class="mini-value">${escapeHtml(percent(prediction.prob_away_win))}</div></div>
-          <div class="mini-card"><div class="mini-label">1X</div><div class="mini-value">${escapeHtml(percent(prob1X))}</div></div>
-          <div class="mini-card"><div class="mini-label">X2</div><div class="mini-value">${escapeHtml(percent(probX2))}</div></div>
-          <div class="mini-card"><div class="mini-label">12</div><div class="mini-value">${escapeHtml(percent(prob12))}</div></div>
+          ${miniCard("1", prediction.prob_home_win, toNumeric(prediction.prob_home_win) === top1X2)}
+          ${miniCard("X", prediction.prob_draw, toNumeric(prediction.prob_draw) === top1X2)}
+          ${miniCard("2", prediction.prob_away_win, toNumeric(prediction.prob_away_win) === top1X2)}
+          ${miniCard("1X", prob1X, toNumeric(prob1X) === topDouble)}
+          ${miniCard("X2", probX2, toNumeric(probX2) === topDouble)}
+          ${miniCard("12", prob12, toNumeric(prob12) === topDouble)}
         </div>
 
         <div class="tabbed-block">
