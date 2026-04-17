@@ -137,7 +137,7 @@ function createSummary(items) {
   return {
     total_matches: items.length,
     total_leagues: leagues.size,
-    average_confidence,
+    average_confidence: averageConfidence,
     favorite_recommend: countRecommend("favorite_recommend"),
     over_15_recommend: countRecommend("over_15_recommend"),
     over_25_recommend: countRecommend("over_25_recommend"),
