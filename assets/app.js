@@ -107,15 +107,21 @@ function getBestMarket(prediction, event, derived) {
     { label: "Under 1.5", prob: toNumeric(derived.under15), odds: toNumeric(event.odds_under_15) },
     { label: "BTTS yes", prob: toNumeric(prediction.prob_btts_yes), odds: toNumeric(event.odds_btts_yes) },
     { label: "BTTS no", prob: toNumeric(derived.bttsNo), odds: toNumeric(event.odds_btts_no) },
-  ].filter((option) => option.prob != null);
+  ]
+    .filter((option) => option.prob != null)
+    .map((option) => ({
+      ...option,
+      evPct: option.odds != null ? ((option.prob / 100) * option.odds - 1) * 100 : null,
+    }));
+
+  const pricedOptions = options.filter((option) => option.odds != null && option.evPct != null);
+  if (pricedOptions.length) {
+    pricedOptions.sort((a, b) => b.evPct - a.evPct);
+    return pricedOptions[0];
+  }
 
   options.sort((a, b) => b.prob - a.prob);
-  const best = options[0] || null;
-  if (!best) return null;
-  return {
-    ...best,
-    evPct: best.odds != null ? ((best.prob / 100) * best.odds - 1) * 100 : null,
-  };
+  return options[0] || null;
 }
 
 function getEvClasses(evPct) {
