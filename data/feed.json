@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-19T12:43:01.220Z",
+  "generated_at": "2026-05-19T16:24:15.219Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -90,17 +90,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.63,
-          "odds_draw": 4.17,
-          "odds_away": 4.83,
+          "odds_home": 1.62,
+          "odds_draw": 4.19,
+          "odds_away": 4.93,
           "odds_over_15": 1.16,
           "odds_over_25": 1.53,
-          "odds_over_35": 2.31,
-          "odds_under_15": 4.82,
-          "odds_under_25": 2.4,
+          "odds_over_35": 2.3,
+          "odds_under_15": 4.85,
+          "odds_under_25": 2.41,
           "odds_under_35": 1.58,
-          "odds_btts_yes": 1.57,
-          "odds_btts_no": 2.28,
+          "odds_btts_yes": 1.58,
+          "odds_btts_no": 2.27,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -365,17 +365,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.63,
-        "odds_draw": 4.17,
-        "odds_away": 4.83,
+        "odds_home": 1.62,
+        "odds_draw": 4.19,
+        "odds_away": 4.93,
         "odds_over_15": 1.16,
         "odds_over_25": 1.53,
-        "odds_over_35": 2.31,
-        "odds_under_15": 4.82,
-        "odds_under_25": 2.4,
+        "odds_over_35": 2.3,
+        "odds_under_15": 4.85,
+        "odds_under_25": 2.41,
         "odds_under_35": 1.58,
-        "odds_btts_yes": 1.57,
-        "odds_btts_no": 2.28,
+        "odds_btts_yes": 1.58,
+        "odds_btts_no": 2.27,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -880,17 +880,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.51,
-          "odds_draw": 4.37,
-          "odds_away": 5.91,
-          "odds_over_15": 1.19,
-          "odds_over_25": 1.61,
-          "odds_over_35": 2.48,
-          "odds_under_15": 4.4,
-          "odds_under_25": 2.26,
-          "odds_under_35": 1.49,
-          "odds_btts_yes": 1.72,
-          "odds_btts_no": 2.04,
+          "odds_home": 1.48,
+          "odds_draw": 4.45,
+          "odds_away": 6.12,
+          "odds_over_15": 1.18,
+          "odds_over_25": 1.59,
+          "odds_over_35": 2.43,
+          "odds_under_15": 4.58,
+          "odds_under_25": 2.3,
+          "odds_under_35": 1.52,
+          "odds_btts_yes": 1.71,
+          "odds_btts_no": 2.05,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -1173,17 +1173,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.51,
-        "odds_draw": 4.37,
-        "odds_away": 5.91,
-        "odds_over_15": 1.19,
-        "odds_over_25": 1.61,
-        "odds_over_35": 2.48,
-        "odds_under_15": 4.4,
-        "odds_under_25": 2.26,
-        "odds_under_35": 1.49,
-        "odds_btts_yes": 1.72,
-        "odds_btts_no": 2.04,
+        "odds_home": 1.48,
+        "odds_draw": 4.45,
+        "odds_away": 6.12,
+        "odds_over_15": 1.18,
+        "odds_over_25": 1.59,
+        "odds_over_35": 2.43,
+        "odds_under_15": 4.58,
+        "odds_under_25": 2.3,
+        "odds_under_35": 1.52,
+        "odds_btts_yes": 1.71,
+        "odds_btts_no": 2.05,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -1711,14 +1711,14 @@
           "odds_home": 2.13,
           "odds_draw": 3.63,
           "odds_away": 3.15,
-          "odds_over_15": 1.21,
-          "odds_over_25": 1.67,
-          "odds_over_35": 2.64,
-          "odds_under_15": 4.15,
-          "odds_under_25": 2.14,
-          "odds_under_35": 1.44,
-          "odds_btts_yes": 1.58,
-          "odds_btts_no": 2.27,
+          "odds_over_15": 1.18,
+          "odds_over_25": 1.59,
+          "odds_over_35": 2.43,
+          "odds_under_15": 4.53,
+          "odds_under_25": 2.29,
+          "odds_under_35": 1.51,
+          "odds_btts_yes": 1.52,
+          "odds_btts_no": 2.42,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -1995,14 +1995,14 @@
         "odds_home": 2.13,
         "odds_draw": 3.63,
         "odds_away": 3.15,
-        "odds_over_15": 1.21,
-        "odds_over_25": 1.67,
-        "odds_over_35": 2.64,
-        "odds_under_15": 4.15,
-        "odds_under_25": 2.14,
-        "odds_under_35": 1.44,
-        "odds_btts_yes": 1.58,
-        "odds_btts_no": 2.27,
+        "odds_over_15": 1.18,
+        "odds_over_25": 1.59,
+        "odds_over_35": 2.43,
+        "odds_under_15": 4.53,
+        "odds_under_25": 2.29,
+        "odds_under_35": 1.51,
+        "odds_btts_yes": 1.52,
+        "odds_btts_no": 2.42,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -2273,7 +2273,20 @@
           ]
         },
         "lineups": null,
-        "social": []
+        "social": [
+          {
+            "id": 155716,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE43SEh6dE96OWhGalB0Wjg0X284dE9TZ0p2NGctME45ZkJVWGV4UTRIX1RJeHV6YUVaMHQ5UHpHQ2ZBdFhDTWpsdmhKa1NqcnZ1OXZicXBPcWE4UXNZakFhZW90UWo?oc=5",
+            "title": "Westerlo vs Standard Liège: Belgian First Division A stats & head-to-head",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "bbc",
+            "account_name": "BBC",
+            "account_verified": false,
+            "published_at": "2026-05-19T16:00:53+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
@@ -2516,17 +2529,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 4.8,
-          "odds_draw": 4.39,
+          "odds_home": 4.83,
+          "odds_draw": 4.37,
           "odds_away": 1.64,
-          "odds_over_15": 1.13,
-          "odds_over_25": 1.45,
-          "odds_over_35": 2.13,
-          "odds_under_15": 5.61,
-          "odds_under_25": 2.7,
-          "odds_under_35": 1.71,
-          "odds_btts_yes": 1.5,
-          "odds_btts_no": 2.49,
+          "odds_over_15": 1.14,
+          "odds_over_25": 1.48,
+          "odds_over_35": 2.2,
+          "odds_under_15": 5.39,
+          "odds_under_25": 2.61,
+          "odds_under_35": 1.67,
+          "odds_btts_yes": 1.53,
+          "odds_btts_no": 2.43,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -2808,17 +2821,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 4.8,
-        "odds_draw": 4.39,
+        "odds_home": 4.83,
+        "odds_draw": 4.37,
         "odds_away": 1.64,
-        "odds_over_15": 1.13,
-        "odds_over_25": 1.45,
-        "odds_over_35": 2.13,
-        "odds_under_15": 5.61,
-        "odds_under_25": 2.7,
-        "odds_under_35": 1.71,
-        "odds_btts_yes": 1.5,
-        "odds_btts_no": 2.49,
+        "odds_over_15": 1.14,
+        "odds_over_25": 1.48,
+        "odds_over_35": 2.2,
+        "odds_under_15": 5.39,
+        "odds_under_25": 2.61,
+        "odds_under_35": 1.67,
+        "odds_btts_yes": 1.53,
+        "odds_btts_no": 2.43,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -3139,7 +3152,248 @@
           ]
         },
         "lineups": null,
-        "social": []
+        "social": [
+          {
+            "id": 155556,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWFIwRzhIRDBuZFJiZjRDZm9iNXpCakljQmFsVTVDQUphMDlyQlgwaUFpUEJnM1hpdHZwRGRaYml4YllBM0VwdklMLUFHaDlBbG9JLThMYS1tTmdYalJCZDJQUTdlODJadnJBM3VGQmhLRkFDTFB0T2QtLVdEUHdyRl85ODc0WXNRdmxiZ3EwdG94RTBaRmlmTFl4UQ?oc=5",
+            "title": "Manchester City face battle with Chelsea over Maresca appointment",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "nogomania",
+            "account_name": "Nogomania",
+            "account_verified": false,
+            "published_at": "2026-05-19T16:08:54+00:00"
+          },
+          {
+            "id": 155531,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPSnFqQkdHWGI2YnR4ZFVoempRMGZKZG8yRlBydVh0WWwxTlhLNVZ4dWtKc3V1alRVMlp6QTBXSHVsdGpYRmh0c0F4dEVrcExvYlNRb014SUcyLXpwU1JCR2t6OFM0WXdKbHhOQUUwSWpBTG5Gd25jM18yblQ3cC1VR2tRdk9SSlNhUXg0TkJGQ1BSNlhFaEF5UUxBT3pma25QRGVZeFV0QTh0U0lVM2FFWTB4a2FrcHNaQWJYTjg0b0ZWV1lXWjlCLdIBzgFBVV95cUxPbU01WTVsTzlPUHJlcTJaWjBScGxzWl9JUkFCb1hVaXhiVlRBcmJzTE5UMmYwUXdhVVBLY1NwSDNuTllTelQxTDBVbWl5emVxRWl2X2dsV2lnSThQNk9aNUR5R1JrN0VyUVdld3ExLWtHdmxmRUJHcmdXRU1mdm9Va0Fva1ZlblZGWmp",
+            "title": "'They've been giving me a lot of c***': Antoine Semenyo reflects on making Bournemouth return with Man City",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "tribuna.com",
+            "account_name": "tribuna.com",
+            "account_verified": false,
+            "published_at": "2026-05-19T16:06:47+00:00"
+          },
+          {
+            "id": 155530,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOU0MxTHhtcnQ0X2FDbk1UVWVTaFYzQjZwSnFLSEptcVcxbVBEZmZYV3haVUgtZThPRFlraWpkQkNyelZhZHpiMHlXYkV2YTZJeXA0TkN1UlVlYzg3WHVVQVRnX1UtVjhXVlViNnJGcWk4ZjlCYUZiN1R6WGxYMEI0VWpNOFpoaHA5NnotM3ZxT0t3bnQ1cVZ0alF1anVBX185bnfSAacBQVVfeXFMTTZkVlpNRUZ4V2VxWU4zcTFuN3hwLVF4OENaN1JZcTlsUXdtWHRURWJlQVRlOF9XTTIzRHNZTzdNLUF0dnA4Z3pEd29jRnMtTUhYS3FKLUxfWmdBU1VTc2NCNGFYODk4SG9nUF8waExqdjVUa0VGcjhQRkFDN2JvX2k5cmpEWVMxM0VnZzNGV1g1LUJxVnFnQ0JpT2ZDUTdvblpXWWJhS3M?oc=5",
+            "title": "Bournemouth extend unbeaten Premier League run to 16 matches",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "tribuna.com",
+            "account_name": "tribuna.com",
+            "account_verified": false,
+            "published_at": "2026-05-19T16:06:46+00:00"
+          },
+          {
+            "id": 155557,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPcFZxVTVvNWdVMkhnRU1oZnBMeGxQc00zTE5DUGtRalRqeExudWU4Y1hpYVNJdTZFbS1BN0d6WUJrM01wc3JZUElYVUMtQ2dGYjdHNTdGWUI4Zk45eUp4NWFmdU04VVM3Z1JEdW1yNFN2Q0lkYXozV3N5MFNDNXhTSmNOd3JFNU0wUGY3UndrUTFCQXotNUgwUHdEbzg4dGVHdFVybC05R0rSAa4BQVVfeXFMUFZ0R2lHOWd1LXdxZmowSnVtMkZsUE5qUlAwYVVnRnUxTEJvSk5qOVFiQ0M3c282Q3RUdTN6Qmd2VWl1LURMX1RZS2JyNmhXVmQwaktJalp4UVdIcFppNHRTcDB4bGxibUhwc1EtbW8zcVQ5X3hmRnh5SlY2eEpsSURKV2N6MGE4TU9tUHkxaEtoNFFETlY4amNMV0hJM2VsM3lTeDU1aWJ4VVc",
+            "title": "Manchester City set to intensify Rodri contract talks",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "thehardtackle.com",
+            "account_name": "TheHardTackle.com",
+            "account_verified": false,
+            "published_at": "2026-05-19T16:03:18+00:00"
+          },
+          {
+            "id": 155527,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOMC05eW80RG82THBYQ1o4NDRlUDJNOWtYVHlaQVpjM1QtZ0hhM2RYdEk1dU96UzQyQ0dmLU1KZS1ycFI0LVljWGhTb1FNd3MxY0FwY21nZ2dSSTd0QzEwcWdwQ2t5YXFQTFJJUW5PS1RjbmY0UEZFQTRDNGNIYkg1ODVmSy1XRnMxeExUWUxTSWd1VnlDZ0JIZFdCX29FU2VlVnBtTFQ1NnJPZ3AxVlRteGJTMWFoVjRWYWJSbHdOamU1bGprV1l3?oc=5",
+            "title": "Bournemouth vs Manchester City Bet Builder Tips: 40/1 punt for crucial Premier League clash",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "betfred insights",
+            "account_name": "Betfred Insights",
+            "account_verified": false,
+            "published_at": "2026-05-19T16:00:17+00:00"
+          },
+          {
+            "id": 155415,
+            "type": "tweet",
+            "url": "https://x.com/ManCity/status/2056766839548428720",
+            "title": "",
+            "text": "Let us know where you’re supporting from tonight! 🫵🌍\n\n🤝 @etihad",
+            "thumbnail": "https://pbs.twimg.com/media/HIsCXtBXwAA9X3W.jpg",
+            "account_handle": "ManCity",
+            "account_name": "Manchester City",
+            "account_verified": true,
+            "published_at": "2026-05-19T16:00:02+00:00"
+          },
+          {
+            "id": 155554,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNnFzRnNOS0xZa1JiblBTZ0VhR2U5SFZTRTloT3pDdFc5MU1pWWtWUHlRdkhvSzc2Ry1tczlTRTEwZ2xOcE1HRXlCV0l2ck1SYWd4VHJnamgyVjBjNHlWUFZueEw4SmN2Yk9feEVQX3NmbExTTE8wR1lvSGcwUXBmR0JEV0ZUSWMyOVE?oc=5",
+            "title": "Chelsea stabs Manchester City in the back",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "foot-africa.com",
+            "account_name": "Foot-Africa.com",
+            "account_verified": false,
+            "published_at": "2026-05-19T16:00:00+00:00"
+          },
+          {
+            "id": 155525,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNdTBtMmhuZHRhT280c3duN1hYUU15Wks2eGY5bVd3d2l6cUxYV3RDOGgyUXlMTWs2RGVZVEVUMmM0SGg2MUZrdjlHQnJMblc5RE9jaFh2YU9wWlZwSVprajlYYjgzUzlrU0lBODdXNjJDempvekZNM1JQOGdMNm1oMmJyOXJOVklPaUJySjhnclF1QlNPWjJtRUJIME1HM0V4OWlfZUdyTmQxMVVOV3c?oc=5",
+            "title": "What TV channel is Bournemouth vs Man City? How to watch, live stream and kick-off time",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "manchester evening news",
+            "account_name": "Manchester Evening News",
+            "account_verified": false,
+            "published_at": "2026-05-19T16:00:00+00:00"
+          },
+          {
+            "id": 155520,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQbFhWVU45YWY1TWhsZ2tFRUZpTHk5eWk2MU0xYmM3TC0yc01Tdy1oUWU5U0wwQnZYTndXQ1RkSVdzX1NwV2hlNzIxc25Nb1dpWlQzMjNvUHZhcVZxVi1mSUFQV1hHVEQzOVZ6aHluMEgzV2ZfYUhXX1IwbDd1aDBpX3FZaXBYQW1Lcl9UUXVWV3JKMXlKZkg4TTJHN1l5WnZGMWRYWGFCYTBHM2JQYTJFVmtXR05zQ2Q0cHo1QW9YVXhLR1dxcEFIcWpZMG1DMkthWVFzanFLZjJwS0NRM0tNd1ptVlRlNHUz?oc=5",
+            "title": "Bournemouth vs Man City Prediction, Betting Pick, Latest Premier League Odds - Tuesday, May 19th",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "oddschecker",
+            "account_name": "Oddschecker",
+            "account_verified": false,
+            "published_at": "2026-05-19T16:00:00+00:00"
+          },
+          {
+            "id": 155529,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNeHQxbDhzOVNsbTNiS1YzaWdjNFBZdnJfYWFPWF9qR19McHFfS1ZsSnA3YWhjVzRlSGpybW1udWU2MVNvbHk5Nm9jVHhIeGNsUzM4dlU2YWp2NlJReGZHbHg2M0JEOHVIRTFsMVJZYjM3QW1jUU9ValJZV2lCVmVoSjVkUHhkZzdicV9vLWMzUkF6ZTI5M3A0Qlpzcy1rUk5MRnlvSmIxRGRGdU0?oc=5",
+            "title": "Bournemouth vs Manchester City Betting Tips, Bet Builder & Odds",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "freebets",
+            "account_name": "FreeBets",
+            "account_verified": false,
+            "published_at": "2026-05-19T16:00:00+00:00"
+          },
+          {
+            "id": 155523,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPY09fRHB6QWlQUjlJdGgyZGhXNkNncDFKNmItTzdRWUdSdDI4bjVoVWY5OUplekdpMmFDcHNIT2V5X3V2aTZzY0xWMjlyZHdjYTUyMC1VTEtBTzladDBGY2kweU52U01wbUJPSEJNY1c4NGJTSmZ0TDhKMWZUU0hwSlk2UUNoZjNTdks3ZkdXYmNEZU11ZGdCWEswVDVXdw?oc=5",
+            "title": "How to watch Bournemouth vs Man City: live streams, TV channels for Premier League 25/26 game",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "tom's guide",
+            "account_name": "Tom's Guide",
+            "account_verified": false,
+            "published_at": "2026-05-19T16:00:00+00:00"
+          },
+          {
+            "id": 155535,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE1vZW1lTWRPVzk2cmhZZEtqMmtKbGxHQ0RGV1duWDJlQ2FCQjVNTkw2WFlTczJrNkZad0ZDVk43eHZmSTFpV1liMVcybkRzOF9tQTR1SDdqRmFQUFhuaklwLUFybnlZTEFYQ2x0OS1NZmxDUdIBd0FVX3lxTE83bUxqRjAyYTk3Z3B4STc0UHhQMFFyNnZHN19XbGFPZEtwMVRhUUhWcXQwQ3FUSl8yb3NvOExVZlY1eTMxamxSWms3aTVaMmktYmFKS2ptb0JKZG5iMEd2Z1paSHFrcVVocGFvcGktTkJuejRkSlhV?oc=5",
+            "title": "2025-26 Premier League prize money: How much will Arsenal or Manchester City make for winning the title?",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "bolavip.com",
+            "account_name": "bolavip.com",
+            "account_verified": false,
+            "published_at": "2026-05-19T15:55:39+00:00"
+          },
+          {
+            "id": 155516,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNaWM2X0lkRWd5Sk15MTZlU2FFbTBrY1pUcG83ejFDNDN0UGR5emdPRWp5YVlQbk8xT2NoQnlMMVM5RzBsZTF6aVRCMnJqR3BSN2hpcm9xeUFuY0xXMEswVmU4SFRWWkJUaWRfbldQODJPOTV1eVJSQzJGdFgxb0phWWx3YVZISTlfR3o1OElIaGJlWGE1d3Y2bVpuUGdXU1FQbXJLXzhFMVFpS0cwdDhj?oc=5",
+            "title": "Bournemouth vs. Man City & Chelsea vs. Spurs Odds, Picks & Predictions for Tuesday EPL",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "hard rock bet",
+            "account_name": "Hard Rock Bet",
+            "account_verified": false,
+            "published_at": "2026-05-19T15:52:00+00:00"
+          },
+          {
+            "id": 155522,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOZnhqdlpTeWFVTC1Eeks2bXFGS3NDREpRMTJnWGIzVENfTFl2WTBncjZ3TTJ3VndaVzNBMHBVQjlvaHMxbVhxeS13TEduWTV4eGszT0ZTX2xrbDdpN19qTzUtUy1KSEdhUVh2SFlJMEN6ZXd6N0NicHk2NmtEekR4dWNqSzg5WHVKaVFMSmJGRFZlSDBRaHpEMXRKY1ZJVnd5NzJyN0lBa3JLQWVhWkd4bExOZ0c2RHN0SkJCMGo0X1g1c2M0UXlQTXh5dFlqM2JlVnRXWHI1NDdHNnM2S2RkSDJuOVJmcW1zU0tB?oc=5",
+            "title": "Bournemouth vs. Manchester City in Premier League: TV channel, kick-off time, live stream, referee, injury and team news",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "espn.in",
+            "account_name": "espn.in",
+            "account_verified": false,
+            "published_at": "2026-05-19T15:49:00+00:00"
+          },
+          {
+            "id": 155558,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPZXdINW1UVjdYWFdPemEzX1RCZmpNV0s5TFZ3MlJOWGM4eE5CcXVSZkZzTlV0Y1NfTzB2OXR3Y2lRMUYxSzNNcTlSOERkR0s1emNSekxHc0gxSFg3cmd0YkFoN3lTaDBpeFo3OExrYkhNRk1UX3d5OWFVTFhaYWJYSE9UWjJnTzDSAYwBQVVfeXFMTnJlNnJEUlNTX1pkQWVuNmhXd19LTVJsUF9JNzFjQTZXbDNnWEFIdjNHTVR2NlBWR2FpcGN6MHZlNE5nNG0xVnZaQUx6WVBJUHQ4dFVFcmRIcW5qQ2V1SURXX2dsWEp0a2I1TjVBeXp2SFA4Nm05WkNEMmU0R0ZLRWRYdk1VcFJPSDMwbU4?oc=5",
+            "title": "Gary Crosby’s Infamous Goal Against Manchester City",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "tribuna.com",
+            "account_name": "tribuna.com",
+            "account_verified": false,
+            "published_at": "2026-05-19T15:42:51+00:00"
+          },
+          {
+            "id": 155552,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNYm1kUXUwMGZDZF9EWk9wNFYyYXdmT21Sb1ZhNjJrRWt0Qm9JRUM3U3hnVHdCcDQ1R3Z5aVBqZV91VG5uYlFPUWxqb0YyS1Q4V3ZWVUFGdVFrTGlwUVBDb3N0MGFjWkZkbVhxUTBFa0FOalVJSUdlRHRUNjBMU2l3a1FfalhHdjU5R1UyZTlVNS05dDEyRHA1NGttazRRMDEwa1NxTmNJLURic2Nfcm5fVHZkZ3pONmdBRVE2QVpPSEVKY0VjdGRibkRIMUdjTHc?oc=5",
+            "title": "Pep Guardiola delivers verdict on Manchester City renaming Etihad Stadium stand in his honour",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "onefootball",
+            "account_name": "OneFootball",
+            "account_verified": false,
+            "published_at": "2026-05-19T15:40:38+00:00"
+          },
+          {
+            "id": 155518,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxPX1VuXzV5cWVaWFRPZ0J1blBsUlVNdXAzU3pyTXc2NzJVTm4zVlZzcDdlWkk3UkJjVVRiLU9rM1AtWnh3QWxrRmRWcGpiOWxTZjZ2RS1Ca24tWjliSnFHZThFYUt0bWZlRzRkUm91RmRaSkpvWnFhcXZyX1hfWFNMYVE5em16VXFrWWlDX1BrQ2tZaFZwUWJwR2U1MzBKYUVXYndFd0lMNTFHdlZRdE9fWFNCVHdqWExFS0JCUngwNV9NeDhrU2R0U0toZEhLUkdLYVRxX3dUVnZzQllMLVlaTUFXRWdzMWJ0OUd4LUtycElSTUttSkE?oc=5",
+            "title": "Arsenal on brink of Premier League title with Man City needing to beat Bournemouth",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "the washington post",
+            "account_name": "The Washington Post",
+            "account_verified": false,
+            "published_at": "2026-05-19T15:35:36+00:00"
+          },
+          {
+            "id": 155550,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNeEtUeHgtQTdPRWUtbUJDcjhUeTBSdXVQbDEtSUZlbmNGcjZWRFF2WjU1ZjFHOHR6RnZTbkdrcmtCYnpXcXM1MEpZUlVSVVlRckJsbVBIaXQ5MkNJTHdjUUNoQjV1dDNqeDNxb1ROaWtXWGVCSkJwS0RFb0c0cUljZXJmWnFOdHlQZDBRUHIzTkEtYjBHRXY4RF90Y3BMRmRzY2JKMHEyN1VqSjFyS2pkTQ?oc=5",
+            "title": "Manchester City's PLAN after Guardiola - Morning Footy",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "247sports",
+            "account_name": "247Sports",
+            "account_verified": false,
+            "published_at": "2026-05-19T15:35:00+00:00"
+          },
+          {
+            "id": 155524,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE1pMG51aHQwOVFpcGRhS2lXUjBLNk5aV3dyWEN4NUJ6QndqOGlZb1BjV3BJZW84RHJyTEtycElKV2ROS1RrR3hCcWlBclo5RUxlRWRLSWtuc2VKcFgtQTkyaW9nWDNrOEdrQmc?oc=5",
+            "title": "Bournemouth v Man City prediction: Chris Sutton on Premier League game",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "bbc",
+            "account_name": "BBC",
+            "account_verified": false,
+            "published_at": "2026-05-19T15:33:33+00:00"
+          },
+          {
+            "id": 155521,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxORmFHS0gtUzVfUnVyRmREV01BemVfanhiamtYTEdJN0JKYWMyNDhrcFpOVDUtVnNBTmVHQ3c3OWt4WjdLZzVDZmtaRGhua05pZW1ua2l0aUkxeTVReFBTSFRDVjFDcEZFYy1WTWtVdFNSODd3dW01djZNMlcyRmhVaE93TzNfTTJzUHZUX3BXMW1ZejZndEVvck9iZklSYVpUV2dyZDlxQkZUU2RHTHZ3Tl9DV3VVcjRDbExKNW9DeVBtOG1Ed0tnNjFBUUZHVnBVQ25V0gHYAUFVX3lxTE9MT3BzYlF0QkprUWZiWS0yLUhPel9QUGNVUFphRHY1ZlNxSEpTajVrWlRZenJLZENPMEtJUmJZOWw0MjZDMmRNSFlpaW9YUmw4WUlvWlpjYlVNcUFEdHllWmR5bVZnTVZNQ3hFSWNCSEx5THM3U0lHMzh4QlpkVm4",
+            "title": "What happens if Man City win, tie or lose vs Bournemouth today in 2025-26 Premier League Matchday 37?",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "bolavip.com",
+            "account_name": "bolavip.com",
+            "account_verified": false,
+            "published_at": "2026-05-19T15:32:32+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
@@ -3375,17 +3629,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.96,
-          "odds_draw": 3.66,
-          "odds_away": 3.76,
-          "odds_over_15": 1.23,
-          "odds_over_25": 1.75,
-          "odds_over_35": 2.81,
-          "odds_under_15": 4.05,
-          "odds_under_25": 2.08,
-          "odds_under_35": 1.42,
-          "odds_btts_yes": 1.65,
-          "odds_btts_no": 2.18,
+          "odds_home": 2.11,
+          "odds_draw": 3.51,
+          "odds_away": 3.46,
+          "odds_over_15": 1.25,
+          "odds_over_25": 1.79,
+          "odds_over_35": 2.94,
+          "odds_under_15": 3.86,
+          "odds_under_25": 2,
+          "odds_under_35": 1.39,
+          "odds_btts_yes": 1.66,
+          "odds_btts_no": 2.17,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -3715,17 +3969,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.96,
-        "odds_draw": 3.66,
-        "odds_away": 3.76,
-        "odds_over_15": 1.23,
-        "odds_over_25": 1.75,
-        "odds_over_35": 2.81,
-        "odds_under_15": 4.05,
-        "odds_under_25": 2.08,
-        "odds_under_35": 1.42,
-        "odds_btts_yes": 1.65,
-        "odds_btts_no": 2.18,
+        "odds_home": 2.11,
+        "odds_draw": 3.51,
+        "odds_away": 3.46,
+        "odds_over_15": 1.25,
+        "odds_over_25": 1.79,
+        "odds_over_35": 2.94,
+        "odds_under_15": 3.86,
+        "odds_under_25": 2,
+        "odds_under_35": 1.39,
+        "odds_btts_yes": 1.66,
+        "odds_btts_no": 2.17,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -4098,7 +4352,248 @@
           ]
         },
         "lineups": null,
-        "social": []
+        "social": [
+          {
+            "id": 155594,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPWElOV1pkdGotXzJDd2pHeHYyVzlnelE1MEIyaHRnbS1IY240WnV3dVJ4b2VSYUdnblBSSF9TVUxQazl5ZXhCUWhkREMtVDZ0WTRFUFNPUmJKQjNUNTFDbnEyb283S0I2NUVhMjFSUTJodURFVlRlUWJYbXd1NGZTVFBxdTJTbFBaOXJQRW1Cang1NVZ1bWhfWk1MRUhBUnYyMnhNc2ZB?oc=5",
+            "title": "Chelsea now in ‘constant’ talks to get transfer over line – Blues close to deal",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "sport witness",
+            "account_name": "Sport Witness",
+            "account_verified": false,
+            "published_at": "2026-05-19T16:10:16+00:00"
+          },
+          {
+            "id": 155556,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWFIwRzhIRDBuZFJiZjRDZm9iNXpCakljQmFsVTVDQUphMDlyQlgwaUFpUEJnM1hpdHZwRGRaYml4YllBM0VwdklMLUFHaDlBbG9JLThMYS1tTmdYalJCZDJQUTdlODJadnJBM3VGQmhLRkFDTFB0T2QtLVdEUHdyRl85ODc0WXNRdmxiZ3EwdG94RTBaRmlmTFl4UQ?oc=5",
+            "title": "Manchester City face battle with Chelsea over Maresca appointment",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "nogomania",
+            "account_name": "Nogomania",
+            "account_verified": false,
+            "published_at": "2026-05-19T16:08:54+00:00"
+          },
+          {
+            "id": 155600,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTHNUU2FvSG5HVUplNmJuQTRTWWZKbzR2Q29sYjZwMWR2M0kwTGF2RGxHLU1xNElzSVZ0a0JULXBial9lX0FaT1NDYzVDM3BNVm5ONEdIRjRsY25YVjlmWE5IVjhyMS1OSnR5NjJrMDUyeFptc3hxQ2lTMXEzQlBMcHpYUjBvNHVZSnlybFFwbzJ3RWIxeW9pUms5OEdHTW41d2pxWHM3SkZJcnVySjZacy1FeTlJMHRtSmdxeTVfcXhJcFV3ZVUxQklR?oc=5",
+            "title": "Chelsea’s way of consoling Joao Pedro — Brazilian named Blues’ Player of the Season",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "mozzart sport kenya",
+            "account_name": "Mozzart Sport Kenya",
+            "account_verified": false,
+            "published_at": "2026-05-19T16:07:30+00:00"
+          },
+          {
+            "id": 155592,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1ldGpmVUpYcHN1UVJsR0RVR3VoOHBxbmNMNldDc0k4V2RhWXQ3azlOMXFqLUtJb2dIS01QTUlJNWxaRHBINGVLMjIxNmxRZEpKR0t5aFNvdWkyM0JZeXpaVE1yNFQ5alduVWstNUJmWExEbXVxMVlj?oc=5",
+            "title": "Beyond the gardens: The RHS Chelsea stands we loved this year",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "the dirt horticulture news",
+            "account_name": "The Dirt Horticulture News",
+            "account_verified": false,
+            "published_at": "2026-05-19T16:07:15+00:00"
+          },
+          {
+            "id": 155608,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNYjJKOFRnWE9wQ0YyYmxwdE42dDVON3JtNndVOWlMTk5LVEdlRlU5NDMwTlJITnc5T0otZ3JrTUV4dFdPeHlnSnNRRDB3cWhRUzFwR1dhdFp4OXA1SVpaUTZ2NUxGVno3Y0QxajlpY0Nfa2ZHR09HaUdPRG5sMi1hRlZNT2pld21RNU5oLUR3NmJrc1pjZDRkcmlrOWoydTVvNGtkZVYzUVd6R18wQWfSAbMBQVVfeXFMTzliaUJqREFZM0I3d1NxZk5wT0RLUUt1SnpIeU01YUpEdWFBQUNEZGxvUGhVb3JuMWlHM244VHZMX3lRZTlXdGw3ZXd4RFgxMHc3MlVnQzhJUVhXeTRyTnc5eVhBRG9vbG1hS0xJQTFHOG54WDVuWnBrbmxvaVJrYTRaVGFoNlpJZ1ZPWktxUC1aUDdtSTMzampJcmxFTkplMlZ4QjN",
+            "title": "Chelsea prepare legal action against Man City amid Enzo Maresca drama",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "tribuna.com",
+            "account_name": "tribuna.com",
+            "account_verified": false,
+            "published_at": "2026-05-19T16:06:48+00:00"
+          },
+          {
+            "id": 155607,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQVWlsRlpQNWlyV1U1M2RqbG55dnd6QmFKMXRuUDRhVnBIdXJmcUVhV01EXzJ1aFJLOGRWeGo4VG5rNmFfbVppSzVGajJralpvWFRFU1BTX0VYd2JEUDhHM3pmWmhKd2lGdWdaZG9IdjNKSVdZX1NjNW1YRjhNaDl6ZFBvWU9HdXkzTV90cG9oOEtsR0ZmOTNCdG1IclJLU0dUT1VremxNV1BKUlAtNVBIMFVzb1FWb3Y2VUHSAb8BQVVfeXFMUGhSazNObm9ncDdRUGtwX1BjMTVSNHJYLUl1a09OSTFNbU15eVM0NmUwTk45X1lwZUdETmhmdEVHd05KS2JXYWVobUhqWWRqc2UzWmIzVzVYNGVuWkVtblR0WDhqMkh3dHR0Ty0yZnRuY1dsWXVLbTc1dGxkOHFMWmt6RTZJbDhUMWNyR2dBYTZURk1HVnNYNll",
+            "title": "Chelsea set for huge compensation from Man City as Enzo Maresca agrees to join",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "tribuna.com",
+            "account_name": "tribuna.com",
+            "account_verified": false,
+            "published_at": "2026-05-19T16:06:46+00:00"
+          },
+          {
+            "id": 155606,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOUmJIU0V2QkR2emFOZHdmMnlhUktJS2pUZ2lQV21qYnB4YVFzZ0RLRkJ2NmtkOFpJTXhFRkUyOGNGRnhlQ2NFMWxZNGU3V0RWb04wVzh3bWhoeWdVZXlSaTZpb3pRV0pqOGFRYW1CeC1mckF5bTY3OWM5dGhBMmNwSnRoWlhfS3ZXZUtQcG9IN3JVdjRLZzZZaGNXRmJzN0xsLW5LUkZ3WUZ5UzBCei1kYXdDR21nUdIBuwFBVV95cUxPeVZTMzNrOHMxeUVVaVo2b1F3clFadlMza2otZFZZc0J2ZGQxclJmM3o1Qmp3T2ZHLTc3TEp2eFF2UlB6RHhYU2FRbFFjYkRWSnI1aTIzTkdOMmdzbWgyM1NJUkFvQWpzOFVMdkRQR0hiSUpFckdhSTJpS3I5VHNVaDBwb1ZWLTFkT1o3SjMtT0ZkRVBhQjZQZGZEZ0d",
+            "title": "Chelsea outline vision in end-of-season message after Xabi Alonso appointment",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "tribuna.com",
+            "account_name": "tribuna.com",
+            "account_verified": false,
+            "published_at": "2026-05-19T16:06:46+00:00"
+          },
+          {
+            "id": 155599,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNaHBOT2xoRWs0eENjeng5MlhNWnFmYUdLdUd6MDdxb2JYZU1FRkRnN1J4Z0RIM1RpUmdkWU9lNUN2d3VNdTlyVDdrZ0ZuUHVTVFEzaE5SWGZPZERaT3pPRUZtaHQzbm85SlhHQ3FQVFJaR3Nxbi1sVlJ4YTQ3TUQ5VDJObVk0eVc5OVBBOWpETWN4WU9GRmJLQ1hLQnpBUmMwelZkZ25tV1FiX0QtQklXNmVSemdzMWh0UE9maGlzWFFqdTB4LXEyTVlrVDlkczNBMk4w?oc=5",
+            "title": "Chelsea vs Tottenham: Premier League predictions, team news, betting tips, odds and Bet Builder",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "racing post",
+            "account_name": "Racing Post",
+            "account_verified": false,
+            "published_at": "2026-05-19T16:04:34+00:00"
+          },
+          {
+            "id": 155512,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMixAJBVV95cUxPTXItS1pValY1UTFULWZLbkVaT04xUFJwUzZwQkVVb3drNDNEY2g5emtGYTJrc3hkcDlvdk1nVnRDZ3FHb2VEM1BrVzcyQTZvSGVKUkNHcGxZWi10ZVdJSE5QZC1feDZHTmRYTUQwc1l5SGQ3NW85UUZ0OEs0NXl6OXZpQlBMQVJmNjJ2dzhteldkdHlSRjMtOVAxR3RKa1dwd0V4dXZLaTRBNEJrUzVpVkQyaEt6Q0YxdFpESGx0dzdsWXRoR3Z4dUQzRFFHdXJUXzV1Vk4xSllMOUJKRHM4MGN3ckx2Mm11Q3czenJCbG9SUmRjTUV6UmRJSEFpSHkwZGhXaE5RSlVTTTdZVHZrM0VzOWZ5dTZYcjkxQ3lLdXB2dnZtT0Y1UnVzbVNERWNCQ2ZlYjEzMmxtc01DWFNPU2c0ZGg?oc=5",
+            "title": "Chelsea vs Tottenham Hotspur LIVE: What Time Is The Premier League Match Today? TV Channel, Live Stream & Kick-off Time In UK - England, Scotland, Wales & N Ireland | CHE vs TOT Today Match",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "the sunday guardian",
+            "account_name": "The Sunday Guardian",
+            "account_verified": false,
+            "published_at": "2026-05-19T16:04:04+00:00"
+          },
+          {
+            "id": 155566,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTE1sNzFJcTU3aDZ2VWxUOWxfVEJfa3hyOFk0NEotekxXaEJnNDJwem1WR3BqZ1ZkM1NDOEd1ZlAxWHJhbTQ5Q0lSMHA1a0pVSU9HLW83UkEwbnVxMld2bnI2X3c4clFfYWVUenFhb1Q0V1JnOWVoRTVFc24yRUdHRTNOMVFRRkpVWnNHQ09zWWJhbG1CVXNGTXNkRQ?oc=5",
+            "title": "Friends of Chelsea District Library Annual Used Jewelry & Purse Sale",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "the sun times news",
+            "account_name": "The Sun Times News",
+            "account_verified": false,
+            "published_at": "2026-05-19T16:02:45+00:00"
+          },
+          {
+            "id": 155587,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zaWpFcU9JemlfRDBsNHZDZ1pQRXBYSnJINV96eElMZjB3M1Awa2JyZEFOTWl1WkJNZ3lzQUZmN05LNkZ0dXRISGo4eHlJc2pqM3NQSjBRYVpGTy1aVEVxLXVJV1BGdmZLakgtaUFETndLVXNqbHRfZy1B0gF_QVVfeXFMUEZfMERFUllpeDVmQTBGTWh1anRIQk1LMWFNSDFnb0pfaUdiWm9xdVVrek51UWVnaEZjOEtTMFVmYnZod21VZF9lbXFNbmZ1cy1ZeE1EUWtxU2RKS0JjYjd5LXZzZWItem1kWmZQUUhBTUxuMEgwMU94TDQ2YzgyZw?oc=5",
+            "title": "'I hate that sculpture' - RHS Chelsea Flower Show Garden of the Year is not for everyone",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "daily express",
+            "account_name": "Daily Express",
+            "account_verified": false,
+            "published_at": "2026-05-19T16:01:00+00:00"
+          },
+          {
+            "id": 155601,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOeFhFNGVrWDFqRklGNnp5QlhfNXN1Tjd4aFRXYnZmRE13OU8zNWt5cng2TDVDczRhN1VFUmpYZ1R4emVieHM0ZXJSTFh2Z09DbFhfT2o2ZE9Fb2tLODU1Q2dTdTJXU1A5WHY0YkN3Z0hWa1c0dl9mNFlSZWVreEJUSFVzOTZJcWpNMXlqajVTOTBPWUFCT0tsRjQtcDdNekZtSm1Bc2xGX3E0MGd4VWh5ag?oc=5",
+            "title": "Chelsea vs Tottenham Bet Builder Tips: Spurs to strike first in 10/1 shot",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "betfred insights",
+            "account_name": "Betfred Insights",
+            "account_verified": false,
+            "published_at": "2026-05-19T16:00:12+00:00"
+          },
+          {
+            "id": 155591,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9aVC1CTlFpemg1VkdTcUotZnlRdjI5TE1sUVZxMktpSVpUQVJOa0RQSWJvd1JWLUk0Ykl1eTg3czRDTGI0TWVrbUhEYzRTaUk2dDhNRmpNVlkyd0paLTdXaHRkdG5keDhPd1dKNWRGSmxSQ2lpdnVlcndvUWw?oc=5",
+            "title": "President Catherine Connolly braves 'Galway weather' at the Chelsea Flower Show",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "irish examiner",
+            "account_name": "Irish Examiner",
+            "account_verified": false,
+            "published_at": "2026-05-19T16:00:00+00:00"
+          },
+          {
+            "id": 155545,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPb3FwbV9CQTdBRTR5N1V3VlFvdVNyT1M4Mm5LY2VNcXA1X1RybllCcWVhOEJ1bDZ0QkdTOExTN20zRHlCWEZkdm1sZTFtdVU4cy0wclRXaEFMbUxZQ0tXbTJVTVlobDJfaGlLbzRwcTZNcEZJSUJZd3M0T1pldVNJZFZiT2hfdjBEa2FlSUdWaktmZ0ozam53LTVYQ2RCVzNnazdpb1hNMWtaZFdv?oc=5",
+            "title": "Former Chelsea, Arsenal and Southampton forward denied commemorative blue plaque",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "basingstoke gazette",
+            "account_name": "Basingstoke Gazette",
+            "account_verified": false,
+            "published_at": "2026-05-19T16:00:00+00:00"
+          },
+          {
+            "id": 155511,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOWUVualpNMUpQSkx4ZS01VWEzbkRxRUJCZWZNMU12cWhHZVJFT284OXVobFQ3R3RJd2lsbFVUYjVERDlVUE8tamVqOGFCQjJpRU9ucDFkdV9vMUVsalRuSkpyMWhEdEs4U3hVM2JqeHN2SjJhOC1FWjNXcmwyeTJCN0pOb2VuUVdPMkkyVG9oMkpfYVJHT3NGdmdOenhfUQ?oc=5",
+            "title": "How to watch Chelsea vs Tottenham Hotspur for FREE: Live streams for Battle of the Bridge with a difference",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "fourfourtwo",
+            "account_name": "FourFourTwo",
+            "account_verified": false,
+            "published_at": "2026-05-19T16:00:00+00:00"
+          },
+          {
+            "id": 155581,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPS3BOWUptMDJYVFRmcHRGcWlJSGZkbDZ0WHROSzVxN1E2SWhlYUtnVGlQMjlKQWZsTnlBMm1pQ0lMY3lrUGVBc2Q3V2RYanBLSE1xR1cybkFPYWNNcEhqRDJVc1dGYW9nM3hjMVpiS2xXalYtc0lKalBzd05lMnZGemdGelowNUp1YURtWVdYa1ZyOF9ydjMtSUNsR1lQM05objVSUEphSGp6TUVaQjkyNzFZbnJGeGVzc3VnVElXZ2pTT0J4Qm5URUpaRF9vanhs?oc=5",
+            "title": "Joe Cole thinks Xabi Alonso will be forced into selling one of Chelsea’s best players",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "the chelsea chronicle",
+            "account_name": "The Chelsea Chronicle",
+            "account_verified": false,
+            "published_at": "2026-05-19T16:00:00+00:00"
+          },
+          {
+            "id": 155554,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPNnFzRnNOS0xZa1JiblBTZ0VhR2U5SFZTRTloT3pDdFc5MU1pWWtWUHlRdkhvSzc2Ry1tczlTRTEwZ2xOcE1HRXlCV0l2ck1SYWd4VHJnamgyVjBjNHlWUFZueEw4SmN2Yk9feEVQX3NmbExTTE8wR1lvSGcwUXBmR0JEV0ZUSWMyOVE?oc=5",
+            "title": "Chelsea stabs Manchester City in the back",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "foot-africa.com",
+            "account_name": "Foot-Africa.com",
+            "account_verified": false,
+            "published_at": "2026-05-19T16:00:00+00:00"
+          },
+          {
+            "id": 155572,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPczlORF9idWFxOU1ObDN4T0RoZjBscTF0X0huRVhkOVVTUnhOVEFNbTJqckd5cDB6a1U4U05rUUdlclVwNzNWdDlLNXZnZkNQMGl6UGh3dWE2dTZqQS03bjNVcFFib1JGMVh1aWx2emlHTWRDQ2FLMUlsaTdBdGdZeDZ1eW84bm5SNkFJUk0wX0VTX0RVWmFJ?oc=5",
+            "title": "King Charles, David Beckham, and More: 8 Famous Faces Spotted at Chelsea Flower Show 2026",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "homes and gardens",
+            "account_name": "Homes and Gardens",
+            "account_verified": false,
+            "published_at": "2026-05-19T16:00:00+00:00"
+          },
+          {
+            "id": 155560,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQYkRzLUpiY0tXSkVqSXQ2ZGVNNHQ1TUROQ2d2VjBxa0pKUjQxdFlJWWx6LURfRHNQNkRGbl9KamRNbnlQOEd2VU9hd19WZi1pTWd3bUxzRldxR2Vxbm5NNGg3aU1Ic0tma1dCQVE4enVud3VDWnVjb0Q0dWtWWDFSbkdoN0JqN3JQSlpfY3E0Z1pKMGF6VUxDWTdZYjV1NGs?oc=5",
+            "title": "Jordan Pickford has already shared why he won’t leave Everton for Chelsea",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "everton.news",
+            "account_name": "everton.news",
+            "account_verified": false,
+            "published_at": "2026-05-19T16:00:00+00:00"
+          },
+          {
+            "id": 155576,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQd1Z0cWNtX0s1aFY0T1ZoMXIyd25zaUtwLW8wTlFTaUluS25zbFFHQVB0dUZ5ODZyZUJKMTRodF9XUEphTkpsdWdzWi1kMjhTZWhBa1lFWEphczlVcnQ1bHRiLW5NYWVOclpmU0FBcmtFanM1bVE1Ujd3amtIcTF6SVAxRHhEbnVxNzZfV05TanR5b3c?oc=5",
+            "title": "Where to watch Chelsea vs Tottenham – TV channel, live stream and kick-off time",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "the mirror",
+            "account_name": "The Mirror",
+            "account_verified": false,
+            "published_at": "2026-05-19T16:00:00+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
@@ -4343,17 +4838,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.44,
+          "odds_home": 2.45,
           "odds_draw": 3.12,
-          "odds_away": 2.95,
-          "odds_over_15": 1.41,
-          "odds_over_25": 2.27,
-          "odds_over_35": 4.19,
-          "odds_under_15": 2.72,
+          "odds_away": 2.94,
+          "odds_over_15": 1.42,
+          "odds_over_25": 2.29,
+          "odds_over_35": 4.25,
+          "odds_under_15": 2.69,
           "odds_under_25": 1.59,
           "odds_under_35": 1.2,
-          "odds_btts_yes": 1.93,
-          "odds_btts_no": 1.79,
+          "odds_btts_yes": 1.95,
+          "odds_btts_no": 1.77,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -4572,17 +5067,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.44,
+        "odds_home": 2.45,
         "odds_draw": 3.12,
-        "odds_away": 2.95,
-        "odds_over_15": 1.41,
-        "odds_over_25": 2.27,
-        "odds_over_35": 4.19,
-        "odds_under_15": 2.72,
+        "odds_away": 2.94,
+        "odds_over_15": 1.42,
+        "odds_over_25": 2.29,
+        "odds_over_35": 4.25,
+        "odds_under_15": 2.69,
         "odds_under_25": 1.59,
         "odds_under_35": 1.2,
-        "odds_btts_yes": 1.93,
-        "odds_btts_no": 1.79,
+        "odds_btts_yes": 1.95,
+        "odds_btts_no": 1.77,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -4786,7 +5281,20 @@
           ]
         },
         "lineups": null,
-        "social": []
+        "social": [
+          {
+            "id": 156660,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPQm83RjFiNUNSTlZoaTAzRExYa1EzXzVWN0VERzdGUkE3aVVaWkVNWUZZZDhlWUlmREF1dC0xaFJiRG1pS1czMElBM2ZHRjBhSFE1RWdtUEJIVTBvT0M3S3A2dmlKUTlDZVlUczlaQzh0bEtJNHdLTnF3LTNyVGNCWTlLRmRvWExEb1RwT2hLdGtUaXlXMEZUVlp4UEhQYy1TUGdqREZ4aThTd284cDVydQ?oc=5",
+            "title": "Barracas Central chase vital win at Audax Italiano to keep dream alive",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "onefootball",
+            "account_name": "OneFootball",
+            "account_verified": false,
+            "published_at": "2026-05-19T16:02:40+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
@@ -4982,17 +5490,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.22,
-          "odds_draw": 6.1,
-          "odds_away": 13.16,
-          "odds_over_15": 1.18,
-          "odds_over_25": 1.58,
-          "odds_over_35": 2.45,
-          "odds_under_15": 4.55,
-          "odds_under_25": 2.3,
-          "odds_under_35": 1.51,
-          "odds_btts_yes": 2.25,
-          "odds_btts_no": 1.59,
+          "odds_home": 1.19,
+          "odds_draw": 6.72,
+          "odds_away": 15.19,
+          "odds_over_15": 1.16,
+          "odds_over_25": 1.53,
+          "odds_over_35": 2.34,
+          "odds_under_15": 4.81,
+          "odds_under_25": 2.38,
+          "odds_under_35": 1.56,
+          "odds_btts_yes": 2.3,
+          "odds_btts_no": 1.57,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -5268,17 +5776,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.22,
-        "odds_draw": 6.1,
-        "odds_away": 13.16,
-        "odds_over_15": 1.18,
-        "odds_over_25": 1.58,
-        "odds_over_35": 2.45,
-        "odds_under_15": 4.55,
-        "odds_under_25": 2.3,
-        "odds_under_35": 1.51,
-        "odds_btts_yes": 2.25,
-        "odds_btts_no": 1.59,
+        "odds_home": 1.19,
+        "odds_draw": 6.72,
+        "odds_away": 15.19,
+        "odds_over_15": 1.16,
+        "odds_over_25": 1.53,
+        "odds_over_35": 2.34,
+        "odds_under_15": 4.81,
+        "odds_under_25": 2.38,
+        "odds_under_35": 1.56,
+        "odds_btts_yes": 2.3,
+        "odds_btts_no": 1.57,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -5746,17 +6254,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.27,
-          "odds_draw": 3.12,
-          "odds_away": 3.3,
-          "odds_over_15": 1.4,
-          "odds_over_25": 2.24,
-          "odds_over_35": 3.99,
-          "odds_under_15": 2.83,
-          "odds_under_25": 1.62,
-          "odds_under_35": 1.22,
-          "odds_btts_yes": 1.91,
-          "odds_btts_no": 1.82,
+          "odds_home": 2.34,
+          "odds_draw": 3.09,
+          "odds_away": 3.2,
+          "odds_over_15": 1.41,
+          "odds_over_25": 2.26,
+          "odds_over_35": 4.13,
+          "odds_under_15": 2.78,
+          "odds_under_25": 1.61,
+          "odds_under_35": 1.21,
+          "odds_btts_yes": 1.92,
+          "odds_btts_no": 1.81,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -6010,17 +6518,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.27,
-        "odds_draw": 3.12,
-        "odds_away": 3.3,
-        "odds_over_15": 1.4,
-        "odds_over_25": 2.24,
-        "odds_over_35": 3.99,
-        "odds_under_15": 2.83,
-        "odds_under_25": 1.62,
-        "odds_under_35": 1.22,
-        "odds_btts_yes": 1.91,
-        "odds_btts_no": 1.82,
+        "odds_home": 2.34,
+        "odds_draw": 3.09,
+        "odds_away": 3.2,
+        "odds_over_15": 1.41,
+        "odds_over_25": 2.26,
+        "odds_over_35": 4.13,
+        "odds_under_15": 2.78,
+        "odds_under_25": 1.61,
+        "odds_under_35": 1.21,
+        "odds_btts_yes": 1.92,
+        "odds_btts_no": 1.81,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -6454,17 +6962,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.16,
-          "odds_draw": 7.23,
-          "odds_away": 17.61,
+          "odds_home": 1.2,
+          "odds_draw": 6.57,
+          "odds_away": 14.54,
           "odds_over_15": 1.18,
-          "odds_over_25": 1.58,
-          "odds_over_35": 2.44,
-          "odds_under_15": 4.54,
-          "odds_under_25": 2.31,
-          "odds_under_35": 1.51,
-          "odds_btts_yes": 2.55,
-          "odds_btts_no": 1.47,
+          "odds_over_25": 1.59,
+          "odds_over_35": 2.47,
+          "odds_under_15": 4.48,
+          "odds_under_25": 2.29,
+          "odds_under_35": 1.49,
+          "odds_btts_yes": 2.37,
+          "odds_btts_no": 1.54,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -6666,17 +7174,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.16,
-        "odds_draw": 7.23,
-        "odds_away": 17.61,
+        "odds_home": 1.2,
+        "odds_draw": 6.57,
+        "odds_away": 14.54,
         "odds_over_15": 1.18,
-        "odds_over_25": 1.58,
-        "odds_over_35": 2.44,
-        "odds_under_15": 4.54,
-        "odds_under_25": 2.31,
-        "odds_under_35": 1.51,
-        "odds_btts_yes": 2.55,
-        "odds_btts_no": 1.47,
+        "odds_over_25": 1.59,
+        "odds_over_35": 2.47,
+        "odds_under_15": 4.48,
+        "odds_under_25": 2.29,
+        "odds_under_35": 1.49,
+        "odds_btts_yes": 2.37,
+        "odds_btts_no": 1.54,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -7030,17 +7538,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.29,
-          "odds_draw": 2.92,
-          "odds_away": 3.41,
-          "odds_over_15": 1.49,
-          "odds_over_25": 2.48,
-          "odds_over_35": 4.68,
-          "odds_under_15": 2.49,
-          "odds_under_25": 1.5,
+          "odds_home": 2.28,
+          "odds_draw": 2.91,
+          "odds_away": 3.47,
+          "odds_over_15": 1.5,
+          "odds_over_25": 2.52,
+          "odds_over_35": 4.8,
+          "odds_under_15": 2.46,
+          "odds_under_25": 1.49,
           "odds_under_35": 1.16,
-          "odds_btts_yes": 2.08,
-          "odds_btts_no": 1.68,
+          "odds_btts_yes": 2.09,
+          "odds_btts_no": 1.67,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -7250,17 +7758,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.29,
-        "odds_draw": 2.92,
-        "odds_away": 3.41,
-        "odds_over_15": 1.49,
-        "odds_over_25": 2.48,
-        "odds_over_35": 4.68,
-        "odds_under_15": 2.49,
-        "odds_under_25": 1.5,
+        "odds_home": 2.28,
+        "odds_draw": 2.91,
+        "odds_away": 3.47,
+        "odds_over_15": 1.5,
+        "odds_over_25": 2.52,
+        "odds_over_35": 4.8,
+        "odds_under_15": 2.46,
+        "odds_under_25": 1.49,
         "odds_under_35": 1.16,
-        "odds_btts_yes": 2.08,
-        "odds_btts_no": 1.68,
+        "odds_btts_yes": 2.09,
+        "odds_btts_no": 1.67,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -7656,17 +8164,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 5,
-          "odds_draw": 3.88,
-          "odds_away": 1.69,
-          "odds_over_15": 1.29,
-          "odds_over_25": 1.91,
-          "odds_over_35": 3.23,
-          "odds_under_15": 3.33,
-          "odds_under_25": 1.83,
-          "odds_under_35": 1.3,
-          "odds_btts_yes": 1.92,
-          "odds_btts_no": 1.81,
+          "odds_home": 5.28,
+          "odds_draw": 3.94,
+          "odds_away": 1.67,
+          "odds_over_15": 1.32,
+          "odds_over_25": 1.98,
+          "odds_over_35": 3.44,
+          "odds_under_15": 3.2,
+          "odds_under_25": 1.77,
+          "odds_under_35": 1.28,
+          "odds_btts_yes": 2.01,
+          "odds_btts_no": 1.74,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -7960,17 +8468,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 5,
-        "odds_draw": 3.88,
-        "odds_away": 1.69,
-        "odds_over_15": 1.29,
-        "odds_over_25": 1.91,
-        "odds_over_35": 3.23,
-        "odds_under_15": 3.33,
-        "odds_under_25": 1.83,
-        "odds_under_35": 1.3,
-        "odds_btts_yes": 1.92,
-        "odds_btts_no": 1.81,
+        "odds_home": 5.28,
+        "odds_draw": 3.94,
+        "odds_away": 1.67,
+        "odds_over_15": 1.32,
+        "odds_over_25": 1.98,
+        "odds_over_35": 3.44,
+        "odds_under_15": 3.2,
+        "odds_under_25": 1.77,
+        "odds_under_35": 1.28,
+        "odds_btts_yes": 2.01,
+        "odds_btts_no": 1.74,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -8455,12 +8963,12 @@
           "period": "",
           "odds_home": 1.69,
           "odds_draw": 3.55,
-          "odds_away": 5.16,
+          "odds_away": 5.15,
           "odds_over_15": 1.36,
           "odds_over_25": 2.12,
-          "odds_over_35": 3.8,
-          "odds_under_15": 2.93,
-          "odds_under_25": 1.67,
+          "odds_over_35": 3.77,
+          "odds_under_15": 2.94,
+          "odds_under_25": 1.68,
           "odds_under_35": 1.24,
           "odds_btts_yes": 2.05,
           "odds_btts_no": 1.7,
@@ -8724,12 +9232,12 @@
         "period": "",
         "odds_home": 1.69,
         "odds_draw": 3.55,
-        "odds_away": 5.16,
+        "odds_away": 5.15,
         "odds_over_15": 1.36,
         "odds_over_25": 2.12,
-        "odds_over_35": 3.8,
-        "odds_under_15": 2.93,
-        "odds_under_25": 1.67,
+        "odds_over_35": 3.77,
+        "odds_under_15": 2.94,
+        "odds_under_25": 1.68,
         "odds_under_35": 1.24,
         "odds_btts_yes": 2.05,
         "odds_btts_no": 1.7,
@@ -9758,17 +10266,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.24,
-          "odds_draw": 3.04,
-          "odds_away": 3.46,
-          "odds_over_15": 1.51,
-          "odds_over_25": 2.56,
-          "odds_over_35": 4.88,
-          "odds_under_15": 2.47,
-          "odds_under_25": 1.48,
-          "odds_under_35": 1.16,
-          "odds_btts_yes": 2.12,
-          "odds_btts_no": 1.66,
+          "odds_home": 2.26,
+          "odds_draw": 3.02,
+          "odds_away": 3.44,
+          "odds_over_15": 1.54,
+          "odds_over_25": 2.64,
+          "odds_over_35": 5.16,
+          "odds_under_15": 2.39,
+          "odds_under_25": 1.45,
+          "odds_under_35": 1.15,
+          "odds_btts_yes": 2.19,
+          "odds_btts_no": 1.63,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -10058,17 +10566,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.24,
-        "odds_draw": 3.04,
-        "odds_away": 3.46,
-        "odds_over_15": 1.51,
-        "odds_over_25": 2.56,
-        "odds_over_35": 4.88,
-        "odds_under_15": 2.47,
-        "odds_under_25": 1.48,
-        "odds_under_35": 1.16,
-        "odds_btts_yes": 2.12,
-        "odds_btts_no": 1.66,
+        "odds_home": 2.26,
+        "odds_draw": 3.02,
+        "odds_away": 3.44,
+        "odds_over_15": 1.54,
+        "odds_over_25": 2.64,
+        "odds_over_35": 5.16,
+        "odds_under_15": 2.39,
+        "odds_under_25": 1.45,
+        "odds_under_35": 1.15,
+        "odds_btts_yes": 2.19,
+        "odds_btts_no": 1.63,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -14534,7 +15042,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Chongqing host a streaky Yunnan side that's actually found some form** — the visitors are 3W-1D-1L over five, while the hosts are stuck in neutral at 0W-3D-2L. 🔄\n\nChongqing are winless in five but drawing constantly; Yunnan just rattled off back-to-back wins before that loss to Zhejiang. Home turf might matter here, but Yunnan's been the sharper outfit lately.\n\nKey storylines:\n\n- **Chongqing's defensive resilience** has kept them afloat — three draws from their last five, but zero wins is the real worry\n- **Yunnan's attacking momentum** under recent form could trouble a Chongqing backline led by Lucão and M. Ngadeu\n- **Midfield battle** between Chongqing's Q. Ruan and I. Amadou against Yunnan's A. Ioniță and X. Xu will likely decide possession\n\nExpected lineups:\n\n- **Chongqing Tonglianglong FC**: Y. Haoyang, Lucão, M. Ngadeu, Z. Yingkai, X. He, Q. Ruan, I. Amadou, Z. Zhang, A. G. Cîmpanu, C. Chunxin, Y. Xiang\n- **Yunnan Yukun**: Z. Wang, A. Burcă, Z. Yang, K. Shi, C. Zhang, A. Ioniță, X. Xu, C. Vinícius, O. T. Maritu, Cléber, Z. Huang\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n- **Both Teams to Score**: BTTS Yes\n\nPrediction: **1-1** — too evenly matched to call a winner, but both sides should break through. 📊",
+            "generated_at": "2026-05-19T12:45:20.900384+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-05-14T05:20:18.882425+03:00",
@@ -14726,7 +15237,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Chongqing host a streaky Yunnan side that's actually found some form** — the visitors are 3W-1D-1L over five, while the hosts are stuck in neutral at 0W-3D-2L. 🔄\n\nChongqing are winless in five but drawing constantly; Yunnan just rattled off back-to-back wins before that loss to Zhejiang. Home turf might matter here, but Yunnan's been the sharper outfit lately.\n\nKey storylines:\n\n- **Chongqing's defensive resilience** has kept them afloat — three draws from their last five, but zero wins is the real worry\n- **Yunnan's attacking momentum** under recent form could trouble a Chongqing backline led by Lucão and M. Ngadeu\n- **Midfield battle** between Chongqing's Q. Ruan and I. Amadou against Yunnan's A. Ioniță and X. Xu will likely decide possession\n\nExpected lineups:\n\n- **Chongqing Tonglianglong FC**: Y. Haoyang, Lucão, M. Ngadeu, Z. Yingkai, X. He, Q. Ruan, I. Amadou, Z. Zhang, A. G. Cîmpanu, C. Chunxin, Y. Xiang\n- **Yunnan Yukun**: Z. Wang, A. Burcă, Z. Yang, K. Shi, C. Zhang, A. Ioniță, X. Xu, C. Vinícius, O. T. Maritu, Cléber, Z. Huang\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n- **Both Teams to Score**: BTTS Yes\n\nPrediction: **1-1** — too evenly matched to call a winner, but both sides should break through. 📊",
+          "generated_at": "2026-05-19T12:45:20.900384+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-05-19",
@@ -15065,7 +15579,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Shandong rolling through, Zhejiang trying to hold the line at home** — this is a clash between the league's hottest streak and a solid-but-choppy side looking to stabilize. 🔥\n\nShandong Taishan are on fire with **3W 1D 1L** in their last five, including a **4-1 demolition of Shanghai Shenhua**. Zhejiang sit more balanced at **2W 2D 1L**, mixing draws with the odd spark but lacking that killer edge. The head-to-head favors Shandong heavily too — they've won **3 of the last 6** meetings.\n\nKey storylines:\n\n- **Shandong's firepower** has been relentless; **Cryzan** and **Zeca** are feeding off quick transitions and clinical finishing\n- **Zhejiang's home fortress** at Hangzhou Dragon Stadium needs teeth — **A. Mitriță** and **S. Guarirapa** are the creative hooks but haven't quite clicked consistently\n- Midfield battle between **G. Sun** and **M. Tolić** (Zhejiang) versus **G. Madruga** and **X. Wenneng** (Shandong) will set the tempo\n\nExpected lineups:\n\n- **Zhejiang**: B. Zhao, Z. Aihui, L. Possignolo, L. Haofan, X. Junchi, G. Sun, M. Tolić, W. Yudong, J. S. Park, A. Mitriță, S. Guarirapa\n- **Shandong Taishan**: D. Wang, P. Álvaro, Z. Gao, P. Xiao, T. Wang, X. Wenneng, G. Madruga, Y. Liu, Zeca, V. Qazaishvili, Cryzan\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**Shandong Taishan 2–1 Zhejiang**. Slight edge to the visitors; they're sharper up front and Zhejiang's inconsistency gives them room to exploit. 📍",
+            "generated_at": "2026-05-19T12:45:26.576722+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-05-14T05:20:21.003506+03:00",
@@ -15261,7 +15778,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Shandong rolling through, Zhejiang trying to hold the line at home** — this is a clash between the league's hottest streak and a solid-but-choppy side looking to stabilize. 🔥\n\nShandong Taishan are on fire with **3W 1D 1L** in their last five, including a **4-1 demolition of Shanghai Shenhua**. Zhejiang sit more balanced at **2W 2D 1L**, mixing draws with the odd spark but lacking that killer edge. The head-to-head favors Shandong heavily too — they've won **3 of the last 6** meetings.\n\nKey storylines:\n\n- **Shandong's firepower** has been relentless; **Cryzan** and **Zeca** are feeding off quick transitions and clinical finishing\n- **Zhejiang's home fortress** at Hangzhou Dragon Stadium needs teeth — **A. Mitriță** and **S. Guarirapa** are the creative hooks but haven't quite clicked consistently\n- Midfield battle between **G. Sun** and **M. Tolić** (Zhejiang) versus **G. Madruga** and **X. Wenneng** (Shandong) will set the tempo\n\nExpected lineups:\n\n- **Zhejiang**: B. Zhao, Z. Aihui, L. Possignolo, L. Haofan, X. Junchi, G. Sun, M. Tolić, W. Yudong, J. S. Park, A. Mitriță, S. Guarirapa\n- **Shandong Taishan**: D. Wang, P. Álvaro, Z. Gao, P. Xiao, T. Wang, X. Wenneng, G. Madruga, Y. Liu, Zeca, V. Qazaishvili, Cryzan\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**Shandong Taishan 2–1 Zhejiang**. Slight edge to the visitors; they're sharper up front and Zhejiang's inconsistency gives them room to exploit. 📍",
+          "generated_at": "2026-05-19T12:45:26.576722+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-05-19",
@@ -15515,17 +16035,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": null,
-          "odds_draw": null,
-          "odds_away": null,
-          "odds_over_15": null,
-          "odds_over_25": null,
-          "odds_over_35": null,
-          "odds_under_15": null,
-          "odds_under_25": null,
-          "odds_under_35": null,
-          "odds_btts_yes": null,
-          "odds_btts_no": null,
+          "odds_home": 1.77,
+          "odds_draw": 3.09,
+          "odds_away": 4.73,
+          "odds_over_15": 1.53,
+          "odds_over_25": 2.63,
+          "odds_over_35": 5.55,
+          "odds_under_15": 2.29,
+          "odds_under_25": 1.39,
+          "odds_under_35": 1.08,
+          "odds_btts_yes": 2.42,
+          "odds_btts_no": 1.47,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -15568,7 +16088,10 @@
           "jerseys": null,
           "funfacts": null,
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**ES Zarzis rolls into this cup tie riding a four-win streak, while CA Bizertin's in freefall.** This feels like a mismatch on paper, but cup football has a funny way of throwing wrenches. 🎯\n\nZarzis just hammered Bizertin 2-0 at home a few games back and hasn't looked back since — three straight wins after that. Bizertin, meanwhile, are winless in their last five (1 draw, 4 losses) and looking for answers. The momentum gap is **massive**.\n\nKey storylines:\n\n- **ES Zarzis's attacking form** continues to click, with M. Rahmani and D. Onyemuchara firing in recent wins\n- **CA Bizertin's defensive struggles** have been on full display; they've conceded in every recent outing bar one draw\n- Cup replays can flip the script, but Zarzis's consistency suggests they're the safer bet here\n\nExpected lineups:\n\n- **ES Zarzis**: H. Ghanmi, L. Rjili, P. M. Diallo, G. Mahersi, J. Belkilani, A. Tajouri, A. M. Yassine, M. Chouchane, D. Onyemuchara, M. Rahmani, Y. Dhiflaoui\n- **CA Bizertin**: M. Hanzouli, M. Doukali, M. A. Allela, A. Guesmi, R. Rehimi, I. Midani, M. A. Chaabane, A. Dridi, Y. Maktouf, M. D. Seydi, Z. Berrima\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n- **Total Goals 2.5**: Under 2.5 goals\n- **Both Teams to Score**: BTTS No\n\nPrediction:\n\n**ES Zarzis 2–0 CA Bizertin** — Zarzis edges this one; Bizertin's defensive leaks and Zarzis's ruthless form make a repeat scoreline likely. ⚪",
+            "generated_at": "2026-05-19T14:45:26.449918+00:00"
+          },
           "live_websocket": false
         },
         "created_at": "2026-05-14T05:20:23.940986+03:00",
@@ -15636,17 +16159,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": null,
-        "odds_draw": null,
-        "odds_away": null,
-        "odds_over_15": null,
-        "odds_over_25": null,
-        "odds_over_35": null,
-        "odds_under_15": null,
-        "odds_under_25": null,
-        "odds_under_35": null,
-        "odds_btts_yes": null,
-        "odds_btts_no": null,
+        "odds_home": 1.77,
+        "odds_draw": 3.09,
+        "odds_away": 4.73,
+        "odds_over_15": 1.53,
+        "odds_over_25": 2.63,
+        "odds_over_35": 5.55,
+        "odds_under_15": 2.29,
+        "odds_under_25": 1.39,
+        "odds_under_35": 1.08,
+        "odds_btts_yes": 2.42,
+        "odds_btts_no": 1.47,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -15683,7 +16206,10 @@
         "jerseys": null,
         "funfacts": null,
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**ES Zarzis rolls into this cup tie riding a four-win streak, while CA Bizertin's in freefall.** This feels like a mismatch on paper, but cup football has a funny way of throwing wrenches. 🎯\n\nZarzis just hammered Bizertin 2-0 at home a few games back and hasn't looked back since — three straight wins after that. Bizertin, meanwhile, are winless in their last five (1 draw, 4 losses) and looking for answers. The momentum gap is **massive**.\n\nKey storylines:\n\n- **ES Zarzis's attacking form** continues to click, with M. Rahmani and D. Onyemuchara firing in recent wins\n- **CA Bizertin's defensive struggles** have been on full display; they've conceded in every recent outing bar one draw\n- Cup replays can flip the script, but Zarzis's consistency suggests they're the safer bet here\n\nExpected lineups:\n\n- **ES Zarzis**: H. Ghanmi, L. Rjili, P. M. Diallo, G. Mahersi, J. Belkilani, A. Tajouri, A. M. Yassine, M. Chouchane, D. Onyemuchara, M. Rahmani, Y. Dhiflaoui\n- **CA Bizertin**: M. Hanzouli, M. Doukali, M. A. Allela, A. Guesmi, R. Rehimi, I. Midani, M. A. Chaabane, A. Dridi, Y. Maktouf, M. D. Seydi, Z. Berrima\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n- **Total Goals 2.5**: Under 2.5 goals\n- **Both Teams to Score**: BTTS No\n\nPrediction:\n\n**ES Zarzis 2–0 CA Bizertin** — Zarzis edges this one; Bizertin's defensive leaks and Zarzis's ruthless form make a repeat scoreline likely. ⚪",
+          "generated_at": "2026-05-19T14:45:26.449918+00:00"
+        },
         "live_websocket": false,
         "home_form": {
           "calculated_at": "2026-05-19",
@@ -15973,7 +16499,10 @@
           "jerseys": null,
           "funfacts": null,
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Sfaxien are rolling, but Gabèsien just torched Sahel 4-3** — this Coupe de Tunisie clash has all the hallmarks of a high-octane cup tie. ⚽\n\nSfaxien arrive white-hot with four wins in their last five, banging in goals left and right. Gabèsien have won their last two matches in explosive fashion, including that mad 4-3 scoreline, so they're not here to park the bus.\n\nKey storylines:\n\n- **Sfaxien's attacking cohesion** — N. Karoui, T. Mutyaba, and W. Onana form a slick front three, and they've been clinical all season\n- **Gabèsien's counter-threat** — A. Ghali and K. Boussaidi have shown they can punish any defensive lapse, as Sahel found out the hard way\n- **Cup intensity** — both sides are peaking at the right time, making this a genuine toss-up\n\nExpected lineups:\n\n- **CS Sfaxien**: M. H. Gaaloul, H. Mathlouthi, K. Mondeko, R. Derbali, A. Maâloul, A. Taifour, N. Karoui, T. Mutyaba, W. Onana\n- **Stade Gabèsien**: S. Saidi, A. Kouraichi, A. Mida, B. Rhouma, I. Oudi, I. Jemai, R. Seghaier, W. Aloui, A. Ghali, K. Boussaidi\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**2-1 Sfaxien** — slight lean on the hosts' experience and form, but genuinely a coin flip. 🎲",
+            "generated_at": "2026-05-19T14:45:21.218473+00:00"
+          },
           "live_websocket": false
         },
         "created_at": "2026-05-14T05:20:22.590995+03:00",
@@ -16101,7 +16630,10 @@
         "jerseys": null,
         "funfacts": null,
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Sfaxien are rolling, but Gabèsien just torched Sahel 4-3** — this Coupe de Tunisie clash has all the hallmarks of a high-octane cup tie. ⚽\n\nSfaxien arrive white-hot with four wins in their last five, banging in goals left and right. Gabèsien have won their last two matches in explosive fashion, including that mad 4-3 scoreline, so they're not here to park the bus.\n\nKey storylines:\n\n- **Sfaxien's attacking cohesion** — N. Karoui, T. Mutyaba, and W. Onana form a slick front three, and they've been clinical all season\n- **Gabèsien's counter-threat** — A. Ghali and K. Boussaidi have shown they can punish any defensive lapse, as Sahel found out the hard way\n- **Cup intensity** — both sides are peaking at the right time, making this a genuine toss-up\n\nExpected lineups:\n\n- **CS Sfaxien**: M. H. Gaaloul, H. Mathlouthi, K. Mondeko, R. Derbali, A. Maâloul, A. Taifour, N. Karoui, T. Mutyaba, W. Onana\n- **Stade Gabèsien**: S. Saidi, A. Kouraichi, A. Mida, B. Rhouma, I. Oudi, I. Jemai, R. Seghaier, W. Aloui, A. Ghali, K. Boussaidi\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**2-1 Sfaxien** — slight lean on the hosts' experience and form, but genuinely a coin flip. 🎲",
+          "generated_at": "2026-05-19T14:45:21.218473+00:00"
+        },
         "live_websocket": false,
         "home_form": {
           "calculated_at": "2026-05-19",
@@ -16455,7 +16987,20 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 2,
+              "sentence": "Ilves haven't won any of their last 4 games against Inter Turku."
+            },
+            {
+              "type_id": 25,
+              "sentence": "Kalle Wallius has more yellow cards (2) than any other player at Ilves. Prosper Ahiabu has collected 3 for Inter Turku."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Ilves haven't lost in their last 4 games."
+            }
+          ],
           "sr_stats": null,
           "ai_preview": null,
           "live_websocket": true
@@ -16633,7 +17178,20 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 2,
+            "sentence": "Ilves haven't won any of their last 4 games against Inter Turku."
+          },
+          {
+            "type_id": 25,
+            "sentence": "Kalle Wallius has more yellow cards (2) than any other player at Ilves. Prosper Ahiabu has collected 3 for Inter Turku."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Ilves haven't lost in their last 4 games."
+          }
+        ],
         "sr_stats": null,
         "ai_preview": null,
         "live_websocket": true,
@@ -16985,7 +17543,20 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 1,
+              "sentence": "Start haven't won in their last 10 games."
+            },
+            {
+              "type_id": 2,
+              "sentence": "When playing at home, Start have not lost to Bodoe/Glimt in their last 4 encounters."
+            },
+            {
+              "type_id": 24,
+              "sentence": "Start's home record this season: 0-3-0."
+            }
+          ],
           "sr_stats": null,
           "ai_preview": null,
           "live_websocket": true
@@ -17175,7 +17746,20 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 1,
+            "sentence": "Start haven't won in their last 10 games."
+          },
+          {
+            "type_id": 2,
+            "sentence": "When playing at home, Start have not lost to Bodoe/Glimt in their last 4 encounters."
+          },
+          {
+            "type_id": 24,
+            "sentence": "Start's home record this season: 0-3-0."
+          }
+        ],
         "sr_stats": null,
         "ai_preview": null,
         "live_websocket": true,
@@ -17552,7 +18136,20 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 24,
+              "sentence": "Kuopion Palloseura's home record this season: 2-2-0."
+            },
+            {
+              "type_id": 24,
+              "sentence": "Jaro's away record this season: 0-2-1."
+            },
+            {
+              "type_id": 25,
+              "sentence": "Jaime Moreno is Kuopion Palloseura's top scorer with 4 goals. Herman Sjogrell has scored 2 times for Jaro."
+            }
+          ],
           "sr_stats": null,
           "ai_preview": null,
           "live_websocket": true
@@ -17731,7 +18328,20 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 24,
+            "sentence": "Kuopion Palloseura's home record this season: 2-2-0."
+          },
+          {
+            "type_id": 24,
+            "sentence": "Jaro's away record this season: 0-2-1."
+          },
+          {
+            "type_id": 25,
+            "sentence": "Jaime Moreno is Kuopion Palloseura's top scorer with 4 goals. Herman Sjogrell has scored 2 times for Jaro."
+          }
+        ],
         "sr_stats": null,
         "ai_preview": null,
         "live_websocket": true,
@@ -38116,6 +38726,12 @@
                 "status": "injured",
                 "reason": "Broken Foot",
                 "expected_return": "2026-05-25"
+              },
+              {
+                "name": "Siebe Van Der Heyden",
+                "status": "injured",
+                "reason": "Unknown",
+                "expected_return": null
               }
             ],
             "away": [
@@ -38351,6 +38967,12 @@
               "status": "injured",
               "reason": "Broken Foot",
               "expected_return": "2026-05-25"
+            },
+            {
+              "name": "Siebe Van Der Heyden",
+              "status": "injured",
+              "reason": "Unknown",
+              "expected_return": null
             }
           ],
           "away": [
@@ -75947,9 +76569,9 @@
               },
               {
                 "name": "Kiko Femenía",
-                "status": "doubtful",
+                "status": "injured",
                 "reason": "Muscle Injury",
-                "expected_return": "2026-05-31"
+                "expected_return": "2026-06-10"
               },
               {
                 "name": "Luis Vázquez",
@@ -76170,9 +76792,9 @@
             },
             {
               "name": "Kiko Femenía",
-              "status": "doubtful",
+              "status": "injured",
               "reason": "Muscle Injury",
-              "expected_return": "2026-05-31"
+              "expected_return": "2026-06-10"
             },
             {
               "name": "Luis Vázquez",
@@ -76674,7 +77296,7 @@
                 "name": "Carl Starfelt",
                 "status": "injured",
                 "reason": "Back Injury",
-                "expected_return": "2026-05-31"
+                "expected_return": "2026-06-20"
               },
               {
                 "name": "Ilaix Moriba",
@@ -76718,13 +77340,13 @@
                 "name": "Manu Bueno",
                 "status": "injured",
                 "reason": "Knee Injury",
-                "expected_return": "2026-05-31"
+                "expected_return": "2026-06-02"
               },
               {
                 "name": "Marcão",
-                "status": "doubtful",
-                "reason": "Physical Discomfort",
-                "expected_return": "2026-05-21"
+                "status": "injured",
+                "reason": "Muscle Injury",
+                "expected_return": "2026-06-10"
               }
             ]
           },
@@ -76903,7 +77525,7 @@
               "name": "Carl Starfelt",
               "status": "injured",
               "reason": "Back Injury",
-              "expected_return": "2026-05-31"
+              "expected_return": "2026-06-20"
             },
             {
               "name": "Ilaix Moriba",
@@ -76947,13 +77569,13 @@
               "name": "Manu Bueno",
               "status": "injured",
               "reason": "Knee Injury",
-              "expected_return": "2026-05-31"
+              "expected_return": "2026-06-02"
             },
             {
               "name": "Marcão",
-              "status": "doubtful",
-              "reason": "Physical Discomfort",
-              "expected_return": "2026-05-21"
+              "status": "injured",
+              "reason": "Muscle Injury",
+              "expected_return": "2026-06-10"
             }
           ]
         },
@@ -78205,7 +78827,7 @@
                 "name": "Cyril Ngonge",
                 "status": "injured",
                 "reason": "Knock Injury",
-                "expected_return": "2026-05-31"
+                "expected_return": "2026-06-10"
               },
               {
                 "name": "Javi Puado",
@@ -78235,9 +78857,9 @@
               },
               {
                 "name": "Duje Ćaleta-Car",
-                "status": "doubtful",
+                "status": "injured",
                 "reason": "Physical Discomfort",
-                "expected_return": "2026-06-03"
+                "expected_return": "2026-06-02"
               },
               {
                 "name": "Gonçalo Guedes",
@@ -78253,9 +78875,9 @@
               },
               {
                 "name": "Jon Gorrotxategi",
-                "status": "doubtful",
+                "status": "injured",
                 "reason": "Physical Discomfort",
-                "expected_return": "2026-06-03"
+                "expected_return": "2026-06-02"
               },
               {
                 "name": "Jon Karrikaburu",
@@ -78452,7 +79074,7 @@
               "name": "Cyril Ngonge",
               "status": "injured",
               "reason": "Knock Injury",
-              "expected_return": "2026-05-31"
+              "expected_return": "2026-06-10"
             },
             {
               "name": "Javi Puado",
@@ -78482,9 +79104,9 @@
             },
             {
               "name": "Duje Ćaleta-Car",
-              "status": "doubtful",
+              "status": "injured",
               "reason": "Physical Discomfort",
-              "expected_return": "2026-06-03"
+              "expected_return": "2026-06-02"
             },
             {
               "name": "Gonçalo Guedes",
@@ -78500,9 +79122,9 @@
             },
             {
               "name": "Jon Gorrotxategi",
-              "status": "doubtful",
+              "status": "injured",
               "reason": "Physical Discomfort",
-              "expected_return": "2026-06-03"
+              "expected_return": "2026-06-02"
             },
             {
               "name": "Jon Karrikaburu",
@@ -78918,9 +79540,9 @@
             "home": [
               {
                 "name": "Andriy Lunin",
-                "status": "doubtful",
+                "status": "injured",
                 "reason": "Virus",
-                "expected_return": "2026-06-03"
+                "expected_return": "2026-06-02"
               },
               {
                 "name": "Antonio Rüdiger",
@@ -78998,9 +79620,9 @@
               },
               {
                 "name": "Beñat Prados",
-                "status": "doubtful",
+                "status": "injured",
                 "reason": "Cruciate Ligament Injury",
-                "expected_return": "2026-05-21"
+                "expected_return": "2026-06-10"
               },
               {
                 "name": "Dani Vivian",
@@ -79225,9 +79847,9 @@
           "home": [
             {
               "name": "Andriy Lunin",
-              "status": "doubtful",
+              "status": "injured",
               "reason": "Virus",
-              "expected_return": "2026-06-03"
+              "expected_return": "2026-06-02"
             },
             {
               "name": "Antonio Rüdiger",
@@ -79305,9 +79927,9 @@
             },
             {
               "name": "Beñat Prados",
-              "status": "doubtful",
+              "status": "injured",
               "reason": "Cruciate Ligament Injury",
-              "expected_return": "2026-05-21"
+              "expected_return": "2026-06-10"
             },
             {
               "name": "Dani Vivian",
@@ -79766,15 +80388,15 @@
               },
               {
                 "name": "Angel Ortiz",
-                "status": "doubtful",
+                "status": "injured",
                 "reason": "Muscle Injury",
-                "expected_return": "2026-05-31"
+                "expected_return": "2026-06-10"
               },
               {
                 "name": "Marc Bartra",
                 "status": "injured",
                 "reason": "Foot Injury",
-                "expected_return": "2026-05-31"
+                "expected_return": null
               },
               {
                 "name": "Natan",
@@ -79790,9 +80412,9 @@
               },
               {
                 "name": "Sergi Altimira",
-                "status": "doubtful",
+                "status": "injured",
                 "reason": "Calf Injury",
-                "expected_return": "2026-06-03"
+                "expected_return": "2026-06-10"
               }
             ],
             "away": [
@@ -80031,15 +80653,15 @@
             },
             {
               "name": "Angel Ortiz",
-              "status": "doubtful",
+              "status": "injured",
               "reason": "Muscle Injury",
-              "expected_return": "2026-05-31"
+              "expected_return": "2026-06-10"
             },
             {
               "name": "Marc Bartra",
               "status": "injured",
               "reason": "Foot Injury",
-              "expected_return": "2026-05-31"
+              "expected_return": null
             },
             {
               "name": "Natan",
@@ -80055,9 +80677,9 @@
             },
             {
               "name": "Sergi Altimira",
-              "status": "doubtful",
+              "status": "injured",
               "reason": "Calf Injury",
-              "expected_return": "2026-06-03"
+              "expected_return": "2026-06-10"
             }
           ],
           "away": [
@@ -81259,13 +81881,13 @@
                 "name": "Juan Carlos",
                 "status": "injured",
                 "reason": "Cruciate Ligament Injury",
-                "expected_return": "2026-05-31"
+                "expected_return": null
               },
               {
                 "name": "Marc-André Ter Stegen",
                 "status": "injured",
                 "reason": "Hamstring Injury",
-                "expected_return": "2026-05-31"
+                "expected_return": "2026-06-20"
               },
               {
                 "name": "Portu",
@@ -81500,13 +82122,13 @@
               "name": "Juan Carlos",
               "status": "injured",
               "reason": "Cruciate Ligament Injury",
-              "expected_return": "2026-05-31"
+              "expected_return": null
             },
             {
               "name": "Marc-André Ter Stegen",
               "status": "injured",
               "reason": "Hamstring Injury",
-              "expected_return": "2026-05-31"
+              "expected_return": "2026-06-20"
             },
             {
               "name": "Portu",
@@ -85792,6 +86414,12 @@
                 "status": "doubtful",
                 "reason": "Knee Injury",
                 "expected_return": null
+              },
+              {
+                "name": "Maílton",
+                "status": "suspended",
+                "reason": "Yellow card accumulation suspension",
+                "expected_return": "2026-05-24"
               }
             ],
             "away": [
@@ -86030,6 +86658,12 @@
               "status": "doubtful",
               "reason": "Knee Injury",
               "expected_return": null
+            },
+            {
+              "name": "Maílton",
+              "status": "suspended",
+              "reason": "Yellow card accumulation suspension",
+              "expected_return": "2026-05-24"
             }
           ],
           "away": [
@@ -88942,6 +89576,12 @@
                 "expected_return": "2026-05-20"
               },
               {
+                "name": "Gabriel Barbosa Pinheiro",
+                "status": "suspended",
+                "reason": "Yellow card accumulation suspension",
+                "expected_return": "2026-05-25"
+              },
+              {
                 "name": "Luis Mandaca",
                 "status": "injured",
                 "reason": "Ankle Injury",
@@ -88959,6 +89599,12 @@
                 "name": "Iury Castilho",
                 "status": "doubtful",
                 "reason": "Thigh Injury",
+                "expected_return": null
+              },
+              {
+                "name": "Marlon",
+                "status": "injured",
+                "reason": "Hamstring",
                 "expected_return": null
               }
             ]
@@ -89141,6 +89787,12 @@
               "expected_return": "2026-05-20"
             },
             {
+              "name": "Gabriel Barbosa Pinheiro",
+              "status": "suspended",
+              "reason": "Yellow card accumulation suspension",
+              "expected_return": "2026-05-25"
+            },
+            {
               "name": "Luis Mandaca",
               "status": "injured",
               "reason": "Ankle Injury",
@@ -89158,6 +89810,12 @@
               "name": "Iury Castilho",
               "status": "doubtful",
               "reason": "Thigh Injury",
+              "expected_return": null
+            },
+            {
+              "name": "Marlon",
+              "status": "injured",
+              "reason": "Hamstring",
               "expected_return": null
             }
           ]
@@ -90266,9 +90924,9 @@
               },
               {
                 "name": "Andrei Chirila",
-                "status": "doubtful",
-                "reason": "",
-                "expected_return": null
+                "status": "injured",
+                "reason": "Concussion",
+                "expected_return": "2026-05-25"
               },
               {
                 "name": "Bryan Ramirez",
@@ -90549,9 +91207,9 @@
             },
             {
               "name": "Andrei Chirila",
-              "status": "doubtful",
-              "reason": "",
-              "expected_return": null
+              "status": "injured",
+              "reason": "Concussion",
+              "expected_return": "2026-05-25"
             },
             {
               "name": "Bryan Ramirez",
@@ -94251,6 +94909,12 @@
                 "expected_return": "2026-05-25"
               },
               {
+                "name": "Oliver Larraz",
+                "status": "injured",
+                "reason": "Hip Injury",
+                "expected_return": "2026-05-25"
+              },
+              {
                 "name": "Ralph Priso",
                 "status": "injured",
                 "reason": "Hamstring",
@@ -94555,6 +95219,12 @@
               "name": "Emmanuel Sabbi",
               "status": "injured",
               "reason": "Groin Injury",
+              "expected_return": "2026-05-25"
+            },
+            {
+              "name": "Oliver Larraz",
+              "status": "injured",
+              "reason": "Hip Injury",
               "expected_return": "2026-05-25"
             },
             {
@@ -102781,6 +103451,18 @@
                 "expected_return": "2026-06-10"
               },
               {
+                "name": "Edoardo Pieragnolo",
+                "status": "injured",
+                "reason": "Muscle Injury",
+                "expected_return": "2026-06-02"
+              },
+              {
+                "name": "Fali Candé",
+                "status": "injured",
+                "reason": "Muscle Injury",
+                "expected_return": "2026-06-02"
+              },
+              {
                 "name": "Filippo Romagna",
                 "status": "injured",
                 "reason": "Physical Discomfort",
@@ -103026,6 +103708,18 @@
               "status": "injured",
               "reason": "Meniscus Injury",
               "expected_return": "2026-06-10"
+            },
+            {
+              "name": "Edoardo Pieragnolo",
+              "status": "injured",
+              "reason": "Muscle Injury",
+              "expected_return": "2026-06-02"
+            },
+            {
+              "name": "Fali Candé",
+              "status": "injured",
+              "reason": "Muscle Injury",
+              "expected_return": "2026-06-02"
             },
             {
               "name": "Filippo Romagna",
@@ -107032,9 +107726,9 @@
               },
               {
                 "name": "Rico Henry",
-                "status": "doubtful",
+                "status": "injured",
                 "reason": "Hamstring Injury",
-                "expected_return": "2026-06-02"
+                "expected_return": "2026-05-31"
               },
               {
                 "name": "Vitaly Janelt",
@@ -107309,9 +108003,9 @@
             },
             {
               "name": "Rico Henry",
-              "status": "doubtful",
+              "status": "injured",
               "reason": "Hamstring Injury",
-              "expected_return": "2026-06-02"
+              "expected_return": "2026-05-31"
             },
             {
               "name": "Vitaly Janelt",
@@ -114684,7 +115378,7 @@
                 "name": "Mats Wieffer",
                 "status": "doubtful",
                 "reason": "Knock Injury",
-                "expected_return": "2026-05-25"
+                "expected_return": "2026-06-03"
               },
               {
                 "name": "Solly March",
@@ -114907,7 +115601,7 @@
               "name": "Mats Wieffer",
               "status": "doubtful",
               "reason": "Knock Injury",
-              "expected_return": "2026-05-25"
+              "expected_return": "2026-06-03"
             },
             {
               "name": "Solly March",
@@ -122402,6 +123096,12 @@
                 "status": "injured",
                 "reason": "Broken Foot",
                 "expected_return": "2026-05-25"
+              },
+              {
+                "name": "Siebe Van Der Heyden",
+                "status": "injured",
+                "reason": "Unknown",
+                "expected_return": null
               }
             ]
           },
@@ -122631,6 +123331,12 @@
               "status": "injured",
               "reason": "Broken Foot",
               "expected_return": "2026-05-25"
+            },
+            {
+              "name": "Siebe Van Der Heyden",
+              "status": "injured",
+              "reason": "Unknown",
+              "expected_return": null
             }
           ]
         },
@@ -127922,6 +128628,12 @@
           "unavailable_players": {
             "home": [
               {
+                "name": "Faris Moumbagna",
+                "status": "injured",
+                "reason": "Muscle Injury",
+                "expected_return": "2026-06-10"
+              },
+              {
                 "name": "Federico Baschirotto",
                 "status": "injured",
                 "reason": "Thigh Injury",
@@ -128162,6 +128874,12 @@
         },
         "unavailable_players": {
           "home": [
+            {
+              "name": "Faris Moumbagna",
+              "status": "injured",
+              "reason": "Muscle Injury",
+              "expected_return": "2026-06-10"
+            },
             {
               "name": "Federico Baschirotto",
               "status": "injured",
@@ -130219,6 +130937,12 @@
           "unavailable_players": {
             "home": [
               {
+                "name": "Riccardo Sottil",
+                "status": "injured",
+                "reason": "Muscle Injury",
+                "expected_return": "2026-06-02"
+              },
+              {
                 "name": "Sadik Fofana",
                 "status": "injured",
                 "reason": "Ligament Injury",
@@ -130435,6 +131159,12 @@
         },
         "unavailable_players": {
           "home": [
+            {
+              "name": "Riccardo Sottil",
+              "status": "injured",
+              "reason": "Muscle Injury",
+              "expected_return": "2026-06-02"
+            },
             {
               "name": "Sadik Fofana",
               "status": "injured",
@@ -132299,7 +133029,7 @@
                 "name": "Julián Alvarez",
                 "status": "injured",
                 "reason": "Ankle Injury",
-                "expected_return": "2026-05-31"
+                "expected_return": "2026-06-10"
               },
               {
                 "name": "Marc Pubill",
@@ -132570,7 +133300,7 @@
               "name": "Julián Alvarez",
               "status": "injured",
               "reason": "Ankle Injury",
-              "expected_return": "2026-05-31"
+              "expected_return": "2026-06-10"
             },
             {
               "name": "Marc Pubill",
@@ -133884,6 +134614,12 @@
                 "expected_return": null
               },
               {
+                "name": "Guilherme Lopes",
+                "status": "suspended",
+                "reason": "Yellow card accumulation suspension",
+                "expected_return": "2026-05-25"
+              },
+              {
                 "name": "Guilherme Marques",
                 "status": "doubtful",
                 "reason": "Ankle Injury",
@@ -134099,6 +134835,12 @@
               "status": "injured",
               "reason": "Knee Injury",
               "expected_return": null
+            },
+            {
+              "name": "Guilherme Lopes",
+              "status": "suspended",
+              "reason": "Yellow card accumulation suspension",
+              "expected_return": "2026-05-25"
             },
             {
               "name": "Guilherme Marques",
@@ -134529,9 +135271,21 @@
                 "expected_return": null
               },
               {
+                "name": "Lucas Lovat",
+                "status": "suspended",
+                "reason": "Yellow card accumulation suspension",
+                "expected_return": "2026-05-25"
+              },
+              {
                 "name": "Matheus Albino",
                 "status": "injured",
                 "reason": "Shoulder Injury",
+                "expected_return": null
+              },
+              {
+                "name": "Wallace",
+                "status": "doubtful",
+                "reason": "Muscle Injury",
                 "expected_return": null
               }
             ],
@@ -134770,9 +135524,21 @@
               "expected_return": null
             },
             {
+              "name": "Lucas Lovat",
+              "status": "suspended",
+              "reason": "Yellow card accumulation suspension",
+              "expected_return": "2026-05-25"
+            },
+            {
               "name": "Matheus Albino",
               "status": "injured",
               "reason": "Shoulder Injury",
+              "expected_return": null
+            },
+            {
+              "name": "Wallace",
+              "status": "doubtful",
+              "reason": "Muscle Injury",
               "expected_return": null
             }
           ],
@@ -135164,6 +135930,18 @@
           "unavailable_players": {
             "home": [
               {
+                "name": "Douglas Teixeira",
+                "status": "suspended",
+                "reason": "Yellow card accumulation suspension",
+                "expected_return": "2026-05-26"
+              },
+              {
+                "name": "Guilherme Aquino",
+                "status": "suspended",
+                "reason": "Yellow card accumulation suspension",
+                "expected_return": "2026-05-26"
+              },
+              {
                 "name": "Jefferson Maciel",
                 "status": "injured",
                 "reason": "Broken Collarbone",
@@ -135398,6 +136176,18 @@
         },
         "unavailable_players": {
           "home": [
+            {
+              "name": "Douglas Teixeira",
+              "status": "suspended",
+              "reason": "Yellow card accumulation suspension",
+              "expected_return": "2026-05-26"
+            },
+            {
+              "name": "Guilherme Aquino",
+              "status": "suspended",
+              "reason": "Yellow card accumulation suspension",
+              "expected_return": "2026-05-26"
+            },
             {
               "name": "Jefferson Maciel",
               "status": "injured",
@@ -135925,6 +136715,12 @@
                 "expected_return": null
               },
               {
+                "name": "Miguel Almiron",
+                "status": "doubtful",
+                "reason": "Knee Injury",
+                "expected_return": "2026-05-25"
+              },
+              {
                 "name": "Tomás Jacob",
                 "status": "doubtful",
                 "reason": "",
@@ -136152,6 +136948,12 @@
               "status": "doubtful",
               "reason": "",
               "expected_return": null
+            },
+            {
+              "name": "Miguel Almiron",
+              "status": "doubtful",
+              "reason": "Knee Injury",
+              "expected_return": "2026-05-25"
             },
             {
               "name": "Tomás Jacob",
@@ -136612,6 +137414,12 @@
                 "expected_return": "2026-06-15"
               },
               {
+                "name": "Pedro Romano",
+                "status": "suspended",
+                "reason": "Yellow card accumulation suspension",
+                "expected_return": "2026-05-25"
+              },
+              {
                 "name": "Rafael Silva",
                 "status": "doubtful",
                 "reason": "Knee Injury",
@@ -136827,6 +137635,12 @@
               "status": "injured",
               "reason": "Ankle/Foot Injury",
               "expected_return": "2026-06-15"
+            },
+            {
+              "name": "Pedro Romano",
+              "status": "suspended",
+              "reason": "Yellow card accumulation suspension",
+              "expected_return": "2026-05-25"
             },
             {
               "name": "Rafael Silva",
@@ -138148,6 +138962,12 @@
                 "expected_return": null
               },
               {
+                "name": "Jesus Bueno",
+                "status": "injured",
+                "reason": "Ankle Injury",
+                "expected_return": "2026-05-26"
+              },
+              {
                 "name": "Olivier Mbaizo",
                 "status": "injured",
                 "reason": "Hamstring",
@@ -138417,6 +139237,12 @@
               "status": "injured",
               "reason": "Shoulder Injury",
               "expected_return": null
+            },
+            {
+              "name": "Jesus Bueno",
+              "status": "injured",
+              "reason": "Ankle Injury",
+              "expected_return": "2026-05-26"
             },
             {
               "name": "Olivier Mbaizo",
@@ -139700,6 +140526,12 @@
           "unavailable_players": {
             "home": [
               {
+                "name": "Gabriel Boschilia",
+                "status": "suspended",
+                "reason": "Yellow card accumulation suspension",
+                "expected_return": "2026-05-26"
+              },
+              {
                 "name": "Vinicius Mingotti",
                 "status": "injured",
                 "reason": "MCL Knee Injury",
@@ -139910,6 +140742,12 @@
         },
         "unavailable_players": {
           "home": [
+            {
+              "name": "Gabriel Boschilia",
+              "status": "suspended",
+              "reason": "Yellow card accumulation suspension",
+              "expected_return": "2026-05-26"
+            },
             {
               "name": "Vinicius Mingotti",
               "status": "injured",
@@ -140866,7 +141704,7 @@
                 "name": "Amin Boudri",
                 "status": "doubtful",
                 "reason": "Hamstring",
-                "expected_return": "2026-05-19"
+                "expected_return": "2026-05-26"
               },
               {
                 "name": "Hugo Lloris",
@@ -140900,6 +141738,18 @@
               }
             ],
             "away": [
+              {
+                "name": "Alex Roldán",
+                "status": "injured",
+                "reason": "Hamstring",
+                "expected_return": "2026-05-26"
+              },
+              {
+                "name": "Daniel Musovski",
+                "status": "injured",
+                "reason": "Unknown",
+                "expected_return": null
+              },
               {
                 "name": "Nikola Petković",
                 "status": "injured",
@@ -141101,7 +141951,7 @@
               "name": "Amin Boudri",
               "status": "doubtful",
               "reason": "Hamstring",
-              "expected_return": "2026-05-19"
+              "expected_return": "2026-05-26"
             },
             {
               "name": "Hugo Lloris",
@@ -141135,6 +141985,18 @@
             }
           ],
           "away": [
+            {
+              "name": "Alex Roldán",
+              "status": "injured",
+              "reason": "Hamstring",
+              "expected_return": "2026-05-26"
+            },
+            {
+              "name": "Daniel Musovski",
+              "status": "injured",
+              "reason": "Unknown",
+              "expected_return": null
+            },
             {
               "name": "Nikola Petković",
               "status": "injured",
