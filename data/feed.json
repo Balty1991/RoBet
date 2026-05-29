@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-29T20:30:45.301Z",
+  "generated_at": "2026-05-29T22:38:48.772Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -90,17 +90,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.97,
-          "odds_draw": 3.04,
-          "odds_away": 4.11,
-          "odds_over_15": 1.48,
-          "odds_over_25": 2.48,
-          "odds_over_35": 4.68,
-          "odds_under_15": 2.49,
-          "odds_under_25": 1.5,
-          "odds_under_35": 1.16,
-          "odds_btts_yes": 2.13,
-          "odds_btts_no": 1.65,
+          "odds_home": 1.93,
+          "odds_draw": 3.02,
+          "odds_away": 4.38,
+          "odds_over_15": 1.51,
+          "odds_over_25": 2.57,
+          "odds_over_35": 4.96,
+          "odds_under_15": 2.41,
+          "odds_under_25": 1.47,
+          "odds_under_35": 1.15,
+          "odds_btts_yes": 2.21,
+          "odds_btts_no": 1.6,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -330,17 +330,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.97,
-        "odds_draw": 3.04,
-        "odds_away": 4.11,
-        "odds_over_15": 1.48,
-        "odds_over_25": 2.48,
-        "odds_over_35": 4.68,
-        "odds_under_15": 2.49,
-        "odds_under_25": 1.5,
-        "odds_under_35": 1.16,
-        "odds_btts_yes": 2.13,
-        "odds_btts_no": 1.65,
+        "odds_home": 1.93,
+        "odds_draw": 3.02,
+        "odds_away": 4.38,
+        "odds_over_15": 1.51,
+        "odds_over_25": 2.57,
+        "odds_over_35": 4.96,
+        "odds_under_15": 2.41,
+        "odds_under_25": 1.47,
+        "odds_under_35": 1.15,
+        "odds_btts_yes": 2.21,
+        "odds_btts_no": 1.6,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -784,16 +784,16 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.3,
-          "odds_draw": 3.13,
-          "odds_away": 3.17,
-          "odds_over_15": 1.38,
-          "odds_over_25": 2.2,
-          "odds_over_35": 3.93,
-          "odds_under_15": 2.85,
-          "odds_under_25": 1.63,
-          "odds_under_35": 1.22,
-          "odds_btts_yes": 1.89,
+          "odds_home": 2.33,
+          "odds_draw": 3.09,
+          "odds_away": 3.14,
+          "odds_over_15": 1.39,
+          "odds_over_25": 2.22,
+          "odds_over_35": 3.96,
+          "odds_under_15": 2.8,
+          "odds_under_25": 1.62,
+          "odds_under_35": 1.21,
+          "odds_btts_yes": 1.9,
           "odds_btts_no": 1.82,
           "actual_home_xg": null,
           "actual_away_xg": null,
@@ -984,16 +984,16 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.3,
-        "odds_draw": 3.13,
-        "odds_away": 3.17,
-        "odds_over_15": 1.38,
-        "odds_over_25": 2.2,
-        "odds_over_35": 3.93,
-        "odds_under_15": 2.85,
-        "odds_under_25": 1.63,
-        "odds_under_35": 1.22,
-        "odds_btts_yes": 1.89,
+        "odds_home": 2.33,
+        "odds_draw": 3.09,
+        "odds_away": 3.14,
+        "odds_over_15": 1.39,
+        "odds_over_25": 2.22,
+        "odds_over_35": 3.96,
+        "odds_under_15": 2.8,
+        "odds_under_25": 1.62,
+        "odds_under_35": 1.21,
+        "odds_btts_yes": 1.9,
         "odds_btts_no": 1.82,
         "actual_home_xg": null,
         "actual_away_xg": null,
@@ -1395,13 +1395,13 @@
           "odds_draw": 3.17,
           "odds_away": 2.54,
           "odds_over_15": 1.34,
-          "odds_over_25": 2.07,
-          "odds_over_35": 3.63,
-          "odds_under_15": 3.04,
+          "odds_over_25": 2.08,
+          "odds_over_35": 3.61,
+          "odds_under_15": 3.01,
           "odds_under_25": 1.7,
           "odds_under_35": 1.25,
           "odds_btts_yes": 1.81,
-          "odds_btts_no": 1.91,
+          "odds_btts_no": 1.9,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -1586,13 +1586,13 @@
         "odds_draw": 3.17,
         "odds_away": 2.54,
         "odds_over_15": 1.34,
-        "odds_over_25": 2.07,
-        "odds_over_35": 3.63,
-        "odds_under_15": 3.04,
+        "odds_over_25": 2.08,
+        "odds_over_35": 3.61,
+        "odds_under_15": 3.01,
         "odds_under_25": 1.7,
         "odds_under_35": 1.25,
         "odds_btts_yes": 1.81,
-        "odds_btts_no": 1.91,
+        "odds_btts_no": 1.9,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -1977,17 +1977,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.64,
-          "odds_draw": 3.99,
-          "odds_away": 4.66,
-          "odds_over_15": 1.21,
+          "odds_home": 1.67,
+          "odds_draw": 3.93,
+          "odds_away": 4.57,
+          "odds_over_15": 1.2,
           "odds_over_25": 1.66,
           "odds_over_35": 2.62,
-          "odds_under_15": 4.14,
-          "odds_under_25": 2.14,
+          "odds_under_15": 4.13,
+          "odds_under_25": 2.13,
           "odds_under_35": 1.44,
           "odds_btts_yes": 1.68,
-          "odds_btts_no": 2.07,
+          "odds_btts_no": 2.08,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -2171,17 +2171,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.64,
-        "odds_draw": 3.99,
-        "odds_away": 4.66,
-        "odds_over_15": 1.21,
+        "odds_home": 1.67,
+        "odds_draw": 3.93,
+        "odds_away": 4.57,
+        "odds_over_15": 1.2,
         "odds_over_25": 1.66,
         "odds_over_35": 2.62,
-        "odds_under_15": 4.14,
-        "odds_under_25": 2.14,
+        "odds_under_15": 4.13,
+        "odds_under_25": 2.13,
         "odds_under_35": 1.44,
         "odds_btts_yes": 1.68,
-        "odds_btts_no": 2.07,
+        "odds_btts_no": 2.08,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -2570,16 +2570,16 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.82,
-          "odds_draw": 3.34,
-          "odds_away": 2.39,
+          "odds_home": 2.87,
+          "odds_draw": 3.35,
+          "odds_away": 2.37,
           "odds_over_15": 1.25,
           "odds_over_25": 1.81,
           "odds_over_35": 2.94,
-          "odds_under_15": 3.68,
+          "odds_under_15": 3.65,
           "odds_under_25": 1.93,
           "odds_under_35": 1.36,
-          "odds_btts_yes": 1.65,
+          "odds_btts_yes": 1.64,
           "odds_btts_no": 2.14,
           "actual_home_xg": null,
           "actual_away_xg": null,
@@ -2768,16 +2768,16 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.82,
-        "odds_draw": 3.34,
-        "odds_away": 2.39,
+        "odds_home": 2.87,
+        "odds_draw": 3.35,
+        "odds_away": 2.37,
         "odds_over_15": 1.25,
         "odds_over_25": 1.81,
         "odds_over_35": 2.94,
-        "odds_under_15": 3.68,
+        "odds_under_15": 3.65,
         "odds_under_25": 1.93,
         "odds_under_35": 1.36,
-        "odds_btts_yes": 1.65,
+        "odds_btts_yes": 1.64,
         "odds_btts_no": 2.14,
         "actual_home_xg": null,
         "actual_away_xg": null,
@@ -21692,7 +21692,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Grêmio's rolling hot right now, and Corinthians are trying to find their feet** — this looks like a classic home-court advantage spot in Porto Alegre. 🔥\n\nGrêmio are unbeaten in five (3W, 2D), while Corinthians just dropped a pair and are scratching for consistency. The visitors have won 3 of the last 7 head-to-heads, but Grêmio's form at the Arena is seriously dangerous.\n\nKey storylines:\n\n- **Tetê and M. Braithwaite** leading Grêmio's attacking charge against a Corinthians backline missing key depth\n- **Corinthians' injury crisis** (Hugo, J. Martínez, Kayke all out) forces them into unfamiliar personnel\n- **Grêmio's defensive record** at home under pressure — they've conceded but kept things relatively tight lately\n\nExpected lineups:\n\n- **Grêmio**: T. Beltrame, Viery, P. Gabriel, E. Noriega, W. Leonardo, F. Amuzu, L. Pérez, C. Vinícius, Riquelme, M. Braithwaite, Tetê\n- **Corinthians**: H. Souza, G. Henrique, G. Paulista, Matheuzinho, A. Ramalho, R. Garro, B. Bidon, Y. Alberto, Raniele, Kaio César, P. Raul\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Grêmio 2–0 Corinthians** — home edge + form advantage too steep to overcome.",
+            "generated_at": "2026-05-29T20:45:33.795458+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-05-24T05:20:33.176181+03:00",
@@ -22017,7 +22020,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Grêmio's rolling hot right now, and Corinthians are trying to find their feet** — this looks like a classic home-court advantage spot in Porto Alegre. 🔥\n\nGrêmio are unbeaten in five (3W, 2D), while Corinthians just dropped a pair and are scratching for consistency. The visitors have won 3 of the last 7 head-to-heads, but Grêmio's form at the Arena is seriously dangerous.\n\nKey storylines:\n\n- **Tetê and M. Braithwaite** leading Grêmio's attacking charge against a Corinthians backline missing key depth\n- **Corinthians' injury crisis** (Hugo, J. Martínez, Kayke all out) forces them into unfamiliar personnel\n- **Grêmio's defensive record** at home under pressure — they've conceded but kept things relatively tight lately\n\nExpected lineups:\n\n- **Grêmio**: T. Beltrame, Viery, P. Gabriel, E. Noriega, W. Leonardo, F. Amuzu, L. Pérez, C. Vinícius, Riquelme, M. Braithwaite, Tetê\n- **Corinthians**: H. Souza, G. Henrique, G. Paulista, Matheuzinho, A. Ramalho, R. Garro, B. Bidon, Y. Alberto, Raniele, Kaio César, P. Raul\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Grêmio 2–0 Corinthians** — home edge + form advantage too steep to overcome.",
+          "generated_at": "2026-05-29T20:45:33.795458+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-05-29",
@@ -22619,7 +22625,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Bahia are spiraling, and Botafogo smell blood** — the visitors arrive in Salvador with three wins in their last five, while the hosts have managed just two draws in the same stretch. 🔥\n\nBahia's leaky defense (losses to Coritiba, Remo) will face a **Botafogo attack that just dismantled Independiente 3-0**. But the home crowd at Arena Fonte Nova and Botafogo's injury troubles (Allan out, Bastos sidelined) keep this from being a runaway.\n\nKey storylines:\n\n- **Everaldo and W. José** need to spark Bahia's limp forward line, but **Botafogo's A. Telles and N. Ferraresi** form a steadier backline than the hosts can break down easily\n- **Bahia's missing three defenders** (C. Alexandre, L. Juba, L. Vieira) leave the door open for **C. Ramos and Huguinho** to feast on set pieces\n- This is Salvador's last stand for momentum — a loss drops them further into the muck\n\nExpected lineups:\n\n- **Bahia**: J. Paulo, D. Duarte, S. R. Mingo, Kanu, I. Borduchi, E. Ribeiro, J. Lucas, Erick, E. Pulga, W. José, Everaldo\n- **Botafogo**: Neto, N. Ferraresi, A. Telles, M. Ponte, Vitinho, C. Medina, Edenilson, Á. Montoro, Huguinho, C. Ramos, A. Cabral\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**1-1 draw** — Botafogo edges possession and chances, but Bahia's home fortress holds firm. Coin flip. ⚖️",
+            "generated_at": "2026-05-29T20:45:39.433142+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-05-24T05:20:32.633648+03:00",
@@ -22937,7 +22946,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Bahia are spiraling, and Botafogo smell blood** — the visitors arrive in Salvador with three wins in their last five, while the hosts have managed just two draws in the same stretch. 🔥\n\nBahia's leaky defense (losses to Coritiba, Remo) will face a **Botafogo attack that just dismantled Independiente 3-0**. But the home crowd at Arena Fonte Nova and Botafogo's injury troubles (Allan out, Bastos sidelined) keep this from being a runaway.\n\nKey storylines:\n\n- **Everaldo and W. José** need to spark Bahia's limp forward line, but **Botafogo's A. Telles and N. Ferraresi** form a steadier backline than the hosts can break down easily\n- **Bahia's missing three defenders** (C. Alexandre, L. Juba, L. Vieira) leave the door open for **C. Ramos and Huguinho** to feast on set pieces\n- This is Salvador's last stand for momentum — a loss drops them further into the muck\n\nExpected lineups:\n\n- **Bahia**: J. Paulo, D. Duarte, S. R. Mingo, Kanu, I. Borduchi, E. Ribeiro, J. Lucas, Erick, E. Pulga, W. José, Everaldo\n- **Botafogo**: Neto, N. Ferraresi, A. Telles, M. Ponte, Vitinho, C. Medina, Edenilson, Á. Montoro, Huguinho, C. Ramos, A. Cabral\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**1-1 draw** — Botafogo edges possession and chances, but Bahia's home fortress holds firm. Coin flip. ⚖️",
+          "generated_at": "2026-05-29T20:45:39.433142+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-05-29",
@@ -23460,9 +23472,21 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 26,
+              "sentence": "A year ago, Athletic Club Sjdr were number 19 in the table with 6 points. Now they are number 10 with 14 points."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Athletic Club Sjdr have played 4 home matches in a row without winning."
+            }
+          ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Athletic Club's inconsistency meets Fortaleza's form in what could be a tight, low-scoring affair.** 🔒 The Northeastern side has been sharper lately, but the hosts are due a big result at home.\n\nAthletic Club has wobbled between wins and draws in recent weeks, while **Fortaleza** impressed with a 3-0 demolition of Londrina but came unstuck against Ceará. Both teams have shown defensive solidity in patches, though neither is exactly lighting the Série B on fire.\n\nKey storylines:\n\n- **Athletic Club's** home record needs a statement win — they've drawn too many at the Estádio Joaquim Portugal\n- **Fortaleza's** attacking threat (three goals vs Londrina) will test the defensive partnership of Indio and Vieira\n- Without R. Tavares, **Athletic Club** may lean harder on Zeca down the left flank to spark play\n\nExpected lineups:\n\n- **Athletic Club**: Luan Polli, L. Belezi, G. Indio, F. Vieira, Zeca, K. Rodrigues, Jota, J. Miguel, Ruan Assis, O. Otusanya, G. Moyses\n- **Fortaleza**: Vinicius, G. Fuentes, E. Brítez, L. Gazal, Maílton, T. Pochettino, Pierre, Ryan, M. Júnior, J. Miritello, Vitinho\n\nBest picks:\n\n- **Total Goals Under 3.5**: Under 3.5 goals\n\nPrediction: **1-1 draw.** The model sees a stalemate, and both sides' recent form suggests a cautious, cagey contest 🤝",
+            "generated_at": "2026-05-29T21:45:26.971156+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-05-24T05:20:33.717351+03:00",
@@ -23684,9 +23708,21 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 26,
+            "sentence": "A year ago, Athletic Club Sjdr were number 19 in the table with 6 points. Now they are number 10 with 14 points."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Athletic Club Sjdr have played 4 home matches in a row without winning."
+          }
+        ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Athletic Club's inconsistency meets Fortaleza's form in what could be a tight, low-scoring affair.** 🔒 The Northeastern side has been sharper lately, but the hosts are due a big result at home.\n\nAthletic Club has wobbled between wins and draws in recent weeks, while **Fortaleza** impressed with a 3-0 demolition of Londrina but came unstuck against Ceará. Both teams have shown defensive solidity in patches, though neither is exactly lighting the Série B on fire.\n\nKey storylines:\n\n- **Athletic Club's** home record needs a statement win — they've drawn too many at the Estádio Joaquim Portugal\n- **Fortaleza's** attacking threat (three goals vs Londrina) will test the defensive partnership of Indio and Vieira\n- Without R. Tavares, **Athletic Club** may lean harder on Zeca down the left flank to spark play\n\nExpected lineups:\n\n- **Athletic Club**: Luan Polli, L. Belezi, G. Indio, F. Vieira, Zeca, K. Rodrigues, Jota, J. Miguel, Ruan Assis, O. Otusanya, G. Moyses\n- **Fortaleza**: Vinicius, G. Fuentes, E. Brítez, L. Gazal, Maílton, T. Pochettino, Pierre, Ryan, M. Júnior, J. Miritello, Vitinho\n\nBest picks:\n\n- **Total Goals Under 3.5**: Under 3.5 goals\n\nPrediction: **1-1 draw.** The model sees a stalemate, and both sides' recent form suggests a cautious, cagey contest 🤝",
+          "generated_at": "2026-05-29T21:45:26.971156+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-05-29",
@@ -24085,7 +24121,20 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 2,
+              "sentence": "When playing at home, Charleston have not lost to Detroit City FC in their last 3 encounters."
+            },
+            {
+              "type_id": 24,
+              "sentence": "Charleston's home record this season: 3-1-0."
+            },
+            {
+              "type_id": 24,
+              "sentence": "Detroit City FC's away record this season: 0-2-3."
+            }
+          ],
           "sr_stats": null,
           "ai_preview": null,
           "live_websocket": true
@@ -24260,7 +24309,20 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 2,
+            "sentence": "When playing at home, Charleston have not lost to Detroit City FC in their last 3 encounters."
+          },
+          {
+            "type_id": 24,
+            "sentence": "Charleston's home record this season: 3-1-0."
+          },
+          {
+            "type_id": 24,
+            "sentence": "Detroit City FC's away record this season: 0-2-3."
+          }
+        ],
         "sr_stats": null,
         "ai_preview": null,
         "live_websocket": true,
