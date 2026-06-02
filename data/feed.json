@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-02T20:27:34.238Z",
+  "generated_at": "2026-06-02T22:36:35.530Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -5913,7 +5913,10 @@
           "jerseys": null,
           "funfacts": null,
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Raja hunting a title run, Berkane ready to spoil the party.** Two in-form Botola sides clash with massive playoff implications on the line 🔥\n\nBoth teams are rolling — Raja picked up three wins in their last five despite that loss to Wydad, while Berkane's been even sharper with back-to-back clean sheets before that wild 4-3 thriller. This is the kind of heavyweight matchup that defines a season's stretch.\n\nKey storylines:\n\n- **Raja's balance vs Berkane's momentum** — Raja have the model edge, but Berkane just proved they can outscore anyone with that 4-3 win over Union Touarga\n- **Midfield battle** — M. Makaazi and I. Mokadem for Raja up against Y. Labhiri and R. Aabid; whoever controls the tempo controls the game\n- **Shararh and M. O. Kehinde leading the charge** — Raja's attacking duo will need to be clinical without defensive help if Berkane press high\n\nExpected lineups:\n\n- **Raja Club Athletic**: M. Harrar, A. Khammas, B. Benoun, A. Khafifi, I. Mokadem, P. O. Sakho, Shararh, M. O. Kehinde\n- **RS Berkane**: A. Zniti, M. A. Sadil, I. Kandouss, A. Assal, Y. Labhiri, R. Aabid, A. Azri, P. Bassène\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Raja 1-0 Berkane**. Tight affair; Raja's slight edge edges out a defensively solid Berkane side in a cagey one.",
+            "generated_at": "2026-06-02T20:45:18.189436+00:00"
+          },
           "live_websocket": false
         },
         "created_at": "2026-05-28T05:20:17.496890+03:00",
@@ -6060,7 +6063,10 @@
         "jerseys": null,
         "funfacts": null,
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Raja hunting a title run, Berkane ready to spoil the party.** Two in-form Botola sides clash with massive playoff implications on the line 🔥\n\nBoth teams are rolling — Raja picked up three wins in their last five despite that loss to Wydad, while Berkane's been even sharper with back-to-back clean sheets before that wild 4-3 thriller. This is the kind of heavyweight matchup that defines a season's stretch.\n\nKey storylines:\n\n- **Raja's balance vs Berkane's momentum** — Raja have the model edge, but Berkane just proved they can outscore anyone with that 4-3 win over Union Touarga\n- **Midfield battle** — M. Makaazi and I. Mokadem for Raja up against Y. Labhiri and R. Aabid; whoever controls the tempo controls the game\n- **Shararh and M. O. Kehinde leading the charge** — Raja's attacking duo will need to be clinical without defensive help if Berkane press high\n\nExpected lineups:\n\n- **Raja Club Athletic**: M. Harrar, A. Khammas, B. Benoun, A. Khafifi, I. Mokadem, P. O. Sakho, Shararh, M. O. Kehinde\n- **RS Berkane**: A. Zniti, M. A. Sadil, I. Kandouss, A. Assal, Y. Labhiri, R. Aabid, A. Azri, P. Bassène\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Raja 1-0 Berkane**. Tight affair; Raja's slight edge edges out a defensively solid Berkane side in a cagey one.",
+          "generated_at": "2026-06-02T20:45:18.189436+00:00"
+        },
         "live_websocket": false,
         "home_form": {
           "calculated_at": "2026-06-02",
