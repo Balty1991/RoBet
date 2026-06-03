@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-03T20:38:59.645Z",
+  "generated_at": "2026-06-03T23:07:45.832Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -1058,7 +1058,44 @@
         },
         "head_to_head": null,
         "lineups": null,
-        "social": []
+        "social": [
+          {
+            "id": 260357,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxORUtxd3lGcmFrd3JVaHNGdlhCSUJnUy01ZGdmRlkycUo3MEJWT0dEUjhJdWlVS0JjSlgtcVJHS3NfM2hFX290SlF4NDdqQm0xb1RCQ0JEbjN4T0J4VG1DTEpwenA3eTFoY1F5bGdTYVViMnpfbDU3T2psa0ZXMG0ycTByTk1qdVpkVkdaUjBPakhiUGdfNXU3QkhzUDQ?oc=5",
+            "title": "Dominican Republic promotes premium cocoa at Brussels industry forum",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "dominican today",
+            "account_name": "Dominican Today",
+            "account_verified": false,
+            "published_at": "2026-06-03T21:09:07+00:00"
+          },
+          {
+            "id": 260175,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYTVMMVQ2OWtvbEdUYjlpakJLX2EtY2VpSWdNdUd4Qi0wMFVsb2dueUF3aVg3OGI0b0tKQlJPRWdmel85NDBNNzlzOGxGTUdsVmdaQmg5djdvYjlOS0NsQU93aUQ4ZnFyZ291UE82MFJfWDloYzZnUG9adFBHeFV3cEhiMUZNZ0hKYXd0eg?oc=5",
+            "title": "Spanish gaming investor threatens Panama",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "global arbitration review",
+            "account_name": "Global Arbitration Review",
+            "account_verified": false,
+            "published_at": "2026-06-03T21:06:39+00:00"
+          },
+          {
+            "id": 259851,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQWVNELUxjQUZ1czdCWXVZby1USUE2WERySjdsZ0VHQ3NNSXJWUU9XM0xLVTFEcTNnd2ZhcWQwVWk1YUhNVTRzb0dJOC01bTNJeHpjU3J4ajZjeEk3MWtXaHctakUtLWNzdE1wYWk4WnJVdFhzN3NqQ01KeWZGYVNBb2UtTXRZcElBbTl6MkVGMGVsVkZYMWVIa1d6eWVHcVNTelBmVFFrUGhuRFhsRThKMS15QVNRWFNZSVBtb3JnRWo?oc=5",
+            "title": "Carlos Harvey: World Cup profile | Panama & Minnesota United defender",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "mlssoccer.com",
+            "account_name": "MLSsoccer.com",
+            "account_verified": false,
+            "published_at": "2026-06-03T20:26:15+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
@@ -1538,7 +1575,128 @@
         "away_form": null,
         "head_to_head": null,
         "lineups": null,
-        "social": []
+        "social": [
+          {
+            "id": 259867,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPeWlacE1XMVBaSUZPRUZKNUp2aWhrZUdOSFNLVGlrNVJReFNqLVhUMnZXY2RLRF9QS19xc29jenhQR2Y2dEl1TEJadVM5ZkszWVl5TkhfaDRvdmVISHJwNm94b1I2LThCeGJmQTQ0OUxBalNUSTJjbFg5Y1Y2c01CTNIBlAFBVV95cUxOYXp1VzQwMjJ3QnExLW1WRnQ0akVtelUwTnF5YVlnR2hVXzZHaTlQZHRXNHJhNjVFbDdwTEJHYVdmWVVNb1hxN1Z4Mm1yRHhGamY3dGN2ZDNiemdQeWhpdVZLSlVPS1ZDNGNOc0NFeGlmS0FJSDJIZUVOSHR5M2RQcGMyRmc0U2JIRm9ESXI3Z1RhY3hM?oc=5",
+            "title": "KOSPI races to 9000 as South Korea IPOs slump on tight rules, high hopes - CHOSUNBIZ",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "chosunbiz",
+            "account_name": "Chosunbiz",
+            "account_verified": false,
+            "published_at": "2026-06-03T21:01:00+00:00"
+          },
+          {
+            "id": 259865,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNd19Gb1ZrY256cmJMYkFxYWt5MXRZU19SbDJxUm9NMlBlSlVYVndnd19MSmpwT1cwRXhfbkgyckZrdk1yS0IwcjdtdDFsZmdnS1VTN1kwb3o0dEJMalNEV0VDcjlDeUVjbkxaZmZoM05JQU5SdWtvQUVYSXJ4ZW1YY9IBlAFBVV95cUxOV1MxQ2U4VkltQklwbG1BR0xjTU9TN3lPNXFUN1F0am9QNmI3RlVsUVBvODNVcUVncVRBbHJBOWJCUEUzRzdrbE1tRjNQUGxRblB2Yjg5M1hmMG1tRlhBMnZIVTdWQWFQUDdaMXBnMHdDbUEtWjdLODM0dUViRVMyMGhtd1l0MHFQQjNsdkRpb0RJWlFC?oc=5",
+            "title": "Court rejects 5G ad suit as South Korea carriers lack 20Gbps duty - CHOSUNBIZ",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "chosunbiz",
+            "account_name": "Chosunbiz",
+            "account_verified": false,
+            "published_at": "2026-06-03T21:01:00+00:00"
+          },
+          {
+            "id": 259866,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQQXozUUJvZmNKT0stNlVVY25za2taTW4yN1B2dG94MEdSTXNuUGpqOEY2UzF1SkFIMUFnampSMFNsQVhDaWtXSDFCWER0REVOZUtxRHdXY010YXBzSFpqRjhQZzYtMkdIY2lxbm1JZkdIMDV2Rkl4UmdjU1ZDbnc2c9IBlAFBVV95cUxQNTQ1NUd1dkRzNUdSenRSVGxCLTZUSlF0bFBKYUxha0IyVkpJbHJWNWRLNEhFU2o3MlBuM3NuLUF4QS1xZjlQRUw5VlZPNi1pMzlhS1VodFFXOXpVZmlLdjJTUnRKOURuNDNHZldKaUlxSWZkd25ZeGMzREZpTEZFdE9DdjdnSDZPdm9VelFwQVVWZjhv?oc=5",
+            "title": "Harim guarantees payments to restart Homeplus Express supplies in South Korea - CHOSUNBIZ",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "chosunbiz",
+            "account_name": "Chosunbiz",
+            "account_verified": false,
+            "published_at": "2026-06-03T21:01:00+00:00"
+          },
+          {
+            "id": 259868,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE11NnkzY180ZnVOQUF6aVZnM196cGlPb3BSaGo1LXlGa01Od2YxTjVteG1TcmdLdmN0NHVBbFVPcTRlaUduV2pKS09ObzFSbVZ5elNlRXNJVnltX3lqVHNhNS1tS3RKaFJxVk93QW5vekh6RWZZb1Z4amRSYlBXbknSAZMBQVVfeXFMTXhKQnlzdzZJeEZSSGxMWll2cGZmWENRbHdPbmpOQzVkbi1FVEZIRG4tWVEySU9jVDBOVEZUUUJyR2g0MllTVEtnaTlLaXJST1hONmJBRnRpQ2xpblZodmtHdzA5UmhLeVcxcTQwaUVFSWItT0dFR285Q1kxbTFnTjhVVm5JWnM3SGM1bThwN2Zib2dn?oc=5",
+            "title": "BoK swap with pension fund trims South Korea forex reserves in May - CHOSUNBIZ",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "chosunbiz",
+            "account_name": "Chosunbiz",
+            "account_verified": false,
+            "published_at": "2026-06-03T21:00:00+00:00"
+          },
+          {
+            "id": 259864,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOSlpjZTdSU3JZd2pHUUxPWWstLWxHYVdETEdvV2V4MmVMX1I4aHVSbUVTeWVUejhIaXd6Wlhqamt5U3BRSU1WblZUdk81UjVSbHk0WEtCVWlLRThYZW1zSHJ5d1B0ckxCQVhZTFNLYXZNUWtqVktGMWY1SzJkSWtuNNIBlAFBVV95cUxPYnE5WHRMa0lSTXhJRklRLXViMXNZZmdZVi1ZRTVUMG1kV0pycTU2NUdiMXNnc3BOcWJOZnNiQ0xDdlktWXVWVklhU2M2TnE4Tm1tZzJITjgyRHVmTmg1VW9qRW9XOElSUTd1dUZsXzZrZ1MxSGVwbmwweVdRclpsbllmdHZtWXpVT2JjVjZNSHk0S1Fw?oc=5",
+            "title": "Fake insurance centers trade personal data to push sales in South Korea - CHOSUNBIZ",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "chosunbiz",
+            "account_name": "Chosunbiz",
+            "account_verified": false,
+            "published_at": "2026-06-03T21:00:00+00:00"
+          },
+          {
+            "id": 259862,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNOGNsUkhfYjAxVHY3Rk5fLWZSVDFtZFdtZEJkZVllX2dIWVVmaDNyZDdrbjRhZlhOZl9aMHlNSWt2MllGVXNPeUc0cEFNeFdaOVBCdnRNd0kzY19EUGk1Y2dVYU15cTJ3UWpVeEIwa2dEQmpObS1XSVM1ZEZNMGJVU1B6bk4?oc=5",
+            "title": "Rubio Blames South Korea's Policies for Trade Delays",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "조선일보",
+            "account_name": "조선일보",
+            "account_verified": false,
+            "published_at": "2026-06-03T20:58:19+00:00"
+          },
+          {
+            "id": 259863,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1PRXc0S2g5ZnkzZG5HZkpqTFdqTURYcm9uUGxMT1JWdzdyeFdwTm43STZrX3puN3hud1dxSlRqUTZKcmdlemF1OWMzVHVOUXdIOFZXVlIxUElXbVRmbF9DSG5DeGw?oc=5",
+            "title": "South Korea vs El Salvador: Friendlies stats & head-to-head",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "bbc",
+            "account_name": "BBC",
+            "account_verified": false,
+            "published_at": "2026-06-03T20:42:41+00:00"
+          },
+          {
+            "id": 259871,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxNUlVidTJ6SHJENjNiTEhZNklLSzQtUm93bHdoNkZTVFRxTXBVeHFtVVBWVTRfUmNFMUtTVzZ2dHFVSmZHLUJnWDhYRG84UGJxMHhJbUFTRVpySEJPc0hqaGJyTnpiYndsM1VyRW5sWGU3eGE4ZFBucnNKNFFCVGdKcDFYNF9tblVpaWxpRjJkMFE1TEdKWVVSUmNabzd0ajM0Q19aSWl1MnlNZUt6UG5kWkJPMG1rd3B6Mm9Nc25IUWNTVEtYcUNQRnVNMHZGUmsyT1ZyRzRMUnBpR0ZXWDJlRUh4bkRxLXdVUjRkZHd2N0RBQXBCRVdUR1YtcFhxQlh0OFFsQ0pnd2xfaUJLdkFCVWp4R0VyRHlKZ1FoUE1IcDViaXpWVERaYUFwOE5NeHZVdGRjelJNSUs0dnlhWWRDczdmNk96ejJIdkxGYUYyd2RQeDlRb0t",
+            "title": "South Korea vs El Salvador International Friendly: Check Head-to-Head Statistics, LIVE Streaming Details, Teams Stats, Results, Date, Time, Watch Live, Lineups, Result Prediction All You Need To Know",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "the sunday guardian",
+            "account_name": "The Sunday Guardian",
+            "account_verified": false,
+            "published_at": "2026-06-03T20:41:06+00:00"
+          },
+          {
+            "id": 259870,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOQl9CYWNJaXlhdGlIclViTkRjUTJuemRXRXREcmtDZkRQVnZUN2VoZ0NYM1RRR05fYWNHYzZnMThEYU0wZ1RLSm1tUGRvSTljQ3hVNEEwRjA4aXpOY1NzZlo0bnUyR3BrZVF2Y19pc2MzMnVOeDRVaGlWWWNIVUc5c1BCMHJNVDZiZ1p0NllQRVNLUWlBb2hhNG1vQ29ZM1J4V0Zr?oc=5",
+            "title": "South Korea vs El Salvador Prediction and Betting Tips | June 3rd 2026",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "sportskeeda",
+            "account_name": "Sportskeeda",
+            "account_verified": false,
+            "published_at": "2026-06-03T20:31:12+00:00"
+          },
+          {
+            "id": 259869,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPV2VFSEFKYkRlTTM5dWEtcWZDVDlOSW5JLWZSUWVNTlhld1JaRHBCVzRSajVkY3Y4dy1NX0NkMFF4MVV0UHhVNmhIOFIzQWZMSHVxLWxRRW5NTkh6d2RvM2FkZ1RHcmFaTXdfakxMQ0FQQXpYNVkycGhxVGUzb2ItMEhYN1hZV05ORE5iNGJ2Q284U2tMcWtWWXdlNmlWbDRm0gGmAUFVX3lxTE5NMmRzVGlxc0JnZU8wcXpnYmxSMkhhQkxiUHdUbzlHTUt1TUNFdFJYTnhvNkhOQVRLamtOZWtqdE9CbW5QeDJvVlpVMVJZOFZBYzhyM2o3NkRXWGV3R1FHdEY1M3l3YWtfd3o5SmpFMlYxc2dkakRsQWJRRVk5c1JDVEtyNmVIczBHR2psbEFhOHFWNWRzLV9kOTNGTHdwS1VxZ3NsaXc?oc=5",
+            "title": "South Korea to develop its 1st nuclear-powered submarine | Tap to know more | Inshorts",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "inshorts",
+            "account_name": "Inshorts",
+            "account_verified": false,
+            "published_at": "2026-06-03T20:22:11+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
@@ -8351,7 +8509,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Both teams are stuck in a rut, but one's got the edge.** AS FAR Rabat and Difaâ Hassani El-Jadidi are mirror images—identical 1W-3D-1L runs, and both leaning on draws to stay afloat. This is a chess match disguised as a football game. 🎯\n\nAS FAR nudge ahead on recent history (beat Difaâ last time out) and form steadiness, while Difaâ's low-scoring struggles give the model a clear lean toward a tighter affair.\n\nKey storylines:\n\n- **AS FAR Rabat** carry the H2H advantage and depth in midfield (K. Ourkane, Y. Abdelhamid) to control tempo\n- Difaâ's defensive unit led by **A. Sanogo** and **S. Abaaziz** will have to stay compact and frustrate the hosts\n- Both squads have misfired in attack lately; expect a **cagey, goal-shy contest** \n\nExpected lineups:\n\n- **AS FAR Rabat**: A. R. Tagnaouti, T. Carneiro, M. Louadni, F. F. Mendy, A. Bach, K. Ourkane, Y. Abdelhamid, A. Hammoudan, A. Hadraf, J. E. Khfiyef, M. Bourika\n- **Difaâ Hassani El-Jadidi**: B. Niasse, S. Abaaziz, A. Sanogo, M. Bentarcha, Z. Oubraim, A. Ziani, M. El Hacen, B. E. I. Bouzidi, O. Benchchaoui, R. Dacosta, Y. Lamine\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction: **1-1** or a slim 1-0 to the hosts. Lean AS FAR Rabat.",
+            "generated_at": "2026-06-03T20:45:23.666319+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-05-29T05:20:10.529099+03:00",
@@ -8562,7 +8723,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Both teams are stuck in a rut, but one's got the edge.** AS FAR Rabat and Difaâ Hassani El-Jadidi are mirror images—identical 1W-3D-1L runs, and both leaning on draws to stay afloat. This is a chess match disguised as a football game. 🎯\n\nAS FAR nudge ahead on recent history (beat Difaâ last time out) and form steadiness, while Difaâ's low-scoring struggles give the model a clear lean toward a tighter affair.\n\nKey storylines:\n\n- **AS FAR Rabat** carry the H2H advantage and depth in midfield (K. Ourkane, Y. Abdelhamid) to control tempo\n- Difaâ's defensive unit led by **A. Sanogo** and **S. Abaaziz** will have to stay compact and frustrate the hosts\n- Both squads have misfired in attack lately; expect a **cagey, goal-shy contest** \n\nExpected lineups:\n\n- **AS FAR Rabat**: A. R. Tagnaouti, T. Carneiro, M. Louadni, F. F. Mendy, A. Bach, K. Ourkane, Y. Abdelhamid, A. Hammoudan, A. Hadraf, J. E. Khfiyef, M. Bourika\n- **Difaâ Hassani El-Jadidi**: B. Niasse, S. Abaaziz, A. Sanogo, M. Bentarcha, Z. Oubraim, A. Ziani, M. El Hacen, B. E. I. Bouzidi, O. Benchchaoui, R. Dacosta, Y. Lamine\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction: **1-1** or a slim 1-0 to the hosts. Lean AS FAR Rabat.",
+          "generated_at": "2026-06-03T20:45:23.666319+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-06-03",
