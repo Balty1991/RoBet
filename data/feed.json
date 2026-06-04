@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-04T21:45:53.087Z",
+  "generated_at": "2026-06-04T23:13:13.136Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -10373,9 +10373,21 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 1,
+              "sentence": "Paraguay haven't lost in any of their last 6 home matches."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Nicaragua haven't won any of their last 8 away matches."
+            }
+          ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Paraguay's hosting a wounded Nicaragua squad at home** — the Albirroja should be heavy favorites here, but missing five players is no joke. 🔴\n\nParaguay's clicking when it matters, winning their last two. Nicaragua, meanwhile, has lost three of five and looks porous defensively. This screams mismatch energy.\n\nKey storylines:\n\n- **A. Sanabria** and **G. Ávalos** up front will face a **Nicaragua** backline that's conceded freely in recent outings\n- **J. Enciso** and **D. Gómez** in midfield will control the tempo for the hosts\n- **Paraguay** missing strike depth with **A. Bareiro** and **D. Bobadilla** out, but depth in attacking midfield should compensate\n\nExpected lineups:\n\n- **Paraguay**: R. Fernández, M. Almirón, J. Alonso, G. Gómez, J. Cáceres, J. Enciso, D. Gómez, A. Cubas, G. Caballero, A. Sanabria, G. Ávalos\n- **Nicaragua**: A. López, J. Gutiérrez, J. Cano, E. Martínez, J. Rivera, W. Talavera, A. Velásquez, J. Coronel, J. Montes, J. Moncada, J. García\n\nPrediction:\n\n**Paraguay 2–0 Nicaragua** — home advantage, form, and a paper-thin Nicaragua defense give the Albirroja a clear edge. 🇵🇾",
+            "generated_at": "2026-06-04T22:45:21.251177+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-06-02T13:48:38.034925+03:00",
@@ -10567,9 +10579,21 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 1,
+            "sentence": "Paraguay haven't lost in any of their last 6 home matches."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Nicaragua haven't won any of their last 8 away matches."
+          }
+        ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Paraguay's hosting a wounded Nicaragua squad at home** — the Albirroja should be heavy favorites here, but missing five players is no joke. 🔴\n\nParaguay's clicking when it matters, winning their last two. Nicaragua, meanwhile, has lost three of five and looks porous defensively. This screams mismatch energy.\n\nKey storylines:\n\n- **A. Sanabria** and **G. Ávalos** up front will face a **Nicaragua** backline that's conceded freely in recent outings\n- **J. Enciso** and **D. Gómez** in midfield will control the tempo for the hosts\n- **Paraguay** missing strike depth with **A. Bareiro** and **D. Bobadilla** out, but depth in attacking midfield should compensate\n\nExpected lineups:\n\n- **Paraguay**: R. Fernández, M. Almirón, J. Alonso, G. Gómez, J. Cáceres, J. Enciso, D. Gómez, A. Cubas, G. Caballero, A. Sanabria, G. Ávalos\n- **Nicaragua**: A. López, J. Gutiérrez, J. Cano, E. Martínez, J. Rivera, W. Talavera, A. Velásquez, J. Coronel, J. Montes, J. Moncada, J. García\n\nPrediction:\n\n**Paraguay 2–0 Nicaragua** — home advantage, form, and a paper-thin Nicaragua defense give the Albirroja a clear edge. 🇵🇾",
+          "generated_at": "2026-06-04T22:45:21.251177+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-06-04",
