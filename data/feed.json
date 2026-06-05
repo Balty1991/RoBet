@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-05T06:28:10.128Z",
+  "generated_at": "2026-06-05T10:35:29.957Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -1206,90 +1206,6 @@
         "lineups": null,
         "social": [
           {
-            "id": 271249,
-            "type": "news",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Dc1pEWXdIekpkRXVTQVhFQTZyMWJnN3VmaTFWc0FzR2RWVEhaQkVBT1cxZlhrbExEay1tekpkSDIyeUdRS0RPR2l4VlRuWV9wUHpVaGhLek9mZTQ5c19CUEJocWdhQ0dkMGFQTE5n?oc=5",
-            "title": "Mexico Joins Colombia, China, Portugal, Canada, Peru, United Kingdom and Many Others as Brazil’s Travel and Tourism Sector Soars, Reporting Over Four Million International Visitors and Revenue Rising Beyond Twenty Point Two Billion Reais, Redefining",
-            "text": "",
-            "thumbnail": "",
-            "account_handle": "travel and tour world",
-            "account_name": "Travel And Tour World",
-            "account_verified": false,
-            "published_at": "2026-06-05T06:13:18+00:00"
-          },
-          {
-            "id": 271415,
-            "type": "news",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9RbGU3aDdOaW1ES2ZFWVMybXg5V3lIUlZRak5Na1RuVkVoUHhodnl1NC0wTVVBNTB5dmFrazdyajJvRzNpMUF4cDVORmw3OFdfZmthVzlQYUdnM2RrLWh5dldlUkZ2Z3pPbzBOY3hB?oc=5",
-            "title": "United States Joins Japan, France, Italy, Singapore and Other Leading Nations as 2nd China Tourism Entrepreneurs Summit Opens in Fujian Highlighting AI Driven Travel Innovation and Immersive Global Travel Experiences",
-            "text": "",
-            "thumbnail": "",
-            "account_handle": "travel and tour world",
-            "account_name": "Travel And Tour World",
-            "account_verified": false,
-            "published_at": "2026-06-05T06:13:18+00:00"
-          },
-          {
-            "id": 271795,
-            "type": "news",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5UZGs3LWZOUEJGVWZIQ05meURYdUdWcmZXYnpOMU5LbllVY0FDMGNMZ29hWndwODI0T1RIOVd6dGk0YUlMUlhySEVmeDRSeGtONXB5Tk5nT1dzTWV4M050Q0NWN0hiTlRxNEc3bnhn?oc=5",
-            "title": "China Captivates Global Travelers with the Record-Breaking Huajiang Grand Canyon Bridge Offering Breathtaking Views, Thrilling Adventures, Cultural Discoveries, and Ultra-Fast Internet Access in Remote Mountain Communities",
-            "text": "",
-            "thumbnail": "",
-            "account_handle": "travel and tour world",
-            "account_name": "Travel And Tour World",
-            "account_verified": false,
-            "published_at": "2026-06-05T06:13:17+00:00"
-          },
-          {
-            "id": 271785,
-            "type": "news",
-            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNTkhjR3kyckd6Z19VNlhRdHlBbmZCaEdFQy1XQWlXcWxsSXZ6d0VSUG9tSTQwa3lVV2VwTnFWLTdNc3pTNm82N0p5aHBKOEZLbS1QR2xHNnBOeXg2ejVYeFZwSkdmUXhOczlxOEt1VnpxcEdaVjd1RmlIS2J6QzZuY2dhMGhQOVZidWd2ZEdDNnM4YTA3Z09uVlJGZjJYTXViWi04Q1RoXzJYT28?oc=5",
-            "title": "Nvidia Faces Scrutiny Over AI Chip Sales to China Amid Policy De",
-            "text": "",
-            "thumbnail": "",
-            "account_handle": "gurufocus",
-            "account_name": "GuruFocus",
-            "account_verified": false,
-            "published_at": "2026-06-05T06:10:31+00:00"
-          },
-          {
-            "id": 271300,
-            "type": "news",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1XcVBGT0hzUmFDUHBvSVNMc2RTMTRFZkdHM3Y1ckE5TUtnSDgxSW0wVTV2V0tWa0w4b2UyZGI2cHdVa0Q3em5SZTUzZlBScXltS2M4eENpX3I2bVJTRnRmclQ2ZW9KaDJ2VTZSS3N3?oc=5",
-            "title": "China Joins US, France, Spain, Italy, Germany, Greece and More Countries in Shaping the Future of Travel and Tourism with Cutting-Edge Technology, Streamlined Accessibility, and Soaring Visitor Numbers",
-            "text": "",
-            "thumbnail": "",
-            "account_handle": "travel and tour world",
-            "account_name": "Travel And Tour World",
-            "account_verified": false,
-            "published_at": "2026-06-05T06:09:14+00:00"
-          },
-          {
-            "id": 271319,
-            "type": "news",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5sQk9rUldpcEUwVWx3bXZoUzgtN2djdmM3OHdDTDVtb0JnXzRYLV8tcmlOcVUtQmoxRHhyRjZSamd5c1Q1eXZOQ1l6LUQycXhORlUxS1ljNmhKQTRnbmZGRFhWN3pfa3ZIeHFQOTJn?oc=5",
-            "title": "Japan Joins South Korea, Australia, New Zealand, India, Singapore, Macau, Belarus, and Kazakhstan as Indonesia Considers Visa-Free Travel to Bali to Boost Tourism Amid Middle East Flight Disruptions and Economic Pressures",
-            "text": "",
-            "thumbnail": "",
-            "account_handle": "travel and tour world",
-            "account_name": "Travel And Tour World",
-            "account_verified": false,
-            "published_at": "2026-06-05T06:07:13+00:00"
-          },
-          {
-            "id": 271796,
-            "type": "news",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE53OXY0QmZmY2ppMVE3WlNMNzZFeFFKT3ZsdXlBZjB4U25MTVNyYkZnRDlwWmo1N3BnVnNFRURRX0NkVWJ0bWRNeW40R3Q3cmpVYmhkNHZJWWI5RE5uRTRybUVUQTdVTHpyZGJfeTd3?oc=5",
-            "title": "China Launches First Online Departure Tax Refund Store in Beijing on June 2 2026 with Hotel-Based Refund Counters and 300 Tax-Refund Product Subcategories for International Travelers",
-            "text": "",
-            "thumbnail": "",
-            "account_handle": "travel and tour world",
-            "account_name": "Travel And Tour World",
-            "account_verified": false,
-            "published_at": "2026-06-05T06:06:59+00:00"
-          },
-          {
             "id": 271809,
             "type": "news",
             "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQYXlQalFEb1VDS2R1U290Qm9aLUx3SUFEVGRJclNBZXNQWlByVXIwR002cHJrZEN5aTFPQlBWTU5BZjA3ZjdEZGVZUUM0N1pTWWQ1V0FQbm1RT3FyTXJ4NVJseDdjck1aU1RIY3kxT3MyRlEycjhlVUR0NnRWZW9ZWmNUWmttdGRzYjdUZjhfTk1iUUZBY19TeU04U1RtWnRCdzV3?oc=5",
@@ -1299,151 +1215,235 @@
             "account_handle": "1news",
             "account_name": "1News",
             "account_verified": false,
-            "published_at": "2026-06-05T06:06:00+00:00"
+            "published_at": "2026-06-05T08:24:06+00:00"
           },
           {
-            "id": 271801,
+            "id": 272437,
             "type": "news",
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1yemJBaGdMNS1GN2twRVhJWjN1WlppM2xZblNYeHc1b0VHeU80TVl6MVJjbHhmSXNpTHI2bFZncXllN3FmM2pfOGhfTk93TFlpV3ROUEVZeXBfSVppWmU4WC1xMUVQaGlKRzhXWWs5emtzVmR6QnpSZUpaS2Y?oc=5",
-            "title": "Turning the tide: ecological progress at China's Qinghai Lake basin",
-            "text": "",
-            "thumbnail": "",
-            "account_handle": "xinhua",
-            "account_name": "Xinhua",
-            "account_verified": false,
-            "published_at": "2026-06-05T06:05:31+00:00"
-          },
-          {
-            "id": 271821,
-            "type": "news",
-            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQSlIzV21GZkhONVIxemwwMDU4UWcxbzA5S0RXbWU4aFNHLS12Y1ItMmhRbllteGxxTVNrV2lHNkU3VVlTUGxTcUVMOXJEc2pGSjR1OEVaWlBHMDVqaG1ENnZPNDFKb0VEbEZYT2VXLS1ualBIRGQ5QmZyMnZ0NHVRQmhUVQ?oc=5",
-            "title": "China ramps up 6G push with ambitious innovation program",
-            "text": "",
-            "thumbnail": "",
-            "account_handle": "latest news from azerbaijan",
-            "account_name": "Latest news from Azerbaijan",
-            "account_verified": false,
-            "published_at": "2026-06-05T06:04:32+00:00"
-          },
-          {
-            "id": 272208,
-            "type": "news",
-            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdy1kSENQMzFod1MxUXA1OWtDVllWZ0NCcm1aR0s2aklOYUduREdMUlJxT0MyVlVOeGxkR2dnMjliNUIxeWh6ak81T0ZvWGM0Nm1PdW5fV21iVkU3SmVSYUJYTGczeWpYTXFQLUdaOFJtUlFlU1dTckF6REcwYVNveWdKZHp6VjM0cWg5SXU0LUtDcjVzeE10NU91R2c2cUFZNEN1WG10VVN2TU80bWU1WjVwa3ZueXJsM2QyWUY1QW9uYmVHSk96TQ?oc=5",
-            "title": "NYK’s First Autonomous-Capable Car Carrier, Elder Leader, Completes Technological Trials in Singapore",
-            "text": "",
-            "thumbnail": "",
-            "account_handle": "lm - logistics manager",
-            "account_name": "LM - Logistics Manager",
-            "account_verified": false,
-            "published_at": "2026-06-05T06:04:10+00:00"
-          },
-          {
-            "id": 271793,
-            "type": "news",
-            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1hU0pEQkFxTkk3aHNWTVJBVWh6VURhT1VBcXFnYUpNSDZLdnc4Qkl6V004QW5kZkwtdURHREUwZDJmeGsxUUNLd2xwQXVSeFJ1YVV0VHQxdlY0ZHNNR3VEVFBJcjhtMllhYzJKeVc4eW9sak9HU0F0a2tqRG8wUQ?oc=5",
-            "title": "Slovak ambassador: China takes the lead in global EVs",
-            "text": "",
-            "thumbnail": "",
-            "account_handle": "china daily",
-            "account_name": "China Daily",
-            "account_verified": false,
-            "published_at": "2026-06-05T06:04:00+00:00"
-          },
-          {
-            "id": 271806,
-            "type": "news",
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1wTWw1SXhqc3luQ3N1TFJ5WU9xVGhndWVGVmVZRVdnNHA3X1VLcGxWcVVaODFlN0djUUgzcWNIeG80Qzk0MVgxc2FPQ1kyV1VBVUo1RXdCa2VOck53N1Jfak14QThJckt3VHhITVJXdi1heUluVXNKLWlEb1Q?oc=5",
-            "title": "Dragon boat crews push limits in night training in China's Foshan",
-            "text": "",
-            "thumbnail": "",
-            "account_handle": "xinhua",
-            "account_name": "Xinhua",
-            "account_verified": false,
-            "published_at": "2026-06-05T06:03:15+00:00"
-          },
-          {
-            "id": 272211,
-            "type": "news",
-            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNOG8yS19YZnQwNkhDOGx4XzVOaWl3WVVPaEhjUkVWTnR1Nmc3M0phRjBjbDVFS1ZxY2VWaVZwUzdnLXFNMDlwQ1VFWWVGcGhWWlIwcl8ycEs1bXpPMkNkeHVUWkJ1d0JrbFE5VUJVU2pLanM0dWJyUjRfTXVFRXF2bE5xVHJXT1hDZWpEVFItdU44SFRhcVRmaG9SRTFqS2plcWEzMGp1QVR4RHp1LUZ5TlN1WmpRUG1MOU9sR0p0VEJlTnhzM1JZNWFhYVMtWmVQd19v?oc=5",
-            "title": "SG Ministry of Manpower wage report 2025: Which industries are workers’ salaries rising the fastest in Singapore",
-            "text": "",
-            "thumbnail": "",
-            "account_handle": "the independent singapore news",
-            "account_name": "The Independent Singapore News",
-            "account_verified": false,
-            "published_at": "2026-06-05T06:02:25+00:00"
-          },
-          {
-            "id": 271805,
-            "type": "news",
-            "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE0yc2NXWkIzYWs3VmVNRUJ2SlhzT2xRNndVMHlnLU9HVlJVck8wNk1wdHFQcGRaeURnM2xTc2k1YkU3U0M3bmJGdEJSeWZwQUxoczRJTXpDQjZrdWtGd21fUlhRNkJHVmlGMGRXWEdmUzVpUkVSZ2fSAXtBVV95cUxOQkJEMDBKdmV4eHU5MWxfRHFIVVBfSFRBdnNaelExT1VPbmhwNXpOTUYwSTlLQ1V6V1NxSk4wU1RTb0JYYmwxclFHYVJBSERWQTk1YXV6SWlUazZHR2VyMjhVRkhsS0VKdnB5c1BpWEwyd3dUQTVfUVVlU1U?oc=5",
-            "title": "11th China-UK Strategic Dialogue held in Beijing",
-            "text": "",
-            "thumbnail": "",
-            "account_handle": "the sun nigeria",
-            "account_name": "The Sun Nigeria",
-            "account_verified": false,
-            "published_at": "2026-06-05T06:01:17+00:00"
-          },
-          {
-            "id": 271797,
-            "type": "news",
-            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBGMjFhM1h5UmlPeHlzN2Y2Vkl6X1otODF0VXVBa3Y4aGp6d0pjdnhDLU9BenRfYlIxSTRDYWFxNlVmUGkzLXRWMUVfZ0RmM0dLNldVWi10RWVBZm9jVVNQc29wWnU4Q1dXSWdaaFp3?oc=5",
-            "title": "Direct Stockholm-Shanghai Flights Resume with China Eastern Enhancing Travel Efficiency, Tourism Growth, Business Connectivity, and Seamless Europe-Asia Journeys for Tourists, Passengers, and Frequent Flyers",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9ETWdkU1FtdXBOVWxHa3NNUFFXVXBwZG45ZmZFb1VqWTdvMWRqQlIwaHZSb0drZjZIdnRaS000SDNLcWRJRC1RdGh2bUt0dkZRazdTakF4TkZWMk40bWdXbVpwd0xRUXRiSlN4VTR3?oc=5",
+            "title": "Philippines Joins Singapore, India, Kazakhstan, Czech Republic and More Countries as Vietjet Air Expands Global Travel Network Through Vietnam, Connecting Major Cities and Unlocking Affordable Flights for Millions of Travellers",
             "text": "",
             "thumbnail": "",
             "account_handle": "travel and tour world",
             "account_name": "Travel And Tour World",
             "account_verified": false,
-            "published_at": "2026-06-05T06:01:10+00:00"
+            "published_at": "2026-06-05T08:23:37+00:00"
           },
           {
-            "id": 271781,
+            "id": 272375,
             "type": "news",
-            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNMzNvRDdfRlQ2ajFoSjJfelMxTmRkWnpCNklCQURNck9jRWJWNWxjclpCQnNxdUk4NUhPeDNNMHA5QmVNQlhWRktObmFiZ0xibTU3ZnNRZ2lXZmdTZEJuRF9DUFhtVTFQSi1qMm1SR2h0YWVFSS1renFQX2FEVVBaelhBWFpFQUotaUZySmhxZ2xOdkYyVGNaVlpYZEtaUEROTklQT1ZOOG9oMDVGNU1xZXFKSWhpaUVER29GaFZFLWxyVjNJSmUxVmR2WDlxVmktNWRF?oc=5",
-            "title": "China provinces see worst first-quarter fiscal stress since 2020. Can SOEs help?",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWWVzZlZ4U1FoMWFZRzY2WGUwWDNzb05ST0VwMjlhV3o0NHpuV1lKa1gwb1p1WlZkSFFROE1mQ2VZVkhCU015MjhmZ0tJaVI4TGZfaU9ncGoxVHVzQUJ3U1lUMUpsdXI0T3hnZFdaMHZKVklTTFQ3WTAyLU1NRkFiU193cGJBeGRKd19xRUZ6R1hDSG9jRVNvdUNrNUktODVhbE9ReFBsSlhPNWRtWnNxMlBub2NvZw?oc=5",
+            "title": "Chilean Man to Be Charged Over Alleged Theft of Versace Sunglasses at Singapore's Changi Airport",
             "text": "",
             "thumbnail": "",
-            "account_handle": "south china morning post",
-            "account_name": "South China Morning Post",
+            "account_handle": "ibtimes.sg",
+            "account_name": "ibtimes.sg",
             "account_verified": false,
-            "published_at": "2026-06-05T06:00:11+00:00"
+            "published_at": "2026-06-05T08:23:11+00:00"
           },
           {
-            "id": 271791,
+            "id": 272602,
             "type": "news",
-            "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxQMC1mZkVHSWl0NjF5TDl3ZUxWZVBWWlNZR0xzNFkwdE9ydkh1NTdCc0lrX0RlTGtwX0U3YlM2ZjdUWDhFcmNkZ2VpMnloQXNTaGJQRHIxa1V5T0RVVEhpaldNb2lIUHdrdXdnT25wRWhQbWdsWFI1SVMtWXFPeVVyTFgyWWd2TkcyTGxmdlhvSk5XbTBLZzAzenQ0RUEzbjFZaGhaeWlHUjh4UEFRYTB2RXNOS29EUWo2RWp0d2owRkJ2WGpVWU9TOHdYMmQ2b0d2Mm1NdkRwMENLVXoyTGJpcWVwTXJTdWprbWdUWG9MRHF5RzA?oc=5",
-            "title": "China woman dances with eye patch and mask after losing partial jaw, vision in one eye to cancer",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOQkFHcVo2SGpSR0FWYTFjdnpOalh2SGY3eXJ2aTJEOXFETGVkOG9NUnhhN095cC13N2NhNDFvTnY5eGdGb1pjUjBPbEtsUjkwdzJNcFZrU2hERHZrNmRwc1gxVGVtMVp3VmJqV2p4SjNoZmRtMVlIRmdObEtoTER2VjhTWVRNazFzWGcxWU53WjRBcWhLTi11U0RUQk4zaUJmZjRadkhhQVFVYzdSc3owZ1RrcnVXbEFVSV9WcFR1Yy1jbXpLVkE?oc=5",
+            "title": "Foodpanda rider returns to clean wall markings outside Singapore apartment",
             "text": "",
             "thumbnail": "",
-            "account_handle": "south china morning post",
-            "account_name": "South China Morning Post",
+            "account_handle": "vnexpress international",
+            "account_name": "VnExpress International",
             "account_verified": false,
-            "published_at": "2026-06-05T06:00:07+00:00"
+            "published_at": "2026-06-05T08:20:49+00:00"
           },
           {
-            "id": 271790,
+            "id": 272607,
             "type": "news",
-            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPUW55c1JmN3c0eVlWSGxqWEQ3M3BMaGRabklrdTd2amlvNkxNWGdZWjBIZTRxVkw3YjRZWE4tQW05aTRQUWZUeE4yR1pOS2lRWDlaZTVpS0FBc3RvUXd6Mkpwd2kya2dKb2Z2WkpSV24tX3RzYUNWVHFFZGRLaTFvQXBZdUlYaHp1VEFlYVdxa2xVTy05Z3ZCMGhaSFRybUM5QTFNRmJEZEQ?oc=5",
-            "title": "China tightens leash on Beijing tech bros to combat the West",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxORXVXYmhfcHcyLV9Ed2dPbG1NX0ZyVlpLMFA2YkRneDZKSXM3c2JCYVNmckZ5MFhsQ3RlcUg3aDRaZG91S0JMOHNZRXJfV1NxUkhTc29jNGxtaUd5MWZZczVRRWYwUTJtek9UMUdrQmtqSTR0Yk9HY19qWlI4WXBZZjlUUHYtU1YzZU0yRkp1TkRLaVNzS3NEUjRxWGF5VHZRc0dtbk5RNA?oc=5",
+            "title": "McDonald’s Singapore not screening matches for FIFA World Cup",
             "text": "",
             "thumbnail": "",
-            "account_handle": "the telegraph",
-            "account_name": "The Telegraph",
+            "account_handle": "the straits times",
+            "account_name": "The Straits Times",
             "account_verified": false,
-            "published_at": "2026-06-05T06:00:00+00:00"
+            "published_at": "2026-06-05T08:19:20+00:00"
           },
           {
-            "id": 271823,
+            "id": 272600,
             "type": "news",
-            "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9MWDhkeGpYZ1M5d3NUNm91WFNLN0VKamptUHYtSF91R3FCcnpNTWlLV0ZfV2RCV1FfOFhibzZJTU9GbTVkUmhmdnRJNVBVNDIzalZCbUJ5WVFtQQ?oc=5",
-            "title": "\"They're Worried About Us Tapping Their Phones Too\" : Trump Dismisses China Threat",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPUFZIeHd4c2pXbnZnN2FJOW1hWHBIZjBZR1hvV3RpaEVCNkFYUktnc3ZTWjVXVWtWRTltUUlkVE54X0VfVDM4ZTgwMWhoMlZGX0tMTk9VemlIWDFqRnVsSHpnSTVDWVNqUHpnUV9qLUk3OXZ3c2ZrcVQ5Tkt3Skd2TmxnQno5SnkwMVcxN3hrMHRZdGM?oc=5",
+            "title": "BBH Singapore links Samsung to football culture",
             "text": "",
             "thumbnail": "",
-            "account_handle": "news.meaww.com",
-            "account_name": "news.meaww.com",
+            "account_handle": "marketingreport.one",
+            "account_name": "marketingreport.one",
             "account_verified": false,
-            "published_at": "2026-06-05T05:59:56+00:00"
+            "published_at": "2026-06-05T08:17:54+00:00"
+          },
+          {
+            "id": 272598,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxObWhjbl9mV1FTMnV5cGktOGJsckI2ZXlfdTZJbXJVcUJOSEVmNDRhUVp6ZWpQMk5MUFZNb1cwQ3ByeVlmckxyaVpGRGtWWUd4ZUJLWlNDYV9mUmdCSTlpR3dFcV9fN25qbG1XYlViQXBKLTZCTGFRVVJoajMzcEtjcVlsS0lWanNqYzJmT3ZQSF8temxDTXlRU3ZLRzZabjAxS2RsOGx5UnpzTHczbks4UmQ3SnFNTzhkaGludWJ0UmJtbG1wTjFFcw?oc=5",
+            "title": "WuXi Biologics Singapore CRDMO Hub Completes Modular Topping-Out of Drug Product Facility",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "biospace",
+            "account_name": "BioSpace",
+            "account_verified": false,
+            "published_at": "2026-06-05T08:15:41+00:00"
+          },
+          {
+            "id": 272611,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFAzQWlRdHp5azZtN05yNjJSWXVkNWk2NzBLaGdLdjFBV0xRLWxCdWtvQXdKaHZ6VXRmLUpPMmNTc2MzVWJsYXFSYk9uMWp1dHhPSHdKOTd4Z0VCMHl4QzVSSHM1OU01N0V6ZXFkdWZR?oc=5",
+            "title": "Malaysia Travel Breakthrough: Kota Bharu Airport Handles Over Half a Million Passengers as Singapore and Jakarta Flights Expand",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "travel and tour world",
+            "account_name": "Travel And Tour World",
+            "account_verified": false,
+            "published_at": "2026-06-05T08:11:35+00:00"
+          },
+          {
+            "id": 272613,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQVdQQWZuWFB0REVsanVBNmNkazZfY0RTcjNaRFBCZGFnVlc1bV91Ui1jeEJQMG1XZ1pBaWxOM3RaZHg2MXA2WmhLek8xNTk5S1VkNG5QU05yejlRa3BEOFU4eW81akR5TW5EVU1RSmFhckZkM2MzNVdfU2dZMzFFOU9tNGpEVmRXaDVCRVBtalhzcFE4Q191NmwzYkJxcUY2T2VYTkdNbHZCNkEtOTkzMkhnT0NqaFFSSmc?oc=5",
+            "title": "Cambodia, Singapore deepen cooperation in trade, energy and digital connectivity",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "khmer times",
+            "account_name": "Khmer Times",
+            "account_verified": false,
+            "published_at": "2026-06-05T08:09:48+00:00"
+          },
+          {
+            "id": 272616,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOelFCcmF3T2V6YnM3aXlhTUZrNjVNamtPY3J6OU1KODhvR3h4Xy1iaGZZdU1XZW1lcnFtZHZ5ZGt4enItMGd5Vm5XU2s2emhjOGZIZTY3SElpcjlYcjNicVFUOGNTMU8zLThjNTFJT1ZPLUVyOGF5OFQyX0pDT01aVVZKOGJrTS1v?oc=5",
+            "title": "Breaking Airline News: Singapore Airlines Deploys Massive Premium Fare Sale to Help Travelers Escape Terrifying Global Travel Chaos",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "nomad lawyer",
+            "account_name": "Nomad Lawyer",
+            "account_verified": false,
+            "published_at": "2026-06-05T08:07:14+00:00"
+          },
+          {
+            "id": 272604,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNT2FWMmxvMXBGdmlvcGRHaENZcFI4dUZodkltUTl6MENRSU1GT2pDX3RZc2F0S3dWcW5RcmxaU1JzRVEwQkpzYjhUZEpPTmxWTlN2UEE3T3Y2TU5oRk9KTXlMMl9zNXVrRER4X2FSYmUyNkRobE1CVGpETFRIYzJRQXo1SmNXeEMyWWwxZ29obw?oc=5",
+            "title": "Singtel secures AI funding under Singapore partnership",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "tech in asia",
+            "account_name": "Tech in Asia",
+            "account_verified": false,
+            "published_at": "2026-06-05T07:58:00+00:00"
+          },
+          {
+            "id": 272450,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBjZFZmWFN5RjFTZ2t2RTI4UUY5alpVcU5Kc2Fxa0h6a0FSQ0Q5eEgyX0kxYTVVYmwyeGpxRTQzYl9mcGhPNzJlTlEzWE01NFhFMzdURU90THp5N1Y3clREdnR4TFVWU1Z5SHhJYUpB?oc=5",
+            "title": "Thailand Joins Singapore, India, Philippines, Kazakhstan and Czech Republic as Vietjet Accelerates Global Network Expansion Offering Exciting New Routes for Travelers Across Asia and Europe",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "travel and tour world",
+            "account_name": "Travel And Tour World",
+            "account_verified": false,
+            "published_at": "2026-06-05T07:57:32+00:00"
+          },
+          {
+            "id": 272606,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBkS1Q4RlRJWU9LNkRDYkRiRG11cktpRDFpczk4clJBN3lsRmJVZ1ZoZGtmTEI3ZVBjeEMwZk1JX0N6emVVWnJaQ0F1ZmlnbmN0SG9scU1rcnJvU0VYa1lRMVhRdjN2ckZydmUtWWVn?oc=5",
+            "title": "Singapore Airlines Joins United Airlines, Iberia, Air Canada, Air Transat and Lufthansa Group Launch Massive New Routes and Flight Upgrades",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "travel and tour world",
+            "account_name": "Travel And Tour World",
+            "account_verified": false,
+            "published_at": "2026-06-05T07:47:30+00:00"
+          },
+          {
+            "id": 272599,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTFBHTFVLaFAyNWVmcTd0Z0lTdHBncVQxM1dLVWxxckE1SW1YR3pDRTE4eWZkOE5MMlhzTkQ1WFBQaXk4T3FVTUdVZ2VVdm11NUEyTS1lUFFGaXZpcnFsdlpwRXln?oc=5",
+            "title": "Singapore vs China: Friendlies stats & head-to-head",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "bbc",
+            "account_name": "BBC",
+            "account_verified": false,
+            "published_at": "2026-06-05T07:47:12+00:00"
+          },
+          {
+            "id": 272609,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE04bVIzd2ZTWS1OQklnaEZkTUNzUFYyQVdiUDN5UWhDbk1ZM3REdmRYLUcwRE5jU1VKRHJ6M3QxcUxCNVRpWjB0NDJVX1lDNTdVZTJ6ZDFITFpFamdPRnlYdExlcHJGSWZ6dXdvNE5n?oc=5",
+            "title": "South Korea Joins Singapore, China, United States, Japan, Netherlands, Canada and More Countries Triggering an Unprecedented Over Fifty Percent Jump in Philippine Foreign Investments as High-Impact Projects in Renewable Energy, Tourism, Arts, Entert",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "travel and tour world",
+            "account_name": "Travel And Tour World",
+            "account_verified": false,
+            "published_at": "2026-06-05T07:45:31+00:00"
+          },
+          {
+            "id": 272612,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOUlFRTk5Ta24xTGczZGh5UGFhdFRfNG5ocTBDeF9HU20tSU5jajhGTWRBdDk3dk9fZVhqcE1xYXBNTl9JamxKWjg3bEVXQkE2MTZLRnFxSWlBZ2tvWl9BMF9fNXBBSDhVTDNzdlF3VzJrOWxSZTg3ZzYyNlY4aWxtblB6dHREYkc2cjJyMHZ2ZF9Jckw4R0Nyb0VXVFRXNWs3SFZtUy1ramVaLUZL?oc=5",
+            "title": "Vietnam's FPT, Singapore's ComfortDelGro sign AI, smart mobility partnership",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "tnglobal",
+            "account_name": "TNGlobal",
+            "account_verified": false,
+            "published_at": "2026-06-05T07:39:26+00:00"
+          },
+          {
+            "id": 269426,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRExKVHhuR0hBeWtJbWo3SG1ISXRUTHRmOW45aWZnQ3Y1NGJlaXVrZk5EeXhGSXlOdTljX3NnYzRjWllsQ0diOFc4NnhsTVRiS0lhVGRtUGNERmc3OTloYlhaaHZWekJ0T2g5cmNCVGktWU1VY3pPRjRrRGNtR1dmd3ZSV2VqOTBBMDNTMl95NWVDdkpFWEJRNQ?oc=5",
+            "title": "Singapore vs China Prediction and Betting Tips | 5th June 2026",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "sportskeeda",
+            "account_name": "Sportskeeda",
+            "account_verified": false,
+            "published_at": "2026-06-05T07:36:59+00:00"
+          },
+          {
+            "id": 272610,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPbGFnWVB0RWI2V05IVC1nRlZQRVZKVG5hQ3J4cWY1OWVuRUZFZ25zZXI0aVhKZ3ZwbGxUMWVUWEFTS0pCYThJY19EWmxBcjk4aVNhanZEU1FtQnVLTUpWa1JfVDV3Si0xVEJUeW1LeWJTVl9TSzZuWEx0OTY5WkNmdW40R1EwUHJsRk14dGJmTEViZnBUNmxMdFJyRi1mOTFFY2E4X0otWkxTTU8xY01zMjlSREhvOVVleVVOQy1OQjdKVElJQnJkME1oTE9hTUlqcnd0WV9kM0duVC1hdER5VXJBSjVGV1dlbGNxczhXSXRwaGZV?oc=5",
+            "title": "Arrowpoint Investment Partners Singapore Pte. Ltd. Purchases Shares of 11,487 Lumentum Holdings Inc. $LITE",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "marketbeat",
+            "account_name": "MarketBeat",
+            "account_verified": false,
+            "published_at": "2026-06-05T07:35:40+00:00"
+          },
+          {
+            "id": 272601,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxPMDRxLXdJWlRXUGRzcTVod0V6ZEYtYVBybXpFSjRkc0U5dGRiMnlMeWs5dzlLSjZ2cFpNSmQwLVBibmZDWG8wMV9FdDZBMUFiQjNLRmVQTUI4LUdhZkVoQUxsYnpsRWR4cXN1ZFp3WTdBNEJXTDM2bGdISVYzYjFmRF84TXh4cGxHMEhIMVBoeVFPSEx0OGFLNzBwT3BYLVlkeWdLYmRMa2FvYzh6SHcxMTl2dGxwQWEydWgtZEs3Nk8xbzFkc3ZNR3BDUndxQkZvYVNsT3NhZmJmZU5Cdzd3U09rWmVESzA4LVhWZm5jTHMwWGoySFhSa3VUcjNhdw?oc=5",
+            "title": "Arrowpoint Investment Partners Singapore Pte. Ltd. Makes New Investment in Edwards Lifesciences Corporation $EW",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "marketbeat",
+            "account_name": "MarketBeat",
+            "account_verified": false,
+            "published_at": "2026-06-05T07:35:39+00:00"
+          },
+          {
+            "id": 272605,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQNjBydXdNMUs4RWZHWk4tVXNmM1lEcmNXcFpmMnR4eUd6d0lRZEw0ZUxfUEUwRVZiU3Z4c2h1TWhOenlibTVnVTlxVlg5ZmcxT1lUMldKazNUZzBkMTdMU1R5Ni1QdVdvelFhWE01eDFSTzhud0VaU2tFRHhTRGFLTEVpZng1RnptWk9QOE1WeS11N09xeV8xN1dMd2NsNXNxaVA4UkpMbThrTkw3eTFYcmZvZ2E3OElENWhCM0hiZFJHZWZIeTdRaTViT3V4Q2U3VTZrWnc3NEdyNF8wLWVJWnNnR2szOUt4bno1VnNoVkszeUdhUl9ESlRsM2xUci1lQWVYMy1B?oc=5",
+            "title": "Arrowpoint Investment Partners Singapore Pte. Ltd. Acquires Shares of 152,712 Teva Pharmaceutical Industries Ltd. $TEVA",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "marketbeat",
+            "account_name": "MarketBeat",
+            "account_verified": false,
+            "published_at": "2026-06-05T07:35:37+00:00"
           }
         ]
       },
@@ -2327,40 +2327,244 @@
         "lineups": null,
         "social": [
           {
-            "id": 272203,
+            "id": 272629,
             "type": "news",
-            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQM28ySWszQ19jWUQyUHhIWmFwTzFTR0lGRmt4RnU5OTVvQXU0QkZ4cHpzTVh4cXRyY2lWYTJrMUJWNUFPa1RkaDRzMTBaQlcwRjYtNTVFaVkwdzgwRTRka21pME5YR2VFMkVleUZfN0RQNElqWGJZVTE3Wmo2NUxoOXR0VUZxQlF4ZzZQVV9FVkJwQi1maHZ1QlByaXJOU2p3X0IxNFZsQ3hrMVdBZmZ5U3c1cTRySFZRS1NxX3dQbFNDdk5sUGR0N3lzbzY4ZDdoNmR2YWdORQ?oc=5",
-            "title": "Dominic Roque and Sue Ramirez had an unforgettable lunch date at a Michelin-starred restaurant in Hong Kong. (📸: Dominic/IG)",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPSXl3LW4zNHVZOFZpTDRoNjdOZDNtc083ZnVJbXFfdEFiQjFockRha1U1ZmVQaE02MkJjV1Q0cEp3bzhKdnlDOFp6dTdJX1JZZU5IaUZ1cDU5ZUVZME5lUnNvOHpTeG9KRm1aMUltS0ZTdlRNc2RaN0czRFN0bGF4ZjhTNU9sNENmWGlkaUZPSUZMdV9BemYwTGNsTVBtNkFPZWlGaXRKbXZiODlYMUo1UlR0YjN4cnA5VUJTUmd4SUEtNm02ckR4ZXdQLTk1Sjg?oc=5",
+            "title": "HONG KONG CHINA RUGBY SETS SIGHTS ON SEVENTH STRAIGNT ASIA RUGBY CHAMPIONSHIP TITLE AGAINST KOREA",
             "text": "",
             "thumbnail": "",
-            "account_handle": "facebook.com",
-            "account_name": "facebook.com",
+            "account_handle": "hong kong china rugby",
+            "account_name": "Hong Kong China Rugby",
             "account_verified": false,
-            "published_at": "2026-06-05T06:08:05+00:00"
+            "published_at": "2026-06-05T08:24:09+00:00"
           },
           {
-            "id": 272202,
+            "id": 272635,
             "type": "news",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPWlZEODJnZHFsNnA1WjdLRjd5OHQwem5XaC1Mblk2bl93amQ1Y2RTbFhZYlhESmttcDNXUGRPVHdVckdiYnRqZ2p5aWo2MlhMY3NvLWtCczJvU0IzU0h5UVJycVczVGhWbDlobmhsRU1hQ1U5ejctbHJEZ19sMWltcTJ1d2VmSG1aWjh1V240eUFObDc5ZXhudHMzcVF5SHh4YXc?oc=5",
-            "title": "Hong Kong Market Moves | Gold Stocks Remain Under Pressure as Elevated Rate Expectations Continue to Cap Gold Gains; Market Awaits Tonight's Nonfarm Payrolls Data for Direction",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNTFk4Qnc5czlvZGRRbFpFM0pNZEREeU5ZVHZLWHVESEdGbHhGYjR3R1dRSTliMWJKZXY3RFBsQWxHNnNlRTRnVnVJSTVIRDlZLXRjM3diR0VhUGlBYW40d2VFVlFkWWZKYmRWU0M4Wmp2VkVZbi1sbDVtTFZNNkVwbGhzWDE2ejZKWGFQNVdVUjFySTZ0SHBxR1dLOGUzUy1sdWdvdHQ0MEdES0ZhMGQ4WXA3SXJBOU5vUDU4SjRR?oc=5",
+            "title": "China and Hong Kong users unable to access SpaceX website, IPO documents",
             "text": "",
             "thumbnail": "",
-            "account_handle": "富途牛牛",
-            "account_name": "富途牛牛",
+            "account_handle": "klse screener",
+            "account_name": "KLSE Screener",
             "account_verified": false,
-            "published_at": "2026-06-05T06:02:12+00:00"
+            "published_at": "2026-06-05T08:05:42+00:00"
           },
           {
-            "id": 272199,
+            "id": 272623,
             "type": "news",
-            "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNTEJuZHBJcWdreHFQaF9hU1o5aldOd0d0RGYwbnRDY184MEtpbG8zeXVySjBwRWFaZkhBZHdKQklITXZBTVFGOENSMjl1bjhlSVpBbHBaZnNOLVUwWWF2azBPZVdTRF9NUlMtMTFBSEhZY1BuZVQ4cWdxNS12cmF3Wg?oc=5",
-            "title": "Hong Kong Account Rules Rattle UK-Listed Banks",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOa2dlQ0VCZFZKNWlhcjFKZi1sWUtDOHlLMDczWTBhU2hzWXdMYllJNHRDWXUzcTNVZm9QS1hfQm11bS01M1R5eEtuVXhJNnU4Y21jdm5RSkIxd3ZLazQyRmhrWlI3R1lFaFppaG0waG5HWGdCczQ1RDFkNmdzQkZyVUc4elQ2TUhHYVViMGdBRGJLanNDVTRRakNHSVVSOUxIWGxGLVBwLV9yTFlNR0cwUUh1ZWszN3pzOEw0?oc=5",
+            "title": "Hong Kong competition body mulls criminalising bid-rigging after deadly Tai Po blaze",
             "text": "",
             "thumbnail": "",
-            "account_handle": "finimize",
-            "account_name": "Finimize",
+            "account_handle": "hong kong free press hkfp",
+            "account_name": "Hong Kong Free Press HKFP",
             "account_verified": false,
-            "published_at": "2026-06-05T06:01:26+00:00"
+            "published_at": "2026-06-05T08:04:27+00:00"
+          },
+          {
+            "id": 272620,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOQ1dYMnN3NDBqcEo5V0pQRlZtTzBIbVpTdkZqWEM3TVhmb1dmY01tb2tGV0RmYWFSSDBSOHA3Zk1VcjJFTDlPTldNM3pQNTZHWE9TTDRJTjNnM1dwQjN0Vi01eXpIcXZWSW54cDdyMkpwUEEtbU15NFJ2MUwtOUJOSWRBUTU1a2hMbWdoTWdUdmNLRE5NOGdjSk1kVDgtRXNnQWk2YjB0WVBuVU50?oc=5",
+            "title": "Hong Kong hotel market reaching a strategic inflection point: JLL",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "hospitality net",
+            "account_name": "Hospitality Net",
+            "account_verified": false,
+            "published_at": "2026-06-05T08:02:33+00:00"
+          },
+          {
+            "id": 272633,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQXBBd0J5clk4d25RUHZWZEhfVFk5WTFVQWpJc0JKdlNVS2M1SDc3dDJPMlpNWEtPaVNZRmFfLU5JSEJlRDVYZklKVF9oZDlHeVVMclBsLXlFOWpOS1FHMEtTd2N1c0RoQVdaS3NFRjQwakRVeUpoQjJxeFBhMm84ZWEycVZZQ1pDenNWcXVabHFNcmxNTlZGaXRiQXFMUmdwdm53S1IxOE9zaDF2ZUpnSXhRUGRtMldRUVIzZTZWeHRqdWl0N2RtNGJRNEJtVzBad2EyV29rdmFHS3JDLXFDVjRiNEpiX04zYm4xNFM0UzROaXM?oc=5",
+            "title": "Hong Kong's Environmental Performance Report 2026 Highlights Significant Improvements in Air and Water Quality",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "bastillepost.com",
+            "account_name": "bastillepost.com",
+            "account_verified": false,
+            "published_at": "2026-06-05T08:00:00+00:00"
+          },
+          {
+            "id": 272630,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE9PZHRIc1ZpcklybzJJYXEyZVZPaG84ajdUdm1JYXMwQndHVkkxTHJNLVFzSU04eTRhdkgzazctemtEcVdrNHllaW4wWjRRa0VJ?oc=5",
+            "title": "Jollibee is said to mull moving US listing to booming Hong Kong — Bloomberg",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "the edge malaysia",
+            "account_name": "The Edge Malaysia",
+            "account_verified": false,
+            "published_at": "2026-06-05T07:57:11+00:00"
+          },
+          {
+            "id": 272627,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOT3l2YzFERlJkRlpCak12UHpLY2ZJX0dYYTR1dXJ0aE5jeHc3MzJQcU4zLVlicVJCd3VmTGpmWEFHMHJGUGllejBjenoxdVQ0ZDJoeWpsSUE2N1YzaDl1cTBqNUVjdC1MQmJLcVRRQmprenh4TkV1Z0FrM29YQW1fR05BOUZYNVFtUHQ2bzdmaW91Y0NBaXZIQzlaMU0wT1NsX3RiaFFYM0pMN0hyUkpBRzZyR1QxMEJidS0xOHNORXpzdWNSem01UTk0MXI?oc=5",
+            "title": "China and Hong Kong users unable to access SpaceX website, IPO documents",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "the star",
+            "account_name": "The Star",
+            "account_verified": false,
+            "published_at": "2026-06-05T07:57:00+00:00"
+          },
+          {
+            "id": 272631,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOb1JXRTkweGZDNG5rTUtRMklMZ3ZZSk5tYjYxZWExWmlGak5ZZzBIMGZSa2E5enZKeUF4ZUV3ZUdfSEQ0QWNNLU5kMUdlUk1xVUFVcnFqNklycXE3RW1PbWF0VktrdjVLb2RoUFNkWUJBa2FCUmJidFM5UklEREdVTURWbHljN0JURFNUWWdOajllU0tqUTNLVl9qdzUyLS1jSVVOOHlNVE1uUHA4M29KWC1LYy1xQlY1SDRN?oc=5",
+            "title": "Hong Kong Jockey Club unveils 'Pony World' in revitalised Penfold Park",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "the standard (hk)",
+            "account_name": "The Standard (HK)",
+            "account_verified": false,
+            "published_at": "2026-06-05T07:56:42+00:00"
+          },
+          {
+            "id": 272597,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQV3kwbkZTZ1hHNVdYeFBjUHYwRUx4WXBtcGswMTdTS0g0SS10eTQ0VkVaV3h3dkdnS2NBakFRWWhQaXJOUlpRWElxQ0RPcFZ0emtDUUtOV0JnYW1sWHMtRDh6dlo5RlBOMGVqS0RHN09DMmctbG4tcEd6M3NuVDlmRzEtZjd0bC1rZGhxQnlaR295dTJDLUhOMEc3d290RHhmUGFydw?oc=5",
+            "title": "Preparing the next generation to think: Chess in Education conference in Mongolia",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "fide",
+            "account_name": "FIDE",
+            "account_verified": false,
+            "published_at": "2026-06-05T07:55:41+00:00"
+          },
+          {
+            "id": 272639,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE84eXF1c25FR0o2amd4RkxGVVBVRVNFR1psblc1Yldsb184aDlkS3ViX1VTenVGczVFN3o5eGEtSXNNME02Y0dfcmY4aVYzcUdyeGFFald4aWFQM1B0NDRTWDlVd3luNV9XdTVGMFhKX1E2Nm1l?oc=5",
+            "title": "SpaceX website blocked in China and Hong Kong",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "latest news from azerbaijan",
+            "account_name": "Latest news from Azerbaijan",
+            "account_verified": false,
+            "published_at": "2026-06-05T07:54:17+00:00"
+          },
+          {
+            "id": 269840,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiVEFVX3lxTFBfY3VXVEtOaTZzTjFBcWV0YjlfNS1RWlJxUk82MXBnendHeC0xQTRQbGs1MEQ1ZlBQYy14T2FMb3kzb3hhR3BET1ctZ05ab01CTEJwSw?oc=5",
+            "title": "Registration Now Open for Free Public Admission to Fifth Hong Kong Science Fair",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "iharare news",
+            "account_name": "iHarare News",
+            "account_verified": false,
+            "published_at": "2026-06-05T07:52:30+00:00"
+          },
+          {
+            "id": 272618,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVENxRHpaMjBKOHNja2ZpaWp2VHdRYlNQdEQ0NUlNalpXbkZZN0Y3cTZCd2E5bEpKRGtHcUpRdWRxSmtJdWotRUw2TkUwcG5vendEeWVoTmgxSWRSSlJrOHlaUFN0RFg5S1lCdFRRd3Jpc05XeXpvbzdKRElHVTBKaER3?oc=5",
+            "title": "PwC Hong Kong partners to miss payouts after Evergrande-linked sanction – report",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "international accounting bulletin",
+            "account_name": "International Accounting Bulletin",
+            "account_verified": false,
+            "published_at": "2026-06-05T07:51:25+00:00"
+          },
+          {
+            "id": 272621,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOS25oSW9BeTlxYll0ZnNlcWVhNk1oeWRGLVR0THhNQVQwMG5FT1NsNGphaTg1MEkwN0pLZHJiZkFndVNzMWEtemRjMFktYlJrTDlDaC1wWDFHZ3QwU05nUmJCSXJTV2k1QzhzbHhhelNTV1NoRF9ZclJLUWZ3RTBlYjMtd1VudGJmdTNlY1RUcnFBS2xWOTM1ZW04SUVSbUd4S1ZkLXp6Y1pIX21KZmhSbTRCcGZYX3NOUXU2aDl1RWUxZXV1aXlxVGtleFJwR1E4eFZNbHZ5SkFMYlNUUXhUeW9B?oc=5",
+            "title": "Jollibee is said to mull moving US listing to booming Hong Kong - Bloomberg News",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "tradingview",
+            "account_name": "TradingView",
+            "account_verified": false,
+            "published_at": "2026-06-05T07:50:44+00:00"
+          },
+          {
+            "id": 272638,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxNalRTS1NfOTVCYUphYkJxZE5UUE9XR2dTVVZhcU5hU3FhQnhUMm1pYXB1V21RWmVScTBRUGc1YzFWcFk1aENMZHplTlNRd3F5VURRckF4bVR6aDV4RnN6ZmZHcU8xRzZHSlFUaEc0Qktxazh4OFAzMVdDZlBIZXR3QXZRNHVpUkZ1YXdQNFZHWno4Q0k0VmRLZHBWc01mcHdxc2doQWxpV1g0cGU4R0lqcWJRdDlHd21wVVk4ZmRBSG1ZcHBuS09DaUVPc01uWlVhZzMyYWhzUTJzUQ?oc=5",
+            "title": "IndiGo Shares Slip Over 1% After Airline Suspends Flight to Hong Kong, Shanghai & 4 More Routes Till September",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "goodreturns",
+            "account_name": "Goodreturns",
+            "account_verified": false,
+            "published_at": "2026-06-05T07:49:54+00:00"
+          },
+          {
+            "id": 272625,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQamxSM1JyS0dzZXA0T1FoWDRjZllaQUhtdnNnd3pxanFydmxZZ2NIY3NXaVQzeVpROGJOeXBlcjZZUlpyTTFIa21ZdU9lQzdIRHNTOHhJa0ZFcWxFSjVxcTFfN2FmZ2hXR1RTOC1vZXgwOV9sb1M1WVRqeGpTQXJ2M190dXJvcVVDWHFtZF93ZVRqcG5ZVzAxMldXRC13Rmw1V0h0RzFJZ3g5aVFmTkZJYTRPVEJJY014Q0stOGpqbHFBSjVOYi0teTJSYzVQbHfSAc8BQVVfeXFMUGpsUjNScktHc2VwNE9RaFg0Y2ZZWkFIbXZzZ3d6cWpxcnZsWWdjSGNzV2lUM3laUThiTnlwZXI2WVJack0xSGttWXVPZUM3SERzUzh4SWtGRXFsRUo1cXExXzdhZmdoV0dUUzgtb2V4MDlfbG9TNVlUanhqU0FydjNfdHV",
+            "title": "Hong Kong watchdog to propose criminalising bid-rigging as early as September",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "south china morning post",
+            "account_name": "South China Morning Post",
+            "account_verified": false,
+            "published_at": "2026-06-05T07:46:30+00:00"
+          },
+          {
+            "id": 272632,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPbGpWb2xLOVhXS1RpNVlRUEFxNGZDeDF0Z0pfak5FQlpfMmFCVFQtLXNaR1QxODB1OGZCUHpMbmR1RDdTbnN3SktRMnV2WGk2WmtsQ3lleUhzSFk2RjNMVnkxQ3lBODYtS2Q5OFkxRkhVekR5SzJ1OVJNb0RWX3cwNkp4QU9Bal9tdHhfTHJ3V1dEUEJTd2N6TloxUWl2SDBOdDBGTmZkMVVxT0kwbE4wclA3RGdSSVVZa0Z6cVc2ZzNnSG43clNQbFp3?oc=5",
+            "title": "Hong Kong Monetary Authority establishes a task force on tokenized bonds",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "weex",
+            "account_name": "WEEX",
+            "account_verified": false,
+            "published_at": "2026-06-05T07:45:08+00:00"
+          },
+          {
+            "id": 272636,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxPYy1rM3Z1UlFERDRrZ1Q4czdmRDRtbnE0MkhuZXR0RHU4cmdtZmRNUEJkc3gxTGZBRUhHM1lsSHdINS0wR2pOSU9hTzZiUWtSYmpabTZMSkQyVXc3dzhWV2Znb1lTZkhCVUp2T01ZclRnS1gzb1pmNVNzdFV2V3NxaHc0aEhuSFpsb3Yxd0g0X1pBaFhBSVV4aXkzdFVlZ09nWGN3ZDBMSklySGYzN0M2b1BaUDVXdHQyT3dDZTU0YklnTEZBWVZnQjVvY2dmcWtzWFJQdzBsRmxHNmJocWJjYWtsR0FVNEJ6NnhjRnR2THk1UVNL?oc=5",
+            "title": "Immigration Department Conducts Major Raids, Arrests 15 Illegal Workers and 3 Employers in Hong Kong Operations",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "bastillepost.com",
+            "account_name": "bastillepost.com",
+            "account_verified": false,
+            "published_at": "2026-06-05T07:40:00+00:00"
+          },
+          {
+            "id": 272634,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxONkpBVUVIREQ2enhHMlkzcGlFTmJEMWdjdnllWlB2NDQxMEk2aGl3c21nc2pUVjhVZmpWMzk1eVlvVU9CeDI5TTNUX3FZSnRISnhRQXV5aF9odHhxSkkwWVB6MnVmYkUtZWNsclNsUWpoM1huaGQ3cTNEY3dLQThEV19UVHBnYUNTaENvTllRLWl3UFItU2ZPQWk0Qy1sUkpKa29jQlRQVERZc1dBYzZwemhWOGxhYlhwMTM2czRmUjhQZFBzVHRUaXJrY3N0Q05HZ25IN0VB?oc=5",
+            "title": "Amazon.com, Inc. $AMZN is E Fund Management Hong Kong Co. Ltd.'s 9th Largest Position",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "marketbeat",
+            "account_name": "MarketBeat",
+            "account_verified": false,
+            "published_at": "2026-06-05T07:39:43+00:00"
+          },
+          {
+            "id": 272622,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSzNrdXo4dGFELUF6QTR2TlN5cDhjZ3R4ajd0UjgtRzJoMlpuVERWSXRTOHZsZVNXVl9LYzh1X093b0JCUTZURzlTMnBEUWNnMmFwWWdULVFxeUhobDRfMTFiQ3RYZW1IdUVGTUhDdFVEX1NLTDZOSXFiWVBzUTFvRjkyQWRtWlN4QUNwRERfUU5jWFRpbDJCTE5ZRHlNQ2NtVUJJbFdBaTlQdVhQUTVoazFNV0JYREt1ZkZQQklxUjl0OG9yalA1RlA4cXNLSUk4UTJpdk5oUlZkeHNF?oc=5",
+            "title": "NVIDIA Corporation $NVDA is E Fund Management Hong Kong Co. Ltd.'s 4th Largest Position",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "marketbeat",
+            "account_name": "MarketBeat",
+            "account_verified": false,
+            "published_at": "2026-06-05T07:39:42+00:00"
+          },
+          {
+            "id": 272628,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNaDhJRk50ZUVfUjA5MWRTVHpYRmU4SjVaUy1hb010d05CMk0zY2xhVUpkVldFN25pUzVNZGV4YWZiajZzN0VMVUJkWmlOUWlubVhjSktRcnVyczFlMVVwemxzRlNrMF82VDRhckZEbVBqWFY5X0JJN2NLQTlNb2JXTVZ0Yw?oc=5",
+            "title": "Hong Kong flights paused",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "travel and tour world",
+            "account_name": "Travel And Tour World",
+            "account_verified": false,
+            "published_at": "2026-06-05T07:39:26+00:00"
           }
         ]
       },
@@ -2515,7 +2719,7 @@
           "round_number": null,
           "round_name": "",
           "group_name": null,
-          "status": "notstarted",
+          "status": "postponed",
           "home_score": null,
           "away_score": null,
           "home_score_ht": null,
@@ -2665,7 +2869,7 @@
         "round_number": null,
         "round_name": "",
         "group_name": null,
-        "status": "notstarted",
+        "status": "postponed",
         "home_score": null,
         "away_score": null,
         "home_score_ht": null,
@@ -3610,7 +3814,80 @@
         "away_form": null,
         "head_to_head": null,
         "lineups": null,
-        "social": []
+        "social": [
+          {
+            "id": 272575,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNeE5sT0lHSTBNOHBvbEJRb2FsSmhqTWFIcU5TX2N1Z2ljdEEwRi00QkctS3BfWTlaT05DNmY3Q1gwUjF3LVY1ckozT191ckx6T0F1ZjdOdlJ5NmpyUWpudE4xMVhCNkhaUS0wU3hBd0ZfT2dJeGJxTGZrelVfTDlXeUFkY3B2djMtX2c?oc=5",
+            "title": "SL Govt. concerned over Kuwait airport attack",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "hiru news",
+            "account_name": "Hiru News",
+            "account_verified": false,
+            "published_at": "2026-06-05T08:19:01+00:00"
+          },
+          {
+            "id": 272572,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQYmd3THJjcjl4dGFrZzI0MTlieGwyaU13bFhNTV9tdGdEbW5fR3ktd2hXWWUycWotV3BjX1NBd3hYR2JnN1Zlc1R5RndaNXZMRFZKT1FIdlB5dk1xdmt4Z3dKZkhVb0t2VjBjcHVlbVd0N0h5WmNYa3QybkdIVjZhSUhfRQ?oc=5",
+            "title": "Indian Ambassador Visits Kuwait Mortuary, Meets Injured After Airport Attack",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "daily pioneer",
+            "account_name": "Daily Pioneer",
+            "account_verified": false,
+            "published_at": "2026-06-05T08:12:17+00:00"
+          },
+          {
+            "id": 272571,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQY2lPcW5tUGx1Z3o1TG9LNzdjRzAzZEtZR2lpMzJySV95RW1IVTl5RGpIZ19YbDhZWVVCZk5yczdLMHNqUFpINzdXRlY3WmVHTlZBMHd3M2dhSjQ0REh2MndRalJ6eTFIMWJjQXJobnluZF9jc0YxU1JNQ1RTU1BrXzVxVWhnMDVCWUFFZ3VMWU80ZGszb0VERHd4T00wdDRiWmlYOXdnczlwRFE3YWpwX2Nsc3NCeXoxMExMOTRicDlrbmwyOEtrRXplV044U1JBM3Vxdkpxcw?oc=5",
+            "title": "The Civil Defense released video showing the moment Kuwait International Airport was hit by a suspected Iranian drone. Footage shows a large explosion as the drone made impact as well as damage inside and around the terminal. Kuwait’s Foreign Ministry",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "facebook.com",
+            "account_name": "facebook.com",
+            "account_verified": false,
+            "published_at": "2026-06-05T08:10:28+00:00"
+          },
+          {
+            "id": 272573,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTzRtYmJMWFhZMnMtYlhJMEFyWGUzZmhTODh5azlQVjFyZEhoU2lBTW9rYWltRmJwbElHYXhkZ3BYbmUzQTBDV3p0Z3RMdndNX0VQWndudXhCYklXMlpGTHZyWnNUcHVKWllBakZ3VzRHZExjNHF3TWRLSnRlMkdNVlZn?oc=5",
+            "title": "Kuwait prepares to tender refinery project deal",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "meed",
+            "account_name": "MEED",
+            "account_verified": false,
+            "published_at": "2026-06-05T07:57:50+00:00"
+          },
+          {
+            "id": 272574,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOUkdLZDNyaXQ0YzllbVp3bVB1MDZaMjRJRjRHSG44bDN2MDlQT2tUV2pISVhiSG52NmNsYm1xWjVaWmRwbnRxdmhmMW9CYmRhTDhQU1BPNTEySWVHUTlTNVpvN1dXZkFMLWFyMXNsaW16bWlEbVJ3ZVdBaVRIUlVUSy1fQUFLdGtiM3huZGd6MmVqeXJhYl9Ib2xCclpSLVNIa190b05GbEVIdw?oc=5",
+            "title": "Kuwait uncovers illegal labor support payments linked to forged nationality files",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "times kuwait",
+            "account_name": "Times Kuwait",
+            "account_verified": false,
+            "published_at": "2026-06-05T07:56:29+00:00"
+          },
+          {
+            "id": 272576,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMmpibUhNaHZkdHNMc1dFUDRHRTNwQm0yN1lZV3FQbGV2VG5uemVza1h1VDRkLU9mZ0lIZGhQWHpia3FiYzYxN2VENzlVV2FIbGszcTFPVTVRVFRyMW5NM1QzTDkwZm1YTHJocl9RN2lnNHp2Tm1vQWFzSlZkV1ZsaUpmMkZWN251Q3J1a25tUDEwR3NRVXY2ZXlCeDgzMWNNbXNoYWlCaFhRbk84OWFPZHlvZ1RQTERzb3RGQWxnQVlhdEJGd2dV0gHMAUFVX3lxTFBVNm5JMFA0a1hxZkJ0Y1FDWk9NNXNxbEdiSkpaU3ZFQ1BHOEZ1Rm40eVZyNU5EVDF5MFFUbERHam1GSzczRGw0UHZteGNMTHdyUU4yU2p4MUhIdFh5SGZrbVl2RElENEoxXzRscXVwZUNNdU4xTGJ2WEFBOGFuYWFnZkVMcVFwa2JROWN",
+            "title": "Kuwait Airport Attack Caused by Malfunctioning US Patriot Missiles, Not Iran: Tehran Envoy to India",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "newstrack english",
+            "account_name": "Newstrack English",
+            "account_verified": false,
+            "published_at": "2026-06-05T07:30:19+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
@@ -4061,7 +4338,248 @@
         "away_form": null,
         "head_to_head": null,
         "lineups": null,
-        "social": []
+        "social": [
+          {
+            "id": 272681,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1MSFBnUDM3RFhEMW5Nbk41U19CeXljay1DUEtWWkNDYWlXQmdhLUZ6NXhsZXB3bFAwYmRJS19JdW1LSURlODZwOVlyTkg4Ykd1MUVVX1BjSTFRMG1WTldxbHV0ekVhSFhXNHhmLUlXemFHWVJYZVhHRDRxS0c?oc=5",
+            "title": "Indonesia Outlines Commodities Subject to New Export Regime",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "world.infonasional.com",
+            "account_name": "world.infonasional.com",
+            "account_verified": false,
+            "published_at": "2026-06-05T08:18:22+00:00"
+          },
+          {
+            "id": 272595,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPb19HV0piR1ViVkdKVVlrQmZTYUJLcXR3TXgyM3JRMW05d3BDdzd1WE1qbVo3bnkzcGx3NlZWNVExSkxXR2N4TzA2WUEzdHV6SUthOURFWkpHUDRRejQ0cEtHT0JnRXgxdGxxb2dXeDBuM0dMVjRCaXB3d041WGJ5OE5HUFpaNm9VX2FqUWFDTHUtMjhaOVcwQzg1am5MSU1o?oc=5",
+            "title": "Iran, Oman to jointly manage Strait of Hormuz under international law",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "hum news english",
+            "account_name": "Hum News English",
+            "account_verified": false,
+            "published_at": "2026-06-05T08:17:29+00:00"
+          },
+          {
+            "id": 272663,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPNXlmalltSlRyX1hyYzZwdTFiaDQ5WFVMZmZmNFBSRUdpVTNuT2ZHSHdZcEJyRDE5bWxUaHc4OUJlMy02Sm8xOG1wUHVvdjZaREJWWHo4N1pJdXVrM3lLeXZzNXF1aWo1NWgxRUpBUG1WNlNtb3VGcDVNZGpPbXpVcWYxa0ZrUFo1Q3AydGNxWjBLRzBLei1aT1ZCcnl2clhZYlJzVVlpTQ?oc=5",
+            "title": "Indonesia expands tourism promotion in China through sales mission campaign",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "tv brics",
+            "account_name": "TV BRICS",
+            "account_verified": false,
+            "published_at": "2026-06-05T08:16:18+00:00"
+          },
+          {
+            "id": 272671,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQb19HOGhGU2I2S184Y1BWcTM5QTBxdmJVOFYzYUtjNG1femNjMjBweW1aeHo3TWpOQlFBc0E4T0FrcF9Lb2ttU2lQLTZqaWlLVEdBNkdxYlNvUWtvdHFiRFNHUGJMV05vcV9jcnNneUQ2TlAtWFVXcGhYWFE2RUJiMndESnRpdm5Sc0NENzBadGNIY3c1Rk9oWEhkYjdtbTZ0MXQ1eTVQS1Y?oc=5",
+            "title": "Indonesia releases details on export overhaul of palm, coal",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "the business times",
+            "account_name": "The Business Times",
+            "account_verified": false,
+            "published_at": "2026-06-05T08:13:00+00:00"
+          },
+          {
+            "id": 272666,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFB4YWRaLUIwaG1vMTdsaVdNTHpzeVZPM01yakJLeVNxV3d6V2RZZ2w0T1hLbGFWUlBKemZTOV9jaVBUcEFqS2lxR0tKZE5yZFZESTJzVkpQUnkzTm9teTBJaGlOaDNiYnpkWEtxVVZQalI3MGt2MENDc2F1LWZ3dw?oc=5",
+            "title": "Indonesia fine-tunes squad ahead of FIFA matchday",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "independent observer",
+            "account_name": "Independent Observer",
+            "account_verified": false,
+            "published_at": "2026-06-05T08:12:19+00:00"
+          },
+          {
+            "id": 272582,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOUS04cU9mRzU5cTJtanFlZm55SjhPb3dhdGM3WEJDY2VvX3FBUGpzQ0lrajZTVFU3MmFhbWFjMFhTaW44b3VVNXV6eDQ4MERLZkl1UkdMVTR1NHE5TDIwNEFQOFpFVzBkMnpjU2lKdFRSNzFwR2YtYnB1dU9lSzUySDdkbUZEREFORkJ2ZmZCbHdGcWVlMHlXSWFsSW12RTZncTEwMFpIcDlBMmRRU0tGYUJRbw?oc=5",
+            "title": "War, latest news. Iran: media, 'explosion in Oman port, drone attack likely'",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "il sole 24 ore",
+            "account_name": "Il Sole 24 ORE",
+            "account_verified": false,
+            "published_at": "2026-06-05T08:11:40+00:00"
+          },
+          {
+            "id": 272581,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQSHdVdDZ2Z1Y4QURYYXhjdU1vMjNvdURtd2JlWHE4NWpmOTU5TmFNQjRoZXQ2YldRMDR1aFd4NEJiZ09IY0N3dHdVZHRMUWU4Sm5iUXk1SnlXTXQ4TXkxMUoyTTBtN0hPekxwUUxnSkdHSS0zTHlXZU5TWDkzT1d1NWRtdUZwQWh0alpVX2IzZENod0Y4Z0RnRXB2YV9PQzRkSVBLZ1pLVUtzblpz?oc=5",
+            "title": "Petroleum Development Oman denies crude loading halt at Mina al-Fahal",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "yeni safak english",
+            "account_name": "Yeni Safak English",
+            "account_verified": false,
+            "published_at": "2026-06-05T08:09:32+00:00"
+          },
+          {
+            "id": 272678,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObU1HbGhBTngyNVVyVThZamV2eS1GVnltdm5HTmlxNE95RGY4T2Fkd0NueVQ0ZWJiREJ6RW9DdEJTNmhXUmxlTW01VUdQT0dtSXBYX0llREZTcG5TUWY3ajV0cDRGNVlIc1ZTQXVDdGNsampfYkd0X3RSeTlnWXlCUklFeklaT3NBX2xwZHBmcw?oc=5",
+            "title": "Indonesia advances renewable energy transition in electricity mix",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "latest news from azerbaijan",
+            "account_name": "Latest news from Azerbaijan",
+            "account_verified": false,
+            "published_at": "2026-06-05T08:06:29+00:00"
+          },
+          {
+            "id": 272672,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5ERHRjV0Q5cGplRHROQW83V2hDR28yakNaNm9HY0FqUUVpbFRGcnNSZS1jSy1aOTZmeVZBX1R5NUlWZWdKcHc3TDl3XzktbFlt?oc=5",
+            "title": "Purbaya slams ‘sell Indonesia’ narrative, points to bond inflows",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "the edge malaysia",
+            "account_name": "The Edge Malaysia",
+            "account_verified": false,
+            "published_at": "2026-06-05T08:05:14+00:00"
+          },
+          {
+            "id": 272589,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOcXNQQ3ExV2ZWVjBEZ0hmN2lQTkVJZGlDMW1uWWtuQUdnMnotRmlqNmxlZERoSTgxOVhaU1NRYkw4WHB2NmF1cjNWWENQSW9SdXd6dUdRRklqdFBSR2ZpRkRqaHJpWHc1QmFnOENsSlIwWm05TDgzWWZnVkJGVGpfUE5nNXB3RHdhcG1JX0ZHTkdWcUJfb2ZCdmRROThnQndCSTRMeVdFVmF4bnpES0ZDWVhtUzgwbk4wckVGd1UzZw?oc=5",
+            "title": "Oman says Mina Al Fahal oil exports unaffected after reported blast near moorings",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "gulf today",
+            "account_name": "Gulf Today",
+            "account_verified": false,
+            "published_at": "2026-06-05T08:03:45+00:00"
+          },
+          {
+            "id": 272585,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPdkh2TnZaY25RT2c2NlVUNmluU0wtM2o4bHZtd1lnZzVpZ05Eanc0NGk4TDI3RXlrd0stek8xNEFFWGhkV0ZNWENYb1NkWW52YWMwbEY2eU5lQmZaWHQwakY4Q2RrS1FFRWhiNFBuVk9LeDF6aHJPcmhIM2JYM0x3U1BmN1FkbVIzZzZWWGZxcUdXck5hcVBSbnhmcFpBOW1yOFp3QlpMWQ?oc=5",
+            "title": "Araghchi: Iran and Oman to make final decision on Strait of Hormuz",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "i̇lke haber ajansı",
+            "account_name": "İlke Haber Ajansı",
+            "account_verified": false,
+            "published_at": "2026-06-05T08:02:45+00:00"
+          },
+          {
+            "id": 272664,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOOUFGbWdtaFdiMDVCZTNkNk8tNnVUc19za1FKSXhDRmVIaGNhbUxycFBRdUpicnJFZWh6SjJBYkFhN1RDOGxIazQzZGVXalZDUk1qaGlfQUhGczdIb1JobkEyLVUzSmxkWEIxZTZ4bDRxOHc2OUlXREZxMmZ5YUhQNjNUb25ET0hlOG5nbUlKVkxFeExFemdPWlBjT19HM2NjM1VUWGliZDNGeFU4QThUMG93?oc=5",
+            "title": "Indonesia's Economic Stability Reassured by Finance Minister Ami",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "gurufocus",
+            "account_name": "GuruFocus",
+            "account_verified": false,
+            "published_at": "2026-06-05T08:02:45+00:00"
+          },
+          {
+            "id": 272660,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc3NUUldfbFhRc2NKWEhzSU9za0J4MS1Ybk9hSmd6MXZQX0p1c2RzdTVsb1BxajNRT245T0lzSmV5Zzg0Q0JzTTV2OERLbzZqRWdWS1ZWM2dYMXdRSkgzdnNQb3BVcHdiV0JSaWd4ZkNEUVpZTTI3b3lscXRoVHdhbW5QOEg0bUhLc1ByZ0JsbzZtQlRpaXhtUU5tVkVqNU5ScmxnSzZud0tIR1lBeVBuNjlYWQ?oc=5",
+            "title": "Danantara Plans New Low-Yield Bond as Investors Shun Indonesia",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "bloomberg.com",
+            "account_name": "Bloomberg.com",
+            "account_verified": false,
+            "published_at": "2026-06-05T08:00:47+00:00"
+          },
+          {
+            "id": 272675,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1fZVpfSS1pUTNFNmpiM283UU1MZ2NmeW5OZzNObGJUTHJMbGd2TWpLYVppRjljMGh4dTljTkpnTnVSdDlLMjg1SzdTYi1DYlZkZVhxd3phVDVWWk42azhab3I5Y28wNWs0d1VSVTh3?oc=5",
+            "title": "2026 Golo Koe Festival: Celebrating Culture and Sustainable Tourism in Labuan Bajo, Indonesia",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "travel and tour world",
+            "account_name": "Travel And Tour World",
+            "account_verified": false,
+            "published_at": "2026-06-05T07:57:32+00:00"
+          },
+          {
+            "id": 272662,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPa0luWU5kb3NoUmlGTzNFaTZKNzZSeWI2WFhnS0kwcXBkaE92d3pfUzJ6OFJlLXBmOExCamJxOGllZGd3ejRNSVlQTVVmUklEYjFoRU0tYWxuT2JlRkVib040ZXhYWm5RNjJxWVhjVTRHZl9RQWd3akp6NThuT2F6RDJuYWtXQXlLMF9GclJtZE9hTTFISFI0UUg1ZUdjZFc4dDZHUS1ONlVsUzdyRDJ1Q0VRMWlCck1hYkJuLVdEWQ?oc=5",
+            "title": "Indonesia Open Badminton",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "idaho state journal",
+            "account_name": "Idaho State Journal",
+            "account_verified": false,
+            "published_at": "2026-06-05T07:55:21+00:00"
+          },
+          {
+            "id": 272665,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNRExCSG5BSTNzVi1jWkFYWVhYU2RNT0tQYnRvbjE2M25pYV8zTjdQQTJNN1ljYXJkVXkxZlhGZUVsNkhwc2o5ZjFtODRud1ZXZEF1Z1ZleW9OM0QtNW0zUy03ZnFub3dRRDFMU2VyWDItTGphMEtyZ3NibmF5UWg3Qmc5ejJfRWpZR01fTEFkUVByaWNFTjhCcklqXzFfWHpDamdEQVRseXNUMXllcUNUY00tWmViT1o0bnJlQTBVYnFic3ZEbklJcg?oc=5",
+            "title": "Igloo partners with Chubb Life to distribute insurance solutions across Vietnam and Indonesia",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "tnglobal",
+            "account_name": "TNGlobal",
+            "account_verified": false,
+            "published_at": "2026-06-05T07:55:14+00:00"
+          },
+          {
+            "id": 272661,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQb1lPZGVDSVZldWlLUHhEVFQ1NEY3MFhqSGRqdjFxUHB1dEhwT2htb0hSeFl3TjcwenB4NER6ZkY2V0pXdDNIMG05X1NkeWRqMXZnY1FVSXFQX203ZHp4enNsT1ZfRHdaTmRLV3JWM3o5clFmeE5NQ3NXOXd0RE0tckpacTRGZUdnQmFEVGFuYlROYVdxbVhpMWFRcjI5Y0FyOVlFQnlEbTN5YXRyM1RWaEt3?oc=5",
+            "title": "Indonesia Open Badminton",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "mid florida newspapers",
+            "account_name": "Mid Florida Newspapers",
+            "account_verified": false,
+            "published_at": "2026-06-05T07:51:50+00:00"
+          },
+          {
+            "id": 272676,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQYU1lVU4yUHdtUENlMWNBNTVJMFAyU3R0YUs2YktwMmVIM1JiRXhrdXZqVW52Y2dJQTJhMjlTeVFSSmo1c0VYVzBmUWpmTHdiUkJJQnJaUEk2WG1RQnMzVGxyQWdhcHBvQWZHTm9tS182MGdfRmJUc2JzT1dFVUpTSXpuTDJ0SHBhcjczcEVDOUlmU25fbEI0?oc=5",
+            "title": "Indonesia Open 2026: Putri KW Unable to Stop Chen Yufei's Run",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "tempo.co english",
+            "account_name": "Tempo.co English",
+            "account_verified": false,
+            "published_at": "2026-06-05T07:51:22+00:00"
+          },
+          {
+            "id": 272668,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1zSHRIRXkwdGZ5X2ZWRHlsVzRUTVVYalM4Vkl5TG1hNDl6VGJ0R1p4dktBcVNUajlHcXQ1Zkl0NTEyTWlPWUpJTTR2Xy1nbHJjWURBcTlFaS16Zl90NFJveHhsWVpHYUpUMG9jV3pn?oc=5",
+            "title": "Indonesia Tourism Growth Driven By Surge In Foreign Visitors Despite Slump In Domestic Travel",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "travel and tour world",
+            "account_name": "Travel And Tour World",
+            "account_verified": false,
+            "published_at": "2026-06-05T07:49:30+00:00"
+          },
+          {
+            "id": 272679,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPUkpHVUtrQm03YTZRR0FwTWVNbWxGM3J6UmswX1ZMczlCa1J0REg3WVh2VUFTaGFUYXI3N091RzV2aW1JeWFhT1NQTDBKQ1QzQmR0WHdQb05FeENQSDFfX290QnlMcEZ1QV9haU1Ea3R3X0t1TENvQ01iSzhPV244dkFvd2tseTZhOEHSAZoBQVVfeXFMUERLd1lvYXVPeFg5ZTJqYmhFTmd3MWZZZzJnM3hCX09LeVNVQi1Rek44cGNzWVRmRTNZZEsyV2UtX1RpbzBSUVktYkd0V0RaMk9EOGpJSHU3MEdfYzNwMGVERzJ5TDJXYzBYamU0ZHFSTlpqaldlTG1uSVhDM0ZzbmN1WDlmQXZmRDA5aWNONm9iYzRMeE1aSzZ1dw?oc=5",
+            "title": "Indonesia volcano erupts, forcing airport to close",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "24newshd",
+            "account_name": "24NewsHD",
+            "account_verified": false,
+            "published_at": "2026-06-05T07:48:54+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
@@ -15321,7 +15839,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Nagasaki coming to finish the job** — V-Varen just beat Mito in their last clash and arrive at the K's Denki as the clear sharper outfit. 🔥\n\nHollyhock are in freefall, winless in their last five, while Nagasaki have grabbed two wins in the same stretch. The visitors already know they can take three points here, and home form isn't saving Mito from their current spiral.\n\nKey storylines:\n\n- **V-Varen's form edge**: Two wins, a draw, and a mental edge from their recent 1-0 victory over this exact opponent\n- **Mito's desperation**: Five straight losses demand an immediate reset, but the firepower to do it just isn't there right now\n- **Attacking vs solidity**: Mito's backline (K. Itakura, Danilo Cardoso) will face pressure from **N. Campbell** and **T. Santana** upfront\n\nExpected lineups:\n\n- **Mito Hollyhock**: K. Nishikawa, S. Omori, K. Itakura, Danilo Cardoso, T. Mase, H. Yamamoto, T. Semba, Y. Yamashita, C. Kato, M. Leiria, A. Watanabe\n- **V-Varen Nagasaki**: G. Masaaki, Y. Shunya, Eduardo, A. Ikki, M. Sekiguchi, M. Hasegawa, Y. Hotaru, R. Yamada, O. Hijiri, T. Santana, N. Campbell\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**V-Varen Nagasaki 2–0 Mito Hollyhock**. Nagasaki lean as the slight favorite; Mito's defense cracks under the pressure.",
+            "generated_at": "2026-06-05T06:45:30.365797+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-05-31T05:20:24.072098+03:00",
@@ -15510,7 +16031,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Nagasaki coming to finish the job** — V-Varen just beat Mito in their last clash and arrive at the K's Denki as the clear sharper outfit. 🔥\n\nHollyhock are in freefall, winless in their last five, while Nagasaki have grabbed two wins in the same stretch. The visitors already know they can take three points here, and home form isn't saving Mito from their current spiral.\n\nKey storylines:\n\n- **V-Varen's form edge**: Two wins, a draw, and a mental edge from their recent 1-0 victory over this exact opponent\n- **Mito's desperation**: Five straight losses demand an immediate reset, but the firepower to do it just isn't there right now\n- **Attacking vs solidity**: Mito's backline (K. Itakura, Danilo Cardoso) will face pressure from **N. Campbell** and **T. Santana** upfront\n\nExpected lineups:\n\n- **Mito Hollyhock**: K. Nishikawa, S. Omori, K. Itakura, Danilo Cardoso, T. Mase, H. Yamamoto, T. Semba, Y. Yamashita, C. Kato, M. Leiria, A. Watanabe\n- **V-Varen Nagasaki**: G. Masaaki, Y. Shunya, Eduardo, A. Ikki, M. Sekiguchi, M. Hasegawa, Y. Hotaru, R. Yamada, O. Hijiri, T. Santana, N. Campbell\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**V-Varen Nagasaki 2–0 Mito Hollyhock**. Nagasaki lean as the slight favorite; Mito's defense cracks under the pressure.",
+          "generated_at": "2026-06-05T06:45:30.365797+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-06-05",
@@ -15938,7 +16462,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Machida's home fortress meets a Nagoya side bleeding goals** — this rematch has serious \"second-time charm\" energy after their 2-2 dogfight earlier this season. 🔥\n\n**Machida** are the steadier outfit, unbeaten in five (2W 3D) at Machida Stadium. **Nagoya** have wobbled hard recently, conceding six to Cerezo and four to Hiroshima in back-to-back away trips. Home advantage + form edge screams Zelvia lean here.\n\nKey storylines:\n\n- **Machida's** patient 3-4-2-1 builds around **Erik** in attack with **S. Na** and **T. Yengi** supporting; solid defensive core keeps things tight\n- **Nagoya** leaning on **Y. Asano** up front, but their back line has shipped goals at an alarming rate on the road\n- The first meeting finished 2-2 — expect another open affair with both sides capable of finding the net\n\nExpected lineups:\n\n- **Machida Zelvia**: K. Tani, Y. Nakayama, G. Shoji, H. Nakamura, I. Drešević, H. Mae, S. Na, Erik\n- **Nagoya Grampus**: D. Schmidt, S. Tokumoto, H. Fujii, T. Hara, T. Morishima, T. Takamine, K. Nakayama, Y. Asano\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**Machida 2-1 Nagoya** — home side edges a shootout. Slight favorite to Zelvia on form and venue. ⚽",
+            "generated_at": "2026-06-05T06:45:24.772382+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-05-31T05:20:22.700052+03:00",
@@ -16128,7 +16655,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Machida's home fortress meets a Nagoya side bleeding goals** — this rematch has serious \"second-time charm\" energy after their 2-2 dogfight earlier this season. 🔥\n\n**Machida** are the steadier outfit, unbeaten in five (2W 3D) at Machida Stadium. **Nagoya** have wobbled hard recently, conceding six to Cerezo and four to Hiroshima in back-to-back away trips. Home advantage + form edge screams Zelvia lean here.\n\nKey storylines:\n\n- **Machida's** patient 3-4-2-1 builds around **Erik** in attack with **S. Na** and **T. Yengi** supporting; solid defensive core keeps things tight\n- **Nagoya** leaning on **Y. Asano** up front, but their back line has shipped goals at an alarming rate on the road\n- The first meeting finished 2-2 — expect another open affair with both sides capable of finding the net\n\nExpected lineups:\n\n- **Machida Zelvia**: K. Tani, Y. Nakayama, G. Shoji, H. Nakamura, I. Drešević, H. Mae, S. Na, Erik\n- **Nagoya Grampus**: D. Schmidt, S. Tokumoto, H. Fujii, T. Hara, T. Morishima, T. Takamine, K. Nakayama, Y. Asano\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**Machida 2-1 Nagoya** — home side edges a shootout. Slight favorite to Zelvia on form and venue. ⚽",
+          "generated_at": "2026-06-05T06:45:24.772382+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-06-05",
@@ -16533,9 +17063,17 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 27,
+              "sentence": "The result of the first leg: Fagiano O - Urawa 0-0."
+            }
+          ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Urawa's trying to bounce back at home after a sluggish stretch, and Okayama just pulled off a shock 2-0 win over Shimizu.** This rematch has serious potential for fireworks. 🔥\n\nBoth sides drew 1-1 when they met last month, but Urawa's been grinding through draws and the occasional loss lately. Okayama? Streaky — two wins sandwiched between losses, but they showed they can score when it matters.\n\nKey storylines:\n\n- **Urawa need to find rhythm at the Saitama Stadium** after a run of 0-0 and 0-1 results that would put anyone to sleep\n- **Okayama's attack led by Werik Popó and M. Matsumoto** looked sharp in that Shimizu demolition and won't roll over here\n- **The midfield battle between K. Shibato and K. Yasui (Urawa) versus K. Ogura and H. Motoyama (Okayama)** will decide who controls tempo\n\nExpected lineups:\n\n- **Urawa Red Diamonds**: S. Nishikawa, Y. Naganuma, K. Nemoto, Y. Miyamoto, H. Ishihara, K. Yasui, K. Shibato, M. Sávio, R. Watanabe, T. Kaneko, A. Onaiwu\n- **Fagiano Okayama**: T. Hamada, Y. Suzuki, Y. Tatsuta, H. Omori, K. Shirai, K. Ogura, H. Motoyama, E. Miyamoto, A. Esaka, Werik Popó, M. Matsumoto\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**Urawa 2-1 Okayama.** Home edge and the model lean favors Urawa, but Okayama will make them work for it.",
+            "generated_at": "2026-06-05T07:45:29.340315+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-05-31T05:20:25.336542+03:00",
@@ -16706,9 +17244,17 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 27,
+            "sentence": "The result of the first leg: Fagiano O - Urawa 0-0."
+          }
+        ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Urawa's trying to bounce back at home after a sluggish stretch, and Okayama just pulled off a shock 2-0 win over Shimizu.** This rematch has serious potential for fireworks. 🔥\n\nBoth sides drew 1-1 when they met last month, but Urawa's been grinding through draws and the occasional loss lately. Okayama? Streaky — two wins sandwiched between losses, but they showed they can score when it matters.\n\nKey storylines:\n\n- **Urawa need to find rhythm at the Saitama Stadium** after a run of 0-0 and 0-1 results that would put anyone to sleep\n- **Okayama's attack led by Werik Popó and M. Matsumoto** looked sharp in that Shimizu demolition and won't roll over here\n- **The midfield battle between K. Shibato and K. Yasui (Urawa) versus K. Ogura and H. Motoyama (Okayama)** will decide who controls tempo\n\nExpected lineups:\n\n- **Urawa Red Diamonds**: S. Nishikawa, Y. Naganuma, K. Nemoto, Y. Miyamoto, H. Ishihara, K. Yasui, K. Shibato, M. Sávio, R. Watanabe, T. Kaneko, A. Onaiwu\n- **Fagiano Okayama**: T. Hamada, Y. Suzuki, Y. Tatsuta, H. Omori, K. Shirai, K. Ogura, H. Motoyama, E. Miyamoto, A. Esaka, Werik Popó, M. Matsumoto\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**Urawa 2-1 Okayama.** Home edge and the model lean favors Urawa, but Okayama will make them work for it.",
+          "generated_at": "2026-06-05T07:45:29.340315+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-06-05",
@@ -17113,9 +17659,21 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 27,
+              "sentence": "The result of the first leg: Gamba - Tokyo V 0-0."
+            },
+            {
+              "type_id": 6,
+              "sentence": "During the last 7 meetings with Tokyo V playing at home, Tokyo V have won 0 times, there have been 3 draws while Gamba have won 4 times. The goal difference is 13-8 in favour of Gamba."
+            }
+          ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Tokyo Verdy hosting Gamba Osaka in a dead-rubber reverse fixture** — both sides already battled to a 1-1 draw just weeks ago, and now they're back for round 52 with little left to play for. 🎪\n\nTokyo Verdy are stuck in a rut: one win in five with a brutal 0-6 hammering from Yokohama F. Marinos still fresh in the memory. Gamba Osaka have steadied the ship slightly (2W in five), but inconsistency plagues them too — they've dropped points to everyone and no one.\n\nKey storylines:\n\n- **Tokyo Verdy's** home advantage at Ajinomoto could be the difference after that mauling last time out; time to bounce back.\n- The midfield battle between **K. Morita** and **N. Hayashi** for Verdy versus **R. Mito** and **T. Suzuki** for Gamba will set the tempo.\n- **Y. Fukuda** and **D. Hümmet** hold the key up front — whoever finds space first likely wins this scrappy affair.\n\nExpected lineups:\n\n- **Tokyo Verdy**: Y. Nagasawa, D. Fukazawa, K. Suzuki, K. Morita, N. Hayashi, R. Hirakawa, Y. Matsuhashi, Y. Fukuda\n- **Gamba Osaka**: R. Araki, R. Hatsuse, S. Nakatani, T. Kishimoto, R. Mito, T. Suzuki, G. Nawata, D. Hümmet\n\nPrediction:\n\n**Tokyo Verdy 1–0 Gamba Osaka**. Verdy have a slight edge at home and the model backs them; Gamba's travels are always sketchy.",
+            "generated_at": "2026-06-05T07:45:34.844644+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-05-31T05:20:26.401115+03:00",
@@ -17288,9 +17846,21 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 27,
+            "sentence": "The result of the first leg: Gamba - Tokyo V 0-0."
+          },
+          {
+            "type_id": 6,
+            "sentence": "During the last 7 meetings with Tokyo V playing at home, Tokyo V have won 0 times, there have been 3 draws while Gamba have won 4 times. The goal difference is 13-8 in favour of Gamba."
+          }
+        ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Tokyo Verdy hosting Gamba Osaka in a dead-rubber reverse fixture** — both sides already battled to a 1-1 draw just weeks ago, and now they're back for round 52 with little left to play for. 🎪\n\nTokyo Verdy are stuck in a rut: one win in five with a brutal 0-6 hammering from Yokohama F. Marinos still fresh in the memory. Gamba Osaka have steadied the ship slightly (2W in five), but inconsistency plagues them too — they've dropped points to everyone and no one.\n\nKey storylines:\n\n- **Tokyo Verdy's** home advantage at Ajinomoto could be the difference after that mauling last time out; time to bounce back.\n- The midfield battle between **K. Morita** and **N. Hayashi** for Verdy versus **R. Mito** and **T. Suzuki** for Gamba will set the tempo.\n- **Y. Fukuda** and **D. Hümmet** hold the key up front — whoever finds space first likely wins this scrappy affair.\n\nExpected lineups:\n\n- **Tokyo Verdy**: Y. Nagasawa, D. Fukazawa, K. Suzuki, K. Morita, N. Hayashi, R. Hirakawa, Y. Matsuhashi, Y. Fukuda\n- **Gamba Osaka**: R. Araki, R. Hatsuse, S. Nakatani, T. Kishimoto, R. Mito, T. Suzuki, G. Nawata, D. Hümmet\n\nPrediction:\n\n**Tokyo Verdy 1–0 Gamba Osaka**. Verdy have a slight edge at home and the model backs them; Gamba's travels are always sketchy.",
+          "generated_at": "2026-06-05T07:45:34.844644+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-06-05",
@@ -17695,9 +18265,25 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 27,
+              "sentence": "The result of the first leg: Shimizu - Marinos 0-0."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Marinos have a losing streak of 5 matches at home."
+            },
+            {
+              "type_id": 6,
+              "sentence": "During the last 24 meetings with Marinos playing at home, Marinos have won 11 times, there have been 5 draws while Shimizu have won 8 times. The goal difference is 41-27 in favour of Marinos."
+            }
+          ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Yokohama host Shimizu in a dead rubber that somehow still matters** — both sides are chasing points in the final stretch, and that last 1-1 draw means they know exactly how to wind each other up. 🔥\n\nMarinos have the momentum with a win over Tokyo Verdy sandwiched between draws and a loss, while Shimizu are stuck in neutral: three draws in five means they're neither building nor crumbling. Home advantage in Yokohama could tip the scales, but Shimizu's defensive shape (three at the back) is built to frustrate.\n\nKey storylines:\n\n- **Yokohama's attacking midfield** needs **K. Watanabe** and **Y. Araújo** to create space for **J. Croux** and **K. Tanimura** upfront — Shimizu's backline won't give it away cheaply\n- **Shimizu sit deep** with **M. Brunetti** and **Y. Yoshida** anchoring a compact unit that drew 1-1 last time; they're not here to roll over\n- The **O. Se-Hun** and **Capixaba** pairing in attack offers Shimizu just enough to nick a goal on the break\n\nExpected lineups:\n\n- **Yokohama F. Marinos**: P. Il-Kyu, R. Kato, T. Inoue, J. Quiñónes, T. Kondo, R. Yamane, K. Watanabe, Y. Araújo, J. Croux, K. Tanimura\n- **Shimizu S-Pulse**: T. Umeda, Y. Yoshida, M. Brunetti, J. R. Sumiyoshi, K. Kitazume, Z. Uno, Y. Shimamoto, M. Bueno, Capixaba, O. Se-Hun, K. Matsuzaki\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**2-1 Yokohama**. Slight edge to the hosts with home field and fresher legs.",
+            "generated_at": "2026-06-05T08:45:27.779345+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-05-31T05:20:27.551748+03:00",
@@ -17868,9 +18454,25 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 27,
+            "sentence": "The result of the first leg: Shimizu - Marinos 0-0."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Marinos have a losing streak of 5 matches at home."
+          },
+          {
+            "type_id": 6,
+            "sentence": "During the last 24 meetings with Marinos playing at home, Marinos have won 11 times, there have been 5 draws while Shimizu have won 8 times. The goal difference is 41-27 in favour of Marinos."
+          }
+        ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Yokohama host Shimizu in a dead rubber that somehow still matters** — both sides are chasing points in the final stretch, and that last 1-1 draw means they know exactly how to wind each other up. 🔥\n\nMarinos have the momentum with a win over Tokyo Verdy sandwiched between draws and a loss, while Shimizu are stuck in neutral: three draws in five means they're neither building nor crumbling. Home advantage in Yokohama could tip the scales, but Shimizu's defensive shape (three at the back) is built to frustrate.\n\nKey storylines:\n\n- **Yokohama's attacking midfield** needs **K. Watanabe** and **Y. Araújo** to create space for **J. Croux** and **K. Tanimura** upfront — Shimizu's backline won't give it away cheaply\n- **Shimizu sit deep** with **M. Brunetti** and **Y. Yoshida** anchoring a compact unit that drew 1-1 last time; they're not here to roll over\n- The **O. Se-Hun** and **Capixaba** pairing in attack offers Shimizu just enough to nick a goal on the break\n\nExpected lineups:\n\n- **Yokohama F. Marinos**: P. Il-Kyu, R. Kato, T. Inoue, J. Quiñónes, T. Kondo, R. Yamane, K. Watanabe, Y. Araújo, J. Croux, K. Tanimura\n- **Shimizu S-Pulse**: T. Umeda, Y. Yoshida, M. Brunetti, J. R. Sumiyoshi, K. Kitazume, Z. Uno, Y. Shimamoto, M. Bueno, Capixaba, O. Se-Hun, K. Matsuzaki\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**2-1 Yokohama**. Slight edge to the hosts with home field and fresher legs.",
+          "generated_at": "2026-06-05T08:45:27.779345+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-06-05",
@@ -18278,9 +18880,25 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 2,
+              "sentence": "When playing at home, Kashiwa have not lost to Kyoto Sanga in their last 3 encounters."
+            },
+            {
+              "type_id": 27,
+              "sentence": "The result of the first leg: Kyoto Sanga - Kashiwa 0-0."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Kyoto Sanga have lost 5 away matches in a row."
+            }
+          ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Kashiwa's absolutely cooking right now, and Kyoto just got embarrassed 6-2 by these exact same lads.** 🔥 This feels like a statement game waiting to happen.\n\nKashiwa are on a **four-game winning streak** with clinical attacking play — they've dropped serious scorelines recently. Kyoto, meanwhile, are free-falling: **1W in their last 5**, and that 6-2 spanking at home last time has gotta sting hard.\n\nKey storylines:\n\n- **Kashiwa's firepower is relentless** — Y. Koizumi, Y. Kakita, and K. Yuruki have been finding the net with ease\n- **Kyoto's leaky defense** keeps conceding goals in bunches; they'll need G. Ota to have a career day in goal\n- **Revenge factor works against Kyoto** — getting smashed 6-2 by the same opponent in a home return is brutal morale-wise\n\nExpected lineups:\n\n- **Kashiwa Reysol**: R. Kojima, D. Sugioka, T. Koga, S. Baba, W. Harada, H. Mitsumaru, N. Nakagawa, Y. Konishi, K. Yuruki, Y. Kakita, Y. Koizumi\n- **Kyoto Sanga FC**: G. Ota, K. Sato, Y. Suzuki, H. Trevisan, H. Sugai, T. Hiraoka, S. Yoon, J. Pedro, T. Matsuda, Rafael Elias, M. Okugawa\n\nPrediction:\n\n**Kashiwa Reysol 3-1 Kyoto Sanga FC**\n\nThe edge is firmly with Kashiwa's form and attacking momentum — Kyoto lack the defensive shape to contain them.",
+            "generated_at": "2026-06-05T09:45:28.689260+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-05-31T05:20:28.673971+03:00",
@@ -18450,9 +19068,25 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 2,
+            "sentence": "When playing at home, Kashiwa have not lost to Kyoto Sanga in their last 3 encounters."
+          },
+          {
+            "type_id": 27,
+            "sentence": "The result of the first leg: Kyoto Sanga - Kashiwa 0-0."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Kyoto Sanga have lost 5 away matches in a row."
+          }
+        ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Kashiwa's absolutely cooking right now, and Kyoto just got embarrassed 6-2 by these exact same lads.** 🔥 This feels like a statement game waiting to happen.\n\nKashiwa are on a **four-game winning streak** with clinical attacking play — they've dropped serious scorelines recently. Kyoto, meanwhile, are free-falling: **1W in their last 5**, and that 6-2 spanking at home last time has gotta sting hard.\n\nKey storylines:\n\n- **Kashiwa's firepower is relentless** — Y. Koizumi, Y. Kakita, and K. Yuruki have been finding the net with ease\n- **Kyoto's leaky defense** keeps conceding goals in bunches; they'll need G. Ota to have a career day in goal\n- **Revenge factor works against Kyoto** — getting smashed 6-2 by the same opponent in a home return is brutal morale-wise\n\nExpected lineups:\n\n- **Kashiwa Reysol**: R. Kojima, D. Sugioka, T. Koga, S. Baba, W. Harada, H. Mitsumaru, N. Nakagawa, Y. Konishi, K. Yuruki, Y. Kakita, Y. Koizumi\n- **Kyoto Sanga FC**: G. Ota, K. Sato, Y. Suzuki, H. Trevisan, H. Sugai, T. Hiraoka, S. Yoon, J. Pedro, T. Matsuda, Rafael Elias, M. Okugawa\n\nPrediction:\n\n**Kashiwa Reysol 3-1 Kyoto Sanga FC**\n\nThe edge is firmly with Kashiwa's form and attacking momentum — Kyoto lack the defensive shape to contain them.",
+          "generated_at": "2026-06-05T09:45:28.689260+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-06-05",
@@ -19143,7 +19777,20 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 27,
+              "sentence": "The result of the first leg: Hiroshima - Frontale 2-1."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Frontale have won 3 home matches in a row."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Hiroshima have a winning streak of 4 matches."
+            }
+          ],
           "sr_stats": null,
           "ai_preview": null,
           "live_websocket": true
@@ -19319,7 +19966,20 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 27,
+            "sentence": "The result of the first leg: Hiroshima - Frontale 2-1."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Frontale have won 3 home matches in a row."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Hiroshima have a winning streak of 4 matches."
+          }
+        ],
         "sr_stats": null,
         "ai_preview": null,
         "live_websocket": true,
@@ -75285,9 +75945,9 @@
           "is_local_derby": null,
           "is_neutral_ground": null,
           "travel_distance_km": null,
-          "weather_code": null,
-          "wind_speed": null,
-          "temperature_c": null,
+          "weather_code": 80,
+          "wind_speed": 12.2,
+          "temperature_c": 22,
           "pitch_condition": null,
           "attendance": null,
           "referee": null,
@@ -75433,9 +76093,9 @@
         "is_local_derby": null,
         "is_neutral_ground": null,
         "travel_distance_km": null,
-        "weather_code": null,
-        "wind_speed": null,
-        "temperature_c": null,
+        "weather_code": 80,
+        "wind_speed": 12.2,
+        "temperature_c": 22,
         "pitch_condition": null,
         "attendance": null,
         "referee": null,
@@ -78241,9 +78901,9 @@
           "is_local_derby": null,
           "is_neutral_ground": null,
           "travel_distance_km": null,
-          "weather_code": null,
-          "wind_speed": null,
-          "temperature_c": null,
+          "weather_code": 0,
+          "wind_speed": 6.5,
+          "temperature_c": 25,
           "pitch_condition": null,
           "attendance": null,
           "referee": null,
@@ -78389,9 +79049,9 @@
         "is_local_derby": null,
         "is_neutral_ground": null,
         "travel_distance_km": null,
-        "weather_code": null,
-        "wind_speed": null,
-        "temperature_c": null,
+        "weather_code": 0,
+        "wind_speed": 6.5,
+        "temperature_c": 25,
         "pitch_condition": null,
         "attendance": null,
         "referee": null,
