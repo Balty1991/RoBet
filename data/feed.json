@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-07T05:09:09.497Z",
+  "generated_at": "2026-06-07T08:37:00.731Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -411,7 +411,248 @@
         },
         "head_to_head": null,
         "lineups": null,
-        "social": []
+        "social": [
+          {
+            "id": 285317,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPaFRhNkEzQVBHNHFLcTh2Ujl6cm9KcExhMnJVd0I5RWwwY3dqZy0yZTNkT1ZOUElJRVNVVGZ3SnVqLVpVeW1IcXhXNEJpdGo4X3ZoX08tVjhycDhyT0hzU0FZd3JMMFFoS0VETGNmWGpwQ2J1b25LY2dDQ1U1WU8xS0wzN010QnpIbER5VzJLZjk?oc=5",
+            "title": "PA speaker, Chinese CG discuss Pakistan-China ties",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "the nation (pakistan )",
+            "account_name": "The Nation (Pakistan )",
+            "account_verified": false,
+            "published_at": "2026-06-07T07:23:00+00:00"
+          },
+          {
+            "id": 285284,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQeS01X0M1V1YzN0FVS0NfNkMtNWRBdDZodUdGMnJEckhadm9OMkJfRnQwMlVHNzRPbllBZTNIRkhpeG1zbl9XbkhzS0RReUZITW9KRWl2SGQ2OEdWU29UWWtDUUpXMzZFMTMzZEVuakpyNHIwVXd0YmZKLVF1QVJaUUZpal8zNlZnSHl4U20xS091elRIeDV4RlgyUXRmUElIU3RGMzdheUQ?oc=5",
+            "title": "Afghanistan strikes with 3 quick wickets, but India stays on top at 475-6 on Day 2",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "houston chronicle",
+            "account_name": "Houston Chronicle",
+            "account_verified": false,
+            "published_at": "2026-06-07T07:22:52+00:00"
+          },
+          {
+            "id": 285295,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOTjFSeUVMdUJLUGRtZVZIV0xtY25IWmZ6a28tc01TdzZITndWanJKMXZseHI0T0ZTdTFNTnY2Mkhha1EzRGd3SzNrS0NQQXZ3SXRoakw4VWZzTzlVekQ3WDhqa01UQkNyUHliTk84c3JwMXd1OVBNQWQ0Rmg2MHRyYzFoemQ2V29GdzJBTFhUSC1pXzM4MUphRDlDY09zWHcyc1FWcUxwdUdqdFV2ZjkxeTdlSnY?oc=5",
+            "title": "India in control at 475-6 despite Afghanistan striking back with three wickets on Day 2",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "ssbcrack",
+            "account_name": "SSBCrack",
+            "account_verified": false,
+            "published_at": "2026-06-07T07:22:33+00:00"
+          },
+          {
+            "id": 278797,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOd0prbDJ1U1pDRmVtbmkzbGdtRnVNMEFMMUtMb0NrY0ZYMlB1UHZIS3k4Ym9ldURsLVpqSVh1UFc3c2RtQkVVUGNnajJNa2JKR2sxX25zNkNyRXJWY2JBeENjOHZhbTBwS3lvSkFvc2wxTmxMX296LVhPeXFQUkVfVS1GQXBVQl9hWUkyUzVxNFFJR0k?oc=5",
+            "title": "Afghanistan tour of India 2026 Points Table",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "cricbuzz",
+            "account_name": "Cricbuzz",
+            "account_verified": false,
+            "published_at": "2026-06-07T07:21:57+00:00"
+          },
+          {
+            "id": 285322,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQWGNXckhwd19XSGZyaXcyXzF2blgxbzNQam5nS2pMZjhINVBBaXBjNi0yV0ROUmkwWFZjYUVHNnJHemQ3cGl0RG1KQ0UzLVpyLWVObjJRNUJmLURCaHFkVEdUeWVGRF9XMnRCNHpWQ2c1VTVzT3BQeHF1ZUFIbTNlS2RvTU5YaWVkMmZBM09JbVQ4VEdqOG9DdUVUTHpmZFpLZFEycmdLSG55TGJEa0hOcjd5c09YaDRZa0RGTnZ4T0wzenBS?oc=5",
+            "title": "Police arrest supporters of banned group ahead of rally in Pakistan-administered Kashmir",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "arab times kuwait news",
+            "account_name": "Arab Times Kuwait News",
+            "account_verified": false,
+            "published_at": "2026-06-07T07:20:49+00:00"
+          },
+          {
+            "id": 285287,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE1yUzBQdTFKZHZpbkVqc00yQ2Q3S1M3OVlqV0FRLXktc0V3RERYYUdJV19WcjMwVVlEZVBrSjExZjdVRHBoR2h4U3ZrSi1EMVlmSHhjaHprV0dfZ0tX?oc=5",
+            "title": "Afghan data breach: Man's anger as brother left in Afghanistan",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "bbc",
+            "account_name": "BBC",
+            "account_verified": false,
+            "published_at": "2026-06-07T07:18:55+00:00"
+          },
+          {
+            "id": 285329,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNUmlRVjRfNmswNU5aV0xPNTU4YXpoREZBTzJjekMtNlVCeWZnYWxHeXd6QXdvQ1pxWVNlVjVoWUhUX1JxcnhRc19qWjFtMGR2T2trU1NJTF9BTy1ob1Y2a1A1dzZKUFRoaEhpbkxyNHh1Y2s2UFFLMVFUYkd4dHlIUFkzb2dvcmRYWV80UWd1Z2xjdk1OWFVSdUR4T3k2T1BiS2RtZzZRQQ?oc=5",
+            "title": "Solar Panel Prices in Pakistan Increase Sharply Before Budget 2026",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "hamariweb.com",
+            "account_name": "Hamariweb.com",
+            "account_verified": false,
+            "published_at": "2026-06-07T07:18:45+00:00"
+          },
+          {
+            "id": 285330,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxORkt3SFh3OGJQNUJnanNuV0lCNVRiT0NnbVJGMGg0WDYzZ0wtV3hTTlBVc05rVnhheWRIM0FZM1Y0NUhvZWI2aUJObVlLbHVRSlVaaVlwV2EzYXNsaXVTclljLVZuUmVQcmNfcDBtVFdad1NWQUt0ZnFkYjVrWXdGTjNyQ3JTRVFiY21lcEdPeHhzd0I0YWF2eHp5dzB1d0k?oc=5",
+            "title": "Karachi Heart Disease Increase Raises Alarm Across Pakistan",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "hamariweb.com",
+            "account_name": "Hamariweb.com",
+            "account_verified": false,
+            "published_at": "2026-06-07T07:18:45+00:00"
+          },
+          {
+            "id": 285324,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPN2Q5QTlpc2dIb3lHbkdXUUszclR2UHhHVUhzTXZOeGd3OTBLUmNiT0k3SXRfdTdFRFc3QWVkV1pwWW54dkQzTFdpZ3ZpRzJQdi1lN096SmduWTFyYUdaQXV3dnMzNmVqM01KSl82VDRhNHRIUnU0WTVCSy1YelQyRGJvZlJKRXB0ZWw3WmxFbS11eW1NNjJXSU1oS1g?oc=5",
+            "title": "Mohsin Naqvi delivers key Pakistan message to Iran leadership",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "daily times",
+            "account_name": "Daily Times",
+            "account_verified": false,
+            "published_at": "2026-06-07T07:17:15+00:00"
+          },
+          {
+            "id": 285311,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPTzBxSkluU1lrVERaWWYyaHBGMWRDVk5OcmNERGZIclNVNzZXc1cwSm5EbEhrbVZXaGVMUHEwcE1mV1N0YlZiX254Uk5nTEFkaXZLMVAyeTlYOUJlbTlvWkFnckhldmQ5WVBLenhjTmttbHE2Vkk2RldDMWl1aG1DV0w2ZVJWVlFYTkxIcjBLbE01dmRKeVo5by11ckhEUQ?oc=5",
+            "title": "Lebanon Army Chief In Pakistan For Talks With Field Marshal Asim Munir",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "bloom pakistan",
+            "account_name": "Bloom Pakistan",
+            "account_verified": false,
+            "published_at": "2026-06-07T07:11:28+00:00"
+          },
+          {
+            "id": 285288,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVkgwRWpyNDdPXzAxNXFrX2M1RmtJSFhiRWxZejhmdFNNWU9LamJ6YVBjRVlRaHpKX2h5YmtQOVFhd3hrMWlXblhhc280MlEyYUt1dXN0Tnp1NUl3bEtESnNPRkpYbG5WV3dNQ2RpX1gwdUFDOW1XeUlqYWRNbWRQVXRVeUNMaGlvSmxuMnByVG1zN0J6bF82Q3lR?oc=5",
+            "title": "CASA-1000 project underway in 3 phases across Afghanistan: DABS",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "pajhwok afghan news",
+            "account_name": "Pajhwok Afghan News",
+            "account_verified": false,
+            "published_at": "2026-06-07T07:08:42+00:00"
+          },
+          {
+            "id": 285159,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNSEs0VTRkaElEcjJ3UHVIWEh4NEFhNWhmUHQ5b056Q0otNkx6RER2V1dtSzlTR3FqRmNuWVlwVGdlWC1scWJ5SER6UmtmZVNha1FBNk9pUVFVbTc2bEQ3TXhBU0pJWUdQdW9odUZXUFBKZmJiQWU3UVR1TTg0VHpIRzYtbksyN1o1RDgwcHBVZ1FndDRpSnpwR2w5T2dRRlNoaEdB?oc=5",
+            "title": "India scores 476 for six at lunch on Day 2 vs Afghanistan",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "the news mill",
+            "account_name": "The News Mill",
+            "account_verified": false,
+            "published_at": "2026-06-07T07:08:21+00:00"
+          },
+          {
+            "id": 285328,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWmxyTlA2S1gyUG5mTHoxQlFGUjhSdkZDYTdHajRRLUM1bTNrRHBDbld3NVBqbngwQ3JVeEhWVk9FQXJkTW1ld1RSTnIwWkpwekgtdkVmVVZmLXp4VVQ4NFc5M0xtRkROQ2d6c3E2YXp4bkw4QWNKU0E3UEI2OUlYcXhCei1UZ2lPdHoydmxSZHBqMnJSWDZtcXNoR0ZKb1EyWjJsT2tsaWxYajhrTTdHNlVB?oc=5",
+            "title": "Pakistan Heatwave Alert: Temperatures May Reach 51°C Until June 12, PMD Warns",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "hamariweb.com",
+            "account_name": "Hamariweb.com",
+            "account_verified": false,
+            "published_at": "2026-06-07T07:07:30+00:00"
+          },
+          {
+            "id": 285312,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNd19IU09LQllyOFVMai1ZMlB0Z3dZYkNSd1YzQjdnZmxDWWthcFp6WHpMR2xWM203YXZWTDVVWnM2VndJYjdnanBxNU1nbFRJcEtrZGJUWkhpWG5RR0loMGttUWxiT09zZXFTWXRsay04aE42eWMtSUQ1LUFFWXRacjZUQ3ZuVDVzaUZCTzJxN1E5YVl1cGtrajVuSEx3RTM2NGxDUFYydTd0ZU0?oc=5",
+            "title": "Pakistan’s Interior Minister Carries Special Letter to Iran Amid Rising Gulf Tensions",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "hasht-e subh daily",
+            "account_name": "Hasht-e Subh Daily",
+            "account_verified": false,
+            "published_at": "2026-06-07T07:06:03+00:00"
+          },
+          {
+            "id": 285201,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQN05RaHQ1UVNuTnMwaXlXMWJRT2liQ1ctVGdyOUlDbEw2M09BVW1EcXRsYjJnMFNJa29hdzNCMXE3SU1GYlB5RGNZRXliaUtPanR0eTk3dGtQdlM5dUpLeUxoa2Q4bmdOLVQ0YWNURFJZU1Y5c0piUDJqVlNxX3JTVmQ3Zm1keV9GdUQ2Uzd5MGxRbElyWlF4SVdHRUlXNlR2dUNVY1o0Wm1zcUNxRzJYSFpn?oc=5",
+            "title": "Scoreboard of India vs Afghanistan one-off test: Lunch, day 2",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "msn",
+            "account_name": "MSN",
+            "account_verified": false,
+            "published_at": "2026-06-07T07:03:52+00:00"
+          },
+          {
+            "id": 285293,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQYWRtM2stUFgyeVd3VTlaRkFDNS1acHB5SHprZ3JKeWRRMU1aV0R2N0VmVS1pS195TDFpYW5fNWNNYkhhS0twWjAwaUtJNmpJa1E1X3NZODJ2dHV1d2s0YV9EZ25IckJpb2VhVnlIa3dpSEVsZ29Gem5qSldzeEtuLTBneTl3RWQteU5mc2I1LW05ckFnNm1xdDkwQk43RFJZYVZIMV9DVmlmNXM0bnhvVnBxNjFtTGhOWEdXNVRFLXRLeUNucklzd0Zra9IB0AFBVV95cUxQVGNaN29OZmVuSDllaE1XTHlIQm9ORE5GMURKWkt2Y2NleFhqa1VBWEhzQWdocnBVd2NHZzdsczNlWWNGMmlsVWdXSVk1NzVDM1Q5TG8xOGFLOW1ib3F5SkJxY2xIZTBvM1ZPMXpNbFJadTZwTzBKMGw2bUVzNDN6WlBsaTRleW4",
+            "title": "Two Minutes Of Shocking DRS Blunders Cost Afghanistan Three Wickets In IND vs AFG Test",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "abp news",
+            "account_name": "ABP News",
+            "account_verified": false,
+            "published_at": "2026-06-07T07:03:13+00:00"
+          },
+          {
+            "id": 285127,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPN1h2am9JcDRpSjExdnhCMFVhM2NkUzVmSU92UURES0EwQVo2UUZadUZ0QnVXZXZTRkZHS1Nyb2xXbldjSEt3UUdvLV9ENzhIMlFrR1lySnl1TjltZHBWLXVQNTBYZGlybEtTTGVydVQwWXo4Vnh5LURXX3pIN3FEcnU2YTZIbDNTc28wUVRFZERpUDRDdFFPSm1kc09yaUtrYlFuNFJmMEkyQVRmazllZS1zNUJuRlAybGNZbU0zbE4?oc=5",
+            "title": "India Afghanistan Cricket",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "idaho state journal",
+            "account_name": "Idaho State Journal",
+            "account_verified": false,
+            "published_at": "2026-06-07T07:01:15+00:00"
+          },
+          {
+            "id": 285323,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPV0lDNHNxQXF2MHlNY1ZVZUF3TEI3Q19uZ2NmemgwQmx5MzdhX3RyRXJKbXQzRXVKQUUzM3R5elNtM2xtUG5rZXg3Sy1tdkdYWlh2UU1NX2VjM0Vua1V5Y0ZyNFpNZzd3aHZpQ0wzNzRDV1hzQTFKWnFhMVFQbWpDeUVQcmJONXhIdS1xckZMS2RVMU82cC1DWkViVXA?oc=5",
+            "title": "Pakistan Envoy Arrives In Tehran For Fresh US-Iran Talks",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "news mobile",
+            "account_name": "News Mobile",
+            "account_verified": false,
+            "published_at": "2026-06-07T07:00:13+00:00"
+          },
+          {
+            "id": 285060,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNd0daT1J0VFotZS1IYmp3VGtlUmFtOW9Ob1hyelo3d3RHVkYxZDJWSWNoSlJWWHRLQUhrZ2NMVzVRMUZLREozZlVZcXpZazVJZUl4TFlNd043eWQ2NjB5dGQ4bDRwLXlCMlg1Y1I0MmFzSWptQk5RQnhVTXhSekk5OU1VTW4wbTJ3aE9xXzUwY19xdHVTa0dFbTZ0d1pHbmJuakY3dUNpMFQ1Zw?oc=5",
+            "title": "UN warns Afghanistan has one of world's highest maternal mortality rates",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "anewz",
+            "account_name": "AnewZ",
+            "account_verified": false,
+            "published_at": "2026-06-07T07:00:11+00:00"
+          },
+          {
+            "id": 285291,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPcmZnOVM0cFRmdmFWaXFNMGlvcEhoSHZJQlNybDEtVWowdFlFYTd2VDhWbHI1YXIyS1V5Z0hLOTgxRmxxOElQLS0yWVRPcWxHMmRfaHFVTDNHQkRqX3BkckR6M0hnWDNndF9XdHNVZjVURnRjRzJ6czBqU096QVBEZERtMG5ONlR0MTF3bjh1X01HVlpPYmV5Z0RlVzZLZkZ5bFVZYm9PYXBWMFI1LXVsM2dreU91cWlJSkhKY2E4R1U?oc=5",
+            "title": "Pant misses century in Afghanistan Test, India 476 for six at Lunch",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "ani news",
+            "account_name": "ANI News",
+            "account_verified": false,
+            "published_at": "2026-06-07T06:57:00+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
@@ -801,7 +1042,20 @@
         "away_form": null,
         "head_to_head": null,
         "lineups": null,
-        "social": []
+        "social": [
+          {
+            "id": 285248,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNDl6SEJBMnB4NDZteTJxM3hVZm9kOGRIUnV2clVoMGFJeU9lUFRYQTA2aWNwcU0zejZYRHMwUzZqemdzeGZ6VmRiaHZ4OVloa3hJaVhzeXhTRllTVUZCdGFTZTFncU1VVVp1SERqY0NmWkNxQWFQLUVrMlE5UlJ6ZWxxYXRkU2l1VkhrLU1UdG8wT2E5MTdLZ2hFSHVxbGsyWGNkbTgySlVWNzg?oc=5",
+            "title": "Oman go down to favourites Nepal in Asian Games Qualifier semi-final",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "times of oman",
+            "account_name": "Times of Oman",
+            "account_verified": false,
+            "published_at": "2026-06-07T07:10:00+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
