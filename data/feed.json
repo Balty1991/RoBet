@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-08T20:29:33.613Z",
+  "generated_at": "2026-06-08T22:13:06.688Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -14694,7 +14694,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Two Moroccan heavyweights lock horns in a cagey Botola showdown** — MAS de Fès and AS FAR Rabat are both hovering around mid-table form, and this feels like a match where neither team fully trusts the other. 🏆\n\nMAS have won two of their last five but just took a home loss to Ittihad Tanger; FAR are steadier (2W-2D-1L) but have drawn their last two. The last time these sides met it ended in stalemate, which tells you something about the defensive mindset at play.\n\nKey storylines:\n\n- **MAS de Fès** need a spark at home after that Tanger defeat, with **N. Oussama** and **A. Tahiri** tasked with creating width and chance-making upfront\n- **AS FAR Rabat** arrive without **M. R. Hrimat** and **Y. E. Fahli** but have the deeper bench stability; **K. Ourkane** will anchor the midfield\n- Both defenses look compact — expect a tightly contested midfield battle with few clear-cut openings\n\nExpected lineups:\n\n- **MAS de Fès**: S. Chihab, M. Ouhrou, D. El-Jabli, A. Rhaili, S. Ghedamsi, S. Allouch, A. Harmach, S. Benjdida, N. Oussama, K. Seakanyeng, A. Tahiri\n- **AS FAR Rabat**: A. R. Tagnaouti, A. Bach, M. Louadni, N. M. E. Abd, T. Carneiro, K. Ourkane, A. Hadraf, J. E. Khfiyef, R. Slim, H. Khabba, M. Bourika\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**1-1 draw** — coin flip energy, defensive drills on both ends.",
+            "generated_at": "2026-06-08T20:45:27.437084+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-06-05T05:20:23.958954+03:00",
@@ -14894,7 +14897,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Two Moroccan heavyweights lock horns in a cagey Botola showdown** — MAS de Fès and AS FAR Rabat are both hovering around mid-table form, and this feels like a match where neither team fully trusts the other. 🏆\n\nMAS have won two of their last five but just took a home loss to Ittihad Tanger; FAR are steadier (2W-2D-1L) but have drawn their last two. The last time these sides met it ended in stalemate, which tells you something about the defensive mindset at play.\n\nKey storylines:\n\n- **MAS de Fès** need a spark at home after that Tanger defeat, with **N. Oussama** and **A. Tahiri** tasked with creating width and chance-making upfront\n- **AS FAR Rabat** arrive without **M. R. Hrimat** and **Y. E. Fahli** but have the deeper bench stability; **K. Ourkane** will anchor the midfield\n- Both defenses look compact — expect a tightly contested midfield battle with few clear-cut openings\n\nExpected lineups:\n\n- **MAS de Fès**: S. Chihab, M. Ouhrou, D. El-Jabli, A. Rhaili, S. Ghedamsi, S. Allouch, A. Harmach, S. Benjdida, N. Oussama, K. Seakanyeng, A. Tahiri\n- **AS FAR Rabat**: A. R. Tagnaouti, A. Bach, M. Louadni, N. M. E. Abd, T. Carneiro, K. Ourkane, A. Hadraf, J. E. Khfiyef, R. Slim, H. Khabba, M. Bourika\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**1-1 draw** — coin flip energy, defensive drills on both ends.",
+          "generated_at": "2026-06-08T20:45:27.437084+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-06-08",
@@ -15358,7 +15364,16 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 1,
+              "sentence": "Fortaleza have lost 3 matches in a row."
+            },
+            {
+              "type_id": 22,
+              "sentence": "Nautico's last home win against Fortaleza was in 2012."
+            }
+          ],
           "sr_stats": null,
           "ai_preview": null,
           "live_websocket": true
@@ -15584,7 +15599,16 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 1,
+            "sentence": "Fortaleza have lost 3 matches in a row."
+          },
+          {
+            "type_id": 22,
+            "sentence": "Nautico's last home win against Fortaleza was in 2012."
+          }
+        ],
         "sr_stats": null,
         "ai_preview": null,
         "live_websocket": true,
@@ -16024,7 +16048,20 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 1,
+              "sentence": "Ponte Preta haven't won in their last 5 games."
+            },
+            {
+              "type_id": 25,
+              "sentence": "William Pottker is Ponte Preta's top scorer with 2 goals. Hernandes has scored 2 times for Cuiaba."
+            },
+            {
+              "type_id": 26,
+              "sentence": "A year ago, Cuiaba were number 3 in the table with 21 points. Now they are number 15 with 13 points."
+            }
+          ],
           "sr_stats": null,
           "ai_preview": null,
           "live_websocket": true
@@ -16242,7 +16279,20 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 1,
+            "sentence": "Ponte Preta haven't won in their last 5 games."
+          },
+          {
+            "type_id": 25,
+            "sentence": "William Pottker is Ponte Preta's top scorer with 2 goals. Hernandes has scored 2 times for Cuiaba."
+          },
+          {
+            "type_id": 26,
+            "sentence": "A year ago, Cuiaba were number 3 in the table with 21 points. Now they are number 15 with 13 points."
+          }
+        ],
         "sr_stats": null,
         "ai_preview": null,
         "live_websocket": true,
