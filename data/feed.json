@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-10T08:59:30.932Z",
+  "generated_at": "2026-06-10T12:34:22.347Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -371,7 +371,20 @@
         },
         "head_to_head": null,
         "lineups": null,
-        "social": []
+        "social": [
+          {
+            "id": 311175,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE9Wb3g2MTdsNHlCQ1pPMWZhUzc3OHR5SXdkcDF4U185Y0Rqbm04VWlVeTNJbGtyRnNzcG5OOWd1VF92UFlmejFTUldXc2EwYjRtTGpXWHNJMmdEakFydTJ4blA4OA?oc=5",
+            "title": "Attitudes towards VPs",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "inside time",
+            "account_name": "Inside Time",
+            "account_verified": false,
+            "published_at": "2026-06-10T08:40:30+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
@@ -2009,7 +2022,248 @@
           ]
         },
         "lineups": null,
-        "social": []
+        "social": [
+          {
+            "id": 312505,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPbDMxSUZRakhNLUIyZVh5S1UtSTByWVZEcjFVVUlIVGlMeWtjOHFUWVRTY1gta1loa2F2c3lzbnNEcXZUQU9FUVBSN2FBY3pqM05xb0hSTW9IcGhSd2gyMnBwanRzUENQaEw1TXhTYWdvRlVHSVNLTFJId1VwT3ZxdG1ISVNBSm9lYmF0MTBvOTVuLWdvWlhjMTlYd2RiYmlSMm1xYjJ4bjBXNzlyaDFrRmF0d0p1dw?oc=5",
+            "title": "Spain, Pakistan discuss climate cooperation, energy security, sustainable development",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "| associated press of pakistan",
+            "account_name": "| Associated Press Of Pakistan",
+            "account_verified": false,
+            "published_at": "2026-06-10T11:18:47+00:00"
+          },
+          {
+            "id": 312489,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPYmRsMUtLRmRRRmd1ZDNpSURIaXVGWElFb2p5MmhtcnJSWVU3aC1NVENIb251b3ZyZEdmUkY4Z1piM25yNzdwV3c2MEdMeW1OeF9TbFduYTVuMGVuWENNQVJ1eUN0cHpCN09aQkJ6QUd2RGczYTliMTBtZlRnTjZDeUlKZEF3ZVV6b0NUTGRVY0dFNXRialMyTNIBoAFBVV95cUxNSVRxOVpRQ0I0WkFXaWZONy1uNU9aU0xJV0xHM3luWFFQMjlyQlJyQjk5UWtVYXhDdGZMUnFKNDV2Nm56bk1sN2RqSVItb1poMXY4dWE3YnZOLS1fdzZtdDc1ZUViOXJ6aWFDWGE0SVBDcEFDd28tVExlZGJvM2hwZjgyWTQxT1ZfS3AyVWdKUXZIWllEWnhkN0FsQkt1YnY2?oc=5",
+            "title": "Army helicopter crashes in Pakistan-administered Kashmir, killing all on board",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "khaleej times",
+            "account_name": "Khaleej Times",
+            "account_verified": false,
+            "published_at": "2026-06-10T11:18:36+00:00"
+          },
+          {
+            "id": 312522,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1PSmdrSm1ZU0czWnRoZTdCc2d5WHM1S3hHTEM2aFpPOXFEU0ZlUjZuMVhodU1wU19QWGIyTDc0bjYxTFh6cnBjVkFrVlF4UVJZMlZTY3RiSVpZYjZjdVZwWTVPM1U3Y1NTM0N2c2dfUElBQjl4YXJrdkV3X0RDckXSAYQBQVVfeXFMTl9PdlpVNVNsZEd4Z0pzenl0MHBMbGFYWFJmUjNuQVlJS3NGU2s3cDYyanhvV3lCbXU5MC1Ma2JLSm1TZlIzUGt2YXRrVG1QdGFSYjBYQWFyS252bkNITENYdVpuaVhkY29yamEzNG4xZUtqV0JsaElzTlBTcDBuVG9GS3Bq?oc=5",
+            "title": "Pakistan Army Mi-17 Helicopter Crashes",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "propakistani",
+            "account_name": "ProPakistani",
+            "account_verified": false,
+            "published_at": "2026-06-10T11:18:27+00:00"
+          },
+          {
+            "id": 312538,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQQ0g4bkJJYmdwcEsybDlEWGFHMXlqZ3F6aEMtclhqY3lUVXpjWGYzV1VZcGVYUVE1MGswWHR3UzdKUmxvb29TRUtkeFZZSTRQYzNtdkhwakEycmwtRVc0emU0dmRldHZwLUZvb0dKQkRXMVdtUFpmYjhZbUluTk54M0ZDcGdVSTZfZ3preEczTnY3MVV6MHVCME5Zank?oc=5",
+            "title": "Pakistan Army MI-17 Helicopter Crashes Near Muzaffarabad",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "urdupoint",
+            "account_name": "UrduPoint",
+            "account_verified": false,
+            "published_at": "2026-06-10T11:16:18+00:00"
+          },
+          {
+            "id": 312439,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPa0xRX3J4U3F3eWJad1YzUE9VVHVMak0zUkFCQ2VTal9KcVNMNEhvSlVYNkFUR2lrNlVlcWE3QVY4Ty11R1lUcDd5YlFGTWw1N1o1ZHFjRE1fOTNIS2d0RHBtYThlUEJfSWhvSDMtcHlSRXE3OE1XLU5vRjBOQTFlVmtrbXNXUmlodE96dU0xM2JCT0k4TkxpYmE3dExQMEVaSVJPQmxjRDJsVEk2Yk9obW9DMkdhYXMtMU15Ql9Yc2PSAcABQVVfeXFMT2tMUV9yeFNxd3liWndWM1BPVVR1TGpNM1JBQkNlU2pfSnFTTDRIb0pVWDZBVEdpazZVZXFhN0FWOE8tdUdZVHA3eWJRRk1sNTdaNWRxY0RNXzkzSEtndERwbWE4ZVBCX0lob0gzLXB5UkVxNzhNVy1Ob0YwTkExZVZra21zV1JpaHRPenVNMTNiQk9",
+            "title": "Pak says carried out air strikes at terror hideouts in Afghanistan, 26 killed",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "newsdrum.in",
+            "account_name": "newsdrum.in",
+            "account_verified": false,
+            "published_at": "2026-06-10T11:15:35+00:00"
+          },
+          {
+            "id": 312482,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQWktzUU5wdWdTdURSMGxia3VQVUJUZGU4dUxSWWtxa2ZOT19NU2RnQUx2cE1BWW11TWZJUDlVVWJnSkt4eTh3T3F0SDNlMXdEOE56QWFyeGVlcTlFM2VlanlkTzh4UDVRUzhFT0J0U09ycW9KLWU3a1hoRHhzNU1pd1EtVklhQ1NkTk51cGRaMHhPSGh6YmgyWHBNcmNXcEM4bm5Z?oc=5",
+            "title": "Pakistan army helicopter crashes in Kashmir due to technical fault, killing all on board",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "newsday",
+            "account_name": "Newsday",
+            "account_verified": false,
+            "published_at": "2026-06-10T11:14:44+00:00"
+          },
+          {
+            "id": 312533,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOcm5hNkpWdWNUQTNYRWhSd0VvLUFXY0g4YlpaOGZMZHRpdng5VjhYQ3R2YUl5bjZvV05tcG1FeDZKRzlfeGJaaEFCQ1JqSkRkdXdvYUF5UlR0alhGR2VKcm1UNWZabWhybWFKd19NOXRwZ192QWZVTE03T2ZPSHJna085MUw0akpWMlVOR05R?oc=5",
+            "title": "55% of Pakistanis report financial scam experiences",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "daily times",
+            "account_name": "Daily Times",
+            "account_verified": false,
+            "published_at": "2026-06-10T11:14:18+00:00"
+          },
+          {
+            "id": 312430,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9tTUFFVDJrQmpXY01CSmtaaDU0U09nQnRvekxPemJfaFFMTjJDQUsyZ3B3eVB1R3pOSV90aXVsQWRIOGJ6WFVvU29rbkxzaDNIV19uLUdTVi1kQlVOWG8tUnJUUjg1N1UwWDB6NFZsWFAyTFUzWDN5Xw?oc=5",
+            "title": "Pakistan launches air strikes in Afghanistan, reigniting tensions across the region",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "crypto briefing",
+            "account_name": "Crypto Briefing",
+            "account_verified": false,
+            "published_at": "2026-06-10T11:13:56+00:00"
+          },
+          {
+            "id": 312485,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNbjlESHRxZ2dZZ3V3bGZhV0FNcTlvY0E1Vno5WTU5QWRBOElMSFBWMVRxTTUtc0RRS1N2NzZOSkNobUNfTUM4b1lUNUdpdG92UlJ3VUd4WU5PbGhTakdnS0YtdGxiLW9sdFlVZWlCdGVNdWJ1X2pURUNpUjVIVWVHaEpXb25lcXgxWDB4MVdmdGpyQ2wzRE5sYTJqcjdaaGNkZTQ0WHNXS0M1dzBWUG51el95WXdLY3c?oc=5",
+            "title": "Pakistani army says chopper crashes in Muzaffarabad, all personnel dead",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "anadolu ajansı",
+            "account_name": "Anadolu Ajansı",
+            "account_verified": false,
+            "published_at": "2026-06-10T11:13:07+00:00"
+          },
+          {
+            "id": 312517,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQN0ZjaDdQblBFMml0NTFGcE5Gb0ZHNlpUZjBJdG02ZFFJeDhFeGhEamt5V2cyWEF6VVV1cVpWa2poblFLdWdSaDE3WjBFSGpZdmpMbUZINFFuSU5JYXdkQTBnZnJYYWE3eF9aaHoteFUtLUxVNnBRLVpBajJiNmJKQ082WFlBNTlFVl9ndHo5VmcwYWx2cW1aVTFqUk1adkhtZHJ4S0cyeVE1SDBkRTQ0eGNsNXB3dlRTaV96NV9XRTFFRVhkU1JRT2tPbUQ5U3JzSGNITkpybVpaTExaVFFxQ2p5OXfSAeoBQVVfeXFMTmZqZHBBMklVNWM1MWZZZ2E4enozNlZEZ0tGXzZreTNxeE9HVUlUQ0c5YVBaWUFHdWs1aFBqODNJTWVGTTc2alRKYkFEXzVKX0ZKUjU5Yk1uN29xclhOa0N0dTdaMGN3UzJ3bE1qV1R",
+            "title": "Pakistan: Doctors lay siege to health secretariat in Peshawar as neglect of medical workforce sparks outrage",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "lokmattimes.com",
+            "account_name": "lokmattimes.com",
+            "account_verified": false,
+            "published_at": "2026-06-10T11:13:02+00:00"
+          },
+          {
+            "id": 311919,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOU1JvSWkzQ2oxVnRndVdqSzU4d1Y0Ty13RG9vSGw0ZXA2V0dENVpiM1JrNlJOdkRBQ2VTX2t6TV9oX1lLTW94aEtYWmVIUU44WVFrYUJWMFUzWDlhREJhdVBXWTQ5Y0ZtMnNOcXlmVXlYN09oZ2RoVllwMk83VHI0VENwMkg3RnhzenFtUk82Z1pWdzQ5X1RFR2lJWEp2S0pNbHcwX0xRcjBqMnlhZW5JTHI3dVZHMDA?oc=5",
+            "title": "At UN, Pakistan calls for complete cessation of hostilities as Ukraine war escalates",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "| associated press of pakistan",
+            "account_name": "| Associated Press Of Pakistan",
+            "account_verified": false,
+            "published_at": "2026-06-10T11:12:27+00:00"
+          },
+          {
+            "id": 312501,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPZ1VuUUhDcWpiU2tGakVicUlRWVVuRmRGbm5KaTlqNHFmYnhfc3c3b2F6R2JzU1FpNzFGZnJGdDZpX3BwaHMzNGtPUl85VHdvem1Na1FCcjFhWmZpVjctcGFOeU9PMGRWb2tEUXl3VFdWZTBUWTFPV1k1UkxaRkdTRUFld2YxeXFKTW90R1ZwSFpUdkNnbnZGOHNEWDUxX3RmT3RSWlp4TnNLSGNhMzRPZk1yRVRmYmpyUW5naWdkbVp1WmZZN3pRdWoxS0Y1bElqZWZ3LUpvbzF0QdIB3wFBVV95cUxOc2FuOHVNdktBUU5md2U3QXk3SjZTanFyLWVtZVdELUNTQXpKa2Z0dUUzcTlMdDBWYkxtLVUtWTl3cXNnTzV0dzgycmJ1clladTVWb19xakM5MUdTSGpqNXZGc3ptaG03bkc0cVFuYnBKV3JlZnNBdW8",
+            "title": "Pakistan Helicopter Crash In PoK: Was MI-17 Shot Down By JAAC Amid Unrest? | POJK | News18",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "news18",
+            "account_name": "News18",
+            "account_verified": false,
+            "published_at": "2026-06-10T11:12:00+00:00"
+          },
+          {
+            "id": 312514,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQZ1pKWF9fZXgzT2k5NC1GV01Vc1ZvY3B1NzZDdW9KWWFsbHhnUlRLcnhBS0lqT1I2aEl6cHpXNmxEZExXampYeExYMjQxQlRSYm9GY0x2WDFfaVhiQzJIbVRSNDd5N2x0UVg2YlpXZ0RtbVZYejlZTzM2N0lvTl81WFU4SGk4MUdacnU3OEJXNDV2OTJCZlhzM0V0Zw?oc=5",
+            "title": "Pakistani Airstrikes in Afghanistan Kill at Least 13 People, Official Says",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "newsmax",
+            "account_name": "Newsmax",
+            "account_verified": false,
+            "published_at": "2026-06-10T11:11:56+00:00"
+          },
+          {
+            "id": 312519,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQLTJRSjBjUXZhWmMxeHBndXBBSDJtM0J5Smo2XzFjQnRRZWpWUk5JRFo5OTBPbElLRUVmVXAwMFFZbkNoUnN4TGF1NGZ6c0ZGQ1JodnhQVTNjY1oxMHpIcmgzY0ZnWkJCYXpLdmViV0FIWDItejJSd1lwZ1BDc1ZESzVfN0pqQ0pRblM5THQ2NWI5eEdDSnJjVU1qcE1ZVERCTDlV?oc=5",
+            "title": "Mi-17 helicopter of Pakistan Army crashes, all 21 onboard killed",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "newsbytes",
+            "account_name": "NewsBytes",
+            "account_verified": false,
+            "published_at": "2026-06-10T11:11:51+00:00"
+          },
+          {
+            "id": 312518,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOc2d1ZXQ1NWo4d3hyQjQxTXNqVVF2c09oN0F4aE5lX0trMW9KWU9weGJYYmtrWkc4V0wxVmlPZzhtZTgxUFdtU2tuOGJuZHZyMVZSa1R0ZUR0bTc3OXd3ODBYQWtnN1RzRFNrMUlYLWN0MUpRbnpQTllERUp1ZWhSMjRycGJBTDc1NUU3TUFJZC1hdjNZUFhrY0NqRGhGUDg3bzBaVHVJTkFxejFhMlk4RWxMN0Q?oc=5",
+            "title": "Pakistan Army Mi-17 helicopter crashes near Muzaffarabad, all on board killed",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "aaj english tv",
+            "account_name": "Aaj English TV",
+            "account_verified": false,
+            "published_at": "2026-06-10T11:11:41+00:00"
+          },
+          {
+            "id": 312428,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQdUxtYUxsNXpRcFFPSS1lVHJhbV9qckRUZDlvS2dZMmdxSXFCMWNhZ3dIWm5ubmtncnU0US1UbjJfV09GNGpJM2RCLVBvTzhaWVRvTEUtc05LU3VFLUdmcEI4RmlMcnhNMjV6WEYxVkUtQXRnY0FGVmtxdmNPcEVuZHMtcmRUNEVFXzV0bG5QQXdrNU83T2Z2NjhRU0lXTjEyRHJGdHhIWEFwQQ?oc=5",
+            "title": "Karzai Condemns Pakistan’s Airstrikes on Afghanistan, Calls Them an “Act of Aggression”",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "hasht-e subh daily",
+            "account_name": "Hasht-e Subh Daily",
+            "account_verified": false,
+            "published_at": "2026-06-10T11:09:15+00:00"
+          },
+          {
+            "id": 312507,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQTjhlVTNtMDZQM21SUk9LaTk4RFl1bFJnY3QyLVZiaHNIUkt1Zjd4LTNQUHlZaDRuMXlwWkFON2QxVVcxYlF6eUpWUkJhOU85SlRHLTM4MzI4Ukh1TXdXVmMwMEZYVlNWMXlJMU4tY0ZZeFl1ZlBMNnVncXhKaEVLc1I5MDBnUVBDc3ZzQnZDTU93S3V5bDBLZkxIMUoyam9Ga3o4SU9TSFBwVUFWSU0xaXYzMUFOOHFBeXFEWGVQTVI2VUxZVlE?oc=5",
+            "title": "Pakistan strikes terrorist hideouts along Afghan border, kills 26 militants: Minister Breaking",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "independent news pakistan",
+            "account_name": "Independent News Pakistan",
+            "account_verified": false,
+            "published_at": "2026-06-10T11:08:17+00:00"
+          },
+          {
+            "id": 312481,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMmZXdXpqclhLc21sZFk0aExpZmMwVnA4XzhUbjlpUy1OTlRkblI1R3BjYUpleUN2UHVra3UyeE4yX05fdnlxZ200enVBbzRaZVdSc0tYOG02SktEcGxGN3c4YUdONVVwZGgxUy1SYzBBQ3RHLXhzTXpFOGpOcm1iY25SMGRXeDA3NEpvRHhKdU5NRlhXSklGM0dJTUpnY2JUWV90UFRrMnpJMVNRWnlveEdob0JQcWw3Y1VPb3BKY3RWc2FHbEJwSENn?oc=5",
+            "title": "Pakistan says all aboard military helicopter killed in crash in Pakistani Kashmir",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "reuters",
+            "account_name": "Reuters",
+            "account_verified": false,
+            "published_at": "2026-06-10T11:07:46+00:00"
+          },
+          {
+            "id": 311599,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPMWVRNF9wQ29oVnBoblRBaFdiQ3ludXNIVC1jUkJ0LTVkaldyNVhsTUwyRFBzajY3c1FDdjBxS2tNcU1jSzQxNU9MZmM4WFdTTEJPLXRrSEVfVmE3cU44QXpBaEVoQldPT1pWUVJGQVJ3UElBZ1dYMzE1UXl5Yk1HWi1JV2xXSGxiWUZSZWxKNWltM2wwc2N3X2RUc1JILTg3Q1o1VWFvZFJMMFpWMk41WEN5QkNqYU9IaUFwUmFKdUhHRHdlU3hxcW5VVQ?oc=5",
+            "title": "Top 9 nuclear-armed countries in 2026: Check ranking for India, China, Pakistan",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "the indian express",
+            "account_name": "The Indian Express",
+            "account_verified": false,
+            "published_at": "2026-06-10T11:07:16+00:00"
+          },
+          {
+            "id": 312536,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOOHFDZXpWZ252OXZ5ZF9PeVFuYnQ5T1BnNHNnbUFYNzAtQUhLUGI3c2N4X3VkcGc3ZTZYUExiWU50OTRmcG9NWkE0OUdXelB2dVZJaW5jUW5Ca0dYR01ZWVdHY3dUUWdUUGg3T1Z3enhtMVBUb2VmREpwa2ZyM2d1b2FrUC16cUxkdDB3bUE1X01UcVJPV19uM0VGS1R6T25EN05UNUE1aEQ?oc=5",
+            "title": "Infinix Hot 70 Pro 5G Pakistan Launch Expected Soon, Price and Specs Leaked",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "phoneworld",
+            "account_name": "PhoneWorld",
+            "account_verified": false,
+            "published_at": "2026-06-10T11:06:36+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
