@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T13:02:16.145Z",
+  "generated_at": "2026-06-11T17:06:51.383Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -455,7 +455,248 @@
         "away_form": null,
         "head_to_head": null,
         "lineups": null,
-        "social": []
+        "social": [
+          {
+            "id": 321110,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdEhYZEEwQTVOQjN0aHhUMnVTX1hhU1lSSTJhR21XTmNac1I4N1p0NEFvR1k3WnM2WHNkWlE4a1N1bVRLQjBwWkFDYnZMdVlLUFdCazMwR0lMaThJMnN2c1dleEpOSlo5LWlSaXAxT3FQRnIxOFZ1TWRYUEctTXVfa0Njd3BUaFlCay0wb0M5LUU?oc=5",
+            "title": "Amigo LNG expects injunction dismissal in Mexico",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "bnamericas",
+            "account_name": "BNamericas",
+            "account_verified": false,
+            "published_at": "2026-06-11T14:14:40+00:00"
+          },
+          {
+            "id": 321111,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxONFMtY0VjYTBmY0RQRXJOaUVLWFNUQmZQQVFUVW5vLTBhM2RzRnlQWlRRUnRPbEw0bWFzUzNuSklKY2xuVHJVV2F3bnlOVHVhc2Z5WWtmYUtLaUVDclp2NndoQ214MUw1QWUwN1JwSW42RElPRGpNVFU5SzlqcFJqU00tZV9Tc1daSkE?oc=5",
+            "title": "World Cup live: Mexican fans begin to arrive at Mexico City Stadium",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "mexico news daily",
+            "account_name": "Mexico News Daily",
+            "account_verified": false,
+            "published_at": "2026-06-11T14:13:43+00:00"
+          },
+          {
+            "id": 321133,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1yaEdwc1NtdTNZaWNDbks1R043TWJWcW9kMUVfRllFLUVQUnZmUnBhMWRKMlJOZERzdkY0X2hrWlR1R3Z1VUk5bHVFRnRUQkk2dm9kMlcyWkR1Y2Q2TnZtYkdqeU8?oc=5",
+            "title": "The 2026 World Cup kicks off in Mexico City",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "toffeeweb",
+            "account_name": "ToffeeWeb",
+            "account_verified": false,
+            "published_at": "2026-06-11T14:13:40+00:00"
+          },
+          {
+            "id": 321157,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPdVBjWGozMEhva3NFeUI4T3JlQlI3RE83QklveUFkbkkwSzlBZmgxY0JlbkVIazJ6UzJGbjRHWkRjZ0l5ZjgxbWd3c2pqNFRxaW9xbzZrWWN1RVg3eGZITjlQeG5nYzF3VGpqSmluMThZNml4NXZJMjVkc0ZYZER6X2hVN1NvT0lOdTlWTE0tU05rRDkxZFBvZ1JkbEQ?oc=5",
+            "title": "FIFA World Cup 2026 Begins Today As Mexico Face South Africa In Opener",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "the csr journal",
+            "account_name": "The CSR Journal",
+            "account_verified": false,
+            "published_at": "2026-06-11T14:13:08+00:00"
+          },
+          {
+            "id": 320982,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBwYmNPekR4RVNsQWxHelRLQ2tRLXI2MXNSajF1NWxGb1VNTDdfQXFTdlhUckNIWXBVSUIwMGVacEd3WVAwTHl1R3JhSXJBQ1NOTVBVQ19RNm0tQjdnY0o0VGxPWVBpVGxuTnBwd3NR?oc=5",
+            "title": "Morocco Joins India, Brazil, Mexico, Argentina, Nigeria, Colombia and Saudi Arabia as US Activates FIFA PASS Priority Visa Appointment System for World Cup Ticket Holders—Will Fans Finally Beat Big Long Visa Backlogs Before FIFA World Cup 2026?",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "travel and tour world",
+            "account_name": "Travel And Tour World",
+            "account_verified": false,
+            "published_at": "2026-06-11T14:12:18+00:00"
+          },
+          {
+            "id": 321152,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE95bEV1bTdkWTZONzRSazUyYzRubUc4VWNDQy1DYkFWM3ZmTjQwSjlfTkc5Q2pyQ09IVWZFcXpKT2FVaTdGNmdTd09CRVl0c1NPb1Z2cnVsMUIxYU82NUxNdEtXekN0M1FvQWsyRUx1RTRwU2M?oc=5",
+            "title": "Mexico vs South Africa Prediction: Where to Watch, Kick-off Time and Lineups Today 11/06",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "odds scanner",
+            "account_name": "Odds Scanner",
+            "account_verified": false,
+            "published_at": "2026-06-11T14:11:39+00:00"
+          },
+          {
+            "id": 321185,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxONXhfb2JqZ0JpbmlvQzk4N1BtVTlSSW9vaWtCc19nSk92YTJNdHFRZHpQZ3RsdFBwWlJHcXl1amRiNGFhbTdydlNhcEdwdGx2bTVNYU1wOE5MdjVSclJaRFRiOVFkOGlpbjdCUWtwdlRDcHFkSUFqZGhja3ExNm1QT2NFZi1pbE93TWQzdUZzbw?oc=5",
+            "title": "New Shifts Push South African SMEs From Firefighting To Cautious Growth",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "weetracker",
+            "account_name": "WeeTracker",
+            "account_verified": false,
+            "published_at": "2026-06-11T14:03:48+00:00"
+          },
+          {
+            "id": 320940,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5ReGJ4bjJsU1Q4ZGJ1Wlc2MTB5TVpqMHR4R3l4eXNXdEswaG1Ma1ZuY3RPZjA1M29DN3NKbzdQaWZOMWtGMktFellTMkZ1cUNlZGJvNnRoVjRyVW5pVmdqeGNNd3RhYXBDWmpDZWwyNjBFc0RoS2JR?oc=5",
+            "title": "World Cup 2026 kicks off with Mexico vs South Africa and South Korea vs Czechia",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "aol.com",
+            "account_name": "AOL.com",
+            "account_verified": false,
+            "published_at": "2026-06-11T14:03:45+00:00"
+          },
+          {
+            "id": 321115,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNVW1ESHVza2xoSzl6anBQMVB5b0tuTGg1SWRFSWFsVERPNWNIMFVDOHk5TmtVTGNRTERpdFlzZWwxemxWU0szeTZPZmhJWUZaQnQzRENoVVBnNnBhTjRjTXRRRndwRVBmSmQyYzlqeVZnQWNVRUQ0VEhaOVV0UEg1TDJB?oc=5",
+            "title": "Travel Guide For Colombians Traveling to Mexico for the World Cup",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "colombiaone.com",
+            "account_name": "ColombiaOne.com",
+            "account_verified": false,
+            "published_at": "2026-06-11T14:03:30+00:00"
+          },
+          {
+            "id": 321104,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOVmM1bUprVHpjUTNHSU50RExKSDBxVVJCQlZLSjZkT1FXRU9yRDlPWVFzR3gtaksxZXpFc1NqS1hOdmttUDJhdkxMOVpyUXhlS3JoeDZlWGwtV0IzZHY5QnpfRVdNaXZ2WF9JYldxRkR2YkMtaW5WcXRXM1psZG9jbTNaNVIycThhblR1clhYOTF0c2N6SUtkMGdFeEpnSkk1VFQwOS1VdzNMU3FwX1ljMW5TbC1ORHVS?oc=5",
+            "title": "How to watch Mexico vs South Africa live: Stream, TV channel, team news, prediction",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "nbc sports",
+            "account_name": "NBC Sports",
+            "account_verified": false,
+            "published_at": "2026-06-11T14:02:10+00:00"
+          },
+          {
+            "id": 321168,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNZkYyUnNHWkM3a1RuR0JRMmRJeWpVMjl6bTg2TXhVYkh4ZVhTSFRUeUl2dUlqYzdSUU50MjRlZUxPa3BfLWxEVDYtVG91VFZjMTZXWEw3TjAyYXJTOHlWb19FSFV4WHUzT3ExRUJQWEx6TWwwS0dmQkpBaEFXMGxXRzhsQjJCYWZNdDltaU9id0tqMGxNNVROa0pMN0JWdWlVdGFHa1QzeGlHWTU1UzgycTl4QVNpWXJWcDFpVEFzcGY4RlNjWUI5aEtMcE5aZERFb3VVSkxrRUNRbXJRelE2QkFwazF6S1J3NHZmeGw4SWFja0pIQXdRbG5n0gH_AUFVX3lxTE5sZnU5MGxkdkN1azI2Y1hDTVRMM05FcUZwUGw4TzhVTjJtemVQc2JkREhIRVZvQmZGMExSaUw1SC1OOG45QUVYQXM3MjdDTHpxQk5FY19KVDd",
+            "title": "Will Guillermo Ochoa Start For Mexico vs South Africa? 40-Year-Old Goalkeeper Eyes Historic Sixth FIFA World Cup Campaign",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "the sunday guardian",
+            "account_name": "The Sunday Guardian",
+            "account_verified": false,
+            "published_at": "2026-06-11T14:02:08+00:00"
+          },
+          {
+            "id": 321147,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9nN1F5OU5EX0dYTHdZWXpUd0UySVVkZTRhSmtXQXRzajlmWnB6bWZ2SWEwd1ZoR21aOG9TU185TWlNYTRzWUlTU2xER3h5eldfRFJMM1AtcG0zYmpNdW9wcS1LZ3EySDA3RW5maGFB?oc=5",
+            "title": "California Joins Arizona, New Mexico, Texas, Nevada, Colorado and Others as US Travelers Flock to Mexico for Affordable Cross-Border Road Trips and Short-Haul Travel to Cancún, Mexico City, Puerto Vallarta, Playa del Carmen and More Amid Airfare Hike",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "travel and tour world",
+            "account_name": "Travel And Tour World",
+            "account_verified": false,
+            "published_at": "2026-06-11T14:01:56+00:00"
+          },
+          {
+            "id": 321106,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaUU5YnJRNWpOZkEwYUFvZnJxZUtBTXZtdnY2SXN0ME96SXFXQi16MUxJUE11bElfdk51d1BpV1JicXBTOFdydnUxZ01Tc0tDWnJqQkgyVEM1MGRZMVVFeXlMaHo4RlhwMHFSVjRQX0gzMzlRSnhMQlR6YndIbXdYQlN0UkFzVFAwc1YwZGhLTWlQMmlkVFlfdjNUZk84VlpRUUhDdDk3SkFndHlRTUhOa2dXTmREbmJGQUlCaklFUmN3LUE?oc=5",
+            "title": "OPINION: Mexico has transformed since it last hosted the World Cup in 1986",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "el paso times",
+            "account_name": "El Paso Times",
+            "account_verified": false,
+            "published_at": "2026-06-11T14:01:00+00:00"
+          },
+          {
+            "id": 321192,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPbnk1V2k3WTlGTHM3N3F3UEJVS0k4Y1NabGNwTzdJNHJrNThZYmEwR2MtZ2s4TjBjV0dXMnFrbGo1V3ljakFXOGNCbGxBY3djRXNvOC1aYlhHV2o0RGxpZkUydFVWVlhxMmduUTZ0bHUteWFyUDdqel9hWFB1cVljaWFPZFh3emNaaFlmbXhrQkJTN0c3X0xac2Z1ZVdTUDZKVjhQSEZ4c2ZfM2FNOTdz?oc=5",
+            "title": "England Men U19s squad named for Youth ODI series against South Africa U19s",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "england and wales cricket board (ecb)",
+            "account_name": "England and Wales Cricket Board (ECB)",
+            "account_verified": false,
+            "published_at": "2026-06-11T14:01:00+00:00"
+          },
+          {
+            "id": 321127,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQakVzQ05Pb0dXUmZKalZDQkR2NzJNNmNlWlB2bjl1UUlnRldITUtpSl8tWmJlNVRRdTNRUDdUZnotZjhCNy1Qam5lMi1WR0pNSkhYSkp6NDg1Y0FiYjVkMHh5cGl6d2NXVC04VzhUamxWNGJoeHFWVHNtVElLSXFrWFltV21rQV85ZF9IWWRvRG15SzNmdThmenk2TXJyY1ZxX2plazEtVlpMVVk2ZTVHcjJGdnFWN0pK?oc=5",
+            "title": "FIFA+ Streaming App Moves to DAZN as World Cup Soccer Begins Play Across U.S., Mexico and Canada",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "media play news",
+            "account_name": "Media Play News",
+            "account_verified": false,
+            "published_at": "2026-06-11T14:00:38+00:00"
+          },
+          {
+            "id": 321129,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPZk8xLVlKUEZ5ZTRITFFoeUQ3VkZUMTVEanAzWHItdjR3SzhfWG1Ca1RtMFdvdjR1SEVTZ1EzQ2VqV25GdXFoZnhzWTljVnVRSG9NNlFGVDdlMkpMZHlEbGVvdC05dzl4WGdRTXhMejdzd1VUUHZDalB3VzJTVVR1RFA1Q3gwa0hJTUZhZnJqYkt3X3RMRG1VU25rVUlWNjI2Y2d5bnNTR1JTc1FIVE8xMEJUX2lVM2ZSSklhM2MtamktQQ?oc=5",
+            "title": "Mexico vs. South Africa free live stream: How to watch World Cup game online without cable",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "sportingnews.com",
+            "account_name": "sportingnews.com",
+            "account_verified": false,
+            "published_at": "2026-06-11T14:00:01+00:00"
+          },
+          {
+            "id": 321118,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNSWlqbC1KZ3o3NjE4TjVxUm9ZVHBsQjc4Q2kzb3BLNndYWTZCcWQxVzNDNlUyRlUtUWphdkhYWHU4NVJ4eEhwLU9LTUYwSnVMZWpmQXdvWDQ2cWQyN0FVeDdkT2NpY1hneXRWOVZsNWJJWGpOamprT3M1cl9zRWJpZDBmZWJFVm44cWhfTnVlejFEY2tGUlVseEJpcl9fS2dtVmxScHVta3pIZ9IBvgFBVV95cUxNOVBNS2hjenFBdThxWl94OFp2R1FyNmxrTlZfTjE2RDc1S1NUalpLWmpRelh4OHp1WnlUaHcyOEJwWG1FczRoWWpDSG1ZM1NZY2hiUUhUZkVZRl9sSHoza0M1R0ZldnUzNDUzWm93Ry1IT1dBRnZWVXJYU3IyM2lUSWhCb1pKbUQ1enAzMWlaQjh5RW5JRExicmRQNGg1RzdqdlphYU5jSWt",
+            "title": "Where to watch Mexico vs. South Africa World Cup match free stream today",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "al.com",
+            "account_name": "AL.com",
+            "account_verified": false,
+            "published_at": "2026-06-11T14:00:00+00:00"
+          },
+          {
+            "id": 321140,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQeUszRVhjTGt3anNLR21oQXlLVUw3UmpCM1VldEQ3Uzh0RjQ0MzlZS1IxZFhSbU1ycW85dzVkc0xMWENQUkNVeGs1akJSR0NoMENsQThHZVFfbExRdHZfTy00U2FKZG1FeFRjeEQtdG05b1I1WlI5UjV5c1RubGxCQUZjdXVDNVRvSHAw?oc=5",
+            "title": "Reason the Azteca is called the Mexico City Stadium during the World Cup",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "the mirror",
+            "account_name": "The Mirror",
+            "account_verified": false,
+            "published_at": "2026-06-11T14:00:00+00:00"
+          },
+          {
+            "id": 321125,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE1uX3Vqa0RVYmlnOEliLWx4eTdndWxnTDRxQWlFSFpfRk1ZRGtlU2pzV0lSQVFSZ3ROaC1LWUFsRFJzd25KTTFjTEJldUowWDlBdUxKTFY4VkR2VEtGTTBrOEVwSGE0ajliUVVMbnhtQVlWR1FmWDdR?oc=5",
+            "title": "How to Watch Mexico vs. South Africa Live: TV Channel, Stream",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "covers.com",
+            "account_name": "Covers.com",
+            "account_verified": false,
+            "published_at": "2026-06-11T14:00:00+00:00"
+          },
+          {
+            "id": 321124,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeHZlb1dtU2g1Ukt1UUFUNTEydjFpakk1endwb1hhal8xbFhQZVExNWk2YUpqYk0tRW53QnNWSjZsZEx3aEFLeV9xT2M0YXNMdHBwSVNUVU94N3U2MzZsWEhzMkk3ZGl3elhRaDBnUUZoWm5zcTJQSEtVMEtpdjJNanU1T0lsamVqV0J5VkhoemViS2xvMnprLXBhb0RPQzVKck1IdHFLWQ?oc=5",
+            "title": "Why Estadio Azteca has been renamed to Mexico City Stadium for FIFA World Cup 2026",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "hitc.com",
+            "account_name": "hitc.com",
+            "account_verified": false,
+            "published_at": "2026-06-11T14:00:00+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
@@ -1306,9 +1547,25 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 2,
+              "sentence": "When playing at home, Olympique de Safi have not lost to Kawkab Marrakech in their last 6 encounters."
+            },
+            {
+              "type_id": 24,
+              "sentence": "Olympique de Safi's home record this season: 1-4-6."
+            },
+            {
+              "type_id": 24,
+              "sentence": "Kawkab Marrakech's away record this season: 1-5-5."
+            }
+          ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Olympic Safi are stuck in a rut, but Kawkab has momentum — this could go either way.** 🔄 Safi's winless streak (3D, 2L) looks rough, especially back-to-back losses to Wydad and MAS de Fès. Kawkab, though, just beat Raja and CODM Meknès convincingly, so they'll fancy their chances on the road.\n\nThe H2H is a snoozer—they drew last time—but Kawkab's sharper form gives them the edge here. Safi desperately need points, but leaking goals won't help. Both teams play 4-2-3-1, so it should be tactically balanced.\n\nKey storylines:\n\n- **Kawkab's attack** has teeth: they've scored 3+ in two of their last three, especially at home.\n- **Olympic Safi's defense** under pressure; they've conceded in every loss and need **H. Hamiani** sharp.\n- **I. Khannouss** and **A. Habbassi** are Safi's creative spark in midfield, but Kawkab's **H. Rafa** and **G. Claude** could control tempo.\n\nExpected lineups:\n\n- **Olympic Safi**: H. Hamiani, Y. Ezzine, F. Karmoune, F. D. Ngoma, I. Serbout, S. E. Bouchqali, S. Errahouli, Y. Najari, A. Habbassi, I. Khannouss, M. Koné\n- **Kawkab Athletic Club Marrakech**: M. Jemjami, N. Lougmani, R. Mennioui, J. Omurwa, H. Fassoukh, G. Claude, H. Rafa, S. Cissé, I. Mihrab, Y. E. Bahraoui, H. Founti\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction: **1-1 draw.** Model leans Kawkab, but Safi's defensive desperation might earn them a point at home. 🎯",
+            "generated_at": "2026-06-11T15:45:16.225394+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-06-10T05:20:09.536961+03:00",
@@ -1470,9 +1727,25 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 2,
+            "sentence": "When playing at home, Olympique de Safi have not lost to Kawkab Marrakech in their last 6 encounters."
+          },
+          {
+            "type_id": 24,
+            "sentence": "Olympique de Safi's home record this season: 1-4-6."
+          },
+          {
+            "type_id": 24,
+            "sentence": "Kawkab Marrakech's away record this season: 1-5-5."
+          }
+        ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Olympic Safi are stuck in a rut, but Kawkab has momentum — this could go either way.** 🔄 Safi's winless streak (3D, 2L) looks rough, especially back-to-back losses to Wydad and MAS de Fès. Kawkab, though, just beat Raja and CODM Meknès convincingly, so they'll fancy their chances on the road.\n\nThe H2H is a snoozer—they drew last time—but Kawkab's sharper form gives them the edge here. Safi desperately need points, but leaking goals won't help. Both teams play 4-2-3-1, so it should be tactically balanced.\n\nKey storylines:\n\n- **Kawkab's attack** has teeth: they've scored 3+ in two of their last three, especially at home.\n- **Olympic Safi's defense** under pressure; they've conceded in every loss and need **H. Hamiani** sharp.\n- **I. Khannouss** and **A. Habbassi** are Safi's creative spark in midfield, but Kawkab's **H. Rafa** and **G. Claude** could control tempo.\n\nExpected lineups:\n\n- **Olympic Safi**: H. Hamiani, Y. Ezzine, F. Karmoune, F. D. Ngoma, I. Serbout, S. E. Bouchqali, S. Errahouli, Y. Najari, A. Habbassi, I. Khannouss, M. Koné\n- **Kawkab Athletic Club Marrakech**: M. Jemjami, N. Lougmani, R. Mennioui, J. Omurwa, H. Fassoukh, G. Claude, H. Rafa, S. Cissé, I. Mihrab, Y. E. Bahraoui, H. Founti\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction: **1-1 draw.** Model leans Kawkab, but Safi's defensive desperation might earn them a point at home. 🎯",
+          "generated_at": "2026-06-11T15:45:16.225394+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-06-11",
@@ -1846,7 +2119,10 @@
           "jerseys": null,
           "funfacts": null,
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Draw-fest alert** — Fath Union's five straight stalemates meet a MAS side that's scrappy and inconsistent. This has \"cautious\" written all over it. 🔒\n\nFath Union can't buy a win lately, sitting pretty in draw city with back-to-back 0-0s. MAS found some spark (beat Safi 2-1), but then promptly lost to Tanger and drew with FAR. Neither team looks hungry enough for a proper goalfest.\n\nKey storylines:\n\n- **Fath Union's defensive wall** — five draws in a row means they're locking things down, but also can't break through the other end\n- **MAS searching for consistency** — two wins, two losses, and a draw; they need to string together performances, not scattered results\n- **Low-scoring trend** — when Fath turns up to defend, goals dry up fast\n\nExpected lineups:\n\n- **Fath Union Sport**: A. Lakred, M. Amri, H. E. Mahssani, C. Salaheddine, A. E. Msane, A. Mahir, D. Bassinga, L. Diakité\n- **MAS de Fès**: S. Chihab, D. El-Jabli, M. Ouhrou, S. A. Khorsa, S. Ghedamsi, N. Oussama, S. Allouch, K. Seakanyeng\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**0-0 or 1-1** — coin flip energy, but the Under holds the slight edge given Fath's defensive groove. ⚪",
+            "generated_at": "2026-06-11T15:45:21.599533+00:00"
+          },
           "live_websocket": false
         },
         "created_at": "2026-06-10T05:20:09.069961+03:00",
@@ -1977,7 +2253,10 @@
         "jerseys": null,
         "funfacts": null,
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Draw-fest alert** — Fath Union's five straight stalemates meet a MAS side that's scrappy and inconsistent. This has \"cautious\" written all over it. 🔒\n\nFath Union can't buy a win lately, sitting pretty in draw city with back-to-back 0-0s. MAS found some spark (beat Safi 2-1), but then promptly lost to Tanger and drew with FAR. Neither team looks hungry enough for a proper goalfest.\n\nKey storylines:\n\n- **Fath Union's defensive wall** — five draws in a row means they're locking things down, but also can't break through the other end\n- **MAS searching for consistency** — two wins, two losses, and a draw; they need to string together performances, not scattered results\n- **Low-scoring trend** — when Fath turns up to defend, goals dry up fast\n\nExpected lineups:\n\n- **Fath Union Sport**: A. Lakred, M. Amri, H. E. Mahssani, C. Salaheddine, A. E. Msane, A. Mahir, D. Bassinga, L. Diakité\n- **MAS de Fès**: S. Chihab, D. El-Jabli, M. Ouhrou, S. A. Khorsa, S. Ghedamsi, N. Oussama, S. Allouch, K. Seakanyeng\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**0-0 or 1-1** — coin flip energy, but the Under holds the slight edge given Fath's defensive groove. ⚪",
+          "generated_at": "2026-06-11T15:45:21.599533+00:00"
+        },
         "live_websocket": false,
         "home_form": {
           "calculated_at": "2026-06-11",
@@ -2378,7 +2657,20 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 1,
+              "sentence": "Olymp. Dcheira haven't won in their last 13 games."
+            },
+            {
+              "type_id": 24,
+              "sentence": "Hassani d'el-Jadida's home record this season: 4-5-2."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Hassani d'el-Jadida haven't lost in any of their last 7 home matches."
+            }
+          ],
           "sr_stats": null,
           "ai_preview": null,
           "live_websocket": true
@@ -2542,7 +2834,20 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 1,
+            "sentence": "Olymp. Dcheira haven't won in their last 13 games."
+          },
+          {
+            "type_id": 24,
+            "sentence": "Hassani d'el-Jadida's home record this season: 4-5-2."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Hassani d'el-Jadida haven't lost in any of their last 7 home matches."
+          }
+        ],
         "sr_stats": null,
         "ai_preview": null,
         "live_websocket": true,
@@ -2956,7 +3261,20 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 24,
+              "sentence": "Renaissance Zemamra's away record this season: 4-0-7."
+            },
+            {
+              "type_id": 26,
+              "sentence": "A year ago, Renaissance Zemamra were number 3 in the table with 40 points. Now they are number 10 with 26 points."
+            },
+            {
+              "type_id": 23,
+              "sentence": "Last season's matches: 1-1 (Meknes at home) and 3-2 (Renaissance Zemamra at home)."
+            }
+          ],
           "sr_stats": null,
           "ai_preview": null,
           "live_websocket": true
@@ -3130,7 +3448,20 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 24,
+            "sentence": "Renaissance Zemamra's away record this season: 4-0-7."
+          },
+          {
+            "type_id": 26,
+            "sentence": "A year ago, Renaissance Zemamra were number 3 in the table with 40 points. Now they are number 10 with 26 points."
+          },
+          {
+            "type_id": 23,
+            "sentence": "Last season's matches: 1-1 (Meknes at home) and 3-2 (Renaissance Zemamra at home)."
+          }
+        ],
         "sr_stats": null,
         "ai_preview": null,
         "live_websocket": true,
@@ -76160,9 +76491,9 @@
           "is_local_derby": false,
           "is_neutral_ground": null,
           "travel_distance_km": null,
-          "weather_code": null,
-          "wind_speed": null,
-          "temperature_c": null,
+          "weather_code": 3,
+          "wind_speed": 25.6,
+          "temperature_c": 23,
           "pitch_condition": null,
           "attendance": null,
           "referee": null,
@@ -76352,9 +76683,9 @@
         "is_local_derby": false,
         "is_neutral_ground": null,
         "travel_distance_km": null,
-        "weather_code": null,
-        "wind_speed": null,
-        "temperature_c": null,
+        "weather_code": 3,
+        "wind_speed": 25.6,
+        "temperature_c": 23,
         "pitch_condition": null,
         "attendance": null,
         "referee": null,
