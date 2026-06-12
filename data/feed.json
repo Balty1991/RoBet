@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-12T09:44:03.882Z",
+  "generated_at": "2026-06-12T12:56:22.404Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -4338,9 +4338,25 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 2,
+              "sentence": "Oulu haven't won any of their last 3 games against Inter Turku."
+            },
+            {
+              "type_id": 2,
+              "sentence": "When playing at home, Inter Turku have not lost to Oulu in their last 6 encounters."
+            },
+            {
+              "type_id": 24,
+              "sentence": "Inter Turku's home record this season: 4-2-0."
+            }
+          ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Inter Turku's rolling hot streak meets an in-form Oulu side** — both teams are flying, but the hosts have the edge at home. 🔥\n\nInter Turku are on a **4-win-1-draw tear**, while AC Oulu matches that with 4 wins of their own. The storyline here is whether Turku's home fortress and superior form can hold off a visiting side that's quietly lethal on the road.\n\nKey storylines:\n\n- **Inter Turku's** attack led by C. Jephta and A. Conteh will face a resolute AC Oulu backline anchored by M. Pitkanen and J. Pirinen\n- **AC Oulu's** road record is sharp — they've won their last two away games and won't be intimidated at Veritas Stadium\n- Both teams are light on the ball but deadly in transition; expect a compact, cagey affair rather than a goalfest\n\nExpected lineups:\n\n- **Inter Turku**: E. Huuhtanen, J. Niska, I. Kangasniemi, J. Hämäläinen, L. Kuittinen, P. Ahiabu, E. Kiiskilä, A. Conteh, C. Jephta\n- **AC Oulu**: M. Santos, R. Karjalainen, J. Pirinen, M. Pitkanen, O. Kemppainen, I. Mendolin, J. Paananen, L. Ghezali\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction: **2-0 Inter Turku**. The model leans Turku, and home-field advantage tips a tight contest their way. 💪",
+            "generated_at": "2026-06-12T12:45:19.353548+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-06-02T13:52:40.268052+03:00",
@@ -4516,9 +4532,25 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 2,
+            "sentence": "Oulu haven't won any of their last 3 games against Inter Turku."
+          },
+          {
+            "type_id": 2,
+            "sentence": "When playing at home, Inter Turku have not lost to Oulu in their last 6 encounters."
+          },
+          {
+            "type_id": 24,
+            "sentence": "Inter Turku's home record this season: 4-2-0."
+          }
+        ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Inter Turku's rolling hot streak meets an in-form Oulu side** — both teams are flying, but the hosts have the edge at home. 🔥\n\nInter Turku are on a **4-win-1-draw tear**, while AC Oulu matches that with 4 wins of their own. The storyline here is whether Turku's home fortress and superior form can hold off a visiting side that's quietly lethal on the road.\n\nKey storylines:\n\n- **Inter Turku's** attack led by C. Jephta and A. Conteh will face a resolute AC Oulu backline anchored by M. Pitkanen and J. Pirinen\n- **AC Oulu's** road record is sharp — they've won their last two away games and won't be intimidated at Veritas Stadium\n- Both teams are light on the ball but deadly in transition; expect a compact, cagey affair rather than a goalfest\n\nExpected lineups:\n\n- **Inter Turku**: E. Huuhtanen, J. Niska, I. Kangasniemi, J. Hämäläinen, L. Kuittinen, P. Ahiabu, E. Kiiskilä, A. Conteh, C. Jephta\n- **AC Oulu**: M. Santos, R. Karjalainen, J. Pirinen, M. Pitkanen, O. Kemppainen, I. Mendolin, J. Paananen, L. Ghezali\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction: **2-0 Inter Turku**. The model leans Turku, and home-field advantage tips a tight contest their way. 💪",
+          "generated_at": "2026-06-12T12:45:19.353548+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-06-12",
@@ -4916,9 +4948,25 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 2,
+              "sentence": "Turun haven't won any of their last 9 games against Ilves."
+            },
+            {
+              "type_id": 2,
+              "sentence": "When playing at home, Ilves have not lost to Turun in their last 5 encounters."
+            },
+            {
+              "type_id": 24,
+              "sentence": "Turun's away record this season: 0-2-2."
+            }
+          ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Ilves smell blood here** — they're on a roll at home, and TPS just can't seem to get it together on the road. 🔥\n\nIlves hammered Lahti 5-2 at Tammela, then took TPS apart 1-0 in their last clash. That's a side buzzing with confidence. TPS, meanwhile, are sitting 2W-3L and got demolished 0-1 away at Ilves already this season—tough vibes for a return trip.\n\nKey storylines:\n\n- **Ilves' fortress mentality** — three wins in their last five, dominant at home, and they've already got TPS' number this term\n- **TPS struggling on the road** — just one win in five, and that 0-5 hammering Lahti took shows how quickly things can spiral\n- **Goal glut or tight affair?** — Ilves' 5-2 demolition was chaotic, but TPS' defensive shape will be tested hard by **O. Paavola** and the attacking unit\n\nExpected lineups:\n\n- **Ilves**: F. Krkalić, M. Rale, V. Kumpu, T. Miettunen, O. Pettersson, M. Stjopin, J. Kanga, O. Multala\n- **Turun Palloseura**: E. Henriksson, E. Turkki, M. Hradecky, A. Sihvonen, O. Häggström, P. Juvanteny, T. Zaal, S. Anini Jr.\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Ilves 2–0 TPS** — home edge and recent form give Ilves a lean, though TPS will scrappy it up.",
+            "generated_at": "2026-06-12T12:45:25.732032+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-06-02T13:52:39.982476+03:00",
@@ -5099,9 +5147,25 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 2,
+            "sentence": "Turun haven't won any of their last 9 games against Ilves."
+          },
+          {
+            "type_id": 2,
+            "sentence": "When playing at home, Ilves have not lost to Turun in their last 5 encounters."
+          },
+          {
+            "type_id": 24,
+            "sentence": "Turun's away record this season: 0-2-2."
+          }
+        ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Ilves smell blood here** — they're on a roll at home, and TPS just can't seem to get it together on the road. 🔥\n\nIlves hammered Lahti 5-2 at Tammela, then took TPS apart 1-0 in their last clash. That's a side buzzing with confidence. TPS, meanwhile, are sitting 2W-3L and got demolished 0-1 away at Ilves already this season—tough vibes for a return trip.\n\nKey storylines:\n\n- **Ilves' fortress mentality** — three wins in their last five, dominant at home, and they've already got TPS' number this term\n- **TPS struggling on the road** — just one win in five, and that 0-5 hammering Lahti took shows how quickly things can spiral\n- **Goal glut or tight affair?** — Ilves' 5-2 demolition was chaotic, but TPS' defensive shape will be tested hard by **O. Paavola** and the attacking unit\n\nExpected lineups:\n\n- **Ilves**: F. Krkalić, M. Rale, V. Kumpu, T. Miettunen, O. Pettersson, M. Stjopin, J. Kanga, O. Multala\n- **Turun Palloseura**: E. Henriksson, E. Turkki, M. Hradecky, A. Sihvonen, O. Häggström, P. Juvanteny, T. Zaal, S. Anini Jr.\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Ilves 2–0 TPS** — home edge and recent form give Ilves a lean, though TPS will scrappy it up.",
+          "generated_at": "2026-06-12T12:45:25.732032+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-06-12",
