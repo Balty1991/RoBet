@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-11T22:08:47.975Z",
+  "generated_at": "2026-06-12T00:04:33.869Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -3836,7 +3836,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Atlético Goianiense and Clube De Regatas Brasil meet in a dead-even affair** — the model sees this as a proper coin flip, and the form lines back it up. 🤝\n\nAtlético's been steady but unspectacular (1W-3D-1L), grinding out draws at home while snatching a road win at América Mineiro. Brasil, meanwhile, swings wildly between blowouts — hammering Ponte Preta 4-2, then getting dismantled 0-2 by Cuiabá. Classic mid-table chaos.\n\nKey storylines:\n\n- **Atlético's defensive resilience** — Ewerthon, Tito, and the backline have kept things tight despite the inconsistency, crucial at home\n- **Brasil's volatility on the road** — that 0-2 loss to Cuiabá is concerning; Matheus Albino will need a clean sheet vibe\n- **Midfield battle** — G. Soares and Cristiano anchoring Atlético against Brasil's P. Castro and Danielzinho could set the tone\n\nExpected lineups:\n\n- **Atlético Goianiense**: P. Vítor, J. Barreto, Ewerthon, Tito, Cristiano, G. Soares, Gustavo Coutinho, I. Henrique, L. Jacó, L. Tocantins\n- **Clube De Regatas Brasil**: Matheus Albino, H. Santos, D. Hereda, L. Lovat, P. Castro, Danielzinho, Thiaguinho, Mikael, D. Belmonte, L. Phellype\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction: **1-1** — neither team has the firepower or defensive solidity to break through convincingly. ⚽",
+            "generated_at": "2026-06-11T22:45:16.194267+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-06-02T13:52:39.224237+03:00",
@@ -4058,7 +4061,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Atlético Goianiense and Clube De Regatas Brasil meet in a dead-even affair** — the model sees this as a proper coin flip, and the form lines back it up. 🤝\n\nAtlético's been steady but unspectacular (1W-3D-1L), grinding out draws at home while snatching a road win at América Mineiro. Brasil, meanwhile, swings wildly between blowouts — hammering Ponte Preta 4-2, then getting dismantled 0-2 by Cuiabá. Classic mid-table chaos.\n\nKey storylines:\n\n- **Atlético's defensive resilience** — Ewerthon, Tito, and the backline have kept things tight despite the inconsistency, crucial at home\n- **Brasil's volatility on the road** — that 0-2 loss to Cuiabá is concerning; Matheus Albino will need a clean sheet vibe\n- **Midfield battle** — G. Soares and Cristiano anchoring Atlético against Brasil's P. Castro and Danielzinho could set the tone\n\nExpected lineups:\n\n- **Atlético Goianiense**: P. Vítor, J. Barreto, Ewerthon, Tito, Cristiano, G. Soares, Gustavo Coutinho, I. Henrique, L. Jacó, L. Tocantins\n- **Clube De Regatas Brasil**: Matheus Albino, H. Santos, D. Hereda, L. Lovat, P. Castro, Danielzinho, Thiaguinho, Mikael, D. Belmonte, L. Phellype\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction: **1-1** — neither team has the firepower or defensive solidity to break through convincingly. ⚽",
+          "generated_at": "2026-06-11T22:45:16.194267+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-06-11",
