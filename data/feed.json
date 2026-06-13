@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-13T20:03:16.289Z",
+  "generated_at": "2026-06-13T21:47:21.851Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -161,7 +161,1009 @@
           },
           "incidents": null,
           "live_stats": null,
-          "lineups": null,
+          "lineups": {
+            "away": {
+              "players": [
+                {
+                  "name": "Bono",
+                  "goals": 0,
+                  "api_id": 360938,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "G",
+                  "red_card": false,
+                  "player_id": 7990,
+                  "yellow_card": false,
+                  "jersey_number": "1",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "GK",
+                  "positions_detailed": [
+                    "GK"
+                  ]
+                },
+                {
+                  "name": "A. Hakimi",
+                  "goals": 0,
+                  "api_id": 814594,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 4241,
+                  "yellow_card": false,
+                  "jersey_number": "2",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "RB",
+                  "positions_detailed": [
+                    "RB"
+                  ]
+                },
+                {
+                  "name": "I. Diop",
+                  "goals": 0,
+                  "api_id": 825719,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 4377,
+                  "yellow_card": false,
+                  "jersey_number": "14",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CB",
+                  "positions_detailed": [
+                    "CB"
+                  ]
+                },
+                {
+                  "name": "C. Riad",
+                  "goals": 0,
+                  "api_id": 1064218,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 8593,
+                  "yellow_card": false,
+                  "jersey_number": "18",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CB",
+                  "positions_detailed": [
+                    "CB"
+                  ]
+                },
+                {
+                  "name": "N. Mazraoui",
+                  "goals": 0,
+                  "api_id": 847030,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 1799,
+                  "yellow_card": false,
+                  "jersey_number": "3",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "RB",
+                  "positions_detailed": [
+                    "RB",
+                    "CB",
+                    "LB",
+                    "RM"
+                  ]
+                },
+                {
+                  "name": "A. Bouaddi",
+                  "goals": 0,
+                  "api_id": 1564180,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 1451,
+                  "yellow_card": false,
+                  "jersey_number": "6",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CM",
+                  "positions_detailed": [
+                    "CM",
+                    "DM"
+                  ]
+                },
+                {
+                  "name": "N. El Aynaoui",
+                  "goals": 0,
+                  "api_id": 1128530,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 1070,
+                  "yellow_card": false,
+                  "jersey_number": "24",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CM",
+                  "positions_detailed": [
+                    "CM",
+                    "DM"
+                  ]
+                },
+                {
+                  "name": "B. Díaz",
+                  "goals": 0,
+                  "api_id": 835485,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 598,
+                  "yellow_card": false,
+                  "jersey_number": "10",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "RW",
+                  "positions_detailed": [
+                    "RW"
+                  ]
+                },
+                {
+                  "name": "A. Ounahi",
+                  "goals": 0,
+                  "api_id": 991421,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 1044,
+                  "yellow_card": false,
+                  "jersey_number": "8",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CM",
+                  "positions_detailed": [
+                    "CM",
+                    "AM"
+                  ]
+                },
+                {
+                  "name": "B. E. Khannouss",
+                  "goals": 0,
+                  "api_id": 1126569,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 1619,
+                  "yellow_card": false,
+                  "jersey_number": "23",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "AM",
+                  "positions_detailed": [
+                    "AM"
+                  ]
+                },
+                {
+                  "name": "I. Saibari",
+                  "goals": 0,
+                  "api_id": 1063767,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 3511,
+                  "yellow_card": false,
+                  "jersey_number": "11",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CM",
+                  "positions_detailed": [
+                    "CM",
+                    "AM"
+                  ]
+                }
+              ],
+              "formation": "4-2-3-1",
+              "substitutes": [
+                {
+                  "name": "M. El Kajoui",
+                  "goals": 0,
+                  "api_id": 141967,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "G",
+                  "red_card": false,
+                  "player_id": 15369,
+                  "yellow_card": false,
+                  "jersey_number": "12",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "GK",
+                  "positions_detailed": [
+                    "GK"
+                  ]
+                },
+                {
+                  "name": "A. R. Tagnaouti",
+                  "goals": 0,
+                  "api_id": 359280,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "G",
+                  "red_card": false,
+                  "player_id": 14734,
+                  "yellow_card": false,
+                  "jersey_number": "22",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "GK",
+                  "positions_detailed": [
+                    "GK"
+                  ]
+                },
+                {
+                  "name": "A. Salah-Eddine",
+                  "goals": 0,
+                  "api_id": 961684,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 3506,
+                  "yellow_card": false,
+                  "jersey_number": "26",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "LB",
+                  "positions_detailed": [
+                    "LB"
+                  ]
+                },
+                {
+                  "name": "M. Saadane",
+                  "goals": 0,
+                  "api_id": 847714,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 8257,
+                  "yellow_card": false,
+                  "jersey_number": "5",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "DEF",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "R. Halhal",
+                  "goals": 0,
+                  "api_id": 1143667,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 7757,
+                  "yellow_card": false,
+                  "jersey_number": "25",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CB",
+                  "positions_detailed": [
+                    "CB"
+                  ]
+                },
+                {
+                  "name": "Z. E. Ouahdi",
+                  "goals": 0,
+                  "api_id": 1134470,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 3122,
+                  "yellow_card": false,
+                  "jersey_number": "13",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "RB",
+                  "positions_detailed": [
+                    "RB"
+                  ]
+                },
+                {
+                  "name": "Y. Belammari",
+                  "goals": 0,
+                  "api_id": 919484,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 14679,
+                  "yellow_card": false,
+                  "jersey_number": "19",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "LB",
+                  "positions_detailed": [
+                    "LB"
+                  ]
+                },
+                {
+                  "name": "C. Talbi",
+                  "goals": 0,
+                  "api_id": 1142675,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 350,
+                  "yellow_card": false,
+                  "jersey_number": "7",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "RW",
+                  "positions_detailed": [
+                    "RW"
+                  ]
+                },
+                {
+                  "name": "A. Sbai",
+                  "goals": 0,
+                  "api_id": 1392829,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 1395,
+                  "yellow_card": false,
+                  "jersey_number": "17",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "FWD",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "G. Yassine",
+                  "goals": 0,
+                  "api_id": 1638338,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 8630,
+                  "yellow_card": false,
+                  "jersey_number": "16",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "RW",
+                  "positions_detailed": [
+                    "RW"
+                  ]
+                },
+                {
+                  "name": "S. E. Mourabet",
+                  "goals": 0,
+                  "api_id": 1605921,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 1706,
+                  "yellow_card": false,
+                  "jersey_number": "15",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CM",
+                  "positions_detailed": [
+                    "CM",
+                    "DM"
+                  ]
+                },
+                {
+                  "name": "S. Amrabat",
+                  "goals": 0,
+                  "api_id": 359272,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 2985,
+                  "yellow_card": false,
+                  "jersey_number": "4",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CM",
+                  "positions_detailed": [
+                    "CM",
+                    "DM"
+                  ]
+                },
+                {
+                  "name": "A. E. Kaabi",
+                  "goals": 0,
+                  "api_id": 919793,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 3486,
+                  "yellow_card": false,
+                  "jersey_number": "20",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "ST",
+                  "positions_detailed": [
+                    "ST"
+                  ]
+                },
+                {
+                  "name": "S. Rahimi",
+                  "goals": 0,
+                  "api_id": 953995,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 15371,
+                  "yellow_card": false,
+                  "jersey_number": "9",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "ST",
+                  "positions_detailed": [
+                    "ST",
+                    "LW"
+                  ]
+                },
+                {
+                  "name": "A. Amaimouni Echghouyab",
+                  "goals": 0,
+                  "api_id": 1898148,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 8503,
+                  "yellow_card": false,
+                  "jersey_number": "21",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "RW",
+                  "positions_detailed": [
+                    "RW"
+                  ]
+                }
+              ]
+            },
+            "home": {
+              "players": [
+                {
+                  "name": "Alisson",
+                  "goals": 0,
+                  "api_id": 243609,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "G",
+                  "red_card": false,
+                  "player_id": 322,
+                  "yellow_card": false,
+                  "jersey_number": "1",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "GK",
+                  "positions_detailed": [
+                    "GK"
+                  ]
+                },
+                {
+                  "name": "R. Ibañez",
+                  "goals": 0,
+                  "api_id": 888949,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 8113,
+                  "yellow_card": false,
+                  "jersey_number": "24",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CB",
+                  "positions_detailed": [
+                    "CB"
+                  ]
+                },
+                {
+                  "name": "Marquinhos",
+                  "goals": 0,
+                  "api_id": 155995,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 2244,
+                  "yellow_card": false,
+                  "jersey_number": "4",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CB",
+                  "positions_detailed": [
+                    "CB"
+                  ]
+                },
+                {
+                  "name": "G. Magalhães",
+                  "goals": 0,
+                  "api_id": 869792,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 4072,
+                  "yellow_card": false,
+                  "jersey_number": "3",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CB",
+                  "positions_detailed": [
+                    "CB"
+                  ]
+                },
+                {
+                  "name": "D. Santos",
+                  "goals": 0,
+                  "api_id": 243583,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 16392,
+                  "yellow_card": false,
+                  "jersey_number": "16",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "LB",
+                  "positions_detailed": [
+                    "LB"
+                  ]
+                },
+                {
+                  "name": "Casemiro",
+                  "goals": 0,
+                  "api_id": 122951,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 1793,
+                  "yellow_card": false,
+                  "jersey_number": "5",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CM",
+                  "positions_detailed": [
+                    "CM",
+                    "DM"
+                  ]
+                },
+                {
+                  "name": "B. Guimarães",
+                  "goals": 0,
+                  "api_id": 866469,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 709,
+                  "yellow_card": false,
+                  "jersey_number": "8",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CM",
+                  "positions_detailed": [
+                    "CM",
+                    "DM"
+                  ]
+                },
+                {
+                  "name": "Raphinha",
+                  "goals": 0,
+                  "api_id": 831005,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 747,
+                  "yellow_card": false,
+                  "jersey_number": "11",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "LW",
+                  "positions_detailed": [
+                    "LW"
+                  ]
+                },
+                {
+                  "name": "L. Paquetá",
+                  "goals": 0,
+                  "api_id": 839981,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 1642,
+                  "yellow_card": false,
+                  "jersey_number": "20",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "AM",
+                  "positions_detailed": [
+                    "AM",
+                    "CM"
+                  ]
+                },
+                {
+                  "name": "Vinícius Jr.",
+                  "goals": 0,
+                  "api_id": 868812,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 595,
+                  "yellow_card": false,
+                  "jersey_number": "7",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "ST",
+                  "positions_detailed": [
+                    "ST",
+                    "LW"
+                  ]
+                },
+                {
+                  "name": "I. Thiago",
+                  "goals": 0,
+                  "api_id": 1016907,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 473,
+                  "yellow_card": false,
+                  "jersey_number": "25",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "ST",
+                  "positions_detailed": [
+                    "ST"
+                  ]
+                }
+              ],
+              "formation": "4-2-3-1",
+              "substitutes": [
+                {
+                  "name": "Ederson",
+                  "goals": 0,
+                  "api_id": 254491,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "G",
+                  "red_card": false,
+                  "player_id": 3406,
+                  "yellow_card": false,
+                  "jersey_number": "23",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "GK",
+                  "positions_detailed": [
+                    "GK"
+                  ]
+                },
+                {
+                  "name": "Weverton",
+                  "goals": 0,
+                  "api_id": 243529,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "G",
+                  "red_card": false,
+                  "player_id": 4488,
+                  "yellow_card": false,
+                  "jersey_number": "12",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "GK",
+                  "positions_detailed": [
+                    "GK"
+                  ]
+                },
+                {
+                  "name": "A. Sandro",
+                  "goals": 0,
+                  "api_id": 84854,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 51,
+                  "yellow_card": false,
+                  "jersey_number": "6",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "LB",
+                  "positions_detailed": [
+                    "LB",
+                    "CB"
+                  ]
+                },
+                {
+                  "name": "Danilo",
+                  "goals": 0,
+                  "api_id": 124992,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 49,
+                  "yellow_card": false,
+                  "jersey_number": "13",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CB",
+                  "positions_detailed": [
+                    "CB",
+                    "RB"
+                  ]
+                },
+                {
+                  "name": "Bremer",
+                  "goals": 0,
+                  "api_id": 885197,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 4634,
+                  "yellow_card": false,
+                  "jersey_number": "14",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CB",
+                  "positions_detailed": [
+                    "CB"
+                  ]
+                },
+                {
+                  "name": "L. Pereira",
+                  "goals": 0,
+                  "api_id": 358548,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 50,
+                  "yellow_card": false,
+                  "jersey_number": "15",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CB",
+                  "positions_detailed": [
+                    "CB"
+                  ]
+                },
+                {
+                  "name": "D. Santos",
+                  "goals": 0,
+                  "api_id": 1064039,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 3877,
+                  "yellow_card": false,
+                  "jersey_number": "18",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CM",
+                  "positions_detailed": [
+                    "CM",
+                    "DM"
+                  ]
+                },
+                {
+                  "name": "Fabinho",
+                  "goals": 0,
+                  "api_id": 243585,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 8156,
+                  "yellow_card": false,
+                  "jersey_number": "17",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CM",
+                  "positions_detailed": [
+                    "CM",
+                    "DM"
+                  ]
+                },
+                {
+                  "name": "L. Henrique",
+                  "goals": 0,
+                  "api_id": 1035995,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 16393,
+                  "yellow_card": false,
+                  "jersey_number": "21",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "RW",
+                  "positions_detailed": [
+                    "RW"
+                  ]
+                },
+                {
+                  "name": "Rayan",
+                  "goals": 0,
+                  "api_id": 1464966,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 663,
+                  "yellow_card": false,
+                  "jersey_number": "26",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "RW",
+                  "positions_detailed": [
+                    "RW",
+                    "ST"
+                  ]
+                },
+                {
+                  "name": "Éderson",
+                  "goals": 0,
+                  "api_id": 946888,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 1302,
+                  "yellow_card": false,
+                  "jersey_number": "2",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CM",
+                  "positions_detailed": [
+                    "CM",
+                    "DM"
+                  ]
+                },
+                {
+                  "name": "Endrick",
+                  "goals": 0,
+                  "api_id": 1174937,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 606,
+                  "yellow_card": false,
+                  "jersey_number": "19",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "ST",
+                  "positions_detailed": [
+                    "ST"
+                  ]
+                },
+                {
+                  "name": "M. Cunha",
+                  "goals": 0,
+                  "api_id": 886363,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 4119,
+                  "yellow_card": false,
+                  "jersey_number": "9",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "AM",
+                  "positions_detailed": [
+                    "AM",
+                    "ST"
+                  ]
+                },
+                {
+                  "name": "G. Martinelli",
+                  "goals": 0,
+                  "api_id": 922573,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 452,
+                  "yellow_card": false,
+                  "jersey_number": "22",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "LW",
+                  "positions_detailed": [
+                    "LW"
+                  ]
+                }
+              ]
+            },
+            "confirmed": true
+          },
           "shotmap": null,
           "momentum": null,
           "xg_per_minute": null,
@@ -490,151 +1492,1249 @@
           "avg_team_rating": 0
         },
         "head_to_head": null,
-        "lineups": null,
+        "lineups": {
+          "away": {
+            "players": [
+              {
+                "name": "Bono",
+                "goals": 0,
+                "api_id": 360938,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "G",
+                "red_card": false,
+                "player_id": 7990,
+                "yellow_card": false,
+                "jersey_number": "1",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "GK",
+                "positions_detailed": [
+                  "GK"
+                ]
+              },
+              {
+                "name": "A. Hakimi",
+                "goals": 0,
+                "api_id": 814594,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 4241,
+                "yellow_card": false,
+                "jersey_number": "2",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "RB",
+                "positions_detailed": [
+                  "RB"
+                ]
+              },
+              {
+                "name": "I. Diop",
+                "goals": 0,
+                "api_id": 825719,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 4377,
+                "yellow_card": false,
+                "jersey_number": "14",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CB",
+                "positions_detailed": [
+                  "CB"
+                ]
+              },
+              {
+                "name": "C. Riad",
+                "goals": 0,
+                "api_id": 1064218,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 8593,
+                "yellow_card": false,
+                "jersey_number": "18",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CB",
+                "positions_detailed": [
+                  "CB"
+                ]
+              },
+              {
+                "name": "N. Mazraoui",
+                "goals": 0,
+                "api_id": 847030,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 1799,
+                "yellow_card": false,
+                "jersey_number": "3",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "RB",
+                "positions_detailed": [
+                  "RB",
+                  "CB",
+                  "LB",
+                  "RM"
+                ]
+              },
+              {
+                "name": "A. Bouaddi",
+                "goals": 0,
+                "api_id": 1564180,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 1451,
+                "yellow_card": false,
+                "jersey_number": "6",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CM",
+                "positions_detailed": [
+                  "CM",
+                  "DM"
+                ]
+              },
+              {
+                "name": "N. El Aynaoui",
+                "goals": 0,
+                "api_id": 1128530,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 1070,
+                "yellow_card": false,
+                "jersey_number": "24",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CM",
+                "positions_detailed": [
+                  "CM",
+                  "DM"
+                ]
+              },
+              {
+                "name": "B. Díaz",
+                "goals": 0,
+                "api_id": 835485,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 598,
+                "yellow_card": false,
+                "jersey_number": "10",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "RW",
+                "positions_detailed": [
+                  "RW"
+                ]
+              },
+              {
+                "name": "A. Ounahi",
+                "goals": 0,
+                "api_id": 991421,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 1044,
+                "yellow_card": false,
+                "jersey_number": "8",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CM",
+                "positions_detailed": [
+                  "CM",
+                  "AM"
+                ]
+              },
+              {
+                "name": "B. E. Khannouss",
+                "goals": 0,
+                "api_id": 1126569,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 1619,
+                "yellow_card": false,
+                "jersey_number": "23",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "AM",
+                "positions_detailed": [
+                  "AM"
+                ]
+              },
+              {
+                "name": "I. Saibari",
+                "goals": 0,
+                "api_id": 1063767,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 3511,
+                "yellow_card": false,
+                "jersey_number": "11",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CM",
+                "positions_detailed": [
+                  "CM",
+                  "AM"
+                ]
+              }
+            ],
+            "formation": "4-2-3-1",
+            "substitutes": [
+              {
+                "name": "M. El Kajoui",
+                "goals": 0,
+                "api_id": 141967,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "G",
+                "red_card": false,
+                "player_id": 15369,
+                "yellow_card": false,
+                "jersey_number": "12",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "GK",
+                "positions_detailed": [
+                  "GK"
+                ]
+              },
+              {
+                "name": "A. R. Tagnaouti",
+                "goals": 0,
+                "api_id": 359280,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "G",
+                "red_card": false,
+                "player_id": 14734,
+                "yellow_card": false,
+                "jersey_number": "22",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "GK",
+                "positions_detailed": [
+                  "GK"
+                ]
+              },
+              {
+                "name": "A. Salah-Eddine",
+                "goals": 0,
+                "api_id": 961684,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 3506,
+                "yellow_card": false,
+                "jersey_number": "26",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "LB",
+                "positions_detailed": [
+                  "LB"
+                ]
+              },
+              {
+                "name": "M. Saadane",
+                "goals": 0,
+                "api_id": 847714,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 8257,
+                "yellow_card": false,
+                "jersey_number": "5",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "DEF",
+                "positions_detailed": []
+              },
+              {
+                "name": "R. Halhal",
+                "goals": 0,
+                "api_id": 1143667,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 7757,
+                "yellow_card": false,
+                "jersey_number": "25",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CB",
+                "positions_detailed": [
+                  "CB"
+                ]
+              },
+              {
+                "name": "Z. E. Ouahdi",
+                "goals": 0,
+                "api_id": 1134470,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 3122,
+                "yellow_card": false,
+                "jersey_number": "13",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "RB",
+                "positions_detailed": [
+                  "RB"
+                ]
+              },
+              {
+                "name": "Y. Belammari",
+                "goals": 0,
+                "api_id": 919484,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 14679,
+                "yellow_card": false,
+                "jersey_number": "19",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "LB",
+                "positions_detailed": [
+                  "LB"
+                ]
+              },
+              {
+                "name": "C. Talbi",
+                "goals": 0,
+                "api_id": 1142675,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 350,
+                "yellow_card": false,
+                "jersey_number": "7",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "RW",
+                "positions_detailed": [
+                  "RW"
+                ]
+              },
+              {
+                "name": "A. Sbai",
+                "goals": 0,
+                "api_id": 1392829,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 1395,
+                "yellow_card": false,
+                "jersey_number": "17",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "FWD",
+                "positions_detailed": []
+              },
+              {
+                "name": "G. Yassine",
+                "goals": 0,
+                "api_id": 1638338,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 8630,
+                "yellow_card": false,
+                "jersey_number": "16",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "RW",
+                "positions_detailed": [
+                  "RW"
+                ]
+              },
+              {
+                "name": "S. E. Mourabet",
+                "goals": 0,
+                "api_id": 1605921,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 1706,
+                "yellow_card": false,
+                "jersey_number": "15",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CM",
+                "positions_detailed": [
+                  "CM",
+                  "DM"
+                ]
+              },
+              {
+                "name": "S. Amrabat",
+                "goals": 0,
+                "api_id": 359272,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 2985,
+                "yellow_card": false,
+                "jersey_number": "4",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CM",
+                "positions_detailed": [
+                  "CM",
+                  "DM"
+                ]
+              },
+              {
+                "name": "A. E. Kaabi",
+                "goals": 0,
+                "api_id": 919793,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 3486,
+                "yellow_card": false,
+                "jersey_number": "20",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "ST",
+                "positions_detailed": [
+                  "ST"
+                ]
+              },
+              {
+                "name": "S. Rahimi",
+                "goals": 0,
+                "api_id": 953995,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 15371,
+                "yellow_card": false,
+                "jersey_number": "9",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "ST",
+                "positions_detailed": [
+                  "ST",
+                  "LW"
+                ]
+              },
+              {
+                "name": "A. Amaimouni Echghouyab",
+                "goals": 0,
+                "api_id": 1898148,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 8503,
+                "yellow_card": false,
+                "jersey_number": "21",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "RW",
+                "positions_detailed": [
+                  "RW"
+                ]
+              }
+            ]
+          },
+          "home": {
+            "players": [
+              {
+                "name": "Alisson",
+                "goals": 0,
+                "api_id": 243609,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "G",
+                "red_card": false,
+                "player_id": 322,
+                "yellow_card": false,
+                "jersey_number": "1",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "GK",
+                "positions_detailed": [
+                  "GK"
+                ]
+              },
+              {
+                "name": "R. Ibañez",
+                "goals": 0,
+                "api_id": 888949,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 8113,
+                "yellow_card": false,
+                "jersey_number": "24",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CB",
+                "positions_detailed": [
+                  "CB"
+                ]
+              },
+              {
+                "name": "Marquinhos",
+                "goals": 0,
+                "api_id": 155995,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 2244,
+                "yellow_card": false,
+                "jersey_number": "4",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CB",
+                "positions_detailed": [
+                  "CB"
+                ]
+              },
+              {
+                "name": "G. Magalhães",
+                "goals": 0,
+                "api_id": 869792,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 4072,
+                "yellow_card": false,
+                "jersey_number": "3",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CB",
+                "positions_detailed": [
+                  "CB"
+                ]
+              },
+              {
+                "name": "D. Santos",
+                "goals": 0,
+                "api_id": 243583,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 16392,
+                "yellow_card": false,
+                "jersey_number": "16",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "LB",
+                "positions_detailed": [
+                  "LB"
+                ]
+              },
+              {
+                "name": "Casemiro",
+                "goals": 0,
+                "api_id": 122951,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 1793,
+                "yellow_card": false,
+                "jersey_number": "5",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CM",
+                "positions_detailed": [
+                  "CM",
+                  "DM"
+                ]
+              },
+              {
+                "name": "B. Guimarães",
+                "goals": 0,
+                "api_id": 866469,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 709,
+                "yellow_card": false,
+                "jersey_number": "8",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CM",
+                "positions_detailed": [
+                  "CM",
+                  "DM"
+                ]
+              },
+              {
+                "name": "Raphinha",
+                "goals": 0,
+                "api_id": 831005,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 747,
+                "yellow_card": false,
+                "jersey_number": "11",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "LW",
+                "positions_detailed": [
+                  "LW"
+                ]
+              },
+              {
+                "name": "L. Paquetá",
+                "goals": 0,
+                "api_id": 839981,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 1642,
+                "yellow_card": false,
+                "jersey_number": "20",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "AM",
+                "positions_detailed": [
+                  "AM",
+                  "CM"
+                ]
+              },
+              {
+                "name": "Vinícius Jr.",
+                "goals": 0,
+                "api_id": 868812,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 595,
+                "yellow_card": false,
+                "jersey_number": "7",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "ST",
+                "positions_detailed": [
+                  "ST",
+                  "LW"
+                ]
+              },
+              {
+                "name": "I. Thiago",
+                "goals": 0,
+                "api_id": 1016907,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 473,
+                "yellow_card": false,
+                "jersey_number": "25",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "ST",
+                "positions_detailed": [
+                  "ST"
+                ]
+              }
+            ],
+            "formation": "4-2-3-1",
+            "substitutes": [
+              {
+                "name": "Ederson",
+                "goals": 0,
+                "api_id": 254491,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "G",
+                "red_card": false,
+                "player_id": 3406,
+                "yellow_card": false,
+                "jersey_number": "23",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "GK",
+                "positions_detailed": [
+                  "GK"
+                ]
+              },
+              {
+                "name": "Weverton",
+                "goals": 0,
+                "api_id": 243529,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "G",
+                "red_card": false,
+                "player_id": 4488,
+                "yellow_card": false,
+                "jersey_number": "12",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "GK",
+                "positions_detailed": [
+                  "GK"
+                ]
+              },
+              {
+                "name": "A. Sandro",
+                "goals": 0,
+                "api_id": 84854,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 51,
+                "yellow_card": false,
+                "jersey_number": "6",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "LB",
+                "positions_detailed": [
+                  "LB",
+                  "CB"
+                ]
+              },
+              {
+                "name": "Danilo",
+                "goals": 0,
+                "api_id": 124992,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 49,
+                "yellow_card": false,
+                "jersey_number": "13",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CB",
+                "positions_detailed": [
+                  "CB",
+                  "RB"
+                ]
+              },
+              {
+                "name": "Bremer",
+                "goals": 0,
+                "api_id": 885197,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 4634,
+                "yellow_card": false,
+                "jersey_number": "14",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CB",
+                "positions_detailed": [
+                  "CB"
+                ]
+              },
+              {
+                "name": "L. Pereira",
+                "goals": 0,
+                "api_id": 358548,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 50,
+                "yellow_card": false,
+                "jersey_number": "15",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CB",
+                "positions_detailed": [
+                  "CB"
+                ]
+              },
+              {
+                "name": "D. Santos",
+                "goals": 0,
+                "api_id": 1064039,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 3877,
+                "yellow_card": false,
+                "jersey_number": "18",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CM",
+                "positions_detailed": [
+                  "CM",
+                  "DM"
+                ]
+              },
+              {
+                "name": "Fabinho",
+                "goals": 0,
+                "api_id": 243585,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 8156,
+                "yellow_card": false,
+                "jersey_number": "17",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CM",
+                "positions_detailed": [
+                  "CM",
+                  "DM"
+                ]
+              },
+              {
+                "name": "L. Henrique",
+                "goals": 0,
+                "api_id": 1035995,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 16393,
+                "yellow_card": false,
+                "jersey_number": "21",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "RW",
+                "positions_detailed": [
+                  "RW"
+                ]
+              },
+              {
+                "name": "Rayan",
+                "goals": 0,
+                "api_id": 1464966,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 663,
+                "yellow_card": false,
+                "jersey_number": "26",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "RW",
+                "positions_detailed": [
+                  "RW",
+                  "ST"
+                ]
+              },
+              {
+                "name": "Éderson",
+                "goals": 0,
+                "api_id": 946888,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 1302,
+                "yellow_card": false,
+                "jersey_number": "2",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CM",
+                "positions_detailed": [
+                  "CM",
+                  "DM"
+                ]
+              },
+              {
+                "name": "Endrick",
+                "goals": 0,
+                "api_id": 1174937,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 606,
+                "yellow_card": false,
+                "jersey_number": "19",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "ST",
+                "positions_detailed": [
+                  "ST"
+                ]
+              },
+              {
+                "name": "M. Cunha",
+                "goals": 0,
+                "api_id": 886363,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 4119,
+                "yellow_card": false,
+                "jersey_number": "9",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "AM",
+                "positions_detailed": [
+                  "AM",
+                  "ST"
+                ]
+              },
+              {
+                "name": "G. Martinelli",
+                "goals": 0,
+                "api_id": 922573,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 452,
+                "yellow_card": false,
+                "jersey_number": "22",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "LW",
+                "positions_detailed": [
+                  "LW"
+                ]
+              }
+            ]
+          },
+          "confirmed": true
+        },
         "social": [
           {
-            "id": 334914,
+            "id": 339757,
             "type": "news",
-            "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOVDFRZVBZRkRlbHFWVDNSTE54eDVVWDh1RzM1aVNvYVdIdG1ubXcwaVBHMk9zVUtFZnNGMnlwdGFnWW5pS3puWnFxeTFYT01NelZTWndnNkN0YlcyZFAyZEo3djFVX29zM3lVWWI0S2c5dFJ0djA5dDBlM3VyeTltelh6TnFaaDRWWGV1bXNPVVc3M041dnpYaHcxc29sSmpXamlwMUZlQWRLam5fQjVDMEdhalNmd3BqckttZDk0VWVYWGdxdmktdTQzcDA1VGY3aUxqa3pRYw?oc=5",
-            "title": "A dream day for New York fans with Knicks on the road to clinch and Brazil vs. Morocco in World Cup",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQaEFPN3NyMG1tajgyLXNUV3JCZ1pfeElOQXBqSzBaeF9YSl9zX3VCUXFFanp1cDJNeTh3YUZVcTRQWGZkUUZHTEFXbkYwaXJYTy1DUjFaUnVqUEplVHk0Tnl0VnBMYmJMbTRJVlU1NXZxYWlyNkFzaWwyN1F2M2RSYnZYNHNkYnBIYUY4TGJydHhlZ1U?oc=5",
+            "title": "World Cup live updates: Ancelotti's Brazil take on Morocco",
             "text": "",
             "thumbnail": "",
-            "account_handle": "the washington post",
-            "account_name": "The Washington Post",
+            "account_handle": "espn",
+            "account_name": "ESPN",
             "account_verified": false,
-            "published_at": "2026-06-13T16:13:57+00:00"
+            "published_at": "2026-06-13T21:13:52+00:00"
           },
           {
-            "id": 338210,
+            "id": 339767,
             "type": "news",
-            "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOTllTTk83VzI3ZXQ3dTY4UmpsLUJsWVN2SzEwSEVmcVp0dXhja3NPLUpFY0phYlMtOURIamRqTUl6UkljWUVHRDMzOF8tYnZRaEM4Ym96MTdoLTRYNkJSdTFDSXBnakZ3a0s3MVNXQ0dMQXpURFFPV2xVY21la3BuMVk5MWdtU3VEQWEyUFVHcw?oc=5",
-            "title": "Betfair Brazil v Morocco Offer | 50/1 for a goal to be scored + £5 Free Bet on any England game",
+            "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxQOWVFYVY4SXRtUUhvQko3OEJrTEdSS1ZPc1pmTWtvOEpxRVhuYzdNWXBoM3JLYmp5ajd1MVQwekdGdlRfZEVySHBWYllmWHZvVnU4WmNjQ3dFaG1jRDFPd0l4TTIxZ3l3V0dSa2wxanRRSUg5TnBEVFIwd0RQM0Y5eVFGVnR0QWpHcWtpeV9uYTZGTlFjREc1TDNrRnhHR1RkQmo5V292QzR2cE03U2Jya1ZkckNwekd1b2FQM2pxc3RNLXBtbzdqSjNOMXJHYTRoeFF3amRHTTk5OUpkdnloWm00eEJVVEJaQmlQRW1oRGVhN2xMTHNxU1ZsMkxEaUNYNHZSWlNDR1YtaVVaTTNwVUVhMm1mREhsMTA1OGtWa3EtTjZoYU9kS09xZmFvWVRGamNvUGJfS2FVdjQ2bUY0WXdrWTZ0R1UzUE9EajZWVnpvc0E2aUd",
+            "title": "++[FifaWorldCup]!𝚆𝙰𝚃𝙲𝙷* Morocco vs. Brazil 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅl WORLD CUP 2026",
             "text": "",
             "thumbnail": "",
-            "account_handle": "live-darts.com",
-            "account_name": "live-darts.com",
+            "account_handle": "web del ministerio de cultura",
+            "account_name": "web del Ministerio de Cultura",
             "account_verified": false,
-            "published_at": "2026-06-13T16:13:30+00:00"
+            "published_at": "2026-06-13T21:13:31+00:00"
           },
           {
-            "id": 333865,
+            "id": 339856,
             "type": "news",
-            "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE5wNnQ0c2Fmd2Z5dWpoM2psV3JHTGI4ZE9RRXZRcFdGbUR2cHlzZ2ozRDQwdlE5Y1BGWE03RlJSR2NVNjZZQ3VDeVZTNVZfaXpRTmF0eDZ0bXNqTnM?oc=5",
-            "title": "🌎 FIFA World Cup 2026 | Match Schedule, Fixtures & Stadiums | Argentina & Brazil Match Schedule 🏆 Jacob Bethell (1jivxyOPa9)",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdVVvZW1Cemk2Wm80QzZ3VTllSFVxelZlNGpYN1FwenB2bWM2VmcwaXkxamw3YUo3SmtHeTd2bVhYWTUzWWxqVnUzTzNvX2dpTGpmdW1fMVlhQWFpZTNVd3ZLMEhFVUhsT3BLMDIyb0FXd1Q3b20ydVFzOENja2V2MzBlTVVHTDZJc01WUGQtX1c1ZTY5T1poNWJudzFhZ1NPbXFmbWdubmFTaVNRTkdTM2k5X2pDYmlldkxj?oc=5",
+            "title": "Lekjaa: Morocco Will No Longer Submit Bids to Host African Competitions",
             "text": "",
             "thumbnail": "",
-            "account_handle": "mshale",
-            "account_name": "Mshale",
+            "account_handle": "morocco world news",
+            "account_name": "Morocco World News",
             "account_verified": false,
-            "published_at": "2026-06-13T16:08:36+00:00"
+            "published_at": "2026-06-13T21:09:09+00:00"
           },
           {
-            "id": 338205,
+            "id": 339755,
             "type": "news",
-            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFBKdi03NnRuT3hQN2Zra0pJTHRONFZaQlNUaHExeTIyT1lLQzUyZDYtaTRWYnlYTVIyMENwU2h1X3JRN2REcEdBR3JDWkxqdUtMMTA4Mll0c1Z6bDB3TjFmZS1NM1lTTWZGNkwzNVNEaUpfUkJyY2F2TlI1X0E?oc=5",
-            "title": "Brazil vs Morocco Prediction: Where to Watch, Kick-off Time and Lineups Today 13/06",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOeWdZaHBjMGZFdUtyTmtrOVd2MzVlYmFJUU5XdUhweHVrWEFtZERzQmU4OVpsUlJDV0tSd0lZNC1zVmxadTBSZk9QTXdkOGNlSUlEZy1fWkNqUUdKVHRtUUpUT0VrSU51OVQwOGtqbkkyYnJ5dUllYmZKZHl6OVZsaGptb1JHYjJGTHpsOEZQbkROZEo4ZGl5ZQ?oc=5",
+            "title": "Why Neymar Isn’t Playing for Brazil vs. Morocco—2026 World Cup Opener",
             "text": "",
             "thumbnail": "",
-            "account_handle": "odds scanner",
-            "account_name": "Odds Scanner",
+            "account_handle": "sports illustrated",
+            "account_name": "Sports Illustrated",
             "account_verified": false,
-            "published_at": "2026-06-13T16:04:51+00:00"
+            "published_at": "2026-06-13T21:09:03+00:00"
           },
           {
-            "id": 338189,
+            "id": 339762,
             "type": "news",
-            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQT24wWnhfd0RBQVcybmt3eUUwU0ZWdnhDMUYzYnd0NEhSdmFWVExkYmV3MGF1cXpBeWxSSFB3WElDM2R2NXl5ZjF3ckY0Nk5yRHFRXzVKd0VKanRzdkhyNTdvUlpsR2pRQmZiX0JYY0RWbllCbEw3OXJKTTREODhNbWs5cUc4YTFLR0V5anBCeFVhVER6cENVUEpmTnFhQWJpN0o5TlVWanpqZmFWU3Q3UVl1OWRaOU4wbmZicnR3?oc=5",
-            "title": "2026 Brazil World Cup roster, schedule: Complete list of players, games",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPcmtmbU1hcFo5ckYtTGJ6Mi1uY3JUSUdnbGVNVUJVRkpQdmtFNXpEZG5mMm52RTloZ2x0UEhIcXRIdjI1emVaQ18yVEZ1a3kzMW03UFN0UDUwczY1RkVDazhMOVI2MzR4ZWhELXFnSHl5TFJTdWE3TEIzbUhjRFl3Q2NQNlVwOXNGNTltYw?oc=5",
+            "title": "World Cup 2026 June 14 preview: Brazil and Germany return",
             "text": "",
             "thumbnail": "",
-            "account_handle": "usa today",
-            "account_name": "USA Today",
+            "account_handle": "شفق نيوز",
+            "account_name": "شفق نيوز",
             "account_verified": false,
-            "published_at": "2026-06-13T16:03:43+00:00"
+            "published_at": "2026-06-13T21:08:03+00:00"
           },
           {
-            "id": 338217,
+            "id": 339776,
             "type": "news",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPNXhyNFNBUnM4eTBmVV9BaEhpX1hEWHVXZ1gwXzFhZ04waExJTGYxdF9QZ0hnaXhfTkU5QWJ0S1FXa1VXYzJJMWtOV3ZSNmg1SnBMdXRpZWlZbGxpRk80QkFXLThIeTJKSnZWOTJ5SFQwTXlmeFgwUGQyWDBJYXNLY2psaU1ZcVdXNnZ0UUQ1d1VIVEJYcTM3eXZiSWxnQmxMTkE?oc=5",
-            "title": "Brazil vs Morocco betting offers & tips: Get £200+ free bets",
+            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT0dTZU9KYXItaGtlc2pzVjZvNE0wdTBjM3ItMVI0R2NHR1dIczFJU2JtRjZUYXNyQVlaUmszZUJUWVAwelNCYllaZV9Dc3NtOG1NQ0dZREhkcElNUk1TZGt6dXN3cHdBN2hfRWtUQ19nN3dIVThNbG1DSnhGRDN0Rng4OWZOaWlrSUwwRGt3NGRpQnI3UU5HVXhTcVM5X1Q1c1E?oc=5",
+            "title": "📝 Ex-Hamburg star and huge surprise: Brazil's line-up v Morocco!",
             "text": "",
             "thumbnail": "",
-            "account_handle": "mybettingsites.co.uk",
-            "account_name": "MyBettingSites.Co.UK",
+            "account_handle": "onefootball",
+            "account_name": "OneFootball",
             "account_verified": false,
-            "published_at": "2026-06-13T16:02:00+00:00"
+            "published_at": "2026-06-13T21:06:33+00:00"
           },
           {
-            "id": 338340,
+            "id": 339781,
             "type": "news",
-            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSlg0bVluSkgyZmRRMUo1Zm9BMjBJc0xrWlF5VlY2NktDOUQ4dW9KMy1McG04aG10OVpsdjhtUnE3NUp5cWstRG9Yb3pxeUlVUDV3Q3d1SzNSUUNNemFSSjBORVNQWVo1U056UENlc1h0b1djVzFNSm5xa1QtMVpuaXlhNzdVaEozcy1r?oc=5",
-            "title": "Morocco Co-Chairs UN Meeting Ahead of Landmark AI Governance Dialogue",
+            "url": "https://news.google.com/rss/articles/CBMi-AJBVV95cUxQb0ZhSGpCNVRaU1FPaVVkN09MYlVybG4tS2xJT0FnQlo1MERTTlJQX0ZHRG42NDEzNnhGd3pXZXF3OTNoR3JwOVozd1Z5VGcza24xV09JclI2VVp3VE9lWGh5VzU3NWlVdUk1T3p5MXY5SzdmQUZCRkthNUlJV2NqcW5yNjYtTFRhWUZ1WHY5S3poc01sLXFWOVBuclMwUHZNTFg4MXlqVXUtUHNsM3lFZDVmX0kwaUpoU1NmNGhqZ0pENWRIQ3E5TXk1bkdrRHI2bmkwMlRod1ZQb0xVOG9HSGhQVEdMVENjNFBsUUptaW5jUWxwcndqN3JndVdmbnVNRVJ4aXFLQm10ZjVLNGRoaDBtSXBaalBJQ1JoNnRlSUhGQUFyWkV3WXdJWjVLdGxyaGlBal9qTXU0Y1EzZDBOeU9aV0NuQjJIam5GcURzSDA1eEJsR1F",
+            "title": "!+[LIVE@STREAMs]FREE!] Brazil vs. Morocco Fox Sports Live Free FIFA World Cup 2026 FOOTBALL 13 June 2026",
             "text": "",
             "thumbnail": "",
-            "account_handle": "barlaman today",
-            "account_name": "Barlaman Today",
+            "account_handle": "web del ministerio de cultura",
+            "account_name": "web del Ministerio de Cultura",
             "account_verified": false,
-            "published_at": "2026-06-13T16:00:39+00:00"
+            "published_at": "2026-06-13T21:06:18+00:00"
           },
           {
-            "id": 338193,
+            "id": 339758,
             "type": "news",
-            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOemxFcXdCT015ZzNaN2RMVFlfMXg5bFRva0lRRG5VRDhhaW4tUWNmRU5hVWtmaVJCTDYzZUMyTzdlS3UxNUdRZ0JnWnFDd1RnRGhFbXp1SlkxaF9KZm40SHBMSUVQem9HQUN1blJNclNFbDQ1WTFKcnZYRTdCRWd0R1NGZXhUNWI4Ui1IWXlyM0VnM3dVNWFxMHIxVThZYjdaaGFEa1hSZlNhNlpnX1A1SUhROVk?oc=5",
-            "title": "How to Watch Brazil vs Morocco for Free: Live Stream the 2026 World Cup",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPdXY5QmI3dVNPOURVRWFNbU1GTG1xUWZBU1pDRnNET2JYTGxjRmxIcnpNYjhzRmxQU3RyR0VVQXlSZktIZ2xUWlJ4TGlNNTdqRzh6RkdoNlpQYWJkcFRabW1hTThaYWpVekcxYlBtRTBLSVYzN1p5cFo3RjBpelRmQnU0ekdsMm1LOHktRFpBTXBxd1U?oc=5",
+            "title": "Brazil vs Morocco FIFA World Cup 2026: How to watch and live stream for FREE",
             "text": "",
             "thumbnail": "",
-            "account_handle": "kotaku",
-            "account_name": "Kotaku",
+            "account_handle": "goal.com",
+            "account_name": "Goal.com",
             "account_verified": false,
-            "published_at": "2026-06-13T16:00:32+00:00"
+            "published_at": "2026-06-13T21:06:09+00:00"
           },
           {
-            "id": 338201,
+            "id": 339775,
             "type": "news",
-            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOcjVvcEdLdTdlUkZVQ0IxenpzSWVjZGRnSnpTMXBxM1NYTFpNZHpfSS0xVmFfYUtHWnJjQW5IWUtEWWwxX1E5ZTFkaGNOanZJaXM2WUNJUm01UHlfLU1CazFLMWRWRzZ0QjdVd2JsYjhoWkRaUVdENGU3dzhkRDgwSGdxQ1R2T0VSaWNxdjBqeUVKUDdpelJxZjNqTzc2UWtrT0FWUU0tb0J2SVpNMnJxMXlvSWlLaFpzSUJaUmp1NWxlZw?oc=5",
-            "title": "Watch Brazil vs Morocco World Cup game: Start time, TV channel, streaming",
+            "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxONVl6Zi1qZzBGMzVlUmt6QTdHaXlkeGgxMkt4NHUxQ3RTaUNEbUZXaHRTOWxyaFpETUw0aXlPOGFWQ0VzWDlBVjJUeE80WEsxVTBwNjJfYjk1aEJDY2tkdzNZWHZybWY5YWVOdWNEN0ZlV01BS2ozd0cxZ1VNazR0Vl9fNXFtR2M0cHB5OEF5NkE1YXBvaFN6eTktRHhxUnlJZ2xrWXM0LUpKWnl3Wko1ekdSRkxnT05KcF9nRDBxN2czNTlmVmFkdDJ5aGdFN1hfVEZIWUFMZ1Z0MDlTSGZIeDZBZTZhRXZpUEs2YTFOdTduaFVjUWE5bTNrYnV3WFA3NUp3ZkZrX0pwVE1sNzZrX3RyWWM1MWdBZHA5QXdOaE1wMlJKR2VsOHBubGFyYTNDU2JPb2stOFRGNDVrTExfX1MwaWF1RkFSVDNhd2NwckZTS1VMZkl",
+            "title": "!+[Here's Way To Watch]\" Brazil v Morocco 𝐋𝐈𝐕𝐄 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ Broadcast 12 June 2026",
             "text": "",
             "thumbnail": "",
-            "account_handle": "usa today",
-            "account_name": "USA Today",
+            "account_handle": "web del ministerio de cultura",
+            "account_name": "web del Ministerio de Cultura",
             "account_verified": false,
-            "published_at": "2026-06-13T16:00:00+00:00"
+            "published_at": "2026-06-13T21:05:39+00:00"
           },
           {
-            "id": 338200,
+            "id": 339782,
             "type": "news",
-            "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQcXo2QjBhYUFOZUczcjA1OThRUHd2aUFsbkNoR2RyeDJFZUxuMXpoaWZDR3JsbVRyTUtGX2UwU3ZRbjVCYXlZcHhwaW5WOElSbS1hNFhJWGtpYVEzM2gzaGFocFRaNURhUUR4Umh5ZHl3OG9LNzQwZVpOU3kwVnJBZHVlQ0RoMnFUbEF0LUppa3FWaDhkWURfXzhtOFpfWXNURzZzTkdFMXBuRWVnUzVnbVRPdUoxUmFpWFVTNVljWTJHd2tBT1gxS3NIYmJPLWgxX2d6MWZORVNYV1pfVlE?oc=5",
-            "title": "Experts release predictions, odds for Brazil vs. Morocco World Cup matchup after Neymar injury update",
+            "url": "https://news.google.com/rss/articles/CBMi6AJBVV95cUxObXZlWjBjaEhJekItYkdOTzlpX3J3WEprVE1pZUtrNEtTeVlpd0RtUDQ2VjRYU2tRVkl2TGhSZmRjTV9aTkE2V1RHQzZZQm9SZUlJNFpjMXlIRndFY0ZhSV9UMGRrZW9XT2lDeEpEb1VxVE5zUndhZkc5V3Vvcjgtc1dHZ19EdHJDQjJGWkwteEZ3bmZKcUF2blJMZ3FtdlNUai1oUUVPb0gyX3h2X3F5dEhnWGhBRURkNmxHcHZzdFZtcUJySUthTVBSMnZZNU9URnNfMHhnMlhYYVZ4NW9RZWZwTk92dmFXa3ZXc1RmN2tEZWxMTFUzUkxmVmdOZzVEUG1ZU25wV2syRmlSVHNnVmM0aEtNRUVNVThVVDRwVFYxWFRCamdmMFkzZlBiVkdIY3prcGpTRlNYaE9FY0xoNldJZEJyS0JzZGsxX04xVXpCUDBpZlk",
+            "title": "~$!【LIVE@STREAMs】 Brazil v Morocco Match 𝐋𝐈𝐕𝐄 ｏｎｌｉｎｅ 12 June 2026",
             "text": "",
             "thumbnail": "",
-            "account_handle": "masslive",
-            "account_name": "MassLive",
+            "account_handle": "web del ministerio de cultura",
+            "account_name": "web del Ministerio de Cultura",
             "account_verified": false,
-            "published_at": "2026-06-13T16:00:00+00:00"
+            "published_at": "2026-06-13T21:05:38+00:00"
           },
           {
-            "id": 338199,
+            "id": 339797,
             "type": "news",
-            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPMWd3ZXJkaElNMzh6OGVqUWktb2xtUkZZTzhZT3hRaFl6SXhtU0JEWnpfNHZyMWRWNmVGU2l0dE5zVHRDVjlfbFc1M2dQUGxRT1pSc2x4VXhuNVUxaUtDMkNkM3A0MkNqVzdvX0JsejZfXzlNNjVpeHdFLV9BWVoyN0dXbHgtclQ3OTZSVnprZjFMRG9HNWlzbFFMTExfRkpzdXl6LXRrX1RfMUVEaHQ1clUzMmg2akF6TnQ4QVBwRU5WQzl4TUNRS2IwdlBsZ2duYjAwcGtlcFd2Zw?oc=5",
-            "title": "Brazil vs Morocco Odds: How to Bet on Brazil vs Morocco with DraftKings, FanDuel, and More",
+            "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNYUVDczgyc1F4SFk3cXctamFfdVNhbG9qRDZKR1dLNFVWY2NxcG1JZFFkYkdhcDFyMFlxTklMemNIYV84UTFtbFVlWHBJM3hOUnI0VWlIZEVoaXhiNmI3QTkyaWY3bFN4dC12V1ZWaXY2S0ljUjFscndmWjdOLWJfbGhGbXA2amNRQktLS1RQTGpPbmdjWEFzbTNjYUxGSWJ2ekhZd3lOWkttZ2MxNWZFeTBMZFB2ZHpiWG82dnJXT2FyOUI2OXFqN1lpZmZlRkMxUmJWQUVwTWVGU2FrWWJqc01FVnZjb3hOLWpoX2FrMNIB9AFBVV95cUxPX1N0eTJtWUt3OXQ1U25KeXBYU2YyUUt3MFVOb19HSlgtc00yNkN5QU9CNkt2NzBOcksxb1Y5a2g1QVZLR0xmREZiVGhacXNHU1FVOTB1UEZyck11dFF3T0U5Q2p",
+            "title": "Why Neymar is not playing today. Brazil give scary injury update vs Morocco | Hindustan Times",
             "text": "",
             "thumbnail": "",
-            "account_handle": "oddschecker",
-            "account_name": "Oddschecker",
+            "account_handle": "hindustan times",
+            "account_name": "Hindustan Times",
             "account_verified": false,
-            "published_at": "2026-06-13T16:00:00+00:00"
+            "published_at": "2026-06-13T21:04:41+00:00"
           },
           {
-            "id": 338190,
+            "id": 339759,
             "type": "news",
-            "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTzZ1ZlM1YlVSeXZLZ2MtVnZ0NUpYcFA0T3RVM1lKaV93enhqUUVYRzJaQjhoNTcyQV9od1RrVWwwRWIzVzU2TmxlRFFnMExIM1k3SnVFXy1oX1ZHRkJocWFKVHRFTzVyVEJzbmY3MEFKUFpKVUxDUmlRWmxCTC1kVWt0QTZTV2E3OHhTZ3VYLVlTN2ZCR3c0dU1UZkRKRWZwS2c?oc=5",
-            "title": "Brazil vs. Morocco World Cup Betting Picks & Predictions – Sharp or Square",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxORUpvT1dMcHJUMEtBNGJuUnJsQ2JJQTZ5bEpKYUFXbm4xd1pOajV2MVBqOUZZQXVTVXFXX0hYRzJsTUNIWmF2NmVRT3VmVEd0S2I2dmdrQ1c5cl9RQ2ZBQk0tM1pkZF83VEpnay0wY3ZJc19oY09GR2ZsbUtBUkF4UFZZNnB4ZGhiakhKQ1lkZzEyVG55S1lWRTAxSQ?oc=5",
+            "title": "How to live stream Brazil vs Morocco: FIFA World Cup 2026, TV channel",
             "text": "",
             "thumbnail": "",
-            "account_handle": "hard rock bet",
-            "account_name": "Hard Rock Bet",
+            "account_handle": "the big lead",
+            "account_name": "The Big Lead",
             "account_verified": false,
-            "published_at": "2026-06-13T16:00:00+00:00"
+            "published_at": "2026-06-13T21:00:32+00:00"
+          },
+          {
+            "id": 339772,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxOeWpUaVphd0kyMFRCM2NMUjB2YUJzU2dJZThMVnNOU014RThRSnVERjJNZldIMUoyRlZ3YktLUEVZUXFiTlBTdHpzQXYxSTNhOVNsV0RTOWs0cWtyaHFuZkl0ck9mSTBqOVlCUThWd0ZtTy1xOWYxbG5zbHViTjVLNTh3ZmFnUmw1SUhLbFRBd1JLYW8wVE1pWngydWxpQXdrRC1sNTByZHdYMEMzVXdpcUhqZTVZaFJqR2p4TWExc3FqeEZsLVE0Y3JqU2dhS2NVRUlxZ05JWnNJTGM4TzJFRWxabVhGekNCejE0V2hJc05xOUVCbVR2Y2N5NXp1ODNFVGE5SlRqaWpRekVJSS11cWJ4MmY5VFZ4b2Q4a1Vvb0MzRDFlU3pIaWU2Mlg5b21GUmpnUllMRnU?oc=5",
+            "title": "+!FIFA™)HERE’S! WAY TO WATCH Morocco vs Brazil Ｌｉｖｅ Ｓｔｒｅａｍ ON TV CHANNEL",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "web del ministerio de cultura",
+            "account_name": "web del Ministerio de Cultura",
+            "account_verified": false,
+            "published_at": "2026-06-13T21:00:29+00:00"
+          },
+          {
+            "id": 339868,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQ09KYVBycDZ3SG9YMTMxQUx0U1dSTmlRczIwcDhfSjI5QU5ZX0syWFM3V19fT3kzQXVRVGd6VHY0RG5DMDBYcm1ablVsTXB0Z01WYlRXcmc3LVpuamY2VDVxb2poV1I2ZVI1SzJDaFNLWmYwbjJxMFJiMEgzX2JGSTNrbEtFbWNFOUZaY3dwbmFvMjlwSHBvetIBngFBVV95cUxOdEU2aEdIMDNhSk5vcmZ0VzllQXVMZUp4MzR1d0ZFMXBBcWFRcUlkVVc5YWdSV2lLdTJTaGFXWlFUbkJtU1NyM3lJYVNwNGV6YnNmWUkyOUx1UF9Yd0ZiYUVsY0FFMFlRRlcxVlU2UVdpUW0yaHJ2VFhaTE52eG9PRmlFZTFGdlNMdERVcVczRkdKM1J3ZzV6ME9NRVlqUQ?oc=5",
+            "title": "Why Neymar isn't playing in Brazil's World Cup opener against Morocco",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "metro.co.uk",
+            "account_name": "Metro.co.uk",
+            "account_verified": false,
+            "published_at": "2026-06-13T21:00:00+00:00"
+          },
+          {
+            "id": 339770,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxQMEtucVkzcTlUbFR4cDdtSEZLZXJhUHJVUlVueU5QS3J5MEJwTXBZQzh0dUVoQUQwcS1BTmhjc29CUGxLWUpJbWg1SVJ2d2xaWEFjMFo0Z0xGakc3MTVmcGxYTDZCcFZTWEJ1S3g2VUZaQmlmOEdZTXdRMVZfeVZoNERqcmdhQTRNMTM3S29KNVVwYmlQS19IV2ptZEJLME51eE9qeWw2MFdBR2VQaEV4cVVLZGJuazBLdmc0bUx1QU5MamJOMFBzcFdNQnEzdzZGT3ZOZkxFVkV5aHdDbEEzeXVlUWJ3MWxLcnpSWVRVcFVmVXlRZ0VSOFVoR2Z5Sm1SSUpsSE03N21Ha2dNekVZNnQ0YUVXWmNSNjZnS1d3Q0VVVzI2bkhfMHJXcDRtS2Vodl80V0lhREc?oc=5",
+            "title": "FIFA: Brazil vs Morocco LIVE | Watch on ESPN",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "web del ministerio de cultura",
+            "account_name": "web del Ministerio de Cultura",
+            "account_verified": false,
+            "published_at": "2026-06-13T20:59:20+00:00"
+          },
+          {
+            "id": 339780,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxPeXk1ZDFKNl9OVGVuU0lOZzhwZTh5TnVDcnlCX2dkU3lua19SUTZzcnJHZmc1aXdlSlFzcUZ4dndjOV9SYzF2Q2RhS1dDRVQzLTF0UVFZc3NlODRFZ3NBYmROZi1MYy1jU0hGMjZ1YjdVVHFPd1k2UFFZZmFVQU5tUlI0WDZ6XzFRUFlJT1EzeGR0NXE0OEpQUnVLN2lHV2xhM2REOXZpOERPRUJFVk1LY0xOOHZicUlZbW13bV9JR0I3b2RGN0w5WWV4a0lxNnItNTI4dUUyUnJ0Uno4SnZqeEw5ZWs5OTUtNG9ackg1T1gxdnRId2g3ajh5VjdDTjlrUXVFYWtNQWtQTk5TZ3BmYktCQVctWkQ3TU5BbWtsWDlYRk5NYm5XQkJBUlA2RjViOWctV0NJNHg0R0s5WFljR0RMYXl3Ykc2Y2ZJTTFnRWhESzE2V3k",
+            "title": "【LIVESTREAMS】FREE] Morocco vs Brazil LIVE Coverage ON TV Channel 13 June 2026",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "web del ministerio de cultura",
+            "account_name": "web del Ministerio de Cultura",
+            "account_verified": false,
+            "published_at": "2026-06-13T20:59:17+00:00"
+          },
+          {
+            "id": 339791,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNV0xMd0N0OElwclZWSFhwN1lOSEprbHYtLVlqQ25YY0wyVlZ2ZV9pcWdBLVh0dFk1OHNTTWtmeHJNTnRKTTFEOWp0dWZPaDY3cjR4U0otODBHb3ZGdzZmb1E5TXlCYkh0ZU1fQWtielRydzlEU0NOSlR3ODVOV21lbmxVTHhSX01rc2p0UU1icFc4ZnJHaGhYUmdPM181cnpWU0JpRWtyLVJGX1B2aXhQS2pwbzZVMDRUWk81VTEzR2ZfdVBodDhnM3NlQ09aU2gwaWVMUHZhOTNEaXN4QzJXMVJVVUt2MTJZblNpVGw3UjJWQjlXMEo2OU9Ld2pQOEhOeU1mQmVsQzlKT1RiRlBYS1ZUMW9udkF3bFBDTnJPSXgtdnlZUlNyWkd1UkhiOTdzSHdMVzRmV19UbmZkZkRIT2FIMWpWejNNMVRhNFlxYUs2ZkhRNzB",
+            "title": "[WATCHLIVE]SKY!] Morocco v Brazil Live STREA.Ms FIFA World Cup On 13 june 2026",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "web del ministerio de cultura",
+            "account_name": "web del Ministerio de Cultura",
+            "account_verified": false,
+            "published_at": "2026-06-13T20:58:55+00:00"
+          },
+          {
+            "id": 339771,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi9wJBVV95cUxNaW42TEN6eVJxQUQ5TURjT1hUWk5QTEtJLUdmOEdmbnpRZFB1WFI1OEl1U2Q1czg5RGNiT2Y5UjRKX29JVTdRZVpRZ0FXV0poRWwtbklRNG4tT2t6cDk4bXYwNDU2UzU4OWd6UXk1M3FEcURwWkxkNzAyWHFNR2JzVkxFajRaLVR0LU04NUVtS3E0clFIWlExNUNEMFRZa252WUE0dS03LXBMbXMtUmhJclk0bE9NeDdQa2N4ODl1Q3d6MjdXd3pRSFJsWldHNVlOWFZyTDRBM25KZE45UWM3Z0QxSUdKY1M4OFRxQlVlOFNjamZyVW5GQU0zZzlJZGh1MFEwOXhjMGdlMURERWlVcGdJNzQxZDJ4UmlaeEpDSnlFUWMtakRfcXZJcVR4dVFXVkFrU1o5WVRId3BNSG5WS2t3UEhjWE11RzE1dE41TDFEYzhpN0p",
+            "title": "[𝐒𝐓ream]HERE'S*! WAY TO WATCH Morocco vs. Brazil - World Cup Live Free FIFA World Cup 2026 FOOTBALL 14 June 2026",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "web del ministerio de cultura",
+            "account_name": "web del Ministerio de Cultura",
+            "account_verified": false,
+            "published_at": "2026-06-13T20:58:20+00:00"
+          },
+          {
+            "id": 339763,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQWElOV3dpUk8wbzhfYjE4ajBjMHZiZEVLUDZKZG9oaE4yOHRXdEVwTEh1UUhIWTBrMTN4OVFMZ0tTcEVFQXk5bWg4TG9yVmxXbFdvSFA0WFUzR2tpMUhEX3ZQN1EwQTlOYXpaTzZLRkJhVVN1MkkzajI5LXI5Z21kUHlja0pwc3MtY2hFTkF3bmRQRkF4Z2d4T2xaWURlMDMwSHRDTW1GVXJjRjRtWmd3WWtRa1pzb3I0RnZycXRhRHBYVUx0blFIeGs1M2tkQUU1YmZ5a2dpT1Y0Q242MEJBVw?oc=5",
+            "title": "Brazil XI vs Morocco: Starting lineup and confirmed team news",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "london evening standard",
+            "account_name": "London Evening Standard",
+            "account_verified": false,
+            "published_at": "2026-06-13T20:57:34+00:00"
+          },
+          {
+            "id": 339751,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTm5IVHhsZ25tZzdkZjhwTU9QaFRBLWl3QjMxRjZETFJVa2NFQ2tyRm5kOG9UZUNUV2xOeWRJNmNvaVpHQWd4QTJoR1JsbEo5Mm53YUs0QWhmWXdyQkhyRmdXQ2ZhRDY3UEhlRkNLQ0M0aTQ4ajZZQjltUFVla0NMaUg0bnBIT1Vtb2JQWmFWR0RXRjUyaS15SzBKQXEtTnIyVmdzM3lYUkdFR2RP?oc=5",
+            "title": "Brazil Lineup vs Morocco Confirmed for World Cup 2026 Clash",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "morocco world news",
+            "account_name": "Morocco World News",
+            "account_verified": false,
+            "published_at": "2026-06-13T20:57:01+00:00"
           }
         ]
       },
@@ -5963,7 +8063,248 @@
         },
         "head_to_head": null,
         "lineups": null,
-        "social": []
+        "social": [
+          {
+            "id": 339847,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPYmdqek53NmYtLUctbm5nbnRYMFg0NmtRODlCTE5wTXZ4SXRQU19MeTFMUThYeld0SGQ2WHFiU3hSRXkydUhhWl95WkFVSkFwUG1PcEdsR09HR1RNeG5xQUJKSHhPV0NiSm5MYWlsUEVzeHFVZkFfODdHa2tfalBpbkhnaDI3ZndXSWZCWG5xVVNpd3VJZ2hGUWdUdEhUbjhGTXRUZjh0c0FqN1IzWWVySTF3aG5GRjZHQmJxOVdiZnZid3QxdDdkYV9ObU02ejJicDI1Q3dZXzNpUQ?oc=5",
+            "title": "Andy Robertson, Scott McTominay, John McGinn: Who are Scotland's top UEFA Champions League performers?",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "uefa.com",
+            "account_name": "UEFA.com",
+            "account_verified": false,
+            "published_at": "2026-06-13T21:13:45+00:00"
+          },
+          {
+            "id": 339846,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPMWdOcmF2U2RBNFNmU2pwU2ZTQnROMXNCTWU1Yy1kS2RKamdhVU5jNTFpcVczVkhkTVBmTV94ajgxUTVoQlppZDRrRnpzdzhXMWYxUkhsaUlrSGlkNlF5M3l5OFdOZ1U4djlZc2xQUHVrYjVGSk8wQ1dZaWxyVFVDS0hwLW1fWHNzSDVpazllYzNKU3VkY01XRktIMlFvbHNHWDN0V2pYXzlRUDR0VmRaZmdYYW5ZVFVqNVhQSmFCR0VmMG9zMEYzRHJTNjllcm10TVZ3OWwyNUFBTEdsWFp1TQ?oc=5",
+            "title": "World Cup 2026 today June 13 as it happened as Scotland, Brazil prepare for first matches",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "espn philippines",
+            "account_name": "ESPN Philippines",
+            "account_verified": false,
+            "published_at": "2026-06-13T21:13:28+00:00"
+          },
+          {
+            "id": 339848,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5Ia0FXamJMRkM0MS1SWlRKWWNidzBkM3phWUkxQTdhVVhEQTdDVnRqQjY1cDhDTkVIVENuLWhxNlIxblo3TVlIUU5XRWI3ajFHbl96ajdsd3RWdGhqQ0IxVlVmaF9wTEM3bzRkRWJkMDBMSDhPNS1HcXcxUVczQQ?oc=5",
+            "title": "Rod Stewart parties on private jet on way to watch Scotland in World Cup after cancelling show",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "yahoo life uk",
+            "account_name": "Yahoo Life UK",
+            "account_verified": false,
+            "published_at": "2026-06-13T21:07:53+00:00"
+          },
+          {
+            "id": 339853,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPcU9Lb1M0V01OVG4tbkZreHNGSWxPX3VvMDM3V3JuRkgtR0JYNjdNUm1iT252Zl9rTWxVV2ZnWWZBT05HQ3MyU3N3WURkOTFZM1pmc2JRbFl4WGtvS2pjVEFPX01JX1BxLXRncXFCa3pxWlNfWnNVR3duWllsOFdCTGV3UFRxM2pKQW9oMEZHcDbSAZYBQVVfeXFMUHUtUkxtcnUwRGI2R2ZDYVhMX0xaT0tTSjY4N3Jpb0JldHV1SmY3ZS15NGhBdFVNNF9WaGZFRnUxbU9XOENLWTFPQ0VtTmtUUnNrWS1tTTlJTTRfYVRFcEt0RUZ4akJHU3VzSFd5cnpDMTh2Yy1LSG9XNE5YSGZtVWRSUHZwaVQ4RU1wbVI5QU95NnFrTU5n?oc=5",
+            "title": "Rod Stewart jets to Boston for World Cup as he says 'I'll die happy' if Scotland qualify",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "daily record",
+            "account_name": "Daily Record",
+            "account_verified": false,
+            "published_at": "2026-06-13T21:07:00+00:00"
+          },
+          {
+            "id": 339850,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNazhjVnZYYUNHRm53ZlFpbGJ2UTE1YjdESkRBMXM3SE1RSk43NERhZC1yMmNxYTgyeUpJOFloNnRjQmk1amw5cWxqR2wxSC1yWEQtRHMyVUtYNlF5OWtibVpGc1d4VHFiOE16SHpKMDhCZF9zTENnNjEyNjVSUl9Ca1pmU2NuaVY1RmFldlRoR28tUU1fUXc?oc=5",
+            "title": "Rod Stewart parties on private jet on way to watch Scotland in World Cup after cancelling show",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "the independent",
+            "account_name": "The Independent",
+            "account_verified": false,
+            "published_at": "2026-06-13T21:07:00+00:00"
+          },
+          {
+            "id": 339734,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQZVQtNG5DbkhXUjRJUGlSZXNacUdWNDlLVkI4MlFWUEpueGZxVWNSU2hJTHJuanJscm9pVHkxRTkzNDVQOHVoMW5SOEhUT0R0SjlKXy1uSVpiclc3cGFMTzIxb0J1R3NXZkZNY0NoaXNCY2ZDRE51RTEzZ3pYcmRCSTJsQlhzcC1feWQyU1V1QTBmdnlsUmFTX3RpSWQ5VVV2ek4tc1dUbkVxV0I0c3J3N2V2ZVlhMDJ4Nld1UXNQTnpBQUFjZl9mTjFNY3l6dmtaakROSHhCTXVTV3p5VlJr?oc=5",
+            "title": "theScore Bet Promo Code GOALNEWS: Get $1000 Bonuses for Haiti vs Scotland, World Cup 2026",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "goal.com",
+            "account_name": "Goal.com",
+            "account_verified": false,
+            "published_at": "2026-06-13T21:02:05+00:00"
+          },
+          {
+            "id": 339733,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE0tLVlWQnJ1elc1ZFBOYmQ4TnVkcFpqZG5LTUUwN2dJUEpERG5ZUG9WZXU3TkVQSXVmTEt3cTF1YVdIbjBLWF9CNnhDS0xPbWlhaGVXVTNra2RmMDZwTl9lXzZ3ekZ5WVFlUXZaRw?oc=5",
+            "title": "Armed gunmen kidnapped Haiti security chief James Boyard in Port-au-Prince",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "mezha.net",
+            "account_name": "mezha.net",
+            "account_verified": false,
+            "published_at": "2026-06-13T21:01:55+00:00"
+          },
+          {
+            "id": 339743,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQekZGQnE0VGxyQXJWdGg1Y1UtUDVKLVY5d28yQW1LR19sYjNoYkFYeGRnM2c4dl9YTGZmeUVKdWVaTnNsb2NDSHBHc1pyZGF2UGlkdEEwV1VKNjJmOW1NTFBrUnM4LVZwQmdpYlJ1MS1OTmw1Y3RJcXliTVVCOUNUeUNpQ3MwcjI4cjBTdF93OW16ZDd4RFZmWlBrbVo2V0Nra2ZxOEVxWUVxbnZWMkE?oc=5",
+            "title": "Haiti vs Scotland Predictions, Lineups, Odds & Tips: A triumphant return to the global stage",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "goal.com",
+            "account_name": "Goal.com",
+            "account_verified": false,
+            "published_at": "2026-06-13T21:00:22+00:00"
+          },
+          {
+            "id": 339742,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQdmVxS1VyZHZMSFFxZTlrU0hlcXllc2hBaGVZV3RqeWoxanYzM1BsMVdXb3Rwa2lHcVYzR1Q3NEM2dm1OUzNWS3FydVQ0Yi14STRfNnc4N3Y4akZEZWRFTXZ3eVc5T19kcDlIX1ZZbFpsRzlEXzM4YjN0NDNwTzNSVE10NUhvd0pNR3lkMmlyTllaTVVMdF9LbUd0V3Fud1V1RnF6LXB1bTQ?oc=5",
+            "title": "Haiti vs Scotland TV channel - how to watch World Cup clash",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "manchester evening news",
+            "account_name": "Manchester Evening News",
+            "account_verified": false,
+            "published_at": "2026-06-13T21:00:00+00:00"
+          },
+          {
+            "id": 339727,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNm0tTmFwVU9nTlZBb1hTeGhSbmRwRWZUQ1E4ZVZDakpJWlhPc1ZyZzI5UW5XMlZ3bXRtdFR2eTV1SEtFU0VzWTRzV2xzcmxpTjFyREFiNUg2Yi1BaW9vOXNCdkVTeTBNMEtwd1c1aVd6V2xMdVk4MktZRkpnZ1JxU2J1UjFrMV8wRmE0VzVZWW51MHM?oc=5",
+            "title": "How to Watch Haiti vs. Scotland on TV, Live Stream—World Cup",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "sports illustrated",
+            "account_name": "Sports Illustrated",
+            "account_verified": false,
+            "published_at": "2026-06-13T21:00:00+00:00"
+          },
+          {
+            "id": 339732,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQzFMMElhZ1F4MmRSdE9raXM5aDdrQzNfei12czY0N3JOc0NHSWt0V3J1OEdTYk9xQ0l6UEllQjlIVktIYWN1VlFSdk8tbS05X2MwRzRmcnl1Wlo0X0xGZlRsME1SbTVxOUZuT1NaRThjME1CWmZoYjlnUzFobFI4d2JjQWpRSFRCRVJvU1VhYlRZR0dmSGV0NkN4YU5ROV9vNGJFeUZnbU42MkdsMzdJNkpaeEwycHpHbUZOLWFB?oc=5",
+            "title": "BetMGM bonus code NYPNEWSGET: Get up to $1K in no-sweat tokens for Haiti vs. Scotland",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "new york post",
+            "account_name": "New York Post",
+            "account_verified": false,
+            "published_at": "2026-06-13T21:00:00+00:00"
+          },
+          {
+            "id": 339738,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbi1EaGI3LU5Ed0dOTzdWUXhGLUdOcFRXOEJRTkhmZkg4Mkt3c1JKM3pBUGlmVTJfRnhXWlNfLTE3eERmN3BTVTJ6SzEzWnh5al8yRVA3NzVnRE5fRzZLNGNaV3FxamhUMFRRYTJMNzlhNEpITzdZRmMwVFQwMzcySGdSZHVkd2J0UVhJU0JR?oc=5",
+            "title": "How to watch Haiti vs Scotland: Free streams & TV channels from anywhere",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "techradar",
+            "account_name": "TechRadar",
+            "account_verified": false,
+            "published_at": "2026-06-13T21:00:00+00:00"
+          },
+          {
+            "id": 339740,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQTUZwd3N6VEQ0dC1QNlZWTl92dVE0RmtyaFd0ZmJRTnY3Z0duUFFOcHczYkRqLUY0TnBBN0dCVG9FeW03UjJJNUVSMTF1bW1lSG5vak1sekZPeC1GSWVNYWFnX3E3MFBXZElVblR5SWNwYWIwRmlDS2JGaEVMMFFqYkRidmxMUEpybnc?oc=5",
+            "title": "Reason Scotland are not playing in blue against Haiti at World Cup explained",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "the mirror",
+            "account_name": "The Mirror",
+            "account_verified": false,
+            "published_at": "2026-06-13T21:00:00+00:00"
+          },
+          {
+            "id": 330718,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNN2R6XzBnVkEzSmxwT2xjRm5OZXFtQTVFUnZrMkpPUUdfbWF3RnJRY3RkRnpMMFVOQUJQclVRNVRwUDl4NEZnT0xmY2NuS182Z01wM21ZNUlkUE5DZVBJMG4xNElhbE5vSmlicVYyTDJzMzlQRGRFTndxSkg3TGNMS0cwQUt3V0QxZUxKYm5pVUJicXp4ZkNtNGdBTURoTWhuSkxRMnduMGM?oc=5",
+            "title": "Haiti vs Scotland Prediction, Betting Tips, Lineups & Odds | 13 Jun 2026",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "sportsgambler",
+            "account_name": "Sportsgambler",
+            "account_verified": false,
+            "published_at": "2026-06-13T20:59:30+00:00"
+          },
+          {
+            "id": 339735,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNeC1uR0lPa1o4NVJBMUtCS0J0YTRNYTU1RHJtZUtpckFQbnFRcy04TkxaRVlaM3dwVWhyVmFFYWlIMHU5S1BRQTJiZnVBaVhQbTBPU3JCdWVEUjJjR3YtSVhLc04teVg4QTBoamNVYW1qa3pDczloWDFxekxEeW1obW1pLXA0dUc1dXBYUF9zUFBWN1RORXcxSU5CeDUzT1FMaWxuNnpKdkItWGFuYTVpUVpBaW9kUl9oYnBrZndWUlpkSDN5OGdyRHZCeVhTcUMtMWdiMnBvMjFaM3M?oc=5",
+            "title": "Tens of thousands of fans are en route to Boston Stadium in Foxborough for tonight's Scotland-Haiti World Cup game. Follow live updates leading up to kickoff 👇",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "facebook.com",
+            "account_name": "facebook.com",
+            "account_verified": false,
+            "published_at": "2026-06-13T20:59:24+00:00"
+          },
+          {
+            "id": 339739,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT3luelBVM25Ubm11S01wMGNZdW85Mk9RLXBDZ2xxQWxFZk5pbGpLZVJOMmREN2RZdHBIRXJ1eGhETVF4eDcxZkE4M2xHbHNtT2FzWTZ5ZEMtbHhZMTlzX2pCS1R1WkswSW5ZdjVWcmtIVDhBUUtOMUo1OWZMd1dxSXhHZ3RaTFA1a25DOGhwSjFIQnlxc21MLXpCNGVfZw?oc=5",
+            "title": "Where in London can Scots watch tonight's World Cup match against Haiti?",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "london evening standard",
+            "account_name": "London Evening Standard",
+            "account_verified": false,
+            "published_at": "2026-06-13T20:57:38+00:00"
+          },
+          {
+            "id": 338350,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPeDZfOUJuZW5GRTZWOE9zOTR2SVViUnlDVUhsTVJMak9jV3E1T2tFeWd3ZkI3ak9BaHV5Vk03bW1xV3dCWDI4Q0stRGM1Qzd5bUh3Z3hIOUdMbHRyYUs2aTNsd3NMRWZQNl93SDR5clhCZ3liT25ONTBpQTFhSmtJdDZ3UDRUcFBWcjNWVjUwM2xuZDNxc2VtX2N2UQ?oc=5",
+            "title": "FIFA World Cup 2026 – How to watch Haiti vs Scotland on TV and BBC iPlayer and follow across the BBC",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "bbc",
+            "account_name": "BBC",
+            "account_verified": false,
+            "published_at": "2026-06-13T20:56:51+00:00"
+          },
+          {
+            "id": 339731,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNNzdGOXFIaU1NRW5QQVpQTGJLSVZWOWpVb0NBTjN4QXJOb0tJU3lOYWktWXRSUHpWWnptQTdMdml6VnpJRFBJTnF2LTQ0azU2YVc1aThvYXVuVVVzeWJqOGlhMlUzS3ZtUjEzdUJhajVpRGtfWEVCY3ExaGdQeGpaeGh2eWN3RmtUY3B2cmI2V2dDXzdfcktYVmMwRnd3NzdITkszbE1uZEZXdUJ1V1pJVmE1dzhHNzQ?oc=5",
+            "title": "Soccer-Haiti fans pick up the beat as 52-year World Cup hoodoo ends",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "msn",
+            "account_name": "MSN",
+            "account_verified": false,
+            "published_at": "2026-06-13T20:56:02+00:00"
+          },
+          {
+            "id": 339851,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOTW9wdGV1cVVUZnR6ZHBYSFdZbV9EQkNjUkY4TUlxQ0s4YVphLUNLOHBQYTlNcDZHbzg1TXo2VEhNS1BnRFI2RkZLbmN6bkZDdEtha2oxSnppT2RaNFdrbUZUTlZMR3JQTGlhT0U5UHg1UmFObVQ5eWljUW5mNG9fZHhRN05Edk1Va3VXYjZGUW5BbE83bUc5WXZBS1FIQ0taVkZJX05pcl9hZw?oc=5",
+            "title": "Boston cop mobbed by Scotland World Cup fans after spontaneous show of soccer skills",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "hitc.com",
+            "account_name": "hitc.com",
+            "account_verified": false,
+            "published_at": "2026-06-13T20:55:10+00:00"
+          },
+          {
+            "id": 339726,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQQ0dmVkRnMnBRaU9ZMFVPcDN0RnRGQmZSTXhnU3YxajF6SmtyVHpjeGpkU0thVjdVcHY4U25FTFNpTWRQMTc2UlNJMWgyMWktOWJqbFAxQkVIQWRDckJVWVM3aW1nUmNXUURjb2ptSnRxRTRSOW1EcHN0OTNBTlBVQzRIbzZvdUhEWG51aWFpSG5UNWNRSndIOXYyTWs0MVFyWUNWbHhOMy1PZXRKdjNTNDQ0MktRT0dLU215SVo2MHZkYmRSZlAwV3VxX0JfRmFhUVFnWGpLeXhwdw?oc=5",
+            "title": "Haiti is making its first appearance in the tournament since 1974. Scotland is back for the first time since 1998.",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "facebook.com",
+            "account_name": "facebook.com",
+            "account_verified": false,
+            "published_at": "2026-06-13T20:53:04+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
@@ -15021,7 +17362,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Vila Nova rolling into Cuiabá looking genuinely sharp** — the visitors have won four of their last five and barely broke a sweat doing it. 🔥 This is a stark contrast to the hosts, who've been more hit-and-miss lately.\n\nCuiabá showed some life at home against Brasil but then got stung by Náutico on the road. Vila Nova, meanwhile, keeps grinding out results with a sleek defensive setup and just enough firepower up top to make it count.\n\nKey storylines:\n\n- **Vila Nova's away form** has been the real headline — three wins on the road in their last five speaks to a team that doesn't get rattled\n- **Cuiabá's home comfort** will matter, but Marlon and the back line need to stay sharp against **Dellatorre** and **Marquinhos Gabriel**'s movement\n- Both sides prefer to keep it tight defensively, so expect a **cagey, low-scoring affair**\n\nExpected lineups:\n\n- **Cuiabá**: M. Carné, J. Basso, Marlon, R. Rodrigues, N. Paraíba, Raul, C. Costa, Railan, D. M. d. S. Arcanjo, Hernandes, V. Peixoto\n- **Vila Nova FC**: H. Leite, Higor, P. Romano, C. Marcelo, Elias, R. Lima, Willian Maranhão, Janderson, Marquinhos Gabriel, G. P. P. Lemos, Dellatorre\n\nBest picks:\n\n- **Total Goals Under 3.5**: Under 3.5 goals\n\nPrediction:\n\n**1-0 Vila Nova.** Slight edge to the visitors on form and road poise. 🎯",
+            "generated_at": "2026-06-13T20:45:24.332657+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-06-02T13:52:48.204225+03:00",
@@ -15254,7 +17598,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Vila Nova rolling into Cuiabá looking genuinely sharp** — the visitors have won four of their last five and barely broke a sweat doing it. 🔥 This is a stark contrast to the hosts, who've been more hit-and-miss lately.\n\nCuiabá showed some life at home against Brasil but then got stung by Náutico on the road. Vila Nova, meanwhile, keeps grinding out results with a sleek defensive setup and just enough firepower up top to make it count.\n\nKey storylines:\n\n- **Vila Nova's away form** has been the real headline — three wins on the road in their last five speaks to a team that doesn't get rattled\n- **Cuiabá's home comfort** will matter, but Marlon and the back line need to stay sharp against **Dellatorre** and **Marquinhos Gabriel**'s movement\n- Both sides prefer to keep it tight defensively, so expect a **cagey, low-scoring affair**\n\nExpected lineups:\n\n- **Cuiabá**: M. Carné, J. Basso, Marlon, R. Rodrigues, N. Paraíba, Raul, C. Costa, Railan, D. M. d. S. Arcanjo, Hernandes, V. Peixoto\n- **Vila Nova FC**: H. Leite, Higor, P. Romano, C. Marcelo, Elias, R. Lima, Willian Maranhão, Janderson, Marquinhos Gabriel, G. P. P. Lemos, Dellatorre\n\nBest picks:\n\n- **Total Goals Under 3.5**: Under 3.5 goals\n\nPrediction:\n\n**1-0 Vila Nova.** Slight edge to the visitors on form and road poise. 🎯",
+          "generated_at": "2026-06-13T20:45:24.332657+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-06-13",
@@ -15675,7 +18022,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Netherlands fancy a fast start, and Japan's in-form squad isn't backing down** — this is a proper Group Stage chess match with contrasting styles. 🔥\n\nThe Dutch come in patchy (one loss to Algeria stings), but they've got continental pedigree and a fully-loaded midfield. Japan, though? Four wins in their last five is no fluke — they're building something special and showed they can nick results away from home.\n\nKey storylines:\n\n- **Van Dijk and Gravenberch** anchor a slick Dutch midfield that should dominate possession, but Japan's defensive shape is disciplined\n- **Kubo and Kamada** will hunt transitions; if Netherlands get sloppy on the ball, there's real danger on the counter\n- Absence of **Itakura and Tomiyasu** thins Japan's defensive depth against Gakpo, Depay, and Malen's pace\n\nExpected lineups:\n\n- **Netherlands**: M. Flekken, J. Hato, V. van Dijk, M. van de Ven, J. Timber, R. Gravenberch, F. de Jong, T. Reijnders, C. Gakpo, M. Depay, D. Malen\n- **Japan**: Z. Suzuki, T. Watanabe, H. Itō, A. Seko, Y. Sugawara, K. Sano, A. Tanaka, D. Kamada, K. Nakamura, A. Ueda, T. Kubo\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**Netherlands 2–0 Japan**. Dutch control the tempo and convert chances; Japan stay compact but lack the final punch without full roster depth.",
+            "generated_at": "2026-06-13T20:45:33.151197+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-06-02T13:52:48.818421+03:00",
@@ -15877,7 +18227,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Netherlands fancy a fast start, and Japan's in-form squad isn't backing down** — this is a proper Group Stage chess match with contrasting styles. 🔥\n\nThe Dutch come in patchy (one loss to Algeria stings), but they've got continental pedigree and a fully-loaded midfield. Japan, though? Four wins in their last five is no fluke — they're building something special and showed they can nick results away from home.\n\nKey storylines:\n\n- **Van Dijk and Gravenberch** anchor a slick Dutch midfield that should dominate possession, but Japan's defensive shape is disciplined\n- **Kubo and Kamada** will hunt transitions; if Netherlands get sloppy on the ball, there's real danger on the counter\n- Absence of **Itakura and Tomiyasu** thins Japan's defensive depth against Gakpo, Depay, and Malen's pace\n\nExpected lineups:\n\n- **Netherlands**: M. Flekken, J. Hato, V. van Dijk, M. van de Ven, J. Timber, R. Gravenberch, F. de Jong, T. Reijnders, C. Gakpo, M. Depay, D. Malen\n- **Japan**: Z. Suzuki, T. Watanabe, H. Itō, A. Seko, Y. Sugawara, K. Sano, A. Tanaka, D. Kamada, K. Nakamura, A. Ueda, T. Kubo\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**Netherlands 2–0 Japan**. Dutch control the tempo and convert chances; Japan stay compact but lack the final punch without full roster depth.",
+          "generated_at": "2026-06-13T20:45:33.151197+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-06-13",
@@ -24565,8 +26918,8 @@
             "capacity": 68500,
             "latitude": 37.403,
             "longitude": -121.97,
-            "pitch_x": null,
-            "pitch_y": null,
+            "pitch_x": 105,
+            "pitch_y": 68,
             "built_year": 2014
           },
           "incidents": null,
@@ -24763,8 +27116,8 @@
           "capacity": 68500,
           "latitude": 37.403,
           "longitude": -121.97,
-          "pitch_x": null,
-          "pitch_y": null,
+          "pitch_x": 105,
+          "pitch_y": 68,
           "built_year": 2014
         },
         "live_stats": null,
@@ -37448,8 +39801,8 @@
             "capacity": 68500,
             "latitude": 37.403,
             "longitude": -121.97,
-            "pitch_x": null,
-            "pitch_y": null,
+            "pitch_x": 105,
+            "pitch_y": 68,
             "built_year": 2014
           },
           "incidents": null,
@@ -37643,8 +39996,8 @@
           "capacity": 68500,
           "latitude": 37.403,
           "longitude": -121.97,
-          "pitch_x": null,
-          "pitch_y": null,
+          "pitch_x": 105,
+          "pitch_y": 68,
           "built_year": 2014
         },
         "live_stats": null,
@@ -53603,8 +55956,8 @@
             "capacity": 68500,
             "latitude": 37.403,
             "longitude": -121.97,
-            "pitch_x": null,
-            "pitch_y": null,
+            "pitch_x": 105,
+            "pitch_y": 68,
             "built_year": 2014
           },
           "incidents": null,
@@ -53804,8 +56157,8 @@
           "capacity": 68500,
           "latitude": 37.403,
           "longitude": -121.97,
-          "pitch_x": null,
-          "pitch_y": null,
+          "pitch_x": 105,
+          "pitch_y": 68,
           "built_year": 2014
         },
         "live_stats": null,
@@ -68207,8 +70560,8 @@
             "capacity": 68500,
             "latitude": 37.403,
             "longitude": -121.97,
-            "pitch_x": null,
-            "pitch_y": null,
+            "pitch_x": 105,
+            "pitch_y": 68,
             "built_year": 2014
           },
           "incidents": null,
@@ -68400,8 +70753,8 @@
           "capacity": 68500,
           "latitude": 37.403,
           "longitude": -121.97,
-          "pitch_x": null,
-          "pitch_y": null,
+          "pitch_x": 105,
+          "pitch_y": 68,
           "built_year": 2014
         },
         "live_stats": null,
