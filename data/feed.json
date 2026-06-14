@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-14T10:27:12.769Z",
+  "generated_at": "2026-06-14T12:25:22.308Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -537,7 +537,20 @@
         },
         "head_to_head": null,
         "lineups": null,
-        "social": []
+        "social": [
+          {
+            "id": 343132,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNc1lwdERYYjhSQUg2WERpTmN0SnRoYkIyM1Rra3hzTEc0RHV3Ul9oSnNPR1ZoUkxwTkdSQmRXQnZMMFRjdkJsNGpxdmQxLXZWNXhtZExvWURPNVVfNHpGcGV6UFBFOUJPX0hvX1M0bnN4MFlkMjlTOFVFS1ZPb1lOQmd6M0JyRmNlRXVEdHlrT1dlTlZ3Vl96UVlVRkxGWjJza1VvbjlqX0t4czNzMWt2Y1Nn?oc=5",
+            "title": "Juventude vs Ponte Preta Prediction, Betting Tips & Odds | 14 Jun 2026",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "sportsgambler",
+            "account_name": "Sportsgambler",
+            "account_verified": false,
+            "published_at": "2026-06-14T12:10:54+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
@@ -1204,7 +1217,44 @@
         },
         "head_to_head": null,
         "lineups": null,
-        "social": []
+        "social": [
+          {
+            "id": 343131,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQNG00ZU1xSm5GNlI0MTA2QjZuWWo0ODgyUVktd2luX2RwY0M3WXRGYng2dzRvRjE1Mms3ZXg4Y2pQZTVuUEM3WGJDLUFucGhySndldG1BNzAwSzNMejUxMlI0RFZDOFBUVkZWT2ZSb21FWHFBUy1SUFJZQjVtTHFLNjYwNU1qanA2Ql8yOVpNMVgxYzJ2WHFNem13Q2U5eHZxdUcweFJiTXQtUDdFSzU5ZlBad0VuLVE?oc=5",
+            "title": "Sao Bernardo vs Sport Recife Prediction, Betting Tips & Odds | 14 Jun 2026",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "sportsgambler",
+            "account_name": "Sportsgambler",
+            "account_verified": false,
+            "published_at": "2026-06-14T12:10:55+00:00"
+          },
+          {
+            "id": 336218,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQR1g2UjN0RGFtSUdMb005alVMWUx6U0F6d2NHMTVreVp2TzZKdFZoWjNVaWhYN05FTXN1Y3lsWnNQWGE5VHFzLVYtdVJKbDZFWEY4R1kwVEh0NUNJTVpSWFFMdjIxV2hPeUd0ZEw2VUQtR19jTkpVajdYejNiYjJVVHoySm1BdG1vZFF6VQ?oc=5",
+            "title": "▶️ Watch São Bernardo vs Sport Recife Live Stream | Predictions & Tips - 14 Jun",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "footballpredictions.net",
+            "account_name": "FootballPredictions.NET",
+            "account_verified": false,
+            "published_at": "2026-06-14T11:41:25+00:00"
+          },
+          {
+            "id": 343032,
+            "type": "tweet",
+            "url": "https://x.com/sportrecife/status/2066115272264568999",
+            "title": "",
+            "text": "Domingo com Leão em campo logo pela manhã: \n\n⚽️ São Bernardo x Sport  \n🏆 13ª rodada do Brasileirão \n🗓 14/06\n⏰ 11h\n🏟 Estádio 1º de Maio     \n🖥️ Premiere  \n🤝 Patrocinadora master - @betnacional",
+            "thumbnail": "https://pbs.twimg.com/media/HKxQ46jW8AADm2V.jpg",
+            "account_handle": "sportrecife",
+            "account_name": "Sport Club do Recife",
+            "account_verified": true,
+            "published_at": "2026-06-14T11:07:22+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
@@ -4227,7 +4277,248 @@
         "away_form": null,
         "head_to_head": null,
         "lineups": null,
-        "social": []
+        "social": [
+          {
+            "id": 343230,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQMllvdkJNZjRwejR2NDdiOU5KZmFMM1cxWkl0VWdsWFphMGs4U2lhdUtOX1BWRFhNR09CQjhpRTAxVk1VX1plc0o5bS1tS0xPUnZpYnFKcWpvRVQ1bmdkWnZkNlVDanhxWjZLNkREMUlWR01JajJHS3NmcDlFejBXUlJkOWUtM1Q4MW52U1pqTlJ5b1hKNWc?oc=5",
+            "title": "Moroccan referee Jalal Jayed to officiate Germany Curaçao World Cup opener",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "yabiladi.com",
+            "account_name": "Yabiladi.com",
+            "account_verified": false,
+            "published_at": "2026-06-14T12:13:04+00:00"
+          },
+          {
+            "id": 343273,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNckUycUF0UFVXRWNpbVVGbkV4Ymw0ZGVfNTFYall2Ukt1RU5NYU1JNFlWU0pfWUFxWEo3bkJkWktVOXRQTnIxS1pNTzduaENaS2J1Y09aYWRKRDMxbS1uMkc3eGgxZHUxM2hEYV9mV3dHVHQ4UGQ5bURPbFRockNLYnAzNTkzZ0E0MkVnMDNIYTN3ajhSbGREd2hYbmQ0eHRZX2dpdHM5T1FWYVVwMHVycmFwTQ?oc=5",
+            "title": "FIFA WC: Nagelsmann confirms Neuer's return for Germany's opener against Curacao",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "ians live",
+            "account_name": "IANS LIVE",
+            "account_verified": false,
+            "published_at": "2026-06-14T12:09:00+00:00"
+          },
+          {
+            "id": 343242,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOTWN5X2x5S1FLbGtxUXBoTG12d3UwMjNydHFldkpmQ2NRbndzeDJEaWNnRVF1dEtzNHlnSWZVTVhhekxWcmNGX1JZTEtySzJfZUNReXpkX3pMWmI0WTN4UGt1VkhEYlFINEVDZFdXaHZlRWd2dnFvSE41NmlLQzJkeUZ5ZlRqWU05U3J4QUttclNwTzFQN1luNElROFVaRG5VZHNUaHZMa25ZN3YtUWQzem5Mc1RwaDZxazM5YmNac29lbzRteTdSTGpsVjBmdVRhdGxIaWlPWGMtNFh6aFJWMkkwTTBJWXdNUXBSUjJNSlF5WGc?oc=5",
+            "title": "World Cup 2026 today: Live updates, latest news as Germany prep for Curaçao - June 14",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "espn",
+            "account_name": "ESPN",
+            "account_verified": false,
+            "published_at": "2026-06-14T12:07:00+00:00"
+          },
+          {
+            "id": 343235,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi3wJBVV95cUxOeUZRQzBFWDd5MkNsaTdUUHVERUlTUlJJeW5xbGlyWUlfdlVMNWtDelFKRWFiak5DdmlqTXlNZWpxcFZuOVRKbnJmckNkNmQ5ckV5V3NCeGtTV2ZUUjhEbWZVcW9EaHNEUnI0OWN0NklHbmhpWlZtRGtkbkhuX2dabDZPcVE2d2JmSEJTR2Jhdm9kbEFScmJSTFBHV3kxY3BCSHIxZjV6RDVsWHhrajRLeEdGem9faWNyTzdxQzV5SWhia1NQSXNxOGxnZGlrMDlFMy0wdXp1QWZvekNKMFM1RWtjVFhUTGNhUjYtQV9sWTk3UTNQbGEzRXVTTkgwMFp2QmRneTlGWTJxRkk1VnNKTDBua0lab0lydTgwb2thX3JoUmNGcS1WcGZ6ekJtYm0zNFliMTctdDVveEJ2WmJCaF9uajZMa0lqVW9CbVZhb0lBbE1IS1R",
+            "title": "[ＬＩＶＥＳＴＲＥＡＭs]𝐓𝐕!! Curaçao v Germany 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 june 2026",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "web del ministerio de cultura",
+            "account_name": "web del Ministerio de Cultura",
+            "account_verified": false,
+            "published_at": "2026-06-14T12:06:59+00:00"
+          },
+          {
+            "id": 343250,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi6gJBVV95cUxPMmE1WDNNbEpkdFF2OGw3ZU5ZSy0yejRQbzlxc3Z3OFJrZlVEemg5M3R1UDZKT1lMZFNnZ3g1Ymo1VGxHR2c5S3JCUXZXYjMxMERFcUs3aWFUTC1yUVpmYlFOaHNnQWR5VGNPeDBtdU11a01TR0ZSVGdiSGFOUlJFZEtUVlZmUnJzSEUtbVgzbXluVzI4UGFsUGlrbUc1M1pJMnNDcGxRS2NnYUZ6RVI2QnpNMXVZN3dVS1RKTFpaaG5rbzZXR2h1T1pHdXRFYzNSSkduVzBBVlBuMGw0MVpaaHRqN28wQnZmWktXRkFDRnB3R1dSVG80RzZuMGNWRXMtVUtlWkh4dmtEVWczbU53bVJ6a0IxUXl1SmhhZEpldFVyT0s4TUdsRzdub0MwSzNHZE5jV1BDY193NzJzeWFJV1ZNLVQxZ1JmdkFGUkkyQmxFSHpvYml",
+            "title": "!+[Here’s Way To Watch] Germany vs Curacao soccer 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 14 june 2026",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "web del ministerio de cultura",
+            "account_name": "web del Ministerio de Cultura",
+            "account_verified": false,
+            "published_at": "2026-06-14T12:06:41+00:00"
+          },
+          {
+            "id": 343252,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi5AJBVV95cUxNamxBOW5TZGtyUVF6TzBJdmZkRGxXY1kwWnRmbUtxdG5GblRINkR2RlBDRk1JNnJYYzUtVEtCUEd6RGI4eGVnb3pmX1Vfa19KQ3RBVURReGkycGVsdVUydVBFal9zaWxmbFg0cnNvbzFWTGpKWHE2LUwzcVh2Wmozb3c3M2ZjQmNXS2YyeTBNSG9ySEk5UE5ORXBtTkpGV2xOMjY0aVdXd2lKdkxzT3NWWlhDTkdHbWxlSk43aHNLbmZLWU1uS0cyNkVvZmIySnQtRHJEWkpVdzY0NGFmdWNZZXdiSmlGTExIQl9ZVzRqdTZZUk5NQVMydmEwNEFCb2RLUlpaZnNYcG9IQlI3QTg4TGIwUXBaemdwZm13VnhyTUxsMnJFQmJaYXB1SWRsLVpaNmpxd1RFeDJ6eDdRWWJTZURpQllSM2dkZ2Q3b2ZMclhzdGRIZTJ",
+            "title": "[ＬＩＶＥＳＴＲＥＡＭs]𝐓𝐕!! Curacao vs. Germany 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 june 2026",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "web del ministerio de cultura",
+            "account_name": "web del Ministerio de Cultura",
+            "account_verified": false,
+            "published_at": "2026-06-14T12:06:05+00:00"
+          },
+          {
+            "id": 343248,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNVjk2YlhNWktRVlNnSHlrcG9nejNHdGpQa2tLd3ZSMzFjaDRNZmswQ0Z3TzNwWWRHNTl3eDFiZkZNbXl2RTFyS3JudFhCVlZMdmdoUmZjUDZ1cFJqS2tjMWFJSWxheDJuaEZDa1FRcGx4b2ttRmdGeExLbFROZHJ0OWY3SUVwTDRnTnVOU3NCYTZROXhBaUtfZ0todVZlZk5MMlhtcFFqdTB2WlFHdEd1MVVlaklDRGtvbVEwZGIyVmQ0RG1HcE81RUl6V0tpXy0xVDFOSHJXX1VjZTRjWnJDT3lJUC1PalVTcjhxU2dVT2R2WnZVMmZlZldlQ3gzeXdGQjd6WnYzMDJRQnRkNFQwbzdWa3FMSHd6SGFwU2hadXNiR1NpLXRzVzRDTmxEMklYSGVaZ0doTGFIbk41eEFpcHd3ZGVibjVNS3diYkhnSGtIZnF6cTd",
+            "title": "[ＬＩＶＥＳＴＲＥＡＭs]𝐓𝐕!! Germany vs Curacao World Cup game 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 14 june 2026",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "web del ministerio de cultura",
+            "account_name": "web del Ministerio de Cultura",
+            "account_verified": false,
+            "published_at": "2026-06-14T12:06:02+00:00"
+          },
+          {
+            "id": 343244,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOYl9HU1JVVmFLMnRYd2ZPa2VNOGZRZ3Y0WERZc0hqVjdmdG9DemxSSURfRlpoSmZfa2lnaUZCcXhOTWdabG9tYS05OHJzTHB2NnRNQ1pTb2hqNEJZTHp4UUREaFhsNFdrR3JzVHN3WmRydFhBT21OZk1kRmhadFJmWjRuZkRyY19WOGJfUE05SW1sNVgtSFF2ZGNEcDl0MEZiNGdYZGlNYVY?oc=5",
+            "title": "Polymarket promo code ALCOM: $50 bonus Germany vs Curacao World Cup",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "al.com",
+            "account_name": "AL.com",
+            "account_verified": false,
+            "published_at": "2026-06-14T12:06:00+00:00"
+          },
+          {
+            "id": 343271,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxONURPS1lJR1Vrb3dCYVVWbDNBSjJ1bWttMlpveUZXVkRxc2ZjbXFPb2dKYThhYUFYWjVTYWF6MGQwX2hpR09SRXBkT052LVNVZk14ZTVlWjhsaFdyTzkxdkZKMWdubWd6SDdmclQ5VVMtaW5nRGdmNDBjT2xxTTlhQUQ1bEoyWUtTNFZCRnlfdmVVTkZLdlB6OFVVbk1NLTRueDBkQkJXZi1oNU5vOGp3VVgwNG9IcFM4cnFr0gHAAUFVX3lxTE9SZmVtUHRlT0tHZE1yUVhrV0p4S09kc2wwNktfSHN6aXVyd2JWU1BVdXp5aVpWcUxqMXNSU01MYnFfY0FHclhvMUZJbnF5ZGhTS2E4ZHd4alVaT2JoNjVqdFUtTTdiQUxCN3p2RElMN2MzTE95U0t1SW9aMVBtRjRTd0toVVBnQkpXcmRUQ01zVjlFa0VIYkJ",
+            "title": "'We represent the entire country': Joshua Kimmich urges passion from Germany squad",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "tribuna.com",
+            "account_name": "Tribuna.com",
+            "account_verified": false,
+            "published_at": "2026-06-14T12:05:02+00:00"
+          },
+          {
+            "id": 343247,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQllXQWpnQ2lVaDM5akFHWGZYdU1LZzlCVENqOGppam9GNXhkdTZDcDlxVGhSMU9ERHhxbl90djMzc2h5cnhsa1ozcDhiaUhBNUNKWUMyekFGTWE5S0ljS3JURm5JQWpLdk50bGo3UUFwdXJsek5NOEFremxkYlREaWN0WmFQYU1IQ19nQzdVMDZkT1pWV2RiNXBiR0JqRkhDQ0dSaVQtaTZkUTVtQ3VqWi1Hc1JybFB6Unc?oc=5",
+            "title": "Tiny Curacao tackle Germany at World Cup as Iran arrive in US",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "new age bd",
+            "account_name": "New Age BD",
+            "account_verified": false,
+            "published_at": "2026-06-14T12:04:41+00:00"
+          },
+          {
+            "id": 343228,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxPelhaVTFmS3hnbG1YV1lrQTFVQVBDT1hYWUQ1cnVnV1EyU3B3cG9weDhfTUxqOXNkMEJ2bzRqT2xrUHpRMUduV3Zpd2tfVk9nYmJubWkyQjhHTnJfUFQ3VmROQmxQQ0hhbEtrS3AtLS03UzhEaDlpQWNaUmg1aml4bmY3ZTB1THZESGhIck9NbDhqTUwxcGw3Y3c3RWFQMWcwNVJFaGtCOGZfelZUdzhDaTVEaVRkTjJsY21MM2ZBbXJxUE1qbmJMblhfdG1VZjN0aWQyWkpKbzVjSWJhM1ducXNyMW11WEotQXFUaWYwQ3czR090VzZTTW01dmdBNjRrak9tQzZnREFZU1YtYlRiSElRUndNV0h4SWRUaGNfek5ZUHoxSXh0NGh2alBscm9GOW1QeWJqUVljT3pfbER0NGVodGhWN2hfWm9HQ0paTXozdWRRZTJ",
+            "title": "!+[Here’s Way To Watch] Curaçao vs Germany World Cup match 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 june 2026",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "web del ministerio de cultura",
+            "account_name": "web del Ministerio de Cultura",
+            "account_verified": false,
+            "published_at": "2026-06-14T12:04:03+00:00"
+          },
+          {
+            "id": 343255,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi4gJBVV95cUxOR1I0QU5QTndtV3NzV29sekdVVTVPTHRUc2piYVRGc1lRYTVkNkJRazEwdXgtdkZBNzlZRkd6eDlZemh1ckpxR3E5OFhIcy1lZ3ljOWVHRFZvRXo3Z01JaU9uTkxwRVE1V0o4ZmNVbkxMa1pGMmZuMzFUdlRmd1ctNXJTTXpTbDV2LXNJd1FnQng1OTBIYm1Ka3RfMUVXMDFXb2M4bTI3djdNVEtRSnJ5QllHWlFTRDZ1dDhYMUlucHNvUkRaNUhoTTJDU25FSUVDUURjWUVRV19TR19KV3U4SWEwaGZhZm9lT1NDX3dvZlB4X0dSVjdicjYwZ3dOQ1A1eXlWcWIyR28yYnN2d0E3YkpQMlk0d2x3RkxhRHFLWk9BZWxrdm1XM1NxRkhadGpPSjkyS09nYjBfc3U4bTN6eTNudVpFcEIxR2IwbllicERMSkduSzJ",
+            "title": "[ＬＩＶＥＳＴＲＥＡＭs]𝐓𝐕!! Germany vs. Curacao 𝐋𝐈𝐕𝐄 Ｓｔｒｅａｍｓ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 june 2026",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "web del ministerio de cultura",
+            "account_name": "web del Ministerio de Cultura",
+            "account_verified": false,
+            "published_at": "2026-06-14T12:03:40+00:00"
+          },
+          {
+            "id": 343234,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi9gJBVV95cUxQN1NFb1o1azUyb2FZWXRNOENWZGFyZV9La0RlMGZYZWNwb2xYVTZLTk5SRmQyWHQ0UVNYZTZfaklqWS1HRHg4VXZUQXhtWW1PREpBOFJITVhGTC1kV3BpWGZ1RUNrTFhReFdCVjFOdzYtNExlN0R0UHdkVGFsUW1kSVI1V3hGSFZPZUV1TmFiVFAwWDFpV0E2cXg4N2JfZ3ViZWxCbFBmVUdFdldKY1JiNl9YMzRpLXlHMmdDMXRpc1JJeEN6N2IyZXNIekRQWC0xVXF0RVVhVE5UWVFnZDRLS3FMWWRXVG5MRERBX0NOYi10R3VYRDJmWXJNWWVBRHdwb21zOWpEaXlON0xFdFE1eGw5SDladVNqRE5VMVh6VXhkUHMwTzYtYS16bDJyYTM5NkROSG9CUy0zX2pDY3N6YTNtWVVPVjBrX0lzQkhITWJIQU56Z3F",
+            "title": "!+[Here’s Way To Watch] How to watch Germany vs Curaçao Ｌｉｖｅ Ｓｔｒｅａｍｉｎｇ Ｆｒｅｅ ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 june 2026",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "web del ministerio de cultura",
+            "account_name": "web del Ministerio de Cultura",
+            "account_verified": false,
+            "published_at": "2026-06-14T12:03:17+00:00"
+          },
+          {
+            "id": 343227,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNN2hEalVEcFpfZWRBYy10N1pVRTFnSGxUbWM2OWQtNUFpZHFGWXpaYnZEa3RjYnhoRmdhczdRRUNqbWdyY1I0UDBSYVBXT0JCRTFDMk9jdUZpOGtMY1YwVTQ2ME9yeW9kVjlwamtSUVR0eEpIRXlqUThGMEh2S25QYVJTZlIyS2R6d0ZTeGVfYklxTjc5TnJr?oc=5",
+            "title": "How to Watch Germany vs Curaçao: Stream for Free From Anywhere",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "gizmodo",
+            "account_name": "Gizmodo",
+            "account_verified": false,
+            "published_at": "2026-06-14T12:02:59+00:00"
+          },
+          {
+            "id": 343253,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi5wJBVV95cUxPVkVLcWYyeXR2MWMxY1dYdTZRUXpiY2E2R0NhVHhrZkxreTI2S2ZVSEVCN2RVRXF2c2hnY3ZyMW4zMi05VTM3QWtObjVYcmluaTZDblFtNzZ4bG9ZTjdUNExDcUdCa3Fsc0xqc3AyYmstWm5acDk0V19XV1RIZzNKSFR4aFN4MDBvbG5iNUt4em12eUJSQ0tpSzJoM0FNeGJpWTZrX0ZUZmYzZE85YmhYSkd4c1ZabVFjTjM3T202SUZNakEwb2xxRUNNNC1qc2ZIZTdkTFlzVnUzWW00U0dyLWQyMnhUYmlZVHZfaVplaWpNMFNyTEpaMFBHZExwTDlzX0ZRVllQOTVCVzZLV2FwakFNWWk1NW5LTVZkeFNIMjFwalFTLW56VFJVbHVEQVVDSGRrYWRvYWp1VnZpeGk1U1RRckdsSlp5ZV91RGlpOTktbVI5ckd",
+            "title": "!+[Here’s Way To Watch] Germany versus Curacao Live free! 14 june 2026",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "web del ministerio de cultura",
+            "account_name": "web del Ministerio de Cultura",
+            "account_verified": false,
+            "published_at": "2026-06-14T12:02:57+00:00"
+          },
+          {
+            "id": 343258,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxQWVNpTmFya1ZFbmpab19QM0NkTzJiSnhobnByV2lpMEhUdHRwbHZkZVFsZlZpMWxSM0xkNWpycGtDNVFMNDRDVUxkczBkcE1QZzRMcHF5T2VkSks4dl9wN0t1aERQdGxhak9kLS13QW1mb3lBQUxfMGI2MHVuN3AyWC1NV0trVjNxdklsYjlhdXVDdXlBUWhKWVN0VERzY3BsZHduQ2NCTXR6LXpxOTlzZVYzSDF2NjZ5Q3pvb2ViY2pFekJHVlFhS05VZkhqSW5rOTk1OG51YTlRVk85Q2hMbTN0MFQxaDhraEdfOVFYNnVlNjh1VWtyRHhnUmNCME1CQktxM1I3T0cxWW56UUlyTFZ5Y2FYakJMRWhoUDZOd1EwV1BFRjh4cWRURVoxeGwwMnpLanZhNmNWb2Rwb2pMV0p5MXBTa29LdHlQZE9YNll2QnJuNkh",
+            "title": "%*(((LIVESTREAM TV>)))* World Cup Curacao vs Germany game 𝐋𝐈𝐕𝐄 𝐒𝐭𝐫𝐞𝐚𝐦 Ｔｖ Ｃｈａｎｎｅｌ 14 june 2026",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "web del ministerio de cultura",
+            "account_name": "web del Ministerio de Cultura",
+            "account_verified": false,
+            "published_at": "2026-06-14T12:02:47+00:00"
+          },
+          {
+            "id": 343256,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi3gJBVV95cUxOVXRDaEVmb2ZqQkNUZGt4R0JJY182TVM4NnUwYkw4anRrSTVGLXBxY01zSk1sTFJpdXV4YWZmWlhVeS1OS2RZTjl1YjZwTjlpMXUxMUkwU0RHdUlGdW56U09JcEs0MVotMUNTNDAzeElseW1nS0hTTzZvRkRlQ2txZ2lhXzBkWUc3Z2Nxa1FPRHN5NmREYUx2dlk0WFFfZkJ2N3pSU3VPaFVxUVpJT1pCWXlJcWwteVdheGpsQU9UaGRVNU1sWTYtYllsbmlXaGtPTU1JSHVhVk01NktRMDBOUGM3RVdoemVEaTJVamZKZTBWR2lHdkRqMjQ0ZlBfQXRRM0h1SWp4Yktic1pIeTloalBNSV9rQ0xIcThtX1UxU1JXZk0zRHh0YXN6dy1tck82ZndRYjN4a2VSWjlkQ1JNSjhSWGJ4MnpURWVsUW10NUdzUGNTcFd",
+            "title": "[ＬＩＶＥＳＴＲＥＡＭs]𝐓𝐕!! Germany - Curacao Match Live free stream 14 june 2026",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "web del ministerio de cultura",
+            "account_name": "web del Ministerio de Cultura",
+            "account_verified": false,
+            "published_at": "2026-06-14T12:02:37+00:00"
+          },
+          {
+            "id": 343257,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi_AJBVV95cUxNbmJJaWxodGdqUHU5TnhMQy1pTGVXWUhKUVlHNmpWc0kxa2pjZFo3ckRSSUFEV1BYRGJvOWM1c2lOYnJLUDY0bEVYWG56MUJ1dDJvc0VwQl9zdFVsdTNCTzJadUJoRU9Ea3FxdEdONXZ1cnRKeVU3aUNOZ2JSSHJxemtvUEl4VldSX3Y4RmJFdEN0T0x1LWVDZ3FySFEtWkVlcWFSeVRiVGZscWphUU1rNjBWeHdNTHgtVWR5WHBWRnM3dGlkOXN5U2lOY25CT1l4Zk5TUnhPUXkzcEl2UHpFdkFVcGxoRmE3a1gwMEhmdmRQTTMtZ29UdDlFOUFJdEFKZXNITEs4dkVpNzVaSlFsNXVwSUxKVlJoUHhPUGNWOXhsS3diaDM5a2tOVFpmaGdkVUFVZHFEMWR5QWJHdFRqNmMxRWM2ejRxZy1UaVhuUHZZcWdiamd",
+            "title": "!+>[LIVESTREAms] Germany vs Curacao Fifa World Cup 2026 Match Live free stream 14 june 2026",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "web del ministerio de cultura",
+            "account_name": "web del Ministerio de Cultura",
+            "account_verified": false,
+            "published_at": "2026-06-14T12:01:57+00:00"
+          },
+          {
+            "id": 343236,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi4AJBVV95cUxNWWlfdEpiRnpVVDU3Z0kyTEg4TWtJXzZTZFAzdkh2TlFPZU1lNTRVdktwbHpobThvQUk2WG5BbTdManFqcVA3WDRIa0JYSFZhZGJJRlVJNTJyMlBLZVJ4TjN4dUpFWG5ZbGN1TGJRcE95SnhBWmlRWDNLS2xaQkNpUERkZlhjN3MxT1JpOVpwbkZfU0JjcjZKS05oYzlGellsYVo3QWJOQmZEMXYzQTh6VTN6alVpcUluSURqREpzUGJJRlJQMGJiN3ptMEJZbEVrdFJ2REVQUXo5cFlSMW9vcU41TW85WTFPYVI2MUZCTWpybjZUQm9yWHdZcEVvSEFMSGRBdjJFMUt6bHJqaE8tZHlRMDdBOElhZ1JhdE9CWWZFcjJ4OGQxTWhQSGFGRFJBdVJKeDQyRmpPbDhpUjlsMWhsdlZFdEY4YThtMHJiLUFXbDhwSDR",
+            "title": "*∇#[+[!LIVESTREAMs!]TV] Germany v Curaçao 𝐋𝐈𝐕𝐄 𝚝𝚘𝚍𝚊𝚢 ＯＮ Ｔｖ Ｃｈａｎｎｅｌ 14 june 2026",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "web del ministerio de cultura",
+            "account_name": "web del Ministerio de Cultura",
+            "account_verified": false,
+            "published_at": "2026-06-14T12:01:56+00:00"
+          },
+          {
+            "id": 343240,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPYlRsZ3BleXJXZGI1QmZGZGhHRU5qc0ljQjNOM2s3c1BYZjRRNU14X0pKcUdsTGNaR3VNU1I1SS1UMXBpZDloSXdGSlpzT2djOWtLMkwwRUxoUEVVWWRlWEJGRW00OEhaaWg1M003XzBHRG9iVmJ3UTBsMFNybVJaUlhoREFQLTNxTEN2aE9QZ2RNUGR6Z3RJTERQVGZRV1hUdFRVZVBGYXZhUQ?oc=5",
+            "title": "Germany vs. Curacao prediction: World Cup odds, picks, best bets Sunday",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "new york post",
+            "account_name": "New York Post",
+            "account_verified": false,
+            "published_at": "2026-06-14T12:00:00+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
