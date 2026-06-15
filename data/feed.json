@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-15T05:39:07.247Z",
+  "generated_at": "2026-06-15T12:23:24.557Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -17181,7 +17181,7 @@
                 "name": "Guilherme Ferreira",
                 "status": "injured",
                 "reason": "Cruciate Ligament Injury",
-                "expected_return": "2026-06-28"
+                "expected_return": "2026-06-29"
               },
               {
                 "name": "Walid Sabbar",
@@ -17334,7 +17334,7 @@
               "name": "Guilherme Ferreira",
               "status": "injured",
               "reason": "Cruciate Ligament Injury",
-              "expected_return": "2026-06-28"
+              "expected_return": "2026-06-29"
             },
             {
               "name": "Walid Sabbar",
