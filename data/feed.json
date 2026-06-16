@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-16T13:15:36.924Z",
+  "generated_at": "2026-06-16T18:17:48.845Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -170,7 +170,1031 @@
           },
           "incidents": null,
           "live_stats": null,
-          "lineups": null,
+          "lineups": {
+            "away": {
+              "players": [
+                {
+                  "name": "E. Mendy",
+                  "goals": 0,
+                  "api_id": 845074,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "G",
+                  "red_card": false,
+                  "player_id": 8110,
+                  "yellow_card": false,
+                  "jersey_number": "16",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "GK",
+                  "positions_detailed": [
+                    "GK"
+                  ]
+                },
+                {
+                  "name": "K. Diatta",
+                  "goals": 0,
+                  "api_id": 873534,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 2233,
+                  "yellow_card": false,
+                  "jersey_number": "15",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "RM",
+                  "positions_detailed": [
+                    "RM",
+                    "RB"
+                  ]
+                },
+                {
+                  "name": "K. Koulibaly",
+                  "goals": 0,
+                  "api_id": 126071,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 7992,
+                  "yellow_card": false,
+                  "jersey_number": "3",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CB",
+                  "positions_detailed": [
+                    "CB"
+                  ]
+                },
+                {
+                  "name": "M. Niakhaté",
+                  "goals": 0,
+                  "api_id": 758168,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 1106,
+                  "yellow_card": false,
+                  "jersey_number": "19",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CB",
+                  "positions_detailed": [
+                    "CB"
+                  ]
+                },
+                {
+                  "name": "E. H. M. Diouf",
+                  "goals": 0,
+                  "api_id": 1471764,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 1638,
+                  "yellow_card": false,
+                  "jersey_number": "25",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "LM",
+                  "positions_detailed": [
+                    "LM",
+                    "LB"
+                  ]
+                },
+                {
+                  "name": "L. Camara",
+                  "goals": 0,
+                  "api_id": 1389846,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 2228,
+                  "yellow_card": false,
+                  "jersey_number": "8",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CM",
+                  "positions_detailed": [
+                    "CM",
+                    "DM"
+                  ]
+                },
+                {
+                  "name": "I. Gueye",
+                  "goals": 0,
+                  "api_id": 106337,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 3800,
+                  "yellow_card": false,
+                  "jersey_number": "5",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CM",
+                  "positions_detailed": [
+                    "CM",
+                    "DM"
+                  ]
+                },
+                {
+                  "name": "P. Gueye",
+                  "goals": 0,
+                  "api_id": 879694,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 1771,
+                  "yellow_card": false,
+                  "jersey_number": "26",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CM",
+                  "positions_detailed": [
+                    "CM"
+                  ]
+                },
+                {
+                  "name": "I. Sarr",
+                  "goals": 0,
+                  "api_id": 845286,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 1787,
+                  "yellow_card": false,
+                  "jersey_number": "18",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "AM",
+                  "positions_detailed": [
+                    "AM",
+                    "RW"
+                  ]
+                },
+                {
+                  "name": "N. Jackson",
+                  "goals": 0,
+                  "api_id": 1085381,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 2471,
+                  "yellow_card": false,
+                  "jersey_number": "11",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "ST",
+                  "positions_detailed": [
+                    "ST"
+                  ]
+                },
+                {
+                  "name": "S. Mané",
+                  "goals": 0,
+                  "api_id": 217704,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 7879,
+                  "yellow_card": false,
+                  "jersey_number": "10",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "LW",
+                  "positions_detailed": [
+                    "LW",
+                    "LM"
+                  ]
+                }
+              ],
+              "formation": "4-3-3",
+              "substitutes": [
+                {
+                  "name": "Y. Diouf",
+                  "goals": 0,
+                  "api_id": 845183,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "G",
+                  "red_card": false,
+                  "player_id": 1485,
+                  "yellow_card": false,
+                  "jersey_number": "1",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "GK",
+                  "positions_detailed": [
+                    "GK"
+                  ]
+                },
+                {
+                  "name": "M. Diaw",
+                  "goals": 0,
+                  "api_id": 580226,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "G",
+                  "red_card": false,
+                  "player_id": 1426,
+                  "yellow_card": false,
+                  "jersey_number": "23",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "GK",
+                  "positions_detailed": [
+                    "GK"
+                  ]
+                },
+                {
+                  "name": "I. Jakobs",
+                  "goals": 0,
+                  "api_id": 897291,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 3728,
+                  "yellow_card": false,
+                  "jersey_number": "14",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "LB",
+                  "positions_detailed": [
+                    "LB"
+                  ]
+                },
+                {
+                  "name": "A. Mendy",
+                  "goals": 0,
+                  "api_id": 1120615,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 1486,
+                  "yellow_card": false,
+                  "jersey_number": "24",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "RB",
+                  "positions_detailed": [
+                    "RB",
+                    "CB"
+                  ]
+                },
+                {
+                  "name": "M. Sarr",
+                  "goals": 0,
+                  "api_id": 1154657,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 1704,
+                  "yellow_card": false,
+                  "jersey_number": "2",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CB",
+                  "positions_detailed": [
+                    "CB"
+                  ]
+                },
+                {
+                  "name": "A. Seck",
+                  "goals": 0,
+                  "api_id": 583896,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 15372,
+                  "yellow_card": false,
+                  "jersey_number": "4",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CB",
+                  "positions_detailed": [
+                    "CB"
+                  ]
+                },
+                {
+                  "name": "P. Sarr",
+                  "goals": 0,
+                  "api_id": 1002711,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 724,
+                  "yellow_card": false,
+                  "jersey_number": "17",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CM",
+                  "positions_detailed": [
+                    "CM",
+                    "DM"
+                  ]
+                },
+                {
+                  "name": "P. I. Ciss",
+                  "goals": 0,
+                  "api_id": 913679,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 3864,
+                  "yellow_card": false,
+                  "jersey_number": "6",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CM",
+                  "positions_detailed": [
+                    "CM",
+                    "DM"
+                  ]
+                },
+                {
+                  "name": "I. Ndiaye",
+                  "goals": 0,
+                  "api_id": 914309,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 810,
+                  "yellow_card": false,
+                  "jersey_number": "13",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "LW",
+                  "positions_detailed": [
+                    "LW",
+                    "RW"
+                  ]
+                },
+                {
+                  "name": "H. Diarra",
+                  "goals": 0,
+                  "api_id": 1128532,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 4743,
+                  "yellow_card": false,
+                  "jersey_number": "21",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CM",
+                  "positions_detailed": [
+                    "CM",
+                    "AM"
+                  ]
+                },
+                {
+                  "name": "B. S. Ndiaye",
+                  "goals": 0,
+                  "api_id": 2427970,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 23922,
+                  "yellow_card": false,
+                  "jersey_number": "22",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "MID",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "C. Ndiaye",
+                  "goals": 0,
+                  "api_id": 868268,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 6633,
+                  "yellow_card": false,
+                  "jersey_number": "12",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "ST",
+                  "positions_detailed": [
+                    "ST"
+                  ]
+                },
+                {
+                  "name": "A. Diao",
+                  "goals": 0,
+                  "api_id": 1493689,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 4105,
+                  "yellow_card": false,
+                  "jersey_number": "7",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "RW",
+                  "positions_detailed": [
+                    "RW",
+                    "LW"
+                  ]
+                },
+                {
+                  "name": "I. Mbaye",
+                  "goals": 0,
+                  "api_id": 1590918,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 2255,
+                  "yellow_card": false,
+                  "jersey_number": "20",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "RW",
+                  "positions_detailed": [
+                    "RW"
+                  ]
+                },
+                {
+                  "name": "A. B. Dieng",
+                  "goals": 0,
+                  "api_id": 1102503,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 1479,
+                  "yellow_card": false,
+                  "jersey_number": "9",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "ST",
+                  "positions_detailed": [
+                    "ST"
+                  ]
+                }
+              ]
+            },
+            "home": {
+              "players": [
+                {
+                  "name": "M. Maignan",
+                  "goals": 0,
+                  "api_id": 191210,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "G",
+                  "red_card": false,
+                  "player_id": 1987,
+                  "yellow_card": false,
+                  "jersey_number": "16",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "GK",
+                  "positions_detailed": [
+                    "GK"
+                  ]
+                },
+                {
+                  "name": "J. Koundé",
+                  "goals": 0,
+                  "api_id": 827212,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 739,
+                  "yellow_card": false,
+                  "jersey_number": "5",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "RB",
+                  "positions_detailed": [
+                    "RB"
+                  ]
+                },
+                {
+                  "name": "W. Saliba",
+                  "goals": 0,
+                  "api_id": 941168,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 3460,
+                  "yellow_card": false,
+                  "jersey_number": "17",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CB",
+                  "positions_detailed": [
+                    "CB"
+                  ]
+                },
+                {
+                  "name": "D. Upamecano",
+                  "goals": 0,
+                  "api_id": 798583,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 3463,
+                  "yellow_card": false,
+                  "jersey_number": "4",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CB",
+                  "positions_detailed": [
+                    "CB"
+                  ]
+                },
+                {
+                  "name": "T. Hernández",
+                  "goals": 0,
+                  "api_id": 788027,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 7994,
+                  "yellow_card": false,
+                  "jersey_number": "19",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "LB",
+                  "positions_detailed": [
+                    "LB"
+                  ]
+                },
+                {
+                  "name": "A. Tchouaméni",
+                  "goals": 0,
+                  "api_id": 859025,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 591,
+                  "yellow_card": false,
+                  "jersey_number": "8",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CM",
+                  "positions_detailed": [
+                    "CM",
+                    "DM",
+                    "CB"
+                  ]
+                },
+                {
+                  "name": "A. Rabiot",
+                  "goals": 0,
+                  "api_id": 250737,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 1994,
+                  "yellow_card": false,
+                  "jersey_number": "14",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CM",
+                  "positions_detailed": [
+                    "CM",
+                    "AM"
+                  ]
+                },
+                {
+                  "name": "M. Olise",
+                  "goals": 0,
+                  "api_id": 978838,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 2467,
+                  "yellow_card": false,
+                  "jersey_number": "11",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "RW",
+                  "positions_detailed": [
+                    "RW"
+                  ]
+                },
+                {
+                  "name": "O. Dembélé",
+                  "goals": 0,
+                  "api_id": 818244,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 2253,
+                  "yellow_card": false,
+                  "jersey_number": "7",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "ST",
+                  "positions_detailed": [
+                    "ST",
+                    "RW"
+                  ]
+                },
+                {
+                  "name": "D. Doué",
+                  "goals": 0,
+                  "api_id": 1154605,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 4324,
+                  "yellow_card": false,
+                  "jersey_number": "20",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "RW",
+                  "positions_detailed": [
+                    "RW"
+                  ]
+                },
+                {
+                  "name": "K. Mbappé",
+                  "goals": 0,
+                  "api_id": 826643,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 594,
+                  "yellow_card": false,
+                  "jersey_number": "10",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "ST",
+                  "positions_detailed": [
+                    "ST"
+                  ]
+                }
+              ],
+              "formation": "4-2-3-1",
+              "substitutes": [
+                {
+                  "name": "B. Samba",
+                  "goals": 0,
+                  "api_id": 164055,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "G",
+                  "red_card": false,
+                  "player_id": 2801,
+                  "yellow_card": false,
+                  "jersey_number": "1",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "GK",
+                  "positions_detailed": [
+                    "GK"
+                  ]
+                },
+                {
+                  "name": "R. Risser",
+                  "goals": 0,
+                  "api_id": 1387161,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "G",
+                  "red_card": false,
+                  "player_id": 1406,
+                  "yellow_card": false,
+                  "jersey_number": "23",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "GK",
+                  "positions_detailed": [
+                    "GK"
+                  ]
+                },
+                {
+                  "name": "M. Lacroix",
+                  "goals": 0,
+                  "api_id": 879674,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 424,
+                  "yellow_card": false,
+                  "jersey_number": "26",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CB",
+                  "positions_detailed": [
+                    "CB"
+                  ]
+                },
+                {
+                  "name": "L. Hernández",
+                  "goals": 0,
+                  "api_id": 352370,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 2246,
+                  "yellow_card": false,
+                  "jersey_number": "21",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "LB",
+                  "positions_detailed": [
+                    "LB",
+                    "CB"
+                  ]
+                },
+                {
+                  "name": "L. Digne",
+                  "goals": 0,
+                  "api_id": 96538,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 513,
+                  "yellow_card": false,
+                  "jersey_number": "3",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "LB",
+                  "positions_detailed": [
+                    "LB"
+                  ]
+                },
+                {
+                  "name": "I. Konaté",
+                  "goals": 0,
+                  "api_id": 826215,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 324,
+                  "yellow_card": false,
+                  "jersey_number": "15",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CB",
+                  "positions_detailed": [
+                    "CB"
+                  ]
+                },
+                {
+                  "name": "M. Gusto",
+                  "goals": 0,
+                  "api_id": 996958,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 393,
+                  "yellow_card": false,
+                  "jersey_number": "2",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "RB",
+                  "positions_detailed": [
+                    "RB"
+                  ]
+                },
+                {
+                  "name": "M. Koné",
+                  "goals": 0,
+                  "api_id": 974087,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 1064,
+                  "yellow_card": false,
+                  "jersey_number": "6",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CM",
+                  "positions_detailed": [
+                    "CM",
+                    "DM"
+                  ]
+                },
+                {
+                  "name": "N. Kanté",
+                  "goals": 0,
+                  "api_id": 234148,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 8155,
+                  "yellow_card": false,
+                  "jersey_number": "13",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CM",
+                  "positions_detailed": [
+                    "CM",
+                    "DM"
+                  ]
+                },
+                {
+                  "name": "R. Cherki",
+                  "goals": 0,
+                  "api_id": 979128,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 856,
+                  "yellow_card": false,
+                  "jersey_number": "24",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "AM",
+                  "positions_detailed": [
+                    "AM",
+                    "RW"
+                  ]
+                },
+                {
+                  "name": "W. Zaïre-Emery",
+                  "goals": 0,
+                  "api_id": 1142672,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 2243,
+                  "yellow_card": false,
+                  "jersey_number": "18",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CM",
+                  "positions_detailed": [
+                    "CM",
+                    "RB"
+                  ]
+                },
+                {
+                  "name": "M. Akliouche",
+                  "goals": 0,
+                  "api_id": 1130939,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 2229,
+                  "yellow_card": false,
+                  "jersey_number": "25",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "RW",
+                  "positions_detailed": [
+                    "RW",
+                    "AM"
+                  ]
+                },
+                {
+                  "name": "M. Thuram",
+                  "goals": 0,
+                  "api_id": 791702,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 1688,
+                  "yellow_card": false,
+                  "jersey_number": "9",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "ST",
+                  "positions_detailed": [
+                    "ST"
+                  ]
+                },
+                {
+                  "name": "J. Mateta",
+                  "goals": 0,
+                  "api_id": 848276,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 432,
+                  "yellow_card": false,
+                  "jersey_number": "22",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "ST",
+                  "positions_detailed": [
+                    "ST"
+                  ]
+                },
+                {
+                  "name": "B. Barcola",
+                  "goals": 0,
+                  "api_id": 996952,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 2261,
+                  "yellow_card": false,
+                  "jersey_number": "12",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "LW",
+                  "positions_detailed": [
+                    "LW"
+                  ]
+                }
+              ]
+            },
+            "confirmed": true
+          },
           "shotmap": null,
           "momentum": null,
           "xg_per_minute": null,
@@ -492,8 +1516,1273 @@
           "avg_team_rating": 0
         },
         "head_to_head": null,
-        "lineups": null,
-        "social": []
+        "lineups": {
+          "away": {
+            "players": [
+              {
+                "name": "E. Mendy",
+                "goals": 0,
+                "api_id": 845074,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "G",
+                "red_card": false,
+                "player_id": 8110,
+                "yellow_card": false,
+                "jersey_number": "16",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "GK",
+                "positions_detailed": [
+                  "GK"
+                ]
+              },
+              {
+                "name": "K. Diatta",
+                "goals": 0,
+                "api_id": 873534,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 2233,
+                "yellow_card": false,
+                "jersey_number": "15",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "RM",
+                "positions_detailed": [
+                  "RM",
+                  "RB"
+                ]
+              },
+              {
+                "name": "K. Koulibaly",
+                "goals": 0,
+                "api_id": 126071,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 7992,
+                "yellow_card": false,
+                "jersey_number": "3",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CB",
+                "positions_detailed": [
+                  "CB"
+                ]
+              },
+              {
+                "name": "M. Niakhaté",
+                "goals": 0,
+                "api_id": 758168,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 1106,
+                "yellow_card": false,
+                "jersey_number": "19",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CB",
+                "positions_detailed": [
+                  "CB"
+                ]
+              },
+              {
+                "name": "E. H. M. Diouf",
+                "goals": 0,
+                "api_id": 1471764,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 1638,
+                "yellow_card": false,
+                "jersey_number": "25",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "LM",
+                "positions_detailed": [
+                  "LM",
+                  "LB"
+                ]
+              },
+              {
+                "name": "L. Camara",
+                "goals": 0,
+                "api_id": 1389846,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 2228,
+                "yellow_card": false,
+                "jersey_number": "8",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CM",
+                "positions_detailed": [
+                  "CM",
+                  "DM"
+                ]
+              },
+              {
+                "name": "I. Gueye",
+                "goals": 0,
+                "api_id": 106337,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 3800,
+                "yellow_card": false,
+                "jersey_number": "5",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CM",
+                "positions_detailed": [
+                  "CM",
+                  "DM"
+                ]
+              },
+              {
+                "name": "P. Gueye",
+                "goals": 0,
+                "api_id": 879694,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 1771,
+                "yellow_card": false,
+                "jersey_number": "26",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CM",
+                "positions_detailed": [
+                  "CM"
+                ]
+              },
+              {
+                "name": "I. Sarr",
+                "goals": 0,
+                "api_id": 845286,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 1787,
+                "yellow_card": false,
+                "jersey_number": "18",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "AM",
+                "positions_detailed": [
+                  "AM",
+                  "RW"
+                ]
+              },
+              {
+                "name": "N. Jackson",
+                "goals": 0,
+                "api_id": 1085381,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 2471,
+                "yellow_card": false,
+                "jersey_number": "11",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "ST",
+                "positions_detailed": [
+                  "ST"
+                ]
+              },
+              {
+                "name": "S. Mané",
+                "goals": 0,
+                "api_id": 217704,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 7879,
+                "yellow_card": false,
+                "jersey_number": "10",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "LW",
+                "positions_detailed": [
+                  "LW",
+                  "LM"
+                ]
+              }
+            ],
+            "formation": "4-3-3",
+            "substitutes": [
+              {
+                "name": "Y. Diouf",
+                "goals": 0,
+                "api_id": 845183,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "G",
+                "red_card": false,
+                "player_id": 1485,
+                "yellow_card": false,
+                "jersey_number": "1",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "GK",
+                "positions_detailed": [
+                  "GK"
+                ]
+              },
+              {
+                "name": "M. Diaw",
+                "goals": 0,
+                "api_id": 580226,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "G",
+                "red_card": false,
+                "player_id": 1426,
+                "yellow_card": false,
+                "jersey_number": "23",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "GK",
+                "positions_detailed": [
+                  "GK"
+                ]
+              },
+              {
+                "name": "I. Jakobs",
+                "goals": 0,
+                "api_id": 897291,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 3728,
+                "yellow_card": false,
+                "jersey_number": "14",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "LB",
+                "positions_detailed": [
+                  "LB"
+                ]
+              },
+              {
+                "name": "A. Mendy",
+                "goals": 0,
+                "api_id": 1120615,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 1486,
+                "yellow_card": false,
+                "jersey_number": "24",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "RB",
+                "positions_detailed": [
+                  "RB",
+                  "CB"
+                ]
+              },
+              {
+                "name": "M. Sarr",
+                "goals": 0,
+                "api_id": 1154657,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 1704,
+                "yellow_card": false,
+                "jersey_number": "2",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CB",
+                "positions_detailed": [
+                  "CB"
+                ]
+              },
+              {
+                "name": "A. Seck",
+                "goals": 0,
+                "api_id": 583896,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 15372,
+                "yellow_card": false,
+                "jersey_number": "4",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CB",
+                "positions_detailed": [
+                  "CB"
+                ]
+              },
+              {
+                "name": "P. Sarr",
+                "goals": 0,
+                "api_id": 1002711,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 724,
+                "yellow_card": false,
+                "jersey_number": "17",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CM",
+                "positions_detailed": [
+                  "CM",
+                  "DM"
+                ]
+              },
+              {
+                "name": "P. I. Ciss",
+                "goals": 0,
+                "api_id": 913679,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 3864,
+                "yellow_card": false,
+                "jersey_number": "6",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CM",
+                "positions_detailed": [
+                  "CM",
+                  "DM"
+                ]
+              },
+              {
+                "name": "I. Ndiaye",
+                "goals": 0,
+                "api_id": 914309,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 810,
+                "yellow_card": false,
+                "jersey_number": "13",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "LW",
+                "positions_detailed": [
+                  "LW",
+                  "RW"
+                ]
+              },
+              {
+                "name": "H. Diarra",
+                "goals": 0,
+                "api_id": 1128532,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 4743,
+                "yellow_card": false,
+                "jersey_number": "21",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CM",
+                "positions_detailed": [
+                  "CM",
+                  "AM"
+                ]
+              },
+              {
+                "name": "B. S. Ndiaye",
+                "goals": 0,
+                "api_id": 2427970,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 23922,
+                "yellow_card": false,
+                "jersey_number": "22",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "MID",
+                "positions_detailed": []
+              },
+              {
+                "name": "C. Ndiaye",
+                "goals": 0,
+                "api_id": 868268,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 6633,
+                "yellow_card": false,
+                "jersey_number": "12",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "ST",
+                "positions_detailed": [
+                  "ST"
+                ]
+              },
+              {
+                "name": "A. Diao",
+                "goals": 0,
+                "api_id": 1493689,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 4105,
+                "yellow_card": false,
+                "jersey_number": "7",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "RW",
+                "positions_detailed": [
+                  "RW",
+                  "LW"
+                ]
+              },
+              {
+                "name": "I. Mbaye",
+                "goals": 0,
+                "api_id": 1590918,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 2255,
+                "yellow_card": false,
+                "jersey_number": "20",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "RW",
+                "positions_detailed": [
+                  "RW"
+                ]
+              },
+              {
+                "name": "A. B. Dieng",
+                "goals": 0,
+                "api_id": 1102503,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 1479,
+                "yellow_card": false,
+                "jersey_number": "9",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "ST",
+                "positions_detailed": [
+                  "ST"
+                ]
+              }
+            ]
+          },
+          "home": {
+            "players": [
+              {
+                "name": "M. Maignan",
+                "goals": 0,
+                "api_id": 191210,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "G",
+                "red_card": false,
+                "player_id": 1987,
+                "yellow_card": false,
+                "jersey_number": "16",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "GK",
+                "positions_detailed": [
+                  "GK"
+                ]
+              },
+              {
+                "name": "J. Koundé",
+                "goals": 0,
+                "api_id": 827212,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 739,
+                "yellow_card": false,
+                "jersey_number": "5",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "RB",
+                "positions_detailed": [
+                  "RB"
+                ]
+              },
+              {
+                "name": "W. Saliba",
+                "goals": 0,
+                "api_id": 941168,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 3460,
+                "yellow_card": false,
+                "jersey_number": "17",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CB",
+                "positions_detailed": [
+                  "CB"
+                ]
+              },
+              {
+                "name": "D. Upamecano",
+                "goals": 0,
+                "api_id": 798583,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 3463,
+                "yellow_card": false,
+                "jersey_number": "4",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CB",
+                "positions_detailed": [
+                  "CB"
+                ]
+              },
+              {
+                "name": "T. Hernández",
+                "goals": 0,
+                "api_id": 788027,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 7994,
+                "yellow_card": false,
+                "jersey_number": "19",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "LB",
+                "positions_detailed": [
+                  "LB"
+                ]
+              },
+              {
+                "name": "A. Tchouaméni",
+                "goals": 0,
+                "api_id": 859025,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 591,
+                "yellow_card": false,
+                "jersey_number": "8",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CM",
+                "positions_detailed": [
+                  "CM",
+                  "DM",
+                  "CB"
+                ]
+              },
+              {
+                "name": "A. Rabiot",
+                "goals": 0,
+                "api_id": 250737,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 1994,
+                "yellow_card": false,
+                "jersey_number": "14",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CM",
+                "positions_detailed": [
+                  "CM",
+                  "AM"
+                ]
+              },
+              {
+                "name": "M. Olise",
+                "goals": 0,
+                "api_id": 978838,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 2467,
+                "yellow_card": false,
+                "jersey_number": "11",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "RW",
+                "positions_detailed": [
+                  "RW"
+                ]
+              },
+              {
+                "name": "O. Dembélé",
+                "goals": 0,
+                "api_id": 818244,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 2253,
+                "yellow_card": false,
+                "jersey_number": "7",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "ST",
+                "positions_detailed": [
+                  "ST",
+                  "RW"
+                ]
+              },
+              {
+                "name": "D. Doué",
+                "goals": 0,
+                "api_id": 1154605,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 4324,
+                "yellow_card": false,
+                "jersey_number": "20",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "RW",
+                "positions_detailed": [
+                  "RW"
+                ]
+              },
+              {
+                "name": "K. Mbappé",
+                "goals": 0,
+                "api_id": 826643,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 594,
+                "yellow_card": false,
+                "jersey_number": "10",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "ST",
+                "positions_detailed": [
+                  "ST"
+                ]
+              }
+            ],
+            "formation": "4-2-3-1",
+            "substitutes": [
+              {
+                "name": "B. Samba",
+                "goals": 0,
+                "api_id": 164055,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "G",
+                "red_card": false,
+                "player_id": 2801,
+                "yellow_card": false,
+                "jersey_number": "1",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "GK",
+                "positions_detailed": [
+                  "GK"
+                ]
+              },
+              {
+                "name": "R. Risser",
+                "goals": 0,
+                "api_id": 1387161,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "G",
+                "red_card": false,
+                "player_id": 1406,
+                "yellow_card": false,
+                "jersey_number": "23",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "GK",
+                "positions_detailed": [
+                  "GK"
+                ]
+              },
+              {
+                "name": "M. Lacroix",
+                "goals": 0,
+                "api_id": 879674,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 424,
+                "yellow_card": false,
+                "jersey_number": "26",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CB",
+                "positions_detailed": [
+                  "CB"
+                ]
+              },
+              {
+                "name": "L. Hernández",
+                "goals": 0,
+                "api_id": 352370,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 2246,
+                "yellow_card": false,
+                "jersey_number": "21",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "LB",
+                "positions_detailed": [
+                  "LB",
+                  "CB"
+                ]
+              },
+              {
+                "name": "L. Digne",
+                "goals": 0,
+                "api_id": 96538,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 513,
+                "yellow_card": false,
+                "jersey_number": "3",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "LB",
+                "positions_detailed": [
+                  "LB"
+                ]
+              },
+              {
+                "name": "I. Konaté",
+                "goals": 0,
+                "api_id": 826215,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 324,
+                "yellow_card": false,
+                "jersey_number": "15",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CB",
+                "positions_detailed": [
+                  "CB"
+                ]
+              },
+              {
+                "name": "M. Gusto",
+                "goals": 0,
+                "api_id": 996958,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 393,
+                "yellow_card": false,
+                "jersey_number": "2",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "RB",
+                "positions_detailed": [
+                  "RB"
+                ]
+              },
+              {
+                "name": "M. Koné",
+                "goals": 0,
+                "api_id": 974087,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 1064,
+                "yellow_card": false,
+                "jersey_number": "6",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CM",
+                "positions_detailed": [
+                  "CM",
+                  "DM"
+                ]
+              },
+              {
+                "name": "N. Kanté",
+                "goals": 0,
+                "api_id": 234148,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 8155,
+                "yellow_card": false,
+                "jersey_number": "13",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CM",
+                "positions_detailed": [
+                  "CM",
+                  "DM"
+                ]
+              },
+              {
+                "name": "R. Cherki",
+                "goals": 0,
+                "api_id": 979128,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 856,
+                "yellow_card": false,
+                "jersey_number": "24",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "AM",
+                "positions_detailed": [
+                  "AM",
+                  "RW"
+                ]
+              },
+              {
+                "name": "W. Zaïre-Emery",
+                "goals": 0,
+                "api_id": 1142672,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 2243,
+                "yellow_card": false,
+                "jersey_number": "18",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CM",
+                "positions_detailed": [
+                  "CM",
+                  "RB"
+                ]
+              },
+              {
+                "name": "M. Akliouche",
+                "goals": 0,
+                "api_id": 1130939,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 2229,
+                "yellow_card": false,
+                "jersey_number": "25",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "RW",
+                "positions_detailed": [
+                  "RW",
+                  "AM"
+                ]
+              },
+              {
+                "name": "M. Thuram",
+                "goals": 0,
+                "api_id": 791702,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 1688,
+                "yellow_card": false,
+                "jersey_number": "9",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "ST",
+                "positions_detailed": [
+                  "ST"
+                ]
+              },
+              {
+                "name": "J. Mateta",
+                "goals": 0,
+                "api_id": 848276,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 432,
+                "yellow_card": false,
+                "jersey_number": "22",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "ST",
+                "positions_detailed": [
+                  "ST"
+                ]
+              },
+              {
+                "name": "B. Barcola",
+                "goals": 0,
+                "api_id": 996952,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 2261,
+                "yellow_card": false,
+                "jersey_number": "12",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "LW",
+                "positions_detailed": [
+                  "LW"
+                ]
+              }
+            ]
+          },
+          "confirmed": true
+        },
+        "social": [
+          {
+            "id": 361995,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSVNFNU9uOUJ4T01xNmpTblB2bWZWN3RpWVdXZ0VidlN2ZUpyUmFKbUotYkJub0UyRXlNM0ZNLVZYbzh5c2RyMnhUV0c5SzZQdHpRNWtlNWpQX3YwdkFJaVRBTmRSZ0xDZEdzTVpsQ24wbzNvNVphN0s1RzhPOFlva0F4MEJpRzZ0Vm96anNtempGQVZQ?oc=5",
+            "title": "Petr Pavlensky: France Moves to Revoke Asylum Status of Russian Artist",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "artlyst",
+            "account_name": "Artlyst",
+            "account_verified": false,
+            "published_at": "2026-06-16T14:13:33+00:00"
+          },
+          {
+            "id": 361983,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQQjF4Sl96akFQc0dFTEFYX3lyV1hRa0M1M3lIbUNOM1JORzFvTkNpLWJ5eTVfZmJKTTZHa1RYeWhLeGswRUFJcnpzZk1pTkpueEQtSU5Vd1lXOFBuZ2RQR0FZWDRXM2NJUExzeXJwUzlmNGtvTkZuS3pmbG5HRVNYblFJc0xlQUtRelJLd2pQelpUNmRWM1Z1OERlVWpISG9wRUF0YTVQNWtJdzNzRWNTMGdfTG5wRGJFazlwUmw5N1dtZTl1dDh2dDVHcHVEa2c3SG1F?oc=5",
+            "title": "France in focus - Who is Didier Deschamps, the France coach aiming for a third World Cup title?",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "france 24",
+            "account_name": "France 24",
+            "account_verified": false,
+            "published_at": "2026-06-16T14:13:06+00:00"
+          },
+          {
+            "id": 361852,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNYXQydWJFLTFoeWxQSUpaNERyZUZaOEhDcllFclhzMUQ4S2ZRQXBLMnNZYUxidDQwb2RYdkc0eFNVMDZjcThROUd1T3llYkhWOXVEXzZaWE1BU2FiUjRUTlFKaDFaaWJCMERaMnpuUHVMdm1VOXpTMWlGUm9DNjdmYkVUMEhuV2xUNWI3VndqbDVOb0FwY1hUWF94cVhJNUFlZXQ3MHMyYU5STXlFTU05NWpnQUZEQTZ5QVJTM1g4b3Z1Zm5UUWgxYTFUSFlLbEljWVE?oc=5",
+            "title": "World Cup 2026: Where to watch France vs. Senegal, Argentina vs. Algeria, Iraq World Cup debut, other Day 5 action",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "scarves and spikes",
+            "account_name": "Scarves and Spikes",
+            "account_verified": false,
+            "published_at": "2026-06-16T14:10:00+00:00"
+          },
+          {
+            "id": 361864,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPZ3B5aUo1aTRPR0ExNDlxRkRQbV90OWxlWXBPRFJKeGZYa2g0WTRoa2FlaHlBVk80V1BrVTBPdFZGcGQxemtKektoLU5LMFBtUG5wVjQzOXZHblBIVW8zdW9UWFFxcmhYWkFuWFRsUTJuRDJlcFYtOFpfRUpSZDdsMDZoMnNMRHpBalVqMi1sNTRnQTJfc0VQMDI0aXROU1kyTzhJQUQ1cjJFNnpBamxtc2lQRjhMVTNUOXZTak9YUEd5MDFEOFFQX1VqaDRsLXlmYVlieGFJWTllRnNfbklyUldGeVVtUQ?oc=5",
+            "title": "Fanatics Sportsbook promo code CBSFAN: Get up to $1,000 FanCash for France-Senegal, Argentina-Algeria Tuesday",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "cbs sports",
+            "account_name": "CBS Sports",
+            "account_verified": false,
+            "published_at": "2026-06-16T14:09:32+00:00"
+          },
+          {
+            "id": 361881,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVmJLeEVmV3JXc1dEWGM2OXJWam1WaDVKM2JwODJqYkZfR25ob1V1MTJ3dVlWN0s2MHd2dklLQjZ4VVM3MXVpS2pVbmQzZGY0Ym9oNmV0a3hndGJEVTFIcGlIZkRZeXJPdmdXVENtVDZfeWVYNkJrT0FXeG1fTFpoS05obEV0R00ybnBZUm5Qa3JUdnRlZDJhYkVRUXY0SGFqc3FucG51eWJuWmVwNmRidWxjY9IBuAFBVV95cUxPcHdsRXlVaW9TWHo5bGctZjNfSFR3aWhlNFk4bWl2bTZ0YnU3SDRGTjlIYlJ4WGRzZnlwb0UwN1daM2RvVUNqYlc4RklFUXRIcFhfWUlacF8tYjF5VnBYVU5ya21sRWR0SkpxNlRsMFpHMmxDajZWWTliX2RnTzBWMXFDdjh5MTZ5eU84VE5oR0RNS2RtYktrSG0tOTI1R1Z",
+            "title": "Senegal coach Pape Thiaw urges diaspora fans to support team at World Cup",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "tribuna.com",
+            "account_name": "Tribuna.com",
+            "account_verified": false,
+            "published_at": "2026-06-16T14:08:30+00:00"
+          },
+          {
+            "id": 362023,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQTEVUeWxsc1FXb1Boc1NOUnNjMEVrSkhpS2hUWUp6RmYwZGwxa2tuVzN4dlpYeTdVQ2VYWWJmQlc5YVBtMXFXTm9VdVhZVUZqd05ZaTBtZ2Z1M2huMVRMRjg2UmFIS1MtaUt3MzVIZUt0ZV80OU5nUGljVXVRWWU0X25uMGhyc296M3lpOXFyNmh0ZXJlY3RNWlp2MkEzdw?oc=5",
+            "title": "An overview: How can France-UK mission help reopen Strait of Hormuz?",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "rtl today",
+            "account_name": "RTL Today",
+            "account_verified": false,
+            "published_at": "2026-06-16T14:08:09+00:00"
+          },
+          {
+            "id": 361856,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQandmeWpCY1J4YlN2ZWMxVy1fdFYxQlhnVWFkaHN4bzA1QldXNmtETEppZ1E0R2Q4UGtGYUlYcmZzTTBsMFpqMVd4WFRrS1l4NUFqOEZKOFhNMVYxWmZmajg2dlE1LWhBSk1kRTBmYVl0SXB2bmFQSnpWWm94aldmMEtmbklZMFJyNEtzeF9vSU9XVTB6QkxObkpzZ1NUWjFhQXQzQU41OER5Z0QwMVRBR2xpVmt4WG5XeWswNGJ1UmjSAcYBQVVfeXFMT3RNRVF2VnJSMHh3QVNnZGZ1QlNQenBlQjJvem5MaUp5WkZHWTRiT3JMUldjQUpzN3FneWhUMFpyc2Z4dnpYTkwtdXE2NHpLWnU0c01NZ3JoSUxuMS0wV1V2WmNMX2RYb3dlOTRWSHBtUThic3ZFRTJsZ1Z4cG16bWtfTFFtdERkV3ZuejRvdHcweW9",
+            "title": "World Cup matchday 6: France takes on Senegal, Argentina to defend the title",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "kursiv media",
+            "account_name": "Kursiv Media",
+            "account_verified": false,
+            "published_at": "2026-06-16T14:07:58+00:00"
+          },
+          {
+            "id": 361872,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNVFZNNlBBUFBzbk9sa01JZDdPUDZaNnNweXpuUngtOUp1TE13WE9FWUl4UDhHYzJOb3BUckdOYVNHZTl4S2VCLTEyaGhtczctdUtxYk9oWllIdTQ0Z3hqdVNCenpBUzQ3eUtvNmdHOFpxNk16OTJ6RDdiSVJmZnZ3VXlWM2h0Zkd2NnJsZlZBUWRoaTRlbEdDcE41VHBVYU5kdXRHYTBFQUNadWJ0eVZCNEl1NHFGRzItSFBtUGhYbXpwb0E?oc=5",
+            "title": "France vs Senegal: Lineups, Prediction, Betting Tips & Odds",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "oddschecker",
+            "account_name": "Oddschecker",
+            "account_verified": false,
+            "published_at": "2026-06-16T14:07:52+00:00"
+          },
+          {
+            "id": 361880,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMjFNbWVQXzh4czN3VmJ3SlY1VVR1UHNrakdPWkxFbXcza0FsdTVucmVzMXZNNTZuUkxCb0xSRlRIc0JsOGJWVjg3akFBQV9aYUs5Umc1RVphdnhTNlVudjNTNVpHUWJWam4yR3l6R3VFVElHWWtGUUdiUTY1RThucUIyZnpRZHgxcU1FWU1kWGZwREhXSlB6SVlnSUNzeno2M0QxZWQ3QnJheW1oNEE?oc=5",
+            "title": "Supercomputer Predicts 2026 FIFA World Cup Group I Match Between France and Senegal",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "legit.ng",
+            "account_name": "Legit.ng",
+            "account_verified": false,
+            "published_at": "2026-06-16T14:07:43+00:00"
+          },
+          {
+            "id": 361859,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNN0NVWHVVQzdLZXV6blIycDdWUXJWdHBmZEt4dWlzcTZWNllXNzVlRVpqaHhlV1czN1JETGczZGV4aTFyTW5KY2RaV0tna1QtbWk5b0NkRmhoZU5yRUh5VEZEOGxla1I5UW1wcnp4TTI5eEctY0tCODhRTndfZ1F4UER2aTFmR3V4dWl0LUk0enpPN1pzTUxrOHl0Y2JmNUpGODhhU1AzdVQwcUo4NnVjMEZncjRFRFFRMnc?oc=5",
+            "title": "France vs Senegal: How & When to Watch the 2026 World Cup Group I Opener",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "morocco world news",
+            "account_name": "Morocco World News",
+            "account_verified": false,
+            "published_at": "2026-06-16T14:07:08+00:00"
+          },
+          {
+            "id": 361413,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5HcUNZSmFoNlNtUDdIZUlzWDhHNUxxV2FwUmlTN2NxYUFWeVlOOHJXMnd4VkdmSWJKVy1YXzdvc0E3RVh2TDF0U1pMa1hzdXk4aFVJc0F2X2ttUHdoZF9GZWRNNXNSaFZQRFg5eHln?oc=5",
+            "title": "Switzerland Joins Mexico, France, Germany, Spain, Canada, US, Japan, South Africa and More Among 95 Visa Free Travel Countries Boosting Costa Rica Tourism: New Report You Need to Know",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "travel and tour world",
+            "account_name": "Travel And Tour World",
+            "account_verified": false,
+            "published_at": "2026-06-16T14:06:12+00:00"
+          },
+          {
+            "id": 361862,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPVU0wZUE4ZFhqZktFTkpsM3hxMVA1eFp4NGZpM29ZS1Z6V2VvRy1Cb0s3eHhYVkNnZmwyM3dBdUtPcy1fZFJrdlVPV3lRN0MySEhHY0NPMzlFbmJMZjFqQ3dzbV9TVnRMRWp3ZzI1dFA0bUFlaFlvLUcwRFYwMlZKUEJn?oc=5",
+            "title": "NYC Gridlock Alert: France vs. Senegal at MetLife June 16",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "ny sports day",
+            "account_name": "NY Sports Day",
+            "account_verified": false,
+            "published_at": "2026-06-16T14:05:41+00:00"
+          },
+          {
+            "id": 361980,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPemZqYktyVFgyUTZhMHhfMjdlcHN5Tm1oUzlrVV9DaHIzU01Ia2RNNE9VV1dJYjdBbWJSQ3ZqbnRDTEJSZG9mb1FPUlpjY0JEVXVudkptNWtWcEF6NHhrcUtKTmZ2SzBPNTNxQUF3SU4xQUozVE1GekhoU2FjWkV1V3V2VktITHdJS05LWE9ZUzVMeGItTGV5c3dQOC1RWVlVR1I4MFdR?oc=5",
+            "title": "Trump meets with Zelenskyy at the G7 summit in France",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "nbc news",
+            "account_name": "NBC News",
+            "account_verified": false,
+            "published_at": "2026-06-16T14:05:37+00:00"
+          },
+          {
+            "id": 362020,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNT1JyNUhOOVVCU2hIY1N0T2dUWFIzVEdpX25tMTZ4eTVRMmF3TDFjVHVMNE5yZEVNaWVwQVJxOGYtZmlxWXBXZzZ2cmI3Qk91TC1MeWw4TUtNRzZ4N0ppaGZ5WGJXWm9jbTh2ZVhsUm0yR1hyUFlrWmNERXdtSHgyYUtsZTE2R3pxLVgxWmRJdTl1cE41N0NCaFhtX3lvWUlNcG92UE1uYkItQl9pWFRSOFFmZw?oc=5",
+            "title": "WORLD CUP DAILY, June 16: France, Argentina among 8 teams in action Tuesday",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "revelstoke review",
+            "account_name": "Revelstoke Review",
+            "account_verified": false,
+            "published_at": "2026-06-16T14:03:05+00:00"
+          },
+          {
+            "id": 362022,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPZ2lBZ3NNWDZUcW1EdG5YVXBTU05VRkU0R0ZjMlF5NWdEUjdieXpHd3d2Y3JUX0NUUjZPRFl6RU5lNHk5OUJjY2VkR1ByWXBaZVhEMktPZlVIaktSLW9iX19iQ2RUSkR2WDdicm9pVzFIZUZjLVFpS2N3SnhlYlB6N0JnSQ?oc=5",
+            "title": "France hosts G7 dominated by Trump, Iran",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "times of suriname",
+            "account_name": "Times of Suriname",
+            "account_verified": false,
+            "published_at": "2026-06-16T14:03:02+00:00"
+          },
+          {
+            "id": 361886,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTXFqWUI5Z1hLRksycVNJUzNTY211VWdUM1NOWjNtQ2RxcFZoVEVQa0pFR3RpczhIOGUyMDMtNmJOZE9ZRngwUVVPMDZhSWF1YTRibVVrdHh0U0dOTHI4dm9FZ080dS00eGlNZEcxNEhYSFo5R1BIWVJ0YTNHZHBVVFV1Rmhncjl1b0JRUXdvbHM0VjMzOWJkVWtpM0NZc1g3RG9jMEVGbm52SEkyeHVTMVY4eENLOVd60gG-AUFVX3lxTFBzTEY3RFBZaV83UFkzSnRTbXNIcnEzemF3cGp6MWFTcWU5NFk4eEFfamNsZU1IQktyMk1zWWRIVGozSFZSaThKdzhQalZfQVBMZzRyTGVSd2p1NWJFOEFuNFJyazU3ZDQ5U3Z2c0ZwcDdQYmtUNjYtTGswUHN1MXNxMkdMU3FPSkxRamo1QzVFSGotTVlLbHZseUw",
+            "title": "Will William Saliba play today? France vs Senegal at the 2026 FIFA World Cup",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "mix vale",
+            "account_name": "Mix Vale",
+            "account_verified": false,
+            "published_at": "2026-06-16T14:02:41+00:00"
+          },
+          {
+            "id": 361871,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQQ2w3MXdkUjhvUWRWLTJjb1pXdnF3YTZ6Um53WTBDRk1USzh6YjhhTFV3ejU5UDF6ZlJhcG9kWWlIcHVzcTVmMWxFcDMzRFVVdThGcGV4TnhxNUFld2o0NVRORXNFd1FCM3BKSWtXbklITUpKTm1Hckozd0VJSmdySG5QTQ?oc=5",
+            "title": "World Cup Games Today: Channel & Times For Tuesday's Schedule, Including France vs. Senegal",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "sportsnaut",
+            "account_name": "Sportsnaut",
+            "account_verified": false,
+            "published_at": "2026-06-16T14:02:21+00:00"
+          },
+          {
+            "id": 361850,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdXhGdEQ3WVhzeHhsUFRyWF9RVFcycFgtSW9pWl85Ri1hZkd1V05Kem1VdXJidXhvbnBxWUJVT01oRENMQXkzdlNrLVFzTDBtbmVVTS13b1FxcmxZbUk0S2pxdkR3NE1XdncyUE1ZVzNEV1J6RFZ5aWV5UktkSHl2dFlDUlFSblAxUk5Sb051WlAwTXNaSlpmY3lCVFRDY1g1Yk5Mc1h3?oc=5",
+            "title": "Lebouef remembers Senegal's shock 2002 World Cup win over France",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "espn",
+            "account_name": "ESPN",
+            "account_verified": false,
+            "published_at": "2026-06-16T14:02:19+00:00"
+          },
+          {
+            "id": 361981,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOU3BLbmhsbGVpZjZXMnZjWHRYMTNtdFRSSXZCZzRyUXo2ajhRd1VhRERtTVY1MWN2a2l0U0hLTDhXUFVabkFhX1A0NVpTZHlnTkZEcmYtQzI0SGEyTVZmaWs5cHhMOGlJUVVlNlFGcHQ3dlVyTURJT2ZpNm5wX0QyaUx5QUw0U0NEZnJlUHozUThuNXdZaF9sN0N6N2xjeDlVTWZaZmp1eFVJUk5IcUZQaFRnLVhJUlA4?oc=5",
+            "title": "William Saliba Injury Update: Is Saliba Playing for France Today in World Cup?",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "prizepicks",
+            "account_name": "PrizePicks",
+            "account_verified": false,
+            "published_at": "2026-06-16T14:01:33+00:00"
+          },
+          {
+            "id": 361868,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPSGlTNVk1cmEtN1UwY2dPcnJtX2dxLS1mWkhuZ09zVVhvUzRyakJ0UWZUTDk3YWI2MlJwMmZkRi1VTnl0UlEzanVNTXpoSm1ZdjBndWl5WmNKLTlhMkZwcl8tY1Vha04wMjJQaE5taWpuV1VUamgwbnpjQzdjV1ZDRjBuM0wzczZSelpF?oc=5",
+            "title": "How to watch France vs Senegal for FREE: Live stream details for World Cup 2026 rematch of a famous upset",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "fourfourtwo",
+            "account_name": "FourFourTwo",
+            "account_verified": false,
+            "published_at": "2026-06-16T14:00:00+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
@@ -1060,7 +3349,128 @@
         "away_form": null,
         "head_to_head": null,
         "lineups": null,
-        "social": []
+        "social": [
+          {
+            "id": 363366,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNLUZ2ZURLUlNla083Y1ZRN3oyd01CMmxFLVJwSDI3ckp0Wkw4OXlPTE9IaGJIdDk4VEJyc0FwVmxFRlJnb0dybWVjWk8zOS1YUVkwZEh4ZjNrdVZlRW5CMmNaR3BWNFpSV2l3YmkwRi04MFhxRVFrY2ozVFh4WjFKVUJyQmVyZ3JqTkxETEFSblFqOXc?oc=5",
+            "title": "Where to watch Iraq in the 2026 FIFA World Cup today? Next game, start time, TV channels and online live streams",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "goal.com",
+            "account_name": "Goal.com",
+            "account_verified": false,
+            "published_at": "2026-06-16T16:25:35+00:00"
+          },
+          {
+            "id": 363372,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNZXRfRTdNSUNPTURLbU50ZU9iN1V0OVppWlRFbzBvdG5fTHV6M1N0cm5hQVMyYzNQRllnQUhIOWtldThLTG44cVJKdlppSEo0SlhscnNCZzFwWktlLXRYYTdpdXVteDNMbUY2NG5vTHBoUHI3ODV6N1k3a19JamtRRlBYODBpNy0y?oc=5",
+            "title": "Iraq On Playing Norway | Graham Arnold Answers Questions",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "ghanasoccernet",
+            "account_name": "GhanaSoccernet",
+            "account_verified": false,
+            "published_at": "2026-06-16T16:21:54+00:00"
+          },
+          {
+            "id": 363368,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNbk4xSVNBUXN4MkV2dkkwRUkxWjRIZTctR1VpVDVuTkEyU2x4LXFxTlBKU2hIOTljNkpoUmYydFBHNFN0YXZEcmFQcGI5dXV3cWI4c3pmV2t0aFZSeEtZR21oRzBQMkRQekVTVzMxSkxWNExMd3pRbnhjRGMtV3VJQnB4WnByOTB2cWxIbWZWTzZ4by0xX1HSAVpBVV95cUxNVTNKUVVmZVMyX1V1YlNWM2dlYTlVUlBRSEE5cUdRR1lkWTNwTWVYWHlrdlpSRmhpSVpjZk9NSVFzaldyeURBVTJ5QU5HV1ZUY3R2NElIR0VQWUE?oc=5",
+            "title": "Trump to host Iraqi Prime Minister",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "oman observer",
+            "account_name": "Oman Observer",
+            "account_verified": false,
+            "published_at": "2026-06-16T16:17:16+00:00"
+          },
+          {
+            "id": 363362,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOc2JDVUNWMHViZXZDMU1sbTZ1N250bXlPZi1CRHJGTk10M0ZpeF9tc1BJQlVOM1hDeHdZV1YtZmc3d2lJMld1QTVoM0hjaExXNlBNWUQ5OGFDREU3ZENvUUR0UjBkbU9xRmZxU1I4dEFmTGFteVNYMnN4LVhMRTVVVVNZeWRNWF9R?oc=5",
+            "title": "Book Review: Outlasting the War on Terror in Iraq",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "thecanary.co",
+            "account_name": "thecanary.co",
+            "account_verified": false,
+            "published_at": "2026-06-16T16:13:38+00:00"
+          },
+          {
+            "id": 363358,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNRTBJNDFGRWRlVWZiN3lBOHZOek5SaVJlcmYxOERvaWhoWU5Bd1ZobHRrMVM3UmNJLXJZZVR5MUZSeVU1a1BkcmM2dXdTT1k0SV9rMzB6US16eUU3UWZ6ZzROX3Z5Tm1WSDlMRzZqVU9pc1hpdkdJOVg4VDJkNXRZTWtleXgza3FvYjluZ2VsSll2ajJuUHNlSTd4dk5IcEt1LVk0cFdJX2ZpQ3lpMDYtT2REV0daS3FM0gG-AUFVX3lxTE9WbUp3d0JQUURVWk83UzZsZEFJdnVxNDdONDJZSUlZeC1lV3FmaTAyYUlkYWFja1U1cVVBd1BjSmwzREdxT21nMHB0d19paktETG1zbWprcHRDODdhOWRKQ1c1RjY0Vk9Gckl2d1c1Y1g1UXJXWFhHLVdDbUxCODh2Qlg0bzc3bmxkSkN5a0FENEJkTl9ZVEdPaVp",
+            "title": "Iraq's bid to rein in Iran-linked militias becomes key test of US ties",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "a news",
+            "account_name": "A News",
+            "account_verified": false,
+            "published_at": "2026-06-16T16:10:46+00:00"
+          },
+          {
+            "id": 363371,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBkSmhNazlvU2ZEVzAtN1Y5d3lnVndGREZOM1pxT3BUSmtkTzMxTEZfTGdIZDRxR0hHSFhBc2l4YXN4ZjB2UmhjRE1mTWhYcTVWVC1iN0txRDY4WVZHSWs5OEVzYWVScHJoX0JiYndva3JOSklLakZsVzZxVE5ybmM?oc=5",
+            "title": "Haaland-Led Norway Heavy Favorites to Beat Iraq in 2026 World Cup Opening Group Stage Match",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "international business times australia",
+            "account_name": "International Business Times Australia",
+            "account_verified": false,
+            "published_at": "2026-06-16T16:10:35+00:00"
+          },
+          {
+            "id": 363348,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQRkVIRHdQeGQ5aHpxRmZxaU5GajU1N1o3cHA4OGZLWFg3N3VkUTFPZ29nYlRTNkppRFVQTVFsSEpyQ2VlYzJPRm01M2NLRGRYYjhCdXpZaFlDNTJRYjJXaHBuZm1HclV6WU5fWE5rakJTTFNrNk5tY1R3QV9kSWdzQWRuMUVGTDhoTllIRFo4SmpGS01yQnBEOThNZjJLY1RUbk5yZDhlanp5dw?oc=5",
+            "title": "Iraq Requests One-Year Extension for Türkiye Oil Pipeline as Talks Continue",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "pipeline technology journal",
+            "account_name": "Pipeline Technology Journal",
+            "account_verified": false,
+            "published_at": "2026-06-16T16:09:55+00:00"
+          },
+          {
+            "id": 363361,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxORW5MQzhJWFBKd2ZOMUd3c0pobVFESEZIQUxvdl9lNTBqWjIwMlpfU3EwM1I4ZXVpeGViUnBSMk53ZjJoc3FUNlpjYjZSN19OeEh0X1V1bjVwNkN1eThZakNZSi0wR2VzVy1iMFktZTJUUHo1VnlQNzZ6UWFiN2lOSlZabl9BOEVMa2VBQ0xZQjJ3eExZQ1ZRa2FDMy1EdVFy?oc=5",
+            "title": "Iraq vs Norway Live Stream, TV Channel & Kick-Off Time | World Cup 2026",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "goal.com",
+            "account_name": "Goal.com",
+            "account_verified": false,
+            "published_at": "2026-06-16T16:02:27+00:00"
+          },
+          {
+            "id": 363367,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPRlp4RmRDNGtublMxQnk1UnFVMWp5eGJxbkhQOUtReHcxQ3hpd0RSMW5VLUZiQ3RwWU1WbGt0c09uVzZFanh0WmJFckZ4Z1ZBRXFLdjBscjlJZ3d5MlBWTWtkSE5LcmMtZ0FXcnhjSGduY3J3VDc4R3ppTVlOVlJWcGNxNE81cXU1OFFRa0xFelNDSlYtRGFCZkstVEY4OHVz?oc=5",
+            "title": "Iraq vs Norway TV channel, kick-off time and how to watch World Cup tie",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "wales online",
+            "account_name": "Wales Online",
+            "account_verified": false,
+            "published_at": "2026-06-16T16:00:00+00:00"
+          },
+          {
+            "id": 363355,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQUWdFc2tGMG85WUxnb0ZuRzdFbzN1NkdhaENmYWVUYTg3azMwUVZIY29CSEhRVHRwZjJvcHEzbmxTNXhaaEYyV1RseFc4WkFId0tRYlJ3RnVwUTJ6LTVZbXFrN1FXeFpvb3gtUG1VN3lrRjNfc2tRa01hV1M1cm9aUVJFdS1EWm9lRlJR?oc=5",
+            "title": "Iraq vs. Norway World Cup prediction: Odds, picks, best bet",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "new york post",
+            "account_name": "New York Post",
+            "account_verified": false,
+            "published_at": "2026-06-16T16:00:00+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
@@ -3252,9 +5662,25 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 2,
+              "sentence": "When playing at home, Kawkab Marrakech have not lost to Ittihad Tanger in their last 3 encounters."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Kawkab Marrakech have won 3 home matches in a row."
+            },
+            {
+              "type_id": 22,
+              "sentence": "Ittihad Tanger's last away win against Kawkab Marrakech was in 2015."
+            }
+          ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Kawkab host Tanger in a mid-table Botola Pro clash where form tells two different stories.** Marrakech are scrappy (2W-1D-2L), while Tanger are hitting their stride with three wins in five. 🔥\n\nKawkab have shown they can grind — two home wins recently including a shutout over Raja — but consistency is their enemy. Tanger's momentum is real, though they'll be without M. Saoud due to suspension, which could disrupt their rhythm.\n\nKey storylines:\n\n- **Kawkab's home fortress vs. Tanger's away test**: Marrakech defend better at the Stade El Harti, but Tanger have won three of their last five anywhere.\n- **Midfield battle between Kawkab's G. Claude and I. Mihrab against Tanger's A. Lamrabat and M. E. Arouch**: Whoever controls tempo controls the tie.\n- **Kawkab's attacking depth** with O. Mahrous and Y. E. Bahraoui up top will need to press Tanger's back three.\n\nExpected lineups:\n\n- **Kawkab Athletic Club Marrakech**: M. Jemjami, N. Lougmani, R. Mennioui, H. Fassoukh, G. Claude, I. Mihrab, S. Cissé, O. Mahrous, H. Founti\n- **Ittihad Tanger**: A. E. Ouaad, B. Gaddarine, Z. Kiani, A. E. Wahabi, A. Lamrabat, M. E. Arouch, J. Rhabra, H. E. Bahja\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Kawkab 1-0 Tanger.** Model leans Marrakech at home, and a low-scoring affair fits the fixture vibe. 📍",
+            "generated_at": "2026-06-16T15:45:16.997976+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-06-15T05:20:10.133165+03:00",
@@ -3427,9 +5853,25 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 2,
+            "sentence": "When playing at home, Kawkab Marrakech have not lost to Ittihad Tanger in their last 3 encounters."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Kawkab Marrakech have won 3 home matches in a row."
+          },
+          {
+            "type_id": 22,
+            "sentence": "Ittihad Tanger's last away win against Kawkab Marrakech was in 2015."
+          }
+        ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Kawkab host Tanger in a mid-table Botola Pro clash where form tells two different stories.** Marrakech are scrappy (2W-1D-2L), while Tanger are hitting their stride with three wins in five. 🔥\n\nKawkab have shown they can grind — two home wins recently including a shutout over Raja — but consistency is their enemy. Tanger's momentum is real, though they'll be without M. Saoud due to suspension, which could disrupt their rhythm.\n\nKey storylines:\n\n- **Kawkab's home fortress vs. Tanger's away test**: Marrakech defend better at the Stade El Harti, but Tanger have won three of their last five anywhere.\n- **Midfield battle between Kawkab's G. Claude and I. Mihrab against Tanger's A. Lamrabat and M. E. Arouch**: Whoever controls tempo controls the tie.\n- **Kawkab's attacking depth** with O. Mahrous and Y. E. Bahraoui up top will need to press Tanger's back three.\n\nExpected lineups:\n\n- **Kawkab Athletic Club Marrakech**: M. Jemjami, N. Lougmani, R. Mennioui, H. Fassoukh, G. Claude, I. Mihrab, S. Cissé, O. Mahrous, H. Founti\n- **Ittihad Tanger**: A. E. Ouaad, B. Gaddarine, Z. Kiani, A. E. Wahabi, A. Lamrabat, M. E. Arouch, J. Rhabra, H. E. Bahja\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Kawkab 1-0 Tanger.** Model leans Marrakech at home, and a low-scoring affair fits the fixture vibe. 📍",
+          "generated_at": "2026-06-16T15:45:16.997976+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-06-16",
@@ -3836,9 +6278,25 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 1,
+              "sentence": "Hassani d'el-Jadida haven't won in their last 4 games."
+            },
+            {
+              "type_id": 2,
+              "sentence": "When playing at home, Maghreb de Fes have not lost to Hassani d'el-Jadida in their last 3 encounters."
+            },
+            {
+              "type_id": 24,
+              "sentence": "Hassani d'el-Jadida's away record this season: 3-5-4."
+            }
+          ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**MAS de Fès are the side with real momentum here** — two wins in their last five keeps them primed for a run, while Difaâ Hassani El-Jadidi are stuck in a rut, drawing four of their last five. 📊\n\nMAS have won their last away trip and bounced back from a blank at home with a 2-1 road victory. Difaâ, meanwhile, are the definition of midtable stalemate — they haven't tasted a win in five matches, though they've kept things tight defensively with three draws.\n\nKey storylines:\n\n- **MAS de Fès' offensive spark** against a **Difaâ Hassani El-Jadidi** defence that's bent but rarely broken in recent weeks\n- **Form divide**: home side clicking, visitors treading water — this is exactly the mismatch that swings Botola Pro matches\n- Last H2H ended level, but trajectory favors the fresher team here\n\nExpected lineups:\n\n- **MAS de Fès**: S. Chihab, S. A. Khorsa, D. El-Jabli, M. Ouhrou, N. Oussama, A. Harmach, S. Benjdida, S. Allouch, C. Semega, Z. Allaoui\n- **Difaâ Hassani El-Jadidi**: B. Niasse, A. Sanogo, M. Bentarcha, S. Abaaziz, A. Ziani, B. E. I. Bouzidi, M. El Hacen, Y. Michte, R. Dacosta, Y. Lamine\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n- **Total Goals 2.5**: Under 2.5 goals\n\nPrediction:\n\n**MAS de Fès 1–0 Difaâ Hassani El-Jadidi**. Tight contest, but home form edges it. 🎯",
+            "generated_at": "2026-06-16T15:45:22.182801+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-06-15T05:20:10.796394+03:00",
@@ -4000,9 +6458,25 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 1,
+            "sentence": "Hassani d'el-Jadida haven't won in their last 4 games."
+          },
+          {
+            "type_id": 2,
+            "sentence": "When playing at home, Maghreb de Fes have not lost to Hassani d'el-Jadida in their last 3 encounters."
+          },
+          {
+            "type_id": 24,
+            "sentence": "Hassani d'el-Jadida's away record this season: 3-5-4."
+          }
+        ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**MAS de Fès are the side with real momentum here** — two wins in their last five keeps them primed for a run, while Difaâ Hassani El-Jadidi are stuck in a rut, drawing four of their last five. 📊\n\nMAS have won their last away trip and bounced back from a blank at home with a 2-1 road victory. Difaâ, meanwhile, are the definition of midtable stalemate — they haven't tasted a win in five matches, though they've kept things tight defensively with three draws.\n\nKey storylines:\n\n- **MAS de Fès' offensive spark** against a **Difaâ Hassani El-Jadidi** defence that's bent but rarely broken in recent weeks\n- **Form divide**: home side clicking, visitors treading water — this is exactly the mismatch that swings Botola Pro matches\n- Last H2H ended level, but trajectory favors the fresher team here\n\nExpected lineups:\n\n- **MAS de Fès**: S. Chihab, S. A. Khorsa, D. El-Jabli, M. Ouhrou, N. Oussama, A. Harmach, S. Benjdida, S. Allouch, C. Semega, Z. Allaoui\n- **Difaâ Hassani El-Jadidi**: B. Niasse, A. Sanogo, M. Bentarcha, S. Abaaziz, A. Ziani, B. E. I. Bouzidi, M. El Hacen, Y. Michte, R. Dacosta, Y. Lamine\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n- **Total Goals 2.5**: Under 2.5 goals\n\nPrediction:\n\n**MAS de Fès 1–0 Difaâ Hassani El-Jadidi**. Tight contest, but home form edges it. 🎯",
+          "generated_at": "2026-06-16T15:45:22.182801+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-06-16",
@@ -4382,7 +6856,10 @@
           "jerseys": null,
           "funfacts": null,
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Renaissance Zemamra hosting Raja in a battle where form tells the whole story** — the hosts are streaky but trending up, while Raja's recent collapse makes this feel like a home advantage situation. 🔴\n\nZemamra's grabbed wins in two of their last three, while Raja are stuck in a rut with just one win across their last five. The visitors will be without M. O. Kehinde due to suspension, which only tightens their squeeze.\n\nKey storylines:\n\n- **Renaissance Zemamra's home comfort** vs a Raja side that's leaked goals and can't find consistency on the road\n- **Raja's injury headaches** with Kehinde sidelined, forcing tactical adjustments\n- Both teams setting up in 4-2-3-1 — a slugfest in the middle will likely decide this one\n\nExpected lineups:\n\n- **Renaissance Zemamra**: M. Fakhr, A. Badaoui, B. Soufi, R. A. Boughima, J. Ajako, A. E. Bajjani, M. Oujeddou, A. E. Hamzaoui\n- **Raja Club Athletic**: M. Harrar, B. Benoun, A. Khafifi, I. Mokadem, H. Boulacsout, M. Makaazi, H. Ferdaoussi, I. Khafi\n\nBest picks:\n\n- **Total Goals Under 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Zemamra 2-0 Raja**. Home edge, away crisis, and a low-scoring lean all point to the hosts edging a tight, controlled affair. 🎯",
+            "generated_at": "2026-06-16T15:45:27.156308+00:00"
+          },
           "live_websocket": false
         },
         "created_at": "2026-06-15T05:20:11.503479+03:00",
@@ -4523,7 +7000,10 @@
         "jerseys": null,
         "funfacts": null,
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Renaissance Zemamra hosting Raja in a battle where form tells the whole story** — the hosts are streaky but trending up, while Raja's recent collapse makes this feel like a home advantage situation. 🔴\n\nZemamra's grabbed wins in two of their last three, while Raja are stuck in a rut with just one win across their last five. The visitors will be without M. O. Kehinde due to suspension, which only tightens their squeeze.\n\nKey storylines:\n\n- **Renaissance Zemamra's home comfort** vs a Raja side that's leaked goals and can't find consistency on the road\n- **Raja's injury headaches** with Kehinde sidelined, forcing tactical adjustments\n- Both teams setting up in 4-2-3-1 — a slugfest in the middle will likely decide this one\n\nExpected lineups:\n\n- **Renaissance Zemamra**: M. Fakhr, A. Badaoui, B. Soufi, R. A. Boughima, J. Ajako, A. E. Bajjani, M. Oujeddou, A. E. Hamzaoui\n- **Raja Club Athletic**: M. Harrar, B. Benoun, A. Khafifi, I. Mokadem, H. Boulacsout, M. Makaazi, H. Ferdaoussi, I. Khafi\n\nBest picks:\n\n- **Total Goals Under 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Zemamra 2-0 Raja**. Home edge, away crisis, and a low-scoring lean all point to the hosts edging a tight, controlled affair. 🎯",
+          "generated_at": "2026-06-16T15:45:27.156308+00:00"
+        },
         "live_websocket": false,
         "home_form": {
           "calculated_at": "2026-06-16",
@@ -4922,9 +7402,25 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 24,
+              "sentence": "Union Touarga's home record this season: 0-7-5."
+            },
+            {
+              "type_id": 24,
+              "sentence": "Meknes's away record this season: 1-5-5."
+            },
+            {
+              "type_id": 26,
+              "sentence": "A year ago, Meknes were number 11 in the table with 30 points. Now they are number 7 with 31 points."
+            }
+          ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Union Touarga Sport rolls into this one as clear favorites against a misfiring CODM Meknès**, and honestly, the form gap tells the whole story. 📊\n\nTouarga are sitting pretty with 2W-2D in their last five, while Meknès have crumbled to just 1W-3L in theirs. The visitors' sole win came against Olympique Dcheira, but they've leaked goals elsewhere and looked vulnerable on the road.\n\nKey storylines:\n\n- **Union Touarga's** midfield axis of **Y. Dahmani** and **R. Lamkadem** should control possession against a struggling Meknès side\n- **H. Bouelainine** and **K. Konan** up top will be looking to capitalize on defensive frailty — Meknès have conceded in three of their last four\n- The last H2H ended goalless, but that was a different moment; Touarga's current momentum is hard to ignore\n\nExpected lineups:\n\n- **Union Touarga Sport**: A. E. Houasli, F. Zahouani, M. Ashabi, T. E. Khalej, T. Majni, Y. Dahmani, R. Lamkadem, N. Moustaghfir, H. Regragui, K. Konan, H. Bouelainine\n- **CODM Meknès**: A. Majid, A. Lourhraz, K. E. Bounagate, C. E. Knaidil, A. Nouader, I. Benktib, A. Hmaidou, M. Enzo, Z. Eddib, M. Sahd, M. Zinaf\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Union Touarga 2–0 CODM Meknès**. Touarga's form and Meknès's defensive leaks make this a lean toward a comfortable home win. ✅",
+            "generated_at": "2026-06-16T15:45:32.478084+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-06-15T05:20:12.066640+03:00",
@@ -5086,9 +7582,25 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 24,
+            "sentence": "Union Touarga's home record this season: 0-7-5."
+          },
+          {
+            "type_id": 24,
+            "sentence": "Meknes's away record this season: 1-5-5."
+          },
+          {
+            "type_id": 26,
+            "sentence": "A year ago, Meknes were number 11 in the table with 30 points. Now they are number 7 with 31 points."
+          }
+        ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Union Touarga Sport rolls into this one as clear favorites against a misfiring CODM Meknès**, and honestly, the form gap tells the whole story. 📊\n\nTouarga are sitting pretty with 2W-2D in their last five, while Meknès have crumbled to just 1W-3L in theirs. The visitors' sole win came against Olympique Dcheira, but they've leaked goals elsewhere and looked vulnerable on the road.\n\nKey storylines:\n\n- **Union Touarga's** midfield axis of **Y. Dahmani** and **R. Lamkadem** should control possession against a struggling Meknès side\n- **H. Bouelainine** and **K. Konan** up top will be looking to capitalize on defensive frailty — Meknès have conceded in three of their last four\n- The last H2H ended goalless, but that was a different moment; Touarga's current momentum is hard to ignore\n\nExpected lineups:\n\n- **Union Touarga Sport**: A. E. Houasli, F. Zahouani, M. Ashabi, T. E. Khalej, T. Majni, Y. Dahmani, R. Lamkadem, N. Moustaghfir, H. Regragui, K. Konan, H. Bouelainine\n- **CODM Meknès**: A. Majid, A. Lourhraz, K. E. Bounagate, C. E. Knaidil, A. Nouader, I. Benktib, A. Hmaidou, M. Enzo, Z. Eddib, M. Sahd, M. Zinaf\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Union Touarga 2–0 CODM Meknès**. Touarga's form and Meknès's defensive leaks make this a lean toward a comfortable home win. ✅",
+          "generated_at": "2026-06-16T15:45:32.478084+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-06-16",
@@ -5506,9 +8018,25 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 2,
+              "sentence": "Jaro haven't won any of their last 5 games against Ilves."
+            },
+            {
+              "type_id": 2,
+              "sentence": "When playing at home, Ilves have not lost to Jaro in their last 5 encounters."
+            },
+            {
+              "type_id": 24,
+              "sentence": "Jaro's away record this season: 0-2-4."
+            }
+          ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Ilves are rolling** — four wins in five and they're hosting a struggling **FF Jaro** side that's picked up just one win across their last five. This looks like a mismatch on paper. ⚽\n\nIlves have been a proper attacking force at home (5-2 thumping of FC Lahti), while Jaro's leaky defense has shipped 5, 2, and 5 goals in recent outings. The visitors do have a win tucked away (3-0 vs IFK Mariehamn), but consistency is clearly not their thing right now.\n\nKey storylines:\n\n- **Ilves' home dominance** continues against a soft Jaro backline — expect the hosts to control possession and tempo\n- **R. Riski and T. Hytönen** leading the charge for Ilves' attacking thrust in a 3-4-2-1 setup\n- **FF Jaro's defensive woes** — S. Vits and the back three will be under sustained pressure from a confident Ilves outfit\n\nExpected lineups:\n\n- **Ilves**: F. Krkalić, V. Kumpu, T. Miettunen, Y. Raap, M. Rale, M. Stjopin, O. Multala, K. Wallius\n- **FF Jaro**: S. Vits, L. Weckström, M. Ogungbaro, E. Gunnarsson, F. Ö. Ness, O. K. Kawo, M. Pedersen\n\nBest picks:\n\n- **Total Goals Under 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Ilves 2-0 FF Jaro**. The hosts are too sharp and Jaro too vulnerable — lean Ilves with a clean sheet in sight.",
+            "generated_at": "2026-06-16T15:45:37.818893+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-06-02T13:52:54.232546+03:00",
@@ -5688,9 +8216,25 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 2,
+            "sentence": "Jaro haven't won any of their last 5 games against Ilves."
+          },
+          {
+            "type_id": 2,
+            "sentence": "When playing at home, Ilves have not lost to Jaro in their last 5 encounters."
+          },
+          {
+            "type_id": 24,
+            "sentence": "Jaro's away record this season: 0-2-4."
+          }
+        ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Ilves are rolling** — four wins in five and they're hosting a struggling **FF Jaro** side that's picked up just one win across their last five. This looks like a mismatch on paper. ⚽\n\nIlves have been a proper attacking force at home (5-2 thumping of FC Lahti), while Jaro's leaky defense has shipped 5, 2, and 5 goals in recent outings. The visitors do have a win tucked away (3-0 vs IFK Mariehamn), but consistency is clearly not their thing right now.\n\nKey storylines:\n\n- **Ilves' home dominance** continues against a soft Jaro backline — expect the hosts to control possession and tempo\n- **R. Riski and T. Hytönen** leading the charge for Ilves' attacking thrust in a 3-4-2-1 setup\n- **FF Jaro's defensive woes** — S. Vits and the back three will be under sustained pressure from a confident Ilves outfit\n\nExpected lineups:\n\n- **Ilves**: F. Krkalić, V. Kumpu, T. Miettunen, Y. Raap, M. Rale, M. Stjopin, O. Multala, K. Wallius\n- **FF Jaro**: S. Vits, L. Weckström, M. Ogungbaro, E. Gunnarsson, F. Ö. Ness, O. K. Kawo, M. Pedersen\n\nBest picks:\n\n- **Total Goals Under 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Ilves 2-0 FF Jaro**. The hosts are too sharp and Jaro too vulnerable — lean Ilves with a clean sheet in sight.",
+          "generated_at": "2026-06-16T15:45:37.818893+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-06-16",
@@ -6055,7 +8599,10 @@
           "jerseys": null,
           "funfacts": null,
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**HJK are absolutely firing right now — but Inter Turku's defensive solidity could throw a wrench in the party.** 🔥 The home side has racked up 13 goals in their last three matches, yet they drew their most recent H2H against Inter, who've quietly strung together three wins and two draws to sit tight defensively.\n\nHJK's attack is humming hard, but Inter Turku aren't here to fold. Their draw in the last meeting is notable — and they've kept clean sheets mixed into that stretch. This feels like a classic case of **unstoppable force meets immovable object**, except the force is slightly more beatable than the scoreline suggests.\n\nKey storylines:\n\n- **HJK's offensive firepower** keeps translating into blowouts on the road, but home advantage could be negated by Inter's organized shape\n- **Inter Turku's form is deceptive** — three wins buried in draws shows they're grinding results, not just getting lucky\n- **Teemu Pukki and co.** will need to be clinical; Inter's midfield trio of Ahiabu, Yli-Kokko, and Kiiskilä can disrupt the tempo\n\nExpected lineups:\n\n- **HJK**: Marković, Cicale, Bogićević, Mentu, Lyons-Foster, Lingman, Möller, Borchers, Kallinen, Pukki, Ezeh\n- **Inter Turku**: Huuhtanen, Kangasniemi, Niska, Hämäläinen, Saarinen, Ahiabu, Yli-Kokko, Kiiskilä, Essomba, Jephta, Tuominen\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**HJK 2–0 Inter Turku.** Slight edge to the hosts, but Inter keeps it tighter than recent scorelines suggest.",
+            "generated_at": "2026-06-16T15:45:44.852744+00:00"
+          },
           "live_websocket": false
         },
         "created_at": "2026-06-02T13:52:54.484358+03:00",
@@ -6197,7 +8744,10 @@
         "jerseys": null,
         "funfacts": null,
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**HJK are absolutely firing right now — but Inter Turku's defensive solidity could throw a wrench in the party.** 🔥 The home side has racked up 13 goals in their last three matches, yet they drew their most recent H2H against Inter, who've quietly strung together three wins and two draws to sit tight defensively.\n\nHJK's attack is humming hard, but Inter Turku aren't here to fold. Their draw in the last meeting is notable — and they've kept clean sheets mixed into that stretch. This feels like a classic case of **unstoppable force meets immovable object**, except the force is slightly more beatable than the scoreline suggests.\n\nKey storylines:\n\n- **HJK's offensive firepower** keeps translating into blowouts on the road, but home advantage could be negated by Inter's organized shape\n- **Inter Turku's form is deceptive** — three wins buried in draws shows they're grinding results, not just getting lucky\n- **Teemu Pukki and co.** will need to be clinical; Inter's midfield trio of Ahiabu, Yli-Kokko, and Kiiskilä can disrupt the tempo\n\nExpected lineups:\n\n- **HJK**: Marković, Cicale, Bogićević, Mentu, Lyons-Foster, Lingman, Möller, Borchers, Kallinen, Pukki, Ezeh\n- **Inter Turku**: Huuhtanen, Kangasniemi, Niska, Hämäläinen, Saarinen, Ahiabu, Yli-Kokko, Kiiskilä, Essomba, Jephta, Tuominen\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**HJK 2–0 Inter Turku.** Slight edge to the hosts, but Inter keeps it tighter than recent scorelines suggest.",
+          "generated_at": "2026-06-16T15:45:44.852744+00:00"
+        },
         "live_websocket": false,
         "home_form": {
           "calculated_at": "2026-06-16",
@@ -6615,9 +9165,25 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 2,
+              "sentence": "When playing at home, Turun have not lost to Kuopion Palloseura in their last 3 encounters."
+            },
+            {
+              "type_id": 24,
+              "sentence": "Turun's home record this season: 4-1-0."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Turun haven't lost in any of their last 7 home matches."
+            }
+          ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**TPS hosting KuPS in a clash of drastically different form** — the hosts are limping along winless in five, while the visitors have barely lost a match all month. 🔥\n\nTPS absolutely need a result at home to arrest a brutal slump, but KuPS arrive with serious momentum, drawing their last three. This is peak trap-game energy: form suggests KuPS should roll, yet TPS's home-field desperation might just flip the script.\n\nKey storylines:\n\n- **TPS's attacking trio of S. Anini Jr., T. Tsirigotis, and L. Ivanovic** need to find the target against a KuPS back line anchored by K. Adams and B. Magassa\n- **KuPS' draw-heavy run** (2W 3D in five) hints at defensive solidity—expect a tight, low-scoring affair rather than a goal glut\n- Home desperation vs. road composure: **TPS will press high**, but KuPS' J. Kreidl and defensive shape could punish counter-attacks\n\nExpected lineups:\n\n- **Turun Palloseura**: E. Henriksson, E. Turkki, M. Hradecky, P. Juvanteny, O. Häggström, T. Zaal, A. Muzaci, M. Könkkölä, S. Anini Jr., T. Tsirigotis, L. Ivanovic\n- **Kuopion Palloseura**: J. Kreidl, B. Magassa, K. Adams, A. Lötjönen, C. Antwi, P. Pennanen, V. Gasc, J. Moreno, O. Ruoppi, G. Engvall, C. Kabuye\n\nBest picks:\n\n- **Total Goals Under 3.5**: Under 3.5 goals\n\nPrediction:\n\n**TPS 1–1 KuPS** — the model leans TPS, but KuPS' road form is too good to ignore; expect a cagey draw. ⚖️",
+            "generated_at": "2026-06-16T15:45:51.130096+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-06-02T13:52:54.767714+03:00",
@@ -6798,9 +9364,25 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 2,
+            "sentence": "When playing at home, Turun have not lost to Kuopion Palloseura in their last 3 encounters."
+          },
+          {
+            "type_id": 24,
+            "sentence": "Turun's home record this season: 4-1-0."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Turun haven't lost in any of their last 7 home matches."
+          }
+        ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**TPS hosting KuPS in a clash of drastically different form** — the hosts are limping along winless in five, while the visitors have barely lost a match all month. 🔥\n\nTPS absolutely need a result at home to arrest a brutal slump, but KuPS arrive with serious momentum, drawing their last three. This is peak trap-game energy: form suggests KuPS should roll, yet TPS's home-field desperation might just flip the script.\n\nKey storylines:\n\n- **TPS's attacking trio of S. Anini Jr., T. Tsirigotis, and L. Ivanovic** need to find the target against a KuPS back line anchored by K. Adams and B. Magassa\n- **KuPS' draw-heavy run** (2W 3D in five) hints at defensive solidity—expect a tight, low-scoring affair rather than a goal glut\n- Home desperation vs. road composure: **TPS will press high**, but KuPS' J. Kreidl and defensive shape could punish counter-attacks\n\nExpected lineups:\n\n- **Turun Palloseura**: E. Henriksson, E. Turkki, M. Hradecky, P. Juvanteny, O. Häggström, T. Zaal, A. Muzaci, M. Könkkölä, S. Anini Jr., T. Tsirigotis, L. Ivanovic\n- **Kuopion Palloseura**: J. Kreidl, B. Magassa, K. Adams, A. Lötjönen, C. Antwi, P. Pennanen, V. Gasc, J. Moreno, O. Ruoppi, G. Engvall, C. Kabuye\n\nBest picks:\n\n- **Total Goals Under 3.5**: Under 3.5 goals\n\nPrediction:\n\n**TPS 1–1 KuPS** — the model leans TPS, but KuPS' road form is too good to ignore; expect a cagey draw. ⚖️",
+          "generated_at": "2026-06-16T15:45:51.130096+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-06-16",
@@ -7218,9 +9800,21 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 1,
+              "sentence": "Portugal haven't lost in their last 5 games."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Portugal have a winning streak of 3 matches."
+            }
+          ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Portugal rolls into Houston as heavy favorites**, and their form makes it easy to see why—four wins in five with that crisp 2-0 away scalp over the USA. 🔥\n\nDR Congo's been solid defensively (that 0-0 in Copenhagen) but they're walking into a buzzsaw here. Portugal's attacking midfield is stacked, and they smell blood early in the tournament.\n\nKey storylines:\n\n- **Bruno Fernandes and Rafa Leão** spearheading Portugal's midfield creativity against a Congo side that thrives on organization rather than flair\n- **Chancel Bakambu** leading Congo's press upfront, but isolation risk if Portugal controls tempo through **Vitinha and Rúben Neves**\n- Portugal's fullbacks **Cancelo and Mendes** should have acres of space to exploit down the flanks\n\nExpected lineups:\n\n- **Portugal**: D. Costa, Cancelo, G. Inácio, R. Veiga, N. Mendes, Vitinha, R. Neves, R. Leão, B. Fernandes, P. Neto, C. Ronaldo\n- **DR Congo**: L. Mpasi Nzau, A. Wan-Bissaka, C. Mbemba, A. Tuanzebe, Kayembe, N. Sadiki, A. Masuaku, S. Moutoussamy, N. Mukau, T. Bongonda, C. Bakambu\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**Portugal 3–0 DR Congo** 🎯\n\nPortugal's too slick here—expect early control and a comfortable win.",
+            "generated_at": "2026-06-16T17:45:19.393723+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-06-02T13:52:55.136503+03:00",
@@ -7417,9 +10011,21 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 1,
+            "sentence": "Portugal haven't lost in their last 5 games."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Portugal have a winning streak of 3 matches."
+          }
+        ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Portugal rolls into Houston as heavy favorites**, and their form makes it easy to see why—four wins in five with that crisp 2-0 away scalp over the USA. 🔥\n\nDR Congo's been solid defensively (that 0-0 in Copenhagen) but they're walking into a buzzsaw here. Portugal's attacking midfield is stacked, and they smell blood early in the tournament.\n\nKey storylines:\n\n- **Bruno Fernandes and Rafa Leão** spearheading Portugal's midfield creativity against a Congo side that thrives on organization rather than flair\n- **Chancel Bakambu** leading Congo's press upfront, but isolation risk if Portugal controls tempo through **Vitinha and Rúben Neves**\n- Portugal's fullbacks **Cancelo and Mendes** should have acres of space to exploit down the flanks\n\nExpected lineups:\n\n- **Portugal**: D. Costa, Cancelo, G. Inácio, R. Veiga, N. Mendes, Vitinha, R. Neves, R. Leão, B. Fernandes, P. Neto, C. Ronaldo\n- **DR Congo**: L. Mpasi Nzau, A. Wan-Bissaka, C. Mbemba, A. Tuanzebe, Kayembe, N. Sadiki, A. Masuaku, S. Moutoussamy, N. Mukau, T. Bongonda, C. Bakambu\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**Portugal 3–0 DR Congo** 🎯\n\nPortugal's too slick here—expect early control and a comfortable win.",
+          "generated_at": "2026-06-16T17:45:19.393723+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-06-16",
@@ -7586,6 +10192,602 @@
           "fail_to_score_pct": 23.1,
           "avg_goals_scored_1h": 0.69,
           "avg_goals_conceded_1h": 0.27
+        }
+      }
+    },
+    {
+      "event_id": 207246,
+      "prediction": {
+        "id": 4803,
+        "event": {
+          "id": 207246,
+          "league": {
+            "id": 55,
+            "name": "Veikkausliiga",
+            "country": "Finland",
+            "is_women": false,
+            "current_season": null
+          },
+          "season": null,
+          "home_team": "IF Gnistan",
+          "away_team": "FC Lahti",
+          "home_team_obj": {
+            "id": 2095,
+            "name": "IF Gnistan",
+            "short_name": "Gnistan",
+            "country": "Finland",
+            "coach": {
+              "name": "Jussi Leppälahti",
+              "shortName": "J. Leppälahti"
+            },
+            "venue": null
+          },
+          "away_team_obj": {
+            "id": 2101,
+            "name": "FC Lahti",
+            "short_name": "Lahti",
+            "country": "Finland",
+            "coach": {
+              "name": "Gonçalo Pereira",
+              "shortName": "G. Pereira"
+            },
+            "venue": null
+          },
+          "event_date": "2026-06-17T21:00:00+03:00",
+          "round_number": null,
+          "round_name": "",
+          "group_name": null,
+          "status": "notstarted",
+          "home_score": null,
+          "away_score": null,
+          "home_score_ht": null,
+          "away_score_ht": null,
+          "current_minute": null,
+          "period": "",
+          "odds_home": null,
+          "odds_draw": null,
+          "odds_away": null,
+          "odds_over_15": null,
+          "odds_over_25": null,
+          "odds_over_35": null,
+          "odds_under_15": null,
+          "odds_under_25": null,
+          "odds_under_35": null,
+          "odds_btts_yes": null,
+          "odds_btts_no": null,
+          "actual_home_xg": null,
+          "actual_away_xg": null,
+          "home_xg_live": null,
+          "away_xg_live": null,
+          "penalty_shootout": null,
+          "extra_time_score": null,
+          "is_local_derby": false,
+          "is_neutral_ground": null,
+          "travel_distance_km": null,
+          "weather_code": 51,
+          "wind_speed": 15.5,
+          "temperature_c": 12,
+          "pitch_condition": null,
+          "attendance": null,
+          "referee": null,
+          "home_coach": {
+            "id": 1525,
+            "name": "Jussi Leppälahti",
+            "short_name": "J. Leppälahti",
+            "country": "Finland",
+            "profile": "balanced",
+            "preferred_formation": "3-4-3",
+            "pressing_intensity": 0.12678167346136132,
+            "defensive_line": "mid",
+            "top_styles": [
+              "chaos_ball",
+              "terrorist_fb"
+            ]
+          },
+          "away_coach": {
+            "id": 1531,
+            "name": "Gonçalo Pereira",
+            "short_name": "G. Pereira",
+            "country": "Portugal",
+            "profile": "attacking",
+            "preferred_formation": "4-3-3",
+            "pressing_intensity": 0.1681506400908927,
+            "defensive_line": "mid",
+            "top_styles": [
+              "chaos_ball",
+              "inverted_fb"
+            ]
+          },
+          "unavailable_players": null,
+          "venue": {
+            "id": 1297,
+            "name": "Mustapekka Areena",
+            "city": "Helsinki",
+            "country": "Finland",
+            "capacity": 1100,
+            "latitude": 60.234693,
+            "longitude": 24.962558,
+            "pitch_x": null,
+            "pitch_y": null,
+            "built_year": null
+          },
+          "incidents": null,
+          "live_stats": null,
+          "lineups": null,
+          "shotmap": null,
+          "momentum": null,
+          "xg_per_minute": null,
+          "average_positions": null,
+          "jerseys": {
+            "away": {
+              "GK": {
+                "base": "3fe451",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "ffffff",
+                "sleeve": "ffffff"
+              },
+              "player": {
+                "base": "000000",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "c55c6f",
+                "sleeve": "000000",
+                "sleevelong": "000000"
+              }
+            },
+            "home": {
+              "GK": {
+                "base": "9f0eb4",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "ffffff",
+                "sleeve": "ffffff"
+              },
+              "player": {
+                "base": "fff800",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "000000",
+                "sleeve": "0560b1"
+              }
+            }
+          },
+          "funfacts": [
+            {
+              "type_id": 2,
+              "sentence": "When playing at home, Gnistan have not lost to Lahti in their last 3 encounters."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Gnistan have won 3 home matches in a row."
+            },
+            {
+              "type_id": 6,
+              "sentence": "During the last 5 meetings with Gnistan playing at home, Gnistan have won 1 times, there have been 2 draws while Lahti have won 2 times. The goal difference is 7-6 in favour of Lahti."
+            }
+          ],
+          "sr_stats": null,
+          "ai_preview": null,
+          "live_websocket": true
+        },
+        "created_at": "2026-06-02T13:52:55.755519+03:00",
+        "prob_home_win": 55.762265477348784,
+        "prob_draw": 25.495184739917377,
+        "prob_away_win": 18.742549782733835,
+        "predicted_result": "H",
+        "expected_home_goals": 1.10884,
+        "expected_away_goals": 0.96289,
+        "prob_over_15": 70.30514310725123,
+        "prob_over_25": 43.44113565035216,
+        "prob_over_35": 19.820540248560125,
+        "prob_btts_yes": 50.917470725710565,
+        "confidence": 55.762265477348784,
+        "model_version": "v5.0",
+        "most_likely_score": "1-0",
+        "favorite": "H",
+        "favorite_prob": 55.762265477348784,
+        "favorite_recommend": false,
+        "over_15_recommend": false,
+        "over_25_recommend": false,
+        "over_35_recommend": false,
+        "btts_recommend": false,
+        "winner_recommend": false
+      },
+      "event_detail": {
+        "id": 207246,
+        "league": {
+          "id": 55,
+          "name": "Veikkausliiga",
+          "country": "Finland",
+          "is_women": false,
+          "current_season": null
+        },
+        "season": null,
+        "home_team": "IF Gnistan",
+        "away_team": "FC Lahti",
+        "home_team_obj": {
+          "id": 2095,
+          "name": "IF Gnistan",
+          "short_name": "Gnistan",
+          "country": "Finland",
+          "coach": {
+            "name": "Jussi Leppälahti",
+            "shortName": "J. Leppälahti"
+          },
+          "venue": null
+        },
+        "away_team_obj": {
+          "id": 2101,
+          "name": "FC Lahti",
+          "short_name": "Lahti",
+          "country": "Finland",
+          "coach": {
+            "name": "Gonçalo Pereira",
+            "shortName": "G. Pereira"
+          },
+          "venue": null
+        },
+        "event_date": "2026-06-17T21:00:00+03:00",
+        "round_number": null,
+        "round_name": "",
+        "group_name": null,
+        "status": "notstarted",
+        "home_score": null,
+        "away_score": null,
+        "home_score_ht": null,
+        "away_score_ht": null,
+        "current_minute": null,
+        "period": "",
+        "odds_home": null,
+        "odds_draw": null,
+        "odds_away": null,
+        "odds_over_15": null,
+        "odds_over_25": null,
+        "odds_over_35": null,
+        "odds_under_15": null,
+        "odds_under_25": null,
+        "odds_under_35": null,
+        "odds_btts_yes": null,
+        "odds_btts_no": null,
+        "actual_home_xg": null,
+        "actual_away_xg": null,
+        "home_xg_live": null,
+        "away_xg_live": null,
+        "penalty_shootout": null,
+        "extra_time_score": null,
+        "is_local_derby": false,
+        "is_neutral_ground": null,
+        "travel_distance_km": null,
+        "weather_code": 51,
+        "wind_speed": 15.5,
+        "temperature_c": 12,
+        "pitch_condition": null,
+        "attendance": null,
+        "referee": null,
+        "home_coach": {
+          "id": 1525,
+          "name": "Jussi Leppälahti",
+          "short_name": "J. Leppälahti",
+          "country": "Finland",
+          "profile": "balanced",
+          "preferred_formation": "3-4-3",
+          "pressing_intensity": 0.12678167346136132,
+          "defensive_line": "mid",
+          "top_styles": [
+            "chaos_ball",
+            "terrorist_fb"
+          ]
+        },
+        "away_coach": {
+          "id": 1531,
+          "name": "Gonçalo Pereira",
+          "short_name": "G. Pereira",
+          "country": "Portugal",
+          "profile": "attacking",
+          "preferred_formation": "4-3-3",
+          "pressing_intensity": 0.1681506400908927,
+          "defensive_line": "mid",
+          "top_styles": [
+            "chaos_ball",
+            "inverted_fb"
+          ]
+        },
+        "unavailable_players": null,
+        "venue": {
+          "id": 1297,
+          "name": "Mustapekka Areena",
+          "city": "Helsinki",
+          "country": "Finland",
+          "capacity": 1100,
+          "latitude": 60.234693,
+          "longitude": 24.962558,
+          "pitch_x": null,
+          "pitch_y": null,
+          "built_year": null
+        },
+        "live_stats": null,
+        "jerseys": {
+          "away": {
+            "GK": {
+              "base": "3fe451",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "ffffff",
+              "sleeve": "ffffff"
+            },
+            "player": {
+              "base": "000000",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "c55c6f",
+              "sleeve": "000000",
+              "sleevelong": "000000"
+            }
+          },
+          "home": {
+            "GK": {
+              "base": "9f0eb4",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "ffffff",
+              "sleeve": "ffffff"
+            },
+            "player": {
+              "base": "fff800",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "000000",
+              "sleeve": "0560b1"
+            }
+          }
+        },
+        "funfacts": [
+          {
+            "type_id": 2,
+            "sentence": "When playing at home, Gnistan have not lost to Lahti in their last 3 encounters."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Gnistan have won 3 home matches in a row."
+          },
+          {
+            "type_id": 6,
+            "sentence": "During the last 5 meetings with Gnistan playing at home, Gnistan have won 1 times, there have been 2 draws while Lahti have won 2 times. The goal difference is 7-6 in favour of Lahti."
+          }
+        ],
+        "sr_stats": null,
+        "ai_preview": null,
+        "live_websocket": true,
+        "home_form": {
+          "calculated_at": "2026-06-16",
+          "matches_played": 5,
+          "form_string": "WWLWD",
+          "wins": 3,
+          "draws": 1,
+          "losses": 1,
+          "points_last_n": 10,
+          "goals_scored_last_n": 12,
+          "goals_conceded_last_n": 5,
+          "avg_xg": 0.55508,
+          "avg_xg_conceded": 0.65554,
+          "avg_shots": 1.4,
+          "avg_shots_on_target": 0.6,
+          "avg_key_passes": 0.6,
+          "goal_conversion_rate": 4.323701088131441,
+          "defensive_efficiency": -0.5254599261677395,
+          "clean_sheets": 2,
+          "avg_pass_accuracy": 71.9869706840391,
+          "duel_win_rate": 0.36774193548387096,
+          "aerial_win_rate": 0.44,
+          "avg_fouls": 1.8,
+          "avg_yellow_cards": 2,
+          "home_ppg": 1.8,
+          "away_ppg": 1,
+          "home_goals_scored": 11,
+          "home_goals_conceded": 10,
+          "away_goals_scored": 5,
+          "away_goals_conceded": 5,
+          "avg_team_rating": 6.7666666666666675
+        },
+        "away_form": {
+          "calculated_at": "2026-06-16",
+          "matches_played": 5,
+          "form_string": "LWLDD",
+          "wins": 1,
+          "draws": 2,
+          "losses": 2,
+          "points_last_n": 5,
+          "goals_scored_last_n": 10,
+          "goals_conceded_last_n": 7,
+          "avg_xg": 0.91364,
+          "avg_xg_conceded": 0.9484,
+          "avg_shots": 2.8,
+          "avg_shots_on_target": 1,
+          "avg_key_passes": 2.2,
+          "goal_conversion_rate": 2.189046013747209,
+          "defensive_efficiency": -0.4761703922395615,
+          "clean_sheets": 1,
+          "avg_pass_accuracy": 84.93449781659389,
+          "duel_win_rate": 0.42045454545454547,
+          "aerial_win_rate": 0.5714285714285714,
+          "avg_fouls": 2.2,
+          "avg_yellow_cards": 2.4,
+          "home_ppg": 1.6,
+          "away_ppg": 0.75,
+          "home_goals_scored": 11,
+          "home_goals_conceded": 6,
+          "away_goals_scored": 3,
+          "away_goals_conceded": 5,
+          "avg_team_rating": 7.0357142857142865
+        },
+        "head_to_head": null,
+        "lineups": null,
+        "social": []
+      },
+      "managers": {
+        "home": {
+          "id": 1525,
+          "name": "Jussi Leppälahti",
+          "short_name": "J. Leppälahti",
+          "country": "Finland",
+          "current_team": {
+            "id": 2095,
+            "name": "IF Gnistan"
+          },
+          "preferred_formation": "3-4-3",
+          "formations_used": {
+            "3-4-3": 3,
+            "4-4-2": 2,
+            "5-3-2": 2,
+            "5-4-1": 2,
+            "3-4-1-2": 1
+          },
+          "profile": "balanced",
+          "team_style": "neutral",
+          "pressing_intensity": 0.12678167346136132,
+          "defensive_line": "mid",
+          "tactical_styles": [
+            {
+              "rank": 1,
+              "code": "chaos_ball",
+              "name": "Chaos Ball",
+              "category": "fan",
+              "emoji": "🎲",
+              "description": "Embrace pure randomness, anything can happen",
+              "score": 0.452
+            },
+            {
+              "rank": 2,
+              "code": "terrorist_fb",
+              "name": "Terrorist Football",
+              "category": "fan",
+              "emoji": "💣",
+              "description": "Ultra-negative setup — destroy the game",
+              "score": 0.065
+            },
+            {
+              "rank": 3,
+              "code": "vibes_fc",
+              "name": "Vibes FC",
+              "category": "fan",
+              "emoji": "✨",
+              "description": "Minimal structure, individual freedom",
+              "score": 0.063
+            },
+            {
+              "rank": 4,
+              "code": "park_the_bus",
+              "name": "Park the Bus",
+              "category": "defensive",
+              "emoji": "🚌",
+              "description": "Ultra-deep defense, minimal attacking intent",
+              "score": 0.049
+            }
+          ],
+          "matches_total": 11,
+          "wins": 5,
+          "draws": 2,
+          "losses": 4,
+          "win_pct": 45.5,
+          "avg_goals_scored": 1.64,
+          "avg_goals_conceded": 1.36,
+          "avg_possession": 41.3,
+          "avg_shots": 10.4,
+          "avg_shots_on_target": 4.2,
+          "avg_xg_for": 1.23,
+          "avg_xg_against": 1.13,
+          "avg_corners": 3.5,
+          "avg_yellow_cards": 1.91,
+          "avg_red_cards": 0,
+          "avg_fouls": 13.2,
+          "clean_sheet_pct": 36.4,
+          "btts_pct": 36.4,
+          "over_25_pct": 45.5,
+          "over_15_pct": 90.9,
+          "fail_to_score_pct": 27.3,
+          "avg_goals_scored_1h": 0.55,
+          "avg_goals_conceded_1h": 0.55
+        },
+        "away": {
+          "id": 1531,
+          "name": "Gonçalo Pereira",
+          "short_name": "G. Pereira",
+          "country": "Portugal",
+          "current_team": {
+            "id": 2101,
+            "name": "FC Lahti"
+          },
+          "preferred_formation": "4-3-3",
+          "formations_used": {
+            "4-3-3": 12,
+            "4-2-3-1": 1
+          },
+          "profile": "attacking",
+          "team_style": "neutral",
+          "pressing_intensity": 0.1681506400908927,
+          "defensive_line": "mid",
+          "tactical_styles": [
+            {
+              "rank": 1,
+              "code": "chaos_ball",
+              "name": "Chaos Ball",
+              "category": "fan",
+              "emoji": "🎲",
+              "description": "Embrace pure randomness, anything can happen",
+              "score": 0.096
+            },
+            {
+              "rank": 2,
+              "code": "inverted_fb",
+              "name": "Inverted Fullbacks",
+              "category": "possession",
+              "emoji": "↩",
+              "description": "Fullbacks step into midfield to overload centre",
+              "score": 0.087
+            },
+            {
+              "rank": 3,
+              "code": "tiki_taka",
+              "name": "Tiki-Taka",
+              "category": "possession",
+              "emoji": "🎨",
+              "description": "Short passing, domination via possession",
+              "score": 0.059
+            },
+            {
+              "rank": 4,
+              "code": "total_football",
+              "name": "Total Football",
+              "category": "possession",
+              "emoji": "🌀",
+              "description": "Fluid rotations, every player attacks and defends",
+              "score": 0.059
+            }
+          ],
+          "matches_total": 15,
+          "wins": 7,
+          "draws": 2,
+          "losses": 6,
+          "win_pct": 46.7,
+          "avg_goals_scored": 1.8,
+          "avg_goals_conceded": 1.47,
+          "avg_possession": 54.36,
+          "avg_shots": 11.82,
+          "avg_shots_on_target": 4.36,
+          "avg_xg_for": 1.9,
+          "avg_xg_against": 1.42,
+          "avg_corners": 4.64,
+          "avg_yellow_cards": 2.33,
+          "avg_red_cards": 0.07,
+          "avg_fouls": 11.91,
+          "clean_sheet_pct": 20,
+          "btts_pct": 66.7,
+          "over_25_pct": 60,
+          "over_15_pct": 80,
+          "fail_to_score_pct": 13.3,
+          "avg_goals_scored_1h": 1.13,
+          "avg_goals_conceded_1h": 0.8
         }
       }
     },
@@ -8088,576 +11290,6 @@
           "fail_to_score_pct": 33.3,
           "avg_goals_scored_1h": 1.6,
           "avg_goals_conceded_1h": 0.2
-        }
-      }
-    },
-    {
-      "event_id": 207246,
-      "prediction": {
-        "id": 4803,
-        "event": {
-          "id": 207246,
-          "league": {
-            "id": 55,
-            "name": "Veikkausliiga",
-            "country": "Finland",
-            "is_women": false,
-            "current_season": null
-          },
-          "season": null,
-          "home_team": "IF Gnistan",
-          "away_team": "FC Lahti",
-          "home_team_obj": {
-            "id": 2095,
-            "name": "IF Gnistan",
-            "short_name": "Gnistan",
-            "country": "Finland",
-            "coach": {
-              "name": "Jussi Leppälahti",
-              "shortName": "J. Leppälahti"
-            },
-            "venue": null
-          },
-          "away_team_obj": {
-            "id": 2101,
-            "name": "FC Lahti",
-            "short_name": "Lahti",
-            "country": "Finland",
-            "coach": {
-              "name": "Gonçalo Pereira",
-              "shortName": "G. Pereira"
-            },
-            "venue": null
-          },
-          "event_date": "2026-06-17T21:00:00+03:00",
-          "round_number": null,
-          "round_name": "",
-          "group_name": null,
-          "status": "notstarted",
-          "home_score": null,
-          "away_score": null,
-          "home_score_ht": null,
-          "away_score_ht": null,
-          "current_minute": null,
-          "period": "",
-          "odds_home": null,
-          "odds_draw": null,
-          "odds_away": null,
-          "odds_over_15": null,
-          "odds_over_25": null,
-          "odds_over_35": null,
-          "odds_under_15": null,
-          "odds_under_25": null,
-          "odds_under_35": null,
-          "odds_btts_yes": null,
-          "odds_btts_no": null,
-          "actual_home_xg": null,
-          "actual_away_xg": null,
-          "home_xg_live": null,
-          "away_xg_live": null,
-          "penalty_shootout": null,
-          "extra_time_score": null,
-          "is_local_derby": false,
-          "is_neutral_ground": null,
-          "travel_distance_km": null,
-          "weather_code": 51,
-          "wind_speed": 15.5,
-          "temperature_c": 12,
-          "pitch_condition": null,
-          "attendance": null,
-          "referee": null,
-          "home_coach": {
-            "id": 1525,
-            "name": "Jussi Leppälahti",
-            "short_name": "J. Leppälahti",
-            "country": "Finland",
-            "profile": "balanced",
-            "preferred_formation": "3-4-3",
-            "pressing_intensity": 0.12678167346136132,
-            "defensive_line": "mid",
-            "top_styles": [
-              "chaos_ball",
-              "terrorist_fb"
-            ]
-          },
-          "away_coach": {
-            "id": 1531,
-            "name": "Gonçalo Pereira",
-            "short_name": "G. Pereira",
-            "country": "Portugal",
-            "profile": "attacking",
-            "preferred_formation": "4-3-3",
-            "pressing_intensity": 0.1681506400908927,
-            "defensive_line": "mid",
-            "top_styles": [
-              "chaos_ball",
-              "inverted_fb"
-            ]
-          },
-          "unavailable_players": null,
-          "venue": {
-            "id": 1297,
-            "name": "Mustapekka Areena",
-            "city": "Helsinki",
-            "country": "Finland",
-            "capacity": 1100,
-            "latitude": 60.234693,
-            "longitude": 24.962558,
-            "pitch_x": null,
-            "pitch_y": null,
-            "built_year": null
-          },
-          "incidents": null,
-          "live_stats": null,
-          "lineups": null,
-          "shotmap": null,
-          "momentum": null,
-          "xg_per_minute": null,
-          "average_positions": null,
-          "jerseys": {
-            "away": {
-              "GK": {
-                "base": "3fe451",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "ffffff"
-              },
-              "player": {
-                "base": "000000",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "c55c6f",
-                "sleeve": "000000",
-                "sleevelong": "000000"
-              }
-            },
-            "home": {
-              "GK": {
-                "base": "9f0eb4",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "ffffff"
-              },
-              "player": {
-                "base": "fff800",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "000000",
-                "sleeve": "0560b1"
-              }
-            }
-          },
-          "funfacts": null,
-          "sr_stats": null,
-          "ai_preview": null,
-          "live_websocket": true
-        },
-        "created_at": "2026-06-02T13:52:55.755519+03:00",
-        "prob_home_win": 55.762265477348784,
-        "prob_draw": 25.495184739917377,
-        "prob_away_win": 18.742549782733835,
-        "predicted_result": "H",
-        "expected_home_goals": 1.10884,
-        "expected_away_goals": 0.96289,
-        "prob_over_15": 70.30514310725123,
-        "prob_over_25": 43.44113565035216,
-        "prob_over_35": 19.820540248560125,
-        "prob_btts_yes": 50.917470725710565,
-        "confidence": 55.762265477348784,
-        "model_version": "v5.0",
-        "most_likely_score": "1-0",
-        "favorite": "H",
-        "favorite_prob": 55.762265477348784,
-        "favorite_recommend": false,
-        "over_15_recommend": false,
-        "over_25_recommend": false,
-        "over_35_recommend": false,
-        "btts_recommend": false,
-        "winner_recommend": false
-      },
-      "event_detail": {
-        "id": 207246,
-        "league": {
-          "id": 55,
-          "name": "Veikkausliiga",
-          "country": "Finland",
-          "is_women": false,
-          "current_season": null
-        },
-        "season": null,
-        "home_team": "IF Gnistan",
-        "away_team": "FC Lahti",
-        "home_team_obj": {
-          "id": 2095,
-          "name": "IF Gnistan",
-          "short_name": "Gnistan",
-          "country": "Finland",
-          "coach": {
-            "name": "Jussi Leppälahti",
-            "shortName": "J. Leppälahti"
-          },
-          "venue": null
-        },
-        "away_team_obj": {
-          "id": 2101,
-          "name": "FC Lahti",
-          "short_name": "Lahti",
-          "country": "Finland",
-          "coach": {
-            "name": "Gonçalo Pereira",
-            "shortName": "G. Pereira"
-          },
-          "venue": null
-        },
-        "event_date": "2026-06-17T21:00:00+03:00",
-        "round_number": null,
-        "round_name": "",
-        "group_name": null,
-        "status": "notstarted",
-        "home_score": null,
-        "away_score": null,
-        "home_score_ht": null,
-        "away_score_ht": null,
-        "current_minute": null,
-        "period": "",
-        "odds_home": null,
-        "odds_draw": null,
-        "odds_away": null,
-        "odds_over_15": null,
-        "odds_over_25": null,
-        "odds_over_35": null,
-        "odds_under_15": null,
-        "odds_under_25": null,
-        "odds_under_35": null,
-        "odds_btts_yes": null,
-        "odds_btts_no": null,
-        "actual_home_xg": null,
-        "actual_away_xg": null,
-        "home_xg_live": null,
-        "away_xg_live": null,
-        "penalty_shootout": null,
-        "extra_time_score": null,
-        "is_local_derby": false,
-        "is_neutral_ground": null,
-        "travel_distance_km": null,
-        "weather_code": 51,
-        "wind_speed": 15.5,
-        "temperature_c": 12,
-        "pitch_condition": null,
-        "attendance": null,
-        "referee": null,
-        "home_coach": {
-          "id": 1525,
-          "name": "Jussi Leppälahti",
-          "short_name": "J. Leppälahti",
-          "country": "Finland",
-          "profile": "balanced",
-          "preferred_formation": "3-4-3",
-          "pressing_intensity": 0.12678167346136132,
-          "defensive_line": "mid",
-          "top_styles": [
-            "chaos_ball",
-            "terrorist_fb"
-          ]
-        },
-        "away_coach": {
-          "id": 1531,
-          "name": "Gonçalo Pereira",
-          "short_name": "G. Pereira",
-          "country": "Portugal",
-          "profile": "attacking",
-          "preferred_formation": "4-3-3",
-          "pressing_intensity": 0.1681506400908927,
-          "defensive_line": "mid",
-          "top_styles": [
-            "chaos_ball",
-            "inverted_fb"
-          ]
-        },
-        "unavailable_players": null,
-        "venue": {
-          "id": 1297,
-          "name": "Mustapekka Areena",
-          "city": "Helsinki",
-          "country": "Finland",
-          "capacity": 1100,
-          "latitude": 60.234693,
-          "longitude": 24.962558,
-          "pitch_x": null,
-          "pitch_y": null,
-          "built_year": null
-        },
-        "live_stats": null,
-        "jerseys": {
-          "away": {
-            "GK": {
-              "base": "3fe451",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "ffffff"
-            },
-            "player": {
-              "base": "000000",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "c55c6f",
-              "sleeve": "000000",
-              "sleevelong": "000000"
-            }
-          },
-          "home": {
-            "GK": {
-              "base": "9f0eb4",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "ffffff"
-            },
-            "player": {
-              "base": "fff800",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "000000",
-              "sleeve": "0560b1"
-            }
-          }
-        },
-        "funfacts": null,
-        "sr_stats": null,
-        "ai_preview": null,
-        "live_websocket": true,
-        "home_form": {
-          "calculated_at": "2026-06-16",
-          "matches_played": 5,
-          "form_string": "WWLWD",
-          "wins": 3,
-          "draws": 1,
-          "losses": 1,
-          "points_last_n": 10,
-          "goals_scored_last_n": 12,
-          "goals_conceded_last_n": 5,
-          "avg_xg": 0.55508,
-          "avg_xg_conceded": 0.65554,
-          "avg_shots": 1.4,
-          "avg_shots_on_target": 0.6,
-          "avg_key_passes": 0.6,
-          "goal_conversion_rate": 4.323701088131441,
-          "defensive_efficiency": -0.5254599261677395,
-          "clean_sheets": 2,
-          "avg_pass_accuracy": 71.9869706840391,
-          "duel_win_rate": 0.36774193548387096,
-          "aerial_win_rate": 0.44,
-          "avg_fouls": 1.8,
-          "avg_yellow_cards": 2,
-          "home_ppg": 1.8,
-          "away_ppg": 1,
-          "home_goals_scored": 11,
-          "home_goals_conceded": 10,
-          "away_goals_scored": 5,
-          "away_goals_conceded": 5,
-          "avg_team_rating": 6.7666666666666675
-        },
-        "away_form": {
-          "calculated_at": "2026-06-16",
-          "matches_played": 5,
-          "form_string": "LWLDD",
-          "wins": 1,
-          "draws": 2,
-          "losses": 2,
-          "points_last_n": 5,
-          "goals_scored_last_n": 10,
-          "goals_conceded_last_n": 7,
-          "avg_xg": 0.91364,
-          "avg_xg_conceded": 0.9484,
-          "avg_shots": 2.8,
-          "avg_shots_on_target": 1,
-          "avg_key_passes": 2.2,
-          "goal_conversion_rate": 2.189046013747209,
-          "defensive_efficiency": -0.4761703922395615,
-          "clean_sheets": 1,
-          "avg_pass_accuracy": 84.93449781659389,
-          "duel_win_rate": 0.42045454545454547,
-          "aerial_win_rate": 0.5714285714285714,
-          "avg_fouls": 2.2,
-          "avg_yellow_cards": 2.4,
-          "home_ppg": 1.6,
-          "away_ppg": 0.75,
-          "home_goals_scored": 11,
-          "home_goals_conceded": 6,
-          "away_goals_scored": 3,
-          "away_goals_conceded": 5,
-          "avg_team_rating": 7.0357142857142865
-        },
-        "head_to_head": null,
-        "lineups": null,
-        "social": []
-      },
-      "managers": {
-        "home": {
-          "id": 1525,
-          "name": "Jussi Leppälahti",
-          "short_name": "J. Leppälahti",
-          "country": "Finland",
-          "current_team": {
-            "id": 2095,
-            "name": "IF Gnistan"
-          },
-          "preferred_formation": "3-4-3",
-          "formations_used": {
-            "3-4-3": 3,
-            "4-4-2": 2,
-            "5-3-2": 2,
-            "5-4-1": 2,
-            "3-4-1-2": 1
-          },
-          "profile": "balanced",
-          "team_style": "neutral",
-          "pressing_intensity": 0.12678167346136132,
-          "defensive_line": "mid",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "chaos_ball",
-              "name": "Chaos Ball",
-              "category": "fan",
-              "emoji": "🎲",
-              "description": "Embrace pure randomness, anything can happen",
-              "score": 0.452
-            },
-            {
-              "rank": 2,
-              "code": "terrorist_fb",
-              "name": "Terrorist Football",
-              "category": "fan",
-              "emoji": "💣",
-              "description": "Ultra-negative setup — destroy the game",
-              "score": 0.065
-            },
-            {
-              "rank": 3,
-              "code": "vibes_fc",
-              "name": "Vibes FC",
-              "category": "fan",
-              "emoji": "✨",
-              "description": "Minimal structure, individual freedom",
-              "score": 0.063
-            },
-            {
-              "rank": 4,
-              "code": "park_the_bus",
-              "name": "Park the Bus",
-              "category": "defensive",
-              "emoji": "🚌",
-              "description": "Ultra-deep defense, minimal attacking intent",
-              "score": 0.049
-            }
-          ],
-          "matches_total": 11,
-          "wins": 5,
-          "draws": 2,
-          "losses": 4,
-          "win_pct": 45.5,
-          "avg_goals_scored": 1.64,
-          "avg_goals_conceded": 1.36,
-          "avg_possession": 41.3,
-          "avg_shots": 10.4,
-          "avg_shots_on_target": 4.2,
-          "avg_xg_for": 1.23,
-          "avg_xg_against": 1.13,
-          "avg_corners": 3.5,
-          "avg_yellow_cards": 1.91,
-          "avg_red_cards": 0,
-          "avg_fouls": 13.2,
-          "clean_sheet_pct": 36.4,
-          "btts_pct": 36.4,
-          "over_25_pct": 45.5,
-          "over_15_pct": 90.9,
-          "fail_to_score_pct": 27.3,
-          "avg_goals_scored_1h": 0.55,
-          "avg_goals_conceded_1h": 0.55
-        },
-        "away": {
-          "id": 1531,
-          "name": "Gonçalo Pereira",
-          "short_name": "G. Pereira",
-          "country": "Portugal",
-          "current_team": {
-            "id": 2101,
-            "name": "FC Lahti"
-          },
-          "preferred_formation": "4-3-3",
-          "formations_used": {
-            "4-3-3": 12,
-            "4-2-3-1": 1
-          },
-          "profile": "attacking",
-          "team_style": "neutral",
-          "pressing_intensity": 0.1681506400908927,
-          "defensive_line": "mid",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "chaos_ball",
-              "name": "Chaos Ball",
-              "category": "fan",
-              "emoji": "🎲",
-              "description": "Embrace pure randomness, anything can happen",
-              "score": 0.096
-            },
-            {
-              "rank": 2,
-              "code": "inverted_fb",
-              "name": "Inverted Fullbacks",
-              "category": "possession",
-              "emoji": "↩",
-              "description": "Fullbacks step into midfield to overload centre",
-              "score": 0.087
-            },
-            {
-              "rank": 3,
-              "code": "tiki_taka",
-              "name": "Tiki-Taka",
-              "category": "possession",
-              "emoji": "🎨",
-              "description": "Short passing, domination via possession",
-              "score": 0.059
-            },
-            {
-              "rank": 4,
-              "code": "total_football",
-              "name": "Total Football",
-              "category": "possession",
-              "emoji": "🌀",
-              "description": "Fluid rotations, every player attacks and defends",
-              "score": 0.059
-            }
-          ],
-          "matches_total": 15,
-          "wins": 7,
-          "draws": 2,
-          "losses": 6,
-          "win_pct": 46.7,
-          "avg_goals_scored": 1.8,
-          "avg_goals_conceded": 1.47,
-          "avg_possession": 54.36,
-          "avg_shots": 11.82,
-          "avg_shots_on_target": 4.36,
-          "avg_xg_for": 1.9,
-          "avg_xg_against": 1.42,
-          "avg_corners": 4.64,
-          "avg_yellow_cards": 2.33,
-          "avg_red_cards": 0.07,
-          "avg_fouls": 11.91,
-          "clean_sheet_pct": 20,
-          "btts_pct": 66.7,
-          "over_25_pct": 60,
-          "over_15_pct": 80,
-          "fail_to_score_pct": 13.3,
-          "avg_goals_scored_1h": 1.13,
-          "avg_goals_conceded_1h": 0.8
         }
       }
     },
