@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T21:11:59.575Z",
+  "generated_at": "2026-06-17T22:59:59.908Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -161,7 +161,1022 @@
           },
           "incidents": null,
           "live_stats": null,
-          "lineups": null,
+          "lineups": {
+            "away": {
+              "players": [
+                {
+                  "name": "O. Mosquera",
+                  "goals": 0,
+                  "api_id": 886041,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "G",
+                  "red_card": false,
+                  "player_id": 8050,
+                  "yellow_card": false,
+                  "jersey_number": "22",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "GK",
+                  "positions_detailed": [
+                    "GK"
+                  ]
+                },
+                {
+                  "name": "C. Blackman",
+                  "goals": 0,
+                  "api_id": 841793,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 12373,
+                  "yellow_card": false,
+                  "jersey_number": "2",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "RB",
+                  "positions_detailed": [
+                    "RB",
+                    "RM"
+                  ]
+                },
+                {
+                  "name": "J. Ramos",
+                  "goals": 0,
+                  "api_id": 1006509,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 16748,
+                  "yellow_card": false,
+                  "jersey_number": "13",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CB",
+                  "positions_detailed": [
+                    "CB",
+                    "RB"
+                  ]
+                },
+                {
+                  "name": "J. Córdoba",
+                  "goals": 0,
+                  "api_id": 1105688,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 6393,
+                  "yellow_card": false,
+                  "jersey_number": "3",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CB",
+                  "positions_detailed": [
+                    "CB"
+                  ]
+                },
+                {
+                  "name": "A. Andrade",
+                  "goals": 0,
+                  "api_id": 841802,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 16746,
+                  "yellow_card": false,
+                  "jersey_number": "16",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CB",
+                  "positions_detailed": [
+                    "CB",
+                    "LB"
+                  ]
+                },
+                {
+                  "name": "A. Murillo",
+                  "goals": 0,
+                  "api_id": 839493,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 4082,
+                  "yellow_card": false,
+                  "jersey_number": "23",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "RB",
+                  "positions_detailed": [
+                    "RB",
+                    "CB"
+                  ]
+                },
+                {
+                  "name": "C. Harvey",
+                  "goals": 0,
+                  "api_id": 985131,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 9102,
+                  "yellow_card": false,
+                  "jersey_number": "14",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CM",
+                  "positions_detailed": [
+                    "CM",
+                    "CB",
+                    "DM"
+                  ]
+                },
+                {
+                  "name": "C. Martínez",
+                  "goals": 0,
+                  "api_id": 841006,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 16741,
+                  "yellow_card": false,
+                  "jersey_number": "6",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CM",
+                  "positions_detailed": [
+                    "CM",
+                    "DM"
+                  ]
+                },
+                {
+                  "name": "J. L. Rodríguez",
+                  "goals": 0,
+                  "api_id": 842253,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 10334,
+                  "yellow_card": false,
+                  "jersey_number": "7",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "LW",
+                  "positions_detailed": [
+                    "LW",
+                    "RW",
+                    "LM"
+                  ]
+                },
+                {
+                  "name": "Y. Bárcenas",
+                  "goals": 0,
+                  "api_id": 833352,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 10252,
+                  "yellow_card": false,
+                  "jersey_number": "11",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CM",
+                  "positions_detailed": [
+                    "CM",
+                    "LM"
+                  ]
+                },
+                {
+                  "name": "C. Waterman",
+                  "goals": 0,
+                  "api_id": 159931,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 16744,
+                  "yellow_card": false,
+                  "jersey_number": "18",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "ST",
+                  "positions_detailed": [
+                    "ST"
+                  ]
+                }
+              ],
+              "formation": "4-4-2",
+              "substitutes": [
+                {
+                  "name": "C. Samudio",
+                  "goals": 0,
+                  "api_id": 1172599,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "G",
+                  "red_card": false,
+                  "player_id": 16747,
+                  "yellow_card": false,
+                  "jersey_number": "12",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "GK",
+                  "positions_detailed": [
+                    "GK"
+                  ]
+                },
+                {
+                  "name": "L. Mejía",
+                  "goals": 0,
+                  "api_id": 144800,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "G",
+                  "red_card": false,
+                  "player_id": 16739,
+                  "yellow_card": false,
+                  "jersey_number": "1",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "GK",
+                  "positions_detailed": [
+                    "GK"
+                  ]
+                },
+                {
+                  "name": "F. Escobar",
+                  "goals": 0,
+                  "api_id": 796326,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 54039,
+                  "yellow_card": false,
+                  "jersey_number": "4",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CB",
+                  "positions_detailed": [
+                    "CB",
+                    "CM",
+                    "DM"
+                  ]
+                },
+                {
+                  "name": "E. Fariña",
+                  "goals": 0,
+                  "api_id": 1217937,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 54042,
+                  "yellow_card": false,
+                  "jersey_number": "5",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CB",
+                  "positions_detailed": [
+                    "CB"
+                  ]
+                },
+                {
+                  "name": "É. Davis",
+                  "goals": 0,
+                  "api_id": 159935,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 16742,
+                  "yellow_card": false,
+                  "jersey_number": "15",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "LB",
+                  "positions_detailed": [
+                    "LB"
+                  ]
+                },
+                {
+                  "name": "R. Miller",
+                  "goals": 0,
+                  "api_id": 159939,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 16740,
+                  "yellow_card": false,
+                  "jersey_number": "25",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CB",
+                  "positions_detailed": [
+                    "CB",
+                    "LB"
+                  ]
+                },
+                {
+                  "name": "J. Gutiérrez",
+                  "goals": 0,
+                  "api_id": 928021,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 16615,
+                  "yellow_card": false,
+                  "jersey_number": "26",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "LB",
+                  "positions_detailed": [
+                    "LB"
+                  ]
+                },
+                {
+                  "name": "A. Carrasquilla",
+                  "goals": 0,
+                  "api_id": 796330,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 10068,
+                  "yellow_card": false,
+                  "jersey_number": "8",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CM",
+                  "positions_detailed": [
+                    "CM",
+                    "DM"
+                  ]
+                },
+                {
+                  "name": "I. Díaz",
+                  "goals": 0,
+                  "api_id": 796328,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 10127,
+                  "yellow_card": false,
+                  "jersey_number": "10",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "LW",
+                  "positions_detailed": [
+                    "LW",
+                    "ST"
+                  ]
+                },
+                {
+                  "name": "A. Quintero",
+                  "goals": 0,
+                  "api_id": 83951,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 54040,
+                  "yellow_card": false,
+                  "jersey_number": "19",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "RW",
+                  "positions_detailed": [
+                    "RW",
+                    "LW"
+                  ]
+                },
+                {
+                  "name": "A. Godoy",
+                  "goals": 0,
+                  "api_id": 156102,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 9054,
+                  "yellow_card": false,
+                  "jersey_number": "20",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CM",
+                  "positions_detailed": [
+                    "CM",
+                    "DM"
+                  ]
+                },
+                {
+                  "name": "C. Yanis",
+                  "goals": 0,
+                  "api_id": 1021117,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 16743,
+                  "yellow_card": false,
+                  "jersey_number": "21",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "RW",
+                  "positions_detailed": [
+                    "RW",
+                    "RM"
+                  ]
+                },
+                {
+                  "name": "A. Londoño",
+                  "goals": 0,
+                  "api_id": 1217929,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 21220,
+                  "yellow_card": false,
+                  "jersey_number": "24",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "RW",
+                  "positions_detailed": [
+                    "RW",
+                    "ST"
+                  ]
+                },
+                {
+                  "name": "T. Rodríguez",
+                  "goals": 0,
+                  "api_id": 985161,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 54044,
+                  "yellow_card": false,
+                  "jersey_number": "9",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "ST",
+                  "positions_detailed": [
+                    "ST"
+                  ]
+                },
+                {
+                  "name": "J. Fajardo",
+                  "goals": 0,
+                  "api_id": 936184,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 16745,
+                  "yellow_card": false,
+                  "jersey_number": "17",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "ST",
+                  "positions_detailed": [
+                    "ST"
+                  ]
+                }
+              ]
+            },
+            "home": {
+              "players": [
+                {
+                  "name": "L. A. Zigi",
+                  "goals": 0,
+                  "api_id": 791092,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "G",
+                  "red_card": false,
+                  "player_id": 7215,
+                  "yellow_card": false,
+                  "jersey_number": "1",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "GK",
+                  "positions_detailed": [
+                    "GK"
+                  ]
+                },
+                {
+                  "name": "M. Senaya",
+                  "goals": 0,
+                  "api_id": 1087805,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 4008,
+                  "yellow_card": false,
+                  "jersey_number": "26",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "RB",
+                  "positions_detailed": [
+                    "RB",
+                    "RM"
+                  ]
+                },
+                {
+                  "name": "J. A. Adjetey",
+                  "goals": 0,
+                  "api_id": 1218056,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 3146,
+                  "yellow_card": false,
+                  "jersey_number": "4",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CB",
+                  "positions_detailed": [
+                    "CB"
+                  ]
+                },
+                {
+                  "name": "J. Opoku",
+                  "goals": 0,
+                  "api_id": 920514,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 6638,
+                  "yellow_card": false,
+                  "jersey_number": "18",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CB",
+                  "positions_detailed": [
+                    "CB"
+                  ]
+                },
+                {
+                  "name": "G. Mensah",
+                  "goals": 0,
+                  "api_id": 844942,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 2095,
+                  "yellow_card": false,
+                  "jersey_number": "14",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "LB",
+                  "positions_detailed": [
+                    "LB"
+                  ]
+                },
+                {
+                  "name": "A. Semenyo",
+                  "goals": 0,
+                  "api_id": 934354,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 792,
+                  "yellow_card": false,
+                  "jersey_number": "11",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "LW",
+                  "positions_detailed": [
+                    "LW",
+                    "RW"
+                  ]
+                },
+                {
+                  "name": "E. Owusu",
+                  "goals": 0,
+                  "api_id": 904424,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 4009,
+                  "yellow_card": false,
+                  "jersey_number": "15",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CM",
+                  "positions_detailed": [
+                    "CM",
+                    "DM"
+                  ]
+                },
+                {
+                  "name": "C. Yirenkyi",
+                  "goals": 0,
+                  "api_id": 1986794,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 16696,
+                  "yellow_card": false,
+                  "jersey_number": "3",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CM",
+                  "positions_detailed": [
+                    "CM"
+                  ]
+                },
+                {
+                  "name": "E. Nuamah",
+                  "goals": 0,
+                  "api_id": 1202024,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 24027,
+                  "yellow_card": false,
+                  "jersey_number": "24",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "RW",
+                  "positions_detailed": [
+                    "RW",
+                    "LW"
+                  ]
+                },
+                {
+                  "name": "K. Sulemana",
+                  "goals": 0,
+                  "api_id": 1019442,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 1310,
+                  "yellow_card": false,
+                  "jersey_number": "22",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "LW",
+                  "positions_detailed": [
+                    "LW",
+                    "ST"
+                  ]
+                },
+                {
+                  "name": "J. Ayew",
+                  "goals": 0,
+                  "api_id": 103045,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 6134,
+                  "yellow_card": false,
+                  "jersey_number": "9",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "ST",
+                  "positions_detailed": [
+                    "ST",
+                    "RW",
+                    "LW"
+                  ]
+                }
+              ],
+              "formation": "4-4-1-1",
+              "substitutes": [
+                {
+                  "name": "J. Anang",
+                  "goals": 0,
+                  "api_id": 970370,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "G",
+                  "red_card": false,
+                  "player_id": 16699,
+                  "yellow_card": false,
+                  "jersey_number": "12",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "GK",
+                  "positions_detailed": [
+                    "GK"
+                  ]
+                },
+                {
+                  "name": "B. Asare",
+                  "goals": 0,
+                  "api_id": 1457083,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "G",
+                  "red_card": false,
+                  "player_id": 16698,
+                  "yellow_card": false,
+                  "jersey_number": "16",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "GK",
+                  "positions_detailed": [
+                    "GK"
+                  ]
+                },
+                {
+                  "name": "A. Seidu",
+                  "goals": 0,
+                  "api_id": 1049515,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 2817,
+                  "yellow_card": false,
+                  "jersey_number": "2",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "RB",
+                  "positions_detailed": [
+                    "RB",
+                    "CB"
+                  ]
+                },
+                {
+                  "name": "A. Mumin",
+                  "goals": 0,
+                  "api_id": 846147,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 12045,
+                  "yellow_card": false,
+                  "jersey_number": "6",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CB",
+                  "positions_detailed": [
+                    "CB"
+                  ]
+                },
+                {
+                  "name": "R. Baba",
+                  "goals": 0,
+                  "api_id": 239632,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 3268,
+                  "yellow_card": false,
+                  "jersey_number": "17",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "LB",
+                  "positions_detailed": [
+                    "LB"
+                  ]
+                },
+                {
+                  "name": "K. P. Oppong",
+                  "goals": 0,
+                  "api_id": 1473092,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 1487,
+                  "yellow_card": false,
+                  "jersey_number": "21",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CB",
+                  "positions_detailed": [
+                    "CB"
+                  ]
+                },
+                {
+                  "name": "D. Luckassen",
+                  "goals": 0,
+                  "api_id": 363782,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 3600,
+                  "yellow_card": false,
+                  "jersey_number": "23",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CB",
+                  "positions_detailed": [
+                    "CB"
+                  ]
+                },
+                {
+                  "name": "K. Sibo",
+                  "goals": 0,
+                  "api_id": 905639,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 1984,
+                  "yellow_card": false,
+                  "jersey_number": "8",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "CM",
+                  "positions_detailed": [
+                    "CM",
+                    "DM"
+                  ]
+                },
+                {
+                  "name": "A. F. Issahaku",
+                  "goals": 0,
+                  "api_id": 1103589,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 6131,
+                  "yellow_card": false,
+                  "jersey_number": "7",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "RW",
+                  "positions_detailed": [
+                    "RW"
+                  ]
+                },
+                {
+                  "name": "C. Baah",
+                  "goals": 0,
+                  "api_id": 1477662,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 8138,
+                  "yellow_card": false,
+                  "jersey_number": "13",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "LW",
+                  "positions_detailed": [
+                    "LW",
+                    "LM",
+                    "RW"
+                  ]
+                },
+                {
+                  "name": "I. Williams",
+                  "goals": 0,
+                  "api_id": 783374,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 4436,
+                  "yellow_card": false,
+                  "jersey_number": "19",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "RW",
+                  "positions_detailed": [
+                    "RW"
+                  ]
+                },
+                {
+                  "name": "A. Boakye",
+                  "goals": 0,
+                  "api_id": 1138352,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 29207,
+                  "yellow_card": false,
+                  "jersey_number": "20",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "RW",
+                  "positions_detailed": [
+                    "RW"
+                  ]
+                },
+                {
+                  "name": "B. Thomas-Asante",
+                  "goals": 0,
+                  "api_id": 846061,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 6887,
+                  "yellow_card": false,
+                  "jersey_number": "10",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "ST",
+                  "positions_detailed": [
+                    "ST"
+                  ]
+                },
+                {
+                  "name": "P. K. Adu",
+                  "goals": 0,
+                  "api_id": 1472288,
+                  "rating": null,
+                  "sub_in": null,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 3225,
+                  "yellow_card": false,
+                  "jersey_number": "25",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "ST",
+                  "positions_detailed": [
+                    "ST"
+                  ]
+                }
+              ]
+            },
+            "confirmed": true
+          },
           "shotmap": null,
           "momentum": null,
           "xg_per_minute": null,
@@ -482,7 +1497,1022 @@
           "avg_team_rating": 0
         },
         "head_to_head": null,
-        "lineups": null,
+        "lineups": {
+          "away": {
+            "players": [
+              {
+                "name": "O. Mosquera",
+                "goals": 0,
+                "api_id": 886041,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "G",
+                "red_card": false,
+                "player_id": 8050,
+                "yellow_card": false,
+                "jersey_number": "22",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "GK",
+                "positions_detailed": [
+                  "GK"
+                ]
+              },
+              {
+                "name": "C. Blackman",
+                "goals": 0,
+                "api_id": 841793,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 12373,
+                "yellow_card": false,
+                "jersey_number": "2",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "RB",
+                "positions_detailed": [
+                  "RB",
+                  "RM"
+                ]
+              },
+              {
+                "name": "J. Ramos",
+                "goals": 0,
+                "api_id": 1006509,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 16748,
+                "yellow_card": false,
+                "jersey_number": "13",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CB",
+                "positions_detailed": [
+                  "CB",
+                  "RB"
+                ]
+              },
+              {
+                "name": "J. Córdoba",
+                "goals": 0,
+                "api_id": 1105688,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 6393,
+                "yellow_card": false,
+                "jersey_number": "3",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CB",
+                "positions_detailed": [
+                  "CB"
+                ]
+              },
+              {
+                "name": "A. Andrade",
+                "goals": 0,
+                "api_id": 841802,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 16746,
+                "yellow_card": false,
+                "jersey_number": "16",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CB",
+                "positions_detailed": [
+                  "CB",
+                  "LB"
+                ]
+              },
+              {
+                "name": "A. Murillo",
+                "goals": 0,
+                "api_id": 839493,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 4082,
+                "yellow_card": false,
+                "jersey_number": "23",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "RB",
+                "positions_detailed": [
+                  "RB",
+                  "CB"
+                ]
+              },
+              {
+                "name": "C. Harvey",
+                "goals": 0,
+                "api_id": 985131,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 9102,
+                "yellow_card": false,
+                "jersey_number": "14",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CM",
+                "positions_detailed": [
+                  "CM",
+                  "CB",
+                  "DM"
+                ]
+              },
+              {
+                "name": "C. Martínez",
+                "goals": 0,
+                "api_id": 841006,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 16741,
+                "yellow_card": false,
+                "jersey_number": "6",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CM",
+                "positions_detailed": [
+                  "CM",
+                  "DM"
+                ]
+              },
+              {
+                "name": "J. L. Rodríguez",
+                "goals": 0,
+                "api_id": 842253,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 10334,
+                "yellow_card": false,
+                "jersey_number": "7",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "LW",
+                "positions_detailed": [
+                  "LW",
+                  "RW",
+                  "LM"
+                ]
+              },
+              {
+                "name": "Y. Bárcenas",
+                "goals": 0,
+                "api_id": 833352,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 10252,
+                "yellow_card": false,
+                "jersey_number": "11",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CM",
+                "positions_detailed": [
+                  "CM",
+                  "LM"
+                ]
+              },
+              {
+                "name": "C. Waterman",
+                "goals": 0,
+                "api_id": 159931,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 16744,
+                "yellow_card": false,
+                "jersey_number": "18",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "ST",
+                "positions_detailed": [
+                  "ST"
+                ]
+              }
+            ],
+            "formation": "4-4-2",
+            "substitutes": [
+              {
+                "name": "C. Samudio",
+                "goals": 0,
+                "api_id": 1172599,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "G",
+                "red_card": false,
+                "player_id": 16747,
+                "yellow_card": false,
+                "jersey_number": "12",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "GK",
+                "positions_detailed": [
+                  "GK"
+                ]
+              },
+              {
+                "name": "L. Mejía",
+                "goals": 0,
+                "api_id": 144800,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "G",
+                "red_card": false,
+                "player_id": 16739,
+                "yellow_card": false,
+                "jersey_number": "1",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "GK",
+                "positions_detailed": [
+                  "GK"
+                ]
+              },
+              {
+                "name": "F. Escobar",
+                "goals": 0,
+                "api_id": 796326,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 54039,
+                "yellow_card": false,
+                "jersey_number": "4",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CB",
+                "positions_detailed": [
+                  "CB",
+                  "CM",
+                  "DM"
+                ]
+              },
+              {
+                "name": "E. Fariña",
+                "goals": 0,
+                "api_id": 1217937,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 54042,
+                "yellow_card": false,
+                "jersey_number": "5",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CB",
+                "positions_detailed": [
+                  "CB"
+                ]
+              },
+              {
+                "name": "É. Davis",
+                "goals": 0,
+                "api_id": 159935,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 16742,
+                "yellow_card": false,
+                "jersey_number": "15",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "LB",
+                "positions_detailed": [
+                  "LB"
+                ]
+              },
+              {
+                "name": "R. Miller",
+                "goals": 0,
+                "api_id": 159939,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 16740,
+                "yellow_card": false,
+                "jersey_number": "25",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CB",
+                "positions_detailed": [
+                  "CB",
+                  "LB"
+                ]
+              },
+              {
+                "name": "J. Gutiérrez",
+                "goals": 0,
+                "api_id": 928021,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 16615,
+                "yellow_card": false,
+                "jersey_number": "26",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "LB",
+                "positions_detailed": [
+                  "LB"
+                ]
+              },
+              {
+                "name": "A. Carrasquilla",
+                "goals": 0,
+                "api_id": 796330,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 10068,
+                "yellow_card": false,
+                "jersey_number": "8",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CM",
+                "positions_detailed": [
+                  "CM",
+                  "DM"
+                ]
+              },
+              {
+                "name": "I. Díaz",
+                "goals": 0,
+                "api_id": 796328,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 10127,
+                "yellow_card": false,
+                "jersey_number": "10",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "LW",
+                "positions_detailed": [
+                  "LW",
+                  "ST"
+                ]
+              },
+              {
+                "name": "A. Quintero",
+                "goals": 0,
+                "api_id": 83951,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 54040,
+                "yellow_card": false,
+                "jersey_number": "19",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "RW",
+                "positions_detailed": [
+                  "RW",
+                  "LW"
+                ]
+              },
+              {
+                "name": "A. Godoy",
+                "goals": 0,
+                "api_id": 156102,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 9054,
+                "yellow_card": false,
+                "jersey_number": "20",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CM",
+                "positions_detailed": [
+                  "CM",
+                  "DM"
+                ]
+              },
+              {
+                "name": "C. Yanis",
+                "goals": 0,
+                "api_id": 1021117,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 16743,
+                "yellow_card": false,
+                "jersey_number": "21",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "RW",
+                "positions_detailed": [
+                  "RW",
+                  "RM"
+                ]
+              },
+              {
+                "name": "A. Londoño",
+                "goals": 0,
+                "api_id": 1217929,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 21220,
+                "yellow_card": false,
+                "jersey_number": "24",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "RW",
+                "positions_detailed": [
+                  "RW",
+                  "ST"
+                ]
+              },
+              {
+                "name": "T. Rodríguez",
+                "goals": 0,
+                "api_id": 985161,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 54044,
+                "yellow_card": false,
+                "jersey_number": "9",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "ST",
+                "positions_detailed": [
+                  "ST"
+                ]
+              },
+              {
+                "name": "J. Fajardo",
+                "goals": 0,
+                "api_id": 936184,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 16745,
+                "yellow_card": false,
+                "jersey_number": "17",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "ST",
+                "positions_detailed": [
+                  "ST"
+                ]
+              }
+            ]
+          },
+          "home": {
+            "players": [
+              {
+                "name": "L. A. Zigi",
+                "goals": 0,
+                "api_id": 791092,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "G",
+                "red_card": false,
+                "player_id": 7215,
+                "yellow_card": false,
+                "jersey_number": "1",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "GK",
+                "positions_detailed": [
+                  "GK"
+                ]
+              },
+              {
+                "name": "M. Senaya",
+                "goals": 0,
+                "api_id": 1087805,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 4008,
+                "yellow_card": false,
+                "jersey_number": "26",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "RB",
+                "positions_detailed": [
+                  "RB",
+                  "RM"
+                ]
+              },
+              {
+                "name": "J. A. Adjetey",
+                "goals": 0,
+                "api_id": 1218056,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 3146,
+                "yellow_card": false,
+                "jersey_number": "4",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CB",
+                "positions_detailed": [
+                  "CB"
+                ]
+              },
+              {
+                "name": "J. Opoku",
+                "goals": 0,
+                "api_id": 920514,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 6638,
+                "yellow_card": false,
+                "jersey_number": "18",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CB",
+                "positions_detailed": [
+                  "CB"
+                ]
+              },
+              {
+                "name": "G. Mensah",
+                "goals": 0,
+                "api_id": 844942,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 2095,
+                "yellow_card": false,
+                "jersey_number": "14",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "LB",
+                "positions_detailed": [
+                  "LB"
+                ]
+              },
+              {
+                "name": "A. Semenyo",
+                "goals": 0,
+                "api_id": 934354,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 792,
+                "yellow_card": false,
+                "jersey_number": "11",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "LW",
+                "positions_detailed": [
+                  "LW",
+                  "RW"
+                ]
+              },
+              {
+                "name": "E. Owusu",
+                "goals": 0,
+                "api_id": 904424,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 4009,
+                "yellow_card": false,
+                "jersey_number": "15",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CM",
+                "positions_detailed": [
+                  "CM",
+                  "DM"
+                ]
+              },
+              {
+                "name": "C. Yirenkyi",
+                "goals": 0,
+                "api_id": 1986794,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 16696,
+                "yellow_card": false,
+                "jersey_number": "3",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CM",
+                "positions_detailed": [
+                  "CM"
+                ]
+              },
+              {
+                "name": "E. Nuamah",
+                "goals": 0,
+                "api_id": 1202024,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 24027,
+                "yellow_card": false,
+                "jersey_number": "24",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "RW",
+                "positions_detailed": [
+                  "RW",
+                  "LW"
+                ]
+              },
+              {
+                "name": "K. Sulemana",
+                "goals": 0,
+                "api_id": 1019442,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 1310,
+                "yellow_card": false,
+                "jersey_number": "22",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "LW",
+                "positions_detailed": [
+                  "LW",
+                  "ST"
+                ]
+              },
+              {
+                "name": "J. Ayew",
+                "goals": 0,
+                "api_id": 103045,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 6134,
+                "yellow_card": false,
+                "jersey_number": "9",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "ST",
+                "positions_detailed": [
+                  "ST",
+                  "RW",
+                  "LW"
+                ]
+              }
+            ],
+            "formation": "4-4-1-1",
+            "substitutes": [
+              {
+                "name": "J. Anang",
+                "goals": 0,
+                "api_id": 970370,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "G",
+                "red_card": false,
+                "player_id": 16699,
+                "yellow_card": false,
+                "jersey_number": "12",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "GK",
+                "positions_detailed": [
+                  "GK"
+                ]
+              },
+              {
+                "name": "B. Asare",
+                "goals": 0,
+                "api_id": 1457083,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "G",
+                "red_card": false,
+                "player_id": 16698,
+                "yellow_card": false,
+                "jersey_number": "16",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "GK",
+                "positions_detailed": [
+                  "GK"
+                ]
+              },
+              {
+                "name": "A. Seidu",
+                "goals": 0,
+                "api_id": 1049515,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 2817,
+                "yellow_card": false,
+                "jersey_number": "2",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "RB",
+                "positions_detailed": [
+                  "RB",
+                  "CB"
+                ]
+              },
+              {
+                "name": "A. Mumin",
+                "goals": 0,
+                "api_id": 846147,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 12045,
+                "yellow_card": false,
+                "jersey_number": "6",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CB",
+                "positions_detailed": [
+                  "CB"
+                ]
+              },
+              {
+                "name": "R. Baba",
+                "goals": 0,
+                "api_id": 239632,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 3268,
+                "yellow_card": false,
+                "jersey_number": "17",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "LB",
+                "positions_detailed": [
+                  "LB"
+                ]
+              },
+              {
+                "name": "K. P. Oppong",
+                "goals": 0,
+                "api_id": 1473092,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 1487,
+                "yellow_card": false,
+                "jersey_number": "21",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CB",
+                "positions_detailed": [
+                  "CB"
+                ]
+              },
+              {
+                "name": "D. Luckassen",
+                "goals": 0,
+                "api_id": 363782,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 3600,
+                "yellow_card": false,
+                "jersey_number": "23",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CB",
+                "positions_detailed": [
+                  "CB"
+                ]
+              },
+              {
+                "name": "K. Sibo",
+                "goals": 0,
+                "api_id": 905639,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 1984,
+                "yellow_card": false,
+                "jersey_number": "8",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "CM",
+                "positions_detailed": [
+                  "CM",
+                  "DM"
+                ]
+              },
+              {
+                "name": "A. F. Issahaku",
+                "goals": 0,
+                "api_id": 1103589,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 6131,
+                "yellow_card": false,
+                "jersey_number": "7",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "RW",
+                "positions_detailed": [
+                  "RW"
+                ]
+              },
+              {
+                "name": "C. Baah",
+                "goals": 0,
+                "api_id": 1477662,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 8138,
+                "yellow_card": false,
+                "jersey_number": "13",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "LW",
+                "positions_detailed": [
+                  "LW",
+                  "LM",
+                  "RW"
+                ]
+              },
+              {
+                "name": "I. Williams",
+                "goals": 0,
+                "api_id": 783374,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 4436,
+                "yellow_card": false,
+                "jersey_number": "19",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "RW",
+                "positions_detailed": [
+                  "RW"
+                ]
+              },
+              {
+                "name": "A. Boakye",
+                "goals": 0,
+                "api_id": 1138352,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 29207,
+                "yellow_card": false,
+                "jersey_number": "20",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "RW",
+                "positions_detailed": [
+                  "RW"
+                ]
+              },
+              {
+                "name": "B. Thomas-Asante",
+                "goals": 0,
+                "api_id": 846061,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 6887,
+                "yellow_card": false,
+                "jersey_number": "10",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "ST",
+                "positions_detailed": [
+                  "ST"
+                ]
+              },
+              {
+                "name": "P. K. Adu",
+                "goals": 0,
+                "api_id": 1472288,
+                "rating": null,
+                "sub_in": null,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 3225,
+                "yellow_card": false,
+                "jersey_number": "25",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "ST",
+                "positions_detailed": [
+                  "ST"
+                ]
+              }
+            ]
+          },
+          "confirmed": true
+        },
         "social": [
           {
             "id": 374966,
@@ -905,7 +2935,7 @@
           "round_number": 1,
           "round_name": "",
           "group_name": null,
-          "status": "notstarted",
+          "status": "cancelled",
           "home_score": null,
           "away_score": null,
           "home_score_ht": null,
@@ -1102,7 +3132,7 @@
         "round_number": 1,
         "round_name": "",
         "group_name": null,
-        "status": "notstarted",
+        "status": "cancelled",
         "home_score": null,
         "away_score": null,
         "home_score_ht": null,
@@ -7093,9 +9123,25 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 1,
+              "sentence": "Qatar haven't won in their last 6 games."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Canada haven't lost in their last 9 games."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Canada haven't lost in any of their last 6 home matches."
+            }
+          ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Canada's home fortress meets Qatar's struggles — and the Maple Leafs are the clear edge here.** 🍁 This is a dead-rubber vibe already, with both teams fighting for positioning, but Canada's form (2-0 win over Uzbekistan most recently) and home-crowd advantage at BC Place should prove decisive.\n\nQatar's wobbled through this run — that loss to Ireland stings, and draws with Switzerland and El Salvador suggest they lack the cutting edge to hurt a well-drilled Canadian side. Canada's missing some defensive depth with **A. Davies**, **M. Bombito**, and **R. Priso** unavailable, but the backline has held firm at home.\n\nKey storylines:\n\n- **Canada's midfield engine** — **T. Buchanan**, **M. Choinière**, and **I. Koné** will need to control the tempo and frustrate Qatar's narrow attacking setup\n- **Qatar's search for goals** — **A. Alaaeldin** and **M. Muntari** haven't been clinical; they'll need a tactical spark **A. Afif** can't deliver alone\n- **Home-field dominance** — Canada unbeaten in their last five at home; Qatar 1W 3D 1L on the road is a dud record\n\nExpected lineups:\n\n- **Canada**: M. Crépeau, R. Laryea, J. David, N. Sigur, L. D. Fougerolles, T. Buchanan, M. Choinière, I. Koné, N. Saliba, J. Russell Rowe, D. Jebbison\n- **Qatar**: M. I. Abunad, P. Miguel, H. Al-Amin, B. Khoukhi, A. A. Oui, A. Afif, E. Junior, A. Madibo, Y. Abdurisag, A. Alaaeldin, M. Muntari\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction: **Canada 2–0 Qatar**. Lean toward a controlled home win with Qatar unable to break the press. 🎯",
+            "generated_at": "2026-06-17T22:45:18.162208+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-06-02T13:52:59.004798+03:00",
@@ -7286,9 +9332,25 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 1,
+            "sentence": "Qatar haven't won in their last 6 games."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Canada haven't lost in their last 9 games."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Canada haven't lost in any of their last 6 home matches."
+          }
+        ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Canada's home fortress meets Qatar's struggles — and the Maple Leafs are the clear edge here.** 🍁 This is a dead-rubber vibe already, with both teams fighting for positioning, but Canada's form (2-0 win over Uzbekistan most recently) and home-crowd advantage at BC Place should prove decisive.\n\nQatar's wobbled through this run — that loss to Ireland stings, and draws with Switzerland and El Salvador suggest they lack the cutting edge to hurt a well-drilled Canadian side. Canada's missing some defensive depth with **A. Davies**, **M. Bombito**, and **R. Priso** unavailable, but the backline has held firm at home.\n\nKey storylines:\n\n- **Canada's midfield engine** — **T. Buchanan**, **M. Choinière**, and **I. Koné** will need to control the tempo and frustrate Qatar's narrow attacking setup\n- **Qatar's search for goals** — **A. Alaaeldin** and **M. Muntari** haven't been clinical; they'll need a tactical spark **A. Afif** can't deliver alone\n- **Home-field dominance** — Canada unbeaten in their last five at home; Qatar 1W 3D 1L on the road is a dud record\n\nExpected lineups:\n\n- **Canada**: M. Crépeau, R. Laryea, J. David, N. Sigur, L. D. Fougerolles, T. Buchanan, M. Choinière, I. Koné, N. Saliba, J. Russell Rowe, D. Jebbison\n- **Qatar**: M. I. Abunad, P. Miguel, H. Al-Amin, B. Khoukhi, A. A. Oui, A. Afif, E. Junior, A. Madibo, Y. Abdurisag, A. Alaaeldin, M. Muntari\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction: **Canada 2–0 Qatar**. Lean toward a controlled home win with Qatar unable to break the press. 🎯",
+          "generated_at": "2026-06-17T22:45:18.162208+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-06-17",
