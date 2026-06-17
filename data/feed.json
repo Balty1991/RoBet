@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-17T07:35:08.235Z",
+  "generated_at": "2026-06-17T12:19:53.964Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -2793,7 +2793,20 @@
         },
         "head_to_head": null,
         "lineups": null,
-        "social": []
+        "social": [
+          {
+            "id": 368880,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5sNVNJZWtUUnlwaVZiN1RZQTZDTHdGNW01bmE1aW9sMHVJaHdFZGtobnZEV0Z4ZGFXNHBweF91ZGRJOVc0eUhMZlVZM2tVaEhVcE10cGo0cDlvVmtIMFlmcTBKdXk0R0NGYmdEa1ZxcDcxdnRfalVnMQ?oc=5",
+            "title": "▶️ Watch Ilves vs FF Jaro Live Stream | Predictions & Tips - 17 Jun",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "footballpredictions.net",
+            "account_name": "FootballPredictions.NET",
+            "account_verified": false,
+            "published_at": "2026-06-17T09:53:52+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
@@ -9521,9 +9534,25 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 1,
+              "sentence": "Mariehamn haven't won in their last 4 games."
+            },
+            {
+              "type_id": 24,
+              "sentence": "Oulu's home record this season: 4-0-0."
+            },
+            {
+              "type_id": 24,
+              "sentence": "Mariehamn's away record this season: 0-1-4."
+            }
+          ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**AC Oulu are rolling, and Mariehamn are in free fall** — this feels like a mismatch on paper. 🔥\n\nOulu's cruising with three wins in their last five, including a clean sheet away at Inter Turku. Mariehamn, meanwhile, haven't won in five and just shipped three at home to IF Gnistan. The hosts have all the momentum here.\n\nKey storylines:\n\n- **AC Oulu's defensive solidity** — back-to-back shutouts signal they're tough to break down\n- **Mariehamn's attacking woes** — zero goals in their last two outings spells real trouble\n- **Home advantage at Raatti** — Oulu unbeaten there recently, facing a struggling visitor\n\nExpected lineups:\n\n- **AC Oulu**: M. Santos, J. Pirinen, M. Pitkanen, O. Kemppainen, S. Sipola, I. Mendolin, R. Karjalainen, T. Kaukua, L. Ghezali, J. Körkkö, K. Jatta\n- **IFK Mariehamn**: K. Lund, N. Nurmi, P. Lindgren, Y. Amankwah, T. Koivisto, A. Huttunen, E. Patut, J. v. d. Heyden, L. Andersson, A. Larsson, M. Hyvönen\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**AC Oulu 2–0 IFK Mariehamn**. Oulu's defense and form give them a clear edge; Mariehamn's barren run doesn't inspire confidence.",
+            "generated_at": "2026-06-17T10:45:20.457303+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-06-02T13:52:57.990368+03:00",
@@ -9694,9 +9723,25 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 1,
+            "sentence": "Mariehamn haven't won in their last 4 games."
+          },
+          {
+            "type_id": 24,
+            "sentence": "Oulu's home record this season: 4-0-0."
+          },
+          {
+            "type_id": 24,
+            "sentence": "Mariehamn's away record this season: 0-1-4."
+          }
+        ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**AC Oulu are rolling, and Mariehamn are in free fall** — this feels like a mismatch on paper. 🔥\n\nOulu's cruising with three wins in their last five, including a clean sheet away at Inter Turku. Mariehamn, meanwhile, haven't won in five and just shipped three at home to IF Gnistan. The hosts have all the momentum here.\n\nKey storylines:\n\n- **AC Oulu's defensive solidity** — back-to-back shutouts signal they're tough to break down\n- **Mariehamn's attacking woes** — zero goals in their last two outings spells real trouble\n- **Home advantage at Raatti** — Oulu unbeaten there recently, facing a struggling visitor\n\nExpected lineups:\n\n- **AC Oulu**: M. Santos, J. Pirinen, M. Pitkanen, O. Kemppainen, S. Sipola, I. Mendolin, R. Karjalainen, T. Kaukua, L. Ghezali, J. Körkkö, K. Jatta\n- **IFK Mariehamn**: K. Lund, N. Nurmi, P. Lindgren, Y. Amankwah, T. Koivisto, A. Huttunen, E. Patut, J. v. d. Heyden, L. Andersson, A. Larsson, M. Hyvönen\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**AC Oulu 2–0 IFK Mariehamn**. Oulu's defense and form give them a clear edge; Mariehamn's barren run doesn't inspire confidence.",
+          "generated_at": "2026-06-17T10:45:20.457303+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-06-17",
