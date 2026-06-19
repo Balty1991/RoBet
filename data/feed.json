@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T10:43:25.380Z",
+  "generated_at": "2026-06-19T14:15:48.871Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -2691,7 +2691,20 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 2,
+              "sentence": "Londrina haven't won any of their last 3 games against Athletic Club Sjdr."
+            },
+            {
+              "type_id": 24,
+              "sentence": "Londrina's home record this season: 0-2-3."
+            },
+            {
+              "type_id": 25,
+              "sentence": "Bruno Santos de Oliveira is Londrina's top scorer with 4 goals. Ronaldo Tavares has scored 5 times for Athletic Club Sjdr."
+            }
+          ],
           "sr_stats": null,
           "ai_preview": null,
           "live_websocket": true
@@ -2919,7 +2932,20 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 2,
+            "sentence": "Londrina haven't won any of their last 3 games against Athletic Club Sjdr."
+          },
+          {
+            "type_id": 24,
+            "sentence": "Londrina's home record this season: 0-2-3."
+          },
+          {
+            "type_id": 25,
+            "sentence": "Bruno Santos de Oliveira is Londrina's top scorer with 4 goals. Ronaldo Tavares has scored 5 times for Athletic Club Sjdr."
+          }
+        ],
         "sr_stats": null,
         "ai_preview": null,
         "live_websocket": true,
@@ -12701,7 +12727,14 @@
                 "expected_return": "2026-07-20"
               }
             ],
-            "away": []
+            "away": [
+              {
+                "name": "Hamza Smaali",
+                "status": "suspended",
+                "reason": "yellow_or_red_card_suspension",
+                "expected_return": "2026-06-21"
+              }
+            ]
           },
           "venue": {
             "id": 467,
@@ -12871,7 +12904,14 @@
               "expected_return": "2026-07-20"
             }
           ],
-          "away": []
+          "away": [
+            {
+              "name": "Hamza Smaali",
+              "status": "suspended",
+              "reason": "yellow_or_red_card_suspension",
+              "expected_return": "2026-06-21"
+            }
+          ]
         },
         "venue": {
           "id": 467,
@@ -13254,7 +13294,14 @@
             ]
           },
           "unavailable_players": {
-            "home": [],
+            "home": [
+              {
+                "name": "Youssef Michte",
+                "status": "suspended",
+                "reason": "red_card_suspension",
+                "expected_return": "2026-06-21"
+              }
+            ],
             "away": [
               {
                 "name": "Guilherme Ferreira",
@@ -13401,7 +13448,14 @@
           ]
         },
         "unavailable_players": {
-          "home": [],
+          "home": [
+            {
+              "name": "Youssef Michte",
+              "status": "suspended",
+              "reason": "red_card_suspension",
+              "expected_return": "2026-06-21"
+            }
+          ],
           "away": [
             {
               "name": "Guilherme Ferreira",
@@ -14239,7 +14293,17 @@
               "park_the_bus"
             ]
           },
-          "unavailable_players": null,
+          "unavailable_players": {
+            "home": [
+              {
+                "name": "Mouad Bahsain",
+                "status": "suspended",
+                "reason": "red_card_suspension",
+                "expected_return": "2026-06-21"
+              }
+            ],
+            "away": []
+          },
           "venue": null,
           "incidents": null,
           "live_stats": null,
@@ -14376,7 +14440,17 @@
             "park_the_bus"
           ]
         },
-        "unavailable_players": null,
+        "unavailable_players": {
+          "home": [
+            {
+              "name": "Mouad Bahsain",
+              "status": "suspended",
+              "reason": "red_card_suspension",
+              "expected_return": "2026-06-21"
+            }
+          ],
+          "away": []
+        },
         "venue": null,
         "live_stats": null,
         "jerseys": null,
@@ -16216,7 +16290,17 @@
               "anti_football"
             ]
           },
-          "unavailable_players": null,
+          "unavailable_players": {
+            "home": [],
+            "away": [
+              {
+                "name": "Zouhir Eddib",
+                "status": "suspended",
+                "reason": "yellow_or_red_card_suspension",
+                "expected_return": "2026-06-21"
+              }
+            ]
+          },
           "venue": null,
           "incidents": null,
           "live_stats": null,
@@ -16353,7 +16437,17 @@
             "anti_football"
           ]
         },
-        "unavailable_players": null,
+        "unavailable_players": {
+          "home": [],
+          "away": [
+            {
+              "name": "Zouhir Eddib",
+              "status": "suspended",
+              "reason": "yellow_or_red_card_suspension",
+              "expected_return": "2026-06-21"
+            }
+          ]
+        },
         "venue": null,
         "live_stats": null,
         "jerseys": null,
@@ -35835,7 +35929,24 @@
               "terrorist_fb"
             ]
           },
-          "unavailable_players": null,
+          "unavailable_players": {
+            "home": [
+              {
+                "name": "Zouhir Eddib",
+                "status": "suspended",
+                "reason": "yellow_or_red_card_suspension",
+                "expected_return": "2026-06-21"
+              }
+            ],
+            "away": [
+              {
+                "name": "Mouad Bahsain",
+                "status": "suspended",
+                "reason": "red_card_suspension",
+                "expected_return": "2026-06-21"
+              }
+            ]
+          },
           "venue": null,
           "incidents": null,
           "live_stats": null,
@@ -35972,7 +36083,24 @@
             "terrorist_fb"
           ]
         },
-        "unavailable_players": null,
+        "unavailable_players": {
+          "home": [
+            {
+              "name": "Zouhir Eddib",
+              "status": "suspended",
+              "reason": "yellow_or_red_card_suspension",
+              "expected_return": "2026-06-21"
+            }
+          ],
+          "away": [
+            {
+              "name": "Mouad Bahsain",
+              "status": "suspended",
+              "reason": "red_card_suspension",
+              "expected_return": "2026-06-21"
+            }
+          ]
+        },
         "venue": null,
         "live_stats": null,
         "jerseys": null,
@@ -36337,7 +36465,17 @@
               "anti_football"
             ]
           },
-          "unavailable_players": null,
+          "unavailable_players": {
+            "home": [
+              {
+                "name": "Hamza Smaali",
+                "status": "suspended",
+                "reason": "yellow_or_red_card_suspension",
+                "expected_return": "2026-06-21"
+              }
+            ],
+            "away": []
+          },
           "venue": null,
           "incidents": null,
           "live_stats": null,
@@ -36474,7 +36612,17 @@
             "anti_football"
           ]
         },
-        "unavailable_players": null,
+        "unavailable_players": {
+          "home": [
+            {
+              "name": "Hamza Smaali",
+              "status": "suspended",
+              "reason": "yellow_or_red_card_suspension",
+              "expected_return": "2026-06-21"
+            }
+          ],
+          "away": []
+        },
         "venue": null,
         "live_stats": null,
         "jerseys": null,
@@ -38894,7 +39042,17 @@
               "park_the_bus"
             ]
           },
-          "unavailable_players": null,
+          "unavailable_players": {
+            "home": [],
+            "away": [
+              {
+                "name": "Youssef Michte",
+                "status": "suspended",
+                "reason": "red_card_suspension",
+                "expected_return": "2026-06-21"
+              }
+            ]
+          },
           "venue": null,
           "incidents": null,
           "live_stats": null,
@@ -39031,7 +39189,17 @@
             "park_the_bus"
           ]
         },
-        "unavailable_players": null,
+        "unavailable_players": {
+          "home": [],
+          "away": [
+            {
+              "name": "Youssef Michte",
+              "status": "suspended",
+              "reason": "red_card_suspension",
+              "expected_return": "2026-06-21"
+            }
+          ]
+        },
         "venue": null,
         "live_stats": null,
         "jerseys": null,
@@ -68300,9 +68468,9 @@
           "is_local_derby": false,
           "is_neutral_ground": null,
           "travel_distance_km": 228,
-          "weather_code": null,
-          "wind_speed": null,
-          "temperature_c": null,
+          "weather_code": 0,
+          "wind_speed": 20.7,
+          "temperature_c": 26,
           "pitch_condition": null,
           "attendance": null,
           "referee": null,
@@ -68476,9 +68644,9 @@
         "is_local_derby": false,
         "is_neutral_ground": null,
         "travel_distance_km": 228,
-        "weather_code": null,
-        "wind_speed": null,
-        "temperature_c": null,
+        "weather_code": 0,
+        "wind_speed": 20.7,
+        "temperature_c": 26,
         "pitch_condition": null,
         "attendance": null,
         "referee": null,
@@ -68834,9 +69002,9 @@
           "is_local_derby": false,
           "is_neutral_ground": null,
           "travel_distance_km": 135,
-          "weather_code": null,
-          "wind_speed": null,
-          "temperature_c": null,
+          "weather_code": 1,
+          "wind_speed": 17.7,
+          "temperature_c": 25,
           "pitch_condition": null,
           "attendance": null,
           "referee": null,
@@ -69015,9 +69183,9 @@
         "is_local_derby": false,
         "is_neutral_ground": null,
         "travel_distance_km": 135,
-        "weather_code": null,
-        "wind_speed": null,
-        "temperature_c": null,
+        "weather_code": 1,
+        "wind_speed": 17.7,
+        "temperature_c": 25,
         "pitch_condition": null,
         "attendance": null,
         "referee": null,
@@ -69422,9 +69590,9 @@
           "is_local_derby": false,
           "is_neutral_ground": null,
           "travel_distance_km": null,
-          "weather_code": null,
-          "wind_speed": null,
-          "temperature_c": null,
+          "weather_code": 3,
+          "wind_speed": 15.6,
+          "temperature_c": 28,
           "pitch_condition": null,
           "attendance": null,
           "referee": null,
@@ -69601,9 +69769,9 @@
         "is_local_derby": false,
         "is_neutral_ground": null,
         "travel_distance_km": null,
-        "weather_code": null,
-        "wind_speed": null,
-        "temperature_c": null,
+        "weather_code": 3,
+        "wind_speed": 15.6,
+        "temperature_c": 28,
         "pitch_condition": null,
         "attendance": null,
         "referee": null,
@@ -69975,9 +70143,9 @@
           "is_local_derby": false,
           "is_neutral_ground": null,
           "travel_distance_km": null,
-          "weather_code": null,
-          "wind_speed": null,
-          "temperature_c": null,
+          "weather_code": 3,
+          "wind_speed": 6.8,
+          "temperature_c": 22,
           "pitch_condition": null,
           "attendance": null,
           "referee": null,
@@ -70166,9 +70334,9 @@
         "is_local_derby": false,
         "is_neutral_ground": null,
         "travel_distance_km": null,
-        "weather_code": null,
-        "wind_speed": null,
-        "temperature_c": null,
+        "weather_code": 3,
+        "wind_speed": 6.8,
+        "temperature_c": 22,
         "pitch_condition": null,
         "attendance": null,
         "referee": null,
@@ -70571,9 +70739,9 @@
           "is_local_derby": false,
           "is_neutral_ground": null,
           "travel_distance_km": null,
-          "weather_code": null,
-          "wind_speed": null,
-          "temperature_c": null,
+          "weather_code": 3,
+          "wind_speed": 7.4,
+          "temperature_c": 28,
           "pitch_condition": null,
           "attendance": null,
           "referee": null,
@@ -70759,9 +70927,9 @@
         "is_local_derby": false,
         "is_neutral_ground": null,
         "travel_distance_km": null,
-        "weather_code": null,
-        "wind_speed": null,
-        "temperature_c": null,
+        "weather_code": 3,
+        "wind_speed": 7.4,
+        "temperature_c": 28,
         "pitch_condition": null,
         "attendance": null,
         "referee": null,
@@ -71133,9 +71301,9 @@
           "is_local_derby": false,
           "is_neutral_ground": null,
           "travel_distance_km": 369,
-          "weather_code": null,
-          "wind_speed": null,
-          "temperature_c": null,
+          "weather_code": 1,
+          "wind_speed": 16.8,
+          "temperature_c": 29,
           "pitch_condition": null,
           "attendance": null,
           "referee": null,
@@ -71324,9 +71492,9 @@
         "is_local_derby": false,
         "is_neutral_ground": null,
         "travel_distance_km": 369,
-        "weather_code": null,
-        "wind_speed": null,
-        "temperature_c": null,
+        "weather_code": 1,
+        "wind_speed": 16.8,
+        "temperature_c": 29,
         "pitch_condition": null,
         "attendance": null,
         "referee": null,
@@ -71791,9 +71959,9 @@
           "is_local_derby": false,
           "is_neutral_ground": null,
           "travel_distance_km": null,
-          "weather_code": null,
-          "wind_speed": null,
-          "temperature_c": null,
+          "weather_code": 51,
+          "wind_speed": 12.8,
+          "temperature_c": 21,
           "pitch_condition": null,
           "attendance": null,
           "referee": null,
@@ -71983,9 +72151,9 @@
         "is_local_derby": false,
         "is_neutral_ground": null,
         "travel_distance_km": null,
-        "weather_code": null,
-        "wind_speed": null,
-        "temperature_c": null,
+        "weather_code": 51,
+        "wind_speed": 12.8,
+        "temperature_c": 21,
         "pitch_condition": null,
         "attendance": null,
         "referee": null,
@@ -72380,9 +72548,9 @@
           "is_local_derby": false,
           "is_neutral_ground": null,
           "travel_distance_km": null,
-          "weather_code": null,
-          "wind_speed": null,
-          "temperature_c": null,
+          "weather_code": 3,
+          "wind_speed": 26.4,
+          "temperature_c": 23,
           "pitch_condition": null,
           "attendance": null,
           "referee": null,
@@ -72569,9 +72737,9 @@
         "is_local_derby": false,
         "is_neutral_ground": null,
         "travel_distance_km": null,
-        "weather_code": null,
-        "wind_speed": null,
-        "temperature_c": null,
+        "weather_code": 3,
+        "wind_speed": 26.4,
+        "temperature_c": 23,
         "pitch_condition": null,
         "attendance": null,
         "referee": null,
@@ -73013,9 +73181,9 @@
           "is_local_derby": false,
           "is_neutral_ground": null,
           "travel_distance_km": null,
-          "weather_code": null,
-          "wind_speed": null,
-          "temperature_c": null,
+          "weather_code": 3,
+          "wind_speed": 13.6,
+          "temperature_c": 20,
           "pitch_condition": null,
           "attendance": null,
           "referee": null,
@@ -73195,9 +73363,9 @@
         "is_local_derby": false,
         "is_neutral_ground": null,
         "travel_distance_km": null,
-        "weather_code": null,
-        "wind_speed": null,
-        "temperature_c": null,
+        "weather_code": 3,
+        "wind_speed": 13.6,
+        "temperature_c": 20,
         "pitch_condition": null,
         "attendance": null,
         "referee": null,
@@ -73623,9 +73791,9 @@
           "is_local_derby": false,
           "is_neutral_ground": null,
           "travel_distance_km": 416,
-          "weather_code": null,
-          "wind_speed": null,
-          "temperature_c": null,
+          "weather_code": 2,
+          "wind_speed": 23.2,
+          "temperature_c": 19,
           "pitch_condition": null,
           "attendance": null,
           "referee": null,
@@ -73823,9 +73991,9 @@
         "is_local_derby": false,
         "is_neutral_ground": null,
         "travel_distance_km": 416,
-        "weather_code": null,
-        "wind_speed": null,
-        "temperature_c": null,
+        "weather_code": 2,
+        "wind_speed": 23.2,
+        "temperature_c": 19,
         "pitch_condition": null,
         "attendance": null,
         "referee": null,
@@ -74229,9 +74397,9 @@
           "is_local_derby": false,
           "is_neutral_ground": null,
           "travel_distance_km": 392,
-          "weather_code": null,
-          "wind_speed": null,
-          "temperature_c": null,
+          "weather_code": 3,
+          "wind_speed": 19.1,
+          "temperature_c": 18,
           "pitch_condition": null,
           "attendance": null,
           "referee": null,
@@ -74434,9 +74602,9 @@
         "is_local_derby": false,
         "is_neutral_ground": null,
         "travel_distance_km": 392,
-        "weather_code": null,
-        "wind_speed": null,
-        "temperature_c": null,
+        "weather_code": 3,
+        "wind_speed": 19.1,
+        "temperature_c": 18,
         "pitch_condition": null,
         "attendance": null,
         "referee": null,
@@ -74852,9 +75020,9 @@
           "is_local_derby": false,
           "is_neutral_ground": null,
           "travel_distance_km": 249,
-          "weather_code": null,
-          "wind_speed": null,
-          "temperature_c": null,
+          "weather_code": 0,
+          "wind_speed": 17.3,
+          "temperature_c": 17,
           "pitch_condition": null,
           "attendance": null,
           "referee": null,
@@ -75040,9 +75208,9 @@
         "is_local_derby": false,
         "is_neutral_ground": null,
         "travel_distance_km": 249,
-        "weather_code": null,
-        "wind_speed": null,
-        "temperature_c": null,
+        "weather_code": 0,
+        "wind_speed": 17.3,
+        "temperature_c": 17,
         "pitch_condition": null,
         "attendance": null,
         "referee": null,
