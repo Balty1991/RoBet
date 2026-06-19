@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-19T14:15:48.871Z",
+  "generated_at": "2026-06-19T16:59:22.857Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -467,7 +467,248 @@
         },
         "head_to_head": null,
         "lineups": null,
-        "social": []
+        "social": [
+          {
+            "id": 391516,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVUVsZTJRcjZzU2NNWkJGSjZfYUJObVozM0hTTXRHVVpCX2txNjNjMTZST3ZmazhoZFNiMWtreVVhVUZoYWE5ZnROeTNoNUp5UGIwZ2Z6Y0M0WnNkdS11WHRla1lNTlpabTFuSnZIOW9wLUJiSkxmOTBLUVEyYnc4MmRZb1ZWUXV3V1lMb3czUHZ1M2ZsN1hTcjdicF81RkEyajhObFgxMnA?oc=5",
+            "title": "Best TV shows of 2026 so far ranked by USA TODAY",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "muscatine journal",
+            "account_name": "Muscatine Journal",
+            "account_verified": false,
+            "published_at": "2026-06-19T14:14:18+00:00"
+          },
+          {
+            "id": 391537,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQb3VFQ29zTXpFT0NtcTAyRDB2N1NJU2ZUZ0ZkMTNab3Z0NmdFdkdKdkRqeTNXaUhHb21vV0o4Y1JXaEgzN2M0Z2VJQmFZdXJBWVFQanJEYmRwbl9pX2M1dWFLLUNyOXZnaXZfTUFxYTU2Y3h5ajdUU3MxTU9QNUhkSm5mNFNYdE02MmhjaDBmY212WEdw?oc=5",
+            "title": "Australia beats Bangladesh by 7 runs in high-scoring 2nd T20 to win series",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "ctpost",
+            "account_name": "CTPost",
+            "account_verified": false,
+            "published_at": "2026-06-19T14:13:43+00:00"
+          },
+          {
+            "id": 391548,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMioAJBVV95cUxQQkVYdWVDbVp3LWdBS1JJRC1JaEgxa0FvbUFXUDBnekNVN3V6S0NVZ2hMclV5bHNldjNRVTVhWE15Qm93cnFOT05YSDlKcmVnSUZyeXhYRk0yY1Zya2RDZFVDT2lTZjlUOUJHUllJM2NBT1lzSXAyWUdpQWJST3pUUWFWclluWWg1am9mRWxVNTVGYXZ3clQzazFqNmNvdVNJZXRqWG5zNEllNkdxLVNZaV82Z0tlUlBsT0syZGJnV0oyU1U2SFhzeDBEZjZ0bUxkdTBDZTB0TWotMENzSVlEYTRlOS1tOUdsNnZCOEpYTnc3aDZzYk1iTjBUMUdvY0w5UFdBX2hkUXFHYk5mM0VDWkE3akhSWmpNN0VZRThfTXU?oc=5",
+            "title": "Australian fans flood Seattle as transit braces for World Cup surge",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "coastalabc.com",
+            "account_name": "coastalabc.com",
+            "account_verified": false,
+            "published_at": "2026-06-19T14:13:12+00:00"
+          },
+          {
+            "id": 391547,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOQXZ0SjhwZDczVlRySm1aS0MwOHVYem1MLVFmTEJkVXZ4TVFlQ1JlbFVpYUtsMGJVaFpyWTJQTkItMnlBVlZiakR2UGl0Vkl3aTU0bDhhVnEtTklhckQzSjFZZHQ0d3ZHNU5odF9uaGt6MzU2akRHTjZSd1BUcUZHeEhBdTVzYWpaOEw3ZVYyS0lLckZHaVFXMi15Znc0SnRUcUh4UTdEdnRWZlIxVFh0S1pZaEE3VjF5Vmc?oc=5",
+            "title": "United States vs Australia: How & When to Watch The 2026 World Cup Clash",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "morocco world news",
+            "account_name": "Morocco World News",
+            "account_verified": false,
+            "published_at": "2026-06-19T14:12:55+00:00"
+          },
+          {
+            "id": 391501,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNWEhsZFUtV0IyY203TFBDRVVwRUFGZm4zd2hxWUp5cURSYUhWQU1SSDNZd3A0V2hGM0FldVczZFVmMXdQZkJleXhqdVlpeUctRmQycVJDN3N3SUlsS243R1FkeHlyUVZUM1lSNzd2ZW5OQ0ltelhtbDJBMGQ3Z19DN2NXQXJidVZvYXFVVEdRODJZbUNENEczeEphQ2FtS3N5YXFyY3hNSF8taTBKdVNJRFFXV3dlRzVhNVd3V2w2TzVWd2Y0UVNfOExtazA?oc=5",
+            "title": "Folarin Balogun odds, picks, player props, predictions: Best bets for USA vs. Australia in 2026 World Cup",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "cbs sports",
+            "account_name": "CBS Sports",
+            "account_verified": false,
+            "published_at": "2026-06-19T14:12:07+00:00"
+          },
+          {
+            "id": 391566,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOX3RMM0t2VUZ1QlAtR3ZKM0xRcXl0dFJvN2pvdkJmUDFMSW1KU19yczhDY2dLWUoxNDNHNEtqNjVQX1dzemREUUVneDZJek8xVkNaWVUxby13U3pqRmZBRDBtRU9ha2I3Z0xSYjNNQU85bTRhU01aX0lNR0NjVUtrek4xYXpQc0N3RmFGRTNWa0VnLWoxSXlKWV9UbzZFaTQ2UzNjMXZpWEQ5MVNlQkl5VGpiZ0NjanpySnR0Mzc1dlpwQQ?oc=5",
+            "title": "The Rondo, USMNT edition: Will the Americans win the group early with a win over Australia? How badly do they need Christian Pulisic? And who is the Socceroos' biggest threat?",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "goal.com",
+            "account_name": "Goal.com",
+            "account_verified": false,
+            "published_at": "2026-06-19T14:12:04+00:00"
+          },
+          {
+            "id": 391517,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcFRIMjgxbEY2c01rSlZVSlMzV1UzTXoyOXlqbmlpNS1iMWh6MHNRc0FKTjl1d3N2eHhsU2VNWF85Ry1neTd2NkgwdlRhT1RfUGpIcndYdDEtZWRtYUdTRmhqSVZHV051VGF6ZWhDVjJLN01VT205WW10MWdqRmRDMVlENkZhcnZxTmZnSEZkRjh2SEVGUWlzLXBSbmFGZUhDY0VlUzZOeVQ0SVVsVDlBOVlhOFZoZkYtY2NsbmowZFJ5YUpkeGc?oc=5",
+            "title": "Novig Promo Code ACTION: $50 Bonus for USA vs. Australia, World Cup Games",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "action network",
+            "account_name": "Action Network",
+            "account_verified": false,
+            "published_at": "2026-06-19T14:11:00+00:00"
+          },
+          {
+            "id": 391497,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObzd4Y1hhR1BUYXUtazhkNzFCRklHdzFhZWFWZEdoSjR0RVFrZGdJbHZNdERtQTlZLWRuOHNtSHBGSGxBUmQ0SWZqWmlVTlgwM0VoWXFQYl9DbnFuVWFTT01VZ3VfdXJGVFVhb2U1Ql9RQjFfQXNqR2FoRnVlNnhzTTBXVVRiV0pOSDVV?oc=5",
+            "title": "USA vs Australia FIFA World Cup 2026 Preview: Everything you need to know",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "goal.com",
+            "account_name": "Goal.com",
+            "account_verified": false,
+            "published_at": "2026-06-19T14:10:21+00:00"
+          },
+          {
+            "id": 391499,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNRHJsanl0dTA2c0N2c3g4MGpZNnBYREdqR0Z3N0Z1UXF5bVd0UWREeHdrNjdjZ2FoM3Z6T2NKTWxwQ1NiajVwYWhicW80RnJLM3pKUXQ0MXc0UUktT3BtMzVvc1pvYk1KcDFzTURlb1NTS1JVSUJiQzNpVVhsTVViSy1EZTNldmNZVEZYLXFESWxkdEF4ZG9jd1Jia1Y0MU9qakRQOGZ4OEM0YVpWbVpyLW45VHhJV2ZMVDdkTUxaSnVPY3hwZE9BVmhFb2oyZzQ?oc=5",
+            "title": "It's here! 3 things to get you ready for Team USA's showdown with Australia in Seattle",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "wkrc",
+            "account_name": "WKRC",
+            "account_verified": false,
+            "published_at": "2026-06-19T14:10:14+00:00"
+          },
+          {
+            "id": 391545,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxORl9WbTI0Zl93QXRuZG5YQ2t2UldBcmZIdERRajN3TlFRUmpTLWxaMzZ4QVpoYjMwV29XdUIwcTd2ZkF3RE5Pa0xGVkJmdmRxdXhfaFRhN2tjcVJLaTRRMnIzakYwNkJ6TThmcDVEdm1TNG15TWV3QkJfNXVNU2xZWDdBN3RRbWw3c1Z5djJOSkllb0NscGRIOHQ4NW95WTJleFcta1B1OXpERG9WeUNkV0VyTjB1SUxzU1B2Q2dGZTM1ME0taEo3cVhMZ3lHUQ?oc=5",
+            "title": "It's here! 3 things to get you ready for Team USA's showdown with Australia in Seattle",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "kfox",
+            "account_name": "KFOX",
+            "account_verified": false,
+            "published_at": "2026-06-19T14:08:29+00:00"
+          },
+          {
+            "id": 391570,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOWGRJMHp4ZEFSTE1pS1FKWTRwQi1ZTVdBV1NjNlotb0I1YTV0N05uQUhtREFkLXZtUHFtM0lZdndBbWxRQlpCME1sc2lua3pzS3JYNnBtVk9KTmZycHRGYlJtdHlORDA3SkpBWkZwM3piVHhPallvaEpqQ3hOdUJhZVoyZ3pmOGhHaVJSNkw3T1BZa3VUeGE1c0huUGxvenJfX1R5Tm5R?oc=5",
+            "title": "Australia detects first suspected case of deadly bird flu strain",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "i̇lke haber ajansı",
+            "account_name": "İlke Haber Ajansı",
+            "account_verified": false,
+            "published_at": "2026-06-19T14:08:23+00:00"
+          },
+          {
+            "id": 391512,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNdmMyNDFwREhITUJreXBvXzJOa1RDX1BzeU92OWtVVEx0Nkl2M01aQjRNdi1tbmJJOTluRnJ5S1B3YnFJc2N4V1NoMGxGMzdGWm9mcmwteDBPNXJ6eHlOeFF1dEJrbXcteElWZWduTmk3QmgxeC1pem15MkFLM0htb2E2ZWluWnVidzlITFJTWlRsTzBkTlh1RzN2U0FTTlR1emhXVWtMTGcwaDFHSE9aQnh6RTZTVjFmM21RQy1n?oc=5",
+            "title": "Trump announced that Apple and Intel are working to design and build chips in the USA",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "gamereactor uk",
+            "account_name": "Gamereactor UK",
+            "account_verified": false,
+            "published_at": "2026-06-19T14:08:19+00:00"
+          },
+          {
+            "id": 391493,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPZFpqS2d1blJxZGlnWU01enlfdmxDTnNRY19nVjFPQ1A3OTZhTXVLZldvcVZtdEw3b2c2MDc0SjFOem1HTnhqT2dyVkJ2b2dKYmdpR0JUXzZDQnhTMjA4QS1GaXdDczhJclAwMzQyR282bTZnTlVKU0tITVh6YUNzZFJQV0lHamg0cWZDSWNZZlFERzlOWmVkbFk5UGFYSHFYOGxDSkpkWTdXNzIzOEYtRGdn?oc=5",
+            "title": "Polymarket Promo Code WTOP: Claim $50 World Cup Bonus for Australia-USA, Any Match - WTOP News",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "wtop",
+            "account_name": "WTOP",
+            "account_verified": false,
+            "published_at": "2026-06-19T14:07:40+00:00"
+          },
+          {
+            "id": 391564,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPaEhxc3kwaUkwV3FYdU5LVDdObThZMkFRUUJsMGZENlZYVDJjWHppR2JxT2E4VHM5QkE3UTZ2VUFrN0JVVEh3MHVySUpGTTNheWtFX25EekNZTDZZMU14T2xxWHNqWjZCSFFFQktFbGNOUGdSd0JXdHA3Y1BUdmx3WGJtYVJDNW85dkRhZnFwRUZJNV9zdEJlLWZ3b2RqWjRZb2Q3X0tZalpoR253eUhEWnhzOG1zeDNpQUg3bUhndjJEV1Rpbm5xdTJrRGRHN0REWDFYZ3hOZWFfNDZtZU9LcUd2a2tUMXNvQnZ4anF5ZWs1LUkxczg40gH8AUFVX3lxTFBMMWsta1BDUVVrU1QzQkc0Y2NGaWJmTmJPNUtRbVZFcU1OQlFad3hnNGZZSDV3WmdCSjl4M2RMZEpRTzNqdGV0QzFRWGdxOHdjUV9RTGpQX003ZnZ",
+            "title": "Australia’s far-flung islands serve a political purpose",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "the australian",
+            "account_name": "The Australian",
+            "account_verified": false,
+            "published_at": "2026-06-19T14:07:09+00:00"
+          },
+          {
+            "id": 391569,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMijgJBVV95cUxOcjBfWE5SYWlCQm5qN0lnR1lXcFpsR2JURzg0VFU3RXZDVkpoRG1BdmF4eDk3MFBWeWxoSWtZQ3FQRmpySGZWTUZkX0Nwek56ZmlOU2NVNEl3ZXFrTDQ1NkRxVEtsV1ZlZGNPd0RGd2RkTVRFQjJEVkpuOXJDZ2NibjJVd3NJWldrWFlrM2hZVjE2YVNLTkd2TEJKMEc4c2RGUzZ4eU0tNDkxMy11ZFJIRDI4OXlrYW9Mekd1eko1bzA3SUxla0ItLVBUOXV5d0ZaTGRYdnVQUVNGb0dnNjB1QVBQb1VLd0F4U0lJUHdmZ0dKb0VXTW5VX1UyUllOUDNEUERNWFZwUE1VcC1yOGfSAZMCQVVfeXFMTnhJRDJNcTFhMDAyVzViLUNJaGZZYmpZRWFHaFBfUUhvTjZVaEduWnRFMDhlRmNOS0l3eFczelh0dWRtQkp",
+            "title": "The Brexit revolution is here. Australia’s establishment has no answer",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "the australian",
+            "account_name": "The Australian",
+            "account_verified": false,
+            "published_at": "2026-06-19T14:07:09+00:00"
+          },
+          {
+            "id": 391541,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNc0RaSHktWlE1ejRYbjA0N05JZlA3OThtQlNoaTduWi1jc2s5Qk53dHhpbDhWUjV0QkE3Z3dkNHp5bThFVzE0MVpKT1oxUHV0bUFHd0FHaWJyNlowaTF5TUFOTlkyOVkyaXQ0ajZPeUxDdzlpMjlxNTF3SUFBd0NTelAzZ0dtYW8zWHgwUkdyRW9scjU5MkI4M1BHZ2xsNjYwRUtyS3VjZ1lGUFZDT3N5QUdJX215MzZJc1M0?oc=5",
+            "title": "USMNT could make World Cup history vs. Australia. Here's how.",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "usa today",
+            "account_name": "USA Today",
+            "account_verified": false,
+            "published_at": "2026-06-19T14:07:00+00:00"
+          },
+          {
+            "id": 391498,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUzMtTVFYY3JVTUFRd2Jmc2U3VV9FR0w2OEdST2wxeWtFQVN2RzBBeVd4SnFmcTlQYnBBVGhqUS15ZEZ1VWZZLWhmcWUyRGpQVnZrT1lNa0hUS1RUUlZtVTZTWGc0V0hiTms1Yi1QcUtkS1ppc0FfeFZ2eWNGM08tM2JYTEZNSUFLNzd1NDMtVUdYZXpINU9QWnpjOHNURmZVb1FN?oc=5",
+            "title": "Vital step made towards USA return on 2027 WRC calendar",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "motorsport.com",
+            "account_name": "Motorsport.com",
+            "account_verified": false,
+            "published_at": "2026-06-19T14:06:59+00:00"
+          },
+          {
+            "id": 391582,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE10OVNEOTV3ZE1BeUt5ZUpOcElUbFB3aVJjbTliODFGVWNlTVp5UUE2QkRPQ1d0YlczeGxoeDV4c2NDQk1uNElTdDl2c3lZSS1ucV9XSXpKdHo2bFkyMDloeXE5cjUzTTRHSVc4WHVXWDFzeEVVV1g2V2J3?oc=5",
+            "title": "Bangladesh vs Australia - 2nd T20I",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "tapmad",
+            "account_name": "Tapmad",
+            "account_verified": false,
+            "published_at": "2026-06-19T14:06:29+00:00"
+          },
+          {
+            "id": 391555,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNSDNVV2I3TU85ZkdwXzhfajFEd0twNTd2TWlsYmMxNVdJVVQ4ejdoVFJCbC1vNkxOekxWMkFvWFhWMzA1RWtuUGlQRUo4N3p5ZlU1VGZpUmtZSjhKZVN4NDdONm43WXF3MTdTMEl5Ml94ZndUeDItd25mdExiVUJiUlBsdTNSdEdEaVh1d0QwZkozRzRHNnRKMGNGSWIwNjBSRHRRNVVSVHZ4S1NXLTJ4VEpId28tZ1Y2QWlrTFhsQXlVbjN6SmVxRWtoNDI?oc=5",
+            "title": "4 Christian Pulisic replacements if USMNT star can't play vs. Australia",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "usa today",
+            "account_name": "USA Today",
+            "account_verified": false,
+            "published_at": "2026-06-19T14:05:00+00:00"
+          },
+          {
+            "id": 391578,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQMWtOZ3Rkbk16T0pTUXFVQTE0a0lEUlQ1TUNMcGJhWHBnbjNRVm5henZkQ0w1ekc0V0MxTXpTejh0RXg3QmVTeGpxMUZVcWJ3VHNSRGRpemowcFptWjZQVXRjZjM1UmhIWTBySmNWcm5wT2FVMzZGUThoOF9qdUowRDczdVhTcE5BRk5PcEwzVFVwOVV4dldvWVVGcmhsa1lfVk91V21WV0t1d0hxRUp1WjN5WlRqSk9hYkJCOFdwVXN0eE41SUhvTHBjcXRERlhETFZ5NHVfdEFHRXM?oc=5",
+            "title": "Temba Bavuma rolling up his sleeves for tasty clashes with Australia, England on SA turf",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "thestar.co.za",
+            "account_name": "thestar.co.za",
+            "account_verified": false,
+            "published_at": "2026-06-19T14:04:31+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
@@ -2706,7 +2947,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Londrina's hunting for consistency at home, but Athletic Club's draw-heavy run makes this a proper chess match.** 🎯 One team needs wins, the other's happy to grind — recipe for a cagey afternoon.\n\nLondrina have flickered hot and cold (2W-3L in five), while **Athletic Club** have been the ultimate draw merchants with zero losses but also just two wins. Home advantage could tip it for the hosts, but their defensive wobbles (three losses lately) are a red flag against a settled visitor.\n\nKey storylines:\n\n- **Londrina's** attacking unit of B. Santos, L. Marques, and E. Rodriguez needs to capitalize early; Athletic aren't pushovers but they're vulnerable on transitions\n- **Athletic Club's** compact 3-4-2-1 will frustrate in midfield — watch how Iago and A. Luiz handle the press\n- R. Tavares out on ACL injury means **Athletic Club** have adjusted their backline; chemistry could be a factor\n\nExpected lineups:\n\n- **Londrina**: Kozlinski, Kevyn, Y. Lincoln, W. Reis, Weverton, A. Luiz, Iago, B. Santos, L. Marques, E. Rodriguez, C. Maia\n- **Athletic Club**: Luan Polli, L. Belezi, Jhonathan, D. B. d. Souza, Zeca, J. Miguel, K. Rodrigues, Ian Luccas, G. Moyses, O. Otusanya, Ruan Assis\n\nPrediction:\n\n**1-1** — Londrina create chances at home but Athletic Club's defensive shape holds firm. Draw feels like the coin flip here. ⚽",
+            "generated_at": "2026-06-19T14:45:19.317639+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-06-02T13:53:03.049787+03:00",
@@ -2947,7 +3191,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Londrina's hunting for consistency at home, but Athletic Club's draw-heavy run makes this a proper chess match.** 🎯 One team needs wins, the other's happy to grind — recipe for a cagey afternoon.\n\nLondrina have flickered hot and cold (2W-3L in five), while **Athletic Club** have been the ultimate draw merchants with zero losses but also just two wins. Home advantage could tip it for the hosts, but their defensive wobbles (three losses lately) are a red flag against a settled visitor.\n\nKey storylines:\n\n- **Londrina's** attacking unit of B. Santos, L. Marques, and E. Rodriguez needs to capitalize early; Athletic aren't pushovers but they're vulnerable on transitions\n- **Athletic Club's** compact 3-4-2-1 will frustrate in midfield — watch how Iago and A. Luiz handle the press\n- R. Tavares out on ACL injury means **Athletic Club** have adjusted their backline; chemistry could be a factor\n\nExpected lineups:\n\n- **Londrina**: Kozlinski, Kevyn, Y. Lincoln, W. Reis, Weverton, A. Luiz, Iago, B. Santos, L. Marques, E. Rodriguez, C. Maia\n- **Athletic Club**: Luan Polli, L. Belezi, Jhonathan, D. B. d. Souza, Zeca, J. Miguel, K. Rodrigues, Ian Luccas, G. Moyses, O. Otusanya, Ruan Assis\n\nPrediction:\n\n**1-1** — Londrina create chances at home but Athletic Club's defensive shape holds firm. Draw feels like the coin flip here. ⚽",
+          "generated_at": "2026-06-19T14:45:19.317639+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-06-19",
