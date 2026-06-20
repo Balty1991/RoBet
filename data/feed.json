@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-20T04:01:55.673Z",
+  "generated_at": "2026-06-20T08:02:50.745Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -10157,7 +10157,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Japan's rolling into a wounded Tunisia side looking to keep the perfect record alive.** The Blue Samurai are humming at 4W-1D in their last five, while Tunisia just shipped 10 goals across their last two matches. 🔥\n\nTunisia's leaking goals for fun—but they'll need to tighten up against a Japan outfit that's been clinical on both ends. Japan have been without some key pieces (Itakura, Kubo, Tomiyasu, Endo) but the squad depth is holding the line. Tunisia are in real trouble if they can't get organized early.\n\nKey storylines:\n\n- **Japan's attacking quartet** (Kamada, Nakamura, Tanaka, Ueda) will probe a Tunisia backline that's been carved open repeatedly in qualifying\n- **Tunisia's midfield engine**—Skhiri and Mejbri—have to win the ball and slow the tempo, or they're getting picked apart\n- **Defensive stability** will decide this; Japan are favored to control the match, but Tunisia could nick a goal on the counter if given space\n\nExpected lineups:\n\n- **Tunisia**: Dahmen, Talbi, Abdi, Valery, Rekik, Skhiri, Mejbri, Mastouri, Gharbi, Saad, Chaouat\n- **Japan**: Suzuki, Itō, Seko, Watanabe, Sugawara, Kamada, Nakamura, Tanaka, Ueda, Maeda, Ogawa\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Japan 2-0 Tunisia.** Japan's edge is too strong; expect a controlled performance with Tunisia struggling to generate danger.",
+            "generated_at": "2026-06-20T04:45:22.041331+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-06-02T13:53:10.956450+03:00",
@@ -10358,7 +10361,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Japan's rolling into a wounded Tunisia side looking to keep the perfect record alive.** The Blue Samurai are humming at 4W-1D in their last five, while Tunisia just shipped 10 goals across their last two matches. 🔥\n\nTunisia's leaking goals for fun—but they'll need to tighten up against a Japan outfit that's been clinical on both ends. Japan have been without some key pieces (Itakura, Kubo, Tomiyasu, Endo) but the squad depth is holding the line. Tunisia are in real trouble if they can't get organized early.\n\nKey storylines:\n\n- **Japan's attacking quartet** (Kamada, Nakamura, Tanaka, Ueda) will probe a Tunisia backline that's been carved open repeatedly in qualifying\n- **Tunisia's midfield engine**—Skhiri and Mejbri—have to win the ball and slow the tempo, or they're getting picked apart\n- **Defensive stability** will decide this; Japan are favored to control the match, but Tunisia could nick a goal on the counter if given space\n\nExpected lineups:\n\n- **Tunisia**: Dahmen, Talbi, Abdi, Valery, Rekik, Skhiri, Mejbri, Mastouri, Gharbi, Saad, Chaouat\n- **Japan**: Suzuki, Itō, Seko, Watanabe, Sugawara, Kamada, Nakamura, Tanaka, Ueda, Maeda, Ogawa\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Japan 2-0 Tunisia.** Japan's edge is too strong; expect a controlled performance with Tunisia struggling to generate danger.",
+          "generated_at": "2026-06-20T04:45:22.041331+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-06-20",
@@ -82930,9 +82936,9 @@
           "is_local_derby": false,
           "is_neutral_ground": null,
           "travel_distance_km": 937,
-          "weather_code": null,
-          "wind_speed": null,
-          "temperature_c": null,
+          "weather_code": 0,
+          "wind_speed": 29.2,
+          "temperature_c": 40,
           "pitch_condition": null,
           "attendance": null,
           "referee": null,
@@ -83111,9 +83117,9 @@
         "is_local_derby": false,
         "is_neutral_ground": null,
         "travel_distance_km": 937,
-        "weather_code": null,
-        "wind_speed": null,
-        "temperature_c": null,
+        "weather_code": 0,
+        "wind_speed": 29.2,
+        "temperature_c": 40,
         "pitch_condition": null,
         "attendance": null,
         "referee": null,
@@ -130907,7 +130913,17 @@
               "tiki_taka"
             ]
           },
-          "unavailable_players": null,
+          "unavailable_players": {
+            "home": [],
+            "away": [
+              {
+                "name": "Miguel Almirón",
+                "status": "suspended",
+                "reason": "red_card_suspension",
+                "expected_return": "2026-06-26"
+              }
+            ]
+          },
           "venue": {
             "id": 272,
             "name": "Geodis Park",
@@ -131111,7 +131127,17 @@
             "tiki_taka"
           ]
         },
-        "unavailable_players": null,
+        "unavailable_players": {
+          "home": [],
+          "away": [
+            {
+              "name": "Miguel Almirón",
+              "status": "suspended",
+              "reason": "red_card_suspension",
+              "expected_return": "2026-06-26"
+            }
+          ]
+        },
         "venue": {
           "id": 272,
           "name": "Geodis Park",
@@ -180760,7 +180786,17 @@
               "tiki_taka"
             ]
           },
-          "unavailable_players": null,
+          "unavailable_players": {
+            "home": [],
+            "away": [
+              {
+                "name": "Miguel Almirón",
+                "status": "suspended",
+                "reason": "red_card_suspension",
+                "expected_return": "2026-06-26"
+              }
+            ]
+          },
           "venue": {
             "id": 263,
             "name": "Bank of America Stadium",
@@ -180930,7 +180966,17 @@
             "tiki_taka"
           ]
         },
-        "unavailable_players": null,
+        "unavailable_players": {
+          "home": [],
+          "away": [
+            {
+              "name": "Miguel Almirón",
+              "status": "suspended",
+              "reason": "red_card_suspension",
+              "expected_return": "2026-06-26"
+            }
+          ]
+        },
         "venue": {
           "id": 263,
           "name": "Bank of America Stadium",
@@ -208031,7 +208077,17 @@
               "tiki_taka"
             ]
           },
-          "unavailable_players": null,
+          "unavailable_players": {
+            "home": [],
+            "away": [
+              {
+                "name": "Miguel Almirón",
+                "status": "suspended",
+                "reason": "red_card_suspension",
+                "expected_return": "2026-06-26"
+              }
+            ]
+          },
           "venue": {
             "id": 273,
             "name": "Gillette Stadium",
@@ -208201,7 +208257,17 @@
             "tiki_taka"
           ]
         },
-        "unavailable_players": null,
+        "unavailable_players": {
+          "home": [],
+          "away": [
+            {
+              "name": "Miguel Almirón",
+              "status": "suspended",
+              "reason": "red_card_suspension",
+              "expected_return": "2026-06-26"
+            }
+          ]
+        },
         "venue": {
           "id": 273,
           "name": "Gillette Stadium",
