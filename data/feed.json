@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-22T04:48:47.422Z",
+  "generated_at": "2026-06-22T10:42:36.463Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -3185,7 +3185,10 @@
           "jerseys": null,
           "funfacts": null,
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Gold Coast Knights roll in hot, and Eastern Suburbs won't want to slip up.** Both teams are flying right now — Knights four wins in five, Suburbs matching that form with a draw sprinkled in. 🔥\n\nThe Knights have been clinical at home (two big wins lately), while Suburbs just held a clean sheet midweek. This could go either way, but expect goals — both sides can finish.\n\nKey storylines:\n\n- **Gold Coast's home advantage** keeps them dangerous after back-to-back convincing victories on their patch\n- **Eastern Suburbs' defensive solidity** tested against a Knights attack that just put five past Olympic\n- **Ridenton and Kusunoki's midfield** will need to control tempo for Suburbs to frustrate the hosts\n\nExpected lineups:\n\n- **Gold Coast Knights**: (XI TBA)\n- **Eastern Suburbs**: C. Parsons, J. Brindell-South, S. Neville, K. Maude, M. Melville, M. Ridenton, D. Kusunoki, E. Han, R. Velardo, A. Pengelly, B. Doolan\n\nBest picks:\n\n- **Over 1.5 Goals**: likely — both teams have shown they can score\n\nPrediction:\n\n**2-1 Gold Coast Knights** — home form edges it, but Suburbs will make them sweat. ⚽",
+            "generated_at": "2026-06-22T09:45:16.720494+00:00"
+          },
           "live_websocket": false
         },
         "created_at": "2026-06-22T05:20:09.576157+03:00",
@@ -3310,7 +3313,10 @@
         "jerseys": null,
         "funfacts": null,
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Gold Coast Knights roll in hot, and Eastern Suburbs won't want to slip up.** Both teams are flying right now — Knights four wins in five, Suburbs matching that form with a draw sprinkled in. 🔥\n\nThe Knights have been clinical at home (two big wins lately), while Suburbs just held a clean sheet midweek. This could go either way, but expect goals — both sides can finish.\n\nKey storylines:\n\n- **Gold Coast's home advantage** keeps them dangerous after back-to-back convincing victories on their patch\n- **Eastern Suburbs' defensive solidity** tested against a Knights attack that just put five past Olympic\n- **Ridenton and Kusunoki's midfield** will need to control tempo for Suburbs to frustrate the hosts\n\nExpected lineups:\n\n- **Gold Coast Knights**: (XI TBA)\n- **Eastern Suburbs**: C. Parsons, J. Brindell-South, S. Neville, K. Maude, M. Melville, M. Ridenton, D. Kusunoki, E. Han, R. Velardo, A. Pengelly, B. Doolan\n\nBest picks:\n\n- **Over 1.5 Goals**: likely — both teams have shown they can score\n\nPrediction:\n\n**2-1 Gold Coast Knights** — home form edges it, but Suburbs will make them sweat. ⚽",
+          "generated_at": "2026-06-22T09:45:16.720494+00:00"
+        },
         "live_websocket": false,
         "home_form": {
           "calculated_at": "2026-06-22",
@@ -48783,9 +48789,40 @@
                 "status": "suspended",
                 "reason": "red_card_suspension",
                 "expected_return": "2026-07-05"
+              },
+              {
+                "name": "Noel Milleskog",
+                "status": "injured",
+                "reason": "Shoulder Injury",
+                "expected_return": "2026-07-20"
               }
             ],
-            "away": []
+            "away": [
+              {
+                "name": "Abdoulie Manneh",
+                "status": "injured",
+                "reason": "Back Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Max Nielsen",
+                "status": "injured",
+                "reason": "Unknown",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Timo Stavitski",
+                "status": "injured",
+                "reason": "Back Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Tom Pettersson",
+                "status": "injured",
+                "reason": "Calf Injury",
+                "expected_return": "2026-07-20"
+              }
+            ]
           },
           "venue": {
             "id": 426,
@@ -48997,9 +49034,40 @@
               "status": "suspended",
               "reason": "red_card_suspension",
               "expected_return": "2026-07-05"
+            },
+            {
+              "name": "Noel Milleskog",
+              "status": "injured",
+              "reason": "Shoulder Injury",
+              "expected_return": "2026-07-20"
             }
           ],
-          "away": []
+          "away": [
+            {
+              "name": "Abdoulie Manneh",
+              "status": "injured",
+              "reason": "Back Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Max Nielsen",
+              "status": "injured",
+              "reason": "Unknown",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Timo Stavitski",
+              "status": "injured",
+              "reason": "Back Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Tom Pettersson",
+              "status": "injured",
+              "reason": "Calf Injury",
+              "expected_return": "2026-07-20"
+            }
+          ]
         },
         "venue": {
           "id": 426,
@@ -55263,7 +55331,17 @@
             "defensive_line": "",
             "top_styles": []
           },
-          "unavailable_players": null,
+          "unavailable_players": {
+            "home": [
+              {
+                "name": "Mamadouba Diaby",
+                "status": "injured",
+                "reason": "Unknown",
+                "expected_return": "2026-07-20"
+              }
+            ],
+            "away": []
+          },
           "venue": {
             "id": 422,
             "name": "Stora Valla",
@@ -55463,7 +55541,17 @@
           "defensive_line": "",
           "top_styles": []
         },
-        "unavailable_players": null,
+        "unavailable_players": {
+          "home": [
+            {
+              "name": "Mamadouba Diaby",
+              "status": "injured",
+              "reason": "Unknown",
+              "expected_return": "2026-07-20"
+            }
+          ],
+          "away": []
+        },
         "venue": {
           "id": 422,
           "name": "Stora Valla",
@@ -55872,7 +55960,17 @@
               "ball_dominant"
             ]
           },
-          "unavailable_players": null,
+          "unavailable_players": {
+            "home": [],
+            "away": [
+              {
+                "name": "Frédéric Nsabiyumva",
+                "status": "injured",
+                "reason": "Foot Injury",
+                "expected_return": "2026-07-10"
+              }
+            ]
+          },
           "venue": {
             "id": 421,
             "name": "Örjans Vall",
@@ -56077,7 +56175,17 @@
             "ball_dominant"
           ]
         },
-        "unavailable_players": null,
+        "unavailable_players": {
+          "home": [],
+          "away": [
+            {
+              "name": "Frédéric Nsabiyumva",
+              "status": "injured",
+              "reason": "Foot Injury",
+              "expected_return": "2026-07-10"
+            }
+          ]
+        },
         "venue": {
           "id": 421,
           "name": "Örjans Vall",
@@ -69449,6 +69557,12 @@
           "unavailable_players": {
             "home": [
               {
+                "name": "Arbnor Mucolli",
+                "status": "injured",
+                "reason": "Cruciate Ligament Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
                 "name": "Jonas Bager",
                 "status": "suspended",
                 "reason": "yellow_card_accumulation_suspension",
@@ -69459,14 +69573,50 @@
                 "status": "suspended",
                 "reason": "yellow_card_accumulation_suspension",
                 "expected_return": "2026-07-05"
+              },
+              {
+                "name": "Lucas Kåhed",
+                "status": "injured",
+                "reason": "Hip Injury",
+                "expected_return": "2026-07-20"
               }
             ],
             "away": [
+              {
+                "name": "Andreas Redkin",
+                "status": "injured",
+                "reason": "Cruciate Ligament Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Fredrik Nissen",
+                "status": "injured",
+                "reason": "Leg Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Ibrahim Cissé",
+                "status": "injured",
+                "reason": "Ankle Injury",
+                "expected_return": "2026-07-20"
+              },
               {
                 "name": "Mads Dohr Thychosen",
                 "status": "suspended",
                 "reason": "yellow_card_accumulation_suspension",
                 "expected_return": "2026-07-05"
+              },
+              {
+                "name": "Martin Ellingsen",
+                "status": "injured",
+                "reason": "Achilles Tendon Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Zadok Yohanna",
+                "status": "injured",
+                "reason": "Thigh Injury",
+                "expected_return": "2026-07-20"
               }
             ]
           },
@@ -69676,6 +69826,12 @@
         "unavailable_players": {
           "home": [
             {
+              "name": "Arbnor Mucolli",
+              "status": "injured",
+              "reason": "Cruciate Ligament Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
               "name": "Jonas Bager",
               "status": "suspended",
               "reason": "yellow_card_accumulation_suspension",
@@ -69686,14 +69842,50 @@
               "status": "suspended",
               "reason": "yellow_card_accumulation_suspension",
               "expected_return": "2026-07-05"
+            },
+            {
+              "name": "Lucas Kåhed",
+              "status": "injured",
+              "reason": "Hip Injury",
+              "expected_return": "2026-07-20"
             }
           ],
           "away": [
+            {
+              "name": "Andreas Redkin",
+              "status": "injured",
+              "reason": "Cruciate Ligament Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Fredrik Nissen",
+              "status": "injured",
+              "reason": "Leg Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Ibrahim Cissé",
+              "status": "injured",
+              "reason": "Ankle Injury",
+              "expected_return": "2026-07-20"
+            },
             {
               "name": "Mads Dohr Thychosen",
               "status": "suspended",
               "reason": "yellow_card_accumulation_suspension",
               "expected_return": "2026-07-05"
+            },
+            {
+              "name": "Martin Ellingsen",
+              "status": "injured",
+              "reason": "Achilles Tendon Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Zadok Yohanna",
+              "status": "injured",
+              "reason": "Thigh Injury",
+              "expected_return": "2026-07-20"
             }
           ]
         },
@@ -84152,6 +84344,12 @@
           "unavailable_players": {
             "home": [
               {
+                "name": "Johannes Núñez",
+                "status": "injured",
+                "reason": "Leg Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
                 "name": "Leonard Owusu",
                 "status": "injured",
                 "reason": "Thigh Injury",
@@ -84159,6 +84357,12 @@
               }
             ],
             "away": [
+              {
+                "name": "Thomas Lehne Olsen",
+                "status": "injured",
+                "reason": "Thigh Injury",
+                "expected_return": "2026-07-20"
+              },
               {
                 "name": "Ulrik Jenssen",
                 "status": "injured",
@@ -84356,6 +84560,12 @@
         "unavailable_players": {
           "home": [
             {
+              "name": "Johannes Núñez",
+              "status": "injured",
+              "reason": "Leg Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
               "name": "Leonard Owusu",
               "status": "injured",
               "reason": "Thigh Injury",
@@ -84363,6 +84573,12 @@
             }
           ],
           "away": [
+            {
+              "name": "Thomas Lehne Olsen",
+              "status": "injured",
+              "reason": "Thigh Injury",
+              "expected_return": "2026-07-20"
+            },
             {
               "name": "Ulrik Jenssen",
               "status": "injured",
@@ -85902,13 +86118,68 @@
             ]
           },
           "unavailable_players": {
-            "home": [],
+            "home": [
+              {
+                "name": "Abdoulie Manneh",
+                "status": "injured",
+                "reason": "Back Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Max Nielsen",
+                "status": "injured",
+                "reason": "Unknown",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Timo Stavitski",
+                "status": "injured",
+                "reason": "Back Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Tom Pettersson",
+                "status": "injured",
+                "reason": "Calf Injury",
+                "expected_return": "2026-07-20"
+              }
+            ],
             "away": [
+              {
+                "name": "Andreas Redkin",
+                "status": "injured",
+                "reason": "Cruciate Ligament Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Fredrik Nissen",
+                "status": "injured",
+                "reason": "Leg Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Ibrahim Cissé",
+                "status": "injured",
+                "reason": "Ankle Injury",
+                "expected_return": "2026-07-20"
+              },
               {
                 "name": "Mads Dohr Thychosen",
                 "status": "suspended",
                 "reason": "yellow_card_accumulation_suspension",
                 "expected_return": "2026-07-05"
+              },
+              {
+                "name": "Martin Ellingsen",
+                "status": "injured",
+                "reason": "Achilles Tendon Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Zadok Yohanna",
+                "status": "injured",
+                "reason": "Thigh Injury",
+                "expected_return": "2026-07-20"
               }
             ]
           },
@@ -86115,13 +86386,68 @@
           ]
         },
         "unavailable_players": {
-          "home": [],
+          "home": [
+            {
+              "name": "Abdoulie Manneh",
+              "status": "injured",
+              "reason": "Back Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Max Nielsen",
+              "status": "injured",
+              "reason": "Unknown",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Timo Stavitski",
+              "status": "injured",
+              "reason": "Back Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Tom Pettersson",
+              "status": "injured",
+              "reason": "Calf Injury",
+              "expected_return": "2026-07-20"
+            }
+          ],
           "away": [
+            {
+              "name": "Andreas Redkin",
+              "status": "injured",
+              "reason": "Cruciate Ligament Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Fredrik Nissen",
+              "status": "injured",
+              "reason": "Leg Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Ibrahim Cissé",
+              "status": "injured",
+              "reason": "Ankle Injury",
+              "expected_return": "2026-07-20"
+            },
             {
               "name": "Mads Dohr Thychosen",
               "status": "suspended",
               "reason": "yellow_card_accumulation_suspension",
               "expected_return": "2026-07-05"
+            },
+            {
+              "name": "Martin Ellingsen",
+              "status": "injured",
+              "reason": "Achilles Tendon Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Zadok Yohanna",
+              "status": "injured",
+              "reason": "Thigh Injury",
+              "expected_return": "2026-07-20"
             }
           ]
         },
@@ -86539,7 +86865,36 @@
             "defensive_line": "",
             "top_styles": []
           },
-          "unavailable_players": null,
+          "unavailable_players": {
+            "home": [
+              {
+                "name": "Mathias Kristensen",
+                "status": "injured",
+                "reason": "Calf Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Philip Sandvik Aukland",
+                "status": "injured",
+                "reason": "Unknown",
+                "expected_return": "2026-07-20"
+              }
+            ],
+            "away": [
+              {
+                "name": "Casper Öyvann",
+                "status": "injured",
+                "reason": "Unknown",
+                "expected_return": "2026-07-31"
+              },
+              {
+                "name": "Jalal Abdullai",
+                "status": "injured",
+                "reason": "Knock Injury",
+                "expected_return": "2026-07-20"
+              }
+            ]
+          },
           "venue": {
             "id": 1282,
             "name": "Color Line Stadion",
@@ -86719,7 +87074,36 @@
           "defensive_line": "",
           "top_styles": []
         },
-        "unavailable_players": null,
+        "unavailable_players": {
+          "home": [
+            {
+              "name": "Mathias Kristensen",
+              "status": "injured",
+              "reason": "Calf Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Philip Sandvik Aukland",
+              "status": "injured",
+              "reason": "Unknown",
+              "expected_return": "2026-07-20"
+            }
+          ],
+          "away": [
+            {
+              "name": "Casper Öyvann",
+              "status": "injured",
+              "reason": "Unknown",
+              "expected_return": "2026-07-31"
+            },
+            {
+              "name": "Jalal Abdullai",
+              "status": "injured",
+              "reason": "Knock Injury",
+              "expected_return": "2026-07-20"
+            }
+          ]
+        },
         "venue": {
           "id": 1282,
           "name": "Color Line Stadion",
@@ -88913,6 +89297,12 @@
                 "status": "suspended",
                 "reason": "red_card_suspension",
                 "expected_return": "2026-07-17"
+              },
+              {
+                "name": "Viktor Ekblom",
+                "status": "injured",
+                "reason": "Groin Injury",
+                "expected_return": "2026-07-10"
               }
             ],
             "away": [
@@ -88920,6 +89310,18 @@
                 "name": "Mohamed Ofkir",
                 "status": "injured",
                 "reason": "Cruciate Ligament Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Ole Christian Saeter",
+                "status": "injured",
+                "reason": "Thigh Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Omar Bully Drammeh",
+                "status": "injured",
+                "reason": "Achilles Tendon Injury",
                 "expected_return": "2026-07-20"
               }
             ]
@@ -89114,6 +89516,12 @@
               "status": "suspended",
               "reason": "red_card_suspension",
               "expected_return": "2026-07-17"
+            },
+            {
+              "name": "Viktor Ekblom",
+              "status": "injured",
+              "reason": "Groin Injury",
+              "expected_return": "2026-07-10"
             }
           ],
           "away": [
@@ -89121,6 +89529,18 @@
               "name": "Mohamed Ofkir",
               "status": "injured",
               "reason": "Cruciate Ligament Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Ole Christian Saeter",
+              "status": "injured",
+              "reason": "Thigh Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Omar Bully Drammeh",
+              "status": "injured",
+              "reason": "Achilles Tendon Injury",
               "expected_return": "2026-07-20"
             }
           ]
@@ -92380,7 +92800,24 @@
               "wing_play"
             ]
           },
-          "unavailable_players": null,
+          "unavailable_players": {
+            "home": [
+              {
+                "name": "Frédéric Nsabiyumva",
+                "status": "injured",
+                "reason": "Foot Injury",
+                "expected_return": "2026-07-10"
+              }
+            ],
+            "away": [
+              {
+                "name": "Mamadouba Diaby",
+                "status": "injured",
+                "reason": "Unknown",
+                "expected_return": "2026-07-20"
+              }
+            ]
+          },
           "venue": {
             "id": 712,
             "name": "Hitachi Energy Arena",
@@ -92585,7 +93022,24 @@
             "wing_play"
           ]
         },
-        "unavailable_players": null,
+        "unavailable_players": {
+          "home": [
+            {
+              "name": "Frédéric Nsabiyumva",
+              "status": "injured",
+              "reason": "Foot Injury",
+              "expected_return": "2026-07-10"
+            }
+          ],
+          "away": [
+            {
+              "name": "Mamadouba Diaby",
+              "status": "injured",
+              "reason": "Unknown",
+              "expected_return": "2026-07-20"
+            }
+          ]
+        },
         "venue": {
           "id": 712,
           "name": "Hitachi Energy Arena",
@@ -93000,6 +93454,12 @@
             "home": [],
             "away": [
               {
+                "name": "Arbnor Mucolli",
+                "status": "injured",
+                "reason": "Cruciate Ligament Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
                 "name": "Jonas Bager",
                 "status": "suspended",
                 "reason": "yellow_card_accumulation_suspension",
@@ -93010,6 +93470,12 @@
                 "status": "suspended",
                 "reason": "yellow_card_accumulation_suspension",
                 "expected_return": "2026-07-05"
+              },
+              {
+                "name": "Lucas Kåhed",
+                "status": "injured",
+                "reason": "Hip Injury",
+                "expected_return": "2026-07-20"
               }
             ]
           },
@@ -93217,6 +93683,12 @@
           "home": [],
           "away": [
             {
+              "name": "Arbnor Mucolli",
+              "status": "injured",
+              "reason": "Cruciate Ligament Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
               "name": "Jonas Bager",
               "status": "suspended",
               "reason": "yellow_card_accumulation_suspension",
@@ -93227,6 +93699,12 @@
               "status": "suspended",
               "reason": "yellow_card_accumulation_suspension",
               "expected_return": "2026-07-05"
+            },
+            {
+              "name": "Lucas Kåhed",
+              "status": "injured",
+              "reason": "Hip Injury",
+              "expected_return": "2026-07-20"
             }
           ]
         },
@@ -95560,6 +96038,12 @@
                 "status": "suspended",
                 "reason": "red_card_suspension",
                 "expected_return": "2026-07-05"
+              },
+              {
+                "name": "Noel Milleskog",
+                "status": "injured",
+                "reason": "Shoulder Injury",
+                "expected_return": "2026-07-20"
               }
             ]
           },
@@ -95776,6 +96260,12 @@
               "status": "suspended",
               "reason": "red_card_suspension",
               "expected_return": "2026-07-05"
+            },
+            {
+              "name": "Noel Milleskog",
+              "status": "injured",
+              "reason": "Shoulder Injury",
+              "expected_return": "2026-07-20"
             }
           ]
         },
@@ -96213,8 +96703,27 @@
             ]
           },
           "unavailable_players": {
-            "home": [],
+            "home": [
+              {
+                "name": "Hakon Krogelien",
+                "status": "injured",
+                "reason": "Back Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Jakob Maslo Dunsby",
+                "status": "injured",
+                "reason": "Thigh Injury",
+                "expected_return": "2026-07-20"
+              }
+            ],
             "away": [
+              {
+                "name": "Anton Ekeroth",
+                "status": "injured",
+                "reason": "Leg Injury",
+                "expected_return": "2026-07-20"
+              },
               {
                 "name": "Luc Mares",
                 "status": "injured",
@@ -96403,8 +96912,27 @@
           ]
         },
         "unavailable_players": {
-          "home": [],
+          "home": [
+            {
+              "name": "Hakon Krogelien",
+              "status": "injured",
+              "reason": "Back Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Jakob Maslo Dunsby",
+              "status": "injured",
+              "reason": "Thigh Injury",
+              "expected_return": "2026-07-20"
+            }
+          ],
           "away": [
+            {
+              "name": "Anton Ekeroth",
+              "status": "injured",
+              "reason": "Leg Injury",
+              "expected_return": "2026-07-20"
+            },
             {
               "name": "Luc Mares",
               "status": "injured",
@@ -96800,9 +97328,21 @@
           "unavailable_players": {
             "home": [
               {
+                "name": "Frederik Carstensen",
+                "status": "injured",
+                "reason": "Unknown",
+                "expected_return": "2026-07-20"
+              },
+              {
                 "name": "Jo Inge Berget",
                 "status": "injured",
                 "reason": "Thigh Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Sigurd Rosted",
+                "status": "injured",
+                "reason": "Ankle Injury",
                 "expected_return": "2026-07-20"
               }
             ],
@@ -97021,9 +97561,21 @@
         "unavailable_players": {
           "home": [
             {
+              "name": "Frederik Carstensen",
+              "status": "injured",
+              "reason": "Unknown",
+              "expected_return": "2026-07-20"
+            },
+            {
               "name": "Jo Inge Berget",
               "status": "injured",
               "reason": "Thigh Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Sigurd Rosted",
+              "status": "injured",
+              "reason": "Ankle Injury",
               "expected_return": "2026-07-20"
             }
           ],
@@ -97438,10 +97990,16 @@
                 "expected_return": "2026-07-20"
               },
               {
+                "name": "Sakarias Opsahl",
+                "status": "injured",
+                "reason": "Foot Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
                 "name": "Thore Pedersen",
                 "status": "injured",
                 "reason": "Dislocated Elbow",
-                "expected_return": "2026-06-30"
+                "expected_return": "2026-07-20"
               }
             ],
             "away": [
@@ -97450,6 +98008,18 @@
                 "status": "suspended",
                 "reason": "yellow_or_red_card_suspension",
                 "expected_return": "2026-07-05"
+              },
+              {
+                "name": "Jasper Silva Torkildsen",
+                "status": "injured",
+                "reason": "Unknown",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Johan Meyer",
+                "status": "injured",
+                "reason": "Groin Injury",
+                "expected_return": "2026-07-20"
               },
               {
                 "name": "Kristoffer Tønnessen",
@@ -97674,10 +98244,16 @@
               "expected_return": "2026-07-20"
             },
             {
+              "name": "Sakarias Opsahl",
+              "status": "injured",
+              "reason": "Foot Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
               "name": "Thore Pedersen",
               "status": "injured",
               "reason": "Dislocated Elbow",
-              "expected_return": "2026-06-30"
+              "expected_return": "2026-07-20"
             }
           ],
           "away": [
@@ -97686,6 +98262,18 @@
               "status": "suspended",
               "reason": "yellow_or_red_card_suspension",
               "expected_return": "2026-07-05"
+            },
+            {
+              "name": "Jasper Silva Torkildsen",
+              "status": "injured",
+              "reason": "Unknown",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Johan Meyer",
+              "status": "injured",
+              "reason": "Groin Injury",
+              "expected_return": "2026-07-20"
             },
             {
               "name": "Kristoffer Tønnessen",
@@ -98101,6 +98689,12 @@
                 "expected_return": "2026-07-20"
               },
               {
+                "name": "David Tufekcic",
+                "status": "injured",
+                "reason": "Hamstring Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
                 "name": "Heine Gikling Bruseth",
                 "status": "injured",
                 "reason": "Thigh Injury",
@@ -98313,6 +98907,12 @@
               "name": "Dan Peter Ulvestad",
               "status": "injured",
               "reason": "Thigh Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "David Tufekcic",
+              "status": "injured",
+              "reason": "Hamstring Injury",
               "expected_return": "2026-07-20"
             },
             {
@@ -98722,6 +99322,12 @@
           "unavailable_players": {
             "home": [
               {
+                "name": "Amin Nouri",
+                "status": "injured",
+                "reason": "Groin Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
                 "name": "Ayoub Aleesami",
                 "status": "injured",
                 "reason": "Groin Injury",
@@ -98738,6 +99344,12 @@
                 "status": "injured",
                 "reason": "Hamstring Injury",
                 "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Moussa Njie",
+                "status": "injured",
+                "reason": "Unknown",
+                "expected_return": "2026-07-20"
               }
             ],
             "away": [
@@ -98750,8 +99362,8 @@
               {
                 "name": "Sondre Fet",
                 "status": "injured",
-                "reason": "Unknown",
-                "expected_return": "2026-06-30"
+                "reason": "Knock Injury",
+                "expected_return": "2026-07-20"
               }
             ]
           },
@@ -98942,6 +99554,12 @@
         "unavailable_players": {
           "home": [
             {
+              "name": "Amin Nouri",
+              "status": "injured",
+              "reason": "Groin Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
               "name": "Ayoub Aleesami",
               "status": "injured",
               "reason": "Groin Injury",
@@ -98958,6 +99576,12 @@
               "status": "injured",
               "reason": "Hamstring Injury",
               "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Moussa Njie",
+              "status": "injured",
+              "reason": "Unknown",
+              "expected_return": "2026-07-20"
             }
           ],
           "away": [
@@ -98970,8 +99594,8 @@
             {
               "name": "Sondre Fet",
               "status": "injured",
-              "reason": "Unknown",
-              "expected_return": "2026-06-30"
+              "reason": "Knock Injury",
+              "expected_return": "2026-07-20"
             }
           ]
         },
@@ -105455,9 +106079,34 @@
                 "status": "injured",
                 "reason": "Cruciate Ligament Injury",
                 "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Ole Christian Saeter",
+                "status": "injured",
+                "reason": "Thigh Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Omar Bully Drammeh",
+                "status": "injured",
+                "reason": "Achilles Tendon Injury",
+                "expected_return": "2026-07-20"
               }
             ],
-            "away": []
+            "away": [
+              {
+                "name": "Mathias Kristensen",
+                "status": "injured",
+                "reason": "Calf Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Philip Sandvik Aukland",
+                "status": "injured",
+                "reason": "Unknown",
+                "expected_return": "2026-07-20"
+              }
+            ]
           },
           "venue": {
             "id": 1284,
@@ -105649,9 +106298,34 @@
               "status": "injured",
               "reason": "Cruciate Ligament Injury",
               "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Ole Christian Saeter",
+              "status": "injured",
+              "reason": "Thigh Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Omar Bully Drammeh",
+              "status": "injured",
+              "reason": "Achilles Tendon Injury",
+              "expected_return": "2026-07-20"
             }
           ],
-          "away": []
+          "away": [
+            {
+              "name": "Mathias Kristensen",
+              "status": "injured",
+              "reason": "Calf Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Philip Sandvik Aukland",
+              "status": "injured",
+              "reason": "Unknown",
+              "expected_return": "2026-07-20"
+            }
+          ]
         },
         "venue": {
           "id": 1284,
@@ -111325,7 +111999,42 @@
               "ball_dominant"
             ]
           },
-          "unavailable_players": null,
+          "unavailable_players": {
+            "home": [
+              {
+                "name": "Abdoulie Manneh",
+                "status": "injured",
+                "reason": "Back Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Max Nielsen",
+                "status": "injured",
+                "reason": "Unknown",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Timo Stavitski",
+                "status": "injured",
+                "reason": "Back Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Tom Pettersson",
+                "status": "injured",
+                "reason": "Calf Injury",
+                "expected_return": "2026-07-20"
+              }
+            ],
+            "away": [
+              {
+                "name": "Frédéric Nsabiyumva",
+                "status": "injured",
+                "reason": "Foot Injury",
+                "expected_return": "2026-07-10"
+              }
+            ]
+          },
           "venue": {
             "id": 420,
             "name": "Strandvallen",
@@ -111530,7 +112239,42 @@
             "ball_dominant"
           ]
         },
-        "unavailable_players": null,
+        "unavailable_players": {
+          "home": [
+            {
+              "name": "Abdoulie Manneh",
+              "status": "injured",
+              "reason": "Back Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Max Nielsen",
+              "status": "injured",
+              "reason": "Unknown",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Timo Stavitski",
+              "status": "injured",
+              "reason": "Back Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Tom Pettersson",
+              "status": "injured",
+              "reason": "Calf Injury",
+              "expected_return": "2026-07-20"
+            }
+          ],
+          "away": [
+            {
+              "name": "Frédéric Nsabiyumva",
+              "status": "injured",
+              "reason": "Foot Injury",
+              "expected_return": "2026-07-10"
+            }
+          ]
+        },
         "venue": {
           "id": 420,
           "name": "Strandvallen",
@@ -121681,10 +122425,40 @@
           "unavailable_players": {
             "home": [
               {
+                "name": "Andreas Redkin",
+                "status": "injured",
+                "reason": "Cruciate Ligament Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Fredrik Nissen",
+                "status": "injured",
+                "reason": "Leg Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Ibrahim Cissé",
+                "status": "injured",
+                "reason": "Ankle Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
                 "name": "Mads Dohr Thychosen",
                 "status": "suspended",
                 "reason": "yellow_card_accumulation_suspension",
                 "expected_return": "2026-07-05"
+              },
+              {
+                "name": "Martin Ellingsen",
+                "status": "injured",
+                "reason": "Achilles Tendon Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Zadok Yohanna",
+                "status": "injured",
+                "reason": "Thigh Injury",
+                "expected_return": "2026-07-20"
               }
             ],
             "away": []
@@ -121889,10 +122663,40 @@
         "unavailable_players": {
           "home": [
             {
+              "name": "Andreas Redkin",
+              "status": "injured",
+              "reason": "Cruciate Ligament Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Fredrik Nissen",
+              "status": "injured",
+              "reason": "Leg Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Ibrahim Cissé",
+              "status": "injured",
+              "reason": "Ankle Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
               "name": "Mads Dohr Thychosen",
               "status": "suspended",
               "reason": "yellow_card_accumulation_suspension",
               "expected_return": "2026-07-05"
+            },
+            {
+              "name": "Martin Ellingsen",
+              "status": "injured",
+              "reason": "Achilles Tendon Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Zadok Yohanna",
+              "status": "injured",
+              "reason": "Thigh Injury",
+              "expected_return": "2026-07-20"
             }
           ],
           "away": []
@@ -122322,6 +123126,12 @@
                 "expected_return": "2026-07-20"
               },
               {
+                "name": "David Tufekcic",
+                "status": "injured",
+                "reason": "Hamstring Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
                 "name": "Heine Gikling Bruseth",
                 "status": "injured",
                 "reason": "Thigh Injury",
@@ -122336,9 +123146,21 @@
             ],
             "away": [
               {
+                "name": "Frederik Carstensen",
+                "status": "injured",
+                "reason": "Unknown",
+                "expected_return": "2026-07-20"
+              },
+              {
                 "name": "Jo Inge Berget",
                 "status": "injured",
                 "reason": "Thigh Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Sigurd Rosted",
+                "status": "injured",
+                "reason": "Ankle Injury",
                 "expected_return": "2026-07-20"
               }
             ]
@@ -122533,6 +123355,12 @@
               "expected_return": "2026-07-20"
             },
             {
+              "name": "David Tufekcic",
+              "status": "injured",
+              "reason": "Hamstring Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
               "name": "Heine Gikling Bruseth",
               "status": "injured",
               "reason": "Thigh Injury",
@@ -122547,9 +123375,21 @@
           ],
           "away": [
             {
+              "name": "Frederik Carstensen",
+              "status": "injured",
+              "reason": "Unknown",
+              "expected_return": "2026-07-20"
+            },
+            {
               "name": "Jo Inge Berget",
               "status": "injured",
               "reason": "Thigh Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Sigurd Rosted",
+              "status": "injured",
+              "reason": "Ankle Injury",
               "expected_return": "2026-07-20"
             }
           ]
@@ -122940,6 +123780,12 @@
           "unavailable_players": {
             "home": [
               {
+                "name": "Thomas Lehne Olsen",
+                "status": "injured",
+                "reason": "Thigh Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
                 "name": "Ulrik Jenssen",
                 "status": "injured",
                 "reason": "Knock Injury",
@@ -122947,6 +123793,12 @@
               }
             ],
             "away": [
+              {
+                "name": "Amin Nouri",
+                "status": "injured",
+                "reason": "Groin Injury",
+                "expected_return": "2026-07-20"
+              },
               {
                 "name": "Ayoub Aleesami",
                 "status": "injured",
@@ -122963,6 +123815,12 @@
                 "name": "Mansour Sinyan",
                 "status": "injured",
                 "reason": "Hamstring Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Moussa Njie",
+                "status": "injured",
+                "reason": "Unknown",
                 "expected_return": "2026-07-20"
               }
             ]
@@ -123148,6 +124006,12 @@
         "unavailable_players": {
           "home": [
             {
+              "name": "Thomas Lehne Olsen",
+              "status": "injured",
+              "reason": "Thigh Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
               "name": "Ulrik Jenssen",
               "status": "injured",
               "reason": "Knock Injury",
@@ -123155,6 +124019,12 @@
             }
           ],
           "away": [
+            {
+              "name": "Amin Nouri",
+              "status": "injured",
+              "reason": "Groin Injury",
+              "expected_return": "2026-07-20"
+            },
             {
               "name": "Ayoub Aleesami",
               "status": "injured",
@@ -123171,6 +124041,12 @@
               "name": "Mansour Sinyan",
               "status": "injured",
               "reason": "Hamstring Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Moussa Njie",
+              "status": "injured",
+              "reason": "Unknown",
               "expected_return": "2026-07-20"
             }
           ]
@@ -123546,7 +124422,20 @@
                 "expected_return": "2026-07-20"
               }
             ],
-            "away": []
+            "away": [
+              {
+                "name": "Hakon Krogelien",
+                "status": "injured",
+                "reason": "Back Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Jakob Maslo Dunsby",
+                "status": "injured",
+                "reason": "Thigh Injury",
+                "expected_return": "2026-07-20"
+              }
+            ]
           },
           "venue": {
             "id": 1288,
@@ -123758,7 +124647,20 @@
               "expected_return": "2026-07-20"
             }
           ],
-          "away": []
+          "away": [
+            {
+              "name": "Hakon Krogelien",
+              "status": "injured",
+              "reason": "Back Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Jakob Maslo Dunsby",
+              "status": "injured",
+              "reason": "Thigh Injury",
+              "expected_return": "2026-07-20"
+            }
+          ]
         },
         "venue": {
           "id": 1288,
@@ -124112,6 +125014,12 @@
           "unavailable_players": {
             "home": [
               {
+                "name": "Anton Ekeroth",
+                "status": "injured",
+                "reason": "Leg Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
                 "name": "Luc Mares",
                 "status": "injured",
                 "reason": "Groin Injury",
@@ -124124,6 +125032,12 @@
                 "status": "suspended",
                 "reason": "red_card_suspension",
                 "expected_return": "2026-07-17"
+              },
+              {
+                "name": "Viktor Ekblom",
+                "status": "injured",
+                "reason": "Groin Injury",
+                "expected_return": "2026-07-10"
               }
             ]
           },
@@ -124311,6 +125225,12 @@
         "unavailable_players": {
           "home": [
             {
+              "name": "Anton Ekeroth",
+              "status": "injured",
+              "reason": "Leg Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
               "name": "Luc Mares",
               "status": "injured",
               "reason": "Groin Injury",
@@ -124323,6 +125243,12 @@
               "status": "suspended",
               "reason": "red_card_suspension",
               "expected_return": "2026-07-17"
+            },
+            {
+              "name": "Viktor Ekblom",
+              "status": "injured",
+              "reason": "Groin Injury",
+              "expected_return": "2026-07-10"
             }
           ]
         },
@@ -124731,11 +125657,17 @@
               {
                 "name": "Sondre Fet",
                 "status": "injured",
-                "reason": "Unknown",
-                "expected_return": "2026-06-30"
+                "reason": "Knock Injury",
+                "expected_return": "2026-07-20"
               }
             ],
             "away": [
+              {
+                "name": "Johannes Núñez",
+                "status": "injured",
+                "reason": "Leg Injury",
+                "expected_return": "2026-07-20"
+              },
               {
                 "name": "Leonard Owusu",
                 "status": "injured",
@@ -124947,11 +125879,17 @@
             {
               "name": "Sondre Fet",
               "status": "injured",
-              "reason": "Unknown",
-              "expected_return": "2026-06-30"
+              "reason": "Knock Injury",
+              "expected_return": "2026-07-20"
             }
           ],
           "away": [
+            {
+              "name": "Johannes Núñez",
+              "status": "injured",
+              "reason": "Leg Injury",
+              "expected_return": "2026-07-20"
+            },
             {
               "name": "Leonard Owusu",
               "status": "injured",
@@ -125350,7 +126288,20 @@
             ]
           },
           "unavailable_players": {
-            "home": [],
+            "home": [
+              {
+                "name": "Casper Öyvann",
+                "status": "injured",
+                "reason": "Unknown",
+                "expected_return": "2026-07-31"
+              },
+              {
+                "name": "Jalal Abdullai",
+                "status": "injured",
+                "reason": "Knock Injury",
+                "expected_return": "2026-07-20"
+              }
+            ],
             "away": [
               {
                 "name": "Denzel De Roeve",
@@ -125377,10 +126328,16 @@
                 "expected_return": "2026-07-20"
               },
               {
+                "name": "Sakarias Opsahl",
+                "status": "injured",
+                "reason": "Foot Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
                 "name": "Thore Pedersen",
                 "status": "injured",
                 "reason": "Dislocated Elbow",
-                "expected_return": "2026-06-30"
+                "expected_return": "2026-07-20"
               }
             ]
           },
@@ -125569,7 +126526,20 @@
           ]
         },
         "unavailable_players": {
-          "home": [],
+          "home": [
+            {
+              "name": "Casper Öyvann",
+              "status": "injured",
+              "reason": "Unknown",
+              "expected_return": "2026-07-31"
+            },
+            {
+              "name": "Jalal Abdullai",
+              "status": "injured",
+              "reason": "Knock Injury",
+              "expected_return": "2026-07-20"
+            }
+          ],
           "away": [
             {
               "name": "Denzel De Roeve",
@@ -125596,10 +126566,16 @@
               "expected_return": "2026-07-20"
             },
             {
+              "name": "Sakarias Opsahl",
+              "status": "injured",
+              "reason": "Foot Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
               "name": "Thore Pedersen",
               "status": "injured",
               "reason": "Dislocated Elbow",
-              "expected_return": "2026-06-30"
+              "expected_return": "2026-07-20"
             }
           ]
         },
@@ -125995,6 +126971,18 @@
                 "expected_return": "2026-07-05"
               },
               {
+                "name": "Jasper Silva Torkildsen",
+                "status": "injured",
+                "reason": "Unknown",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Johan Meyer",
+                "status": "injured",
+                "reason": "Groin Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
                 "name": "Kristoffer Tønnessen",
                 "status": "injured",
                 "reason": "Leg Injury",
@@ -126202,6 +127190,18 @@
               "status": "suspended",
               "reason": "yellow_or_red_card_suspension",
               "expected_return": "2026-07-05"
+            },
+            {
+              "name": "Jasper Silva Torkildsen",
+              "status": "injured",
+              "reason": "Unknown",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Johan Meyer",
+              "status": "injured",
+              "reason": "Groin Injury",
+              "expected_return": "2026-07-20"
             },
             {
               "name": "Kristoffer Tønnessen",
@@ -135835,6 +136835,12 @@
           "unavailable_players": {
             "home": [
               {
+                "name": "Arbnor Mucolli",
+                "status": "injured",
+                "reason": "Cruciate Ligament Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
                 "name": "Jonas Bager",
                 "status": "suspended",
                 "reason": "yellow_card_accumulation_suspension",
@@ -135845,6 +136851,12 @@
                 "status": "suspended",
                 "reason": "yellow_card_accumulation_suspension",
                 "expected_return": "2026-07-05"
+              },
+              {
+                "name": "Lucas Kåhed",
+                "status": "injured",
+                "reason": "Hip Injury",
+                "expected_return": "2026-07-20"
               }
             ],
             "away": []
@@ -136057,6 +137069,12 @@
         "unavailable_players": {
           "home": [
             {
+              "name": "Arbnor Mucolli",
+              "status": "injured",
+              "reason": "Cruciate Ligament Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
               "name": "Jonas Bager",
               "status": "suspended",
               "reason": "yellow_card_accumulation_suspension",
@@ -136067,6 +137085,12 @@
               "status": "suspended",
               "reason": "yellow_card_accumulation_suspension",
               "expected_return": "2026-07-05"
+            },
+            {
+              "name": "Lucas Kåhed",
+              "status": "injured",
+              "reason": "Hip Injury",
+              "expected_return": "2026-07-20"
             }
           ],
           "away": []
@@ -136553,7 +137577,14 @@
                 "expected_return": "2026-09-10"
               }
             ],
-            "away": []
+            "away": [
+              {
+                "name": "Mamadouba Diaby",
+                "status": "injured",
+                "reason": "Unknown",
+                "expected_return": "2026-07-20"
+              }
+            ]
           },
           "venue": {
             "id": 416,
@@ -136761,7 +137792,14 @@
               "expected_return": "2026-09-10"
             }
           ],
-          "away": []
+          "away": [
+            {
+              "name": "Mamadouba Diaby",
+              "status": "injured",
+              "reason": "Unknown",
+              "expected_return": "2026-07-20"
+            }
+          ]
         },
         "venue": {
           "id": 416,
@@ -137233,6 +138271,12 @@
                 "status": "suspended",
                 "reason": "red_card_suspension",
                 "expected_return": "2026-07-05"
+              },
+              {
+                "name": "Noel Milleskog",
+                "status": "injured",
+                "reason": "Shoulder Injury",
+                "expected_return": "2026-07-20"
               }
             ]
           },
@@ -137454,6 +138498,12 @@
               "status": "suspended",
               "reason": "red_card_suspension",
               "expected_return": "2026-07-05"
+            },
+            {
+              "name": "Noel Milleskog",
+              "status": "injured",
+              "reason": "Shoulder Injury",
+              "expected_return": "2026-07-20"
             }
           ]
         },
@@ -152024,6 +153074,12 @@
           "unavailable_players": {
             "home": [
               {
+                "name": "Thomas Lehne Olsen",
+                "status": "injured",
+                "reason": "Thigh Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
                 "name": "Ulrik Jenssen",
                 "status": "injured",
                 "reason": "Knock Injury",
@@ -152209,6 +153265,12 @@
         },
         "unavailable_players": {
           "home": [
+            {
+              "name": "Thomas Lehne Olsen",
+              "status": "injured",
+              "reason": "Thigh Injury",
+              "expected_return": "2026-07-20"
+            },
             {
               "name": "Ulrik Jenssen",
               "status": "injured",
@@ -152576,11 +153638,17 @@
               {
                 "name": "Sondre Fet",
                 "status": "injured",
-                "reason": "Unknown",
-                "expected_return": "2026-06-30"
+                "reason": "Knock Injury",
+                "expected_return": "2026-07-20"
               }
             ],
             "away": [
+              {
+                "name": "Anton Ekeroth",
+                "status": "injured",
+                "reason": "Leg Injury",
+                "expected_return": "2026-07-20"
+              },
               {
                 "name": "Luc Mares",
                 "status": "injured",
@@ -152753,11 +153821,17 @@
             {
               "name": "Sondre Fet",
               "status": "injured",
-              "reason": "Unknown",
-              "expected_return": "2026-06-30"
+              "reason": "Knock Injury",
+              "expected_return": "2026-07-20"
             }
           ],
           "away": [
+            {
+              "name": "Anton Ekeroth",
+              "status": "injured",
+              "reason": "Leg Injury",
+              "expected_return": "2026-07-20"
+            },
             {
               "name": "Luc Mares",
               "status": "injured",
@@ -173192,7 +174266,17 @@
             "defensive_line": "",
             "top_styles": []
           },
-          "unavailable_players": null,
+          "unavailable_players": {
+            "home": [
+              {
+                "name": "Frédéric Nsabiyumva",
+                "status": "injured",
+                "reason": "Foot Injury",
+                "expected_return": "2026-07-10"
+              }
+            ],
+            "away": []
+          },
           "venue": {
             "id": 712,
             "name": "Hitachi Energy Arena",
@@ -173353,7 +174437,17 @@
           "defensive_line": "",
           "top_styles": []
         },
-        "unavailable_players": null,
+        "unavailable_players": {
+          "home": [
+            {
+              "name": "Frédéric Nsabiyumva",
+              "status": "injured",
+              "reason": "Foot Injury",
+              "expected_return": "2026-07-10"
+            }
+          ],
+          "away": []
+        },
         "venue": {
           "id": 712,
           "name": "Hitachi Energy Arena",
@@ -177355,7 +178449,17 @@
               "chaos_football"
             ]
           },
-          "unavailable_players": null,
+          "unavailable_players": {
+            "home": [
+              {
+                "name": "Mamadouba Diaby",
+                "status": "injured",
+                "reason": "Unknown",
+                "expected_return": "2026-07-20"
+              }
+            ],
+            "away": []
+          },
           "venue": {
             "id": 422,
             "name": "Stora Valla",
@@ -177525,7 +178629,17 @@
             "chaos_football"
           ]
         },
-        "unavailable_players": null,
+        "unavailable_players": {
+          "home": [
+            {
+              "name": "Mamadouba Diaby",
+              "status": "injured",
+              "reason": "Unknown",
+              "expected_return": "2026-07-20"
+            }
+          ],
+          "away": []
+        },
         "venue": {
           "id": 422,
           "name": "Stora Valla",
@@ -178998,7 +180112,32 @@
                 "expected_return": "2026-07-10"
               }
             ],
-            "away": []
+            "away": [
+              {
+                "name": "Abdoulie Manneh",
+                "status": "injured",
+                "reason": "Back Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Max Nielsen",
+                "status": "injured",
+                "reason": "Unknown",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Timo Stavitski",
+                "status": "injured",
+                "reason": "Back Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Tom Pettersson",
+                "status": "injured",
+                "reason": "Calf Injury",
+                "expected_return": "2026-07-20"
+              }
+            ]
           },
           "venue": {
             "id": 711,
@@ -179178,7 +180317,32 @@
               "expected_return": "2026-07-10"
             }
           ],
-          "away": []
+          "away": [
+            {
+              "name": "Abdoulie Manneh",
+              "status": "injured",
+              "reason": "Back Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Max Nielsen",
+              "status": "injured",
+              "reason": "Unknown",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Timo Stavitski",
+              "status": "injured",
+              "reason": "Back Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Tom Pettersson",
+              "status": "injured",
+              "reason": "Calf Injury",
+              "expected_return": "2026-07-20"
+            }
+          ]
         },
         "venue": {
           "id": 711,
@@ -204739,9 +205903,21 @@
                 "status": "suspended",
                 "reason": "red_card_suspension",
                 "expected_return": "2026-07-05"
+              },
+              {
+                "name": "Noel Milleskog",
+                "status": "injured",
+                "reason": "Shoulder Injury",
+                "expected_return": "2026-07-20"
               }
             ],
             "away": [
+              {
+                "name": "Arbnor Mucolli",
+                "status": "injured",
+                "reason": "Cruciate Ligament Injury",
+                "expected_return": "2026-07-20"
+              },
               {
                 "name": "Jonas Bager",
                 "status": "suspended",
@@ -204753,6 +205929,12 @@
                 "status": "suspended",
                 "reason": "yellow_card_accumulation_suspension",
                 "expected_return": "2026-07-05"
+              },
+              {
+                "name": "Lucas Kåhed",
+                "status": "injured",
+                "reason": "Hip Injury",
+                "expected_return": "2026-07-20"
               }
             ]
           },
@@ -204932,9 +206114,21 @@
               "status": "suspended",
               "reason": "red_card_suspension",
               "expected_return": "2026-07-05"
+            },
+            {
+              "name": "Noel Milleskog",
+              "status": "injured",
+              "reason": "Shoulder Injury",
+              "expected_return": "2026-07-20"
             }
           ],
           "away": [
+            {
+              "name": "Arbnor Mucolli",
+              "status": "injured",
+              "reason": "Cruciate Ligament Injury",
+              "expected_return": "2026-07-20"
+            },
             {
               "name": "Jonas Bager",
               "status": "suspended",
@@ -204946,6 +206140,12 @@
               "status": "suspended",
               "reason": "yellow_card_accumulation_suspension",
               "expected_return": "2026-07-05"
+            },
+            {
+              "name": "Lucas Kåhed",
+              "status": "injured",
+              "reason": "Hip Injury",
+              "expected_return": "2026-07-20"
             }
           ]
         },
@@ -208206,6 +209406,12 @@
             ],
             "away": [
               {
+                "name": "Johannes Núñez",
+                "status": "injured",
+                "reason": "Leg Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
                 "name": "Leonard Owusu",
                 "status": "injured",
                 "reason": "Thigh Injury",
@@ -208379,6 +209585,12 @@
             }
           ],
           "away": [
+            {
+              "name": "Johannes Núñez",
+              "status": "injured",
+              "reason": "Leg Injury",
+              "expected_return": "2026-07-20"
+            },
             {
               "name": "Leonard Owusu",
               "status": "injured",
@@ -208742,7 +209954,20 @@
             ]
           },
           "unavailable_players": {
-            "home": [],
+            "home": [
+              {
+                "name": "Hakon Krogelien",
+                "status": "injured",
+                "reason": "Back Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Jakob Maslo Dunsby",
+                "status": "injured",
+                "reason": "Thigh Injury",
+                "expected_return": "2026-07-20"
+              }
+            ],
             "away": [
               {
                 "name": "August Mikkelsen",
@@ -208753,8 +209978,8 @@
               {
                 "name": "Sondre Fet",
                 "status": "injured",
-                "reason": "Unknown",
-                "expected_return": "2026-06-30"
+                "reason": "Knock Injury",
+                "expected_return": "2026-07-20"
               }
             ]
           },
@@ -208909,7 +210134,20 @@
           ]
         },
         "unavailable_players": {
-          "home": [],
+          "home": [
+            {
+              "name": "Hakon Krogelien",
+              "status": "injured",
+              "reason": "Back Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Jakob Maslo Dunsby",
+              "status": "injured",
+              "reason": "Thigh Injury",
+              "expected_return": "2026-07-20"
+            }
+          ],
           "away": [
             {
               "name": "August Mikkelsen",
@@ -208920,8 +210158,8 @@
             {
               "name": "Sondre Fet",
               "status": "injured",
-              "reason": "Unknown",
-              "expected_return": "2026-06-30"
+              "reason": "Knock Injury",
+              "expected_return": "2026-07-20"
             }
           ]
         },
@@ -209313,10 +210551,16 @@
                 "expected_return": "2026-07-20"
               },
               {
+                "name": "Sakarias Opsahl",
+                "status": "injured",
+                "reason": "Foot Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
                 "name": "Thore Pedersen",
                 "status": "injured",
                 "reason": "Dislocated Elbow",
-                "expected_return": "2026-06-30"
+                "expected_return": "2026-07-20"
               }
             ],
             "away": [
@@ -209324,6 +210568,18 @@
                 "name": "Mohamed Ofkir",
                 "status": "injured",
                 "reason": "Cruciate Ligament Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Ole Christian Saeter",
+                "status": "injured",
+                "reason": "Thigh Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Omar Bully Drammeh",
+                "status": "injured",
+                "reason": "Achilles Tendon Injury",
                 "expected_return": "2026-07-20"
               }
             ]
@@ -209508,10 +210764,16 @@
               "expected_return": "2026-07-20"
             },
             {
+              "name": "Sakarias Opsahl",
+              "status": "injured",
+              "reason": "Foot Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
               "name": "Thore Pedersen",
               "status": "injured",
               "reason": "Dislocated Elbow",
-              "expected_return": "2026-06-30"
+              "expected_return": "2026-07-20"
             }
           ],
           "away": [
@@ -209519,6 +210781,18 @@
               "name": "Mohamed Ofkir",
               "status": "injured",
               "reason": "Cruciate Ligament Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Ole Christian Saeter",
+              "status": "injured",
+              "reason": "Thigh Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Omar Bully Drammeh",
+              "status": "injured",
+              "reason": "Achilles Tendon Injury",
               "expected_return": "2026-07-20"
             }
           ]
@@ -209833,6 +211107,12 @@
           "unavailable_players": {
             "home": [
               {
+                "name": "Amin Nouri",
+                "status": "injured",
+                "reason": "Groin Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
                 "name": "Ayoub Aleesami",
                 "status": "injured",
                 "reason": "Groin Injury",
@@ -209849,9 +211129,28 @@
                 "status": "injured",
                 "reason": "Hamstring Injury",
                 "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Moussa Njie",
+                "status": "injured",
+                "reason": "Unknown",
+                "expected_return": "2026-07-20"
               }
             ],
-            "away": []
+            "away": [
+              {
+                "name": "Casper Öyvann",
+                "status": "injured",
+                "reason": "Unknown",
+                "expected_return": "2026-07-31"
+              },
+              {
+                "name": "Jalal Abdullai",
+                "status": "injured",
+                "reason": "Knock Injury",
+                "expected_return": "2026-07-20"
+              }
+            ]
           },
           "venue": {
             "id": 1283,
@@ -209997,6 +211296,12 @@
         "unavailable_players": {
           "home": [
             {
+              "name": "Amin Nouri",
+              "status": "injured",
+              "reason": "Groin Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
               "name": "Ayoub Aleesami",
               "status": "injured",
               "reason": "Groin Injury",
@@ -210013,9 +211318,28 @@
               "status": "injured",
               "reason": "Hamstring Injury",
               "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Moussa Njie",
+              "status": "injured",
+              "reason": "Unknown",
+              "expected_return": "2026-07-20"
             }
           ],
-          "away": []
+          "away": [
+            {
+              "name": "Casper Öyvann",
+              "status": "injured",
+              "reason": "Unknown",
+              "expected_return": "2026-07-31"
+            },
+            {
+              "name": "Jalal Abdullai",
+              "status": "injured",
+              "reason": "Knock Injury",
+              "expected_return": "2026-07-20"
+            }
+          ]
         },
         "venue": {
           "id": 1283,
@@ -210331,13 +211655,31 @@
           "unavailable_players": {
             "home": [
               {
+                "name": "Frederik Carstensen",
+                "status": "injured",
+                "reason": "Unknown",
+                "expected_return": "2026-07-20"
+              },
+              {
                 "name": "Jo Inge Berget",
                 "status": "injured",
                 "reason": "Thigh Injury",
                 "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Sigurd Rosted",
+                "status": "injured",
+                "reason": "Ankle Injury",
+                "expected_return": "2026-07-20"
               }
             ],
             "away": [
+              {
+                "name": "Anton Ekeroth",
+                "status": "injured",
+                "reason": "Leg Injury",
+                "expected_return": "2026-07-20"
+              },
               {
                 "name": "Luc Mares",
                 "status": "injured",
@@ -210496,13 +211838,31 @@
         "unavailable_players": {
           "home": [
             {
+              "name": "Frederik Carstensen",
+              "status": "injured",
+              "reason": "Unknown",
+              "expected_return": "2026-07-20"
+            },
+            {
               "name": "Jo Inge Berget",
               "status": "injured",
               "reason": "Thigh Injury",
               "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Sigurd Rosted",
+              "status": "injured",
+              "reason": "Ankle Injury",
+              "expected_return": "2026-07-20"
             }
           ],
           "away": [
+            {
+              "name": "Anton Ekeroth",
+              "status": "injured",
+              "reason": "Leg Injury",
+              "expected_return": "2026-07-20"
+            },
             {
               "name": "Luc Mares",
               "status": "injured",
@@ -210858,7 +212218,20 @@
             "top_styles": []
           },
           "unavailable_players": {
-            "home": [],
+            "home": [
+              {
+                "name": "Mathias Kristensen",
+                "status": "injured",
+                "reason": "Calf Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Philip Sandvik Aukland",
+                "status": "injured",
+                "reason": "Unknown",
+                "expected_return": "2026-07-20"
+              }
+            ],
             "away": [
               {
                 "name": "Gianni Stensness",
@@ -211037,7 +212410,20 @@
           "top_styles": []
         },
         "unavailable_players": {
-          "home": [],
+          "home": [
+            {
+              "name": "Mathias Kristensen",
+              "status": "injured",
+              "reason": "Calf Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Philip Sandvik Aukland",
+              "status": "injured",
+              "reason": "Unknown",
+              "expected_return": "2026-07-20"
+            }
+          ],
           "away": [
             {
               "name": "Gianni Stensness",
@@ -211390,6 +212776,12 @@
                 "expected_return": "2026-07-20"
               },
               {
+                "name": "David Tufekcic",
+                "status": "injured",
+                "reason": "Hamstring Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
                 "name": "Heine Gikling Bruseth",
                 "status": "injured",
                 "reason": "Thigh Injury",
@@ -211408,6 +212800,18 @@
                 "status": "suspended",
                 "reason": "yellow_or_red_card_suspension",
                 "expected_return": "2026-07-05"
+              },
+              {
+                "name": "Jasper Silva Torkildsen",
+                "status": "injured",
+                "reason": "Unknown",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Johan Meyer",
+                "status": "injured",
+                "reason": "Groin Injury",
+                "expected_return": "2026-07-20"
               },
               {
                 "name": "Kristoffer Tønnessen",
@@ -211573,6 +212977,12 @@
               "expected_return": "2026-07-20"
             },
             {
+              "name": "David Tufekcic",
+              "status": "injured",
+              "reason": "Hamstring Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
               "name": "Heine Gikling Bruseth",
               "status": "injured",
               "reason": "Thigh Injury",
@@ -211591,6 +213001,18 @@
               "status": "suspended",
               "reason": "yellow_or_red_card_suspension",
               "expected_return": "2026-07-05"
+            },
+            {
+              "name": "Jasper Silva Torkildsen",
+              "status": "injured",
+              "reason": "Unknown",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Johan Meyer",
+              "status": "injured",
+              "reason": "Groin Injury",
+              "expected_return": "2026-07-20"
             },
             {
               "name": "Kristoffer Tønnessen",
@@ -218447,10 +219869,40 @@
             ],
             "away": [
               {
+                "name": "Andreas Redkin",
+                "status": "injured",
+                "reason": "Cruciate Ligament Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Fredrik Nissen",
+                "status": "injured",
+                "reason": "Leg Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Ibrahim Cissé",
+                "status": "injured",
+                "reason": "Ankle Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
                 "name": "Mads Dohr Thychosen",
                 "status": "suspended",
                 "reason": "yellow_card_accumulation_suspension",
                 "expected_return": "2026-07-05"
+              },
+              {
+                "name": "Martin Ellingsen",
+                "status": "injured",
+                "reason": "Achilles Tendon Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Zadok Yohanna",
+                "status": "injured",
+                "reason": "Thigh Injury",
+                "expected_return": "2026-07-20"
               }
             ]
           },
@@ -218634,10 +220086,40 @@
           ],
           "away": [
             {
+              "name": "Andreas Redkin",
+              "status": "injured",
+              "reason": "Cruciate Ligament Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Fredrik Nissen",
+              "status": "injured",
+              "reason": "Leg Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Ibrahim Cissé",
+              "status": "injured",
+              "reason": "Ankle Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
               "name": "Mads Dohr Thychosen",
               "status": "suspended",
               "reason": "yellow_card_accumulation_suspension",
               "expected_return": "2026-07-05"
+            },
+            {
+              "name": "Martin Ellingsen",
+              "status": "injured",
+              "reason": "Achilles Tendon Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Zadok Yohanna",
+              "status": "injured",
+              "reason": "Thigh Injury",
+              "expected_return": "2026-07-20"
             }
           ]
         },
@@ -231175,9 +232657,27 @@
                 "status": "injured",
                 "reason": "Cruciate Ligament Injury",
                 "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Ole Christian Saeter",
+                "status": "injured",
+                "reason": "Thigh Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Omar Bully Drammeh",
+                "status": "injured",
+                "reason": "Achilles Tendon Injury",
+                "expected_return": "2026-07-20"
               }
             ],
             "away": [
+              {
+                "name": "Anton Ekeroth",
+                "status": "injured",
+                "reason": "Leg Injury",
+                "expected_return": "2026-07-20"
+              },
               {
                 "name": "Luc Mares",
                 "status": "injured",
@@ -231340,9 +232840,27 @@
               "status": "injured",
               "reason": "Cruciate Ligament Injury",
               "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Ole Christian Saeter",
+              "status": "injured",
+              "reason": "Thigh Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Omar Bully Drammeh",
+              "status": "injured",
+              "reason": "Achilles Tendon Injury",
+              "expected_return": "2026-07-20"
             }
           ],
           "away": [
+            {
+              "name": "Anton Ekeroth",
+              "status": "injured",
+              "reason": "Leg Injury",
+              "expected_return": "2026-07-20"
+            },
             {
               "name": "Luc Mares",
               "status": "injured",
@@ -231697,11 +233215,17 @@
               {
                 "name": "Sondre Fet",
                 "status": "injured",
-                "reason": "Unknown",
-                "expected_return": "2026-06-30"
+                "reason": "Knock Injury",
+                "expected_return": "2026-07-20"
               }
             ],
             "away": [
+              {
+                "name": "Thomas Lehne Olsen",
+                "status": "injured",
+                "reason": "Thigh Injury",
+                "expected_return": "2026-07-20"
+              },
               {
                 "name": "Ulrik Jenssen",
                 "status": "injured",
@@ -231874,11 +233398,17 @@
             {
               "name": "Sondre Fet",
               "status": "injured",
-              "reason": "Unknown",
-              "expected_return": "2026-06-30"
+              "reason": "Knock Injury",
+              "expected_return": "2026-07-20"
             }
           ],
           "away": [
+            {
+              "name": "Thomas Lehne Olsen",
+              "status": "injured",
+              "reason": "Thigh Injury",
+              "expected_return": "2026-07-20"
+            },
             {
               "name": "Ulrik Jenssen",
               "status": "injured",
