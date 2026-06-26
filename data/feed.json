@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-06-26T04:50:53.793Z",
+  "generated_at": "2026-06-26T08:32:20.280Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -1007,7 +1007,20 @@
           ]
         },
         "lineups": null,
-        "social": []
+        "social": [
+          {
+            "id": 447537,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQeUxMcjhyZWlDd0lVTFhscDl4SWZmMUNUNGZGNlE0dUtxSkZMc05uR1l5OGcwVDJGNWdqYkFOOTRuY2xwVVhOeTE1ZkRqU3pfUmdQdGpxd2d2b29Fd2k4THpKbDdGYkl4N1lPM2QzZ2pLQXBCNFplbkRSTXJmN1h6WDR6djlUZUFIV0d3c0llVkh2R3hmY25CVnZnQWh1LTlxdS00bW8yV1piUjBsZzdabnZ0MURER29fQ3c?oc=5",
+            "title": "Qingdao Hainiu vs Yunnan Yukun Prediction, Betting Tips, Lineups & Odds | 26 Jun 2026",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "sportsgambler",
+            "account_name": "Sportsgambler",
+            "account_verified": false,
+            "published_at": "2026-06-26T07:43:07+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
@@ -6177,7 +6190,10 @@
           "jerseys": null,
           "funfacts": null,
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Peninsula Power are rolling — and Brisbane Roar Youth are in free-fall.** This matchup feels like the perfect storm for the visitors, who've won their last five straight while the hosts have lost four of their last five. 🔥\n\nPower are absolutely relentless on the road, with back-to-back double-digit scorelines against elite company. Roar Youth scraped one win against Gold Coast but can't string anything together. This has **blowout energy** written all over it.\n\nKey storylines:\n\n- **Peninsula Power's away form** is genuinely terrifying — they've scored 9 goals in two road games\n- **Brisbane Roar Youth's defensive fragility** is the real story; they've shipped multiple goals in four of their last five\n- **H2H history favors Roar Youth**, but form trends suggest that counts for nothing\n\nExpected lineups:\n\n- **Peninsula Power**: C. Damsma, A. Ale, C. McKenzie, I. Powell, J. Phelps, E. Kovach, J. Hitchcock, K. Gibbs\n- **Brisbane Roar Youth**: G. Plusnin, A. Mitchell, C. Parkin, J. O'Reilly, L. Atterwell, R. Williams, M. Evagotou-Alao, C. Psaros\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n- **Total Goals 2.5**: Over 2.5 goals\n- **Total Goals 3.5**: Over 3.5 goals\n\nPrediction:\n\n**Peninsula Power 4–1 Brisbane Roar Youth.** Power have too much momentum; Roar Youth's defense has no answer.",
+            "generated_at": "2026-06-26T06:45:18.158665+00:00"
+          },
           "live_websocket": false
         },
         "created_at": "2026-06-22T05:20:10.741662+03:00",
@@ -6292,7 +6308,10 @@
         "jerseys": null,
         "funfacts": null,
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Peninsula Power are rolling — and Brisbane Roar Youth are in free-fall.** This matchup feels like the perfect storm for the visitors, who've won their last five straight while the hosts have lost four of their last five. 🔥\n\nPower are absolutely relentless on the road, with back-to-back double-digit scorelines against elite company. Roar Youth scraped one win against Gold Coast but can't string anything together. This has **blowout energy** written all over it.\n\nKey storylines:\n\n- **Peninsula Power's away form** is genuinely terrifying — they've scored 9 goals in two road games\n- **Brisbane Roar Youth's defensive fragility** is the real story; they've shipped multiple goals in four of their last five\n- **H2H history favors Roar Youth**, but form trends suggest that counts for nothing\n\nExpected lineups:\n\n- **Peninsula Power**: C. Damsma, A. Ale, C. McKenzie, I. Powell, J. Phelps, E. Kovach, J. Hitchcock, K. Gibbs\n- **Brisbane Roar Youth**: G. Plusnin, A. Mitchell, C. Parkin, J. O'Reilly, L. Atterwell, R. Williams, M. Evagotou-Alao, C. Psaros\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n- **Total Goals 2.5**: Over 2.5 goals\n- **Total Goals 3.5**: Over 3.5 goals\n\nPrediction:\n\n**Peninsula Power 4–1 Brisbane Roar Youth.** Power have too much momentum; Roar Youth's defense has no answer.",
+          "generated_at": "2026-06-26T06:45:18.158665+00:00"
+        },
         "live_websocket": false,
         "home_form": {
           "calculated_at": "2026-06-26",
@@ -50643,6 +50662,12 @@
                 "expected_return": "2026-07-20"
               },
               {
+                "name": "Dino Beširović",
+                "status": "suspended",
+                "reason": "yellow_card_accumulation_suspension",
+                "expected_return": "2026-07-05"
+              },
+              {
                 "name": "Fredrik Nissen",
                 "status": "injured",
                 "reason": "Leg Injury",
@@ -50922,6 +50947,12 @@
               "status": "injured",
               "reason": "Cruciate Ligament Injury",
               "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Dino Beširović",
+              "status": "suspended",
+              "reason": "yellow_card_accumulation_suspension",
+              "expected_return": "2026-07-05"
             },
             {
               "name": "Fredrik Nissen",
@@ -67323,6 +67354,12 @@
                 "expected_return": "2026-07-20"
               },
               {
+                "name": "Dino Beširović",
+                "status": "suspended",
+                "reason": "yellow_card_accumulation_suspension",
+                "expected_return": "2026-07-05"
+              },
+              {
                 "name": "Fredrik Nissen",
                 "status": "injured",
                 "reason": "Leg Injury",
@@ -67589,6 +67626,12 @@
               "status": "injured",
               "reason": "Cruciate Ligament Injury",
               "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Dino Beširović",
+              "status": "suspended",
+              "reason": "yellow_card_accumulation_suspension",
+              "expected_return": "2026-07-05"
             },
             {
               "name": "Fredrik Nissen",
@@ -100646,7 +100689,14 @@
                 "expected_return": "2026-09-28"
               }
             ],
-            "away": []
+            "away": [
+              {
+                "name": "Stephen Eustaquio",
+                "status": "doubtful",
+                "reason": "Physical Discomfort",
+                "expected_return": "2026-07-11"
+              }
+            ]
           },
           "venue": {
             "id": 288,
@@ -100865,7 +100915,14 @@
               "expected_return": "2026-09-28"
             }
           ],
-          "away": []
+          "away": [
+            {
+              "name": "Stephen Eustaquio",
+              "status": "doubtful",
+              "reason": "Physical Discomfort",
+              "expected_return": "2026-07-11"
+            }
+          ]
         },
         "venue": {
           "id": 288,
@@ -107753,6 +107810,12 @@
                 "expected_return": "2026-07-20"
               },
               {
+                "name": "Dino Beširović",
+                "status": "suspended",
+                "reason": "yellow_card_accumulation_suspension",
+                "expected_return": "2026-07-05"
+              },
+              {
                 "name": "Fredrik Nissen",
                 "status": "injured",
                 "reason": "Leg Injury",
@@ -107996,6 +108059,12 @@
               "status": "injured",
               "reason": "Cruciate Ligament Injury",
               "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Dino Beširović",
+              "status": "suspended",
+              "reason": "yellow_card_accumulation_suspension",
+              "expected_return": "2026-07-05"
             },
             {
               "name": "Fredrik Nissen",
@@ -150861,7 +150930,17 @@
               "total_football"
             ]
           },
-          "unavailable_players": null,
+          "unavailable_players": {
+            "home": [
+              {
+                "name": "Stephen Eustaquio",
+                "status": "doubtful",
+                "reason": "Physical Discomfort",
+                "expected_return": "2026-07-11"
+              }
+            ],
+            "away": []
+          },
           "venue": {
             "id": 280,
             "name": "BMO Stadium",
@@ -151031,7 +151110,17 @@
             "total_football"
           ]
         },
-        "unavailable_players": null,
+        "unavailable_players": {
+          "home": [
+            {
+              "name": "Stephen Eustaquio",
+              "status": "doubtful",
+              "reason": "Physical Discomfort",
+              "expected_return": "2026-07-11"
+            }
+          ],
+          "away": []
+        },
         "venue": {
           "id": 280,
           "name": "BMO Stadium",
@@ -184825,7 +184914,14 @@
             ]
           },
           "unavailable_players": {
-            "home": [],
+            "home": [
+              {
+                "name": "Stephen Eustaquio",
+                "status": "doubtful",
+                "reason": "Physical Discomfort",
+                "expected_return": "2026-07-11"
+              }
+            ],
             "away": [
               {
                 "name": "Kwaku Agyabeng",
@@ -185005,7 +185101,14 @@
           ]
         },
         "unavailable_players": {
-          "home": [],
+          "home": [
+            {
+              "name": "Stephen Eustaquio",
+              "status": "doubtful",
+              "reason": "Physical Discomfort",
+              "expected_return": "2026-07-11"
+            }
+          ],
           "away": [
             {
               "name": "Kwaku Agyabeng",
@@ -201721,6 +201824,12 @@
                 "expected_return": "2026-07-20"
               },
               {
+                "name": "Dino Beširović",
+                "status": "suspended",
+                "reason": "yellow_card_accumulation_suspension",
+                "expected_return": "2026-07-05"
+              },
+              {
                 "name": "Fredrik Nissen",
                 "status": "injured",
                 "reason": "Leg Injury",
@@ -201948,6 +202057,12 @@
               "status": "injured",
               "reason": "Cruciate Ligament Injury",
               "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Dino Beširović",
+              "status": "suspended",
+              "reason": "yellow_card_accumulation_suspension",
+              "expected_return": "2026-07-05"
             },
             {
               "name": "Fredrik Nissen",
