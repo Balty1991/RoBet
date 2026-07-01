@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-01T05:09:55.194Z",
+  "generated_at": "2026-07-01T08:59:17.826Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -91,16 +91,16 @@
           "current_minute": null,
           "period": "",
           "odds_home": 1.29,
-          "odds_draw": 5.19,
-          "odds_away": 12.23,
-          "odds_over_15": 1.31,
+          "odds_draw": 5.14,
+          "odds_away": 12.29,
+          "odds_over_15": 1.32,
           "odds_over_25": 1.98,
-          "odds_over_35": 3.45,
-          "odds_under_15": 3.32,
+          "odds_over_35": 3.46,
+          "odds_under_15": 3.31,
           "odds_under_25": 1.8,
           "odds_under_35": 1.29,
-          "odds_btts_yes": 2.74,
-          "odds_btts_no": 1.42,
+          "odds_btts_yes": 2.66,
+          "odds_btts_no": 1.44,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -308,16 +308,16 @@
         "current_minute": null,
         "period": "",
         "odds_home": 1.29,
-        "odds_draw": 5.19,
-        "odds_away": 12.23,
-        "odds_over_15": 1.31,
+        "odds_draw": 5.14,
+        "odds_away": 12.29,
+        "odds_over_15": 1.32,
         "odds_over_25": 1.98,
-        "odds_over_35": 3.45,
-        "odds_under_15": 3.32,
+        "odds_over_35": 3.46,
+        "odds_under_15": 3.31,
         "odds_under_25": 1.8,
         "odds_under_35": 1.29,
-        "odds_btts_yes": 2.74,
-        "odds_btts_no": 1.42,
+        "odds_btts_yes": 2.66,
+        "odds_btts_no": 1.44,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -719,13 +719,13 @@
           "period": "",
           "odds_home": 1.62,
           "odds_draw": 4.08,
-          "odds_away": 4.27,
-          "odds_over_15": 1.11,
+          "odds_away": 4.26,
+          "odds_over_15": 1.1,
           "odds_over_25": 1.39,
-          "odds_over_35": 2,
-          "odds_under_15": 5.76,
-          "odds_under_25": 2.75,
-          "odds_under_35": 1.75,
+          "odds_over_35": 1.98,
+          "odds_under_15": 5.83,
+          "odds_under_25": 2.78,
+          "odds_under_35": 1.76,
           "odds_btts_yes": 1.44,
           "odds_btts_no": 2.58,
           "actual_home_xg": null,
@@ -865,13 +865,13 @@
         "period": "",
         "odds_home": 1.62,
         "odds_draw": 4.08,
-        "odds_away": 4.27,
-        "odds_over_15": 1.11,
+        "odds_away": 4.26,
+        "odds_over_15": 1.1,
         "odds_over_25": 1.39,
-        "odds_over_35": 2,
-        "odds_under_15": 5.76,
-        "odds_under_25": 2.75,
-        "odds_under_35": 1.75,
+        "odds_over_35": 1.98,
+        "odds_under_15": 5.83,
+        "odds_under_25": 2.78,
+        "odds_under_35": 1.76,
         "odds_btts_yes": 1.44,
         "odds_btts_no": 2.58,
         "actual_home_xg": null,
@@ -1252,14 +1252,14 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.14,
-          "odds_draw": 3.3,
+          "odds_home": 2.15,
+          "odds_draw": 3.29,
           "odds_away": 3.54,
-          "odds_over_15": 1.29,
-          "odds_over_25": 1.94,
-          "odds_over_35": 3.31,
-          "odds_under_15": 3.48,
-          "odds_under_25": 1.84,
+          "odds_over_15": 1.3,
+          "odds_over_25": 1.96,
+          "odds_over_35": 3.34,
+          "odds_under_15": 3.43,
+          "odds_under_25": 1.82,
           "odds_under_35": 1.31,
           "odds_btts_yes": 1.76,
           "odds_btts_no": 2.01,
@@ -1469,14 +1469,14 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.14,
-        "odds_draw": 3.3,
+        "odds_home": 2.15,
+        "odds_draw": 3.29,
         "odds_away": 3.54,
-        "odds_over_15": 1.29,
-        "odds_over_25": 1.94,
-        "odds_over_35": 3.31,
-        "odds_under_15": 3.48,
-        "odds_under_25": 1.84,
+        "odds_over_15": 1.3,
+        "odds_over_25": 1.96,
+        "odds_over_35": 3.34,
+        "odds_under_15": 3.43,
+        "odds_under_25": 1.82,
         "odds_under_35": 1.31,
         "odds_btts_yes": 1.76,
         "odds_btts_no": 2.01,
@@ -1891,17 +1891,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.39,
-          "odds_draw": 4.86,
-          "odds_away": 8.2,
+          "odds_home": 1.4,
+          "odds_draw": 4.76,
+          "odds_away": 7.83,
           "odds_over_15": 1.23,
           "odds_over_25": 1.74,
           "odds_over_35": 2.82,
           "odds_under_15": 4.05,
-          "odds_under_25": 2.07,
+          "odds_under_25": 2.08,
           "odds_under_35": 1.41,
-          "odds_btts_yes": 2.01,
-          "odds_btts_no": 1.74,
+          "odds_btts_yes": 2,
+          "odds_btts_no": 1.76,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -2102,17 +2102,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.39,
-        "odds_draw": 4.86,
-        "odds_away": 8.2,
+        "odds_home": 1.4,
+        "odds_draw": 4.76,
+        "odds_away": 7.83,
         "odds_over_15": 1.23,
         "odds_over_25": 1.74,
         "odds_over_35": 2.82,
         "odds_under_15": 4.05,
-        "odds_under_25": 2.07,
+        "odds_under_25": 2.08,
         "odds_under_35": 1.41,
-        "odds_btts_yes": 2.01,
-        "odds_btts_no": 1.74,
+        "odds_btts_yes": 2,
+        "odds_btts_no": 1.76,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -2505,17 +2505,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": null,
-          "odds_draw": null,
-          "odds_away": null,
-          "odds_over_15": null,
-          "odds_over_25": null,
-          "odds_over_35": null,
-          "odds_under_15": null,
-          "odds_under_25": null,
-          "odds_under_35": null,
-          "odds_btts_yes": null,
-          "odds_btts_no": null,
+          "odds_home": 4.48,
+          "odds_draw": 2.95,
+          "odds_away": 1.83,
+          "odds_over_15": 1.49,
+          "odds_over_25": 2.51,
+          "odds_over_35": 4.91,
+          "odds_under_15": 2.41,
+          "odds_under_25": 1.45,
+          "odds_under_35": 1.14,
+          "odds_btts_yes": 2.2,
+          "odds_btts_no": 1.59,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -2676,17 +2676,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": null,
-        "odds_draw": null,
-        "odds_away": null,
-        "odds_over_15": null,
-        "odds_over_25": null,
-        "odds_over_35": null,
-        "odds_under_15": null,
-        "odds_under_25": null,
-        "odds_under_35": null,
-        "odds_btts_yes": null,
-        "odds_btts_no": null,
+        "odds_home": 4.48,
+        "odds_draw": 2.95,
+        "odds_away": 1.83,
+        "odds_over_15": 1.49,
+        "odds_over_25": 2.51,
+        "odds_over_35": 4.91,
+        "odds_under_15": 2.41,
+        "odds_under_25": 1.45,
+        "odds_under_35": 1.14,
+        "odds_btts_yes": 2.2,
+        "odds_btts_no": 1.59,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -3076,17 +3076,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": null,
-          "odds_draw": null,
-          "odds_away": null,
-          "odds_over_15": null,
-          "odds_over_25": null,
-          "odds_over_35": null,
-          "odds_under_15": null,
-          "odds_under_25": null,
-          "odds_under_35": null,
-          "odds_btts_yes": null,
-          "odds_btts_no": null,
+          "odds_home": 2.24,
+          "odds_draw": 2.88,
+          "odds_away": 3.23,
+          "odds_over_15": 1.44,
+          "odds_over_25": 2.39,
+          "odds_over_35": 4.47,
+          "odds_under_15": 2.51,
+          "odds_under_25": 1.51,
+          "odds_under_35": 1.17,
+          "odds_btts_yes": 2.01,
+          "odds_btts_no": 1.7,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -3256,17 +3256,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": null,
-        "odds_draw": null,
-        "odds_away": null,
-        "odds_over_15": null,
-        "odds_over_25": null,
-        "odds_over_35": null,
-        "odds_under_15": null,
-        "odds_under_25": null,
-        "odds_under_35": null,
-        "odds_btts_yes": null,
-        "odds_btts_no": null,
+        "odds_home": 2.24,
+        "odds_draw": 2.88,
+        "odds_away": 3.23,
+        "odds_over_15": 1.44,
+        "odds_over_25": 2.39,
+        "odds_over_35": 4.47,
+        "odds_under_15": 2.51,
+        "odds_under_25": 1.51,
+        "odds_under_35": 1.17,
+        "odds_btts_yes": 2.01,
+        "odds_btts_no": 1.7,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -3665,17 +3665,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": null,
-          "odds_draw": null,
-          "odds_away": null,
-          "odds_over_15": null,
-          "odds_over_25": null,
-          "odds_over_35": null,
-          "odds_under_15": null,
-          "odds_under_25": null,
-          "odds_under_35": null,
-          "odds_btts_yes": null,
-          "odds_btts_no": null,
+          "odds_home": 1.82,
+          "odds_draw": 3.18,
+          "odds_away": 4.16,
+          "odds_over_15": 1.41,
+          "odds_over_25": 2.26,
+          "odds_over_35": 4.18,
+          "odds_under_15": 2.65,
+          "odds_under_25": 1.56,
+          "odds_under_35": 1.18,
+          "odds_btts_yes": 2.06,
+          "odds_btts_no": 1.67,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -3846,17 +3846,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": null,
-        "odds_draw": null,
-        "odds_away": null,
-        "odds_over_15": null,
-        "odds_over_25": null,
-        "odds_over_35": null,
-        "odds_under_15": null,
-        "odds_under_25": null,
-        "odds_under_35": null,
-        "odds_btts_yes": null,
-        "odds_btts_no": null,
+        "odds_home": 1.82,
+        "odds_draw": 3.18,
+        "odds_away": 4.16,
+        "odds_over_15": 1.41,
+        "odds_over_25": 2.26,
+        "odds_over_35": 4.18,
+        "odds_under_15": 2.65,
+        "odds_under_25": 1.56,
+        "odds_under_35": 1.18,
+        "odds_btts_yes": 2.06,
+        "odds_btts_no": 1.67,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -4266,17 +4266,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": null,
-          "odds_draw": null,
-          "odds_away": null,
-          "odds_over_15": null,
-          "odds_over_25": null,
-          "odds_over_35": null,
-          "odds_under_15": null,
-          "odds_under_25": null,
-          "odds_under_35": null,
-          "odds_btts_yes": null,
-          "odds_btts_no": null,
+          "odds_home": 5.87,
+          "odds_draw": 3.45,
+          "odds_away": 1.55,
+          "odds_over_15": 1.38,
+          "odds_over_25": 2.16,
+          "odds_over_35": 3.87,
+          "odds_under_15": 2.77,
+          "odds_under_25": 1.61,
+          "odds_under_35": 1.21,
+          "odds_btts_yes": 2.18,
+          "odds_btts_no": 1.6,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -4453,17 +4453,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": null,
-        "odds_draw": null,
-        "odds_away": null,
-        "odds_over_15": null,
-        "odds_over_25": null,
-        "odds_over_35": null,
-        "odds_under_15": null,
-        "odds_under_25": null,
-        "odds_under_35": null,
-        "odds_btts_yes": null,
-        "odds_btts_no": null,
+        "odds_home": 5.87,
+        "odds_draw": 3.45,
+        "odds_away": 1.55,
+        "odds_over_15": 1.38,
+        "odds_over_25": 2.16,
+        "odds_over_35": 3.87,
+        "odds_under_15": 2.77,
+        "odds_under_25": 1.61,
+        "odds_under_35": 1.21,
+        "odds_btts_yes": 2.18,
+        "odds_btts_no": 1.6,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -4871,17 +4871,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": null,
-          "odds_draw": null,
-          "odds_away": null,
-          "odds_over_15": null,
-          "odds_over_25": null,
-          "odds_over_35": null,
-          "odds_under_15": null,
-          "odds_under_25": null,
-          "odds_under_35": null,
-          "odds_btts_yes": null,
-          "odds_btts_no": null,
+          "odds_home": 1.64,
+          "odds_draw": 3.3,
+          "odds_away": 5.16,
+          "odds_over_15": 1.39,
+          "odds_over_25": 2.23,
+          "odds_over_35": 4.03,
+          "odds_under_15": 2.71,
+          "odds_under_25": 1.58,
+          "odds_under_35": 1.2,
+          "odds_btts_yes": 2.13,
+          "odds_btts_no": 1.63,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -5059,17 +5059,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": null,
-        "odds_draw": null,
-        "odds_away": null,
-        "odds_over_15": null,
-        "odds_over_25": null,
-        "odds_over_35": null,
-        "odds_under_15": null,
-        "odds_under_25": null,
-        "odds_under_35": null,
-        "odds_btts_yes": null,
-        "odds_btts_no": null,
+        "odds_home": 1.64,
+        "odds_draw": 3.3,
+        "odds_away": 5.16,
+        "odds_over_15": 1.39,
+        "odds_over_25": 2.23,
+        "odds_over_35": 4.03,
+        "odds_under_15": 2.71,
+        "odds_under_25": 1.58,
+        "odds_under_35": 1.2,
+        "odds_btts_yes": 2.13,
+        "odds_btts_no": 1.63,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -5487,7 +5487,14 @@
             ]
           },
           "unavailable_players": {
-            "home": [],
+            "home": [
+              {
+                "name": "Badr Benoun",
+                "status": "suspended",
+                "reason": "red_card_suspension",
+                "expected_return": "2026-07-02"
+              }
+            ],
             "away": [
               {
                 "name": "Abdallah Ziani",
@@ -5634,7 +5641,14 @@
           ]
         },
         "unavailable_players": {
-          "home": [],
+          "home": [
+            {
+              "name": "Badr Benoun",
+              "status": "suspended",
+              "reason": "red_card_suspension",
+              "expected_return": "2026-07-02"
+            }
+          ],
           "away": [
             {
               "name": "Abdallah Ziani",
@@ -6500,15 +6514,15 @@
           "current_minute": null,
           "period": "",
           "odds_home": 1.33,
-          "odds_draw": 5.11,
-          "odds_away": 9.43,
+          "odds_draw": 5.1,
+          "odds_away": 9.39,
           "odds_over_15": 1.26,
-          "odds_over_25": 1.81,
-          "odds_over_35": 3.03,
+          "odds_over_25": 1.8,
+          "odds_over_35": 3.04,
           "odds_under_15": 3.72,
           "odds_under_25": 1.97,
           "odds_under_35": 1.36,
-          "odds_btts_yes": 2.25,
+          "odds_btts_yes": 2.26,
           "odds_btts_no": 1.59,
           "actual_home_xg": null,
           "actual_away_xg": null,
@@ -6710,15 +6724,15 @@
         "current_minute": null,
         "period": "",
         "odds_home": 1.33,
-        "odds_draw": 5.11,
-        "odds_away": 9.43,
+        "odds_draw": 5.1,
+        "odds_away": 9.39,
         "odds_over_15": 1.26,
-        "odds_over_25": 1.81,
-        "odds_over_35": 3.03,
+        "odds_over_25": 1.8,
+        "odds_over_35": 3.04,
         "odds_under_15": 3.72,
         "odds_under_25": 1.97,
         "odds_under_35": 1.36,
-        "odds_btts_yes": 2.25,
+        "odds_btts_yes": 2.26,
         "odds_btts_no": 1.59,
         "actual_home_xg": null,
         "actual_away_xg": null,
@@ -7118,15 +7132,15 @@
           "period": "",
           "odds_home": 1.79,
           "odds_draw": 3.5,
-          "odds_away": 4.78,
+          "odds_away": 4.79,
           "odds_over_15": 1.34,
-          "odds_over_25": 2.07,
-          "odds_over_35": 3.65,
+          "odds_over_25": 2.08,
+          "odds_over_35": 3.66,
           "odds_under_15": 3.13,
           "odds_under_25": 1.74,
           "odds_under_35": 1.26,
-          "odds_btts_yes": 1.92,
-          "odds_btts_no": 1.82,
+          "odds_btts_yes": 1.93,
+          "odds_btts_no": 1.81,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -7320,15 +7334,15 @@
         "period": "",
         "odds_home": 1.79,
         "odds_draw": 3.5,
-        "odds_away": 4.78,
+        "odds_away": 4.79,
         "odds_over_15": 1.34,
-        "odds_over_25": 2.07,
-        "odds_over_35": 3.65,
+        "odds_over_25": 2.08,
+        "odds_over_35": 3.66,
         "odds_under_15": 3.13,
         "odds_under_25": 1.74,
         "odds_under_35": 1.26,
-        "odds_btts_yes": 1.92,
-        "odds_btts_no": 1.82,
+        "odds_btts_yes": 1.93,
+        "odds_btts_no": 1.81,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -7762,7 +7776,7 @@
           "period": "",
           "odds_home": 1.82,
           "odds_draw": 3.2,
-          "odds_away": 4.64,
+          "odds_away": 4.69,
           "odds_over_15": 1.45,
           "odds_over_25": 2.43,
           "odds_over_35": 4.6,
@@ -7973,7 +7987,7 @@
         "period": "",
         "odds_home": 1.82,
         "odds_draw": 3.2,
-        "odds_away": 4.64,
+        "odds_away": 4.69,
         "odds_over_15": 1.45,
         "odds_over_25": 2.43,
         "odds_over_35": 4.6,
@@ -8417,7 +8431,7 @@
           "odds_away": 2.35,
           "odds_over_15": 1.27,
           "odds_over_25": 1.86,
-          "odds_over_35": 3.14,
+          "odds_over_35": 3.15,
           "odds_under_15": 3.38,
           "odds_under_25": 1.85,
           "odds_under_35": 1.31,
@@ -8598,7 +8612,7 @@
         "odds_away": 2.35,
         "odds_over_15": 1.27,
         "odds_over_25": 1.86,
-        "odds_over_35": 3.14,
+        "odds_over_35": 3.15,
         "odds_under_15": 3.38,
         "odds_under_25": 1.85,
         "odds_under_35": 1.31,
@@ -9003,14 +9017,14 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.3,
-          "odds_draw": 4.87,
-          "odds_away": 9.38,
+          "odds_home": 1.31,
+          "odds_draw": 4.89,
+          "odds_away": 9.35,
           "odds_over_15": 1.23,
           "odds_over_25": 1.74,
           "odds_over_35": 2.81,
-          "odds_under_15": 3.77,
-          "odds_under_25": 2.01,
+          "odds_under_15": 3.78,
+          "odds_under_25": 2.02,
           "odds_under_35": 1.38,
           "odds_btts_yes": 2.17,
           "odds_btts_no": 1.62,
@@ -9229,15 +9243,15 @@
         "period": "",
         "odds_home": 1.31,
         "odds_draw": 4.89,
-        "odds_away": 9.28,
+        "odds_away": 9.35,
         "odds_over_15": 1.23,
         "odds_over_25": 1.74,
-        "odds_over_35": 2.82,
-        "odds_under_15": 3.77,
-        "odds_under_25": 2.01,
+        "odds_over_35": 2.81,
+        "odds_under_15": 3.78,
+        "odds_under_25": 2.02,
         "odds_under_35": 1.38,
         "odds_btts_yes": 2.17,
-        "odds_btts_no": 1.63,
+        "odds_btts_no": 1.62,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -9616,14 +9630,14 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.05,
-          "odds_draw": 3.22,
-          "odds_away": 3.91,
+          "odds_home": 2.03,
+          "odds_draw": 3.23,
+          "odds_away": 3.97,
           "odds_over_15": 1.36,
           "odds_over_25": 2.12,
-          "odds_over_35": 3.71,
+          "odds_over_35": 3.73,
           "odds_under_15": 3.05,
-          "odds_under_25": 1.7,
+          "odds_under_25": 1.71,
           "odds_under_35": 1.25,
           "odds_btts_yes": 1.86,
           "odds_btts_no": 1.88,
@@ -9824,14 +9838,14 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.05,
-        "odds_draw": 3.22,
-        "odds_away": 3.91,
+        "odds_home": 2.03,
+        "odds_draw": 3.23,
+        "odds_away": 3.97,
         "odds_over_15": 1.36,
         "odds_over_25": 2.12,
-        "odds_over_35": 3.71,
+        "odds_over_35": 3.73,
         "odds_under_15": 3.05,
-        "odds_under_25": 1.7,
+        "odds_under_25": 1.71,
         "odds_under_35": 1.25,
         "odds_btts_yes": 1.86,
         "odds_btts_no": 1.88,
@@ -10622,17 +10636,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.4,
+          "odds_home": 2.41,
           "odds_draw": 3.51,
           "odds_away": 2.65,
           "odds_over_15": 1.15,
           "odds_over_25": 1.51,
           "odds_over_35": 2.23,
-          "odds_under_15": 5.16,
-          "odds_under_25": 2.43,
+          "odds_under_15": 5.15,
+          "odds_under_25": 2.42,
           "odds_under_35": 1.6,
           "odds_btts_yes": 1.43,
-          "odds_btts_no": 2.6,
+          "odds_btts_no": 2.61,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -10814,17 +10828,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.4,
+        "odds_home": 2.41,
         "odds_draw": 3.51,
         "odds_away": 2.65,
         "odds_over_15": 1.15,
         "odds_over_25": 1.51,
         "odds_over_35": 2.23,
-        "odds_under_15": 5.16,
-        "odds_under_25": 2.43,
+        "odds_under_15": 5.15,
+        "odds_under_25": 2.42,
         "odds_under_35": 1.6,
         "odds_btts_yes": 1.43,
-        "odds_btts_no": 2.6,
+        "odds_btts_no": 2.61,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -12577,16 +12591,16 @@
           "current_minute": null,
           "period": "",
           "odds_home": 1.18,
-          "odds_draw": 7.16,
-          "odds_away": 16.71,
+          "odds_draw": 7.22,
+          "odds_away": 17.12,
           "odds_over_15": 1.2,
           "odds_over_25": 1.67,
-          "odds_over_35": 2.67,
-          "odds_under_15": 4.28,
+          "odds_over_35": 2.66,
+          "odds_under_15": 4.29,
           "odds_under_25": 2.17,
           "odds_under_35": 1.44,
-          "odds_btts_yes": 2.7,
-          "odds_btts_no": 1.43,
+          "odds_btts_yes": 2.73,
+          "odds_btts_no": 1.42,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -12744,16 +12758,16 @@
         "current_minute": null,
         "period": "",
         "odds_home": 1.18,
-        "odds_draw": 7.16,
-        "odds_away": 16.71,
+        "odds_draw": 7.22,
+        "odds_away": 17.12,
         "odds_over_15": 1.2,
         "odds_over_25": 1.67,
-        "odds_over_35": 2.67,
-        "odds_under_15": 4.28,
+        "odds_over_35": 2.66,
+        "odds_under_15": 4.29,
         "odds_under_25": 2.17,
         "odds_under_35": 1.44,
-        "odds_btts_yes": 2.7,
-        "odds_btts_no": 1.43,
+        "odds_btts_yes": 2.73,
+        "odds_btts_no": 1.42,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -13589,7 +13603,7 @@
           "odds_away": 7.15,
           "odds_over_15": 1.39,
           "odds_over_25": 2.19,
-          "odds_over_35": 3.95,
+          "odds_over_35": 3.96,
           "odds_under_15": 2.93,
           "odds_under_25": 1.66,
           "odds_under_35": 1.22,
@@ -13782,8 +13796,8 @@
         "current_minute": null,
         "period": "",
         "odds_home": 1.52,
-        "odds_draw": 3.91,
-        "odds_away": 7.16,
+        "odds_draw": 3.9,
+        "odds_away": 7.15,
         "odds_over_15": 1.39,
         "odds_over_25": 2.19,
         "odds_over_35": 3.96,
@@ -15682,12 +15696,12 @@
           "odds_away": 3.34,
           "odds_over_15": 1.43,
           "odds_over_25": 2.33,
-          "odds_over_35": 4.33,
+          "odds_over_35": 4.35,
           "odds_under_15": 2.65,
           "odds_under_25": 1.55,
           "odds_under_35": 1.18,
-          "odds_btts_yes": 1.96,
-          "odds_btts_no": 1.74,
+          "odds_btts_yes": 1.97,
+          "odds_btts_no": 1.75,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -15858,12 +15872,12 @@
         "odds_away": 3.34,
         "odds_over_15": 1.43,
         "odds_over_25": 2.33,
-        "odds_over_35": 4.33,
+        "odds_over_35": 4.35,
         "odds_under_15": 2.65,
         "odds_under_25": 1.55,
         "odds_under_35": 1.18,
-        "odds_btts_yes": 1.96,
-        "odds_btts_no": 1.74,
+        "odds_btts_yes": 1.97,
+        "odds_btts_no": 1.75,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -16212,11 +16226,11 @@
           "current_minute": null,
           "period": "",
           "odds_home": 1.75,
-          "odds_draw": 3.42,
-          "odds_away": 4.61,
+          "odds_draw": 3.44,
+          "odds_away": 4.6,
           "odds_over_15": 1.35,
           "odds_over_25": 2.11,
-          "odds_over_35": 3.77,
+          "odds_over_35": 3.78,
           "odds_under_15": 2.95,
           "odds_under_25": 1.67,
           "odds_under_35": 1.23,
@@ -16393,11 +16407,11 @@
         "current_minute": null,
         "period": "",
         "odds_home": 1.75,
-        "odds_draw": 3.42,
-        "odds_away": 4.61,
+        "odds_draw": 3.44,
+        "odds_away": 4.6,
         "odds_over_15": 1.35,
         "odds_over_25": 2.11,
-        "odds_over_35": 3.77,
+        "odds_over_35": 3.78,
         "odds_under_15": 2.95,
         "odds_under_25": 1.67,
         "odds_under_35": 1.23,
@@ -16799,17 +16813,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.86,
-          "odds_draw": 2.98,
+          "odds_home": 2.89,
+          "odds_draw": 2.95,
           "odds_away": 2.53,
           "odds_over_15": 1.45,
           "odds_over_25": 2.41,
           "odds_over_35": 4.6,
-          "odds_under_15": 2.55,
+          "odds_under_15": 2.57,
           "odds_under_25": 1.52,
           "odds_under_35": 1.17,
           "odds_btts_yes": 2,
-          "odds_btts_no": 1.72,
+          "odds_btts_no": 1.73,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -16978,17 +16992,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.86,
-        "odds_draw": 2.98,
+        "odds_home": 2.89,
+        "odds_draw": 2.95,
         "odds_away": 2.53,
         "odds_over_15": 1.45,
         "odds_over_25": 2.41,
         "odds_over_35": 4.6,
-        "odds_under_15": 2.55,
+        "odds_under_15": 2.57,
         "odds_under_25": 1.52,
         "odds_under_35": 1.17,
         "odds_btts_yes": 2,
-        "odds_btts_no": 1.72,
+        "odds_btts_no": 1.73,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -17357,10 +17371,10 @@
           "odds_away": 3.45,
           "odds_over_15": 1.32,
           "odds_over_25": 2.01,
-          "odds_over_35": 3.51,
-          "odds_under_15": 3.19,
+          "odds_over_35": 3.52,
+          "odds_under_15": 3.2,
           "odds_under_25": 1.74,
-          "odds_under_35": 1.26,
+          "odds_under_35": 1.27,
           "odds_btts_yes": 1.8,
           "odds_btts_no": 1.9,
           "actual_home_xg": null,
@@ -17548,10 +17562,10 @@
         "odds_away": 3.45,
         "odds_over_15": 1.32,
         "odds_over_25": 2.01,
-        "odds_over_35": 3.51,
-        "odds_under_15": 3.19,
+        "odds_over_35": 3.52,
+        "odds_under_15": 3.2,
         "odds_under_25": 1.74,
-        "odds_under_35": 1.26,
+        "odds_under_35": 1.27,
         "odds_btts_yes": 1.8,
         "odds_btts_no": 1.9,
         "actual_home_xg": null,
@@ -17924,8 +17938,8 @@
           "odds_draw": 3.41,
           "odds_away": 2.22,
           "odds_over_15": 1.21,
-          "odds_over_25": 1.69,
-          "odds_over_35": 2.68,
+          "odds_over_25": 1.7,
+          "odds_over_35": 2.69,
           "odds_under_15": 4.08,
           "odds_under_25": 2.08,
           "odds_under_35": 1.43,
@@ -18115,8 +18129,8 @@
         "odds_draw": 3.41,
         "odds_away": 2.22,
         "odds_over_15": 1.21,
-        "odds_over_25": 1.69,
-        "odds_over_35": 2.68,
+        "odds_over_25": 1.7,
+        "odds_over_35": 2.69,
         "odds_under_15": 4.08,
         "odds_under_25": 2.08,
         "odds_under_35": 1.43,
@@ -18517,16 +18531,16 @@
           "current_minute": null,
           "period": "",
           "odds_home": 1.73,
-          "odds_draw": 4,
+          "odds_draw": 4.01,
           "odds_away": 3.91,
           "odds_over_15": 1.1,
           "odds_over_25": 1.38,
           "odds_over_35": 1.94,
           "odds_under_15": 6.59,
           "odds_under_25": 2.87,
-          "odds_under_35": 1.78,
+          "odds_under_35": 1.79,
           "odds_btts_yes": 1.4,
-          "odds_btts_no": 2.73,
+          "odds_btts_no": 2.74,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -18711,16 +18725,16 @@
         "current_minute": null,
         "period": "",
         "odds_home": 1.73,
-        "odds_draw": 4,
+        "odds_draw": 4.01,
         "odds_away": 3.91,
         "odds_over_15": 1.1,
         "odds_over_25": 1.38,
         "odds_over_35": 1.94,
         "odds_under_15": 6.59,
         "odds_under_25": 2.87,
-        "odds_under_35": 1.78,
+        "odds_under_35": 1.79,
         "odds_btts_yes": 1.4,
-        "odds_btts_no": 2.73,
+        "odds_btts_no": 2.74,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -19182,12 +19196,12 @@
           "period": "",
           "odds_home": 1.71,
           "odds_draw": 3.69,
-          "odds_away": 4.39,
+          "odds_away": 4.4,
           "odds_over_15": 1.22,
           "odds_over_25": 1.72,
           "odds_over_35": 2.77,
-          "odds_under_15": 3.95,
-          "odds_under_25": 2.03,
+          "odds_under_15": 3.96,
+          "odds_under_25": 2.04,
           "odds_under_35": 1.4,
           "odds_btts_yes": 1.69,
           "odds_btts_no": 2.05,
@@ -19374,12 +19388,12 @@
         "period": "",
         "odds_home": 1.71,
         "odds_draw": 3.69,
-        "odds_away": 4.39,
+        "odds_away": 4.4,
         "odds_over_15": 1.22,
         "odds_over_25": 1.72,
         "odds_over_35": 2.77,
-        "odds_under_15": 3.95,
-        "odds_under_25": 2.03,
+        "odds_under_15": 3.96,
+        "odds_under_25": 2.04,
         "odds_under_35": 1.4,
         "odds_btts_yes": 1.69,
         "odds_btts_no": 2.05,
@@ -19770,12 +19784,12 @@
           "current_minute": null,
           "period": "",
           "odds_home": 2.19,
-          "odds_draw": 3.4,
+          "odds_draw": 3.41,
           "odds_away": 2.99,
-          "odds_over_15": 1.28,
+          "odds_over_15": 1.27,
           "odds_over_25": 1.88,
           "odds_over_35": 3.21,
-          "odds_under_15": 3.42,
+          "odds_under_15": 3.44,
           "odds_under_25": 1.84,
           "odds_under_35": 1.31,
           "odds_btts_yes": 1.72,
@@ -19959,12 +19973,12 @@
         "current_minute": null,
         "period": "",
         "odds_home": 2.19,
-        "odds_draw": 3.4,
+        "odds_draw": 3.41,
         "odds_away": 2.99,
-        "odds_over_15": 1.28,
+        "odds_over_15": 1.27,
         "odds_over_25": 1.88,
         "odds_over_35": 3.21,
-        "odds_under_15": 3.42,
+        "odds_under_15": 3.44,
         "odds_under_25": 1.84,
         "odds_under_35": 1.31,
         "odds_btts_yes": 1.72,
@@ -20408,7 +20422,7 @@
           "odds_over_15": 1.24,
           "odds_over_25": 1.78,
           "odds_over_35": 2.89,
-          "odds_under_15": 3.68,
+          "odds_under_15": 3.69,
           "odds_under_25": 1.94,
           "odds_under_35": 1.37,
           "odds_btts_yes": 1.62,
@@ -20590,7 +20604,7 @@
         "odds_over_15": 1.24,
         "odds_over_25": 1.78,
         "odds_over_35": 2.89,
-        "odds_under_15": 3.68,
+        "odds_under_15": 3.69,
         "odds_under_25": 1.94,
         "odds_under_35": 1.37,
         "odds_btts_yes": 1.62,
@@ -21024,7 +21038,7 @@
           "odds_under_25": 1.93,
           "odds_under_35": 1.36,
           "odds_btts_yes": 1.64,
-          "odds_btts_no": 2.12,
+          "odds_btts_no": 2.13,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -21080,7 +21094,14 @@
                 "expected_return": "2026-07-20"
               }
             ],
-            "away": []
+            "away": [
+              {
+                "name": "Anders Christiansen",
+                "status": "injured",
+                "reason": "Leg Injury",
+                "expected_return": "2026-07-20"
+              }
+            ]
           },
           "venue": {
             "id": 422,
@@ -21240,7 +21261,7 @@
         "odds_under_25": 1.93,
         "odds_under_35": 1.36,
         "odds_btts_yes": 1.64,
-        "odds_btts_no": 2.12,
+        "odds_btts_no": 2.13,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -21296,7 +21317,14 @@
               "expected_return": "2026-07-20"
             }
           ],
-          "away": []
+          "away": [
+            {
+              "name": "Anders Christiansen",
+              "status": "injured",
+              "reason": "Leg Injury",
+              "expected_return": "2026-07-20"
+            }
+          ]
         },
         "venue": {
           "id": 422,
@@ -21652,13 +21680,13 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.72,
-          "odds_draw": 3.33,
-          "odds_away": 2.47,
+          "odds_home": 2.74,
+          "odds_draw": 3.34,
+          "odds_away": 2.46,
           "odds_over_15": 1.25,
           "odds_over_25": 1.81,
           "odds_over_35": 2.95,
-          "odds_under_15": 3.63,
+          "odds_under_15": 3.62,
           "odds_under_25": 1.93,
           "odds_under_35": 1.35,
           "odds_btts_yes": 1.63,
@@ -21713,7 +21741,7 @@
                 "name": "Frédéric Nsabiyumva",
                 "status": "injured",
                 "reason": "Foot Injury",
-                "expected_return": "2026-07-10"
+                "expected_return": "2026-07-20"
               }
             ]
           },
@@ -21867,13 +21895,13 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.72,
-        "odds_draw": 3.33,
-        "odds_away": 2.47,
+        "odds_home": 2.74,
+        "odds_draw": 3.34,
+        "odds_away": 2.46,
         "odds_over_15": 1.25,
         "odds_over_25": 1.81,
         "odds_over_35": 2.95,
-        "odds_under_15": 3.63,
+        "odds_under_15": 3.62,
         "odds_under_25": 1.93,
         "odds_under_35": 1.35,
         "odds_btts_yes": 1.63,
@@ -21928,7 +21956,7 @@
               "name": "Frédéric Nsabiyumva",
               "status": "injured",
               "reason": "Foot Injury",
-              "expected_return": "2026-07-10"
+              "expected_return": "2026-07-20"
             }
           ]
         },
@@ -22822,7 +22850,7 @@
           "current_minute": null,
           "period": "",
           "odds_home": 3.28,
-          "odds_draw": 3.65,
+          "odds_draw": 3.64,
           "odds_away": 2.01,
           "odds_over_15": 1.17,
           "odds_over_25": 1.57,
@@ -23010,7 +23038,7 @@
         "current_minute": null,
         "period": "",
         "odds_home": 3.28,
-        "odds_draw": 3.65,
+        "odds_draw": 3.64,
         "odds_away": 2.01,
         "odds_over_15": 1.17,
         "odds_over_25": 1.57,
@@ -23425,12 +23453,12 @@
           "odds_away": 8.8,
           "odds_over_15": 1.17,
           "odds_over_25": 1.58,
-          "odds_over_35": 2.44,
-          "odds_under_15": 4.54,
-          "odds_under_25": 2.27,
+          "odds_over_35": 2.43,
+          "odds_under_15": 4.57,
+          "odds_under_25": 2.28,
           "odds_under_35": 1.5,
-          "odds_btts_yes": 1.92,
-          "odds_btts_no": 1.79,
+          "odds_btts_yes": 1.91,
+          "odds_btts_no": 1.8,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -23573,12 +23601,12 @@
         "odds_away": 8.8,
         "odds_over_15": 1.17,
         "odds_over_25": 1.58,
-        "odds_over_35": 2.44,
-        "odds_under_15": 4.54,
-        "odds_under_25": 2.27,
+        "odds_over_35": 2.43,
+        "odds_under_15": 4.57,
+        "odds_under_25": 2.28,
         "odds_under_35": 1.5,
-        "odds_btts_yes": 1.92,
-        "odds_btts_no": 1.79,
+        "odds_btts_yes": 1.91,
+        "odds_btts_no": 1.8,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -23959,12 +23987,12 @@
           "current_minute": null,
           "period": "",
           "odds_home": 4.73,
-          "odds_draw": 3.46,
+          "odds_draw": 3.47,
           "odds_away": 1.81,
           "odds_over_15": 1.4,
-          "odds_over_25": 2.24,
-          "odds_over_35": 4.12,
-          "odds_under_15": 2.88,
+          "odds_over_25": 2.25,
+          "odds_over_35": 4.13,
+          "odds_under_15": 2.86,
           "odds_under_25": 1.63,
           "odds_under_35": 1.21,
           "odds_btts_yes": 2.05,
@@ -24156,12 +24184,12 @@
         "current_minute": null,
         "period": "",
         "odds_home": 4.73,
-        "odds_draw": 3.46,
+        "odds_draw": 3.47,
         "odds_away": 1.81,
         "odds_over_15": 1.4,
-        "odds_over_25": 2.24,
-        "odds_over_35": 4.12,
-        "odds_under_15": 2.88,
+        "odds_over_25": 2.25,
+        "odds_over_35": 4.13,
+        "odds_under_15": 2.86,
         "odds_under_25": 1.63,
         "odds_under_35": 1.21,
         "odds_btts_yes": 2.05,
@@ -24586,14 +24614,14 @@
           "odds_home": 1.91,
           "odds_draw": 3.21,
           "odds_away": 4.06,
-          "odds_over_15": 1.35,
+          "odds_over_15": 1.36,
           "odds_over_25": 2.12,
           "odds_over_35": 3.73,
           "odds_under_15": 2.93,
           "odds_under_25": 1.66,
           "odds_under_35": 1.23,
           "odds_btts_yes": 1.9,
-          "odds_btts_no": 1.79,
+          "odds_btts_no": 1.8,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -24802,14 +24830,14 @@
         "odds_home": 1.91,
         "odds_draw": 3.21,
         "odds_away": 4.06,
-        "odds_over_15": 1.35,
+        "odds_over_15": 1.36,
         "odds_over_25": 2.12,
         "odds_over_35": 3.73,
         "odds_under_15": 2.93,
         "odds_under_25": 1.66,
         "odds_under_35": 1.23,
         "odds_btts_yes": 1.9,
-        "odds_btts_no": 1.79,
+        "odds_btts_no": 1.8,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -25227,12 +25255,12 @@
           "current_minute": null,
           "period": "",
           "odds_home": 1.88,
-          "odds_draw": 3.31,
+          "odds_draw": 3.32,
           "odds_away": 4.03,
-          "odds_over_15": 1.32,
+          "odds_over_15": 1.33,
           "odds_over_25": 2.02,
           "odds_over_35": 3.52,
-          "odds_under_15": 3.08,
+          "odds_under_15": 3.09,
           "odds_under_25": 1.73,
           "odds_under_35": 1.25,
           "odds_btts_yes": 1.84,
@@ -25440,12 +25468,12 @@
         "current_minute": null,
         "period": "",
         "odds_home": 1.88,
-        "odds_draw": 3.31,
+        "odds_draw": 3.32,
         "odds_away": 4.03,
-        "odds_over_15": 1.32,
+        "odds_over_15": 1.33,
         "odds_over_25": 2.02,
         "odds_over_35": 3.52,
-        "odds_under_15": 3.08,
+        "odds_under_15": 3.09,
         "odds_under_25": 1.73,
         "odds_under_35": 1.25,
         "odds_btts_yes": 1.84,
@@ -27042,17 +27070,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 15.3,
-          "odds_draw": 6.56,
+          "odds_home": 15.59,
+          "odds_draw": 6.71,
           "odds_away": 1.2,
           "odds_over_15": 1.18,
           "odds_over_25": 1.58,
-          "odds_over_35": 2.44,
-          "odds_under_15": 4.66,
+          "odds_over_35": 2.45,
+          "odds_under_15": 4.64,
           "odds_under_25": 2.32,
           "odds_under_35": 1.53,
-          "odds_btts_yes": 2.32,
-          "odds_btts_no": 1.56,
+          "odds_btts_yes": 2.34,
+          "odds_btts_no": 1.55,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -27245,17 +27273,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 15.3,
-        "odds_draw": 6.56,
+        "odds_home": 15.59,
+        "odds_draw": 6.71,
         "odds_away": 1.2,
         "odds_over_15": 1.18,
         "odds_over_25": 1.58,
-        "odds_over_35": 2.44,
-        "odds_under_15": 4.66,
+        "odds_over_35": 2.45,
+        "odds_under_15": 4.64,
         "odds_under_25": 2.32,
         "odds_under_35": 1.53,
-        "odds_btts_yes": 2.32,
-        "odds_btts_no": 1.56,
+        "odds_btts_yes": 2.34,
+        "odds_btts_no": 1.55,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -28206,13 +28234,13 @@
           "current_minute": null,
           "period": "",
           "odds_home": 1.53,
-          "odds_draw": 3.93,
-          "odds_away": 5.33,
+          "odds_draw": 3.92,
+          "odds_away": 5.34,
           "odds_over_15": 1.24,
           "odds_over_25": 1.79,
           "odds_over_35": 2.93,
           "odds_under_15": 3.56,
-          "odds_under_25": 1.92,
+          "odds_under_25": 1.93,
           "odds_under_35": 1.35,
           "odds_btts_yes": 1.85,
           "odds_btts_no": 1.84,
@@ -28387,13 +28415,13 @@
         "current_minute": null,
         "period": "",
         "odds_home": 1.53,
-        "odds_draw": 3.93,
-        "odds_away": 5.33,
+        "odds_draw": 3.92,
+        "odds_away": 5.34,
         "odds_over_15": 1.24,
         "odds_over_25": 1.79,
         "odds_over_35": 2.93,
         "odds_under_15": 3.56,
-        "odds_under_25": 1.92,
+        "odds_under_25": 1.93,
         "odds_under_35": 1.35,
         "odds_btts_yes": 1.85,
         "odds_btts_no": 1.84,
@@ -28793,9 +28821,9 @@
           "odds_draw": 2.98,
           "odds_away": 3.61,
           "odds_over_15": 1.45,
-          "odds_over_25": 2.42,
-          "odds_over_35": 4.53,
-          "odds_under_15": 2.54,
+          "odds_over_25": 2.43,
+          "odds_over_35": 4.54,
+          "odds_under_15": 2.55,
           "odds_under_25": 1.51,
           "odds_under_35": 1.17,
           "odds_btts_yes": 2.04,
@@ -29016,9 +29044,9 @@
         "odds_draw": 2.98,
         "odds_away": 3.61,
         "odds_over_15": 1.45,
-        "odds_over_25": 2.42,
-        "odds_over_35": 4.53,
-        "odds_under_15": 2.54,
+        "odds_over_25": 2.43,
+        "odds_over_35": 4.54,
+        "odds_under_15": 2.55,
         "odds_under_25": 1.51,
         "odds_under_35": 1.17,
         "odds_btts_yes": 2.04,
@@ -29477,15 +29505,15 @@
           "period": "",
           "odds_home": 1.57,
           "odds_draw": 3.86,
-          "odds_away": 4.97,
+          "odds_away": 4.96,
           "odds_over_15": 1.24,
           "odds_over_25": 1.76,
           "odds_over_35": 2.86,
-          "odds_under_15": 3.65,
+          "odds_under_15": 3.64,
           "odds_under_25": 1.96,
           "odds_under_35": 1.36,
           "odds_btts_yes": 1.79,
-          "odds_btts_no": 1.91,
+          "odds_btts_no": 1.9,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -29658,15 +29686,15 @@
         "period": "",
         "odds_home": 1.57,
         "odds_draw": 3.86,
-        "odds_away": 4.97,
+        "odds_away": 4.96,
         "odds_over_15": 1.24,
         "odds_over_25": 1.76,
         "odds_over_35": 2.86,
-        "odds_under_15": 3.65,
+        "odds_under_15": 3.64,
         "odds_under_25": 1.96,
         "odds_under_35": 1.36,
         "odds_btts_yes": 1.79,
-        "odds_btts_no": 1.91,
+        "odds_btts_no": 1.9,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -37317,13 +37345,13 @@
           "current_minute": null,
           "period": "",
           "odds_home": 2.23,
-          "odds_draw": 3.51,
+          "odds_draw": 3.5,
           "odds_away": 2.93,
           "odds_over_15": 1.2,
-          "odds_over_25": 1.65,
-          "odds_over_35": 2.57,
+          "odds_over_25": 1.66,
+          "odds_over_35": 2.58,
           "odds_under_15": 4.17,
-          "odds_under_25": 2.14,
+          "odds_under_25": 2.13,
           "odds_under_35": 1.44,
           "odds_btts_yes": 1.55,
           "odds_btts_no": 2.3,
@@ -37388,7 +37416,7 @@
                 "name": "Jonathan Rasheed",
                 "status": "injured",
                 "reason": "Broken Ankle",
-                "expected_return": "2026-07-10"
+                "expected_return": "2026-07-20"
               },
               {
                 "name": "Kolbeinn Thordarson",
@@ -37610,13 +37638,13 @@
         "current_minute": null,
         "period": "",
         "odds_home": 2.23,
-        "odds_draw": 3.51,
+        "odds_draw": 3.5,
         "odds_away": 2.93,
         "odds_over_15": 1.2,
-        "odds_over_25": 1.65,
-        "odds_over_35": 2.57,
+        "odds_over_25": 1.66,
+        "odds_over_35": 2.58,
         "odds_under_15": 4.17,
-        "odds_under_25": 2.14,
+        "odds_under_25": 2.13,
         "odds_under_35": 1.44,
         "odds_btts_yes": 1.55,
         "odds_btts_no": 2.3,
@@ -37681,7 +37709,7 @@
               "name": "Jonathan Rasheed",
               "status": "injured",
               "reason": "Broken Ankle",
-              "expected_return": "2026-07-10"
+              "expected_return": "2026-07-20"
             },
             {
               "name": "Kolbeinn Thordarson",
@@ -38204,7 +38232,7 @@
                 "name": "Malcolm Stolt",
                 "status": "injured",
                 "reason": "Thigh Injury",
-                "expected_return": "2026-07-10"
+                "expected_return": "2026-07-20"
               }
             ],
             "away": [
@@ -38212,13 +38240,13 @@
                 "name": "Aydarus Abukar",
                 "status": "injured",
                 "reason": "Knee Surgery",
-                "expected_return": "2026-07-10"
+                "expected_return": "2026-07-20"
               },
               {
                 "name": "Rasmus Alm",
                 "status": "injured",
                 "reason": "Knee Injury",
-                "expected_return": "2026-07-10"
+                "expected_return": "2026-07-20"
               }
             ]
           },
@@ -38435,7 +38463,7 @@
               "name": "Malcolm Stolt",
               "status": "injured",
               "reason": "Thigh Injury",
-              "expected_return": "2026-07-10"
+              "expected_return": "2026-07-20"
             }
           ],
           "away": [
@@ -38443,13 +38471,13 @@
               "name": "Aydarus Abukar",
               "status": "injured",
               "reason": "Knee Surgery",
-              "expected_return": "2026-07-10"
+              "expected_return": "2026-07-20"
             },
             {
               "name": "Rasmus Alm",
               "status": "injured",
               "reason": "Knee Injury",
-              "expected_return": "2026-07-10"
+              "expected_return": "2026-07-20"
             }
           ]
         },
@@ -41316,7 +41344,7 @@
           "current_minute": null,
           "period": "",
           "odds_home": 2.45,
-          "odds_draw": 3.62,
+          "odds_draw": 3.6,
           "odds_away": 2.55,
           "odds_over_15": 1.15,
           "odds_over_25": 1.52,
@@ -41557,7 +41585,7 @@
         "current_minute": null,
         "period": "",
         "odds_home": 2.45,
-        "odds_draw": 3.62,
+        "odds_draw": 3.6,
         "odds_away": 2.55,
         "odds_over_15": 1.15,
         "odds_over_25": 1.52,
@@ -54333,6 +54361,12 @@
                 "status": "injured",
                 "reason": "Thigh Injury",
                 "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Solomon Owusu",
+                "status": "injured",
+                "reason": "Thigh Injury",
+                "expected_return": "2026-07-20"
               }
             ],
             "away": [
@@ -54346,7 +54380,7 @@
                 "name": "Ulrik Jenssen",
                 "status": "injured",
                 "reason": "Knock Injury",
-                "expected_return": "2026-07-10"
+                "expected_return": "2026-07-20"
               }
             ]
           },
@@ -54549,6 +54583,12 @@
               "status": "injured",
               "reason": "Thigh Injury",
               "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Solomon Owusu",
+              "status": "injured",
+              "reason": "Thigh Injury",
+              "expected_return": "2026-07-20"
             }
           ],
           "away": [
@@ -54562,7 +54602,7 @@
               "name": "Ulrik Jenssen",
               "status": "injured",
               "reason": "Knock Injury",
-              "expected_return": "2026-07-10"
+              "expected_return": "2026-07-20"
             }
           ]
         },
@@ -56897,6 +56937,12 @@
                 "expected_return": "2026-07-20"
               },
               {
+                "name": "Paul Ngongo Iversen",
+                "status": "injured",
+                "reason": "Thigh Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
                 "name": "Philip Sandvik Aukland",
                 "status": "injured",
                 "reason": "Unknown",
@@ -57103,6 +57149,12 @@
               "name": "Mathias Kristensen",
               "status": "injured",
               "reason": "Calf Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Paul Ngongo Iversen",
+              "status": "injured",
+              "reason": "Thigh Injury",
               "expected_return": "2026-07-20"
             },
             {
@@ -58716,13 +58768,13 @@
                 "name": "Aydarus Abukar",
                 "status": "injured",
                 "reason": "Knee Surgery",
-                "expected_return": "2026-07-10"
+                "expected_return": "2026-07-20"
               },
               {
                 "name": "Rasmus Alm",
                 "status": "injured",
                 "reason": "Knee Injury",
-                "expected_return": "2026-07-10"
+                "expected_return": "2026-07-20"
               }
             ],
             "away": [
@@ -58955,13 +59007,13 @@
               "name": "Aydarus Abukar",
               "status": "injured",
               "reason": "Knee Surgery",
-              "expected_return": "2026-07-10"
+              "expected_return": "2026-07-20"
             },
             {
               "name": "Rasmus Alm",
               "status": "injured",
               "reason": "Knee Injury",
-              "expected_return": "2026-07-10"
+              "expected_return": "2026-07-20"
             }
           ],
           "away": [
@@ -59395,7 +59447,7 @@
                 "name": "Viktor Ekblom",
                 "status": "injured",
                 "reason": "Groin Injury",
-                "expected_return": "2026-07-10"
+                "expected_return": "2026-07-20"
               }
             ],
             "away": [
@@ -59614,7 +59666,7 @@
               "name": "Viktor Ekblom",
               "status": "injured",
               "reason": "Groin Injury",
-              "expected_return": "2026-07-10"
+              "expected_return": "2026-07-20"
             }
           ],
           "away": [
@@ -62891,7 +62943,14 @@
             ]
           },
           "unavailable_players": {
-            "home": [],
+            "home": [
+              {
+                "name": "Anders Christiansen",
+                "status": "injured",
+                "reason": "Leg Injury",
+                "expected_return": "2026-07-20"
+              }
+            ],
             "away": [
               {
                 "name": "Arbnor Mucolli",
@@ -62909,7 +62968,7 @@
                 "name": "Jonathan Rasheed",
                 "status": "injured",
                 "reason": "Broken Ankle",
-                "expected_return": "2026-07-10"
+                "expected_return": "2026-07-20"
               },
               {
                 "name": "Kolbeinn Thordarson",
@@ -63132,7 +63191,14 @@
           ]
         },
         "unavailable_players": {
-          "home": [],
+          "home": [
+            {
+              "name": "Anders Christiansen",
+              "status": "injured",
+              "reason": "Leg Injury",
+              "expected_return": "2026-07-20"
+            }
+          ],
           "away": [
             {
               "name": "Arbnor Mucolli",
@@ -63150,7 +63216,7 @@
               "name": "Jonathan Rasheed",
               "status": "injured",
               "reason": "Broken Ankle",
-              "expected_return": "2026-07-10"
+              "expected_return": "2026-07-20"
             },
             {
               "name": "Kolbeinn Thordarson",
@@ -63622,7 +63688,7 @@
                 "name": "Malcolm Stolt",
                 "status": "injured",
                 "reason": "Thigh Injury",
-                "expected_return": "2026-07-10"
+                "expected_return": "2026-07-20"
               }
             ]
           },
@@ -63850,7 +63916,7 @@
               "name": "Malcolm Stolt",
               "status": "injured",
               "reason": "Thigh Injury",
-              "expected_return": "2026-07-10"
+              "expected_return": "2026-07-20"
             }
           ]
         },
@@ -64310,7 +64376,7 @@
                 "name": "Frédéric Nsabiyumva",
                 "status": "injured",
                 "reason": "Foot Injury",
-                "expected_return": "2026-07-10"
+                "expected_return": "2026-07-20"
               }
             ],
             "away": [
@@ -64538,7 +64604,7 @@
               "name": "Frédéric Nsabiyumva",
               "status": "injured",
               "reason": "Foot Injury",
-              "expected_return": "2026-07-10"
+              "expected_return": "2026-07-20"
             }
           ],
           "away": [
@@ -68174,7 +68240,7 @@
                 "name": "Jacob Lungi Sørensen",
                 "status": "injured",
                 "reason": "Ankle Injury",
-                "expected_return": "2026-07-10"
+                "expected_return": "2026-07-20"
               },
               {
                 "name": "Mathias Dyngeland",
@@ -68428,7 +68494,7 @@
               "name": "Jacob Lungi Sørensen",
               "status": "injured",
               "reason": "Ankle Injury",
-              "expected_return": "2026-07-10"
+              "expected_return": "2026-07-20"
             },
             {
               "name": "Mathias Dyngeland",
@@ -68788,7 +68854,7 @@
                 "name": "Jonas Svensson",
                 "status": "injured",
                 "reason": "Thigh Injury",
-                "expected_return": "2026-07-10"
+                "expected_return": "2026-07-20"
               }
             ],
             "away": [
@@ -69006,7 +69072,7 @@
               "name": "Jonas Svensson",
               "status": "injured",
               "reason": "Thigh Injury",
-              "expected_return": "2026-07-10"
+              "expected_return": "2026-07-20"
             }
           ],
           "away": [
@@ -76281,6 +76347,12 @@
                 "expected_return": "2026-07-20"
               },
               {
+                "name": "Paul Ngongo Iversen",
+                "status": "injured",
+                "reason": "Thigh Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
                 "name": "Philip Sandvik Aukland",
                 "status": "injured",
                 "reason": "Unknown",
@@ -76497,6 +76569,12 @@
               "name": "Mathias Kristensen",
               "status": "injured",
               "reason": "Calf Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Paul Ngongo Iversen",
+              "status": "injured",
+              "reason": "Thigh Injury",
               "expected_return": "2026-07-20"
             },
             {
@@ -84128,7 +84206,7 @@
                 "name": "Frédéric Nsabiyumva",
                 "status": "injured",
                 "reason": "Foot Injury",
-                "expected_return": "2026-07-10"
+                "expected_return": "2026-07-20"
               }
             ]
           },
@@ -84374,7 +84452,7 @@
               "name": "Frédéric Nsabiyumva",
               "status": "injured",
               "reason": "Foot Injury",
-              "expected_return": "2026-07-10"
+              "expected_return": "2026-07-20"
             }
           ]
         },
@@ -84827,6 +84905,12 @@
                 "status": "injured",
                 "reason": "Thigh Injury",
                 "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Solomon Owusu",
+                "status": "injured",
+                "reason": "Thigh Injury",
+                "expected_return": "2026-07-20"
               }
             ]
           },
@@ -85046,6 +85130,12 @@
             },
             {
               "name": "Leonard Owusu",
+              "status": "injured",
+              "reason": "Thigh Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Solomon Owusu",
               "status": "injured",
               "reason": "Thigh Injury",
               "expected_return": "2026-07-20"
@@ -94777,7 +94867,7 @@
                 "name": "Viktor Ekblom",
                 "status": "injured",
                 "reason": "Groin Injury",
-                "expected_return": "2026-07-10"
+                "expected_return": "2026-07-20"
               }
             ]
           },
@@ -94988,7 +95078,7 @@
               "name": "Viktor Ekblom",
               "status": "injured",
               "reason": "Groin Injury",
-              "expected_return": "2026-07-10"
+              "expected_return": "2026-07-20"
             }
           ]
         },
@@ -97276,7 +97366,7 @@
                 "name": "Jonas Svensson",
                 "status": "injured",
                 "reason": "Thigh Injury",
-                "expected_return": "2026-07-10"
+                "expected_return": "2026-07-20"
               }
             ]
           },
@@ -97494,7 +97584,7 @@
               "name": "Jonas Svensson",
               "status": "injured",
               "reason": "Thigh Injury",
-              "expected_return": "2026-07-10"
+              "expected_return": "2026-07-20"
             }
           ]
         },
@@ -98555,7 +98645,7 @@
                 "name": "Ulrik Jenssen",
                 "status": "injured",
                 "reason": "Knock Injury",
-                "expected_return": "2026-07-10"
+                "expected_return": "2026-07-20"
               }
             ],
             "away": [
@@ -98781,7 +98871,7 @@
               "name": "Ulrik Jenssen",
               "status": "injured",
               "reason": "Knock Injury",
-              "expected_return": "2026-07-10"
+              "expected_return": "2026-07-20"
             }
           ],
           "away": [
@@ -100954,7 +101044,7 @@
                 "name": "Jacob Lungi Sørensen",
                 "status": "injured",
                 "reason": "Ankle Injury",
-                "expected_return": "2026-07-10"
+                "expected_return": "2026-07-20"
               },
               {
                 "name": "Mathias Dyngeland",
@@ -101192,7 +101282,7 @@
               "name": "Jacob Lungi Sørensen",
               "status": "injured",
               "reason": "Ankle Injury",
-              "expected_return": "2026-07-10"
+              "expected_return": "2026-07-20"
             },
             {
               "name": "Mathias Dyngeland",
@@ -109626,7 +109716,7 @@
                 "name": "Jonathan Rasheed",
                 "status": "injured",
                 "reason": "Broken Ankle",
-                "expected_return": "2026-07-10"
+                "expected_return": "2026-07-20"
               },
               {
                 "name": "Kolbeinn Thordarson",
@@ -109879,7 +109969,7 @@
               "name": "Jonathan Rasheed",
               "status": "injured",
               "reason": "Broken Ankle",
-              "expected_return": "2026-07-10"
+              "expected_return": "2026-07-20"
             },
             {
               "name": "Kolbeinn Thordarson",
@@ -114195,10 +114285,17 @@
                 "name": "Malcolm Stolt",
                 "status": "injured",
                 "reason": "Thigh Injury",
-                "expected_return": "2026-07-10"
+                "expected_return": "2026-07-20"
               }
             ],
-            "away": []
+            "away": [
+              {
+                "name": "Anders Christiansen",
+                "status": "injured",
+                "reason": "Leg Injury",
+                "expected_return": "2026-07-20"
+              }
+            ]
           },
           "venue": {
             "id": 711,
@@ -114384,10 +114481,17 @@
               "name": "Malcolm Stolt",
               "status": "injured",
               "reason": "Thigh Injury",
-              "expected_return": "2026-07-10"
+              "expected_return": "2026-07-20"
             }
           ],
-          "away": []
+          "away": [
+            {
+              "name": "Anders Christiansen",
+              "status": "injured",
+              "reason": "Leg Injury",
+              "expected_return": "2026-07-20"
+            }
+          ]
         },
         "venue": {
           "id": 711,
@@ -114756,13 +114860,13 @@
                 "name": "Aydarus Abukar",
                 "status": "injured",
                 "reason": "Knee Surgery",
-                "expected_return": "2026-07-10"
+                "expected_return": "2026-07-20"
               },
               {
                 "name": "Rasmus Alm",
                 "status": "injured",
                 "reason": "Knee Injury",
-                "expected_return": "2026-07-10"
+                "expected_return": "2026-07-20"
               }
             ],
             "away": [
@@ -114940,13 +115044,13 @@
               "name": "Aydarus Abukar",
               "status": "injured",
               "reason": "Knee Surgery",
-              "expected_return": "2026-07-10"
+              "expected_return": "2026-07-20"
             },
             {
               "name": "Rasmus Alm",
               "status": "injured",
               "reason": "Knee Injury",
-              "expected_return": "2026-07-10"
+              "expected_return": "2026-07-20"
             }
           ],
           "away": [
@@ -127334,7 +127438,7 @@
                 "name": "Ulrik Jenssen",
                 "status": "injured",
                 "reason": "Knock Injury",
-                "expected_return": "2026-07-10"
+                "expected_return": "2026-07-20"
               }
             ],
             "away": [
@@ -127526,7 +127630,7 @@
               "name": "Ulrik Jenssen",
               "status": "injured",
               "reason": "Knock Injury",
-              "expected_return": "2026-07-10"
+              "expected_return": "2026-07-20"
             }
           ],
           "away": [
@@ -144608,7 +144712,7 @@
                 "name": "Frédéric Nsabiyumva",
                 "status": "injured",
                 "reason": "Foot Injury",
-                "expected_return": "2026-07-10"
+                "expected_return": "2026-07-20"
               }
             ],
             "away": [
@@ -144616,13 +144720,13 @@
                 "name": "Aydarus Abukar",
                 "status": "injured",
                 "reason": "Knee Surgery",
-                "expected_return": "2026-07-10"
+                "expected_return": "2026-07-20"
               },
               {
                 "name": "Rasmus Alm",
                 "status": "injured",
                 "reason": "Knee Injury",
-                "expected_return": "2026-07-10"
+                "expected_return": "2026-07-20"
               }
             ]
           },
@@ -144792,7 +144896,7 @@
               "name": "Frédéric Nsabiyumva",
               "status": "injured",
               "reason": "Foot Injury",
-              "expected_return": "2026-07-10"
+              "expected_return": "2026-07-20"
             }
           ],
           "away": [
@@ -144800,13 +144904,13 @@
               "name": "Aydarus Abukar",
               "status": "injured",
               "reason": "Knee Surgery",
-              "expected_return": "2026-07-10"
+              "expected_return": "2026-07-20"
             },
             {
               "name": "Rasmus Alm",
               "status": "injured",
               "reason": "Knee Injury",
-              "expected_return": "2026-07-10"
+              "expected_return": "2026-07-20"
             }
           ]
         },
@@ -151131,7 +151235,7 @@
                 "name": "Malcolm Stolt",
                 "status": "injured",
                 "reason": "Thigh Injury",
-                "expected_return": "2026-07-10"
+                "expected_return": "2026-07-20"
               }
             ],
             "away": [
@@ -151354,7 +151458,7 @@
               "name": "Malcolm Stolt",
               "status": "injured",
               "reason": "Thigh Injury",
-              "expected_return": "2026-07-10"
+              "expected_return": "2026-07-20"
             }
           ],
           "away": [
@@ -179529,7 +179633,7 @@
                 "name": "Jonathan Rasheed",
                 "status": "injured",
                 "reason": "Broken Ankle",
-                "expected_return": "2026-07-10"
+                "expected_return": "2026-07-20"
               },
               {
                 "name": "Kolbeinn Thordarson",
@@ -179758,7 +179862,7 @@
               "name": "Jonathan Rasheed",
               "status": "injured",
               "reason": "Broken Ankle",
-              "expected_return": "2026-07-10"
+              "expected_return": "2026-07-20"
             },
             {
               "name": "Kolbeinn Thordarson",
@@ -180742,7 +180846,7 @@
                 "name": "Jacob Lungi Sørensen",
                 "status": "injured",
                 "reason": "Ankle Injury",
-                "expected_return": "2026-07-10"
+                "expected_return": "2026-07-20"
               },
               {
                 "name": "Mathias Dyngeland",
@@ -180955,7 +181059,7 @@
               "name": "Jacob Lungi Sørensen",
               "status": "injured",
               "reason": "Ankle Injury",
-              "expected_return": "2026-07-10"
+              "expected_return": "2026-07-20"
             },
             {
               "name": "Mathias Dyngeland",
@@ -181775,7 +181879,14 @@
             ]
           },
           "unavailable_players": {
-            "home": [],
+            "home": [
+              {
+                "name": "Anders Christiansen",
+                "status": "injured",
+                "reason": "Leg Injury",
+                "expected_return": "2026-07-20"
+              }
+            ],
             "away": [
               {
                 "name": "Sebastian Holmén",
@@ -181952,7 +182063,14 @@
           ]
         },
         "unavailable_players": {
-          "home": [],
+          "home": [
+            {
+              "name": "Anders Christiansen",
+              "status": "injured",
+              "reason": "Leg Injury",
+              "expected_return": "2026-07-20"
+            }
+          ],
           "away": [
             {
               "name": "Sebastian Holmén",
@@ -184587,6 +184705,12 @@
                 "expected_return": "2026-07-20"
               },
               {
+                "name": "Paul Ngongo Iversen",
+                "status": "injured",
+                "reason": "Thigh Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
                 "name": "Philip Sandvik Aukland",
                 "status": "injured",
                 "reason": "Unknown",
@@ -184776,6 +184900,12 @@
               "name": "Mathias Kristensen",
               "status": "injured",
               "reason": "Calf Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Paul Ngongo Iversen",
+              "status": "injured",
+              "reason": "Thigh Injury",
               "expected_return": "2026-07-20"
             },
             {
@@ -189700,7 +189830,7 @@
                 "name": "Jonas Svensson",
                 "status": "injured",
                 "reason": "Thigh Injury",
-                "expected_return": "2026-07-10"
+                "expected_return": "2026-07-20"
               }
             ],
             "away": [
@@ -189712,6 +189842,12 @@
               },
               {
                 "name": "Leonard Owusu",
+                "status": "injured",
+                "reason": "Thigh Injury",
+                "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Solomon Owusu",
                 "status": "injured",
                 "reason": "Thigh Injury",
                 "expected_return": "2026-07-20"
@@ -189877,7 +190013,7 @@
               "name": "Jonas Svensson",
               "status": "injured",
               "reason": "Thigh Injury",
-              "expected_return": "2026-07-10"
+              "expected_return": "2026-07-20"
             }
           ],
           "away": [
@@ -189889,6 +190025,12 @@
             },
             {
               "name": "Leonard Owusu",
+              "status": "injured",
+              "reason": "Thigh Injury",
+              "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Solomon Owusu",
               "status": "injured",
               "reason": "Thigh Injury",
               "expected_return": "2026-07-20"
@@ -203575,7 +203717,7 @@
                 "name": "Ulrik Jenssen",
                 "status": "injured",
                 "reason": "Knock Injury",
-                "expected_return": "2026-07-10"
+                "expected_return": "2026-07-20"
               }
             ]
           },
@@ -203758,7 +203900,7 @@
               "name": "Ulrik Jenssen",
               "status": "injured",
               "reason": "Knock Injury",
-              "expected_return": "2026-07-10"
+              "expected_return": "2026-07-20"
             }
           ]
         },
