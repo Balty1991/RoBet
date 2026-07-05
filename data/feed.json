@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-05T13:47:20.699Z",
+  "generated_at": "2026-07-05T15:15:55.734Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -8,9 +8,9 @@
     "managers_endpoint": "/managers/?team_id={id}"
   },
   "summary": {
-    "total_matches": 302,
+    "total_matches": 301,
     "total_leagues": 15,
-    "average_confidence": 49.12178290429016,
+    "average_confidence": 49.14212169915324,
     "favorite_recommend": 0,
     "over_15_recommend": 0,
     "over_25_recommend": 0,
@@ -19,2325 +19,6 @@
     "winner_recommend": 0
   },
   "items": [
-    {
-      "event_id": 46388,
-      "prediction": {
-        "id": 4953,
-        "event": {
-          "id": 46388,
-          "league": {
-            "id": 26,
-            "name": "Allsvenskan",
-            "country": "Sweden",
-            "is_women": false,
-            "current_season": {
-              "id": 9,
-              "name": "Allsvenskan 2026",
-              "year": 2026,
-              "start_date": "2026-01-01",
-              "end_date": "2026-12-31"
-            }
-          },
-          "season": {
-            "id": 9,
-            "name": "Allsvenskan 2026",
-            "year": 2026
-          },
-          "home_team": "IF Elfsborg",
-          "away_team": "Hammarby IF",
-          "home_team_obj": {
-            "id": 440,
-            "name": "IF Elfsborg",
-            "short_name": "Elfsborg",
-            "country": "Sweden",
-            "coach": {
-              "name": "Björn Hamberg",
-              "shortName": "B. Hamberg"
-            },
-            "venue": {
-              "id": 419,
-              "name": "Borås Arena",
-              "city": "Boras",
-              "country": "Sweden",
-              "capacity": 17800
-            }
-          },
-          "away_team_obj": {
-            "id": 438,
-            "name": "Hammarby IF",
-            "short_name": "Hammarby",
-            "country": "Sweden",
-            "coach": {
-              "name": "Henrik Rydstrom",
-              "shortName": "H. Rydstrom"
-            },
-            "venue": null
-          },
-          "event_date": "2026-07-05T17:30:00+03:00",
-          "round_number": 11,
-          "round_name": "",
-          "group_name": null,
-          "status": "notstarted",
-          "home_score": null,
-          "away_score": null,
-          "home_score_ht": null,
-          "away_score_ht": null,
-          "current_minute": null,
-          "period": "",
-          "odds_home": 3.86,
-          "odds_draw": 3.7,
-          "odds_away": 1.85,
-          "odds_over_15": 1.19,
-          "odds_over_25": 1.66,
-          "odds_over_35": 2.59,
-          "odds_under_15": 4.22,
-          "odds_under_25": 2.15,
-          "odds_under_35": 1.45,
-          "odds_btts_yes": 1.6,
-          "odds_btts_no": 2.23,
-          "actual_home_xg": null,
-          "actual_away_xg": null,
-          "home_xg_live": null,
-          "away_xg_live": null,
-          "penalty_shootout": null,
-          "extra_time_score": null,
-          "is_local_derby": false,
-          "is_neutral_ground": null,
-          "travel_distance_km": 346,
-          "weather_code": 1,
-          "wind_speed": 18.7,
-          "temperature_c": 27,
-          "pitch_condition": null,
-          "attendance": null,
-          "referee": {
-            "id": 1793,
-            "name": "Richard Sundell",
-            "country": "Sweden",
-            "nationality_a3": "",
-            "birthdate": null,
-            "yellowCards": 472,
-            "redCards": 11,
-            "career_games": 146,
-            "career_yellow_cards": 472,
-            "career_red_cards": 11
-          },
-          "home_coach": {
-            "id": 590,
-            "name": "Björn Hamberg",
-            "short_name": "B. Hamberg",
-            "country": "Sweden",
-            "profile": "balanced",
-            "preferred_formation": "3-4-3",
-            "pressing_intensity": 0.5064039947617488,
-            "defensive_line": "mid",
-            "top_styles": [
-              "cross_pray",
-              "wing_play"
-            ]
-          },
-          "away_coach": {
-            "id": 334,
-            "name": "Henrik Rydstrom",
-            "short_name": "H. Rydstrom",
-            "country": "Sweden",
-            "profile": "balanced",
-            "preferred_formation": "3-4-2-1",
-            "pressing_intensity": 0.39777169585365246,
-            "defensive_line": "mid",
-            "top_styles": [
-              "positional",
-              "inverted_fb"
-            ]
-          },
-          "unavailable_players": {
-            "home": [
-              {
-                "name": "Sebastian Holmén",
-                "status": "suspended",
-                "reason": "yellow_card_accumulation_suspension",
-                "expected_return": "2026-07-05"
-              }
-            ],
-            "away": [
-              {
-                "name": "Sourou Koné",
-                "status": "injured",
-                "reason": "Knee Injury",
-                "expected_return": "2026-09-10"
-              }
-            ]
-          },
-          "venue": {
-            "id": 419,
-            "name": "Borås Arena",
-            "city": "Boras",
-            "country": "Sweden",
-            "capacity": 17800,
-            "latitude": 57.735556,
-            "longitude": 12.935278,
-            "pitch_x": 105,
-            "pitch_y": 68,
-            "built_year": 2005
-          },
-          "incidents": null,
-          "live_stats": null,
-          "lineups": {
-            "away": {
-              "players": [
-                {
-                  "name": "W. Hahn",
-                  "goals": 0,
-                  "api_id": 152688,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "G",
-                  "red_card": false,
-                  "player_id": 15939,
-                  "yellow_card": false,
-                  "jersey_number": "1",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "GK",
-                  "positions_detailed": [
-                    "GK"
-                  ]
-                },
-                {
-                  "name": "H. Skoglund",
-                  "goals": 0,
-                  "api_id": 1831192,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 15924,
-                  "yellow_card": false,
-                  "jersey_number": "2",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "RB",
-                  "positions_detailed": [
-                    "RB"
-                  ]
-                },
-                {
-                  "name": "V. Eriksson",
-                  "goals": 0,
-                  "api_id": 937533,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 15925,
-                  "yellow_card": false,
-                  "jersey_number": "4",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "CB",
-                  "positions_detailed": [
-                    "CB"
-                  ]
-                },
-                {
-                  "name": "F. Winther",
-                  "goals": 0,
-                  "api_id": 985738,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 15927,
-                  "yellow_card": false,
-                  "jersey_number": "3",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "CB",
-                  "positions_detailed": [
-                    "CB",
-                    "LB"
-                  ]
-                },
-                {
-                  "name": "N. Persson",
-                  "goals": 0,
-                  "api_id": 1104199,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 15937,
-                  "yellow_card": false,
-                  "jersey_number": "16",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "LB",
-                  "positions_detailed": [
-                    "LB",
-                    "LM"
-                  ]
-                },
-                {
-                  "name": "T. Tekie",
-                  "goals": 0,
-                  "api_id": 793754,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 15940,
-                  "yellow_card": false,
-                  "jersey_number": "5",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "CM",
-                  "positions_detailed": [
-                    "CM",
-                    "DM"
-                  ]
-                },
-                {
-                  "name": "M. Karlsson",
-                  "goals": 0,
-                  "api_id": 1145703,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 15926,
-                  "yellow_card": false,
-                  "jersey_number": "8",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "CM",
-                  "positions_detailed": [
-                    "CM",
-                    "DM"
-                  ]
-                },
-                {
-                  "name": "V. Lind",
-                  "goals": 0,
-                  "api_id": 1000496,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 15970,
-                  "yellow_card": false,
-                  "jersey_number": "9",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "LW",
-                  "positions_detailed": [
-                    "LW",
-                    "RW"
-                  ]
-                },
-                {
-                  "name": "N. Besara",
-                  "goals": 0,
-                  "api_id": 36077,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 15931,
-                  "yellow_card": false,
-                  "jersey_number": "20",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "AM",
-                  "positions_detailed": [
-                    "AM",
-                    "CM"
-                  ]
-                },
-                {
-                  "name": "M. Madjed",
-                  "goals": 0,
-                  "api_id": 1099796,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 15928,
-                  "yellow_card": false,
-                  "jersey_number": "26",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "RW",
-                  "positions_detailed": [
-                    "RW"
-                  ]
-                },
-                {
-                  "name": "P. Abraham",
-                  "goals": 0,
-                  "api_id": 1021266,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "F",
-                  "red_card": false,
-                  "player_id": 15932,
-                  "yellow_card": false,
-                  "jersey_number": "7",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "LW",
-                  "positions_detailed": [
-                    "LW",
-                    "ST"
-                  ]
-                }
-              ],
-              "formation": "4-2-3-1",
-              "substitutes": [
-                {
-                  "name": "F. Jakobsson",
-                  "goals": 0,
-                  "api_id": 1014578,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "G",
-                  "red_card": false,
-                  "player_id": 15923,
-                  "yellow_card": false,
-                  "jersey_number": "27",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "GK",
-                  "positions_detailed": [
-                    "GK"
-                  ]
-                },
-                {
-                  "name": "I. Fofana",
-                  "goals": 0,
-                  "api_id": 1069338,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 15933,
-                  "yellow_card": false,
-                  "jersey_number": "6",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "CM",
-                  "positions_detailed": [
-                    "CM",
-                    "CB",
-                    "RB"
-                  ]
-                },
-                {
-                  "name": "B. Hedlöf",
-                  "goals": 0,
-                  "api_id": 1841841,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 24799,
-                  "yellow_card": false,
-                  "jersey_number": "33",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "CB",
-                  "positions_detailed": [
-                    "CB"
-                  ]
-                },
-                {
-                  "name": "O. S. Brånby",
-                  "goals": 0,
-                  "api_id": 1423249,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 24801,
-                  "yellow_card": false,
-                  "jersey_number": "31",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "LB",
-                  "positions_detailed": [
-                    "LB"
-                  ]
-                },
-                {
-                  "name": "F. J. Adjei",
-                  "goals": 0,
-                  "api_id": 1388000,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 15929,
-                  "yellow_card": false,
-                  "jersey_number": "28",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "CM",
-                  "positions_detailed": [
-                    "CM"
-                  ]
-                },
-                {
-                  "name": "O. Johansson Schellhas",
-                  "goals": 0,
-                  "api_id": 328151,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 15941,
-                  "yellow_card": false,
-                  "jersey_number": "11",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "RW",
-                  "positions_detailed": [
-                    "RW",
-                    "CM"
-                  ]
-                },
-                {
-                  "name": "N. Vasic",
-                  "goals": 0,
-                  "api_id": 911147,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "F",
-                  "red_card": false,
-                  "player_id": 15938,
-                  "yellow_card": false,
-                  "jersey_number": "19",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "ST",
-                  "positions_detailed": [
-                    "ST"
-                  ]
-                },
-                {
-                  "name": "M. Kaboré",
-                  "goals": 0,
-                  "api_id": 1490960,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "F",
-                  "red_card": false,
-                  "player_id": 15934,
-                  "yellow_card": false,
-                  "jersey_number": "29",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "ST",
-                  "positions_detailed": [
-                    "ST"
-                  ]
-                },
-                {
-                  "name": "O. J. Hagen",
-                  "goals": 0,
-                  "api_id": 1467868,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "F",
-                  "red_card": false,
-                  "player_id": 24796,
-                  "yellow_card": false,
-                  "jersey_number": "15",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "RW",
-                  "positions_detailed": [
-                    "RW"
-                  ]
-                }
-              ]
-            },
-            "home": {
-              "players": [
-                {
-                  "name": "I. Pettersson",
-                  "goals": 0,
-                  "api_id": 837153,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "G",
-                  "red_card": false,
-                  "player_id": 15942,
-                  "yellow_card": false,
-                  "jersey_number": "31",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "GK",
-                  "positions_detailed": [
-                    "GK"
-                  ]
-                },
-                {
-                  "name": "R. Wikström",
-                  "goals": 0,
-                  "api_id": 918516,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 15945,
-                  "yellow_card": false,
-                  "jersey_number": "6",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "CB",
-                  "positions_detailed": [
-                    "CB",
-                    "RB"
-                  ]
-                },
-                {
-                  "name": "R. Mohammed",
-                  "goals": 0,
-                  "api_id": 1882599,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 16123,
-                  "yellow_card": false,
-                  "jersey_number": "2",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "CB",
-                  "positions_detailed": [
-                    "CB"
-                  ]
-                },
-                {
-                  "name": "T. Isherwood",
-                  "goals": 0,
-                  "api_id": 791928,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 16002,
-                  "yellow_card": false,
-                  "jersey_number": "4",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "CB",
-                  "positions_detailed": [
-                    "CB",
-                    "LB"
-                  ]
-                },
-                {
-                  "name": "N. Hult",
-                  "goals": 0,
-                  "api_id": 49866,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 15946,
-                  "yellow_card": false,
-                  "jersey_number": "23",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "LB",
-                  "positions_detailed": [
-                    "LB",
-                    "LM"
-                  ]
-                },
-                {
-                  "name": "J. Magnusson",
-                  "goals": 0,
-                  "api_id": 788947,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 15948,
-                  "yellow_card": false,
-                  "jersey_number": "18",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DM",
-                  "positions_detailed": [
-                    "DM",
-                    "CM"
-                  ]
-                },
-                {
-                  "name": "S. Olsson",
-                  "goals": 0,
-                  "api_id": 850851,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 15949,
-                  "yellow_card": false,
-                  "jersey_number": "10",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "CM",
-                  "positions_detailed": [
-                    "CM",
-                    "DM"
-                  ]
-                },
-                {
-                  "name": "M. I. Kamara",
-                  "goals": 0,
-                  "api_id": 2138619,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 24885,
-                  "yellow_card": false,
-                  "jersey_number": "29",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "AM",
-                  "positions_detailed": [
-                    "AM"
-                  ]
-                },
-                {
-                  "name": "J. Beck",
-                  "goals": 0,
-                  "api_id": 1098541,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 2982,
-                  "yellow_card": false,
-                  "jersey_number": "19",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "CM",
-                  "positions_detailed": [
-                    "CM"
-                  ]
-                },
-                {
-                  "name": "A. Zeneli",
-                  "goals": 0,
-                  "api_id": 227892,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 15953,
-                  "yellow_card": false,
-                  "jersey_number": "9",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "LW",
-                  "positions_detailed": [
-                    "LW"
-                  ]
-                },
-                {
-                  "name": "L. Östman",
-                  "goals": 0,
-                  "api_id": 1800434,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "F",
-                  "red_card": false,
-                  "player_id": 15955,
-                  "yellow_card": false,
-                  "jersey_number": "21",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "RW",
-                  "positions_detailed": [
-                    "RW"
-                  ]
-                }
-              ],
-              "formation": "4-2-3-1",
-              "substitutes": [
-                {
-                  "name": "T. Erlandsson",
-                  "goals": 0,
-                  "api_id": 358708,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "G",
-                  "red_card": false,
-                  "player_id": 16018,
-                  "yellow_card": false,
-                  "jersey_number": "1",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "GK",
-                  "positions_detailed": [
-                    "GK"
-                  ]
-                },
-                {
-                  "name": "F. Aronsson",
-                  "goals": 0,
-                  "api_id": 1882634,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 15958,
-                  "yellow_card": false,
-                  "jersey_number": "28",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "O. V. Okeke",
-                  "goals": 0,
-                  "api_id": 2067013,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 16306,
-                  "yellow_card": false,
-                  "jersey_number": "27",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "A. Hellemaa",
-                  "goals": 0,
-                  "api_id": 1200382,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 16182,
-                  "yellow_card": false,
-                  "jersey_number": "16",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DM",
-                  "positions_detailed": [
-                    "DM"
-                  ]
-                },
-                {
-                  "name": "G. Rapp",
-                  "goals": 0,
-                  "api_id": 1149094,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 15956,
-                  "yellow_card": false,
-                  "jersey_number": "20",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "LW",
-                  "positions_detailed": [
-                    "LW"
-                  ]
-                },
-                {
-                  "name": "F. Ihler",
-                  "goals": 0,
-                  "api_id": 1035693,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "F",
-                  "red_card": false,
-                  "player_id": 15954,
-                  "yellow_card": false,
-                  "jersey_number": "24",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "ST",
-                  "positions_detailed": [
-                    "ST"
-                  ]
-                },
-                {
-                  "name": "A. Sigurpálsson",
-                  "goals": 0,
-                  "api_id": 990395,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "F",
-                  "red_card": false,
-                  "player_id": 15960,
-                  "yellow_card": false,
-                  "jersey_number": "25",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "LW",
-                  "positions_detailed": [
-                    "LW"
-                  ]
-                },
-                {
-                  "name": "T. Silverholt",
-                  "goals": 0,
-                  "api_id": 981043,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "F",
-                  "red_card": false,
-                  "player_id": 15950,
-                  "yellow_card": false,
-                  "jersey_number": "11",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "ST",
-                  "positions_detailed": [
-                    "ST"
-                  ]
-                },
-                {
-                  "name": "D. Krasniqi",
-                  "goals": 0,
-                  "api_id": 1383715,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "F",
-                  "red_card": false,
-                  "player_id": 24884,
-                  "yellow_card": false,
-                  "jersey_number": "22",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "ST",
-                  "positions_detailed": [
-                    "ST"
-                  ]
-                }
-              ]
-            },
-            "confirmed": true
-          },
-          "shotmap": null,
-          "momentum": null,
-          "xg_per_minute": null,
-          "average_positions": null,
-          "jerseys": {
-            "away": {
-              "GK": {
-                "base": "287109",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "fafafa"
-              },
-              "player": {
-                "base": "ffffff",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "008000",
-                "sleeve": "008000",
-                "sleevelong": "ffffff"
-              }
-            },
-            "home": {
-              "GK": {
-                "base": "6bdf44",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "6bdf44"
-              },
-              "player": {
-                "base": "e6d21b",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "000000",
-                "sleeve": "000000"
-              }
-            }
-          },
-          "funfacts": [
-            {
-              "type_id": 24,
-              "sentence": "Elfsborg's home record this season: 3-3-0."
-            },
-            {
-              "type_id": 1,
-              "sentence": "Elfsborg haven't lost in their last 7 games."
-            },
-            {
-              "type_id": 1,
-              "sentence": "Elfsborg haven't lost in any of their last 8 home matches."
-            }
-          ],
-          "sr_stats": null,
-          "ai_preview": {
-            "text": "**Elfsborg are drawing machines, and Hammarby just got walloped** — this is a clash between a team that won't lose and a side bleeding form 🔴\n\nElfsborg haven't tasted defeat in five (1W, 4D), though they're allergic to finishing teams off. Hammarby, meanwhile, are spiraling with three losses in their last five and got battered 3-2 at home by Häcken. The H2H leans heavily Hammarby's way historically, but form tells a different story.\n\nKey storylines:\n\n- **Elfsborg's defensive wall vs. Hammarby's attacking desperation** — can T. Silverholt and J. Magnusson break down a rattled side?\n- **S. Olsson and S. Hedlund controlling the midfield** — Elfsborg's tempo setters face a Hammarby unit missing S. Koné\n- **M. Kaboré leading Hammarby's counter** — their one real offensive threat if they can nick possession\n\nExpected lineups:\n\n- **IF Elfsborg**: I. Pettersson, T. Isherwood, R. Wikström, N. Hult, S. Olsson, J. Beck, T. Silverholt, L. Östman\n- **Hammarby IF**: W. Hahn, N. Persson, V. Eriksson, H. Skoglund, M. Karlsson, P. Abraham, M. Madjed, M. Kaboré\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction: **2-1 Elfsborg**. They finally break through a fragile Hammarby defense.",
-            "generated_at": "2026-07-05T00:45:36.075142+00:00"
-          },
-          "live_websocket": true
-        },
-        "created_at": "2026-06-02T13:53:51.685630+03:00",
-        "prob_home_win": 42.99980565050066,
-        "prob_draw": 28.31256114950597,
-        "prob_away_win": 28.68763319999336,
-        "predicted_result": "H",
-        "expected_home_goals": 1.02527,
-        "expected_away_goals": 1.39049,
-        "prob_over_15": 82.04039832108272,
-        "prob_over_25": 47.962218657752125,
-        "prob_over_35": 22.879267749460656,
-        "prob_btts_yes": 70.15004539110424,
-        "confidence": 42.99980565050066,
-        "model_version": "v5.0",
-        "most_likely_score": "1-1",
-        "favorite": "H",
-        "favorite_prob": 42.99980565050066,
-        "favorite_recommend": false,
-        "over_15_recommend": false,
-        "over_25_recommend": false,
-        "over_35_recommend": false,
-        "btts_recommend": false,
-        "winner_recommend": false
-      },
-      "event_detail": {
-        "id": 46388,
-        "league": {
-          "id": 26,
-          "name": "Allsvenskan",
-          "country": "Sweden",
-          "is_women": false,
-          "current_season": {
-            "id": 9,
-            "name": "Allsvenskan 2026",
-            "year": 2026,
-            "start_date": "2026-01-01",
-            "end_date": "2026-12-31"
-          }
-        },
-        "season": {
-          "id": 9,
-          "name": "Allsvenskan 2026",
-          "year": 2026
-        },
-        "home_team": "IF Elfsborg",
-        "away_team": "Hammarby IF",
-        "home_team_obj": {
-          "id": 440,
-          "name": "IF Elfsborg",
-          "short_name": "Elfsborg",
-          "country": "Sweden",
-          "coach": {
-            "name": "Björn Hamberg",
-            "shortName": "B. Hamberg"
-          },
-          "venue": {
-            "id": 419,
-            "name": "Borås Arena",
-            "city": "Boras",
-            "country": "Sweden",
-            "capacity": 17800
-          }
-        },
-        "away_team_obj": {
-          "id": 438,
-          "name": "Hammarby IF",
-          "short_name": "Hammarby",
-          "country": "Sweden",
-          "coach": {
-            "name": "Henrik Rydstrom",
-            "shortName": "H. Rydstrom"
-          },
-          "venue": null
-        },
-        "event_date": "2026-07-05T17:30:00+03:00",
-        "round_number": 11,
-        "round_name": "",
-        "group_name": null,
-        "status": "notstarted",
-        "home_score": null,
-        "away_score": null,
-        "home_score_ht": null,
-        "away_score_ht": null,
-        "current_minute": null,
-        "period": "",
-        "odds_home": 3.86,
-        "odds_draw": 3.7,
-        "odds_away": 1.85,
-        "odds_over_15": 1.19,
-        "odds_over_25": 1.66,
-        "odds_over_35": 2.59,
-        "odds_under_15": 4.22,
-        "odds_under_25": 2.15,
-        "odds_under_35": 1.45,
-        "odds_btts_yes": 1.6,
-        "odds_btts_no": 2.23,
-        "actual_home_xg": null,
-        "actual_away_xg": null,
-        "home_xg_live": null,
-        "away_xg_live": null,
-        "penalty_shootout": null,
-        "extra_time_score": null,
-        "is_local_derby": false,
-        "is_neutral_ground": null,
-        "travel_distance_km": 346,
-        "weather_code": 1,
-        "wind_speed": 18.7,
-        "temperature_c": 27,
-        "pitch_condition": null,
-        "attendance": null,
-        "referee": {
-          "id": 1793,
-          "name": "Richard Sundell",
-          "country": "Sweden",
-          "nationality_a3": "",
-          "birthdate": null,
-          "yellowCards": 472,
-          "redCards": 11,
-          "career_games": 146,
-          "career_yellow_cards": 472,
-          "career_red_cards": 11
-        },
-        "home_coach": {
-          "id": 590,
-          "name": "Björn Hamberg",
-          "short_name": "B. Hamberg",
-          "country": "Sweden",
-          "profile": "balanced",
-          "preferred_formation": "3-4-3",
-          "pressing_intensity": 0.5064039947617488,
-          "defensive_line": "mid",
-          "top_styles": [
-            "cross_pray",
-            "wing_play"
-          ]
-        },
-        "away_coach": {
-          "id": 334,
-          "name": "Henrik Rydstrom",
-          "short_name": "H. Rydstrom",
-          "country": "Sweden",
-          "profile": "balanced",
-          "preferred_formation": "3-4-2-1",
-          "pressing_intensity": 0.39777169585365246,
-          "defensive_line": "mid",
-          "top_styles": [
-            "positional",
-            "inverted_fb"
-          ]
-        },
-        "unavailable_players": {
-          "home": [
-            {
-              "name": "Sebastian Holmén",
-              "status": "suspended",
-              "reason": "yellow_card_accumulation_suspension",
-              "expected_return": "2026-07-05"
-            }
-          ],
-          "away": [
-            {
-              "name": "Sourou Koné",
-              "status": "injured",
-              "reason": "Knee Injury",
-              "expected_return": "2026-09-10"
-            }
-          ]
-        },
-        "venue": {
-          "id": 419,
-          "name": "Borås Arena",
-          "city": "Boras",
-          "country": "Sweden",
-          "capacity": 17800,
-          "latitude": 57.735556,
-          "longitude": 12.935278,
-          "pitch_x": 105,
-          "pitch_y": 68,
-          "built_year": 2005
-        },
-        "live_stats": null,
-        "jerseys": {
-          "away": {
-            "GK": {
-              "base": "287109",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "fafafa"
-            },
-            "player": {
-              "base": "ffffff",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "008000",
-              "sleeve": "008000",
-              "sleevelong": "ffffff"
-            }
-          },
-          "home": {
-            "GK": {
-              "base": "6bdf44",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "6bdf44"
-            },
-            "player": {
-              "base": "e6d21b",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "000000",
-              "sleeve": "000000"
-            }
-          }
-        },
-        "funfacts": [
-          {
-            "type_id": 24,
-            "sentence": "Elfsborg's home record this season: 3-3-0."
-          },
-          {
-            "type_id": 1,
-            "sentence": "Elfsborg haven't lost in their last 7 games."
-          },
-          {
-            "type_id": 1,
-            "sentence": "Elfsborg haven't lost in any of their last 8 home matches."
-          }
-        ],
-        "sr_stats": null,
-        "ai_preview": {
-          "text": "**Elfsborg are drawing machines, and Hammarby just got walloped** — this is a clash between a team that won't lose and a side bleeding form 🔴\n\nElfsborg haven't tasted defeat in five (1W, 4D), though they're allergic to finishing teams off. Hammarby, meanwhile, are spiraling with three losses in their last five and got battered 3-2 at home by Häcken. The H2H leans heavily Hammarby's way historically, but form tells a different story.\n\nKey storylines:\n\n- **Elfsborg's defensive wall vs. Hammarby's attacking desperation** — can T. Silverholt and J. Magnusson break down a rattled side?\n- **S. Olsson and S. Hedlund controlling the midfield** — Elfsborg's tempo setters face a Hammarby unit missing S. Koné\n- **M. Kaboré leading Hammarby's counter** — their one real offensive threat if they can nick possession\n\nExpected lineups:\n\n- **IF Elfsborg**: I. Pettersson, T. Isherwood, R. Wikström, N. Hult, S. Olsson, J. Beck, T. Silverholt, L. Östman\n- **Hammarby IF**: W. Hahn, N. Persson, V. Eriksson, H. Skoglund, M. Karlsson, P. Abraham, M. Madjed, M. Kaboré\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction: **2-1 Elfsborg**. They finally break through a fragile Hammarby defense.",
-          "generated_at": "2026-07-05T00:45:36.075142+00:00"
-        },
-        "live_websocket": true,
-        "home_form": {
-          "calculated_at": "2026-07-05",
-          "matches_played": 5,
-          "form_string": "DDDDW",
-          "wins": 1,
-          "draws": 4,
-          "losses": 0,
-          "points_last_n": 7,
-          "goals_scored_last_n": 7,
-          "goals_conceded_last_n": 5,
-          "avg_xg": 0.9127599999999999,
-          "avg_xg_conceded": 0.6885800000000002,
-          "avg_shots": 11.6,
-          "avg_shots_on_target": 4.2,
-          "avg_key_passes": 8.8,
-          "goal_conversion_rate": 1.533809544677681,
-          "defensive_efficiency": -0.4522640797002524,
-          "clean_sheets": 1,
-          "avg_pass_accuracy": 81.82773315929154,
-          "duel_win_rate": 0.5127659574468085,
-          "aerial_win_rate": 0.5491803278688525,
-          "avg_fouls": 9.2,
-          "avg_yellow_cards": 1.4,
-          "home_ppg": 1.8,
-          "away_ppg": 1.2,
-          "home_goals_scored": 7,
-          "home_goals_conceded": 4,
-          "away_goals_scored": 7,
-          "away_goals_conceded": 7,
-          "avg_team_rating": 6.866583333333334
-        },
-        "away_form": {
-          "calculated_at": "2026-07-05",
-          "matches_played": 5,
-          "form_string": "LLLWW",
-          "wins": 2,
-          "draws": 0,
-          "losses": 3,
-          "points_last_n": 6,
-          "goals_scored_last_n": 8,
-          "goals_conceded_last_n": 8,
-          "avg_xg": 1.5971,
-          "avg_xg_conceded": 1.08612,
-          "avg_shots": 18.2,
-          "avg_shots_on_target": 5.8,
-          "avg_key_passes": 13,
-          "goal_conversion_rate": 1.0018157911214076,
-          "defensive_efficiency": -0.47313372371377005,
-          "clean_sheets": 1,
-          "avg_pass_accuracy": 85.30648727469165,
-          "duel_win_rate": 0.5105042016806722,
-          "aerial_win_rate": 0.5625,
-          "avg_fouls": 10.6,
-          "avg_yellow_cards": 1,
-          "home_ppg": 2,
-          "away_ppg": 0.8,
-          "home_goals_scored": 17,
-          "home_goals_conceded": 5,
-          "away_goals_scored": 4,
-          "away_goals_conceded": 8,
-          "avg_team_rating": 6.8215
-        },
-        "head_to_head": {
-          "total_matches": 6,
-          "home_wins": 1,
-          "draws": 1,
-          "away_wins": 4,
-          "home_goals": 2,
-          "away_goals": 9,
-          "avg_total_goals": 1.8333333333333333,
-          "home_win_rate": 0.16666666666666666,
-          "away_win_rate": 0.6666666666666666,
-          "recent_matches": [
-            {
-              "away": "IF Elfsborg",
-              "date": "2025-11-09T14:00:00+00:00",
-              "home": "Hammarby IF",
-              "score": "3-0"
-            },
-            {
-              "away": "Hammarby IF",
-              "date": "2025-05-31T13:00:00+00:00",
-              "home": "IF Elfsborg",
-              "score": "0-2"
-            },
-            {
-              "away": "Hammarby IF",
-              "date": "2024-09-22T11:00:00+00:00",
-              "home": "IF Elfsborg",
-              "score": "0-0"
-            },
-            {
-              "away": "IF Elfsborg",
-              "date": "2024-04-15T15:10:00+00:00",
-              "home": "Hammarby IF",
-              "score": "3-0"
-            },
-            {
-              "away": "IF Elfsborg",
-              "date": "2023-08-13T11:00:00+00:00",
-              "home": "Hammarby IF",
-              "score": "1-0"
-            },
-            {
-              "away": "Hammarby IF",
-              "date": "2023-07-03T15:00:00+00:00",
-              "home": "IF Elfsborg",
-              "score": "2-0"
-            }
-          ]
-        },
-        "lineups": {
-          "away": {
-            "players": [
-              {
-                "name": "W. Hahn",
-                "goals": 0,
-                "api_id": 152688,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "G",
-                "red_card": false,
-                "player_id": 15939,
-                "yellow_card": false,
-                "jersey_number": "1",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "GK",
-                "positions_detailed": [
-                  "GK"
-                ]
-              },
-              {
-                "name": "H. Skoglund",
-                "goals": 0,
-                "api_id": 1831192,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 15924,
-                "yellow_card": false,
-                "jersey_number": "2",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "RB",
-                "positions_detailed": [
-                  "RB"
-                ]
-              },
-              {
-                "name": "V. Eriksson",
-                "goals": 0,
-                "api_id": 937533,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 15925,
-                "yellow_card": false,
-                "jersey_number": "4",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "CB",
-                "positions_detailed": [
-                  "CB"
-                ]
-              },
-              {
-                "name": "F. Winther",
-                "goals": 0,
-                "api_id": 985738,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 15927,
-                "yellow_card": false,
-                "jersey_number": "3",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "CB",
-                "positions_detailed": [
-                  "CB",
-                  "LB"
-                ]
-              },
-              {
-                "name": "N. Persson",
-                "goals": 0,
-                "api_id": 1104199,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 15937,
-                "yellow_card": false,
-                "jersey_number": "16",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "LB",
-                "positions_detailed": [
-                  "LB",
-                  "LM"
-                ]
-              },
-              {
-                "name": "T. Tekie",
-                "goals": 0,
-                "api_id": 793754,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 15940,
-                "yellow_card": false,
-                "jersey_number": "5",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "CM",
-                "positions_detailed": [
-                  "CM",
-                  "DM"
-                ]
-              },
-              {
-                "name": "M. Karlsson",
-                "goals": 0,
-                "api_id": 1145703,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 15926,
-                "yellow_card": false,
-                "jersey_number": "8",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "CM",
-                "positions_detailed": [
-                  "CM",
-                  "DM"
-                ]
-              },
-              {
-                "name": "V. Lind",
-                "goals": 0,
-                "api_id": 1000496,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 15970,
-                "yellow_card": false,
-                "jersey_number": "9",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "LW",
-                "positions_detailed": [
-                  "LW",
-                  "RW"
-                ]
-              },
-              {
-                "name": "N. Besara",
-                "goals": 0,
-                "api_id": 36077,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 15931,
-                "yellow_card": false,
-                "jersey_number": "20",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "AM",
-                "positions_detailed": [
-                  "AM",
-                  "CM"
-                ]
-              },
-              {
-                "name": "M. Madjed",
-                "goals": 0,
-                "api_id": 1099796,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 15928,
-                "yellow_card": false,
-                "jersey_number": "26",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "RW",
-                "positions_detailed": [
-                  "RW"
-                ]
-              },
-              {
-                "name": "P. Abraham",
-                "goals": 0,
-                "api_id": 1021266,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "F",
-                "red_card": false,
-                "player_id": 15932,
-                "yellow_card": false,
-                "jersey_number": "7",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "LW",
-                "positions_detailed": [
-                  "LW",
-                  "ST"
-                ]
-              }
-            ],
-            "formation": "4-2-3-1",
-            "substitutes": [
-              {
-                "name": "F. Jakobsson",
-                "goals": 0,
-                "api_id": 1014578,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "G",
-                "red_card": false,
-                "player_id": 15923,
-                "yellow_card": false,
-                "jersey_number": "27",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "GK",
-                "positions_detailed": [
-                  "GK"
-                ]
-              },
-              {
-                "name": "I. Fofana",
-                "goals": 0,
-                "api_id": 1069338,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 15933,
-                "yellow_card": false,
-                "jersey_number": "6",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "CM",
-                "positions_detailed": [
-                  "CM",
-                  "CB",
-                  "RB"
-                ]
-              },
-              {
-                "name": "B. Hedlöf",
-                "goals": 0,
-                "api_id": 1841841,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 24799,
-                "yellow_card": false,
-                "jersey_number": "33",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "CB",
-                "positions_detailed": [
-                  "CB"
-                ]
-              },
-              {
-                "name": "O. S. Brånby",
-                "goals": 0,
-                "api_id": 1423249,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 24801,
-                "yellow_card": false,
-                "jersey_number": "31",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "LB",
-                "positions_detailed": [
-                  "LB"
-                ]
-              },
-              {
-                "name": "F. J. Adjei",
-                "goals": 0,
-                "api_id": 1388000,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 15929,
-                "yellow_card": false,
-                "jersey_number": "28",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "CM",
-                "positions_detailed": [
-                  "CM"
-                ]
-              },
-              {
-                "name": "O. Johansson Schellhas",
-                "goals": 0,
-                "api_id": 328151,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 15941,
-                "yellow_card": false,
-                "jersey_number": "11",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "RW",
-                "positions_detailed": [
-                  "RW",
-                  "CM"
-                ]
-              },
-              {
-                "name": "N. Vasic",
-                "goals": 0,
-                "api_id": 911147,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "F",
-                "red_card": false,
-                "player_id": 15938,
-                "yellow_card": false,
-                "jersey_number": "19",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "ST",
-                "positions_detailed": [
-                  "ST"
-                ]
-              },
-              {
-                "name": "M. Kaboré",
-                "goals": 0,
-                "api_id": 1490960,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "F",
-                "red_card": false,
-                "player_id": 15934,
-                "yellow_card": false,
-                "jersey_number": "29",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "ST",
-                "positions_detailed": [
-                  "ST"
-                ]
-              },
-              {
-                "name": "O. J. Hagen",
-                "goals": 0,
-                "api_id": 1467868,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "F",
-                "red_card": false,
-                "player_id": 24796,
-                "yellow_card": false,
-                "jersey_number": "15",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "RW",
-                "positions_detailed": [
-                  "RW"
-                ]
-              }
-            ]
-          },
-          "home": {
-            "players": [
-              {
-                "name": "I. Pettersson",
-                "goals": 0,
-                "api_id": 837153,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "G",
-                "red_card": false,
-                "player_id": 15942,
-                "yellow_card": false,
-                "jersey_number": "31",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "GK",
-                "positions_detailed": [
-                  "GK"
-                ]
-              },
-              {
-                "name": "R. Wikström",
-                "goals": 0,
-                "api_id": 918516,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 15945,
-                "yellow_card": false,
-                "jersey_number": "6",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "CB",
-                "positions_detailed": [
-                  "CB",
-                  "RB"
-                ]
-              },
-              {
-                "name": "R. Mohammed",
-                "goals": 0,
-                "api_id": 1882599,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 16123,
-                "yellow_card": false,
-                "jersey_number": "2",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "CB",
-                "positions_detailed": [
-                  "CB"
-                ]
-              },
-              {
-                "name": "T. Isherwood",
-                "goals": 0,
-                "api_id": 791928,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 16002,
-                "yellow_card": false,
-                "jersey_number": "4",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "CB",
-                "positions_detailed": [
-                  "CB",
-                  "LB"
-                ]
-              },
-              {
-                "name": "N. Hult",
-                "goals": 0,
-                "api_id": 49866,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 15946,
-                "yellow_card": false,
-                "jersey_number": "23",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "LB",
-                "positions_detailed": [
-                  "LB",
-                  "LM"
-                ]
-              },
-              {
-                "name": "J. Magnusson",
-                "goals": 0,
-                "api_id": 788947,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 15948,
-                "yellow_card": false,
-                "jersey_number": "18",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DM",
-                "positions_detailed": [
-                  "DM",
-                  "CM"
-                ]
-              },
-              {
-                "name": "S. Olsson",
-                "goals": 0,
-                "api_id": 850851,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 15949,
-                "yellow_card": false,
-                "jersey_number": "10",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "CM",
-                "positions_detailed": [
-                  "CM",
-                  "DM"
-                ]
-              },
-              {
-                "name": "M. I. Kamara",
-                "goals": 0,
-                "api_id": 2138619,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 24885,
-                "yellow_card": false,
-                "jersey_number": "29",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "AM",
-                "positions_detailed": [
-                  "AM"
-                ]
-              },
-              {
-                "name": "J. Beck",
-                "goals": 0,
-                "api_id": 1098541,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 2982,
-                "yellow_card": false,
-                "jersey_number": "19",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "CM",
-                "positions_detailed": [
-                  "CM"
-                ]
-              },
-              {
-                "name": "A. Zeneli",
-                "goals": 0,
-                "api_id": 227892,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 15953,
-                "yellow_card": false,
-                "jersey_number": "9",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "LW",
-                "positions_detailed": [
-                  "LW"
-                ]
-              },
-              {
-                "name": "L. Östman",
-                "goals": 0,
-                "api_id": 1800434,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "F",
-                "red_card": false,
-                "player_id": 15955,
-                "yellow_card": false,
-                "jersey_number": "21",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "RW",
-                "positions_detailed": [
-                  "RW"
-                ]
-              }
-            ],
-            "formation": "4-2-3-1",
-            "substitutes": [
-              {
-                "name": "T. Erlandsson",
-                "goals": 0,
-                "api_id": 358708,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "G",
-                "red_card": false,
-                "player_id": 16018,
-                "yellow_card": false,
-                "jersey_number": "1",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "GK",
-                "positions_detailed": [
-                  "GK"
-                ]
-              },
-              {
-                "name": "F. Aronsson",
-                "goals": 0,
-                "api_id": 1882634,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 15958,
-                "yellow_card": false,
-                "jersey_number": "28",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "O. V. Okeke",
-                "goals": 0,
-                "api_id": 2067013,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 16306,
-                "yellow_card": false,
-                "jersey_number": "27",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "A. Hellemaa",
-                "goals": 0,
-                "api_id": 1200382,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 16182,
-                "yellow_card": false,
-                "jersey_number": "16",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DM",
-                "positions_detailed": [
-                  "DM"
-                ]
-              },
-              {
-                "name": "G. Rapp",
-                "goals": 0,
-                "api_id": 1149094,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 15956,
-                "yellow_card": false,
-                "jersey_number": "20",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "LW",
-                "positions_detailed": [
-                  "LW"
-                ]
-              },
-              {
-                "name": "F. Ihler",
-                "goals": 0,
-                "api_id": 1035693,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "F",
-                "red_card": false,
-                "player_id": 15954,
-                "yellow_card": false,
-                "jersey_number": "24",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "ST",
-                "positions_detailed": [
-                  "ST"
-                ]
-              },
-              {
-                "name": "A. Sigurpálsson",
-                "goals": 0,
-                "api_id": 990395,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "F",
-                "red_card": false,
-                "player_id": 15960,
-                "yellow_card": false,
-                "jersey_number": "25",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "LW",
-                "positions_detailed": [
-                  "LW"
-                ]
-              },
-              {
-                "name": "T. Silverholt",
-                "goals": 0,
-                "api_id": 981043,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "F",
-                "red_card": false,
-                "player_id": 15950,
-                "yellow_card": false,
-                "jersey_number": "11",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "ST",
-                "positions_detailed": [
-                  "ST"
-                ]
-              },
-              {
-                "name": "D. Krasniqi",
-                "goals": 0,
-                "api_id": 1383715,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "F",
-                "red_card": false,
-                "player_id": 24884,
-                "yellow_card": false,
-                "jersey_number": "22",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "ST",
-                "positions_detailed": [
-                  "ST"
-                ]
-              }
-            ]
-          },
-          "confirmed": true
-        },
-        "social": []
-      },
-      "managers": {
-        "home": {
-          "id": 590,
-          "name": "Björn Hamberg",
-          "short_name": "B. Hamberg",
-          "country": "Sweden",
-          "current_team": {
-            "id": 440,
-            "name": "IF Elfsborg"
-          },
-          "preferred_formation": "3-4-3",
-          "formations_used": {
-            "3-4-3": 20,
-            "3-5-2": 1,
-            "4-4-2": 6,
-            "5-3-2": 3,
-            "5-4-1": 1,
-            "3-4-2-1": 2,
-            "4-2-3-1": 8
-          },
-          "profile": "balanced",
-          "team_style": "neutral",
-          "pressing_intensity": 0.5064039947617488,
-          "defensive_line": "mid",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "cross_pray",
-              "name": "Cross & Pray",
-              "category": "wide",
-              "emoji": "🙏",
-              "description": "High-volume hopeful crosses into the box",
-              "score": 0.092
-            },
-            {
-              "rank": 2,
-              "code": "wing_play",
-              "name": "Wing Play",
-              "category": "wide",
-              "emoji": "🪽",
-              "description": "Attacks focused through wide areas",
-              "score": 0.065
-            },
-            {
-              "rank": 3,
-              "code": "half_space",
-              "name": "Half-Space",
-              "category": "wide",
-              "emoji": "◐",
-              "description": "Attacks through channels beside the penalty box",
-              "score": 0.064
-            },
-            {
-              "rank": 4,
-              "code": "territory",
-              "name": "Territory Control",
-              "category": "possession",
-              "emoji": "🗺",
-              "description": "Pin opponent deep rather than shoot often",
-              "score": 0.057
-            }
-          ],
-          "matches_total": 41,
-          "wins": 16,
-          "draws": 10,
-          "losses": 15,
-          "win_pct": 39,
-          "avg_goals_scored": 1.49,
-          "avg_goals_conceded": 1.51,
-          "avg_possession": 48.11,
-          "avg_shots": 11.89,
-          "avg_shots_on_target": 4.06,
-          "avg_xg_for": 1.54,
-          "avg_xg_against": 1.49,
-          "avg_corners": 5.14,
-          "avg_yellow_cards": 1.93,
-          "avg_red_cards": 0.02,
-          "avg_fouls": 13.2,
-          "clean_sheet_pct": 22,
-          "btts_pct": 53.7,
-          "over_25_pct": 56.1,
-          "over_15_pct": 87.8,
-          "fail_to_score_pct": 26.8,
-          "avg_goals_scored_1h": 0.51,
-          "avg_goals_conceded_1h": 0.78
-        },
-        "away": {
-          "id": 334,
-          "name": "Henrik Rydstrom",
-          "short_name": "H. Rydstrom",
-          "country": "Sweden",
-          "current_team": {
-            "id": 438,
-            "name": "Hammarby IF"
-          },
-          "preferred_formation": "3-4-2-1",
-          "formations_used": {
-            "3-4-3": 3,
-            "5-3-2": 1,
-            "5-4-1": 1,
-            "3-1-4-2": 1,
-            "3-4-1-2": 1,
-            "3-4-2-1": 10,
-            "3-5-1-1": 2
-          },
-          "profile": "balanced",
-          "team_style": "soft",
-          "pressing_intensity": 0.39777169585365246,
-          "defensive_line": "mid",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "positional",
-              "name": "Positional Play",
-              "category": "possession",
-              "emoji": "♟",
-              "description": "Zone occupation and overloads",
-              "score": 0.125
-            },
-            {
-              "rank": 2,
-              "code": "inverted_fb",
-              "name": "Inverted Fullbacks",
-              "category": "possession",
-              "emoji": "↩",
-              "description": "Fullbacks step into midfield to overload centre",
-              "score": 0.118
-            },
-            {
-              "rank": 3,
-              "code": "tiki_taka",
-              "name": "Tiki-Taka",
-              "category": "possession",
-              "emoji": "🎨",
-              "description": "Short passing, domination via possession",
-              "score": 0.107
-            },
-            {
-              "rank": 4,
-              "code": "territory",
-              "name": "Territory Control",
-              "category": "possession",
-              "emoji": "🗺",
-              "description": "Pin opponent deep rather than shoot often",
-              "score": 0.103
-            }
-          ],
-          "matches_total": 19,
-          "wins": 9,
-          "draws": 6,
-          "losses": 4,
-          "win_pct": 47.4,
-          "avg_goals_scored": 1.58,
-          "avg_goals_conceded": 1.32,
-          "avg_possession": 59.42,
-          "avg_shots": 12.05,
-          "avg_shots_on_target": 4.32,
-          "avg_xg_for": 1.52,
-          "avg_xg_against": 1.24,
-          "avg_corners": 4.58,
-          "avg_yellow_cards": 1.32,
-          "avg_red_cards": 0,
-          "avg_fouls": 10.32,
-          "clean_sheet_pct": 21.1,
-          "btts_pct": 68.4,
-          "over_25_pct": 52.6,
-          "over_15_pct": 73.7,
-          "fail_to_score_pct": 21.1,
-          "avg_goals_scored_1h": 0.89,
-          "avg_goals_conceded_1h": 0.89
-        }
-      }
-    },
     {
       "event_id": 215486,
       "prediction": {
@@ -2931,15 +612,15 @@
           "period": "",
           "odds_home": 1.51,
           "odds_draw": 3.64,
-          "odds_away": 5.91,
-          "odds_over_15": 1.3,
-          "odds_over_25": 1.95,
-          "odds_over_35": 3.37,
-          "odds_under_15": 3.14,
+          "odds_away": 5.89,
+          "odds_over_15": 1.29,
+          "odds_over_25": 1.94,
+          "odds_over_35": 3.34,
+          "odds_under_15": 3.16,
           "odds_under_25": 1.76,
-          "odds_under_35": 1.26,
-          "odds_btts_yes": 2.04,
-          "odds_btts_no": 1.68,
+          "odds_under_35": 1.27,
+          "odds_btts_yes": 2.03,
+          "odds_btts_no": 1.69,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -3123,15 +804,15 @@
         "period": "",
         "odds_home": 1.51,
         "odds_draw": 3.64,
-        "odds_away": 5.91,
-        "odds_over_15": 1.3,
-        "odds_over_25": 1.95,
-        "odds_over_35": 3.37,
-        "odds_under_15": 3.14,
+        "odds_away": 5.89,
+        "odds_over_15": 1.29,
+        "odds_over_25": 1.94,
+        "odds_over_35": 3.34,
+        "odds_under_15": 3.16,
         "odds_under_25": 1.76,
-        "odds_under_35": 1.26,
-        "odds_btts_yes": 2.04,
-        "odds_btts_no": 1.68,
+        "odds_under_35": 1.27,
+        "odds_btts_yes": 2.03,
+        "odds_btts_no": 1.69,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -4106,9 +1787,9 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 6.66,
-          "odds_draw": 3.83,
-          "odds_away": 1.43,
+          "odds_home": 6.58,
+          "odds_draw": 3.84,
+          "odds_away": 1.44,
           "odds_over_15": 1.34,
           "odds_over_25": 2.07,
           "odds_over_35": 3.67,
@@ -4309,9 +1990,9 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 6.66,
-        "odds_draw": 3.83,
-        "odds_away": 1.43,
+        "odds_home": 6.58,
+        "odds_draw": 3.84,
+        "odds_away": 1.44,
         "odds_over_15": 1.34,
         "odds_over_25": 2.07,
         "odds_over_35": 3.67,
@@ -4740,16 +2421,16 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.25,
-          "odds_draw": 2.94,
-          "odds_away": 3.07,
-          "odds_over_15": 1.37,
-          "odds_over_25": 2.18,
-          "odds_over_35": 3.89,
-          "odds_under_15": 2.75,
-          "odds_under_25": 1.6,
-          "odds_under_35": 1.2,
-          "odds_btts_yes": 1.9,
+          "odds_home": 2.23,
+          "odds_draw": 2.95,
+          "odds_away": 3.1,
+          "odds_over_15": 1.36,
+          "odds_over_25": 2.16,
+          "odds_over_35": 3.85,
+          "odds_under_15": 2.79,
+          "odds_under_25": 1.61,
+          "odds_under_35": 1.21,
+          "odds_btts_yes": 1.89,
           "odds_btts_no": 1.8,
           "actual_home_xg": null,
           "actual_away_xg": null,
@@ -4947,16 +2628,16 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.25,
-        "odds_draw": 2.94,
-        "odds_away": 3.07,
-        "odds_over_15": 1.37,
-        "odds_over_25": 2.18,
-        "odds_over_35": 3.89,
-        "odds_under_15": 2.75,
-        "odds_under_25": 1.6,
-        "odds_under_35": 1.2,
-        "odds_btts_yes": 1.9,
+        "odds_home": 2.23,
+        "odds_draw": 2.95,
+        "odds_away": 3.1,
+        "odds_over_15": 1.36,
+        "odds_over_25": 2.16,
+        "odds_over_35": 3.85,
+        "odds_under_15": 2.79,
+        "odds_under_25": 1.61,
+        "odds_under_35": 1.21,
+        "odds_btts_yes": 1.89,
         "odds_btts_no": 1.8,
         "actual_home_xg": null,
         "actual_away_xg": null,
@@ -5383,17 +3064,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.26,
-          "odds_draw": 3.22,
-          "odds_away": 2.8,
-          "odds_over_15": 1.29,
+          "odds_home": 2.11,
+          "odds_draw": 3.26,
+          "odds_away": 3.04,
+          "odds_over_15": 1.28,
           "odds_over_25": 1.93,
           "odds_over_35": 3.26,
           "odds_under_15": 3.21,
           "odds_under_25": 1.77,
           "odds_under_35": 1.27,
-          "odds_btts_yes": 1.74,
-          "odds_btts_no": 1.96,
+          "odds_btts_yes": 1.75,
+          "odds_btts_no": 1.95,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -5563,17 +3244,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.26,
-        "odds_draw": 3.22,
-        "odds_away": 2.8,
-        "odds_over_15": 1.29,
+        "odds_home": 2.11,
+        "odds_draw": 3.26,
+        "odds_away": 3.04,
+        "odds_over_15": 1.28,
         "odds_over_25": 1.93,
         "odds_over_35": 3.26,
         "odds_under_15": 3.21,
         "odds_under_25": 1.77,
         "odds_under_35": 1.27,
-        "odds_btts_yes": 1.74,
-        "odds_btts_no": 1.96,
+        "odds_btts_yes": 1.75,
+        "odds_btts_no": 1.95,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -5934,17 +3615,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.88,
-          "odds_draw": 3.01,
-          "odds_away": 4.1,
-          "odds_over_15": 1.38,
-          "odds_over_25": 2.21,
-          "odds_over_35": 3.87,
-          "odds_under_15": 2.76,
+          "odds_home": 1.94,
+          "odds_draw": 3,
+          "odds_away": 3.84,
+          "odds_over_15": 1.37,
+          "odds_over_25": 2.19,
+          "odds_over_35": 3.85,
+          "odds_under_15": 2.78,
           "odds_under_25": 1.58,
           "odds_under_35": 1.21,
-          "odds_btts_yes": 1.96,
-          "odds_btts_no": 1.73,
+          "odds_btts_yes": 1.95,
+          "odds_btts_no": 1.74,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -6131,17 +3812,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.88,
-        "odds_draw": 3.01,
-        "odds_away": 4.1,
-        "odds_over_15": 1.38,
-        "odds_over_25": 2.21,
-        "odds_over_35": 3.87,
-        "odds_under_15": 2.76,
+        "odds_home": 1.94,
+        "odds_draw": 3,
+        "odds_away": 3.84,
+        "odds_over_15": 1.37,
+        "odds_over_25": 2.19,
+        "odds_over_35": 3.85,
+        "odds_under_15": 2.78,
         "odds_under_25": 1.58,
         "odds_under_35": 1.21,
-        "odds_btts_yes": 1.96,
-        "odds_btts_no": 1.73,
+        "odds_btts_yes": 1.95,
+        "odds_btts_no": 1.74,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -6567,17 +4248,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.34,
-          "odds_draw": 4.17,
-          "odds_away": 8.34,
-          "odds_over_15": 1.28,
-          "odds_over_25": 1.89,
-          "odds_over_35": 3.2,
-          "odds_under_15": 3.26,
-          "odds_under_25": 1.81,
-          "odds_under_35": 1.29,
-          "odds_btts_yes": 2.28,
-          "odds_btts_no": 1.55,
+          "odds_home": 1.33,
+          "odds_draw": 4.29,
+          "odds_away": 8.28,
+          "odds_over_15": 1.26,
+          "odds_over_25": 1.83,
+          "odds_over_35": 3.03,
+          "odds_under_15": 3.43,
+          "odds_under_25": 1.86,
+          "odds_under_35": 1.32,
+          "odds_btts_yes": 2.19,
+          "odds_btts_no": 1.59,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -6623,6 +4304,12 @@
           },
           "unavailable_players": {
             "home": [
+              {
+                "name": "Abdelfettah Hadraf",
+                "status": "suspended",
+                "reason": "yellow_card_accumulation_suspension",
+                "expected_return": "2026-07-05"
+              },
               {
                 "name": "Youssef El Fahli",
                 "status": "injured",
@@ -6791,17 +4478,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.34,
-        "odds_draw": 4.17,
-        "odds_away": 8.34,
-        "odds_over_15": 1.28,
-        "odds_over_25": 1.89,
-        "odds_over_35": 3.2,
-        "odds_under_15": 3.26,
-        "odds_under_25": 1.81,
-        "odds_under_35": 1.29,
-        "odds_btts_yes": 2.28,
-        "odds_btts_no": 1.55,
+        "odds_home": 1.33,
+        "odds_draw": 4.29,
+        "odds_away": 8.28,
+        "odds_over_15": 1.26,
+        "odds_over_25": 1.83,
+        "odds_over_35": 3.03,
+        "odds_under_15": 3.43,
+        "odds_under_25": 1.86,
+        "odds_under_35": 1.32,
+        "odds_btts_yes": 2.19,
+        "odds_btts_no": 1.59,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -6847,6 +4534,12 @@
         },
         "unavailable_players": {
           "home": [
+            {
+              "name": "Abdelfettah Hadraf",
+              "status": "suspended",
+              "reason": "yellow_card_accumulation_suspension",
+              "expected_return": "2026-07-05"
+            },
             {
               "name": "Youssef El Fahli",
               "status": "injured",
@@ -7245,17 +4938,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.8,
-          "odds_draw": 3.66,
-          "odds_away": 4.48,
-          "odds_over_15": 1.21,
+          "odds_home": 1.78,
+          "odds_draw": 3.7,
+          "odds_away": 4.53,
+          "odds_over_15": 1.2,
           "odds_over_25": 1.68,
-          "odds_over_35": 2.62,
-          "odds_under_15": 4.24,
-          "odds_under_25": 2.15,
+          "odds_over_35": 2.61,
+          "odds_under_15": 4.27,
+          "odds_under_25": 2.16,
           "odds_under_35": 1.46,
-          "odds_btts_yes": 1.61,
-          "odds_btts_no": 2.23,
+          "odds_btts_yes": 1.62,
+          "odds_btts_no": 2.22,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -7375,10 +5068,7 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": {
-            "text": "**Brazil's rolling, Norway's chasing — this should be a mismatch on paper.** Seleção are cruising through qualification with four wins in five, while the Norwegians have shown they can beat anyone but also lose to anyone. 🔥\n\nBrazil are running hot without dropping points recently, even on the road. Norway scraped past Senegal but got dismantled by France — consistency isn't their thing.\n\nKey storylines:\n\n- **Vinícius Jr. and G. Martinelli** lead a Brazil attack that's been clinical, but Norway's back line has proven vulnerable to pace and movement\n- **A. Sørloth and E. Haaland** give Norway genuine aerial and counter-punch threats; they've scored in all three wins\n- Brazil's midfield (**B. Guimarães**, **Rayan**, **L. Henrique**) should control tempo, but missing **Raphinha** and **L. Paquetá** to injury stings the depth\n\nExpected lineups:\n\n- **Brazil**: Alisson, D. Santos, Marquinhos, G. Magalhães, Danilo, B. Guimarães, Rayan, L. Henrique, Vinícius Jr., M. Cunha, G. Martinelli\n- **Norway**: Ø. Nyland, K. Ajer, D. M. Wolfe, L. Østigård, T. Heggem, S. Berge, P. Berg, O. Bobb, A. Sørloth, E. Haaland, A. Nusa\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**Brazil 2–1 Norway.** Brazil's slight home edge and form advantage should hold; expect one scrappy Norwegian goal on the counter. ⚽",
-            "generated_at": "2026-07-05T13:45:22.875797+00:00"
-          },
+          "ai_preview": null,
           "live_websocket": true
         },
         "created_at": "2026-07-01T05:20:24.256782+03:00",
@@ -7465,17 +5155,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.8,
-        "odds_draw": 3.66,
-        "odds_away": 4.48,
-        "odds_over_15": 1.21,
+        "odds_home": 1.78,
+        "odds_draw": 3.7,
+        "odds_away": 4.53,
+        "odds_over_15": 1.2,
         "odds_over_25": 1.68,
-        "odds_over_35": 2.62,
-        "odds_under_15": 4.24,
-        "odds_under_25": 2.15,
+        "odds_over_35": 2.61,
+        "odds_under_15": 4.27,
+        "odds_under_25": 2.16,
         "odds_under_35": 1.46,
-        "odds_btts_yes": 1.61,
-        "odds_btts_no": 2.23,
+        "odds_btts_yes": 1.62,
+        "odds_btts_no": 2.22,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -7589,10 +5279,7 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": {
-          "text": "**Brazil's rolling, Norway's chasing — this should be a mismatch on paper.** Seleção are cruising through qualification with four wins in five, while the Norwegians have shown they can beat anyone but also lose to anyone. 🔥\n\nBrazil are running hot without dropping points recently, even on the road. Norway scraped past Senegal but got dismantled by France — consistency isn't their thing.\n\nKey storylines:\n\n- **Vinícius Jr. and G. Martinelli** lead a Brazil attack that's been clinical, but Norway's back line has proven vulnerable to pace and movement\n- **A. Sørloth and E. Haaland** give Norway genuine aerial and counter-punch threats; they've scored in all three wins\n- Brazil's midfield (**B. Guimarães**, **Rayan**, **L. Henrique**) should control tempo, but missing **Raphinha** and **L. Paquetá** to injury stings the depth\n\nExpected lineups:\n\n- **Brazil**: Alisson, D. Santos, Marquinhos, G. Magalhães, Danilo, B. Guimarães, Rayan, L. Henrique, Vinícius Jr., M. Cunha, G. Martinelli\n- **Norway**: Ø. Nyland, K. Ajer, D. M. Wolfe, L. Østigård, T. Heggem, S. Berge, P. Berg, O. Bobb, A. Sørloth, E. Haaland, A. Nusa\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**Brazil 2–1 Norway.** Brazil's slight home edge and form advantage should hold; expect one scrappy Norwegian goal on the counter. ⚽",
-          "generated_at": "2026-07-05T13:45:22.875797+00:00"
-        },
+        "ai_preview": null,
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-07-05",
@@ -8544,13 +6231,13 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.25,
-          "odds_draw": 2.93,
-          "odds_away": 3.42,
+          "odds_home": 2.27,
+          "odds_draw": 2.94,
+          "odds_away": 3.39,
           "odds_over_15": 1.45,
           "odds_over_25": 2.4,
           "odds_over_35": 4.44,
-          "odds_under_15": 2.6,
+          "odds_under_15": 2.59,
           "odds_under_25": 1.53,
           "odds_under_35": 1.18,
           "odds_btts_yes": 2,
@@ -8776,13 +6463,13 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.25,
-        "odds_draw": 2.93,
-        "odds_away": 3.42,
+        "odds_home": 2.27,
+        "odds_draw": 2.94,
+        "odds_away": 3.39,
         "odds_over_15": 1.45,
         "odds_over_25": 2.4,
         "odds_over_35": 4.44,
-        "odds_under_15": 2.6,
+        "odds_under_15": 2.59,
         "odds_under_25": 1.53,
         "odds_under_35": 1.18,
         "odds_btts_yes": 2,
@@ -9212,14 +6899,14 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 3.13,
-          "odds_draw": 3.14,
-          "odds_away": 2.42,
+          "odds_home": 3.1,
+          "odds_draw": 3.13,
+          "odds_away": 2.45,
           "odds_over_15": 1.42,
           "odds_over_25": 2.31,
-          "odds_over_35": 4.27,
+          "odds_over_35": 4.28,
           "odds_under_15": 2.77,
-          "odds_under_25": 1.61,
+          "odds_under_25": 1.6,
           "odds_under_35": 1.21,
           "odds_btts_yes": 1.96,
           "odds_btts_no": 1.79,
@@ -9346,10 +7033,7 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": {
-            "text": "**Mexico are on a perfect run at home, and England's defense has some shaky moments to exploit** 🔥 The Azteca crowd will be absolutely raging — this is the kind of stage where clinical finishing wins it.\n\nMexico's 5-0 tear (including that demolition of Czechia) shows they're sharp in the final third. England have the talent but that 0-0 stalemate vs Ghana hints at vulnerability, and their back line — even with solid names — can be caught out on the counter.\n\nKey storylines:\n\n- **R. Alvarado and C. Rodríguez** spearheading Mexico's attack against an England defense that's given up clean sheets in only 3 of their last 5\n- **J. Bellingham** tasked with controlling the midfield tempo; if he's neutralized, England lose their creative spark\n- Mexico's home fortress: Estadio Azteca is a fortress, and England have historically struggled in this pressure cooker\n\nExpected lineups:\n\n- **Mexico**: R. Rangel, J. Gallardo, J. Gómez, E. López, B. Gutiérrez, Á. Fidalgo, A. Gutiérrez, C. Rodríguez, E. Álvarez, R. Alvarado\n- **England**: J. Pickford, E. Konsa, N. O'Reilly, M. Guéhi, T. Livramento, J. Bellingham, D. Rice, H. Kane, M. Rogers, M. Rashford, N. Madueke\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Mexico 2–1 England**. Mexico's form and home edge tip the scales; expect a tight, tactical affair that stays below 3.5.",
-            "generated_at": "2026-07-05T13:45:29.318172+00:00"
-          },
+          "ai_preview": null,
           "live_websocket": true
         },
         "created_at": "2026-07-02T05:20:29.751230+03:00",
@@ -9436,14 +7120,14 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 3.13,
-        "odds_draw": 3.14,
-        "odds_away": 2.42,
+        "odds_home": 3.1,
+        "odds_draw": 3.13,
+        "odds_away": 2.45,
         "odds_over_15": 1.42,
         "odds_over_25": 2.31,
-        "odds_over_35": 4.27,
+        "odds_over_35": 4.28,
         "odds_under_15": 2.77,
-        "odds_under_25": 1.61,
+        "odds_under_25": 1.6,
         "odds_under_35": 1.21,
         "odds_btts_yes": 1.96,
         "odds_btts_no": 1.79,
@@ -9564,10 +7248,7 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": {
-          "text": "**Mexico are on a perfect run at home, and England's defense has some shaky moments to exploit** 🔥 The Azteca crowd will be absolutely raging — this is the kind of stage where clinical finishing wins it.\n\nMexico's 5-0 tear (including that demolition of Czechia) shows they're sharp in the final third. England have the talent but that 0-0 stalemate vs Ghana hints at vulnerability, and their back line — even with solid names — can be caught out on the counter.\n\nKey storylines:\n\n- **R. Alvarado and C. Rodríguez** spearheading Mexico's attack against an England defense that's given up clean sheets in only 3 of their last 5\n- **J. Bellingham** tasked with controlling the midfield tempo; if he's neutralized, England lose their creative spark\n- Mexico's home fortress: Estadio Azteca is a fortress, and England have historically struggled in this pressure cooker\n\nExpected lineups:\n\n- **Mexico**: R. Rangel, J. Gallardo, J. Gómez, E. López, B. Gutiérrez, Á. Fidalgo, A. Gutiérrez, C. Rodríguez, E. Álvarez, R. Alvarado\n- **England**: J. Pickford, E. Konsa, N. O'Reilly, M. Guéhi, T. Livramento, J. Bellingham, D. Rice, H. Kane, M. Rogers, M. Rashford, N. Madueke\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Mexico 2–1 England**. Mexico's form and home edge tip the scales; expect a tight, tactical affair that stays below 3.5.",
-          "generated_at": "2026-07-05T13:45:29.318172+00:00"
-        },
+        "ai_preview": null,
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-07-05",
@@ -9875,17 +7556,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.46,
+          "odds_home": 2.45,
           "odds_draw": 3.58,
-          "odds_away": 2.59,
+          "odds_away": 2.6,
           "odds_over_15": 1.15,
           "odds_over_25": 1.52,
-          "odds_over_35": 2.28,
-          "odds_under_15": 4.87,
+          "odds_over_35": 2.29,
+          "odds_under_15": 4.9,
           "odds_under_25": 2.39,
           "odds_under_35": 1.58,
           "odds_btts_yes": 1.45,
-          "odds_btts_no": 2.58,
+          "odds_btts_no": 2.59,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -10133,17 +7814,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.46,
+        "odds_home": 2.45,
         "odds_draw": 3.58,
-        "odds_away": 2.59,
+        "odds_away": 2.6,
         "odds_over_15": 1.15,
         "odds_over_25": 1.52,
-        "odds_over_35": 2.28,
-        "odds_under_15": 4.87,
+        "odds_over_35": 2.29,
+        "odds_under_15": 4.9,
         "odds_under_25": 2.39,
         "odds_under_35": 1.58,
         "odds_btts_yes": 1.45,
-        "odds_btts_no": 2.58,
+        "odds_btts_no": 2.59,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -10642,15 +8323,15 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 3.23,
-          "odds_draw": 3.38,
-          "odds_away": 2.15,
+          "odds_home": 3.19,
+          "odds_draw": 3.39,
+          "odds_away": 2.16,
           "odds_over_15": 1.26,
           "odds_over_25": 1.83,
-          "odds_over_35": 3.03,
-          "odds_under_15": 3.58,
+          "odds_over_35": 3.01,
+          "odds_under_15": 3.59,
           "odds_under_25": 1.9,
-          "odds_under_35": 1.34,
+          "odds_under_35": 1.35,
           "odds_btts_yes": 1.68,
           "odds_btts_no": 2.08,
           "actual_home_xg": null,
@@ -10870,15 +8551,15 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 3.23,
-        "odds_draw": 3.38,
-        "odds_away": 2.15,
+        "odds_home": 3.19,
+        "odds_draw": 3.39,
+        "odds_away": 2.16,
         "odds_over_15": 1.26,
         "odds_over_25": 1.83,
-        "odds_over_35": 3.03,
-        "odds_under_15": 3.58,
+        "odds_over_35": 3.01,
+        "odds_under_15": 3.59,
         "odds_under_25": 1.9,
-        "odds_under_35": 1.34,
+        "odds_under_35": 1.35,
         "odds_btts_yes": 1.68,
         "odds_btts_no": 2.08,
         "actual_home_xg": null,
@@ -11320,17 +9001,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 3.92,
-          "odds_draw": 3.59,
+          "odds_home": 3.93,
+          "odds_draw": 3.6,
           "odds_away": 1.92,
-          "odds_over_15": 1.25,
-          "odds_over_25": 1.8,
-          "odds_over_35": 2.94,
-          "odds_under_15": 3.78,
-          "odds_under_25": 1.98,
-          "odds_under_35": 1.38,
-          "odds_btts_yes": 1.68,
-          "odds_btts_no": 2.1,
+          "odds_over_15": 1.24,
+          "odds_over_25": 1.76,
+          "odds_over_35": 2.85,
+          "odds_under_15": 3.92,
+          "odds_under_25": 2.04,
+          "odds_under_35": 1.4,
+          "odds_btts_yes": 1.65,
+          "odds_btts_no": 2.15,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -11522,17 +9203,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 3.92,
-        "odds_draw": 3.59,
+        "odds_home": 3.93,
+        "odds_draw": 3.6,
         "odds_away": 1.92,
-        "odds_over_15": 1.25,
-        "odds_over_25": 1.8,
-        "odds_over_35": 2.94,
-        "odds_under_15": 3.78,
-        "odds_under_25": 1.98,
-        "odds_under_35": 1.38,
-        "odds_btts_yes": 1.68,
-        "odds_btts_no": 2.1,
+        "odds_over_15": 1.24,
+        "odds_over_25": 1.76,
+        "odds_over_35": 2.85,
+        "odds_under_15": 3.92,
+        "odds_under_25": 2.04,
+        "odds_under_35": 1.4,
+        "odds_btts_yes": 1.65,
+        "odds_btts_no": 2.15,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -11960,13 +9641,13 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.86,
-          "odds_draw": 3.2,
-          "odds_away": 4.37,
+          "odds_home": 1.89,
+          "odds_draw": 3.15,
+          "odds_away": 4.29,
           "odds_over_15": 1.41,
-          "odds_over_25": 2.28,
-          "odds_over_35": 4.17,
-          "odds_under_15": 2.73,
+          "odds_over_25": 2.29,
+          "odds_over_35": 4.18,
+          "odds_under_15": 2.72,
           "odds_under_25": 1.58,
           "odds_under_35": 1.2,
           "odds_btts_yes": 2.04,
@@ -12185,13 +9866,13 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.86,
-        "odds_draw": 3.2,
-        "odds_away": 4.37,
+        "odds_home": 1.89,
+        "odds_draw": 3.15,
+        "odds_away": 4.29,
         "odds_over_15": 1.41,
-        "odds_over_25": 2.28,
-        "odds_over_35": 4.17,
-        "odds_under_15": 2.73,
+        "odds_over_25": 2.29,
+        "odds_over_35": 4.18,
+        "odds_under_15": 2.72,
         "odds_under_25": 1.58,
         "odds_under_35": 1.2,
         "odds_btts_yes": 2.04,
@@ -12617,16 +10298,16 @@
           "current_minute": null,
           "period": "",
           "odds_home": 1.99,
-          "odds_draw": 3.18,
+          "odds_draw": 3.16,
           "odds_away": 3.81,
-          "odds_over_15": 1.37,
-          "odds_over_25": 2.15,
-          "odds_over_35": 3.83,
-          "odds_under_15": 2.89,
-          "odds_under_25": 1.65,
-          "odds_under_35": 1.23,
-          "odds_btts_yes": 1.91,
-          "odds_btts_no": 1.81,
+          "odds_over_15": 1.38,
+          "odds_over_25": 2.17,
+          "odds_over_35": 3.9,
+          "odds_under_15": 2.85,
+          "odds_under_25": 1.64,
+          "odds_under_35": 1.22,
+          "odds_btts_yes": 1.92,
+          "odds_btts_no": 1.79,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -12845,16 +10526,16 @@
         "current_minute": null,
         "period": "",
         "odds_home": 1.99,
-        "odds_draw": 3.18,
+        "odds_draw": 3.16,
         "odds_away": 3.81,
-        "odds_over_15": 1.37,
-        "odds_over_25": 2.15,
-        "odds_over_35": 3.83,
-        "odds_under_15": 2.89,
-        "odds_under_25": 1.65,
-        "odds_under_35": 1.23,
-        "odds_btts_yes": 1.91,
-        "odds_btts_no": 1.81,
+        "odds_over_15": 1.38,
+        "odds_over_25": 2.17,
+        "odds_over_35": 3.9,
+        "odds_under_15": 2.85,
+        "odds_under_25": 1.64,
+        "odds_under_35": 1.22,
+        "odds_btts_yes": 1.92,
+        "odds_btts_no": 1.79,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -13270,17 +10951,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.69,
-          "odds_draw": 3.34,
+          "odds_home": 2.67,
+          "odds_draw": 3.36,
           "odds_away": 2.62,
-          "odds_over_15": 1.22,
-          "odds_over_25": 1.74,
-          "odds_over_35": 2.74,
-          "odds_under_15": 4.05,
-          "odds_under_25": 2.07,
-          "odds_under_35": 1.43,
-          "odds_btts_yes": 1.57,
-          "odds_btts_no": 2.31,
+          "odds_over_15": 1.21,
+          "odds_over_25": 1.7,
+          "odds_over_35": 2.66,
+          "odds_under_15": 4.2,
+          "odds_under_25": 2.13,
+          "odds_under_35": 1.45,
+          "odds_btts_yes": 1.53,
+          "odds_btts_no": 2.37,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -13478,17 +11159,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.69,
-        "odds_draw": 3.34,
+        "odds_home": 2.67,
+        "odds_draw": 3.36,
         "odds_away": 2.62,
-        "odds_over_15": 1.22,
-        "odds_over_25": 1.74,
-        "odds_over_35": 2.74,
-        "odds_under_15": 4.05,
-        "odds_under_25": 2.07,
-        "odds_under_35": 1.43,
-        "odds_btts_yes": 1.57,
-        "odds_btts_no": 2.31,
+        "odds_over_15": 1.21,
+        "odds_over_25": 1.7,
+        "odds_over_35": 2.66,
+        "odds_under_15": 4.2,
+        "odds_under_25": 2.13,
+        "odds_under_35": 1.45,
+        "odds_btts_yes": 1.53,
+        "odds_btts_no": 2.37,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -13908,17 +11589,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 3.5,
-          "odds_draw": 4.11,
-          "odds_away": 1.76,
+          "odds_home": 3.82,
+          "odds_draw": 4.25,
+          "odds_away": 1.65,
           "odds_over_15": 1.04,
-          "odds_over_25": 1.28,
-          "odds_over_35": 1.74,
+          "odds_over_25": 1.27,
+          "odds_over_35": 1.73,
           "odds_under_15": 7.1,
-          "odds_under_25": 3.19,
-          "odds_under_35": 1.95,
-          "odds_btts_yes": 1.31,
-          "odds_btts_no": 3.07,
+          "odds_under_25": 3.25,
+          "odds_under_35": 1.97,
+          "odds_btts_yes": 1.33,
+          "odds_btts_no": 2.99,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -14055,17 +11736,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 3.5,
-        "odds_draw": 4.11,
-        "odds_away": 1.76,
+        "odds_home": 3.82,
+        "odds_draw": 4.25,
+        "odds_away": 1.65,
         "odds_over_15": 1.04,
-        "odds_over_25": 1.28,
-        "odds_over_35": 1.74,
+        "odds_over_25": 1.27,
+        "odds_over_35": 1.73,
         "odds_under_15": 7.1,
-        "odds_under_25": 3.19,
-        "odds_under_35": 1.95,
-        "odds_btts_yes": 1.31,
-        "odds_btts_no": 3.07,
+        "odds_under_25": 3.25,
+        "odds_under_35": 1.97,
+        "odds_btts_yes": 1.33,
+        "odds_btts_no": 2.99,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -14929,8 +12610,8 @@
           "odds_under_15": 3.55,
           "odds_under_25": 1.88,
           "odds_under_35": 1.3,
-          "odds_btts_yes": 2.32,
-          "odds_btts_no": 1.52,
+          "odds_btts_yes": 2.37,
+          "odds_btts_no": 1.51,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -15104,8 +12785,8 @@
         "odds_under_15": 3.55,
         "odds_under_25": 1.88,
         "odds_under_35": 1.3,
-        "odds_btts_yes": 2.32,
-        "odds_btts_no": 1.52,
+        "odds_btts_yes": 2.37,
+        "odds_btts_no": 1.51,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -15363,16 +13044,16 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.39,
-          "odds_draw": 4.61,
-          "odds_away": 8.62,
-          "odds_over_15": 1.31,
-          "odds_over_25": 1.98,
-          "odds_over_35": 3.45,
-          "odds_under_15": 3.29,
-          "odds_under_25": 1.8,
-          "odds_under_35": 1.29,
-          "odds_btts_yes": 2.33,
+          "odds_home": 1.4,
+          "odds_draw": 4.56,
+          "odds_away": 8.57,
+          "odds_over_15": 1.32,
+          "odds_over_25": 1.99,
+          "odds_over_35": 3.49,
+          "odds_under_15": 3.26,
+          "odds_under_25": 1.78,
+          "odds_under_35": 1.28,
+          "odds_btts_yes": 2.34,
           "odds_btts_no": 1.55,
           "actual_home_xg": null,
           "actual_away_xg": null,
@@ -15566,16 +13247,16 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.39,
-        "odds_draw": 4.61,
-        "odds_away": 8.62,
-        "odds_over_15": 1.31,
-        "odds_over_25": 1.98,
-        "odds_over_35": 3.45,
-        "odds_under_15": 3.29,
-        "odds_under_25": 1.8,
-        "odds_under_35": 1.29,
-        "odds_btts_yes": 2.33,
+        "odds_home": 1.4,
+        "odds_draw": 4.56,
+        "odds_away": 8.57,
+        "odds_over_15": 1.32,
+        "odds_over_25": 1.99,
+        "odds_over_35": 3.49,
+        "odds_under_15": 3.26,
+        "odds_under_25": 1.78,
+        "odds_under_35": 1.28,
+        "odds_btts_yes": 2.34,
         "odds_btts_no": 1.55,
         "actual_home_xg": null,
         "actual_away_xg": null,
@@ -15971,9 +13652,9 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 3.52,
-          "odds_draw": 3.08,
-          "odds_away": 2.24,
+          "odds_home": 3.5,
+          "odds_draw": 3.06,
+          "odds_away": 2.26,
           "odds_over_15": 1.43,
           "odds_over_25": 2.35,
           "odds_over_35": 4.3,
@@ -16162,9 +13843,9 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 3.52,
-        "odds_draw": 3.08,
-        "odds_away": 2.24,
+        "odds_home": 3.5,
+        "odds_draw": 3.06,
+        "odds_away": 2.26,
         "odds_over_15": 1.43,
         "odds_over_25": 2.35,
         "odds_over_35": 4.3,
@@ -16577,7 +14258,7 @@
           "period": "",
           "odds_home": 2.41,
           "odds_draw": 2.91,
-          "odds_away": 3.12,
+          "odds_away": 3.13,
           "odds_over_15": 1.47,
           "odds_over_25": 2.43,
           "odds_over_35": 4.63,
@@ -16757,7 +14438,7 @@
         "period": "",
         "odds_home": 2.41,
         "odds_draw": 2.91,
-        "odds_away": 3.12,
+        "odds_away": 3.13,
         "odds_over_15": 1.47,
         "odds_over_25": 2.43,
         "odds_over_35": 4.63,
@@ -17135,9 +14816,9 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.96,
-          "odds_draw": 3.43,
-          "odds_away": 3.41,
+          "odds_home": 1.95,
+          "odds_draw": 3.42,
+          "odds_away": 3.4,
           "odds_over_15": 1.3,
           "odds_over_25": 1.93,
           "odds_over_35": 3.32,
@@ -17326,9 +15007,9 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.96,
-        "odds_draw": 3.43,
-        "odds_away": 3.41,
+        "odds_home": 1.95,
+        "odds_draw": 3.42,
+        "odds_away": 3.4,
         "odds_over_15": 1.3,
         "odds_over_25": 1.93,
         "odds_over_35": 3.32,
@@ -17735,12 +15416,12 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 4.78,
-          "odds_draw": 3.36,
+          "odds_home": 4.81,
+          "odds_draw": 3.37,
           "odds_away": 1.74,
           "odds_over_15": 1.37,
-          "odds_over_25": 2.14,
-          "odds_over_35": 3.81,
+          "odds_over_25": 2.15,
+          "odds_over_35": 3.82,
           "odds_under_15": 2.85,
           "odds_under_25": 1.64,
           "odds_under_35": 1.22,
@@ -17937,12 +15618,12 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 4.78,
-        "odds_draw": 3.36,
+        "odds_home": 4.81,
+        "odds_draw": 3.37,
         "odds_away": 1.74,
         "odds_over_15": 1.37,
-        "odds_over_25": 2.14,
-        "odds_over_35": 3.81,
+        "odds_over_25": 2.15,
+        "odds_over_35": 3.82,
         "odds_under_15": 2.85,
         "odds_under_25": 1.64,
         "odds_under_35": 1.22,
@@ -30231,7 +27912,7 @@
                 "name": "Mads Juhl Kikkenborg",
                 "status": "injured",
                 "reason": "Achilles Tendon Injury",
-                "expected_return": "2026-07-20"
+                "expected_return": null
               }
             ]
           },
@@ -30462,7 +28143,7 @@
               "name": "Mads Juhl Kikkenborg",
               "status": "injured",
               "reason": "Achilles Tendon Injury",
-              "expected_return": "2026-07-20"
+              "expected_return": null
             }
           ]
         },
@@ -61468,12 +59149,6 @@
             ],
             "away": [
               {
-                "name": "Cristian Pavón",
-                "status": "injured",
-                "reason": "Hamstring",
-                "expected_return": null
-              },
-              {
                 "name": "Gabriel Grando",
                 "status": "injured",
                 "reason": "Broken Finger",
@@ -61684,12 +59359,6 @@
             }
           ],
           "away": [
-            {
-              "name": "Cristian Pavón",
-              "status": "injured",
-              "reason": "Hamstring",
-              "expected_return": null
-            },
             {
               "name": "Gabriel Grando",
               "status": "injured",
@@ -75218,7 +72887,7 @@
                 "name": "Mads Juhl Kikkenborg",
                 "status": "injured",
                 "reason": "Achilles Tendon Injury",
-                "expected_return": "2026-07-20"
+                "expected_return": null
               }
             ],
             "away": [
@@ -75478,7 +73147,7 @@
               "name": "Mads Juhl Kikkenborg",
               "status": "injured",
               "reason": "Achilles Tendon Injury",
-              "expected_return": "2026-07-20"
+              "expected_return": null
             }
           ],
           "away": [
@@ -87003,9 +84672,9 @@
           "is_local_derby": false,
           "is_neutral_ground": null,
           "travel_distance_km": 361,
-          "weather_code": 53,
-          "wind_speed": null,
-          "temperature_c": null,
+          "weather_code": 80,
+          "wind_speed": 16.1,
+          "temperature_c": 21,
           "pitch_condition": null,
           "attendance": null,
           "referee": null,
@@ -87196,9 +84865,9 @@
         "is_local_derby": false,
         "is_neutral_ground": null,
         "travel_distance_km": 361,
-        "weather_code": 53,
-        "wind_speed": null,
-        "temperature_c": null,
+        "weather_code": 80,
+        "wind_speed": 16.1,
+        "temperature_c": 21,
         "pitch_condition": null,
         "attendance": null,
         "referee": null,
@@ -108036,7 +105705,14 @@
                 "expected_return": null
               }
             ],
-            "away": []
+            "away": [
+              {
+                "name": "James Rodríguez",
+                "status": "doubtful",
+                "reason": "Virus",
+                "expected_return": "2026-07-20"
+              }
+            ]
           },
           "venue": {
             "id": 287,
@@ -108216,7 +105892,14 @@
               "expected_return": null
             }
           ],
-          "away": []
+          "away": [
+            {
+              "name": "James Rodríguez",
+              "status": "doubtful",
+              "reason": "Virus",
+              "expected_return": "2026-07-20"
+            }
+          ]
         },
         "venue": {
           "id": 287,
@@ -116335,12 +114018,6 @@
             "home": [],
             "away": [
               {
-                "name": "Cristian Pavón",
-                "status": "injured",
-                "reason": "Hamstring",
-                "expected_return": null
-              },
-              {
                 "name": "Gabriel Grando",
                 "status": "injured",
                 "reason": "Broken Finger",
@@ -116529,12 +114206,6 @@
         "unavailable_players": {
           "home": [],
           "away": [
-            {
-              "name": "Cristian Pavón",
-              "status": "injured",
-              "reason": "Hamstring",
-              "expected_return": null
-            },
             {
               "name": "Gabriel Grando",
               "status": "injured",
@@ -143249,7 +140920,14 @@
             ]
           },
           "unavailable_players": {
-            "home": [],
+            "home": [
+              {
+                "name": "James Rodríguez",
+                "status": "doubtful",
+                "reason": "Virus",
+                "expected_return": "2026-07-20"
+              }
+            ],
             "away": [
               {
                 "name": "Belal Halbouni",
@@ -143453,7 +141131,14 @@
           ]
         },
         "unavailable_players": {
-          "home": [],
+          "home": [
+            {
+              "name": "James Rodríguez",
+              "status": "doubtful",
+              "reason": "Virus",
+              "expected_return": "2026-07-20"
+            }
+          ],
           "away": [
             {
               "name": "Belal Halbouni",
@@ -158644,7 +156329,7 @@
                 "name": "Mads Juhl Kikkenborg",
                 "status": "injured",
                 "reason": "Achilles Tendon Injury",
-                "expected_return": "2026-07-20"
+                "expected_return": null
               }
             ]
           },
@@ -158849,7 +156534,7 @@
               "name": "Mads Juhl Kikkenborg",
               "status": "injured",
               "reason": "Achilles Tendon Injury",
-              "expected_return": "2026-07-20"
+              "expected_return": null
             }
           ]
         },
@@ -163018,12 +160703,6 @@
           "unavailable_players": {
             "home": [
               {
-                "name": "Cristian Pavón",
-                "status": "injured",
-                "reason": "Hamstring",
-                "expected_return": null
-              },
-              {
                 "name": "Gabriel Grando",
                 "status": "injured",
                 "reason": "Broken Finger",
@@ -163234,12 +160913,6 @@
         },
         "unavailable_players": {
           "home": [
-            {
-              "name": "Cristian Pavón",
-              "status": "injured",
-              "reason": "Hamstring",
-              "expected_return": null
-            },
             {
               "name": "Gabriel Grando",
               "status": "injured",
@@ -168101,12 +165774,6 @@
             ],
             "away": [
               {
-                "name": "Cristian Pavón",
-                "status": "injured",
-                "reason": "Hamstring",
-                "expected_return": null
-              },
-              {
                 "name": "Gabriel Grando",
                 "status": "injured",
                 "reason": "Broken Finger",
@@ -168335,12 +166002,6 @@
             }
           ],
           "away": [
-            {
-              "name": "Cristian Pavón",
-              "status": "injured",
-              "reason": "Hamstring",
-              "expected_return": null
-            },
             {
               "name": "Gabriel Grando",
               "status": "injured",
@@ -176008,12 +173669,6 @@
           "unavailable_players": {
             "home": [
               {
-                "name": "Cristian Pavón",
-                "status": "injured",
-                "reason": "Hamstring",
-                "expected_return": null
-              },
-              {
                 "name": "Gabriel Grando",
                 "status": "injured",
                 "reason": "Broken Finger",
@@ -176202,12 +173857,6 @@
         },
         "unavailable_players": {
           "home": [
-            {
-              "name": "Cristian Pavón",
-              "status": "injured",
-              "reason": "Hamstring",
-              "expected_return": null
-            },
             {
               "name": "Gabriel Grando",
               "status": "injured",
