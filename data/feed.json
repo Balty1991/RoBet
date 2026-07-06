@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-06T20:56:00.033Z",
+  "generated_at": "2026-07-06T22:21:45.927Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -8,9 +8,9 @@
     "managers_endpoint": "/managers/?team_id={id}"
   },
   "summary": {
-    "total_matches": 290,
+    "total_matches": 288,
     "total_leagues": 14,
-    "average_confidence": 49.37412452662252,
+    "average_confidence": 49.46574117576475,
     "favorite_recommend": 0,
     "over_15_recommend": 0,
     "over_25_recommend": 0,
@@ -19,1386 +19,6 @@
     "winner_recommend": 0
   },
   "items": [
-    {
-      "event_id": 10005,
-      "prediction": {
-        "id": 4958,
-        "event": {
-          "id": 10005,
-          "league": {
-            "id": 34,
-            "name": "Brasileirão Serie B",
-            "country": "Brazil",
-            "is_women": false,
-            "current_season": {
-              "id": 52,
-              "name": "Brasileiro Serie B 2026",
-              "year": 2026,
-              "start_date": "2026-01-01",
-              "end_date": "2026-12-31"
-            }
-          },
-          "season": {
-            "id": 52,
-            "name": "Brasileiro Serie B 2026",
-            "year": 2026
-          },
-          "home_team": "Botafogo-SP",
-          "away_team": "Avaí",
-          "home_team_obj": {
-            "id": 927,
-            "name": "Botafogo-SP",
-            "short_name": "Botafogo-SP",
-            "country": "Brazil",
-            "coach": {
-              "name": "Cláudio Tencati",
-              "shortName": "C. Tencati"
-            },
-            "venue": {
-              "id": 707,
-              "name": "Estádio Santa Cruz",
-              "city": "Ribeirao Preto",
-              "country": "Brazil",
-              "capacity": 29292
-            }
-          },
-          "away_team_obj": {
-            "id": 860,
-            "name": "Avaí",
-            "short_name": "Avaí",
-            "country": "Brazil",
-            "coach": {
-              "name": "Cauan",
-              "shortName": "Cauan"
-            },
-            "venue": {
-              "id": 651,
-              "name": "Estádio da Ressacada",
-              "city": "Florianópolis",
-              "country": "Brazil",
-              "capacity": 17800
-            }
-          },
-          "event_date": "2026-07-07T01:00:00+03:00",
-          "round_number": 16,
-          "round_name": "",
-          "group_name": null,
-          "status": "notstarted",
-          "home_score": null,
-          "away_score": null,
-          "home_score_ht": null,
-          "away_score_ht": null,
-          "current_minute": null,
-          "period": "",
-          "odds_home": 1.71,
-          "odds_draw": 3.35,
-          "odds_away": 5.25,
-          "odds_over_15": 1.38,
-          "odds_over_25": 2.21,
-          "odds_over_35": 3.99,
-          "odds_under_15": 2.83,
-          "odds_under_25": 1.62,
-          "odds_under_35": 1.21,
-          "odds_btts_yes": 2.08,
-          "odds_btts_no": 1.68,
-          "actual_home_xg": null,
-          "actual_away_xg": null,
-          "home_xg_live": null,
-          "away_xg_live": null,
-          "penalty_shootout": null,
-          "extra_time_score": null,
-          "is_local_derby": false,
-          "is_neutral_ground": null,
-          "travel_distance_km": 724,
-          "weather_code": 0,
-          "wind_speed": 10.7,
-          "temperature_c": 19,
-          "pitch_condition": null,
-          "attendance": null,
-          "referee": {
-            "id": 2377,
-            "name": "Jodis Nascimento de Souza",
-            "country": "Brazil",
-            "nationality_a3": "",
-            "birthdate": null,
-            "yellowCards": 13,
-            "redCards": 0,
-            "career_games": 2,
-            "career_yellow_cards": 13,
-            "career_red_cards": 0
-          },
-          "home_coach": {
-            "id": 133,
-            "name": "Cláudio Tencati",
-            "short_name": "C. Tencati",
-            "country": "Brazil",
-            "profile": "balanced",
-            "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.6396735448196746,
-            "defensive_line": "mid",
-            "top_styles": [
-              "set_piece",
-              "cross_pray"
-            ]
-          },
-          "away_coach": {
-            "id": 151,
-            "name": "Cauan",
-            "short_name": "Cauan",
-            "country": "Brazil",
-            "profile": "balanced",
-            "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.5674541553325074,
-            "defensive_line": "high",
-            "top_styles": [
-              "anti_football",
-              "terrorist_fb"
-            ]
-          },
-          "unavailable_players": {
-            "home": [
-              {
-                "name": "Carlão",
-                "status": "injured",
-                "reason": "LCL Knee Injury",
-                "expected_return": "2027-01-01"
-              }
-            ],
-            "away": []
-          },
-          "venue": {
-            "id": 707,
-            "name": "Estádio Santa Cruz",
-            "city": "Ribeirao Preto",
-            "country": "Brazil",
-            "capacity": 29292,
-            "latitude": -21.2025,
-            "longitude": -47.789167,
-            "pitch_x": null,
-            "pitch_y": null,
-            "built_year": null
-          },
-          "incidents": null,
-          "live_stats": null,
-          "lineups": null,
-          "shotmap": null,
-          "momentum": null,
-          "xg_per_minute": null,
-          "average_positions": null,
-          "jerseys": {
-            "away": {
-              "GK": {
-                "base": "ebf430",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "0700cc"
-              },
-              "player": {
-                "base": "0157a0",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "013ba0"
-              }
-            },
-            "home": {
-              "GK": {
-                "base": "ff80dc",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "ff3300"
-              },
-              "player": {
-                "base": "ffffff",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "000000",
-                "sleeve": "ff0000",
-                "sleevelong": "ffffff"
-              }
-            }
-          },
-          "funfacts": [
-            {
-              "type_id": 25,
-              "sentence": "Everton Morelli Casimiro is Botafogo's top scorer with 6 goals. Walace Franca has scored 3 times for Avai."
-            },
-            {
-              "type_id": 26,
-              "sentence": "A year ago, Avai were number 4 in the table with 24 points. Now they are number 18 with 13 points."
-            },
-            {
-              "type_id": 1,
-              "sentence": "Avai haven't won any of their last 6 away matches."
-            }
-          ],
-          "sr_stats": null,
-          "ai_preview": {
-            "text": "**Botafogo-SP's looking to keep the momentum rolling, but Avaí is desperately hunting form** — the visitors have won just once in five and can't afford another slip in the race. 🔥\n\nBotafogo-SP are the clear favorites here on their recent bounce, with back-to-back wins lifting the mood. Avaí, though, are fragile — four losses in their last five is a rough patch, and they'll need to tighten up defensively fast.\n\nKey storylines:\n\n- **Botafogo-SP's attacking trio** of Kelvin, M. Sales, and Hygor have been clicking; they'll aim to punish a leaky Avaí backline\n- **Avaí's desperation defense** — missing consistency at the back, they can't give Botafogo easy chances in midfield\n- **Missing Carlão** is a blow for Botafogo-SP's defense, but P. Brey and Gabriel Inocêncio should hold the line\n\nExpected lineups:\n\n- **Botafogo-SP**: V. Souza, Vilar, P. Brey, Gabriel Inocêncio, Wallace, E. Morelli, R. Gava, Kelvin, M. Sales, Hygor, Z. Hugo\n- **Avaí**: L. Aragão, D. Teixeira, Allyson, G. Aquino, Wesley Gasolina, L. Henrique, Z. Ricardo, J. Lucas, D. Penha, T. Roberth, L. Gamalho\n\nBest picks:\n\n- **Total Goals Under 3.5**: Both teams have defensive issues, but a tight midfield duel and Avaí's conservative approach should keep this lean\n\nPrediction:\n\n**Botafogo-SP 1–0 Avaí** — coin flip on the result, but the hosts edge it at home with Avaí's form in freefall. ⚽",
-            "generated_at": "2026-07-06T02:45:48.695624+00:00"
-          },
-          "live_websocket": true
-        },
-        "created_at": "2026-06-02T13:53:53.472367+03:00",
-        "prob_home_win": 36.6253168758898,
-        "prob_draw": 36.847161785137104,
-        "prob_away_win": 26.52752133897309,
-        "predicted_result": "D",
-        "expected_home_goals": 1.3119125,
-        "expected_away_goals": 1.01309,
-        "prob_over_15": 68.99060900084277,
-        "prob_over_25": 41.288689551295164,
-        "prob_over_35": 17.552081483453307,
-        "prob_btts_yes": 47.60988597548745,
-        "confidence": 36.847161785137104,
-        "model_version": "v5.0",
-        "most_likely_score": "1-1",
-        "favorite": "H",
-        "favorite_prob": 36.6253168758898,
-        "favorite_recommend": false,
-        "over_15_recommend": false,
-        "over_25_recommend": false,
-        "over_35_recommend": false,
-        "btts_recommend": false,
-        "winner_recommend": false
-      },
-      "event_detail": {
-        "id": 10005,
-        "league": {
-          "id": 34,
-          "name": "Brasileirão Serie B",
-          "country": "Brazil",
-          "is_women": false,
-          "current_season": {
-            "id": 52,
-            "name": "Brasileiro Serie B 2026",
-            "year": 2026,
-            "start_date": "2026-01-01",
-            "end_date": "2026-12-31"
-          }
-        },
-        "season": {
-          "id": 52,
-          "name": "Brasileiro Serie B 2026",
-          "year": 2026
-        },
-        "home_team": "Botafogo-SP",
-        "away_team": "Avaí",
-        "home_team_obj": {
-          "id": 927,
-          "name": "Botafogo-SP",
-          "short_name": "Botafogo-SP",
-          "country": "Brazil",
-          "coach": {
-            "name": "Cláudio Tencati",
-            "shortName": "C. Tencati"
-          },
-          "venue": {
-            "id": 707,
-            "name": "Estádio Santa Cruz",
-            "city": "Ribeirao Preto",
-            "country": "Brazil",
-            "capacity": 29292
-          }
-        },
-        "away_team_obj": {
-          "id": 860,
-          "name": "Avaí",
-          "short_name": "Avaí",
-          "country": "Brazil",
-          "coach": {
-            "name": "Cauan",
-            "shortName": "Cauan"
-          },
-          "venue": {
-            "id": 651,
-            "name": "Estádio da Ressacada",
-            "city": "Florianópolis",
-            "country": "Brazil",
-            "capacity": 17800
-          }
-        },
-        "event_date": "2026-07-07T01:00:00+03:00",
-        "round_number": 16,
-        "round_name": "",
-        "group_name": null,
-        "status": "notstarted",
-        "home_score": null,
-        "away_score": null,
-        "home_score_ht": null,
-        "away_score_ht": null,
-        "current_minute": null,
-        "period": "",
-        "odds_home": 1.71,
-        "odds_draw": 3.35,
-        "odds_away": 5.25,
-        "odds_over_15": 1.38,
-        "odds_over_25": 2.21,
-        "odds_over_35": 3.99,
-        "odds_under_15": 2.83,
-        "odds_under_25": 1.62,
-        "odds_under_35": 1.21,
-        "odds_btts_yes": 2.08,
-        "odds_btts_no": 1.68,
-        "actual_home_xg": null,
-        "actual_away_xg": null,
-        "home_xg_live": null,
-        "away_xg_live": null,
-        "penalty_shootout": null,
-        "extra_time_score": null,
-        "is_local_derby": false,
-        "is_neutral_ground": null,
-        "travel_distance_km": 724,
-        "weather_code": 0,
-        "wind_speed": 10.7,
-        "temperature_c": 19,
-        "pitch_condition": null,
-        "attendance": null,
-        "referee": {
-          "id": 2377,
-          "name": "Jodis Nascimento de Souza",
-          "country": "Brazil",
-          "nationality_a3": "",
-          "birthdate": null,
-          "yellowCards": 13,
-          "redCards": 0,
-          "career_games": 2,
-          "career_yellow_cards": 13,
-          "career_red_cards": 0
-        },
-        "home_coach": {
-          "id": 133,
-          "name": "Cláudio Tencati",
-          "short_name": "C. Tencati",
-          "country": "Brazil",
-          "profile": "balanced",
-          "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.6396735448196746,
-          "defensive_line": "mid",
-          "top_styles": [
-            "set_piece",
-            "cross_pray"
-          ]
-        },
-        "away_coach": {
-          "id": 151,
-          "name": "Cauan",
-          "short_name": "Cauan",
-          "country": "Brazil",
-          "profile": "balanced",
-          "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.5674541553325074,
-          "defensive_line": "high",
-          "top_styles": [
-            "anti_football",
-            "terrorist_fb"
-          ]
-        },
-        "unavailable_players": {
-          "home": [
-            {
-              "name": "Carlão",
-              "status": "injured",
-              "reason": "LCL Knee Injury",
-              "expected_return": "2027-01-01"
-            }
-          ],
-          "away": []
-        },
-        "venue": {
-          "id": 707,
-          "name": "Estádio Santa Cruz",
-          "city": "Ribeirao Preto",
-          "country": "Brazil",
-          "capacity": 29292,
-          "latitude": -21.2025,
-          "longitude": -47.789167,
-          "pitch_x": null,
-          "pitch_y": null,
-          "built_year": null
-        },
-        "live_stats": null,
-        "jerseys": {
-          "away": {
-            "GK": {
-              "base": "ebf430",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "0700cc"
-            },
-            "player": {
-              "base": "0157a0",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "013ba0"
-            }
-          },
-          "home": {
-            "GK": {
-              "base": "ff80dc",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "ff3300"
-            },
-            "player": {
-              "base": "ffffff",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "000000",
-              "sleeve": "ff0000",
-              "sleevelong": "ffffff"
-            }
-          }
-        },
-        "funfacts": [
-          {
-            "type_id": 25,
-            "sentence": "Everton Morelli Casimiro is Botafogo's top scorer with 6 goals. Walace Franca has scored 3 times for Avai."
-          },
-          {
-            "type_id": 26,
-            "sentence": "A year ago, Avai were number 4 in the table with 24 points. Now they are number 18 with 13 points."
-          },
-          {
-            "type_id": 1,
-            "sentence": "Avai haven't won any of their last 6 away matches."
-          }
-        ],
-        "sr_stats": null,
-        "ai_preview": {
-          "text": "**Botafogo-SP's looking to keep the momentum rolling, but Avaí is desperately hunting form** — the visitors have won just once in five and can't afford another slip in the race. 🔥\n\nBotafogo-SP are the clear favorites here on their recent bounce, with back-to-back wins lifting the mood. Avaí, though, are fragile — four losses in their last five is a rough patch, and they'll need to tighten up defensively fast.\n\nKey storylines:\n\n- **Botafogo-SP's attacking trio** of Kelvin, M. Sales, and Hygor have been clicking; they'll aim to punish a leaky Avaí backline\n- **Avaí's desperation defense** — missing consistency at the back, they can't give Botafogo easy chances in midfield\n- **Missing Carlão** is a blow for Botafogo-SP's defense, but P. Brey and Gabriel Inocêncio should hold the line\n\nExpected lineups:\n\n- **Botafogo-SP**: V. Souza, Vilar, P. Brey, Gabriel Inocêncio, Wallace, E. Morelli, R. Gava, Kelvin, M. Sales, Hygor, Z. Hugo\n- **Avaí**: L. Aragão, D. Teixeira, Allyson, G. Aquino, Wesley Gasolina, L. Henrique, Z. Ricardo, J. Lucas, D. Penha, T. Roberth, L. Gamalho\n\nBest picks:\n\n- **Total Goals Under 3.5**: Both teams have defensive issues, but a tight midfield duel and Avaí's conservative approach should keep this lean\n\nPrediction:\n\n**Botafogo-SP 1–0 Avaí** — coin flip on the result, but the hosts edge it at home with Avaí's form in freefall. ⚽",
-          "generated_at": "2026-07-06T02:45:48.695624+00:00"
-        },
-        "live_websocket": true,
-        "home_form": {
-          "calculated_at": "2026-07-06",
-          "matches_played": 5,
-          "form_string": "LWWLD",
-          "wins": 2,
-          "draws": 1,
-          "losses": 2,
-          "points_last_n": 7,
-          "goals_scored_last_n": 3,
-          "goals_conceded_last_n": 3,
-          "avg_xg": 1.2996599999999998,
-          "avg_xg_conceded": 0.67782,
-          "avg_shots": 16.6,
-          "avg_shots_on_target": 4.2,
-          "avg_key_passes": 12.2,
-          "goal_conversion_rate": 0.46165920317621534,
-          "defensive_efficiency": 0.11480924139151982,
-          "clean_sheets": 2,
-          "avg_pass_accuracy": 81.35746046421228,
-          "duel_win_rate": 0.49236641221374045,
-          "aerial_win_rate": 0.5276073619631901,
-          "avg_fouls": 16.2,
-          "avg_yellow_cards": 2.6,
-          "home_ppg": 1,
-          "away_ppg": 0.8,
-          "home_goals_scored": 5,
-          "home_goals_conceded": 6,
-          "away_goals_scored": 1,
-          "away_goals_conceded": 3,
-          "avg_team_rating": 6.832740196078431
-        },
-        "away_form": {
-          "calculated_at": "2026-07-06",
-          "matches_played": 5,
-          "form_string": "LWLLL",
-          "wins": 1,
-          "draws": 0,
-          "losses": 4,
-          "points_last_n": 3,
-          "goals_scored_last_n": 5,
-          "goals_conceded_last_n": 8,
-          "avg_xg": 0.4625,
-          "avg_xg_conceded": 1.0560399999999999,
-          "avg_shots": 8,
-          "avg_shots_on_target": 2.4,
-          "avg_key_passes": 6.6,
-          "goal_conversion_rate": 2.1621621621621623,
-          "defensive_efficiency": -0.5150941252225296,
-          "clean_sheets": 1,
-          "avg_pass_accuracy": 78.95004929249225,
-          "duel_win_rate": 0.47731397459165154,
-          "aerial_win_rate": 0.5076142131979695,
-          "avg_fouls": 13.4,
-          "avg_yellow_cards": 2,
-          "home_ppg": 1,
-          "away_ppg": 0,
-          "home_goals_scored": 5,
-          "home_goals_conceded": 7,
-          "away_goals_scored": 4,
-          "away_goals_conceded": 10,
-          "avg_team_rating": 6.686995098039216
-        },
-        "head_to_head": null,
-        "lineups": null,
-        "social": []
-      },
-      "managers": {
-        "home": {
-          "id": 133,
-          "name": "Cláudio Tencati",
-          "short_name": "C. Tencati",
-          "country": "Brazil",
-          "current_team": {
-            "id": 927,
-            "name": "Botafogo-SP"
-          },
-          "preferred_formation": "4-2-3-1",
-          "formations_used": {
-            "4-3-3": 1,
-            "4-5-1": 1,
-            "3-4-2-1": 1,
-            "4-1-4-1": 2,
-            "4-2-3-1": 9
-          },
-          "profile": "balanced",
-          "team_style": "neutral",
-          "pressing_intensity": 0.6396735448196746,
-          "defensive_line": "mid",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "set_piece",
-              "name": "Set-Piece Reliant",
-              "category": "defensive",
-              "emoji": "🎯",
-              "description": "Goals mainly from corners and free kicks",
-              "score": 0.247
-            },
-            {
-              "rank": 2,
-              "code": "cross_pray",
-              "name": "Cross & Pray",
-              "category": "wide",
-              "emoji": "🙏",
-              "description": "High-volume hopeful crosses into the box",
-              "score": 0.091
-            },
-            {
-              "rank": 3,
-              "code": "wing_play",
-              "name": "Wing Play",
-              "category": "wide",
-              "emoji": "🪽",
-              "description": "Attacks focused through wide areas",
-              "score": 0.06
-            },
-            {
-              "rank": 4,
-              "code": "anti_football",
-              "name": "Anti-Football",
-              "category": "defensive",
-              "emoji": "⏱",
-              "description": "Time-wasting, fouling, disrupting rhythm",
-              "score": 0.058
-            }
-          ],
-          "matches_total": 14,
-          "wins": 4,
-          "draws": 4,
-          "losses": 6,
-          "win_pct": 28.6,
-          "avg_goals_scored": 1,
-          "avg_goals_conceded": 0.93,
-          "avg_possession": 49.5,
-          "avg_shots": 12.57,
-          "avg_shots_on_target": 3.86,
-          "avg_xg_for": 1.11,
-          "avg_xg_against": 0.96,
-          "avg_corners": 6.5,
-          "avg_yellow_cards": 2.93,
-          "avg_red_cards": 0,
-          "avg_fouls": 14.14,
-          "clean_sheet_pct": 21.4,
-          "btts_pct": 50,
-          "over_25_pct": 35.7,
-          "over_15_pct": 57.1,
-          "fail_to_score_pct": 35.7,
-          "avg_goals_scored_1h": 0.5,
-          "avg_goals_conceded_1h": 0.36
-        },
-        "away": {
-          "id": 151,
-          "name": "Cauan",
-          "short_name": "Cauan",
-          "country": "Brazil",
-          "current_team": {
-            "id": 860,
-            "name": "Avaí"
-          },
-          "preferred_formation": "4-2-3-1",
-          "formations_used": {
-            "4-3-3": 1,
-            "4-2-3-1": 16
-          },
-          "profile": "balanced",
-          "team_style": "hard",
-          "pressing_intensity": 0.5674541553325074,
-          "defensive_line": "high",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "anti_football",
-              "name": "Anti-Football",
-              "category": "defensive",
-              "emoji": "⏱",
-              "description": "Time-wasting, fouling, disrupting rhythm",
-              "score": 0.097
-            },
-            {
-              "rank": 2,
-              "code": "terrorist_fb",
-              "name": "Terrorist Football",
-              "category": "fan",
-              "emoji": "💣",
-              "description": "Ultra-negative setup — destroy the game",
-              "score": 0.068
-            },
-            {
-              "rank": 3,
-              "code": "high_press",
-              "name": "High Press",
-              "category": "pressing",
-              "emoji": "🔥",
-              "description": "Press defenders and keeper aggressively high up",
-              "score": 0.052
-            },
-            {
-              "rank": 4,
-              "code": "gegenpressing",
-              "name": "Gegenpressing",
-              "category": "pressing",
-              "emoji": "💨",
-              "description": "Immediate press after losing the ball",
-              "score": 0.052
-            }
-          ],
-          "matches_total": 17,
-          "wins": 4,
-          "draws": 5,
-          "losses": 8,
-          "win_pct": 23.5,
-          "avg_goals_scored": 1.12,
-          "avg_goals_conceded": 1.29,
-          "avg_possession": 49.53,
-          "avg_shots": 10.13,
-          "avg_shots_on_target": 3.07,
-          "avg_xg_for": 0.91,
-          "avg_xg_against": 1.34,
-          "avg_corners": 3.5,
-          "avg_yellow_cards": 3.12,
-          "avg_red_cards": 0.18,
-          "avg_fouls": 13.8,
-          "clean_sheet_pct": 35.3,
-          "btts_pct": 47.1,
-          "over_25_pct": 47.1,
-          "over_15_pct": 70.6,
-          "fail_to_score_pct": 29.4,
-          "avg_goals_scored_1h": 0.53,
-          "avg_goals_conceded_1h": 0.59
-        }
-      }
-    },
-    {
-      "event_id": 10013,
-      "prediction": {
-        "id": 4957,
-        "event": {
-          "id": 10013,
-          "league": {
-            "id": 34,
-            "name": "Brasileirão Serie B",
-            "country": "Brazil",
-            "is_women": false,
-            "current_season": {
-              "id": 52,
-              "name": "Brasileiro Serie B 2026",
-              "year": 2026,
-              "start_date": "2026-01-01",
-              "end_date": "2026-12-31"
-            }
-          },
-          "season": {
-            "id": 52,
-            "name": "Brasileiro Serie B 2026",
-            "year": 2026
-          },
-          "home_team": "Vila Nova FC",
-          "away_team": "São Bernardo",
-          "home_team_obj": {
-            "id": 826,
-            "name": "Vila Nova FC",
-            "short_name": "Vila Nova",
-            "country": "Brazil",
-            "coach": {
-              "name": "Guto Ferreira",
-              "shortName": "G. Ferreira"
-            },
-            "venue": {
-              "id": 619,
-              "name": "Estádio Onésio Brasileiro Alvarenga",
-              "city": "Goiânia",
-              "country": "Brazil",
-              "capacity": 11788
-            }
-          },
-          "away_team_obj": {
-            "id": 841,
-            "name": "São Bernardo",
-            "short_name": "São Bernardo",
-            "country": "Brazil",
-            "coach": {
-              "name": "Ricardo Catala Salgado Junior",
-              "shortName": "R. C. S. Junior"
-            },
-            "venue": {
-              "id": 633,
-              "name": "Estádio Primeiro de Maio",
-              "city": "Sao Bernardo do Campo",
-              "country": "Brazil",
-              "capacity": 15759
-            }
-          },
-          "event_date": "2026-07-07T01:00:00+03:00",
-          "round_number": 16,
-          "round_name": "",
-          "group_name": null,
-          "status": "notstarted",
-          "home_score": null,
-          "away_score": null,
-          "home_score_ht": null,
-          "away_score_ht": null,
-          "current_minute": null,
-          "period": "",
-          "odds_home": 1.96,
-          "odds_draw": 3.17,
-          "odds_away": 3.99,
-          "odds_over_15": 1.38,
-          "odds_over_25": 2.19,
-          "odds_over_35": 3.94,
-          "odds_under_15": 2.83,
-          "odds_under_25": 1.63,
-          "odds_under_35": 1.22,
-          "odds_btts_yes": 1.95,
-          "odds_btts_no": 1.77,
-          "actual_home_xg": null,
-          "actual_away_xg": null,
-          "home_xg_live": null,
-          "away_xg_live": null,
-          "penalty_shootout": null,
-          "extra_time_score": null,
-          "is_local_derby": false,
-          "is_neutral_ground": null,
-          "travel_distance_km": null,
-          "weather_code": 3,
-          "wind_speed": 8.2,
-          "temperature_c": 27,
-          "pitch_condition": null,
-          "attendance": null,
-          "referee": {
-            "id": 1966,
-            "name": "Yuri Elino Ferreira Da Cruz",
-            "country": "Brazil",
-            "nationality_a3": "",
-            "birthdate": null,
-            "yellowCards": 356,
-            "redCards": 11,
-            "career_games": 61,
-            "career_yellow_cards": 356,
-            "career_red_cards": 11
-          },
-          "home_coach": {
-            "id": 135,
-            "name": "Guto Ferreira",
-            "short_name": "G. Ferreira",
-            "country": "Brazil",
-            "profile": "balanced",
-            "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.6021095188441958,
-            "defensive_line": "mid",
-            "top_styles": [
-              "anti_football",
-              "man_press"
-            ]
-          },
-          "away_coach": {
-            "id": 1755,
-            "name": "Ricardo Catala Salgado Junior",
-            "short_name": "R. C. S. Junior",
-            "country": "",
-            "profile": "",
-            "preferred_formation": "",
-            "pressing_intensity": null,
-            "defensive_line": "",
-            "top_styles": []
-          },
-          "unavailable_players": {
-            "home": [],
-            "away": [
-              {
-                "name": "Matheus Salustiano",
-                "status": "injured",
-                "reason": "Knee Injury",
-                "expected_return": "2027-01-01"
-              },
-              {
-                "name": "Rodrigo Andrade",
-                "status": "injured",
-                "reason": "ACL Knee Injury",
-                "expected_return": "2027-01-01"
-              }
-            ]
-          },
-          "venue": {
-            "id": 619,
-            "name": "Estádio Onésio Brasileiro Alvarenga",
-            "city": "Goiânia",
-            "country": "Brazil",
-            "capacity": 11788,
-            "latitude": -16.673542,
-            "longitude": -49.237703,
-            "pitch_x": null,
-            "pitch_y": null,
-            "built_year": null
-          },
-          "incidents": null,
-          "live_stats": null,
-          "lineups": null,
-          "shotmap": null,
-          "momentum": null,
-          "xg_per_minute": null,
-          "average_positions": null,
-          "jerseys": {
-            "away": {
-              "GK": {
-                "base": "068706",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "00cc00"
-              },
-              "player": {
-                "base": "e6d100",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "3a3a3a",
-                "sleeve": "003300"
-              }
-            },
-            "home": {
-              "GK": {
-                "base": "7a47bb",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "161616"
-              },
-              "player": {
-                "base": "ff0000",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "7c0204",
-                "sleevelong": "ff0000"
-              }
-            }
-          },
-          "funfacts": [
-            {
-              "type_id": 24,
-              "sentence": "Vila Nova's home record this season: 5-2-0."
-            },
-            {
-              "type_id": 26,
-              "sentence": "A year ago, Vila Nova were number 8 in the table with 22 points. Now they are number 1 with 28 points."
-            },
-            {
-              "type_id": 1,
-              "sentence": "Vila Nova have won 3 home matches in a row."
-            }
-          ],
-          "sr_stats": null,
-          "ai_preview": {
-            "text": "**Vila Nova's hitting form at home, but São Bernardo's got nothing to lose** — this is a classic mid-table clash where one team smells blood and the other's just trying to stay afloat. 🔥\n\nVila Nova are riding **3 wins in their last 5**, including that wild 4-3 scorcher at home vs Náutico. São Bernardo, meanwhile, are stuck in a rut — just **1 win in 5** and scoreless in their last two. Playing away in Goiânia on a Monday night isn't ideal for the struggling visitors either.\n\nKey storylines:\n\n- **Vila Nova's home fortress** — they've been clinical at Onésio Brasileiro, beating Náutico 4-3 and showing real attacking intent with Janderson and Dellatorre leading the line\n- **São Bernardo's injury woes** — missing M. Salustiano and R. Andrade hurts their depth, and they've scored just once in their last three matches\n- **Midfield battle** — Nathan Camargo and J. Vieira anchor Vila Nova's engine, but D. Miraíma and Echaporã will try to disrupt and nick possession for the visitors\n\nExpected lineups:\n\n- **Vila Nova FC**: H. Leite, Higor, T. Pagnussat, Anderson, Hayner, J. Vieira, Nathan Camargo, R. Lima, Marquinhos Gabriel, Janderson, Dellatorre\n- **São Bernardo**: A. Alves, Augusto, R. Ferreira, Pará, Jemerson, D. Miraíma, Echaporã, F. Garcia, Foguinho, P. Vitor, P. Dyego\n\nBest picks:\n\n- **Total Goals Under 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Vila Nova 2–0 São Bernardo** — coin flip on exact scoreline, but the hosts' form and home advantage edge out a misfiring visitor.",
-            "generated_at": "2026-07-06T02:45:43.286162+00:00"
-          },
-          "live_websocket": true
-        },
-        "created_at": "2026-06-02T13:53:53.151413+03:00",
-        "prob_home_win": 34.41899459124143,
-        "prob_draw": 30.065513093612644,
-        "prob_away_win": 35.51549231514593,
-        "predicted_result": "A",
-        "expected_home_goals": 1.16272,
-        "expected_away_goals": 1.2396800000000001,
-        "prob_over_15": 73.6988943796064,
-        "prob_over_25": 41.150982218007016,
-        "prob_over_35": 21.757447602691865,
-        "prob_btts_yes": 60.48455194701313,
-        "confidence": 35.51549231514593,
-        "model_version": "v5.0",
-        "most_likely_score": "1-1",
-        "favorite": "A",
-        "favorite_prob": 35.51549231514593,
-        "favorite_recommend": false,
-        "over_15_recommend": false,
-        "over_25_recommend": false,
-        "over_35_recommend": false,
-        "btts_recommend": false,
-        "winner_recommend": false
-      },
-      "event_detail": {
-        "id": 10013,
-        "league": {
-          "id": 34,
-          "name": "Brasileirão Serie B",
-          "country": "Brazil",
-          "is_women": false,
-          "current_season": {
-            "id": 52,
-            "name": "Brasileiro Serie B 2026",
-            "year": 2026,
-            "start_date": "2026-01-01",
-            "end_date": "2026-12-31"
-          }
-        },
-        "season": {
-          "id": 52,
-          "name": "Brasileiro Serie B 2026",
-          "year": 2026
-        },
-        "home_team": "Vila Nova FC",
-        "away_team": "São Bernardo",
-        "home_team_obj": {
-          "id": 826,
-          "name": "Vila Nova FC",
-          "short_name": "Vila Nova",
-          "country": "Brazil",
-          "coach": {
-            "name": "Guto Ferreira",
-            "shortName": "G. Ferreira"
-          },
-          "venue": {
-            "id": 619,
-            "name": "Estádio Onésio Brasileiro Alvarenga",
-            "city": "Goiânia",
-            "country": "Brazil",
-            "capacity": 11788
-          }
-        },
-        "away_team_obj": {
-          "id": 841,
-          "name": "São Bernardo",
-          "short_name": "São Bernardo",
-          "country": "Brazil",
-          "coach": {
-            "name": "Ricardo Catala Salgado Junior",
-            "shortName": "R. C. S. Junior"
-          },
-          "venue": {
-            "id": 633,
-            "name": "Estádio Primeiro de Maio",
-            "city": "Sao Bernardo do Campo",
-            "country": "Brazil",
-            "capacity": 15759
-          }
-        },
-        "event_date": "2026-07-07T01:00:00+03:00",
-        "round_number": 16,
-        "round_name": "",
-        "group_name": null,
-        "status": "notstarted",
-        "home_score": null,
-        "away_score": null,
-        "home_score_ht": null,
-        "away_score_ht": null,
-        "current_minute": null,
-        "period": "",
-        "odds_home": 1.96,
-        "odds_draw": 3.17,
-        "odds_away": 3.99,
-        "odds_over_15": 1.38,
-        "odds_over_25": 2.19,
-        "odds_over_35": 3.94,
-        "odds_under_15": 2.83,
-        "odds_under_25": 1.63,
-        "odds_under_35": 1.22,
-        "odds_btts_yes": 1.95,
-        "odds_btts_no": 1.77,
-        "actual_home_xg": null,
-        "actual_away_xg": null,
-        "home_xg_live": null,
-        "away_xg_live": null,
-        "penalty_shootout": null,
-        "extra_time_score": null,
-        "is_local_derby": false,
-        "is_neutral_ground": null,
-        "travel_distance_km": null,
-        "weather_code": 3,
-        "wind_speed": 8.2,
-        "temperature_c": 27,
-        "pitch_condition": null,
-        "attendance": null,
-        "referee": {
-          "id": 1966,
-          "name": "Yuri Elino Ferreira Da Cruz",
-          "country": "Brazil",
-          "nationality_a3": "",
-          "birthdate": null,
-          "yellowCards": 356,
-          "redCards": 11,
-          "career_games": 61,
-          "career_yellow_cards": 356,
-          "career_red_cards": 11
-        },
-        "home_coach": {
-          "id": 135,
-          "name": "Guto Ferreira",
-          "short_name": "G. Ferreira",
-          "country": "Brazil",
-          "profile": "balanced",
-          "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.6021095188441958,
-          "defensive_line": "mid",
-          "top_styles": [
-            "anti_football",
-            "man_press"
-          ]
-        },
-        "away_coach": {
-          "id": 1755,
-          "name": "Ricardo Catala Salgado Junior",
-          "short_name": "R. C. S. Junior",
-          "country": "",
-          "profile": "",
-          "preferred_formation": "",
-          "pressing_intensity": null,
-          "defensive_line": "",
-          "top_styles": []
-        },
-        "unavailable_players": {
-          "home": [],
-          "away": [
-            {
-              "name": "Matheus Salustiano",
-              "status": "injured",
-              "reason": "Knee Injury",
-              "expected_return": "2027-01-01"
-            },
-            {
-              "name": "Rodrigo Andrade",
-              "status": "injured",
-              "reason": "ACL Knee Injury",
-              "expected_return": "2027-01-01"
-            }
-          ]
-        },
-        "venue": {
-          "id": 619,
-          "name": "Estádio Onésio Brasileiro Alvarenga",
-          "city": "Goiânia",
-          "country": "Brazil",
-          "capacity": 11788,
-          "latitude": -16.673542,
-          "longitude": -49.237703,
-          "pitch_x": null,
-          "pitch_y": null,
-          "built_year": null
-        },
-        "live_stats": null,
-        "jerseys": {
-          "away": {
-            "GK": {
-              "base": "068706",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "00cc00"
-            },
-            "player": {
-              "base": "e6d100",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "3a3a3a",
-              "sleeve": "003300"
-            }
-          },
-          "home": {
-            "GK": {
-              "base": "7a47bb",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "161616"
-            },
-            "player": {
-              "base": "ff0000",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "7c0204",
-              "sleevelong": "ff0000"
-            }
-          }
-        },
-        "funfacts": [
-          {
-            "type_id": 24,
-            "sentence": "Vila Nova's home record this season: 5-2-0."
-          },
-          {
-            "type_id": 26,
-            "sentence": "A year ago, Vila Nova were number 8 in the table with 22 points. Now they are number 1 with 28 points."
-          },
-          {
-            "type_id": 1,
-            "sentence": "Vila Nova have won 3 home matches in a row."
-          }
-        ],
-        "sr_stats": null,
-        "ai_preview": {
-          "text": "**Vila Nova's hitting form at home, but São Bernardo's got nothing to lose** — this is a classic mid-table clash where one team smells blood and the other's just trying to stay afloat. 🔥\n\nVila Nova are riding **3 wins in their last 5**, including that wild 4-3 scorcher at home vs Náutico. São Bernardo, meanwhile, are stuck in a rut — just **1 win in 5** and scoreless in their last two. Playing away in Goiânia on a Monday night isn't ideal for the struggling visitors either.\n\nKey storylines:\n\n- **Vila Nova's home fortress** — they've been clinical at Onésio Brasileiro, beating Náutico 4-3 and showing real attacking intent with Janderson and Dellatorre leading the line\n- **São Bernardo's injury woes** — missing M. Salustiano and R. Andrade hurts their depth, and they've scored just once in their last three matches\n- **Midfield battle** — Nathan Camargo and J. Vieira anchor Vila Nova's engine, but D. Miraíma and Echaporã will try to disrupt and nick possession for the visitors\n\nExpected lineups:\n\n- **Vila Nova FC**: H. Leite, Higor, T. Pagnussat, Anderson, Hayner, J. Vieira, Nathan Camargo, R. Lima, Marquinhos Gabriel, Janderson, Dellatorre\n- **São Bernardo**: A. Alves, Augusto, R. Ferreira, Pará, Jemerson, D. Miraíma, Echaporã, F. Garcia, Foguinho, P. Vitor, P. Dyego\n\nBest picks:\n\n- **Total Goals Under 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Vila Nova 2–0 São Bernardo** — coin flip on exact scoreline, but the hosts' form and home advantage edge out a misfiring visitor.",
-          "generated_at": "2026-07-06T02:45:43.286162+00:00"
-        },
-        "live_websocket": true,
-        "home_form": {
-          "calculated_at": "2026-07-06",
-          "matches_played": 5,
-          "form_string": "LWLWW",
-          "wins": 3,
-          "draws": 0,
-          "losses": 2,
-          "points_last_n": 9,
-          "goals_scored_last_n": 7,
-          "goals_conceded_last_n": 6,
-          "avg_xg": 0.73894,
-          "avg_xg_conceded": 1.50738,
-          "avg_shots": 13.2,
-          "avg_shots_on_target": 3.6,
-          "avg_key_passes": 8.4,
-          "goal_conversion_rate": 1.8946057866673884,
-          "defensive_efficiency": 0.20391672968992547,
-          "clean_sheets": 2,
-          "avg_pass_accuracy": 78.81913451960573,
-          "duel_win_rate": 0.49134199134199136,
-          "aerial_win_rate": 0.5483870967741935,
-          "avg_fouls": 13.2,
-          "avg_yellow_cards": 2.8,
-          "home_ppg": 2.6,
-          "away_ppg": 1.2,
-          "home_goals_scored": 10,
-          "home_goals_conceded": 5,
-          "away_goals_scored": 4,
-          "away_goals_conceded": 5,
-          "avg_team_rating": 6.76875
-        },
-        "away_form": {
-          "calculated_at": "2026-07-06",
-          "matches_played": 5,
-          "form_string": "LLDWD",
-          "wins": 1,
-          "draws": 2,
-          "losses": 2,
-          "points_last_n": 5,
-          "goals_scored_last_n": 4,
-          "goals_conceded_last_n": 5,
-          "avg_xg": 0.9219800000000001,
-          "avg_xg_conceded": 1.0022600000000002,
-          "avg_shots": 10.2,
-          "avg_shots_on_target": 3.6,
-          "avg_key_passes": 8.6,
-          "goal_conversion_rate": 0.8676977808629254,
-          "defensive_efficiency": 0.002254903917147333,
-          "clean_sheets": 1,
-          "avg_pass_accuracy": 83.50726563889597,
-          "duel_win_rate": 0.48525469168900803,
-          "aerial_win_rate": 0.48514851485148514,
-          "avg_fouls": 12.2,
-          "avg_yellow_cards": 3.4,
-          "home_ppg": 1.2,
-          "away_ppg": 2.4,
-          "home_goals_scored": 5,
-          "home_goals_conceded": 3,
-          "away_goals_scored": 10,
-          "away_goals_conceded": 4,
-          "avg_team_rating": 6.707499999999999
-        },
-        "head_to_head": null,
-        "lineups": null,
-        "social": []
-      },
-      "managers": {
-        "home": {
-          "id": 135,
-          "name": "Guto Ferreira",
-          "short_name": "G. Ferreira",
-          "country": "Brazil",
-          "current_team": {
-            "id": 826,
-            "name": "Vila Nova FC"
-          },
-          "preferred_formation": "4-2-3-1",
-          "formations_used": {
-            "4-1-4-1": 1,
-            "4-2-3-1": 17
-          },
-          "profile": "balanced",
-          "team_style": "hard",
-          "pressing_intensity": 0.6021095188441958,
-          "defensive_line": "mid",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "anti_football",
-              "name": "Anti-Football",
-              "category": "defensive",
-              "emoji": "⏱",
-              "description": "Time-wasting, fouling, disrupting rhythm",
-              "score": 0.139
-            },
-            {
-              "rank": 2,
-              "code": "man_press",
-              "name": "Man-Oriented Press",
-              "category": "pressing",
-              "emoji": "🎯",
-              "description": "Players follow their direct opponents everywhere",
-              "score": 0.073
-            },
-            {
-              "rank": 3,
-              "code": "high_press",
-              "name": "High Press",
-              "category": "pressing",
-              "emoji": "🔥",
-              "description": "Press defenders and keeper aggressively high up",
-              "score": 0.056
-            },
-            {
-              "rank": 4,
-              "code": "gegenpressing",
-              "name": "Gegenpressing",
-              "category": "pressing",
-              "emoji": "💨",
-              "description": "Immediate press after losing the ball",
-              "score": 0.054
-            }
-          ],
-          "matches_total": 18,
-          "wins": 8,
-          "draws": 7,
-          "losses": 3,
-          "win_pct": 44.4,
-          "avg_goals_scored": 1.33,
-          "avg_goals_conceded": 1,
-          "avg_possession": 52.47,
-          "avg_shots": 13.06,
-          "avg_shots_on_target": 3.76,
-          "avg_xg_for": 1.27,
-          "avg_xg_against": 1.39,
-          "avg_corners": 4.53,
-          "avg_yellow_cards": 3.33,
-          "avg_red_cards": 0.17,
-          "avg_fouls": 15.38,
-          "clean_sheet_pct": 33.3,
-          "btts_pct": 55.6,
-          "over_25_pct": 38.9,
-          "over_15_pct": 61.1,
-          "fail_to_score_pct": 22.2,
-          "avg_goals_scored_1h": 0.61,
-          "avg_goals_conceded_1h": 0.5
-        },
-        "away": {
-          "id": 160,
-          "name": "Ricardo Catalá",
-          "short_name": "R. Catalá",
-          "country": "Brazil",
-          "current_team": {
-            "id": 841,
-            "name": "São Bernardo"
-          },
-          "preferred_formation": "4-2-3-1",
-          "formations_used": {
-            "4-3-3": 8,
-            "4-4-2": 1,
-            "4-2-3-1": 9
-          },
-          "profile": "defensive",
-          "team_style": "neutral",
-          "pressing_intensity": 0.42073487798362347,
-          "defensive_line": "mid",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "park_the_bus",
-              "name": "Park the Bus",
-              "category": "defensive",
-              "emoji": "🚌",
-              "description": "Ultra-deep defense, minimal attacking intent",
-              "score": 0.128
-            },
-            {
-              "rank": 2,
-              "code": "low_block",
-              "name": "Low Block",
-              "category": "defensive",
-              "emoji": "🛡",
-              "description": "Compact defensive shape near own box",
-              "score": 0.115
-            },
-            {
-              "rank": 3,
-              "code": "terrorist_fb",
-              "name": "Terrorist Football",
-              "category": "fan",
-              "emoji": "💣",
-              "description": "Ultra-negative setup — destroy the game",
-              "score": 0.067
-            },
-            {
-              "rank": 4,
-              "code": "anti_football",
-              "name": "Anti-Football",
-              "category": "defensive",
-              "emoji": "⏱",
-              "description": "Time-wasting, fouling, disrupting rhythm",
-              "score": 0.066
-            }
-          ],
-          "matches_total": 18,
-          "wins": 9,
-          "draws": 5,
-          "losses": 4,
-          "win_pct": 50,
-          "avg_goals_scored": 1.28,
-          "avg_goals_conceded": 0.67,
-          "avg_possession": 49.19,
-          "avg_shots": 10.88,
-          "avg_shots_on_target": 3.88,
-          "avg_xg_for": 1.38,
-          "avg_xg_against": 1.29,
-          "avg_corners": 3.73,
-          "avg_yellow_cards": 2.5,
-          "avg_red_cards": 0,
-          "avg_fouls": 11.44,
-          "clean_sheet_pct": 44.4,
-          "btts_pct": 38.9,
-          "over_25_pct": 33.3,
-          "over_15_pct": 55.6,
-          "fail_to_score_pct": 27.8,
-          "avg_goals_scored_1h": 0.39,
-          "avg_goals_conceded_1h": 0.39
-        }
-      }
-    },
     {
       "event_id": 8380,
       "prediction": {
@@ -1464,15 +84,15 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.51,
-          "odds_draw": 3.37,
-          "odds_away": 2.8,
+          "odds_home": 2.5,
+          "odds_draw": 3.38,
+          "odds_away": 2.82,
           "odds_over_15": 1.2,
           "odds_over_25": 1.65,
           "odds_over_35": 2.54,
-          "odds_under_15": 4.41,
+          "odds_under_15": 4.38,
           "odds_under_25": 2.21,
-          "odds_under_35": 1.48,
+          "odds_under_35": 1.49,
           "odds_btts_yes": 1.52,
           "odds_btts_no": 2.45,
           "actual_home_xg": null,
@@ -1681,15 +301,15 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.51,
-        "odds_draw": 3.37,
-        "odds_away": 2.8,
+        "odds_home": 2.5,
+        "odds_draw": 3.38,
+        "odds_away": 2.82,
         "odds_over_15": 1.2,
         "odds_over_25": 1.65,
         "odds_over_35": 2.54,
-        "odds_under_15": 4.41,
+        "odds_under_15": 4.38,
         "odds_under_25": 2.21,
-        "odds_under_35": 1.48,
+        "odds_under_35": 1.49,
         "odds_btts_yes": 1.52,
         "odds_btts_no": 2.45,
         "actual_home_xg": null,
@@ -2361,9 +981,9 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 3.43,
+          "odds_home": 3.42,
           "odds_draw": 4.31,
-          "odds_away": 1.72,
+          "odds_away": 1.73,
           "odds_over_15": 1.06,
           "odds_over_25": 1.27,
           "odds_over_35": 1.72,
@@ -2511,9 +1131,9 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 3.43,
+        "odds_home": 3.42,
         "odds_draw": 4.31,
-        "odds_away": 1.72,
+        "odds_away": 1.73,
         "odds_over_15": 1.06,
         "odds_over_25": 1.27,
         "odds_over_35": 1.72,
@@ -2902,13 +1522,13 @@
           "current_minute": null,
           "period": "",
           "odds_home": 1.27,
-          "odds_draw": 5.29,
-          "odds_away": 10.14,
+          "odds_draw": 5.31,
+          "odds_away": 10.19,
           "odds_over_15": 1.21,
           "odds_over_25": 1.71,
-          "odds_over_35": 2.74,
-          "odds_under_15": 3.9,
-          "odds_under_25": 2.06,
+          "odds_over_35": 2.73,
+          "odds_under_15": 3.92,
+          "odds_under_25": 2.07,
           "odds_under_35": 1.4,
           "odds_btts_yes": 2.22,
           "odds_btts_no": 1.59,
@@ -3122,13 +1742,13 @@
         "current_minute": null,
         "period": "",
         "odds_home": 1.27,
-        "odds_draw": 5.29,
-        "odds_away": 10.14,
+        "odds_draw": 5.31,
+        "odds_away": 10.19,
         "odds_over_15": 1.21,
         "odds_over_25": 1.71,
-        "odds_over_35": 2.74,
-        "odds_under_15": 3.9,
-        "odds_under_25": 2.06,
+        "odds_over_35": 2.73,
+        "odds_under_15": 3.92,
+        "odds_under_25": 2.07,
         "odds_under_35": 1.4,
         "odds_btts_yes": 2.22,
         "odds_btts_no": 1.59,
@@ -3434,14 +2054,14 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.23,
+          "odds_home": 2.22,
           "odds_draw": 3.47,
-          "odds_away": 2.93,
+          "odds_away": 2.92,
           "odds_over_15": 1.25,
           "odds_over_25": 1.83,
           "odds_over_35": 3.04,
-          "odds_under_15": 3.53,
-          "odds_under_25": 1.9,
+          "odds_under_15": 3.54,
+          "odds_under_25": 1.91,
           "odds_under_35": 1.33,
           "odds_btts_yes": 1.68,
           "odds_btts_no": 2.06,
@@ -3657,14 +2277,14 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.23,
+        "odds_home": 2.22,
         "odds_draw": 3.47,
-        "odds_away": 2.93,
+        "odds_away": 2.92,
         "odds_over_15": 1.25,
         "odds_over_25": 1.83,
         "odds_over_35": 3.04,
-        "odds_under_15": 3.53,
-        "odds_under_25": 1.9,
+        "odds_under_15": 3.54,
+        "odds_under_25": 1.91,
         "odds_under_35": 1.33,
         "odds_btts_yes": 1.68,
         "odds_btts_no": 2.06,
@@ -4009,12 +2629,12 @@
           "current_minute": null,
           "period": "",
           "odds_home": 1.37,
-          "odds_draw": 4.7,
+          "odds_draw": 4.69,
           "odds_away": 9.25,
           "odds_over_15": 1.32,
           "odds_over_25": 1.99,
           "odds_over_35": 3.53,
-          "odds_under_15": 3.29,
+          "odds_under_15": 3.28,
           "odds_under_25": 1.79,
           "odds_under_35": 1.28,
           "odds_btts_yes": 2.39,
@@ -4138,10 +2758,7 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": {
-            "text": "**Argentina are absolutely rolling into this one** — five straight wins and looking every bit the group-stage heavy hitters. 🔥 Egypt are stuck in neutral, mixing draws with one loss, so this matchup feels lopsided on paper.\n\nArgentina's front line keeps clicking: **L. Martínez, J. Álvarez**, and company have been clinical finishing. Egypt are missing three defenders to injury, which doesn't help their chances of containing that kind of creativity. **E. Martínez** in goal will barely break a sweat.\n\nKey storylines:\n\n- **Argentina's attacking rhythm** vs a stretched Egyptian backline missing key bodies — confidence gap is real\n- **J. Álvarez and L. Martínez** link-up play has been the difference-maker in recent wins\n- Egypt trying to steal possession through **M. Attia and K. Hafez** in midfield, but Argentina's **A. Mac Allister** and **R. De Paul** usually dominate that battle\n\nExpected lineups:\n\n- **Argentina**: E. Martínez, M. Acuña, N. Molina, L. Martínez, N. Otamendi, T. Almada, A. Mac Allister, R. De Paul, E. Fernández, L. Martínez, J. Álvarez\n- **Egypt**: M. Shobeir, Y. Ibrahim, R. Rabia, T. Alaa, K. Hafez, M. Attia, M. Lasheen, O. Marmoush, E. Ashour, H. Abdelkarim, A. Abdallah\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**Argentina 3–0 Egypt**. Argentina's hot streak continues; Egypt's injuries are too much to overcome. 💪",
-            "generated_at": "2026-07-06T20:45:32.052781+00:00"
-          },
+          "ai_preview": null,
           "live_websocket": true
         },
         "created_at": "2026-07-04T05:20:15.185985+03:00",
@@ -4235,12 +2852,12 @@
         "current_minute": null,
         "period": "",
         "odds_home": 1.37,
-        "odds_draw": 4.7,
+        "odds_draw": 4.69,
         "odds_away": 9.25,
         "odds_over_15": 1.32,
         "odds_over_25": 1.99,
         "odds_over_35": 3.53,
-        "odds_under_15": 3.29,
+        "odds_under_15": 3.28,
         "odds_under_25": 1.79,
         "odds_under_35": 1.28,
         "odds_btts_yes": 2.39,
@@ -4358,10 +2975,7 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": {
-          "text": "**Argentina are absolutely rolling into this one** — five straight wins and looking every bit the group-stage heavy hitters. 🔥 Egypt are stuck in neutral, mixing draws with one loss, so this matchup feels lopsided on paper.\n\nArgentina's front line keeps clicking: **L. Martínez, J. Álvarez**, and company have been clinical finishing. Egypt are missing three defenders to injury, which doesn't help their chances of containing that kind of creativity. **E. Martínez** in goal will barely break a sweat.\n\nKey storylines:\n\n- **Argentina's attacking rhythm** vs a stretched Egyptian backline missing key bodies — confidence gap is real\n- **J. Álvarez and L. Martínez** link-up play has been the difference-maker in recent wins\n- Egypt trying to steal possession through **M. Attia and K. Hafez** in midfield, but Argentina's **A. Mac Allister** and **R. De Paul** usually dominate that battle\n\nExpected lineups:\n\n- **Argentina**: E. Martínez, M. Acuña, N. Molina, L. Martínez, N. Otamendi, T. Almada, A. Mac Allister, R. De Paul, E. Fernández, L. Martínez, J. Álvarez\n- **Egypt**: M. Shobeir, Y. Ibrahim, R. Rabia, T. Alaa, K. Hafez, M. Attia, M. Lasheen, O. Marmoush, E. Ashour, H. Abdelkarim, A. Abdallah\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**Argentina 3–0 Egypt**. Argentina's hot streak continues; Egypt's injuries are too much to overcome. 💪",
-          "generated_at": "2026-07-06T20:45:32.052781+00:00"
-        },
+        "ai_preview": null,
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-07-06",
@@ -4663,10 +3277,10 @@
           "current_minute": null,
           "period": "",
           "odds_home": 3.48,
-          "odds_draw": 3.04,
+          "odds_draw": 3.03,
           "odds_away": 2.29,
           "odds_over_15": 1.43,
-          "odds_over_25": 2.34,
+          "odds_over_25": 2.35,
           "odds_over_35": 4.29,
           "odds_under_15": 2.73,
           "odds_under_25": 1.58,
@@ -4796,10 +3410,7 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": {
-            "text": "**Switzerland's on a roll at home, and Colombia's quietly lethal on the road.** This feels like a clash between two teams peaking at just the right time. 🔥\n\nSwitzerland have won three straight, mixing defensive solidity with clinical finishing. Colombia aren't flashy but they're efficient — four wins in five with that draw against Portugal showing their mettle. Home advantage in Vancouver favors the Swiss, but don't sleep on the visitors' pedigree.\n\nKey storylines:\n\n- **G. Xhaka and R. Freuler** anchor Switzerland's midfield, tasked with controlling tempo against Colombia's compact three-man setup\n- **L. Díaz and R. Borré** lead Colombia's counter-attack threat; they'll hunt space on the break\n- J. Córdoba's absence leaves Colombia's backline thinner — expect the Swiss to probe that weakness early\n\nExpected lineups:\n\n- **Switzerland**: G. Kobel, M. Akanji, N. Elvedi, R. Rodríguez, E. Cömert, G. Xhaka, R. Freuler, B. Embolo, R. Vargas, Z. Amdouni, C. Itten\n- **Colombia**: K. Mier, Á. Angulo, D. Sánchez, J. Mojica, J. Lucumí, L. Díaz, J. Lerma, J. Arias, L. J. Suárez, C. Hernández, R. Borré\n\nBest picks:\n\n- **Total Goals Over 1.5**: Switzerland's attacking form + Colombia's vulnerability defensively should spark goals\n\nPrediction: **Switzerland 2-1 Colombia** — home edge tips it, but it'll be tight. ⚽",
-            "generated_at": "2026-07-06T20:45:39.454140+00:00"
-          },
+          "ai_preview": null,
           "live_websocket": true
         },
         "created_at": "2026-07-05T05:20:19.301133+03:00",
@@ -4881,10 +3492,10 @@
         "current_minute": null,
         "period": "",
         "odds_home": 3.48,
-        "odds_draw": 3.04,
+        "odds_draw": 3.03,
         "odds_away": 2.29,
         "odds_over_15": 1.43,
-        "odds_over_25": 2.34,
+        "odds_over_25": 2.35,
         "odds_over_35": 4.29,
         "odds_under_15": 2.73,
         "odds_under_25": 1.58,
@@ -5008,10 +3619,7 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": {
-          "text": "**Switzerland's on a roll at home, and Colombia's quietly lethal on the road.** This feels like a clash between two teams peaking at just the right time. 🔥\n\nSwitzerland have won three straight, mixing defensive solidity with clinical finishing. Colombia aren't flashy but they're efficient — four wins in five with that draw against Portugal showing their mettle. Home advantage in Vancouver favors the Swiss, but don't sleep on the visitors' pedigree.\n\nKey storylines:\n\n- **G. Xhaka and R. Freuler** anchor Switzerland's midfield, tasked with controlling tempo against Colombia's compact three-man setup\n- **L. Díaz and R. Borré** lead Colombia's counter-attack threat; they'll hunt space on the break\n- J. Córdoba's absence leaves Colombia's backline thinner — expect the Swiss to probe that weakness early\n\nExpected lineups:\n\n- **Switzerland**: G. Kobel, M. Akanji, N. Elvedi, R. Rodríguez, E. Cömert, G. Xhaka, R. Freuler, B. Embolo, R. Vargas, Z. Amdouni, C. Itten\n- **Colombia**: K. Mier, Á. Angulo, D. Sánchez, J. Mojica, J. Lucumí, L. Díaz, J. Lerma, J. Arias, L. J. Suárez, C. Hernández, R. Borré\n\nBest picks:\n\n- **Total Goals Over 1.5**: Switzerland's attacking form + Colombia's vulnerability defensively should spark goals\n\nPrediction: **Switzerland 2-1 Colombia** — home edge tips it, but it'll be tight. ⚽",
-          "generated_at": "2026-07-06T20:45:39.454140+00:00"
-        },
+        "ai_preview": null,
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-07-06",
