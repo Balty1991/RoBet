@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T21:07:36.852Z",
+  "generated_at": "2026-07-07T22:38:33.875Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -2970,7 +2970,18 @@
           "temperature_c": 31,
           "pitch_condition": null,
           "attendance": null,
-          "referee": null,
+          "referee": {
+            "id": 2401,
+            "name": "Facundo Raul Tello Figueroa",
+            "country": "Argentina",
+            "nationality_a3": "",
+            "birthdate": null,
+            "yellowCards": 1850,
+            "redCards": 74,
+            "career_games": 344,
+            "career_yellow_cards": 1850,
+            "career_red_cards": 74
+          },
           "home_coach": {
             "id": 32,
             "name": "Didier Deschamps",
@@ -3173,7 +3184,18 @@
         "temperature_c": 31,
         "pitch_condition": null,
         "attendance": null,
-        "referee": null,
+        "referee": {
+          "id": 2401,
+          "name": "Facundo Raul Tello Figueroa",
+          "country": "Argentina",
+          "nationality_a3": "",
+          "birthdate": null,
+          "yellowCards": 1850,
+          "redCards": 74,
+          "career_games": 344,
+          "career_yellow_cards": 1850,
+          "career_red_cards": 74
+        },
         "home_coach": {
           "id": 32,
           "name": "Didier Deschamps",
