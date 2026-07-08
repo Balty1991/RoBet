@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-07T22:38:33.875Z",
+  "generated_at": "2026-07-08T00:01:18.174Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -8,9 +8,9 @@
     "managers_endpoint": "/managers/?team_id={id}"
   },
   "summary": {
-    "total_matches": 284,
+    "total_matches": 283,
     "total_leagues": 13,
-    "average_confidence": 49.523285371955104,
+    "average_confidence": 49.54730003098173,
     "favorite_recommend": 0,
     "over_15_recommend": 0,
     "over_25_recommend": 0,
@@ -19,619 +19,6 @@
     "winner_recommend": 0
   },
   "items": [
-    {
-      "event_id": 10004,
-      "prediction": {
-        "id": 4642,
-        "event": {
-          "id": 10004,
-          "league": {
-            "id": 34,
-            "name": "Brasileirão Serie B",
-            "country": "Brazil",
-            "is_women": false,
-            "current_season": {
-              "id": 52,
-              "name": "Brasileiro Serie B 2026",
-              "year": 2026,
-              "start_date": "2026-01-01",
-              "end_date": "2026-12-31"
-            }
-          },
-          "season": {
-            "id": 52,
-            "name": "Brasileiro Serie B 2026",
-            "year": 2026
-          },
-          "home_team": "Athletic Club",
-          "away_team": "Operário-PR",
-          "home_team_obj": {
-            "id": 843,
-            "name": "Athletic Club",
-            "short_name": "Athletic",
-            "country": "Brazil",
-            "coach": {
-              "name": "Alexsandro de Souza",
-              "shortName": "Alex"
-            },
-            "venue": {
-              "id": 635,
-              "name": "Estádio Joaquim Portugal",
-              "city": "São João del Rei",
-              "country": "Brazil",
-              "capacity": 8000
-            }
-          },
-          "away_team_obj": {
-            "id": 828,
-            "name": "Operário-PR",
-            "short_name": "Operário-PR",
-            "country": "Brazil",
-            "coach": {
-              "name": "Luizinho Lopes",
-              "shortName": "L. Lopes"
-            },
-            "venue": {
-              "id": 621,
-              "name": "Estádio Germano Krüger",
-              "city": "Ponta Grossa",
-              "country": "Brazil",
-              "capacity": 10632
-            }
-          },
-          "event_date": "2026-07-08T02:00:00+03:00",
-          "round_number": 16,
-          "round_name": "",
-          "group_name": null,
-          "status": "notstarted",
-          "home_score": null,
-          "away_score": null,
-          "home_score_ht": null,
-          "away_score_ht": null,
-          "current_minute": null,
-          "period": "",
-          "odds_home": 2.82,
-          "odds_draw": 2.14,
-          "odds_away": 3.43,
-          "odds_over_15": 1.51,
-          "odds_over_25": 6.53,
-          "odds_over_35": 5.07,
-          "odds_under_15": 2.43,
-          "odds_under_25": 1.07,
-          "odds_under_35": 1.14,
-          "odds_btts_yes": 2.1,
-          "odds_btts_no": 1.66,
-          "actual_home_xg": null,
-          "actual_away_xg": null,
-          "home_xg_live": null,
-          "away_xg_live": null,
-          "penalty_shootout": null,
-          "extra_time_score": null,
-          "is_local_derby": null,
-          "is_neutral_ground": null,
-          "travel_distance_km": null,
-          "weather_code": 2,
-          "wind_speed": 10.5,
-          "temperature_c": 13,
-          "pitch_condition": null,
-          "attendance": null,
-          "referee": {
-            "id": 1611,
-            "name": "Joao Vitor Gobi",
-            "country": "Brazil",
-            "nationality_a3": "BRA",
-            "birthdate": null,
-            "yellowCards": 287,
-            "redCards": 14,
-            "career_games": 60,
-            "career_yellow_cards": 287,
-            "career_red_cards": 14
-          },
-          "home_coach": {
-            "id": 155,
-            "name": "Alexsandro de Souza",
-            "short_name": "Alex",
-            "country": "Brazil",
-            "profile": "balanced",
-            "preferred_formation": "4-3-3",
-            "pressing_intensity": 0.5361909188727119,
-            "defensive_line": "mid",
-            "top_styles": [
-              "terrorist_fb",
-              "anti_football"
-            ]
-          },
-          "away_coach": {
-            "id": 161,
-            "name": "Luizinho Lopes",
-            "short_name": "L. Lopes",
-            "country": "Brazil",
-            "profile": "balanced",
-            "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.5827695036856566,
-            "defensive_line": "high",
-            "top_styles": [
-              "anti_football",
-              "ball_dominant"
-            ]
-          },
-          "unavailable_players": {
-            "home": [
-              {
-                "name": "Ronaldo Tavares",
-                "status": "injured",
-                "reason": "ACL Knee Injury",
-                "expected_return": "2027-01-01"
-              }
-            ],
-            "away": []
-          },
-          "venue": {
-            "id": 635,
-            "name": "Estádio Joaquim Portugal",
-            "city": "São João del Rei",
-            "country": "Brazil",
-            "capacity": 8000,
-            "latitude": -21.1275,
-            "longitude": -44.2434,
-            "pitch_x": null,
-            "pitch_y": null,
-            "built_year": null
-          },
-          "incidents": null,
-          "live_stats": null,
-          "lineups": null,
-          "shotmap": null,
-          "momentum": null,
-          "xg_per_minute": null,
-          "average_positions": null,
-          "jerseys": null,
-          "funfacts": null,
-          "sr_stats": null,
-          "ai_preview": {
-            "text": "**Operário-PR's winning streak meets Athletic Club's solid form** — and the visitors are **the team in form** right now, sitting on four wins in five. 🔥\n\nAthletic Club's been steady at home with two wins and a draw in their last three, but Operário just dismantled Goiás 3-0 away and haven't lost since their slip against Botafogo-SP. The model edge goes to the hosts, though the visitors' momentum is legit.\n\nKey storylines:\n\n- **Operário-PR's attack** has been clinical lately — three goals away to Goiás shows they're clicking at both ends of the pitch\n\n- **Athletic Club's defense** will need to stay sharp without R. Tavares out on ACL injury; the backline has to stand firm\n\n- **Low-scoring vibe expected** — these teams' recent matches suggest a cagey midfield battle rather than a goal fest\n\nExpected lineups:\n\n- **Athletic Club**: Luan Polli, Jhonathan, L. Belezi, D. B. d. Souza, Zeca, J. Miguel, Ian Luccas, K. Rodrigues, G. Moyses, O. Otusanya, Ruan Assis\n\n- **Operário-PR**: Vágner, Moraes Júnior, Miranda, J. Cuenú, Mikael, G. Boschilia, G. Feliciano, M. Trindade, V. D. D. Antonia, H. Pereira, Pablo\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Athletic Club 1-0 Operário-PR** — slight lean to the hosts despite the visitors' form, with a tight, low-scoring affair.",
-            "generated_at": "2026-07-07T02:45:35.434873+00:00"
-          },
-          "live_websocket": false
-        },
-        "created_at": "2026-06-01T05:20:13.327170+03:00",
-        "prob_home_win": 42.72713686741809,
-        "prob_draw": 28.767142895120045,
-        "prob_away_win": 28.505720237461862,
-        "predicted_result": "H",
-        "expected_home_goals": 1.12418,
-        "expected_away_goals": 1.04958,
-        "prob_over_15": 60.71844800150209,
-        "prob_over_25": 41.6596187582972,
-        "prob_over_35": 14.65110441472236,
-        "prob_btts_yes": 49.09132224414938,
-        "confidence": 42.72713686741809,
-        "model_version": "v5.0",
-        "most_likely_score": "1-1",
-        "favorite": "H",
-        "favorite_prob": 42.72713686741809,
-        "favorite_recommend": false,
-        "over_15_recommend": false,
-        "over_25_recommend": false,
-        "over_35_recommend": false,
-        "btts_recommend": false,
-        "winner_recommend": false
-      },
-      "event_detail": {
-        "id": 10004,
-        "league": {
-          "id": 34,
-          "name": "Brasileirão Serie B",
-          "country": "Brazil",
-          "is_women": false,
-          "current_season": {
-            "id": 52,
-            "name": "Brasileiro Serie B 2026",
-            "year": 2026,
-            "start_date": "2026-01-01",
-            "end_date": "2026-12-31"
-          }
-        },
-        "season": {
-          "id": 52,
-          "name": "Brasileiro Serie B 2026",
-          "year": 2026
-        },
-        "home_team": "Athletic Club",
-        "away_team": "Operário-PR",
-        "home_team_obj": {
-          "id": 843,
-          "name": "Athletic Club",
-          "short_name": "Athletic",
-          "country": "Brazil",
-          "coach": {
-            "name": "Alexsandro de Souza",
-            "shortName": "Alex"
-          },
-          "venue": {
-            "id": 635,
-            "name": "Estádio Joaquim Portugal",
-            "city": "São João del Rei",
-            "country": "Brazil",
-            "capacity": 8000
-          }
-        },
-        "away_team_obj": {
-          "id": 828,
-          "name": "Operário-PR",
-          "short_name": "Operário-PR",
-          "country": "Brazil",
-          "coach": {
-            "name": "Luizinho Lopes",
-            "shortName": "L. Lopes"
-          },
-          "venue": {
-            "id": 621,
-            "name": "Estádio Germano Krüger",
-            "city": "Ponta Grossa",
-            "country": "Brazil",
-            "capacity": 10632
-          }
-        },
-        "event_date": "2026-07-08T02:00:00+03:00",
-        "round_number": 16,
-        "round_name": "",
-        "group_name": null,
-        "status": "notstarted",
-        "home_score": null,
-        "away_score": null,
-        "home_score_ht": null,
-        "away_score_ht": null,
-        "current_minute": null,
-        "period": "",
-        "odds_home": 2.82,
-        "odds_draw": 2.14,
-        "odds_away": 3.43,
-        "odds_over_15": 1.51,
-        "odds_over_25": 6.53,
-        "odds_over_35": 5.07,
-        "odds_under_15": 2.43,
-        "odds_under_25": 1.07,
-        "odds_under_35": 1.14,
-        "odds_btts_yes": 2.1,
-        "odds_btts_no": 1.66,
-        "actual_home_xg": null,
-        "actual_away_xg": null,
-        "home_xg_live": null,
-        "away_xg_live": null,
-        "penalty_shootout": null,
-        "extra_time_score": null,
-        "is_local_derby": null,
-        "is_neutral_ground": null,
-        "travel_distance_km": null,
-        "weather_code": 2,
-        "wind_speed": 10.5,
-        "temperature_c": 13,
-        "pitch_condition": null,
-        "attendance": null,
-        "referee": {
-          "id": 1611,
-          "name": "Joao Vitor Gobi",
-          "country": "Brazil",
-          "nationality_a3": "BRA",
-          "birthdate": null,
-          "yellowCards": 287,
-          "redCards": 14,
-          "career_games": 60,
-          "career_yellow_cards": 287,
-          "career_red_cards": 14
-        },
-        "home_coach": {
-          "id": 155,
-          "name": "Alexsandro de Souza",
-          "short_name": "Alex",
-          "country": "Brazil",
-          "profile": "balanced",
-          "preferred_formation": "4-3-3",
-          "pressing_intensity": 0.5361909188727119,
-          "defensive_line": "mid",
-          "top_styles": [
-            "terrorist_fb",
-            "anti_football"
-          ]
-        },
-        "away_coach": {
-          "id": 161,
-          "name": "Luizinho Lopes",
-          "short_name": "L. Lopes",
-          "country": "Brazil",
-          "profile": "balanced",
-          "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.5827695036856566,
-          "defensive_line": "high",
-          "top_styles": [
-            "anti_football",
-            "ball_dominant"
-          ]
-        },
-        "unavailable_players": {
-          "home": [
-            {
-              "name": "Ronaldo Tavares",
-              "status": "injured",
-              "reason": "ACL Knee Injury",
-              "expected_return": "2027-01-01"
-            }
-          ],
-          "away": []
-        },
-        "venue": {
-          "id": 635,
-          "name": "Estádio Joaquim Portugal",
-          "city": "São João del Rei",
-          "country": "Brazil",
-          "capacity": 8000,
-          "latitude": -21.1275,
-          "longitude": -44.2434,
-          "pitch_x": null,
-          "pitch_y": null,
-          "built_year": null
-        },
-        "live_stats": null,
-        "jerseys": null,
-        "funfacts": null,
-        "sr_stats": null,
-        "ai_preview": {
-          "text": "**Operário-PR's winning streak meets Athletic Club's solid form** — and the visitors are **the team in form** right now, sitting on four wins in five. 🔥\n\nAthletic Club's been steady at home with two wins and a draw in their last three, but Operário just dismantled Goiás 3-0 away and haven't lost since their slip against Botafogo-SP. The model edge goes to the hosts, though the visitors' momentum is legit.\n\nKey storylines:\n\n- **Operário-PR's attack** has been clinical lately — three goals away to Goiás shows they're clicking at both ends of the pitch\n\n- **Athletic Club's defense** will need to stay sharp without R. Tavares out on ACL injury; the backline has to stand firm\n\n- **Low-scoring vibe expected** — these teams' recent matches suggest a cagey midfield battle rather than a goal fest\n\nExpected lineups:\n\n- **Athletic Club**: Luan Polli, Jhonathan, L. Belezi, D. B. d. Souza, Zeca, J. Miguel, Ian Luccas, K. Rodrigues, G. Moyses, O. Otusanya, Ruan Assis\n\n- **Operário-PR**: Vágner, Moraes Júnior, Miranda, J. Cuenú, Mikael, G. Boschilia, G. Feliciano, M. Trindade, V. D. D. Antonia, H. Pereira, Pablo\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Athletic Club 1-0 Operário-PR** — slight lean to the hosts despite the visitors' form, with a tight, low-scoring affair.",
-          "generated_at": "2026-07-07T02:45:35.434873+00:00"
-        },
-        "live_websocket": false,
-        "home_form": {
-          "calculated_at": "2026-07-07",
-          "matches_played": 5,
-          "form_string": "WLDDW",
-          "wins": 2,
-          "draws": 2,
-          "losses": 1,
-          "points_last_n": 8,
-          "goals_scored_last_n": 4,
-          "goals_conceded_last_n": 4,
-          "avg_xg": 1.04958,
-          "avg_xg_conceded": 1.18106,
-          "avg_shots": 15,
-          "avg_shots_on_target": 3.2,
-          "avg_key_passes": 11.2,
-          "goal_conversion_rate": 0.7622096457630672,
-          "defensive_efficiency": 0.3226423721064129,
-          "clean_sheets": 2,
-          "avg_pass_accuracy": 80.71793586503273,
-          "duel_win_rate": 0.5153374233128835,
-          "aerial_win_rate": 0.5671641791044776,
-          "avg_fouls": 15.4,
-          "avg_yellow_cards": 2,
-          "home_ppg": 1.8,
-          "away_ppg": 1,
-          "home_goals_scored": 4,
-          "home_goals_conceded": 2,
-          "away_goals_scored": 5,
-          "away_goals_conceded": 7,
-          "avg_team_rating": 6.843571428571428
-        },
-        "away_form": {
-          "calculated_at": "2026-07-07",
-          "matches_played": 5,
-          "form_string": "WWLWW",
-          "wins": 4,
-          "draws": 0,
-          "losses": 1,
-          "points_last_n": 12,
-          "goals_scored_last_n": 9,
-          "goals_conceded_last_n": 4,
-          "avg_xg": 1.30356,
-          "avg_xg_conceded": 1.05968,
-          "avg_shots": 12.2,
-          "avg_shots_on_target": 3.8,
-          "avg_key_passes": 9.2,
-          "goal_conversion_rate": 1.3808340237503451,
-          "defensive_efficiency": 0.2450551109768987,
-          "clean_sheets": 2,
-          "avg_pass_accuracy": 84.33263372019339,
-          "duel_win_rate": 0.5089686098654709,
-          "aerial_win_rate": 0.5277777777777778,
-          "avg_fouls": 16.2,
-          "avg_yellow_cards": 2.6,
-          "home_ppg": 2,
-          "away_ppg": 1.2,
-          "home_goals_scored": 9,
-          "home_goals_conceded": 8,
-          "away_goals_scored": 7,
-          "away_goals_conceded": 8,
-          "avg_team_rating": 6.933166666666668
-        },
-        "head_to_head": null,
-        "lineups": null,
-        "social": [
-          {
-            "id": 541881,
-            "type": "news",
-            "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOZkp0bzItU3NxcGdybmRiTmxtQXh3TjRlZkRtRkVmUUpMMzJwY3BuTTFBOUZkWEw3WElRdGV1ZzNaeXhxQklOQmxBSUNuVEpWNG1xcFhfV01kaU1YRGxDS2N0TENjMm9COV9iT3RNbDdpRjRQTS1Kb3cyS3pXZy01Z2lDa1Jmdw?oc=5",
-            "title": "Hall of Fame News: New Basketball Memorabilia Donations Received from Canadian Ukrainian Athletic Club Blues and Winnipeg Dominos",
-            "text": "",
-            "thumbnail": "",
-            "account_handle": "basketball manitoba",
-            "account_name": "Basketball Manitoba",
-            "account_verified": false,
-            "published_at": "2026-07-07T17:40:00+00:00"
-          }
-        ]
-      },
-      "managers": {
-        "home": {
-          "id": 155,
-          "name": "Alexsandro de Souza",
-          "short_name": "Alex",
-          "country": "Brazil",
-          "current_team": {
-            "id": 843,
-            "name": "Athletic Club"
-          },
-          "preferred_formation": "4-3-3",
-          "formations_used": {
-            "3-5-2": 1,
-            "4-3-3": 8,
-            "4-4-2": 1,
-            "3-4-1-2": 1,
-            "3-4-2-1": 4,
-            "4-1-4-1": 1,
-            "4-2-3-1": 3,
-            "4-3-1-2": 1
-          },
-          "profile": "balanced",
-          "team_style": "hard",
-          "pressing_intensity": 0.5361909188727119,
-          "defensive_line": "mid",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "terrorist_fb",
-              "name": "Terrorist Football",
-              "category": "fan",
-              "emoji": "💣",
-              "description": "Ultra-negative setup — destroy the game",
-              "score": 0.279
-            },
-            {
-              "rank": 2,
-              "code": "anti_football",
-              "name": "Anti-Football",
-              "category": "defensive",
-              "emoji": "⏱",
-              "description": "Time-wasting, fouling, disrupting rhythm",
-              "score": 0.214
-            },
-            {
-              "rank": 3,
-              "code": "park_the_bus",
-              "name": "Park the Bus",
-              "category": "defensive",
-              "emoji": "🚌",
-              "description": "Ultra-deep defense, minimal attacking intent",
-              "score": 0.067
-            },
-            {
-              "rank": 4,
-              "code": "heritage",
-              "name": "Heritage Football",
-              "category": "fan",
-              "emoji": "🪨",
-              "description": "Old-school physical, long balls and grit",
-              "score": 0.038
-            }
-          ],
-          "matches_total": 20,
-          "wins": 7,
-          "draws": 8,
-          "losses": 5,
-          "win_pct": 35,
-          "avg_goals_scored": 1.25,
-          "avg_goals_conceded": 1.1,
-          "avg_possession": 43.47,
-          "avg_shots": 11.17,
-          "avg_shots_on_target": 3.42,
-          "avg_xg_for": 1.07,
-          "avg_xg_against": 1.14,
-          "avg_corners": 4.11,
-          "avg_yellow_cards": 2.55,
-          "avg_red_cards": 0.3,
-          "avg_fouls": 16.89,
-          "clean_sheet_pct": 20,
-          "btts_pct": 70,
-          "over_25_pct": 35,
-          "over_15_pct": 80,
-          "fail_to_score_pct": 15,
-          "avg_goals_scored_1h": 0.55,
-          "avg_goals_conceded_1h": 0.45
-        },
-        "away": {
-          "id": 161,
-          "name": "Luizinho Lopes",
-          "short_name": "L. Lopes",
-          "country": "Brazil",
-          "current_team": {
-            "id": 828,
-            "name": "Operário-PR"
-          },
-          "preferred_formation": "4-2-3-1",
-          "formations_used": {
-            "4-3-3": 2,
-            "4-4-2": 1,
-            "4-1-4-1": 5,
-            "4-2-3-1": 10,
-            "4-4-1-1": 2
-          },
-          "profile": "balanced",
-          "team_style": "neutral",
-          "pressing_intensity": 0.5827695036856566,
-          "defensive_line": "high",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "anti_football",
-              "name": "Anti-Football",
-              "category": "defensive",
-              "emoji": "⏱",
-              "description": "Time-wasting, fouling, disrupting rhythm",
-              "score": 0.122
-            },
-            {
-              "rank": 2,
-              "code": "ball_dominant",
-              "name": "Ball Dominant",
-              "category": "possession",
-              "emoji": "⚽",
-              "description": "Keep the ball to control tempo and energy",
-              "score": 0.088
-            },
-            {
-              "rank": 3,
-              "code": "terrorist_fb",
-              "name": "Terrorist Football",
-              "category": "fan",
-              "emoji": "💣",
-              "description": "Ultra-negative setup — destroy the game",
-              "score": 0.06
-            },
-            {
-              "rank": 4,
-              "code": "total_football",
-              "name": "Total Football",
-              "category": "possession",
-              "emoji": "🌀",
-              "description": "Fluid rotations, every player attacks and defends",
-              "score": 0.055
-            }
-          ],
-          "matches_total": 20,
-          "wins": 10,
-          "draws": 5,
-          "losses": 5,
-          "win_pct": 50,
-          "avg_goals_scored": 1.25,
-          "avg_goals_conceded": 0.95,
-          "avg_possession": 49.89,
-          "avg_shots": 12.44,
-          "avg_shots_on_target": 4.63,
-          "avg_xg_for": 1.23,
-          "avg_xg_against": 1.03,
-          "avg_corners": 4.26,
-          "avg_yellow_cards": 2.8,
-          "avg_red_cards": 0.05,
-          "avg_fouls": 13.89,
-          "clean_sheet_pct": 55,
-          "btts_pct": 40,
-          "over_25_pct": 50,
-          "over_15_pct": 65,
-          "fail_to_score_pct": 25,
-          "avg_goals_scored_1h": 0.7,
-          "avg_goals_conceded_1h": 0.45
-        }
-      }
-    },
     {
       "event_id": 207693,
       "prediction": {
@@ -799,9 +186,21 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 1,
+              "sentence": "Orange County haven't lost in their last 4 games."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Orange County have lost none of their last 4 away matches."
+            }
+          ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Hartford rolls out at home, but Orange County's hitting a different gear right now.** The visitors are 3W in their last five while Hartford's limping along at 1W-2D-2L — but Dillon Stadium has a way of leveling things out. 🔥\n\nHartford's been leaky defensively (0-1 to Louisville, though they caught Tampa Bay) and need **A. Williams** and **A. A. Obalola** to find the net. Orange County just demolished Miami 4-2 away and are moving the ball beautifully — **Y. Bazini** and **M. War** are in full flow.\n\nKey storylines:\n\n- **Orange County's form vs. Hartford's home advantage** — visitors are unbeaten in five but first road test of the stretch\n- **Hartford's attack needs **A. Williams** to click** — limited chances lately but capable of breaking through\n- **Midfield battle**: **J. Scarlett** and **S. Anderson** have to press **N. Benalcazar** and **S. Kelly** early\n\nExpected lineups:\n\n- **Hartford Athletic**: G. Ngnepi, M. Real, B. Fischer, S. Anderson, J. Scarlett, M. Ngalina, A. Williams, A. A. Obalola\n- **Orange County SC**: A. Rando, R. Doghman, T. Brewitt, L. MacKinnon, N. Benalcazar, S. Kelly, O. Sylla, Y. Bazini\n\nPrediction:\n\n**1-1 draw.** Slight edge to Orange County's confidence, but Hartford won't fold at home.",
+            "generated_at": "2026-07-07T23:45:20.174344+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-06-02T13:53:54.365371+03:00",
@@ -984,9 +383,21 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 1,
+            "sentence": "Orange County haven't lost in their last 4 games."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Orange County have lost none of their last 4 away matches."
+          }
+        ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Hartford rolls out at home, but Orange County's hitting a different gear right now.** The visitors are 3W in their last five while Hartford's limping along at 1W-2D-2L — but Dillon Stadium has a way of leveling things out. 🔥\n\nHartford's been leaky defensively (0-1 to Louisville, though they caught Tampa Bay) and need **A. Williams** and **A. A. Obalola** to find the net. Orange County just demolished Miami 4-2 away and are moving the ball beautifully — **Y. Bazini** and **M. War** are in full flow.\n\nKey storylines:\n\n- **Orange County's form vs. Hartford's home advantage** — visitors are unbeaten in five but first road test of the stretch\n- **Hartford's attack needs **A. Williams** to click** — limited chances lately but capable of breaking through\n- **Midfield battle**: **J. Scarlett** and **S. Anderson** have to press **N. Benalcazar** and **S. Kelly** early\n\nExpected lineups:\n\n- **Hartford Athletic**: G. Ngnepi, M. Real, B. Fischer, S. Anderson, J. Scarlett, M. Ngalina, A. Williams, A. A. Obalola\n- **Orange County SC**: A. Rando, R. Doghman, T. Brewitt, L. MacKinnon, N. Benalcazar, S. Kelly, O. Sylla, Y. Bazini\n\nPrediction:\n\n**1-1 draw.** Slight edge to Orange County's confidence, but Hartford won't fold at home.",
+          "generated_at": "2026-07-07T23:45:20.174344+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-07-07",
@@ -1291,17 +702,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 5.69,
-          "odds_draw": 3.57,
-          "odds_away": 1.61,
+          "odds_home": 5.91,
+          "odds_draw": 3.6,
+          "odds_away": 1.58,
           "odds_over_15": 1.37,
-          "odds_over_25": 2.13,
-          "odds_over_35": 3.85,
-          "odds_under_15": 2.9,
-          "odds_under_25": 1.66,
-          "odds_under_35": 1.23,
-          "odds_btts_yes": 2.1,
-          "odds_btts_no": 1.67,
+          "odds_over_25": 2.15,
+          "odds_over_35": 3.88,
+          "odds_under_15": 2.88,
+          "odds_under_25": 1.65,
+          "odds_under_35": 1.22,
+          "odds_btts_yes": 2.15,
+          "odds_btts_no": 1.64,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -1412,9 +823,25 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 1,
+              "sentence": "Ponte Preta haven't won in their last 10 games."
+            },
+            {
+              "type_id": 24,
+              "sentence": "Ponte Preta's home record this season: 1-2-5."
+            },
+            {
+              "type_id": 26,
+              "sentence": "A year ago, Criciuma were number 15 in the table with 17 points. Now they are number 3 with 27 points."
+            }
+          ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Criciúma rolling, Ponte Preta free-falling** — this is a classic mismatch on paper, with the visitors sitting pretty at 4W-1D while the hosts are in total freefall. 🔴\n\nPonte Preta have been battered lately, losing their last five straight and leaking goals constantly. Criciúma, meanwhile, are the hottest team in this fixture: four wins on the bounce, clean sheets galore, and a ruthless attacking edge.\n\nKey storylines:\n\n- **Criciúma's offensive consistency** against a Ponte Preta defense that's been absolutely picked apart—Elvis and André will need to be everywhere in midfield\n- **Ponte Preta's desperation at home**—William Pottker and Brandão have to spark something, or the losing streak hits six\n- **Criciúma's miserly backline** featuring Luciano Castan and M. Hermes; they've conceded just once in five\n\nExpected lineups:\n\n- **Ponte Preta**: D. Silva, D. Barcelos, Weverton, D. Braz, L. Cunha, André, Elvis, William Pottker, David, Brandão\n- **Criciúma**: Airton, M. Hermes, Luciano Castan, C. Martins, R. Fagundes, F. Mateus, G. Lobo, R. Otero, Waguininho, Diego Gonçalves, J. Robert\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Criciúma 2-0 Ponte Preta** — the visitors have the edge in form, discipline, and momentum. 🎯",
+            "generated_at": "2026-07-07T23:45:25.022443+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-06-02T13:53:54.043614+03:00",
@@ -1507,17 +934,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 5.69,
-        "odds_draw": 3.57,
-        "odds_away": 1.61,
+        "odds_home": 5.91,
+        "odds_draw": 3.6,
+        "odds_away": 1.58,
         "odds_over_15": 1.37,
-        "odds_over_25": 2.13,
-        "odds_over_35": 3.85,
-        "odds_under_15": 2.9,
-        "odds_under_25": 1.66,
-        "odds_under_35": 1.23,
-        "odds_btts_yes": 2.1,
-        "odds_btts_no": 1.67,
+        "odds_over_25": 2.15,
+        "odds_over_35": 3.88,
+        "odds_under_15": 2.88,
+        "odds_under_25": 1.65,
+        "odds_under_35": 1.22,
+        "odds_btts_yes": 2.15,
+        "odds_btts_no": 1.64,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -1622,9 +1049,25 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 1,
+            "sentence": "Ponte Preta haven't won in their last 10 games."
+          },
+          {
+            "type_id": 24,
+            "sentence": "Ponte Preta's home record this season: 1-2-5."
+          },
+          {
+            "type_id": 26,
+            "sentence": "A year ago, Criciuma were number 15 in the table with 17 points. Now they are number 3 with 27 points."
+          }
+        ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Criciúma rolling, Ponte Preta free-falling** — this is a classic mismatch on paper, with the visitors sitting pretty at 4W-1D while the hosts are in total freefall. 🔴\n\nPonte Preta have been battered lately, losing their last five straight and leaking goals constantly. Criciúma, meanwhile, are the hottest team in this fixture: four wins on the bounce, clean sheets galore, and a ruthless attacking edge.\n\nKey storylines:\n\n- **Criciúma's offensive consistency** against a Ponte Preta defense that's been absolutely picked apart—Elvis and André will need to be everywhere in midfield\n- **Ponte Preta's desperation at home**—William Pottker and Brandão have to spark something, or the losing streak hits six\n- **Criciúma's miserly backline** featuring Luciano Castan and M. Hermes; they've conceded just once in five\n\nExpected lineups:\n\n- **Ponte Preta**: D. Silva, D. Barcelos, Weverton, D. Braz, L. Cunha, André, Elvis, William Pottker, David, Brandão\n- **Criciúma**: Airton, M. Hermes, Luciano Castan, C. Martins, R. Fagundes, F. Mateus, G. Lobo, R. Otero, Waguininho, Diego Gonçalves, J. Robert\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Criciúma 2-0 Ponte Preta** — the visitors have the edge in form, discipline, and momentum. 🎯",
+          "generated_at": "2026-07-07T23:45:25.022443+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-07-07",
