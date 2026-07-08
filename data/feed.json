@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-08T19:37:43.399Z",
+  "generated_at": "2026-07-08T21:11:07.256Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -78,17 +78,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.79,
-          "odds_draw": 3.6,
-          "odds_away": 3.81,
+          "odds_home": 1.77,
+          "odds_draw": 3.62,
+          "odds_away": 3.82,
           "odds_over_15": 1.25,
-          "odds_over_25": 1.8,
-          "odds_over_35": 2.99,
-          "odds_under_15": 3.56,
-          "odds_under_25": 1.91,
-          "odds_under_35": 1.34,
-          "odds_btts_yes": 1.74,
-          "odds_btts_no": 1.98,
+          "odds_over_25": 1.79,
+          "odds_over_35": 2.96,
+          "odds_under_15": 3.59,
+          "odds_under_25": 1.92,
+          "odds_under_35": 1.35,
+          "odds_btts_yes": 1.73,
+          "odds_btts_no": 1.99,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -281,17 +281,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.79,
-        "odds_draw": 3.6,
-        "odds_away": 3.81,
+        "odds_home": 1.77,
+        "odds_draw": 3.62,
+        "odds_away": 3.82,
         "odds_over_15": 1.25,
-        "odds_over_25": 1.8,
-        "odds_over_35": 2.99,
-        "odds_under_15": 3.56,
-        "odds_under_25": 1.91,
-        "odds_under_35": 1.34,
-        "odds_btts_yes": 1.74,
-        "odds_btts_no": 1.98,
+        "odds_over_25": 1.79,
+        "odds_over_35": 2.96,
+        "odds_under_15": 3.59,
+        "odds_under_25": 1.92,
+        "odds_under_35": 1.35,
+        "odds_btts_yes": 1.73,
+        "odds_btts_no": 1.99,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -702,17 +702,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 5.77,
-          "odds_draw": 3.55,
-          "odds_away": 1.61,
+          "odds_home": 5.9,
+          "odds_draw": 3.59,
+          "odds_away": 1.59,
           "odds_over_15": 1.39,
-          "odds_over_25": 2.2,
+          "odds_over_25": 2.21,
           "odds_over_35": 3.99,
-          "odds_under_15": 2.81,
-          "odds_under_25": 1.63,
+          "odds_under_15": 2.79,
+          "odds_under_25": 1.62,
           "odds_under_35": 1.21,
-          "odds_btts_yes": 2.17,
-          "odds_btts_no": 1.63,
+          "odds_btts_yes": 2.19,
+          "odds_btts_no": 1.62,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -934,17 +934,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 5.77,
-        "odds_draw": 3.55,
-        "odds_away": 1.61,
+        "odds_home": 5.9,
+        "odds_draw": 3.59,
+        "odds_away": 1.59,
         "odds_over_15": 1.39,
-        "odds_over_25": 2.2,
+        "odds_over_25": 2.21,
         "odds_over_35": 3.99,
-        "odds_under_15": 2.81,
-        "odds_under_25": 1.63,
+        "odds_under_15": 2.79,
+        "odds_under_25": 1.62,
         "odds_under_35": 1.21,
-        "odds_btts_yes": 2.17,
-        "odds_btts_no": 1.63,
+        "odds_btts_yes": 2.19,
+        "odds_btts_no": 1.62,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -1318,11 +1318,11 @@
           "current_minute": null,
           "period": "",
           "odds_home": 2.11,
-          "odds_draw": 3.13,
-          "odds_away": 3.25,
+          "odds_draw": 3.14,
+          "odds_away": 3.26,
           "odds_over_15": 1.34,
           "odds_over_25": 2.06,
-          "odds_over_35": 3.64,
+          "odds_over_35": 3.63,
           "odds_under_15": 2.99,
           "odds_under_25": 1.69,
           "odds_under_35": 1.24,
@@ -1512,11 +1512,11 @@
         "current_minute": null,
         "period": "",
         "odds_home": 2.11,
-        "odds_draw": 3.13,
-        "odds_away": 3.25,
+        "odds_draw": 3.14,
+        "odds_away": 3.26,
         "odds_over_15": 1.34,
         "odds_over_25": 2.06,
-        "odds_over_35": 3.64,
+        "odds_over_35": 3.63,
         "odds_under_15": 2.99,
         "odds_under_25": 1.69,
         "odds_under_35": 1.24,
@@ -1925,13 +1925,13 @@
           "odds_draw": 4.24,
           "odds_away": 5.81,
           "odds_over_15": 1.2,
-          "odds_over_25": 1.66,
-          "odds_over_35": 2.63,
-          "odds_under_15": 4.11,
+          "odds_over_25": 1.67,
+          "odds_over_35": 2.64,
+          "odds_under_15": 4.09,
           "odds_under_25": 2.11,
           "odds_under_35": 1.43,
-          "odds_btts_yes": 1.79,
-          "odds_btts_no": 1.91,
+          "odds_btts_yes": 1.8,
+          "odds_btts_no": 1.9,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -2146,13 +2146,13 @@
         "odds_draw": 4.24,
         "odds_away": 5.81,
         "odds_over_15": 1.2,
-        "odds_over_25": 1.66,
-        "odds_over_35": 2.63,
-        "odds_under_15": 4.11,
+        "odds_over_25": 1.67,
+        "odds_over_35": 2.64,
+        "odds_under_15": 4.09,
         "odds_under_25": 2.11,
         "odds_under_35": 1.43,
-        "odds_btts_yes": 1.79,
-        "odds_btts_no": 1.91,
+        "odds_btts_yes": 1.8,
+        "odds_btts_no": 1.9,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -2621,7 +2621,20 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 1,
+              "sentence": "Morocco haven't lost in their last 34 games."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Morocco have a winning streak of 4 matches."
+            },
+            {
+              "type_id": 1,
+              "sentence": "France have a winning streak of 6 matches."
+            }
+          ],
           "sr_stats": null,
           "ai_preview": null,
           "live_websocket": true
@@ -2829,7 +2842,20 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 1,
+            "sentence": "Morocco haven't lost in their last 34 games."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Morocco have a winning streak of 4 matches."
+          },
+          {
+            "type_id": 1,
+            "sentence": "France have a winning streak of 6 matches."
+          }
+        ],
         "sr_stats": null,
         "ai_preview": null,
         "live_websocket": true,
@@ -41786,6 +41812,12 @@
                 "expected_return": "2026-07-24"
               },
               {
+                "name": "Danilo Santos",
+                "status": "injured",
+                "reason": "rested",
+                "expected_return": "2026-07-17"
+              },
+              {
                 "name": "Júnior Santos",
                 "status": "injured",
                 "reason": "Foot Injury",
@@ -42013,6 +42045,12 @@
               "status": "suspended",
               "reason": "Yellow card accumulation suspension",
               "expected_return": "2026-07-24"
+            },
+            {
+              "name": "Danilo Santos",
+              "status": "injured",
+              "reason": "rested",
+              "expected_return": "2026-07-17"
             },
             {
               "name": "Júnior Santos",
@@ -151204,6 +151242,12 @@
                 "expected_return": "2026-07-24"
               },
               {
+                "name": "Danilo Santos",
+                "status": "injured",
+                "reason": "rested",
+                "expected_return": "2026-07-17"
+              },
+              {
                 "name": "Júnior Santos",
                 "status": "injured",
                 "reason": "Foot Injury",
@@ -151406,6 +151450,12 @@
               "status": "suspended",
               "reason": "Yellow card accumulation suspension",
               "expected_return": "2026-07-24"
+            },
+            {
+              "name": "Danilo Santos",
+              "status": "injured",
+              "reason": "rested",
+              "expected_return": "2026-07-17"
             },
             {
               "name": "Júnior Santos",
@@ -159440,6 +159490,12 @@
                 "expected_return": "2026-07-24"
               },
               {
+                "name": "Danilo Santos",
+                "status": "injured",
+                "reason": "rested",
+                "expected_return": "2026-07-17"
+              },
+              {
                 "name": "Júnior Santos",
                 "status": "injured",
                 "reason": "Foot Injury",
@@ -159673,6 +159729,12 @@
               "status": "suspended",
               "reason": "Yellow card accumulation suspension",
               "expected_return": "2026-07-24"
+            },
+            {
+              "name": "Danilo Santos",
+              "status": "injured",
+              "reason": "rested",
+              "expected_return": "2026-07-17"
             },
             {
               "name": "Júnior Santos",
