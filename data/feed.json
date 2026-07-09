@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T15:41:57.523Z",
+  "generated_at": "2026-07-09T17:59:22.945Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -8,9 +8,9 @@
     "managers_endpoint": "/managers/?team_id={id}"
   },
   "summary": {
-    "total_matches": 295,
-    "total_leagues": 14,
-    "average_confidence": 49.8879762574116,
+    "total_matches": 294,
+    "total_leagues": 13,
+    "average_confidence": 49.89020281730011,
     "favorite_recommend": 0,
     "over_15_recommend": 0,
     "over_25_recommend": 0,
@@ -19,587 +19,6 @@
     "winner_recommend": 0
   },
   "items": [
-    {
-      "event_id": 210782,
-      "prediction": {
-        "id": 5354,
-        "event": {
-          "id": 210782,
-          "league": {
-            "id": 8,
-            "name": "Europa League",
-            "country": "Europe",
-            "is_women": false,
-            "current_season": {
-              "id": 1269,
-              "name": "UEFA Europa League 26/27",
-              "year": 2026,
-              "start_date": "2026-07-01",
-              "end_date": "2027-06-30"
-            }
-          },
-          "season": {
-            "id": 1269,
-            "name": "UEFA Europa League 26/27",
-            "year": 2026
-          },
-          "home_team": "Dynamo Kyiv",
-          "away_team": "FC Universitatea Cluj",
-          "home_team_obj": {
-            "id": 378,
-            "name": "Dynamo Kyiv",
-            "short_name": "Dynamo Kyiv",
-            "country": "Ukraine",
-            "coach": {
-              "name": "Igor Kostyuk",
-              "shortName": "I. Kostyuk"
-            },
-            "venue": {
-              "id": 358,
-              "name": "Valeriy Lobanovskyi",
-              "city": "Kyiv",
-              "country": "Ukraine",
-              "capacity": 16873
-            }
-          },
-          "away_team_obj": {
-            "id": 355,
-            "name": "FC Universitatea Cluj",
-            "short_name": "U. Cluj",
-            "country": "Romania",
-            "coach": {
-              "name": "Cristiano Bergodi",
-              "shortName": "C. Bergodi"
-            },
-            "venue": {
-              "id": 335,
-              "name": "Cluj Arena",
-              "city": "Cluj Napoca",
-              "country": "Romania",
-              "capacity": 30246
-            }
-          },
-          "event_date": "2026-07-09T20:00:00+03:00",
-          "round_number": 1,
-          "round_name": "Qualification Round 1",
-          "group_name": null,
-          "status": "notstarted",
-          "home_score": null,
-          "away_score": null,
-          "home_score_ht": null,
-          "away_score_ht": null,
-          "current_minute": null,
-          "period": "",
-          "odds_home": 1.68,
-          "odds_draw": 2.93,
-          "odds_away": 5.86,
-          "odds_over_15": 1.18,
-          "odds_over_25": 1.6,
-          "odds_over_35": 2.48,
-          "odds_under_15": 4.41,
-          "odds_under_25": 2.22,
-          "odds_under_35": 1.48,
-          "odds_btts_yes": 1.81,
-          "odds_btts_no": 1.89,
-          "actual_home_xg": null,
-          "actual_away_xg": null,
-          "home_xg_live": null,
-          "away_xg_live": null,
-          "penalty_shootout": null,
-          "extra_time_score": null,
-          "is_local_derby": false,
-          "is_neutral_ground": null,
-          "travel_distance_km": null,
-          "weather_code": 2,
-          "wind_speed": 12.7,
-          "temperature_c": 22,
-          "pitch_condition": null,
-          "attendance": null,
-          "referee": {
-            "id": 2680,
-            "name": "Joonas Jaanovits",
-            "country": "Estonia",
-            "nationality_a3": "",
-            "birthdate": null,
-            "yellowCards": 509,
-            "redCards": 16,
-            "career_games": 125,
-            "career_yellow_cards": 509,
-            "career_red_cards": 16
-          },
-          "home_coach": {
-            "id": 641,
-            "name": "Igor Kostyuk",
-            "short_name": "I. Kostyuk",
-            "country": "Ukraine",
-            "profile": "balanced",
-            "preferred_formation": "4-3-3",
-            "pressing_intensity": null,
-            "defensive_line": "",
-            "top_styles": []
-          },
-          "away_coach": {
-            "id": 430,
-            "name": "Cristiano Bergodi",
-            "short_name": "C. Bergodi",
-            "country": "Italy",
-            "profile": "balanced",
-            "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.564744855461777,
-            "defensive_line": "mid",
-            "top_styles": [
-              "ball_dominant",
-              "total_football"
-            ]
-          },
-          "unavailable_players": null,
-          "venue": {
-            "id": 412,
-            "name": "Arena Lublin",
-            "city": "Lublin",
-            "country": "Poland",
-            "capacity": 15243,
-            "latitude": 51.2319,
-            "longitude": 22.5575,
-            "pitch_x": null,
-            "pitch_y": null,
-            "built_year": null
-          },
-          "incidents": null,
-          "live_stats": null,
-          "lineups": null,
-          "shotmap": null,
-          "momentum": null,
-          "xg_per_minute": null,
-          "average_positions": null,
-          "jerseys": {
-            "away": {
-              "GK": {
-                "base": "f19e5d",
-                "real": true,
-                "type": "long_sleeves",
-                "number": "ffffff",
-                "sleeve": "e9a950",
-                "sleevelong": "eba420"
-              },
-              "player": {
-                "base": "000000",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "000000"
-              }
-            },
-            "home": {
-              "GK": {
-                "base": "c3ff00",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "d5eb6d"
-              },
-              "player": {
-                "base": "ffffff",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "0b2d68",
-                "sleeve": "0c3275",
-                "sleevelong": "ffffff"
-              }
-            }
-          },
-          "funfacts": [
-            {
-              "type_id": 1,
-              "sentence": "Uni Cluj haven't won in their last 6 games."
-            }
-          ],
-          "sr_stats": null,
-          "ai_preview": {
-            "text": "**Dynamo Kyiv's doing the heavy lifting here** — they're the clear favorites against FC Universitatea Cluj in this Europa League opener, though both sides are showing mixed form. 🔵\n\nKyiv's bouncing between statement wins and frustrating losses (1-0 v Maccabi Tel Aviv looked clean, but that 1-3 away loss stings). Cluj? They've got some grit — drew with Dinamo București, beat Rapid — but that 0-5 thrashing from Universitatea Craiova is a red flag heading into Europe's second tier. 🚩\n\nKey storylines:\n\n- **Dynamo Kyiv's attack** needs **A. Yarmolenko** and **E. Guerrero** clicking on the day to break down a compact Cluj defense\n- **O. Mendy** and **I. Macalou** will have to press hard for Cluj if they're to steal anything on the road\n- This feels like a controlled European performance — not a goal-fest\n\nExpected lineups:\n\n- **Dynamo Kyiv**: R. Neshcheret, V. Dubinchak, D. Popov, K. Bilovar, A. Yarmolenko, M. Mykhailenko, M. Shaparenko, O. Pikhalyonok, V. Kabaiev, E. Guerrero, N. Voloshyn\n- **FC Universitatea Cluj**: S. Lefter, A. Chipciu, A. Coubiș, I. Cristea, D. Mikanović, O. Bic, M. Drammeh, A. Gheorghiță, D. Nistor, I. Macalou, O. Mendy\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Dynamo Kyiv 2–0 FC Universitatea Cluj**. Kyiv's got the edge in Europe, and a low-scoring win feels right.",
-            "generated_at": "2026-07-09T01:45:25.591169+00:00"
-          },
-          "live_websocket": true
-        },
-        "created_at": "2026-07-03T05:20:13.464086+03:00",
-        "prob_home_win": 49.23336765019127,
-        "prob_draw": 22.111748716804815,
-        "prob_away_win": 28.654883633003926,
-        "predicted_result": "H",
-        "expected_home_goals": 1.15,
-        "expected_away_goals": 1.3,
-        "prob_over_15": 68.47382601307753,
-        "prob_over_25": 41.92374437537366,
-        "prob_over_35": 20.445991874417878,
-        "prob_btts_yes": 39.15742839270051,
-        "confidence": 49.23336765019127,
-        "model_version": "v5.0",
-        "most_likely_score": "1-1",
-        "favorite": "H",
-        "favorite_prob": 49.23336765019127,
-        "favorite_recommend": false,
-        "over_15_recommend": false,
-        "over_25_recommend": false,
-        "over_35_recommend": false,
-        "btts_recommend": false,
-        "winner_recommend": false
-      },
-      "event_detail": {
-        "id": 210782,
-        "league": {
-          "id": 8,
-          "name": "Europa League",
-          "country": "Europe",
-          "is_women": false,
-          "current_season": {
-            "id": 1269,
-            "name": "UEFA Europa League 26/27",
-            "year": 2026,
-            "start_date": "2026-07-01",
-            "end_date": "2027-06-30"
-          }
-        },
-        "season": {
-          "id": 1269,
-          "name": "UEFA Europa League 26/27",
-          "year": 2026
-        },
-        "home_team": "Dynamo Kyiv",
-        "away_team": "FC Universitatea Cluj",
-        "home_team_obj": {
-          "id": 378,
-          "name": "Dynamo Kyiv",
-          "short_name": "Dynamo Kyiv",
-          "country": "Ukraine",
-          "coach": {
-            "name": "Igor Kostyuk",
-            "shortName": "I. Kostyuk"
-          },
-          "venue": {
-            "id": 358,
-            "name": "Valeriy Lobanovskyi",
-            "city": "Kyiv",
-            "country": "Ukraine",
-            "capacity": 16873
-          }
-        },
-        "away_team_obj": {
-          "id": 355,
-          "name": "FC Universitatea Cluj",
-          "short_name": "U. Cluj",
-          "country": "Romania",
-          "coach": {
-            "name": "Cristiano Bergodi",
-            "shortName": "C. Bergodi"
-          },
-          "venue": {
-            "id": 335,
-            "name": "Cluj Arena",
-            "city": "Cluj Napoca",
-            "country": "Romania",
-            "capacity": 30246
-          }
-        },
-        "event_date": "2026-07-09T20:00:00+03:00",
-        "round_number": 1,
-        "round_name": "Qualification Round 1",
-        "group_name": null,
-        "status": "notstarted",
-        "home_score": null,
-        "away_score": null,
-        "home_score_ht": null,
-        "away_score_ht": null,
-        "current_minute": null,
-        "period": "",
-        "odds_home": 1.68,
-        "odds_draw": 2.93,
-        "odds_away": 5.86,
-        "odds_over_15": 1.18,
-        "odds_over_25": 1.6,
-        "odds_over_35": 2.48,
-        "odds_under_15": 4.41,
-        "odds_under_25": 2.22,
-        "odds_under_35": 1.48,
-        "odds_btts_yes": 1.81,
-        "odds_btts_no": 1.89,
-        "actual_home_xg": null,
-        "actual_away_xg": null,
-        "home_xg_live": null,
-        "away_xg_live": null,
-        "penalty_shootout": null,
-        "extra_time_score": null,
-        "is_local_derby": false,
-        "is_neutral_ground": null,
-        "travel_distance_km": null,
-        "weather_code": 2,
-        "wind_speed": 12.7,
-        "temperature_c": 22,
-        "pitch_condition": null,
-        "attendance": null,
-        "referee": {
-          "id": 2680,
-          "name": "Joonas Jaanovits",
-          "country": "Estonia",
-          "nationality_a3": "",
-          "birthdate": null,
-          "yellowCards": 509,
-          "redCards": 16,
-          "career_games": 125,
-          "career_yellow_cards": 509,
-          "career_red_cards": 16
-        },
-        "home_coach": {
-          "id": 641,
-          "name": "Igor Kostyuk",
-          "short_name": "I. Kostyuk",
-          "country": "Ukraine",
-          "profile": "balanced",
-          "preferred_formation": "4-3-3",
-          "pressing_intensity": null,
-          "defensive_line": "",
-          "top_styles": []
-        },
-        "away_coach": {
-          "id": 430,
-          "name": "Cristiano Bergodi",
-          "short_name": "C. Bergodi",
-          "country": "Italy",
-          "profile": "balanced",
-          "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.564744855461777,
-          "defensive_line": "mid",
-          "top_styles": [
-            "ball_dominant",
-            "total_football"
-          ]
-        },
-        "unavailable_players": null,
-        "venue": {
-          "id": 412,
-          "name": "Arena Lublin",
-          "city": "Lublin",
-          "country": "Poland",
-          "capacity": 15243,
-          "latitude": 51.2319,
-          "longitude": 22.5575,
-          "pitch_x": null,
-          "pitch_y": null,
-          "built_year": null
-        },
-        "live_stats": null,
-        "jerseys": {
-          "away": {
-            "GK": {
-              "base": "f19e5d",
-              "real": true,
-              "type": "long_sleeves",
-              "number": "ffffff",
-              "sleeve": "e9a950",
-              "sleevelong": "eba420"
-            },
-            "player": {
-              "base": "000000",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "000000"
-            }
-          },
-          "home": {
-            "GK": {
-              "base": "c3ff00",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "d5eb6d"
-            },
-            "player": {
-              "base": "ffffff",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "0b2d68",
-              "sleeve": "0c3275",
-              "sleevelong": "ffffff"
-            }
-          }
-        },
-        "funfacts": [
-          {
-            "type_id": 1,
-            "sentence": "Uni Cluj haven't won in their last 6 games."
-          }
-        ],
-        "sr_stats": null,
-        "ai_preview": {
-          "text": "**Dynamo Kyiv's doing the heavy lifting here** — they're the clear favorites against FC Universitatea Cluj in this Europa League opener, though both sides are showing mixed form. 🔵\n\nKyiv's bouncing between statement wins and frustrating losses (1-0 v Maccabi Tel Aviv looked clean, but that 1-3 away loss stings). Cluj? They've got some grit — drew with Dinamo București, beat Rapid — but that 0-5 thrashing from Universitatea Craiova is a red flag heading into Europe's second tier. 🚩\n\nKey storylines:\n\n- **Dynamo Kyiv's attack** needs **A. Yarmolenko** and **E. Guerrero** clicking on the day to break down a compact Cluj defense\n- **O. Mendy** and **I. Macalou** will have to press hard for Cluj if they're to steal anything on the road\n- This feels like a controlled European performance — not a goal-fest\n\nExpected lineups:\n\n- **Dynamo Kyiv**: R. Neshcheret, V. Dubinchak, D. Popov, K. Bilovar, A. Yarmolenko, M. Mykhailenko, M. Shaparenko, O. Pikhalyonok, V. Kabaiev, E. Guerrero, N. Voloshyn\n- **FC Universitatea Cluj**: S. Lefter, A. Chipciu, A. Coubiș, I. Cristea, D. Mikanović, O. Bic, M. Drammeh, A. Gheorghiță, D. Nistor, I. Macalou, O. Mendy\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Dynamo Kyiv 2–0 FC Universitatea Cluj**. Kyiv's got the edge in Europe, and a low-scoring win feels right.",
-          "generated_at": "2026-07-09T01:45:25.591169+00:00"
-        },
-        "live_websocket": true,
-        "home_form": {
-          "calculated_at": "2026-07-09",
-          "matches_played": 2,
-          "form_string": "WL",
-          "wins": 1,
-          "draws": 0,
-          "losses": 1,
-          "points_last_n": 3,
-          "goals_scored_last_n": 2,
-          "goals_conceded_last_n": 3,
-          "avg_xg": 1,
-          "avg_xg_conceded": 1.5,
-          "avg_shots": 0,
-          "avg_shots_on_target": 0,
-          "avg_key_passes": 0,
-          "goal_conversion_rate": 0,
-          "defensive_efficiency": 0,
-          "clean_sheets": 1,
-          "avg_pass_accuracy": 0,
-          "duel_win_rate": 0,
-          "aerial_win_rate": 0,
-          "avg_fouls": 0,
-          "avg_yellow_cards": 0,
-          "home_ppg": 3,
-          "away_ppg": 0,
-          "home_goals_scored": 1,
-          "home_goals_conceded": 0,
-          "away_goals_scored": 1,
-          "away_goals_conceded": 3,
-          "avg_team_rating": 0
-        },
-        "away_form": null,
-        "head_to_head": null,
-        "lineups": null,
-        "social": []
-      },
-      "managers": {
-        "home": {
-          "id": 641,
-          "name": "Igor Kostyuk",
-          "short_name": "I. Kostyuk",
-          "country": "Ukraine",
-          "current_team": {
-            "id": 378,
-            "name": "Dynamo Kyiv"
-          },
-          "preferred_formation": "4-3-3",
-          "formations_used": {
-            "4-3-3": 6
-          },
-          "profile": "balanced",
-          "team_style": "neutral",
-          "pressing_intensity": null,
-          "defensive_line": "",
-          "tactical_styles": [],
-          "matches_total": 6,
-          "wins": 3,
-          "draws": 0,
-          "losses": 3,
-          "win_pct": 50,
-          "avg_goals_scored": 1.33,
-          "avg_goals_conceded": 1,
-          "avg_possession": 44.5,
-          "avg_shots": 8.5,
-          "avg_shots_on_target": 2.5,
-          "avg_xg_for": null,
-          "avg_xg_against": null,
-          "avg_corners": 6.5,
-          "avg_yellow_cards": 2,
-          "avg_red_cards": 0.17,
-          "avg_fouls": 12.5,
-          "clean_sheet_pct": 50,
-          "btts_pct": 16.7,
-          "over_25_pct": 50,
-          "over_15_pct": 66.7,
-          "fail_to_score_pct": 33.3,
-          "avg_goals_scored_1h": 0.83,
-          "avg_goals_conceded_1h": 0.33
-        },
-        "away": {
-          "id": 430,
-          "name": "Cristiano Bergodi",
-          "short_name": "C. Bergodi",
-          "country": "Italy",
-          "current_team": {
-            "id": 355,
-            "name": "FC Universitatea Cluj"
-          },
-          "preferred_formation": "4-2-3-1",
-          "formations_used": {
-            "4-3-3": 11,
-            "5-4-1": 1,
-            "4-1-3-2": 1,
-            "4-2-3-1": 20,
-            "4-3-1-2": 6,
-            "4-4-1-1": 1
-          },
-          "profile": "balanced",
-          "team_style": "neutral",
-          "pressing_intensity": 0.564744855461777,
-          "defensive_line": "mid",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "ball_dominant",
-              "name": "Ball Dominant",
-              "category": "possession",
-              "emoji": "⚽",
-              "description": "Keep the ball to control tempo and energy",
-              "score": 0.058
-            },
-            {
-              "rank": 2,
-              "code": "total_football",
-              "name": "Total Football",
-              "category": "possession",
-              "emoji": "🌀",
-              "description": "Fluid rotations, every player attacks and defends",
-              "score": 0.053
-            },
-            {
-              "rank": 3,
-              "code": "tiki_taka",
-              "name": "Tiki-Taka",
-              "category": "possession",
-              "emoji": "🎨",
-              "description": "Short passing, domination via possession",
-              "score": 0.051
-            },
-            {
-              "rank": 4,
-              "code": "gegenpressing",
-              "name": "Gegenpressing",
-              "category": "pressing",
-              "emoji": "💨",
-              "description": "Immediate press after losing the ball",
-              "score": 0.05
-            }
-          ],
-          "matches_total": 40,
-          "wins": 22,
-          "draws": 7,
-          "losses": 11,
-          "win_pct": 55,
-          "avg_goals_scored": 1.52,
-          "avg_goals_conceded": 0.95,
-          "avg_possession": 51.95,
-          "avg_shots": 11.93,
-          "avg_shots_on_target": 3.98,
-          "avg_xg_for": 1.29,
-          "avg_xg_against": 1.09,
-          "avg_corners": 4.78,
-          "avg_yellow_cards": 2,
-          "avg_red_cards": 0.05,
-          "avg_fouls": 10.72,
-          "clean_sheet_pct": 37.5,
-          "btts_pct": 45,
-          "over_25_pct": 47.5,
-          "over_15_pct": 65,
-          "fail_to_score_pct": 22.5,
-          "avg_goals_scored_1h": 0.75,
-          "avg_goals_conceded_1h": 0.35
-        }
-      }
-    },
     {
       "event_id": 8383,
       "prediction": {
@@ -1092,7 +511,248 @@
         },
         "head_to_head": null,
         "lineups": null,
-        "social": []
+        "social": [
+          {
+            "id": 558867,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9NNUZ0cWtSaWJCUEtReC1Delk0cTVtczdQbUxubDd2M1dYeXZIR2w4XzlhOHJDUkxyWHZoTGZSYjhqX3JGc1NKMTlScmtUcFd4VGNkdkFzNXQyT0hpQ0RmamFyT3J1REdtVHlIRHZKVGRiRkU?oc=5",
+            "title": "Preview: 2026 Tour de France, stage 7",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "escape collective",
+            "account_name": "Escape Collective",
+            "account_verified": false,
+            "published_at": "2026-07-09T17:13:45+00:00"
+          },
+          {
+            "id": 558462,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNd1ItU1BYUVNHN0hTMVoyMkUzR2JFaE53UDBXdmUyZDhyZWNFRW1QNDNOUlBROEJJcHdhQ3QxUWJoOF9fdl94Tk00bm85OEc4MXFvZUx1ZDZtNlBOV1gxTWlXaXdqZkZRam1QbG9HcDlXYXRUYnBhTzlaLUlraHhNcXVLdTAtM0habURpaEJ3aGJnZXFaS19JYTBR?oc=5",
+            "title": "How to Watch France Vs. Morocco Online for Free From Anywhere",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "business insider",
+            "account_name": "Business Insider",
+            "account_verified": false,
+            "published_at": "2026-07-09T17:13:01+00:00"
+          },
+          {
+            "id": 558877,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMFdDbk5kdzdoNmNLZWMxNjJ2RVNvNUlWbUZlUW94emVZdzNEamNXbTNSQl9HVUd4alhPNDliTkFFUXV4Sk5EUHpQLWlpbkFNYngxUWR4RXZTVmEzaXhDeUxWR0Z3UkQ2TFkwS0VMQi1CMmhra1F1Z25fc0gzNFkxbXM0aXpwNVZhVWUzbm1HMEZ3U3R4SlI3a0pheFF5QmQ4bEhkX25n?oc=5",
+            "title": "Octopus Energy France Launches National Partner Network for Residential Solar",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "energynews.pro",
+            "account_name": "energynews.pro",
+            "account_verified": false,
+            "published_at": "2026-07-09T17:12:23+00:00"
+          },
+          {
+            "id": 558498,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOZkZCRjg1MWN5a2R1MzAwMkpRcFRrQVd3LXoyandCMjZPcFhWSHQ0bVMxVXZONktrMHJCSnN1blVkOHBlZUVFQjlLVHh4cm1wcEF2NXV0RHMyMUNwajRqZkVWbDNNUlgtY2JCa05fRE8tcGNCWWlzUW5LN0J1bFVZdzJ2Q2U0Y2pi?oc=5",
+            "title": "Bet On Morocco vs France With 4 Sportsbooks EXCLUSIVE To New York bettors",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "nysportsday.com",
+            "account_name": "nysportsday.com",
+            "account_verified": false,
+            "published_at": "2026-07-09T17:12:01+00:00"
+          },
+          {
+            "id": 558492,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOMjl1RFNfdEFKSTk1VVNmbXRndVlzcjhxUmxyVEM5WFFLSjllOVZRcFZQcWVzZmJ4TlNBREJ4TlVyaU1MWFJkZDBVZW04QVkxRzZUUW01c0FUblc5S2lBcnZhbFJIUzF3LU9EckJxUlY4OWFCQTh1ZndHcU1UY1luWjdB?oc=5",
+            "title": "3 France vs Morocco Best Bets To Net You Big Profits Today",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "nysportsday.com",
+            "account_name": "nysportsday.com",
+            "account_verified": false,
+            "published_at": "2026-07-09T17:12:01+00:00"
+          },
+          {
+            "id": 558494,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPbllFRVFCVk55cUM4b192Q211bm1TSEVnMzkycEV6dTFlN0lnelhiZC1oQS1lc2FPSXZQX0x6dVRsOHRlX1JzaVREY0tRalQzSEJDLVU2UlBfMUxUNWJyMXEwQ3Q2aHVqazQ3SnZkOWlYNDlMcEVvYlQ2WmhPZTQ5Y1dIMHZSSF9O?oc=5",
+            "title": "5 Most Popular France vs Morocco Betting Picks On World Cup Sportsbooks",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "nysportsday.com",
+            "account_name": "nysportsday.com",
+            "account_verified": false,
+            "published_at": "2026-07-09T17:12:01+00:00"
+          },
+          {
+            "id": 558863,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQaEJQcDF6RmdKbU1RZGM5dVEtZlNaOWZTcm1CanJQeVIwSkpyZi0zUmVnWER0RDBOMGI0N2JqcHlCSUhwRXg0cXBycnZaMmxaWE1RWmY4czJmRTJjY201YkY4VDFqamlWd2h0VVFDaEw4YXUyTXBqaFEtUU9YSXpqQzNFazhxZVE0YXlLeVg2RG4?oc=5",
+            "title": "What Tour de France Stage 6 Teaches Riders About Climbing Big Mountains",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "bicycling.com",
+            "account_name": "bicycling.com",
+            "account_verified": false,
+            "published_at": "2026-07-09T17:12:00+00:00"
+          },
+          {
+            "id": 558497,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxOMGFpUUhrcGRGV2xLT21DVXdpQlNvUjgyLUlvb0pvV3RYOE1FWl9ubjRtcXhiZEZvQWtqbzk2WmxyRVFuTTZabDBMcFl0YWk3Ty0teWIybkVIYzdBanNDdEpvbWZNeC1IRE14NmxoZmpEQzNCR2F6RW90QjFDY094OVRodkNhTjRWUTFwUFlSbDZLOGkzTncwa2Z3YkxKV1Y0TjlHbGhBdWpWeHFYN2hEbkZTODhxUG5MUWxZZVc2V0liSVRYTmxtM29adldtV0hNSUI2UWdUaWYtSzRuNlBwQUNnVlEyUXNTcUxCWnBaZ0hKdG5xYVFr?oc=5",
+            "title": "NoVig Promo Code GOAL100: Get $50 in Bonuses for France vs Morocco & World Cup Prediction Markets",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "goal.com",
+            "account_name": "Goal.com",
+            "account_verified": false,
+            "published_at": "2026-07-09T17:11:49+00:00"
+          },
+          {
+            "id": 558503,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxPenJyNHdOVW1DZmd6QmEzME5YRXRsSE54anV1VW5Rck9jeUtucEw3VnkxenVqb1NOMWFtd2locjN5SnFvNUk3TGlvR3dBRUFwdEo1TnZORkZ0RjlVcXBNcjZ6OXV2RGxGSWJKeHdueTZmbkl5RGp2OFZGcHZoZnh4bWFPOG9fX0FET3d6UjdtZnJibkZfOW43aTNhdXFBbFBGX0JkbldtNVNZZXBTMUlLbmJLQzZwN3dkQzdGTkZnaDNBTUh1QVlnbWNJMWM5RldzMGcyZmp6UG1rUmVmNDh1WFFwajJKaTQ?oc=5",
+            "title": "BetMGM Bonus Code GOALTOPGET: Get $1000 Bonuses for France vs Morocco, World Cup Matches",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "goal.com",
+            "account_name": "Goal.com",
+            "account_verified": false,
+            "published_at": "2026-07-09T17:11:49+00:00"
+          },
+          {
+            "id": 558476,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdVRFUEdkR0hMTXlwSHJ3MDdMZjZXTzNXOVNHSVhRUU1uRnh0RlJvb3duSjhka0k3bjhLYnNkWXFVNVU0VFJOUldCbzUwRTZjWTJ3eDJGVlYxMVVtZVhUWDF5YXFfdXc5M3hORUxiVjhLNzlqbUUtcXd1YUlDdWF2OFdONEw5ZTlZclhySlJyUS05aXhDWVk2UnVLbnk?oc=5",
+            "title": "Best World Cup Bets Today: Mbappé, Dembélé Props for France vs. Morocco",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "ftn (for the numbers)",
+            "account_name": "FTN (For the Numbers)",
+            "account_verified": false,
+            "published_at": "2026-07-09T17:11:33+00:00"
+          },
+          {
+            "id": 558872,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiXkFVX3lxTFBOd2pDV20wR0R2Z1pHdW1fUHFtYUQzdDJ6OXdzOHExdmVNT0tjeHpsVlJCc1pjOTVLc1BXaE9abzEyVGxBdndtSGNaWGc0ODFMVlFIa2VQUHdtSFJSN0E?oc=5",
+            "title": "Tour de France Stage 7 Preview",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "the inner ring",
+            "account_name": "The Inner Ring",
+            "account_verified": false,
+            "published_at": "2026-07-09T17:10:39+00:00"
+          },
+          {
+            "id": 558522,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNX1lvY0V3RmswNG9aMmFUcVpOcWtObkRCQ0lWdnpJSTZsNllZbzVFUU5oS2JyQW1lSktoQ0UzTGl0UTFicHg0MGlTZER0aXk2eWo4VXY4QVdiTHlucGpPYUJReXBUQTRXQmN5VUVTQUNub1ZNTW9MY2VRbXg0WDJiQ1R5ZDcyOEZzWXlTWlBUZHJoOHNjbTRBaWd3Z0ROalNUTnhqZ1lHamwxdw?oc=5",
+            "title": "Bet365 Bonus Code: Get $150 in Bonus Bets for France vs. Morocco",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "covers.com",
+            "account_name": "Covers.com",
+            "account_verified": false,
+            "published_at": "2026-07-09T17:10:00+00:00"
+          },
+          {
+            "id": 558893,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPdzdOMDdfWWVHeHB2alFCdHhpdGlTaWg3dGQ0RUEwbkZlbGxfcGYxMjZXbVNXT21LajlIMHFObWtUUFVZbF9nNTNrTmNNZVVIX1lqR29GU3R2UlpSVE5lR19WN1ZrY2p6dWRiMV9rU2JWTXVRWWpZU1ZNZ2IyaXpSNkE3dEJGYktkblhtR19lUlBUNnJmOW1sWmE5emlWVE9Na3NLWElNaTUyS0lHcjNUN25raWxzb2hzTWQ1Z01rdUtkNHFYdTFxS29B?oc=5",
+            "title": "Lidl-Trek Has Three Riders in the Top Ten After the First Mountain Stage of the Tour de France",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "idlprocycling.com",
+            "account_name": "IDLprocycling.com",
+            "account_verified": false,
+            "published_at": "2026-07-09T17:09:31+00:00"
+          },
+          {
+            "id": 558881,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE82SGZMT3FKTERJSFR0bmtEZ0JTcGdoLXo4Y0dPLUZXX2N1MWJMVF80NlIyaE1EWjVLOUdiS3FsRU13UTJiUnpodFBfRDZnWW1TV2EtOHp6dTZFa2ZoNWlCNzU3V2VWQQ?oc=5",
+            "title": "Tour de France 2026: Tadej Pogacar wins stage six on Tourmalet",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "bbc",
+            "account_name": "BBC",
+            "account_verified": false,
+            "published_at": "2026-07-09T17:08:34+00:00"
+          },
+          {
+            "id": 558478,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPNlJEXzg3YlpNclpVdXRNSUg1WlhCZUpaRWZzMnFndlY3clpMdURYaHhxdTBLV2dLd2d3QWw5bFFKUkJKX1M0emN2Wk1aOWFCREN2amdLOW5XWllvdEttVHlPWWFnOERwalhvZk9zd3hPRFptLTNOYXBDbWVjbVI3dWptWUp1d1FWeUhxOVJzV1lQTW52eXNMMGp2VHQzWHEwWEh1dkJ6YmFWLVlMVU9OUmdnTFBqY240TkZ2ZVZKQk41aUdFblo1Z1BwRkNCN0J6M19ORTBIczZKUQ?oc=5",
+            "title": "Morocco XI vs France: Predicted lineup and confirmed team news",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "standard.co.uk",
+            "account_name": "standard.co.uk",
+            "account_verified": false,
+            "published_at": "2026-07-09T17:08:02+00:00"
+          },
+          {
+            "id": 558505,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQY0V1R2tyZDFQTFc4dEt0MTVhblZ1cndOdENPSk9Md0I4c2JUdFRJWVZsRUhQNVNIMnZiTDByVlppZ3p1UlRicngya0I1YTY0Uk5wV1NiN1hPekNDemV0YndsYmNLZExFUXVRcmNlcjY5eUtjUVpyYjBIOFhuUTI4UzZhTXM2eHF2WHpRS3lINUtFVk13UVdYRnJJcWU2Y3JTeGhkSDNaZ0cwWGxWWVB5dWQtSnB1X1d1YUpmd0RXREY2UjN4dUxrVm9hTVhIMENhdENUM3ZXMWNGb3BzNzJadXRB?oc=5",
+            "title": "bet365 Bonus Code GOALBET: Get $150 in Bonuses For France vs Morocco, 2026 World Cup",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "goal.com",
+            "account_name": "Goal.com",
+            "account_verified": false,
+            "published_at": "2026-07-09T17:06:49+00:00"
+          },
+          {
+            "id": 558519,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOLWFxWkY2UFUxdFVGV2JVM1AtQlZaQVBHTXFhbVdac0szeUE1N3l1VkQ3dFA3OWhETWhfTXhEdDR5OHhuN1hEaEVlNk1jNEJPQXlXYVdCY3FjSXpzbndqVmFpT0pKTVE1bkJFRDhyeW5OeGVTTmk5WUFUOENhX19MTzYxSVRXamRkS2FxWUZoUld0OUdESUExaGwzWXozeDlvQTRkbw?oc=5",
+            "title": "🏆Bombshell: the 2030 World Cup final could be played in Morocco",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "onefootball",
+            "account_name": "OneFootball",
+            "account_verified": false,
+            "published_at": "2026-07-09T17:05:40+00:00"
+          },
+          {
+            "id": 558528,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPaGVFM0ItcmxCV0pBTXV6enhwVXNCbm16WEZPMGpEeU1jNmhvX2JKTHRqN0VPR3lDQXVYSlpVNFVaejRIbXZzZlRTOE5sR1hQS3NRM1U1Q2JXYnVYNERwRnk5eHRhVlFPbjNpRzVLc1N2M2U2YTRRVjhGaUROUkFnNVBkTEZyMW9oUHEzWEx5ZFJYYzNOUTgzaXRIMmw4RHZFc0VTTEh2QVJLSGs?oc=5",
+            "title": "FanDuel Promo Code: Get $200 in Bonus Bets for France vs. Morocco on Thursday",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "covers.com",
+            "account_name": "Covers.com",
+            "account_verified": false,
+            "published_at": "2026-07-09T17:05:00+00:00"
+          },
+          {
+            "id": 558871,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9vNkxabHphbjdvNHQ1Y3kxNjFjb1dFcHU2ME5KRHo4Q2RKVVR3RWhSSlV2T2tsQ3dPLUpsZFB3X3hVaDlxMnBvN21Zb0VRd2lSQ1NlOXJuZm9Qbk1SRDFYUWVMUnhoWkhhelV4eW91Q2lpanBxREZJRFN5dlA?oc=5",
+            "title": "France's Louvre Museum to close early amid new heatwave",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "xinhua",
+            "account_name": "Xinhua",
+            "account_verified": false,
+            "published_at": "2026-07-09T17:04:17+00:00"
+          },
+          {
+            "id": 558873,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMVlJY01SWDBFUVVHcUIxM0lfbmZiUmZhSFRQc3JGYTYwWUNFTTdHaW5RZ203RWYza0FsTUFUazZKOEJlY3kwNS1nMUZIS1laQ2tGOVJYLUV6ZDlDZ0JEbUdLWGxBVnJqemRib3RpSlVhX1hHRmUtakFTci1zeDJpaE0wZ2tpMWtjWEZNanJNV0lvS3ozSmZxWGwzZw?oc=5",
+            "title": "France unveils fertilizer aid for farmers after global price surge",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "farmtario",
+            "account_name": "Farmtario",
+            "account_verified": false,
+            "published_at": "2026-07-09T17:03:54+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
@@ -2146,17 +1806,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.69,
-          "odds_draw": 4.16,
-          "odds_away": 4.07,
+          "odds_home": 1.75,
+          "odds_draw": 4.1,
+          "odds_away": 3.82,
           "odds_over_15": 1.1,
-          "odds_over_25": 1.35,
-          "odds_over_35": 1.87,
-          "odds_under_15": 6.8,
-          "odds_under_25": 3.02,
-          "odds_under_35": 1.85,
+          "odds_over_25": 1.36,
+          "odds_over_35": 1.88,
+          "odds_under_15": 6.7,
+          "odds_under_25": 3,
+          "odds_under_35": 1.84,
           "odds_btts_yes": 1.39,
-          "odds_btts_no": 2.79,
+          "odds_btts_no": 2.82,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -2355,17 +2015,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.69,
-        "odds_draw": 4.16,
-        "odds_away": 4.07,
+        "odds_home": 1.75,
+        "odds_draw": 4.1,
+        "odds_away": 3.82,
         "odds_over_15": 1.1,
-        "odds_over_25": 1.35,
-        "odds_over_35": 1.87,
-        "odds_under_15": 6.8,
-        "odds_under_25": 3.02,
-        "odds_under_35": 1.85,
+        "odds_over_25": 1.36,
+        "odds_over_35": 1.88,
+        "odds_under_15": 6.7,
+        "odds_under_25": 3,
+        "odds_under_35": 1.84,
         "odds_btts_yes": 1.39,
-        "odds_btts_no": 2.79,
+        "odds_btts_no": 2.82,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -2814,7 +2474,7 @@
           "current_minute": null,
           "period": "",
           "odds_home": 2.03,
-          "odds_draw": 3.57,
+          "odds_draw": 3.58,
           "odds_away": 3.29,
           "odds_over_15": 1.2,
           "odds_over_25": 1.65,
@@ -2890,7 +2550,10 @@
           "jerseys": null,
           "funfacts": null,
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**VPS rolls into this one as the hotter side, and their home-field advantage at Elisa Stadion should count for something.** 🔥\n\nVPS have won three of their last five and just demolished IFK Mariehamn 4-0, though they've shown some leakiness on defense (gave up 3 to Inter Turku). SJK are steadier — two wins in five with that 2-2 draw at Ilves — but haven't quite found their groove away from home.\n\nKey storylines:\n\n- **VPS's attacking depth** is the main engine here, with **O. Keturi** and **L. Smyth** leading the charge from the front.\n- **SJK's midfield balance** through **A. Boström** and **S. Yakubu** will need to control tempo and limit VPS's transitional chances.\n- The home side's recent form edge and **M. Jalloh**'s presence in defense give VPS a platform to lean on.\n\nExpected lineups:\n\n- **VPS**: M. Jalloh, A. Kuek, E. Okereke, L. Mané, M. Niemi, A. Räisänen, P. Lima, R. Forsbacka, J. Muzinga, L. Smyth, O. Keturi\n- **SJK**: J. Viitala, J. Moisio, O. Väistö, S. G. Yussif, S. Yakubu, A. Boström, A. Wilson, J. Streng, E. Mastokangas, Rangel, O. Tessilimi\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**VPS 2–0 SJK** — home side edge in a cagier affair than the scoreline suggests. 📍",
+            "generated_at": "2026-07-09T16:45:58.259144+00:00"
+          },
           "live_websocket": false
         },
         "created_at": "2026-06-02T13:53:55.436940+03:00",
@@ -2972,7 +2635,7 @@
         "current_minute": null,
         "period": "",
         "odds_home": 2.03,
-        "odds_draw": 3.57,
+        "odds_draw": 3.58,
         "odds_away": 3.29,
         "odds_over_15": 1.2,
         "odds_over_25": 1.65,
@@ -3042,7 +2705,10 @@
         "jerseys": null,
         "funfacts": null,
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**VPS rolls into this one as the hotter side, and their home-field advantage at Elisa Stadion should count for something.** 🔥\n\nVPS have won three of their last five and just demolished IFK Mariehamn 4-0, though they've shown some leakiness on defense (gave up 3 to Inter Turku). SJK are steadier — two wins in five with that 2-2 draw at Ilves — but haven't quite found their groove away from home.\n\nKey storylines:\n\n- **VPS's attacking depth** is the main engine here, with **O. Keturi** and **L. Smyth** leading the charge from the front.\n- **SJK's midfield balance** through **A. Boström** and **S. Yakubu** will need to control tempo and limit VPS's transitional chances.\n- The home side's recent form edge and **M. Jalloh**'s presence in defense give VPS a platform to lean on.\n\nExpected lineups:\n\n- **VPS**: M. Jalloh, A. Kuek, E. Okereke, L. Mané, M. Niemi, A. Räisänen, P. Lima, R. Forsbacka, J. Muzinga, L. Smyth, O. Keturi\n- **SJK**: J. Viitala, J. Moisio, O. Väistö, S. G. Yussif, S. Yakubu, A. Boström, A. Wilson, J. Streng, E. Mastokangas, Rangel, O. Tessilimi\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**VPS 2–0 SJK** — home side edge in a cagier affair than the scoreline suggests. 📍",
+          "generated_at": "2026-07-09T16:45:58.259144+00:00"
+        },
         "live_websocket": false,
         "home_form": {
           "calculated_at": "2026-07-09",
