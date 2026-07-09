@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T04:31:54.534Z",
+  "generated_at": "2026-07-09T08:31:36.214Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -90,17 +90,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.46,
-          "odds_draw": 4.27,
-          "odds_away": 5.98,
-          "odds_over_15": 1.2,
-          "odds_over_25": 1.67,
-          "odds_over_35": 2.64,
-          "odds_under_15": 4.1,
-          "odds_under_25": 2.11,
-          "odds_under_35": 1.43,
-          "odds_btts_yes": 1.8,
-          "odds_btts_no": 1.9,
+          "odds_home": 1.41,
+          "odds_draw": 4.48,
+          "odds_away": 6.5,
+          "odds_over_15": 1.19,
+          "odds_over_25": 1.65,
+          "odds_over_35": 2.59,
+          "odds_under_15": 4.19,
+          "odds_under_25": 2.14,
+          "odds_under_35": 1.44,
+          "odds_btts_yes": 1.83,
+          "odds_btts_no": 1.87,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -311,17 +311,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.46,
-        "odds_draw": 4.27,
-        "odds_away": 5.98,
-        "odds_over_15": 1.2,
-        "odds_over_25": 1.67,
-        "odds_over_35": 2.64,
-        "odds_under_15": 4.1,
-        "odds_under_25": 2.11,
-        "odds_under_35": 1.43,
-        "odds_btts_yes": 1.8,
-        "odds_btts_no": 1.9,
+        "odds_home": 1.41,
+        "odds_draw": 4.48,
+        "odds_away": 6.5,
+        "odds_over_15": 1.19,
+        "odds_over_25": 1.65,
+        "odds_over_35": 2.59,
+        "odds_under_15": 4.19,
+        "odds_under_25": 2.14,
+        "odds_under_35": 1.44,
+        "odds_btts_yes": 1.83,
+        "odds_btts_no": 1.87,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -106499,6 +106499,18 @@
                 "status": "injured",
                 "reason": "Achilles Tendon Rupture",
                 "expected_return": "2026-11-09"
+              },
+              {
+                "name": "Niko Tsakiris",
+                "status": "injured",
+                "reason": "Groin Injury",
+                "expected_return": "2026-09-14"
+              },
+              {
+                "name": "Timo Werner",
+                "status": "doubtful",
+                "reason": "Hamstring",
+                "expected_return": "2026-08-03"
               }
             ],
             "away": [
@@ -106689,6 +106701,18 @@
               "status": "injured",
               "reason": "Achilles Tendon Rupture",
               "expected_return": "2026-11-09"
+            },
+            {
+              "name": "Niko Tsakiris",
+              "status": "injured",
+              "reason": "Groin Injury",
+              "expected_return": "2026-09-14"
+            },
+            {
+              "name": "Timo Werner",
+              "status": "doubtful",
+              "reason": "Hamstring",
+              "expected_return": "2026-08-03"
             }
           ],
           "away": [
@@ -107744,6 +107768,18 @@
             ],
             "away": [
               {
+                "name": "Anderson Julio",
+                "status": "injured",
+                "reason": "Leg Injury",
+                "expected_return": "2026-07-24"
+              },
+              {
+                "name": "Bernard Kamungo",
+                "status": "injured",
+                "reason": "Leg Injury",
+                "expected_return": "2026-07-24"
+              },
+              {
                 "name": "Kaka Scabin",
                 "status": "injured",
                 "reason": "Knee Injury",
@@ -107933,6 +107969,18 @@
             }
           ],
           "away": [
+            {
+              "name": "Anderson Julio",
+              "status": "injured",
+              "reason": "Leg Injury",
+              "expected_return": "2026-07-24"
+            },
+            {
+              "name": "Bernard Kamungo",
+              "status": "injured",
+              "reason": "Leg Injury",
+              "expected_return": "2026-07-24"
+            },
             {
               "name": "Kaka Scabin",
               "status": "injured",
@@ -108323,7 +108371,26 @@
                 "expected_return": "2026-07-19"
               }
             ],
-            "away": []
+            "away": [
+              {
+                "name": "Ariath Piol",
+                "status": "injured",
+                "reason": "Achilles Strain",
+                "expected_return": "2026-11-09"
+              },
+              {
+                "name": "Diego Luna",
+                "status": "injured",
+                "reason": "Muscle Injury",
+                "expected_return": "2026-07-24"
+              },
+              {
+                "name": "Emeka Eneli",
+                "status": "doubtful",
+                "reason": "Knee Injury",
+                "expected_return": "2026-07-24"
+              }
+            ]
           },
           "venue": {
             "id": 280,
@@ -108509,7 +108576,26 @@
               "expected_return": "2026-07-19"
             }
           ],
-          "away": []
+          "away": [
+            {
+              "name": "Ariath Piol",
+              "status": "injured",
+              "reason": "Achilles Strain",
+              "expected_return": "2026-11-09"
+            },
+            {
+              "name": "Diego Luna",
+              "status": "injured",
+              "reason": "Muscle Injury",
+              "expected_return": "2026-07-24"
+            },
+            {
+              "name": "Emeka Eneli",
+              "status": "doubtful",
+              "reason": "Knee Injury",
+              "expected_return": "2026-07-24"
+            }
+          ]
         },
         "venue": {
           "id": 280,
@@ -135955,6 +136041,18 @@
             ],
             "away": [
               {
+                "name": "Anderson Julio",
+                "status": "injured",
+                "reason": "Leg Injury",
+                "expected_return": "2026-07-24"
+              },
+              {
+                "name": "Bernard Kamungo",
+                "status": "injured",
+                "reason": "Leg Injury",
+                "expected_return": "2026-07-24"
+              },
+              {
                 "name": "Kaka Scabin",
                 "status": "injured",
                 "reason": "Knee Injury",
@@ -136141,6 +136239,18 @@
             }
           ],
           "away": [
+            {
+              "name": "Anderson Julio",
+              "status": "injured",
+              "reason": "Leg Injury",
+              "expected_return": "2026-07-24"
+            },
+            {
+              "name": "Bernard Kamungo",
+              "status": "injured",
+              "reason": "Leg Injury",
+              "expected_return": "2026-07-24"
+            },
             {
               "name": "Kaka Scabin",
               "status": "injured",
@@ -138751,6 +138861,18 @@
                 "status": "injured",
                 "reason": "Achilles Tendon Rupture",
                 "expected_return": "2026-11-09"
+              },
+              {
+                "name": "Niko Tsakiris",
+                "status": "injured",
+                "reason": "Groin Injury",
+                "expected_return": "2026-09-14"
+              },
+              {
+                "name": "Timo Werner",
+                "status": "doubtful",
+                "reason": "Hamstring",
+                "expected_return": "2026-08-03"
               }
             ],
             "away": [
@@ -138950,6 +139072,18 @@
               "status": "injured",
               "reason": "Achilles Tendon Rupture",
               "expected_return": "2026-11-09"
+            },
+            {
+              "name": "Niko Tsakiris",
+              "status": "injured",
+              "reason": "Groin Injury",
+              "expected_return": "2026-09-14"
+            },
+            {
+              "name": "Timo Werner",
+              "status": "doubtful",
+              "reason": "Hamstring",
+              "expected_return": "2026-08-03"
             }
           ],
           "away": [
@@ -139392,7 +139526,26 @@
                 "expected_return": "2026-07-18"
               }
             ],
-            "away": []
+            "away": [
+              {
+                "name": "Ariath Piol",
+                "status": "injured",
+                "reason": "Achilles Strain",
+                "expected_return": "2026-11-09"
+              },
+              {
+                "name": "Diego Luna",
+                "status": "injured",
+                "reason": "Muscle Injury",
+                "expected_return": "2026-07-24"
+              },
+              {
+                "name": "Emeka Eneli",
+                "status": "doubtful",
+                "reason": "Knee Injury",
+                "expected_return": "2026-07-24"
+              }
+            ]
           },
           "venue": {
             "id": 282,
@@ -139575,7 +139728,26 @@
               "expected_return": "2026-07-18"
             }
           ],
-          "away": []
+          "away": [
+            {
+              "name": "Ariath Piol",
+              "status": "injured",
+              "reason": "Achilles Strain",
+              "expected_return": "2026-11-09"
+            },
+            {
+              "name": "Diego Luna",
+              "status": "injured",
+              "reason": "Muscle Injury",
+              "expected_return": "2026-07-24"
+            },
+            {
+              "name": "Emeka Eneli",
+              "status": "doubtful",
+              "reason": "Knee Injury",
+              "expected_return": "2026-07-24"
+            }
+          ]
         },
         "venue": {
           "id": 282,
