@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-09T21:37:39.770Z",
+  "generated_at": "2026-07-09T23:14:58.503Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -912,7 +912,7 @@
           "odds_under_15": 6.71,
           "odds_under_25": 3,
           "odds_under_35": 1.84,
-          "odds_btts_yes": 1.38,
+          "odds_btts_yes": 1.39,
           "odds_btts_no": 2.83,
           "actual_home_xg": null,
           "actual_away_xg": null,
@@ -1121,7 +1121,7 @@
         "odds_under_15": 6.71,
         "odds_under_25": 3,
         "odds_under_35": 1.84,
-        "odds_btts_yes": 1.38,
+        "odds_btts_yes": 1.39,
         "odds_btts_no": 2.83,
         "actual_home_xg": null,
         "actual_away_xg": null,
@@ -1575,10 +1575,10 @@
           "odds_away": 3.29,
           "odds_over_15": 1.2,
           "odds_over_25": 1.65,
-          "odds_over_35": 2.58,
-          "odds_under_15": 4.23,
+          "odds_over_35": 2.57,
+          "odds_under_15": 4.25,
           "odds_under_25": 2.16,
-          "odds_under_35": 1.45,
+          "odds_under_35": 1.46,
           "odds_btts_yes": 1.55,
           "odds_btts_no": 2.3,
           "actual_home_xg": null,
@@ -1736,10 +1736,10 @@
         "odds_away": 3.29,
         "odds_over_15": 1.2,
         "odds_over_25": 1.65,
-        "odds_over_35": 2.58,
-        "odds_under_15": 4.23,
+        "odds_over_35": 2.57,
+        "odds_under_15": 4.25,
         "odds_under_25": 2.16,
-        "odds_under_35": 1.45,
+        "odds_under_35": 1.46,
         "odds_btts_yes": 1.55,
         "odds_btts_no": 2.3,
         "actual_home_xg": null,
@@ -2126,13 +2126,13 @@
           "current_minute": null,
           "period": "",
           "odds_home": 1.65,
-          "odds_draw": 3.91,
+          "odds_draw": 3.9,
           "odds_away": 5.29,
           "odds_over_15": 1.24,
           "odds_over_25": 1.78,
-          "odds_over_35": 2.91,
-          "odds_under_15": 3.83,
-          "odds_under_25": 2.01,
+          "odds_over_35": 2.9,
+          "odds_under_15": 3.84,
+          "odds_under_25": 2.02,
           "odds_under_35": 1.39,
           "odds_btts_yes": 1.78,
           "odds_btts_no": 1.98,
@@ -2347,13 +2347,13 @@
         "current_minute": null,
         "period": "",
         "odds_home": 1.65,
-        "odds_draw": 3.91,
+        "odds_draw": 3.9,
         "odds_away": 5.29,
         "odds_over_15": 1.24,
         "odds_over_25": 1.78,
-        "odds_over_35": 2.91,
-        "odds_under_15": 3.83,
-        "odds_under_25": 2.01,
+        "odds_over_35": 2.9,
+        "odds_under_15": 3.84,
+        "odds_under_25": 2.02,
         "odds_under_35": 1.39,
         "odds_btts_yes": 1.78,
         "odds_btts_no": 1.98,
@@ -2780,17 +2780,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.82,
+          "odds_home": 1.81,
           "odds_draw": 3.2,
-          "odds_away": 4.62,
+          "odds_away": 4.72,
           "odds_over_15": 1.45,
-          "odds_over_25": 2.39,
-          "odds_over_35": 4.51,
+          "odds_over_25": 2.4,
+          "odds_over_35": 4.5,
           "odds_under_15": 2.57,
           "odds_under_25": 1.53,
           "odds_under_35": 1.17,
-          "odds_btts_yes": 2.14,
-          "odds_btts_no": 1.64,
+          "odds_btts_yes": 2.16,
+          "odds_btts_no": 1.63,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -2903,9 +2903,25 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 2,
+              "sentence": "Juventude RS haven't won any of their last 3 games against Vila Nova."
+            },
+            {
+              "type_id": 24,
+              "sentence": "Juventude RS's home record this season: 5-2-1."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Juventude RS haven't lost in their last 4 games."
+            }
+          ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Juventude's rolling at home, but Vila Nova's got bite — this could be a cagey affair.** 🔥\n\nJuventude are cooking with a 3W-1D-1L streak, including a shutout last time out. Vila Nova, meantime, have won three of their last five but gave up two goals to Grêmio Novorizontino, so defensive solidity isn't guaranteed.\n\nKey storylines:\n\n- **Juventude's home fortress** at Estádio Alfredo Jaconi — they've beaten Ceará 2-0 and São Bernardo 1-0 recently, so they're not messing around on their own turf.\n- **Alan Kardec and F. Lima** will need to find space in Juventude's attacking setup against a Vila Nova backline that's been leaky.\n- **Vila Nova's away-day wobbles** — only one win in their last two road trips; stopping the hosts' momentum is the real test.\n\nExpected lineups:\n\n- **Juventude**: Jandrei, D. Barbosa, Messias, M. Paulo, Nathan, Raí, L. Mineiro, M. Castro, F. Lima, Alan Kardec\n- **Vila Nova FC**: H. Leite, Higor, T. Pagnussat, D. D. Santos, Elias, Janderson, J. Vieira, R. Lima, Nathan Camargo, A. Luís, R. Ribeiro\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Juventude 1-0 Vila Nova.** Slight lean to the visitors' resilience, but home form and recent solidity give the hosts the edge. 🎯",
+            "generated_at": "2026-07-09T22:45:26.000875+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-06-02T13:53:55.758662+03:00",
@@ -2998,17 +3014,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.82,
+        "odds_home": 1.81,
         "odds_draw": 3.2,
-        "odds_away": 4.62,
+        "odds_away": 4.72,
         "odds_over_15": 1.45,
-        "odds_over_25": 2.39,
-        "odds_over_35": 4.51,
+        "odds_over_25": 2.4,
+        "odds_over_35": 4.5,
         "odds_under_15": 2.57,
         "odds_under_25": 1.53,
         "odds_under_35": 1.17,
-        "odds_btts_yes": 2.14,
-        "odds_btts_no": 1.64,
+        "odds_btts_yes": 2.16,
+        "odds_btts_no": 1.63,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -3115,9 +3131,25 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 2,
+            "sentence": "Juventude RS haven't won any of their last 3 games against Vila Nova."
+          },
+          {
+            "type_id": 24,
+            "sentence": "Juventude RS's home record this season: 5-2-1."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Juventude RS haven't lost in their last 4 games."
+          }
+        ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Juventude's rolling at home, but Vila Nova's got bite — this could be a cagey affair.** 🔥\n\nJuventude are cooking with a 3W-1D-1L streak, including a shutout last time out. Vila Nova, meantime, have won three of their last five but gave up two goals to Grêmio Novorizontino, so defensive solidity isn't guaranteed.\n\nKey storylines:\n\n- **Juventude's home fortress** at Estádio Alfredo Jaconi — they've beaten Ceará 2-0 and São Bernardo 1-0 recently, so they're not messing around on their own turf.\n- **Alan Kardec and F. Lima** will need to find space in Juventude's attacking setup against a Vila Nova backline that's been leaky.\n- **Vila Nova's away-day wobbles** — only one win in their last two road trips; stopping the hosts' momentum is the real test.\n\nExpected lineups:\n\n- **Juventude**: Jandrei, D. Barbosa, Messias, M. Paulo, Nathan, Raí, L. Mineiro, M. Castro, F. Lima, Alan Kardec\n- **Vila Nova FC**: H. Leite, Higor, T. Pagnussat, D. D. Santos, Elias, Janderson, J. Vieira, R. Lima, Nathan Camargo, A. Luís, R. Ribeiro\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Juventude 1-0 Vila Nova.** Slight lean to the visitors' resilience, but home form and recent solidity give the hosts the edge. 🎯",
+          "generated_at": "2026-07-09T22:45:26.000875+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-07-09",
@@ -3427,17 +3459,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.77,
-          "odds_draw": 3.37,
-          "odds_away": 4.66,
+          "odds_home": 1.66,
+          "odds_draw": 3.49,
+          "odds_away": 5.26,
           "odds_over_15": 1.37,
-          "odds_over_25": 2.17,
-          "odds_over_35": 3.89,
-          "odds_under_15": 2.87,
-          "odds_under_25": 1.64,
+          "odds_over_25": 2.16,
+          "odds_over_35": 3.85,
+          "odds_under_15": 2.89,
+          "odds_under_25": 1.65,
           "odds_under_35": 1.22,
-          "odds_btts_yes": 2.01,
-          "odds_btts_no": 1.72,
+          "odds_btts_yes": 2.07,
+          "odds_btts_no": 1.68,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -3556,7 +3588,20 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 1,
+              "sentence": "Sport Recife haven't won in their last 5 games."
+            },
+            {
+              "type_id": 2,
+              "sentence": "When playing at home, Sport Recife have not lost to Botafogo in their last 3 encounters."
+            },
+            {
+              "type_id": 24,
+              "sentence": "Sport Recife's home record this season: 3-4-1."
+            }
+          ],
           "sr_stats": null,
           "ai_preview": null,
           "live_websocket": true
@@ -3651,17 +3696,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.77,
-        "odds_draw": 3.37,
-        "odds_away": 4.66,
+        "odds_home": 1.66,
+        "odds_draw": 3.49,
+        "odds_away": 5.26,
         "odds_over_15": 1.37,
-        "odds_over_25": 2.17,
-        "odds_over_35": 3.89,
-        "odds_under_15": 2.87,
-        "odds_under_25": 1.64,
+        "odds_over_25": 2.16,
+        "odds_over_35": 3.85,
+        "odds_under_15": 2.89,
+        "odds_under_25": 1.65,
         "odds_under_35": 1.22,
-        "odds_btts_yes": 2.01,
-        "odds_btts_no": 1.72,
+        "odds_btts_yes": 2.07,
+        "odds_btts_no": 1.68,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -3774,7 +3819,20 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 1,
+            "sentence": "Sport Recife haven't won in their last 5 games."
+          },
+          {
+            "type_id": 2,
+            "sentence": "When playing at home, Sport Recife have not lost to Botafogo in their last 3 encounters."
+          },
+          {
+            "type_id": 24,
+            "sentence": "Sport Recife's home record this season: 3-4-1."
+          }
+        ],
         "sr_stats": null,
         "ai_preview": null,
         "live_websocket": true,
