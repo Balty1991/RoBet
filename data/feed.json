@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T19:42:40.221Z",
+  "generated_at": "2026-07-12T20:56:01.149Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -90,17 +90,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.39,
-          "odds_draw": 3,
-          "odds_away": 3.07,
+          "odds_home": 2.37,
+          "odds_draw": 3.11,
+          "odds_away": 3.01,
           "odds_over_15": 1.36,
-          "odds_over_25": 2.16,
+          "odds_over_25": 2.14,
           "odds_over_35": 3.81,
-          "odds_under_15": 2.93,
-          "odds_under_25": 1.65,
+          "odds_under_15": 2.92,
+          "odds_under_25": 1.66,
           "odds_under_35": 1.23,
-          "odds_btts_yes": 1.84,
-          "odds_btts_no": 1.87,
+          "odds_btts_yes": 1.85,
+          "odds_btts_no": 1.86,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -337,17 +337,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.39,
-        "odds_draw": 3,
-        "odds_away": 3.07,
+        "odds_home": 2.37,
+        "odds_draw": 3.11,
+        "odds_away": 3.01,
         "odds_over_15": 1.36,
-        "odds_over_25": 2.16,
+        "odds_over_25": 2.14,
         "odds_over_35": 3.81,
-        "odds_under_15": 2.93,
-        "odds_under_25": 1.65,
+        "odds_under_15": 2.92,
+        "odds_under_25": 1.66,
         "odds_under_35": 1.23,
-        "odds_btts_yes": 1.84,
-        "odds_btts_no": 1.87,
+        "odds_btts_yes": 1.85,
+        "odds_btts_no": 1.86,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -623,7 +623,80 @@
           ]
         },
         "lineups": null,
-        "social": []
+        "social": [
+          {
+            "id": 580844,
+            "type": "tweet",
+            "url": "https://x.com/FortalezaEC/status/2076396763687100690",
+            "title": "",
+            "text": "🚑 Balanço do Departamento Médico\n📋 12/07/2026\n\nSem atletas em tratamento.\n\n➡️ Tomás Cardona: em transição após artroscopia no joelho esquerdo.",
+            "thumbnail": "",
+            "account_handle": "FortalezaEC",
+            "account_name": "Fortaleza Esporte Clube 🦁",
+            "account_verified": true,
+            "published_at": "2026-07-12T20:02:20+00:00"
+          },
+          {
+            "id": 580845,
+            "type": "tweet",
+            "url": "https://x.com/FortalezaEC/status/2076396318235213861",
+            "title": "",
+            "text": "LEÃO ESCALADO PARA O CONFRONTO! 🦁✅\n\n#FortalezaEC #BrasileirãoB",
+            "thumbnail": "https://pbs.twimg.com/media/HNDXcXUWAAEm158.jpg",
+            "account_handle": "FortalezaEC",
+            "account_name": "Fortaleza Esporte Clube 🦁",
+            "account_verified": true,
+            "published_at": "2026-07-12T20:00:34+00:00"
+          },
+          {
+            "id": 580846,
+            "type": "tweet",
+            "url": "https://x.com/FortalezaEC/status/2076393056551440457",
+            "title": "",
+            "text": "O palco do confronto de hoje! 🏟️🦁\n\n📸 Gutemberg Pedro/FEC\n\n#FortalezaEC #BrasileirãoB",
+            "thumbnail": "https://pbs.twimg.com/media/HNDUeZRXMAA1noH.jpg",
+            "account_handle": "FortalezaEC",
+            "account_name": "Fortaleza Esporte Clube 🦁",
+            "account_verified": true,
+            "published_at": "2026-07-12T19:47:36+00:00"
+          },
+          {
+            "id": 580847,
+            "type": "tweet",
+            "url": "https://x.com/FortalezaEC/status/2076386495384912262",
+            "title": "",
+            "text": "📍 Estádio Antônio Accioly\n\n🎥 Thais Pontes/FEC\n\n#FortalezaEC #BrasileirãoB",
+            "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2076386266988376064/img/w1IiK5SHxrFcB9L7.jpg",
+            "account_handle": "FortalezaEC",
+            "account_name": "Fortaleza Esporte Clube 🦁",
+            "account_verified": true,
+            "published_at": "2026-07-12T19:21:32+00:00"
+          },
+          {
+            "id": 580848,
+            "type": "tweet",
+            "url": "https://x.com/FortalezaEC/status/2076370758637428986",
+            "title": "",
+            "text": "É dia de Leão em campo! 🦁\n\nÀs 18h, a bola vai rolar para Atlético Goianiense vs Fortaleza, no Estádio Antônio Accioly, em busca de mais uma vitória para seguir firme na parte de cima da tabela. \n\nVAMOS PRA CIMA! 👊\n\n#FortalezaEC #BrasileirãoB",
+            "thumbnail": "https://pbs.twimg.com/media/HNDAMunWUAAgXvF.jpg",
+            "account_handle": "FortalezaEC",
+            "account_name": "Fortaleza Esporte Clube 🦁",
+            "account_verified": true,
+            "published_at": "2026-07-12T18:19:00+00:00"
+          },
+          {
+            "id": 580849,
+            "type": "tweet",
+            "url": "https://x.com/FortalezaEC/status/2076337052103082458",
+            "title": "",
+            "text": "Hoje é dia de torcer junto! 🦁\n\nVem viver a emoção de mais uma rodada do Brasileiro Série B com a galera no Laion Sport Bar!\n\n📺 Transmissão ao vivo na @DisneyPlusBR \n⏰ 18h\n\n#FortalezaEC #BrasileirãoB",
+            "thumbnail": "https://pbs.twimg.com/media/HNChitgXoAApwLe.jpg",
+            "account_handle": "FortalezaEC",
+            "account_name": "Fortaleza Esporte Clube 🦁",
+            "account_verified": true,
+            "published_at": "2026-07-12T16:05:04+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
@@ -1586,12 +1659,12 @@
           "current_minute": null,
           "period": "",
           "odds_home": 1.23,
-          "odds_draw": 6.05,
+          "odds_draw": 6.03,
           "odds_away": 10.82,
           "odds_over_15": 1.13,
-          "odds_over_25": 1.45,
+          "odds_over_25": 1.46,
           "odds_over_35": 2.15,
-          "odds_under_15": 5.37,
+          "odds_under_15": 5.32,
           "odds_under_25": 2.58,
           "odds_under_35": 1.65,
           "odds_btts_yes": 1.93,
@@ -1840,12 +1913,12 @@
         "current_minute": null,
         "period": "",
         "odds_home": 1.23,
-        "odds_draw": 6.05,
+        "odds_draw": 6.03,
         "odds_away": 10.82,
         "odds_over_15": 1.13,
-        "odds_over_25": 1.45,
+        "odds_over_25": 1.46,
         "odds_over_35": 2.15,
-        "odds_under_15": 5.37,
+        "odds_under_15": 5.32,
         "odds_under_25": 2.58,
         "odds_under_35": 1.65,
         "odds_btts_yes": 1.93,
@@ -52125,6 +52198,12 @@
                 "status": "injured",
                 "reason": "Thigh Injury",
                 "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Jakob Vester",
+                "status": "suspended",
+                "reason": "red_card_suspension",
+                "expected_return": "2026-07-18"
               }
             ]
           },
@@ -52366,6 +52445,12 @@
               "status": "injured",
               "reason": "Thigh Injury",
               "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Jakob Vester",
+              "status": "suspended",
+              "reason": "red_card_suspension",
+              "expected_return": "2026-07-18"
             }
           ]
         },
@@ -137724,6 +137809,12 @@
                 "status": "injured",
                 "reason": "Thigh Injury",
                 "expected_return": "2026-07-20"
+              },
+              {
+                "name": "Jakob Vester",
+                "status": "suspended",
+                "reason": "red_card_suspension",
+                "expected_return": "2026-07-18"
               }
             ],
             "away": [
@@ -137914,6 +138005,12 @@
               "status": "injured",
               "reason": "Thigh Injury",
               "expected_return": "2026-07-20"
+            },
+            {
+              "name": "Jakob Vester",
+              "status": "suspended",
+              "reason": "red_card_suspension",
+              "expected_return": "2026-07-18"
             }
           ],
           "away": [
