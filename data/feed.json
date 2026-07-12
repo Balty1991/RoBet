@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-12T22:53:54.804Z",
+  "generated_at": "2026-07-12T23:58:52.520Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -860,7 +860,7 @@
           "odds_over_15": 1.33,
           "odds_over_25": 2.03,
           "odds_over_35": 3.52,
-          "odds_under_15": 3.08,
+          "odds_under_15": 3.09,
           "odds_under_25": 1.73,
           "odds_under_35": 1.26,
           "odds_btts_yes": 1.85,
@@ -1094,7 +1094,7 @@
         "odds_over_15": 1.33,
         "odds_over_25": 2.03,
         "odds_over_35": 3.52,
-        "odds_under_15": 3.08,
+        "odds_under_15": 3.09,
         "odds_under_25": 1.73,
         "odds_under_35": 1.26,
         "odds_btts_yes": 1.85,
@@ -1485,13 +1485,13 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.91,
-          "odds_draw": 3.14,
-          "odds_away": 4.26,
+          "odds_home": 1.9,
+          "odds_draw": 3.13,
+          "odds_away": 4.28,
           "odds_over_15": 1.41,
-          "odds_over_25": 2.3,
+          "odds_over_25": 2.31,
           "odds_over_35": 4.25,
-          "odds_under_15": 2.69,
+          "odds_under_15": 2.7,
           "odds_under_25": 1.57,
           "odds_under_35": 1.19,
           "odds_btts_yes": 2.04,
@@ -1625,9 +1625,25 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 1,
+              "sentence": "Ceara haven't won in their last 4 games."
+            },
+            {
+              "type_id": 24,
+              "sentence": "Athletic Club Sjdr's away record this season: 2-3-2."
+            },
+            {
+              "type_id": 25,
+              "sentence": "Melquisedeque Costa de Oliveira is Ceara's top scorer with 4 goals. Ronaldo Tavares has scored 5 times for Athletic Club Sjdr."
+            }
+          ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Ceará's meltdown meets Athletic Club's inconsistency** — two struggling mid-table sides hunting for any sign of life in this dreary Serie B clash. 🏟️\n\nCeará's lost their last three on the trot (three straight L's, ouch), while Athletic Club scraped a win over Avaí but can't string anything together either. Both teams are limping into this one without key players.\n\nKey storylines:\n\n- **Ceará** desperately need **Fernandinho** and the attacking trio to finally click and stem the bleeding at home\n- **Athletic Club's** defensive setup with **Jhonathan** and **L. Belezi** will be tested by **Vina** and **J. Gabriel** on the flanks\n- With **Vinicius Zanocelo** out injured for Ceará, the midfield burden falls on **Melk** to organize — expect a scrappy, low-tempo affair\n\nExpected lineups:\n\n- **Ceará**: Richard, L. Otávio, Éder, Júlio César, Fernando, Rafael Ramos, Melk, J. Gabriel\n- **Athletic Club**: Luan Polli, Jhonathan, L. Belezi, D. B. d. Souza, Zeca, J. Miguel, Ian Luccas, K. Rodrigues\n\nPrediction:\n\n**1-1 Draw**\n\nModel leans slightly to the away side, but both teams' form suggests they'll cancel each other out — a coin flip in the making.",
+            "generated_at": "2026-07-12T23:45:23.822852+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-06-02T13:54:01.047780+03:00",
@@ -1714,13 +1730,13 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.91,
-        "odds_draw": 3.14,
-        "odds_away": 4.26,
+        "odds_home": 1.9,
+        "odds_draw": 3.13,
+        "odds_away": 4.28,
         "odds_over_15": 1.41,
-        "odds_over_25": 2.3,
+        "odds_over_25": 2.31,
         "odds_over_35": 4.25,
-        "odds_under_15": 2.69,
+        "odds_under_15": 2.7,
         "odds_under_25": 1.57,
         "odds_under_35": 1.19,
         "odds_btts_yes": 2.04,
@@ -1848,9 +1864,25 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 1,
+            "sentence": "Ceara haven't won in their last 4 games."
+          },
+          {
+            "type_id": 24,
+            "sentence": "Athletic Club Sjdr's away record this season: 2-3-2."
+          },
+          {
+            "type_id": 25,
+            "sentence": "Melquisedeque Costa de Oliveira is Ceara's top scorer with 4 goals. Ronaldo Tavares has scored 5 times for Athletic Club Sjdr."
+          }
+        ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Ceará's meltdown meets Athletic Club's inconsistency** — two struggling mid-table sides hunting for any sign of life in this dreary Serie B clash. 🏟️\n\nCeará's lost their last three on the trot (three straight L's, ouch), while Athletic Club scraped a win over Avaí but can't string anything together either. Both teams are limping into this one without key players.\n\nKey storylines:\n\n- **Ceará** desperately need **Fernandinho** and the attacking trio to finally click and stem the bleeding at home\n- **Athletic Club's** defensive setup with **Jhonathan** and **L. Belezi** will be tested by **Vina** and **J. Gabriel** on the flanks\n- With **Vinicius Zanocelo** out injured for Ceará, the midfield burden falls on **Melk** to organize — expect a scrappy, low-tempo affair\n\nExpected lineups:\n\n- **Ceará**: Richard, L. Otávio, Éder, Júlio César, Fernando, Rafael Ramos, Melk, J. Gabriel\n- **Athletic Club**: Luan Polli, Jhonathan, L. Belezi, D. B. d. Souza, Zeca, J. Miguel, Ian Luccas, K. Rodrigues\n\nPrediction:\n\n**1-1 Draw**\n\nModel leans slightly to the away side, but both teams' form suggests they'll cancel each other out — a coin flip in the making.",
+          "generated_at": "2026-07-12T23:45:23.822852+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-07-12",
