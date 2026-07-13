@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T16:05:34.952Z",
+  "generated_at": "2026-07-13T18:18:22.391Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -8,9 +8,9 @@
     "managers_endpoint": "/managers/?team_id={id}"
   },
   "summary": {
-    "total_matches": 288,
+    "total_matches": 287,
     "total_leagues": 18,
-    "average_confidence": 50.18622774609409,
+    "average_confidence": 50.1558112045424,
     "favorite_recommend": 0,
     "over_15_recommend": 0,
     "over_25_recommend": 0,
@@ -19,1546 +19,6 @@
     "winner_recommend": 0
   },
   "items": [
-    {
-      "event_id": 46392,
-      "prediction": {
-        "id": 5003,
-        "event": {
-          "id": 46392,
-          "league": {
-            "id": 26,
-            "name": "Allsvenskan",
-            "country": "Sweden",
-            "is_women": false,
-            "current_season": {
-              "id": 9,
-              "name": "Allsvenskan 2026",
-              "year": 2026,
-              "start_date": "2026-01-01",
-              "end_date": "2026-12-31"
-            }
-          },
-          "season": {
-            "id": 9,
-            "name": "Allsvenskan 2026",
-            "year": 2026
-          },
-          "home_team": "Djurgårdens IF",
-          "away_team": "Halmstads BK",
-          "home_team_obj": {
-            "id": 436,
-            "name": "Djurgårdens IF",
-            "short_name": "Djurgården",
-            "country": "Sweden",
-            "coach": {
-              "name": "Jani Honkavaara",
-              "shortName": "J. Honkavaara"
-            },
-            "venue": {
-              "id": 416,
-              "name": "3Arena",
-              "city": "Stockholm",
-              "country": "Sweden",
-              "capacity": 32000
-            }
-          },
-          "away_team_obj": {
-            "id": 442,
-            "name": "Halmstads BK",
-            "short_name": "Halmstad",
-            "country": "Sweden",
-            "coach": {
-              "name": "Stuart Baxter",
-              "shortName": "S. Baxter"
-            },
-            "venue": {
-              "id": 421,
-              "name": "Örjans Vall",
-              "city": "Halmstad",
-              "country": "Sweden",
-              "capacity": 15500
-            }
-          },
-          "event_date": "2026-07-13T20:00:00+03:00",
-          "round_number": 12,
-          "round_name": "",
-          "group_name": null,
-          "status": "notstarted",
-          "home_score": null,
-          "away_score": null,
-          "home_score_ht": null,
-          "away_score_ht": null,
-          "current_minute": null,
-          "period": "",
-          "odds_home": 1.46,
-          "odds_draw": 3.34,
-          "odds_away": 8.01,
-          "odds_over_15": 1.12,
-          "odds_over_25": 1.44,
-          "odds_over_35": 2.14,
-          "odds_under_15": 5.45,
-          "odds_under_25": 2.61,
-          "odds_under_35": 1.65,
-          "odds_btts_yes": 1.92,
-          "odds_btts_no": 1.79,
-          "actual_home_xg": null,
-          "actual_away_xg": null,
-          "home_xg_live": null,
-          "away_xg_live": null,
-          "penalty_shootout": null,
-          "extra_time_score": null,
-          "is_local_derby": false,
-          "is_neutral_ground": null,
-          "travel_distance_km": 423,
-          "weather_code": 2,
-          "wind_speed": 14.3,
-          "temperature_c": 16,
-          "pitch_condition": null,
-          "attendance": null,
-          "referee": {
-            "id": 1972,
-            "name": "Adi Aganovic",
-            "country": "Sweden",
-            "nationality_a3": "",
-            "birthdate": null,
-            "yellowCards": 452,
-            "redCards": 11,
-            "career_games": 116,
-            "career_yellow_cards": 452,
-            "career_red_cards": 11
-          },
-          "home_coach": {
-            "id": 584,
-            "name": "Jani Honkavaara",
-            "short_name": "J. Honkavaara",
-            "country": "Finland",
-            "profile": "attacking",
-            "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.6170773272093547,
-            "defensive_line": "mid",
-            "top_styles": [
-              "chaos_ball",
-              "chaos_football"
-            ]
-          },
-          "away_coach": {
-            "id": 1518,
-            "name": "Stuart Baxter",
-            "short_name": "S. Baxter",
-            "country": "Scotland",
-            "profile": "defensive",
-            "preferred_formation": "3-4-3",
-            "pressing_intensity": 0.328053218102907,
-            "defensive_line": "low",
-            "top_styles": [
-              "park_the_bus",
-              "terrorist_fb"
-            ]
-          },
-          "unavailable_players": {
-            "home": [
-              {
-                "name": "Mikael Marqués",
-                "status": "suspended",
-                "reason": "red_card_suspension",
-                "expected_return": "2026-07-13"
-              },
-              {
-                "name": "Nino Žugelj",
-                "status": "injured",
-                "reason": "Thigh Injury",
-                "expected_return": "2026-07-20"
-              }
-            ],
-            "away": [
-              {
-                "name": "Andre Boman",
-                "status": "suspended",
-                "reason": "red_card_suspension",
-                "expected_return": "2026-07-13"
-              }
-            ]
-          },
-          "venue": {
-            "id": 416,
-            "name": "3Arena",
-            "city": "Stockholm",
-            "country": "Sweden",
-            "capacity": 32000,
-            "latitude": 59.29323,
-            "longitude": 18.083299,
-            "pitch_x": 105,
-            "pitch_y": 68,
-            "built_year": 2013
-          },
-          "incidents": null,
-          "live_stats": null,
-          "lineups": {
-            "away": {
-              "players": [
-                {
-                  "name": "T. Rönning",
-                  "goals": 0,
-                  "api_id": 875428,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "G",
-                  "red_card": false,
-                  "player_id": 16034,
-                  "yellow_card": false,
-                  "jersey_number": "1",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "GK",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "P. Gregor",
-                  "goals": 0,
-                  "api_id": 297312,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 16020,
-                  "yellow_card": false,
-                  "jersey_number": "5",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "F. Schyberg",
-                  "goals": 0,
-                  "api_id": 987373,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 16021,
-                  "yellow_card": false,
-                  "jersey_number": "4",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "E. Tougjas",
-                  "goals": 0,
-                  "api_id": 1030649,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 24793,
-                  "yellow_card": false,
-                  "jersey_number": "16",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "R. Kaib",
-                  "goals": 0,
-                  "api_id": 834724,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 16023,
-                  "yellow_card": false,
-                  "jersey_number": "24",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "J. Allansson",
-                  "goals": 0,
-                  "api_id": 115740,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 16025,
-                  "yellow_card": false,
-                  "jersey_number": "6",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "R. Ascone",
-                  "goals": 0,
-                  "api_id": 1004244,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 16155,
-                  "yellow_card": false,
-                  "jersey_number": "27",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "O. Kapsimalis",
-                  "goals": 0,
-                  "api_id": 2147725,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "F",
-                  "red_card": false,
-                  "player_id": 16172,
-                  "yellow_card": false,
-                  "jersey_number": "22",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "FWD",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "L. Arvidsson",
-                  "goals": 0,
-                  "api_id": 2040234,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "F",
-                  "red_card": false,
-                  "player_id": 16033,
-                  "yellow_card": false,
-                  "jersey_number": "11",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "FWD",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "H. Carneil",
-                  "goals": 0,
-                  "api_id": 1176300,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 16309,
-                  "yellow_card": false,
-                  "jersey_number": "14",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "O. Faraj",
-                  "goals": 0,
-                  "api_id": 1021274,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "F",
-                  "red_card": false,
-                  "player_id": 16324,
-                  "yellow_card": false,
-                  "jersey_number": "9",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "FWD",
-                  "positions_detailed": []
-                }
-              ],
-              "formation": "4-2-3-1",
-              "substitutes": []
-            },
-            "home": {
-              "players": [
-                {
-                  "name": "J. Rinne",
-                  "goals": 0,
-                  "api_id": 289025,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "G",
-                  "red_card": false,
-                  "player_id": 16057,
-                  "yellow_card": false,
-                  "jersey_number": "35",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "GK",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "P. Johansson",
-                  "goals": 0,
-                  "api_id": 181621,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 16186,
-                  "yellow_card": false,
-                  "jersey_number": "2",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "M. Tenho",
-                  "goals": 0,
-                  "api_id": 548286,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 16059,
-                  "yellow_card": false,
-                  "jersey_number": "5",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "J. U. Larsson",
-                  "goals": 0,
-                  "api_id": 138549,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 16069,
-                  "yellow_card": false,
-                  "jersey_number": "4",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "M. Larsson",
-                  "goals": 0,
-                  "api_id": 1198992,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 22677,
-                  "yellow_card": false,
-                  "jersey_number": "24",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "H. Finndell",
-                  "goals": 0,
-                  "api_id": 856799,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 16226,
-                  "yellow_card": false,
-                  "jersey_number": "14",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "M. Siltanen",
-                  "goals": 0,
-                  "api_id": 1464275,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 16139,
-                  "yellow_card": false,
-                  "jersey_number": "20",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "P. Åslund",
-                  "goals": 0,
-                  "api_id": 998465,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 16064,
-                  "yellow_card": false,
-                  "jersey_number": "8",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "B. Å. Hegland",
-                  "goals": 0,
-                  "api_id": 1200574,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 16067,
-                  "yellow_card": false,
-                  "jersey_number": "16",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "O. Fallenius",
-                  "goals": 0,
-                  "api_id": 978194,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 16063,
-                  "yellow_card": false,
-                  "jersey_number": "15",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "K. S. Lien",
-                  "goals": 0,
-                  "api_id": 981284,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "F",
-                  "red_card": false,
-                  "player_id": 22676,
-                  "yellow_card": false,
-                  "jersey_number": "9",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "FWD",
-                  "positions_detailed": []
-                }
-              ],
-              "formation": "4-2-3-1",
-              "substitutes": []
-            },
-            "confirmed": false
-          },
-          "shotmap": null,
-          "momentum": null,
-          "xg_per_minute": null,
-          "average_positions": null,
-          "jerseys": {
-            "away": {
-              "GK": {
-                "base": "d5433f",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "000000",
-                "sleeve": "ff456e"
-              },
-              "player": {
-                "base": "2e6fbf",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "ceac64"
-              }
-            },
-            "home": {
-              "GK": {
-                "base": "060708",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "fafafa",
-                "sleeve": "000000"
-              },
-              "player": {
-                "base": "87b3db",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "bcbbc4",
-                "sleeve": "0d153a",
-                "stripes": "282f52"
-              }
-            }
-          },
-          "funfacts": [
-            {
-              "type_id": 1,
-              "sentence": "Halmstad haven't won in their last 4 games."
-            },
-            {
-              "type_id": 2,
-              "sentence": "When playing at home, Djurgarden have not lost to Halmstad in their last 11 encounters."
-            },
-            {
-              "type_id": 24,
-              "sentence": "Halmstad's away record this season: 0-1-4."
-            }
-          ],
-          "sr_stats": null,
-          "ai_preview": {
-            "text": "**Djurgårdens roll into this one as clear favorites**, and it's not hard to see why — Halmstad are leaking goals for fun right now. 🔴\n\nDjurgårdens have won 3 of their last 5 and look genuinely sharp, while Halmstad are on a rough patch with just one win in their last five. The H2H leans Halmstad's way historically (3 wins to 2), but form is everything in football.\n\nKey storylines:\n\n- **Djurgårdens' midfield** with B. Å. Hegland and M. Siltanen will likely dominate possession against a Halmstad side that's been carved open repeatedly\n- **Halmstad's attack** featuring O. Faraj and T. Rönning will need to be clinical on the break — they can't afford to waste chances\n- Djurgårdens will be without N. Žugelj (thigh injury) and M. Marques (suspension), but still have enough quality to get the job done\n\nExpected lineups:\n\n- **Djurgårdens IF**: J. Rinne, M. Tenho, P. Johansson, M. Larsson, B. Å. Hegland, M. Siltanen, K. S. Lien, P. Åslund, J. Asoro, H. Finndell\n- **Halmstads BK**: W. Lykke, E. Tougjas, P. Gregor, G. Wallentin, J. Allansson, R. Ascone, L. Arvidsson, H. Carneil, O. Faraj, T. Rönning\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**Djurgårdens 2–1 Halmstad**. The hosts have the edge in every department right now. 📍",
-            "generated_at": "2026-07-13T02:45:23.888588+00:00"
-          },
-          "live_websocket": true
-        },
-        "created_at": "2026-06-02T13:54:14.257129+03:00",
-        "prob_home_win": 58.91577517142851,
-        "prob_draw": 22.037082157194668,
-        "prob_away_win": 19.047142671376825,
-        "predicted_result": "H",
-        "expected_home_goals": 1.63528,
-        "expected_away_goals": 1.0319099999999999,
-        "prob_over_15": 85.28807318247443,
-        "prob_over_25": 65.36132018125794,
-        "prob_over_35": 34.39645054819102,
-        "prob_btts_yes": 58.353910740277534,
-        "confidence": 58.91577517142851,
-        "model_version": "v5.0",
-        "most_likely_score": "1-1",
-        "favorite": "H",
-        "favorite_prob": 58.91577517142851,
-        "favorite_recommend": false,
-        "over_15_recommend": false,
-        "over_25_recommend": false,
-        "over_35_recommend": false,
-        "btts_recommend": false,
-        "winner_recommend": false
-      },
-      "event_detail": {
-        "id": 46392,
-        "league": {
-          "id": 26,
-          "name": "Allsvenskan",
-          "country": "Sweden",
-          "is_women": false,
-          "current_season": {
-            "id": 9,
-            "name": "Allsvenskan 2026",
-            "year": 2026,
-            "start_date": "2026-01-01",
-            "end_date": "2026-12-31"
-          }
-        },
-        "season": {
-          "id": 9,
-          "name": "Allsvenskan 2026",
-          "year": 2026
-        },
-        "home_team": "Djurgårdens IF",
-        "away_team": "Halmstads BK",
-        "home_team_obj": {
-          "id": 436,
-          "name": "Djurgårdens IF",
-          "short_name": "Djurgården",
-          "country": "Sweden",
-          "coach": {
-            "name": "Jani Honkavaara",
-            "shortName": "J. Honkavaara"
-          },
-          "venue": {
-            "id": 416,
-            "name": "3Arena",
-            "city": "Stockholm",
-            "country": "Sweden",
-            "capacity": 32000
-          }
-        },
-        "away_team_obj": {
-          "id": 442,
-          "name": "Halmstads BK",
-          "short_name": "Halmstad",
-          "country": "Sweden",
-          "coach": {
-            "name": "Stuart Baxter",
-            "shortName": "S. Baxter"
-          },
-          "venue": {
-            "id": 421,
-            "name": "Örjans Vall",
-            "city": "Halmstad",
-            "country": "Sweden",
-            "capacity": 15500
-          }
-        },
-        "event_date": "2026-07-13T20:00:00+03:00",
-        "round_number": 12,
-        "round_name": "",
-        "group_name": null,
-        "status": "notstarted",
-        "home_score": null,
-        "away_score": null,
-        "home_score_ht": null,
-        "away_score_ht": null,
-        "current_minute": null,
-        "period": "",
-        "odds_home": 1.46,
-        "odds_draw": 3.34,
-        "odds_away": 8.01,
-        "odds_over_15": 1.12,
-        "odds_over_25": 1.44,
-        "odds_over_35": 2.14,
-        "odds_under_15": 5.45,
-        "odds_under_25": 2.61,
-        "odds_under_35": 1.65,
-        "odds_btts_yes": 1.92,
-        "odds_btts_no": 1.79,
-        "actual_home_xg": null,
-        "actual_away_xg": null,
-        "home_xg_live": null,
-        "away_xg_live": null,
-        "penalty_shootout": null,
-        "extra_time_score": null,
-        "is_local_derby": false,
-        "is_neutral_ground": null,
-        "travel_distance_km": 423,
-        "weather_code": 2,
-        "wind_speed": 14.3,
-        "temperature_c": 16,
-        "pitch_condition": null,
-        "attendance": null,
-        "referee": {
-          "id": 1972,
-          "name": "Adi Aganovic",
-          "country": "Sweden",
-          "nationality_a3": "",
-          "birthdate": null,
-          "yellowCards": 452,
-          "redCards": 11,
-          "career_games": 116,
-          "career_yellow_cards": 452,
-          "career_red_cards": 11
-        },
-        "home_coach": {
-          "id": 584,
-          "name": "Jani Honkavaara",
-          "short_name": "J. Honkavaara",
-          "country": "Finland",
-          "profile": "attacking",
-          "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.6170773272093547,
-          "defensive_line": "mid",
-          "top_styles": [
-            "chaos_ball",
-            "chaos_football"
-          ]
-        },
-        "away_coach": {
-          "id": 1518,
-          "name": "Stuart Baxter",
-          "short_name": "S. Baxter",
-          "country": "Scotland",
-          "profile": "defensive",
-          "preferred_formation": "3-4-3",
-          "pressing_intensity": 0.328053218102907,
-          "defensive_line": "low",
-          "top_styles": [
-            "park_the_bus",
-            "terrorist_fb"
-          ]
-        },
-        "unavailable_players": {
-          "home": [
-            {
-              "name": "Mikael Marqués",
-              "status": "suspended",
-              "reason": "red_card_suspension",
-              "expected_return": "2026-07-13"
-            },
-            {
-              "name": "Nino Žugelj",
-              "status": "injured",
-              "reason": "Thigh Injury",
-              "expected_return": "2026-07-20"
-            }
-          ],
-          "away": [
-            {
-              "name": "Andre Boman",
-              "status": "suspended",
-              "reason": "red_card_suspension",
-              "expected_return": "2026-07-13"
-            }
-          ]
-        },
-        "venue": {
-          "id": 416,
-          "name": "3Arena",
-          "city": "Stockholm",
-          "country": "Sweden",
-          "capacity": 32000,
-          "latitude": 59.29323,
-          "longitude": 18.083299,
-          "pitch_x": 105,
-          "pitch_y": 68,
-          "built_year": 2013
-        },
-        "live_stats": null,
-        "jerseys": {
-          "away": {
-            "GK": {
-              "base": "d5433f",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "000000",
-              "sleeve": "ff456e"
-            },
-            "player": {
-              "base": "2e6fbf",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "ceac64"
-            }
-          },
-          "home": {
-            "GK": {
-              "base": "060708",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "fafafa",
-              "sleeve": "000000"
-            },
-            "player": {
-              "base": "87b3db",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "bcbbc4",
-              "sleeve": "0d153a",
-              "stripes": "282f52"
-            }
-          }
-        },
-        "funfacts": [
-          {
-            "type_id": 1,
-            "sentence": "Halmstad haven't won in their last 4 games."
-          },
-          {
-            "type_id": 2,
-            "sentence": "When playing at home, Djurgarden have not lost to Halmstad in their last 11 encounters."
-          },
-          {
-            "type_id": 24,
-            "sentence": "Halmstad's away record this season: 0-1-4."
-          }
-        ],
-        "sr_stats": null,
-        "ai_preview": {
-          "text": "**Djurgårdens roll into this one as clear favorites**, and it's not hard to see why — Halmstad are leaking goals for fun right now. 🔴\n\nDjurgårdens have won 3 of their last 5 and look genuinely sharp, while Halmstad are on a rough patch with just one win in their last five. The H2H leans Halmstad's way historically (3 wins to 2), but form is everything in football.\n\nKey storylines:\n\n- **Djurgårdens' midfield** with B. Å. Hegland and M. Siltanen will likely dominate possession against a Halmstad side that's been carved open repeatedly\n- **Halmstad's attack** featuring O. Faraj and T. Rönning will need to be clinical on the break — they can't afford to waste chances\n- Djurgårdens will be without N. Žugelj (thigh injury) and M. Marques (suspension), but still have enough quality to get the job done\n\nExpected lineups:\n\n- **Djurgårdens IF**: J. Rinne, M. Tenho, P. Johansson, M. Larsson, B. Å. Hegland, M. Siltanen, K. S. Lien, P. Åslund, J. Asoro, H. Finndell\n- **Halmstads BK**: W. Lykke, E. Tougjas, P. Gregor, G. Wallentin, J. Allansson, R. Ascone, L. Arvidsson, H. Carneil, O. Faraj, T. Rönning\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**Djurgårdens 2–1 Halmstad**. The hosts have the edge in every department right now. 📍",
-          "generated_at": "2026-07-13T02:45:23.888588+00:00"
-        },
-        "live_websocket": true,
-        "home_form": {
-          "calculated_at": "2026-07-13",
-          "matches_played": 5,
-          "form_string": "WLLWW",
-          "wins": 3,
-          "draws": 0,
-          "losses": 2,
-          "points_last_n": 9,
-          "goals_scored_last_n": 17,
-          "goals_conceded_last_n": 9,
-          "avg_xg": 1.39784,
-          "avg_xg_conceded": 1.2028,
-          "avg_shots": 18,
-          "avg_shots_on_target": 8.6,
-          "avg_key_passes": 14,
-          "goal_conversion_rate": 2.432324157271218,
-          "defensive_efficiency": -0.49650814765547047,
-          "clean_sheets": 1,
-          "avg_pass_accuracy": 83.33364038733549,
-          "duel_win_rate": 0.5059665871121718,
-          "aerial_win_rate": 0.5263157894736842,
-          "avg_fouls": 11.8,
-          "avg_yellow_cards": 1.2,
-          "home_ppg": 0.8,
-          "away_ppg": 2.4,
-          "home_goals_scored": 10,
-          "home_goals_conceded": 7,
-          "away_goals_scored": 13,
-          "away_goals_conceded": 7,
-          "avg_team_rating": 6.994833333333334
-        },
-        "away_form": {
-          "calculated_at": "2026-07-13",
-          "matches_played": 5,
-          "form_string": "LLWDL",
-          "wins": 1,
-          "draws": 1,
-          "losses": 3,
-          "points_last_n": 4,
-          "goals_scored_last_n": 6,
-          "goals_conceded_last_n": 11,
-          "avg_xg": 0.72252,
-          "avg_xg_conceded": 0.8089000000000001,
-          "avg_shots": 12.6,
-          "avg_shots_on_target": 3.6,
-          "avg_key_passes": 9.6,
-          "goal_conversion_rate": 1.6608536787908985,
-          "defensive_efficiency": -1.7197428606749905,
-          "clean_sheets": 1,
-          "avg_pass_accuracy": 76.18154022634911,
-          "duel_win_rate": 0.5151515151515151,
-          "aerial_win_rate": 0.5446428571428571,
-          "avg_fouls": 13.4,
-          "avg_yellow_cards": 1,
-          "home_ppg": 1,
-          "away_ppg": 0.2,
-          "home_goals_scored": 6,
-          "home_goals_conceded": 8,
-          "away_goals_scored": 4,
-          "away_goals_conceded": 12,
-          "avg_team_rating": 6.756273809523809
-        },
-        "head_to_head": {
-          "total_matches": 6,
-          "home_wins": 2,
-          "draws": 1,
-          "away_wins": 3,
-          "home_goals": 4,
-          "away_goals": 5,
-          "avg_total_goals": 1.5,
-          "home_win_rate": 0.3333333333333333,
-          "away_win_rate": 0.5,
-          "recent_matches": [
-            {
-              "away": "Halmstads BK",
-              "date": "2025-08-03T12:00:00+00:00",
-              "home": "Djurgårdens IF",
-              "score": "1-1"
-            },
-            {
-              "away": "Djurgårdens IF",
-              "date": "2025-06-01T12:00:00+00:00",
-              "home": "Halmstads BK",
-              "score": "1-0"
-            },
-            {
-              "away": "Djurgårdens IF",
-              "date": "2024-11-03T12:30:00+00:00",
-              "home": "Halmstads BK",
-              "score": "1-0"
-            },
-            {
-              "away": "Halmstads BK",
-              "date": "2024-05-20T15:00:00+00:00",
-              "home": "Djurgårdens IF",
-              "score": "2-0"
-            },
-            {
-              "away": "Halmstads BK",
-              "date": "2023-09-30T11:00:00+00:00",
-              "home": "Djurgårdens IF",
-              "score": "1-0"
-            },
-            {
-              "away": "Djurgårdens IF",
-              "date": "2023-04-16T13:30:00+00:00",
-              "home": "Halmstads BK",
-              "score": "2-0"
-            }
-          ]
-        },
-        "lineups": {
-          "away": {
-            "players": [
-              {
-                "name": "T. Rönning",
-                "goals": 0,
-                "api_id": 875428,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "G",
-                "red_card": false,
-                "player_id": 16034,
-                "yellow_card": false,
-                "jersey_number": "1",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "GK",
-                "positions_detailed": []
-              },
-              {
-                "name": "P. Gregor",
-                "goals": 0,
-                "api_id": 297312,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 16020,
-                "yellow_card": false,
-                "jersey_number": "5",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "F. Schyberg",
-                "goals": 0,
-                "api_id": 987373,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 16021,
-                "yellow_card": false,
-                "jersey_number": "4",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "E. Tougjas",
-                "goals": 0,
-                "api_id": 1030649,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 24793,
-                "yellow_card": false,
-                "jersey_number": "16",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "R. Kaib",
-                "goals": 0,
-                "api_id": 834724,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 16023,
-                "yellow_card": false,
-                "jersey_number": "24",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "J. Allansson",
-                "goals": 0,
-                "api_id": 115740,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 16025,
-                "yellow_card": false,
-                "jersey_number": "6",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "R. Ascone",
-                "goals": 0,
-                "api_id": 1004244,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 16155,
-                "yellow_card": false,
-                "jersey_number": "27",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "O. Kapsimalis",
-                "goals": 0,
-                "api_id": 2147725,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "F",
-                "red_card": false,
-                "player_id": 16172,
-                "yellow_card": false,
-                "jersey_number": "22",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "FWD",
-                "positions_detailed": []
-              },
-              {
-                "name": "L. Arvidsson",
-                "goals": 0,
-                "api_id": 2040234,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "F",
-                "red_card": false,
-                "player_id": 16033,
-                "yellow_card": false,
-                "jersey_number": "11",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "FWD",
-                "positions_detailed": []
-              },
-              {
-                "name": "H. Carneil",
-                "goals": 0,
-                "api_id": 1176300,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 16309,
-                "yellow_card": false,
-                "jersey_number": "14",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "O. Faraj",
-                "goals": 0,
-                "api_id": 1021274,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "F",
-                "red_card": false,
-                "player_id": 16324,
-                "yellow_card": false,
-                "jersey_number": "9",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "FWD",
-                "positions_detailed": []
-              }
-            ],
-            "formation": "4-2-3-1",
-            "substitutes": []
-          },
-          "home": {
-            "players": [
-              {
-                "name": "J. Rinne",
-                "goals": 0,
-                "api_id": 289025,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "G",
-                "red_card": false,
-                "player_id": 16057,
-                "yellow_card": false,
-                "jersey_number": "35",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "GK",
-                "positions_detailed": []
-              },
-              {
-                "name": "P. Johansson",
-                "goals": 0,
-                "api_id": 181621,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 16186,
-                "yellow_card": false,
-                "jersey_number": "2",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "M. Tenho",
-                "goals": 0,
-                "api_id": 548286,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 16059,
-                "yellow_card": false,
-                "jersey_number": "5",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "J. U. Larsson",
-                "goals": 0,
-                "api_id": 138549,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 16069,
-                "yellow_card": false,
-                "jersey_number": "4",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "M. Larsson",
-                "goals": 0,
-                "api_id": 1198992,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 22677,
-                "yellow_card": false,
-                "jersey_number": "24",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "H. Finndell",
-                "goals": 0,
-                "api_id": 856799,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 16226,
-                "yellow_card": false,
-                "jersey_number": "14",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "M. Siltanen",
-                "goals": 0,
-                "api_id": 1464275,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 16139,
-                "yellow_card": false,
-                "jersey_number": "20",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "P. Åslund",
-                "goals": 0,
-                "api_id": 998465,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 16064,
-                "yellow_card": false,
-                "jersey_number": "8",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "B. Å. Hegland",
-                "goals": 0,
-                "api_id": 1200574,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 16067,
-                "yellow_card": false,
-                "jersey_number": "16",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "O. Fallenius",
-                "goals": 0,
-                "api_id": 978194,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 16063,
-                "yellow_card": false,
-                "jersey_number": "15",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "K. S. Lien",
-                "goals": 0,
-                "api_id": 981284,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "F",
-                "red_card": false,
-                "player_id": 22676,
-                "yellow_card": false,
-                "jersey_number": "9",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "FWD",
-                "positions_detailed": []
-              }
-            ],
-            "formation": "4-2-3-1",
-            "substitutes": []
-          },
-          "confirmed": false
-        },
-        "social": []
-      },
-      "managers": {
-        "home": {
-          "id": 584,
-          "name": "Jani Honkavaara",
-          "short_name": "J. Honkavaara",
-          "country": "Finland",
-          "current_team": {
-            "id": 436,
-            "name": "Djurgårdens IF"
-          },
-          "preferred_formation": "4-2-3-1",
-          "formations_used": {
-            "4-3-3": 6,
-            "4-5-1": 2,
-            "4-1-4-1": 2,
-            "4-2-3-1": 30
-          },
-          "profile": "attacking",
-          "team_style": "neutral",
-          "pressing_intensity": 0.6170773272093547,
-          "defensive_line": "mid",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "chaos_ball",
-              "name": "Chaos Ball",
-              "category": "fan",
-              "emoji": "🎲",
-              "description": "Embrace pure randomness, anything can happen",
-              "score": 0.094
-            },
-            {
-              "rank": 2,
-              "code": "chaos_football",
-              "name": "Chaos Football",
-              "category": "pressing",
-              "emoji": "🌪",
-              "description": "High tempo, risk-heavy, disorganised by design",
-              "score": 0.062
-            },
-            {
-              "rank": 3,
-              "code": "counter",
-              "name": "Counter-Attack",
-              "category": "counter",
-              "emoji": "⚡",
-              "description": "Absorb pressure, strike fast on the break",
-              "score": 0.054
-            },
-            {
-              "rank": 4,
-              "code": "set_piece",
-              "name": "Set-Piece Reliant",
-              "category": "defensive",
-              "emoji": "🎯",
-              "description": "Goals mainly from corners and free kicks",
-              "score": 0.049
-            }
-          ],
-          "matches_total": 40,
-          "wins": 18,
-          "draws": 11,
-          "losses": 11,
-          "win_pct": 45,
-          "avg_goals_scored": 1.88,
-          "avg_goals_conceded": 1.18,
-          "avg_possession": 54.86,
-          "avg_shots": 14.43,
-          "avg_shots_on_target": 5.69,
-          "avg_xg_for": 1.72,
-          "avg_xg_against": 1.3,
-          "avg_corners": 5.86,
-          "avg_yellow_cards": 2.08,
-          "avg_red_cards": 0.05,
-          "avg_fouls": 12.29,
-          "clean_sheet_pct": 30,
-          "btts_pct": 55,
-          "over_25_pct": 45,
-          "over_15_pct": 65,
-          "fail_to_score_pct": 22.5,
-          "avg_goals_scored_1h": 1,
-          "avg_goals_conceded_1h": 0.53
-        },
-        "away": {
-          "id": 592,
-          "name": "Johan Lindholm",
-          "short_name": "J. Lindholm",
-          "country": "Sweden",
-          "current_team": {
-            "id": 442,
-            "name": "Halmstads BK"
-          },
-          "preferred_formation": "5-4-1",
-          "formations_used": {
-            "3-4-3": 4,
-            "4-4-2": 2,
-            "5-4-1": 6,
-            "3-4-2-1": 4,
-            "4-2-3-1": 4
-          },
-          "profile": "defensive",
-          "team_style": "neutral",
-          "pressing_intensity": 0.27733691678995853,
-          "defensive_line": "mid",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "park_the_bus",
-              "name": "Park the Bus",
-              "category": "defensive",
-              "emoji": "🚌",
-              "description": "Ultra-deep defense, minimal attacking intent",
-              "score": 0.187
-            },
-            {
-              "rank": 2,
-              "code": "terrorist_fb",
-              "name": "Terrorist Football",
-              "category": "fan",
-              "emoji": "💣",
-              "description": "Ultra-negative setup — destroy the game",
-              "score": 0.164
-            },
-            {
-              "rank": 3,
-              "code": "low_block",
-              "name": "Low Block",
-              "category": "defensive",
-              "emoji": "🛡",
-              "description": "Compact defensive shape near own box",
-              "score": 0.082
-            },
-            {
-              "rank": 4,
-              "code": "low_counter",
-              "name": "Low Block Counter",
-              "category": "counter",
-              "emoji": "🏹",
-              "description": "Deep defense with rapid forward outlets",
-              "score": 0.055
-            }
-          ],
-          "matches_total": 37,
-          "wins": 10,
-          "draws": 7,
-          "losses": 20,
-          "win_pct": 27,
-          "avg_goals_scored": 0.76,
-          "avg_goals_conceded": 1.73,
-          "avg_possession": 39.42,
-          "avg_shots": 10.32,
-          "avg_shots_on_target": 3.06,
-          "avg_xg_for": 1.22,
-          "avg_xg_against": 1.76,
-          "avg_corners": 3.29,
-          "avg_yellow_cards": 1.71,
-          "avg_red_cards": 0,
-          "avg_fouls": 13.13,
-          "clean_sheet_pct": 24.3,
-          "btts_pct": 37.8,
-          "over_25_pct": 45.9,
-          "over_15_pct": 73,
-          "fail_to_score_pct": 43.2,
-          "avg_goals_scored_1h": 0.14,
-          "avg_goals_conceded_1h": 0.29
-        }
-      }
-    },
     {
       "event_id": 10014,
       "prediction": {
@@ -1631,16 +91,16 @@
           "current_minute": null,
           "period": "",
           "odds_home": 2.12,
-          "odds_draw": 3.01,
-          "odds_away": 3.61,
+          "odds_draw": 3.05,
+          "odds_away": 3.58,
           "odds_over_15": 1.36,
           "odds_over_25": 2.13,
-          "odds_over_35": 3.71,
-          "odds_under_15": 2.93,
-          "odds_under_25": 1.67,
+          "odds_over_35": 3.73,
+          "odds_under_15": 2.92,
+          "odds_under_25": 1.66,
           "odds_under_35": 1.24,
-          "odds_btts_yes": 1.85,
-          "odds_btts_no": 1.87,
+          "odds_btts_yes": 1.87,
+          "odds_btts_no": 1.85,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -1865,16 +325,16 @@
         "current_minute": null,
         "period": "",
         "odds_home": 2.12,
-        "odds_draw": 3.01,
-        "odds_away": 3.61,
+        "odds_draw": 3.05,
+        "odds_away": 3.58,
         "odds_over_15": 1.36,
         "odds_over_25": 2.13,
-        "odds_over_35": 3.71,
-        "odds_under_15": 2.93,
-        "odds_under_25": 1.67,
+        "odds_over_35": 3.73,
+        "odds_under_15": 2.92,
+        "odds_under_25": 1.66,
         "odds_under_35": 1.24,
-        "odds_btts_yes": 1.85,
-        "odds_btts_no": 1.87,
+        "odds_btts_yes": 1.87,
+        "odds_btts_no": 1.85,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -2263,17 +723,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.89,
+          "odds_home": 1.88,
           "odds_draw": 3.09,
-          "odds_away": 4.47,
+          "odds_away": 4.52,
           "odds_over_15": 1.44,
           "odds_over_25": 2.39,
-          "odds_over_35": 4.49,
-          "odds_under_15": 2.6,
+          "odds_over_35": 4.48,
+          "odds_under_15": 2.61,
           "odds_under_25": 1.53,
-          "odds_under_35": 1.17,
-          "odds_btts_yes": 2.09,
-          "odds_btts_no": 1.67,
+          "odds_under_35": 1.18,
+          "odds_btts_yes": 2.1,
+          "odds_btts_no": 1.66,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -2508,17 +968,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.89,
+        "odds_home": 1.88,
         "odds_draw": 3.09,
-        "odds_away": 4.47,
+        "odds_away": 4.52,
         "odds_over_15": 1.44,
         "odds_over_25": 2.39,
-        "odds_over_35": 4.49,
-        "odds_under_15": 2.6,
+        "odds_over_35": 4.48,
+        "odds_under_15": 2.61,
         "odds_under_25": 1.53,
-        "odds_under_35": 1.17,
-        "odds_btts_yes": 2.09,
-        "odds_btts_no": 1.67,
+        "odds_under_35": 1.18,
+        "odds_btts_yes": 2.1,
+        "odds_btts_no": 1.66,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -2961,11 +1421,11 @@
           "odds_over_15": 1.1,
           "odds_over_25": 1.38,
           "odds_over_35": 1.96,
-          "odds_under_15": 6.49,
+          "odds_under_15": 6.5,
           "odds_under_25": 2.89,
           "odds_under_35": 1.79,
           "odds_btts_yes": 1.53,
-          "odds_btts_no": 2.38,
+          "odds_btts_no": 2.37,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -3171,11 +1631,11 @@
         "odds_over_15": 1.1,
         "odds_over_25": 1.38,
         "odds_over_35": 1.96,
-        "odds_under_15": 6.49,
+        "odds_under_15": 6.5,
         "odds_under_25": 2.89,
         "odds_under_35": 1.79,
         "odds_btts_yes": 1.53,
-        "odds_btts_no": 2.38,
+        "odds_btts_no": 2.37,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -3655,17 +2115,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.6,
-          "odds_draw": 4.1,
-          "odds_away": 4.82,
-          "odds_over_15": 1.14,
-          "odds_over_25": 1.5,
-          "odds_over_35": 2.25,
-          "odds_under_15": 4.92,
-          "odds_under_25": 2.44,
-          "odds_under_35": 1.6,
-          "odds_btts_yes": 1.55,
-          "odds_btts_no": 2.29,
+          "odds_home": 1.59,
+          "odds_draw": 4.11,
+          "odds_away": 4.91,
+          "odds_over_15": 1.15,
+          "odds_over_25": 1.52,
+          "odds_over_35": 2.29,
+          "odds_under_15": 4.79,
+          "odds_under_25": 2.39,
+          "odds_under_35": 1.57,
+          "odds_btts_yes": 1.59,
+          "odds_btts_no": 2.24,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -3877,17 +2337,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.6,
-        "odds_draw": 4.1,
-        "odds_away": 4.82,
-        "odds_over_15": 1.14,
-        "odds_over_25": 1.5,
-        "odds_over_35": 2.25,
-        "odds_under_15": 4.92,
-        "odds_under_25": 2.44,
-        "odds_under_35": 1.6,
-        "odds_btts_yes": 1.55,
-        "odds_btts_no": 2.29,
+        "odds_home": 1.59,
+        "odds_draw": 4.11,
+        "odds_away": 4.91,
+        "odds_over_15": 1.15,
+        "odds_over_25": 1.52,
+        "odds_over_35": 2.29,
+        "odds_under_15": 4.79,
+        "odds_under_25": 2.39,
+        "odds_under_35": 1.57,
+        "odds_btts_yes": 1.59,
+        "odds_btts_no": 2.24,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -4289,15 +2749,15 @@
           "period": "",
           "odds_home": 1.69,
           "odds_draw": 4.08,
-          "odds_away": 4.07,
+          "odds_away": 4.01,
           "odds_over_15": 1.11,
           "odds_over_25": 1.41,
           "odds_over_35": 2.02,
-          "odds_under_15": 5.64,
+          "odds_under_15": 5.63,
           "odds_under_25": 2.71,
           "odds_under_35": 1.73,
-          "odds_btts_yes": 1.45,
-          "odds_btts_no": 2.58,
+          "odds_btts_yes": 1.44,
+          "odds_btts_no": 2.6,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -4416,7 +2876,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Lincoln pulled off a shock 3-1 win last time out, but Inter are hosting a revenge fixture in their own backyard** — this is exactly the kind of redemption arc the Escaldes faithful are craving. 🔥\n\nInter arrive as the slight favorite despite that recent away loss, and home advantage in the Andorran heat could be massive. Lincoln showed real vulnerability in those Braga hammerings, conceding nine goals across two games — a warning sign heading into this one.\n\nKey storylines:\n\n- **Inter's front three of A. Mohedano, Sascha, and P. Muñoz** need to punish a Lincoln defense that's looked fragile against quality opposition\n- **Mandi and G. Torrilla** anchoring Lincoln's midfield will be crucial to stemming Inter's attacks and controlling possession\n- Home-ground confidence clash: Inter are 2-1 up across their last three at DEVK-Arena, while Lincoln's away record is dodgy at best\n\nExpected lineups:\n\n- **Inter Club d'Escaldes**: A. Fernandez, A. Gomes, Á. Sánchez, J. Torres, M. Rodríguez, Á. d. l. Torre, V. Alonso, A. Llovet, A. Mohedano, Sascha, P. Muñoz\n- **Lincoln Red Imps**: J. Hankins, J. Toscano, B. Lopes, Joe, I. Ayew, G. Torrilla, Mandi, K. Clinton, Juanje, V. Villacanas, K. Gómez\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n- **Total Goals 2.5**: Over 2.5 goals\n\nPrediction: **Inter 2-1 Lincoln**. The hosts have the edge at home and should cash in on that shaky visiting defense. ⚽",
+            "generated_at": "2026-07-13T16:45:26.652101+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-07-08T05:20:12.827236+03:00",
@@ -4511,15 +2974,15 @@
         "period": "",
         "odds_home": 1.69,
         "odds_draw": 4.08,
-        "odds_away": 4.07,
+        "odds_away": 4.01,
         "odds_over_15": 1.11,
         "odds_over_25": 1.41,
         "odds_over_35": 2.02,
-        "odds_under_15": 5.64,
+        "odds_under_15": 5.63,
         "odds_under_25": 2.71,
         "odds_under_35": 1.73,
-        "odds_btts_yes": 1.45,
-        "odds_btts_no": 2.58,
+        "odds_btts_yes": 1.44,
+        "odds_btts_no": 2.6,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -4632,7 +3095,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Lincoln pulled off a shock 3-1 win last time out, but Inter are hosting a revenge fixture in their own backyard** — this is exactly the kind of redemption arc the Escaldes faithful are craving. 🔥\n\nInter arrive as the slight favorite despite that recent away loss, and home advantage in the Andorran heat could be massive. Lincoln showed real vulnerability in those Braga hammerings, conceding nine goals across two games — a warning sign heading into this one.\n\nKey storylines:\n\n- **Inter's front three of A. Mohedano, Sascha, and P. Muñoz** need to punish a Lincoln defense that's looked fragile against quality opposition\n- **Mandi and G. Torrilla** anchoring Lincoln's midfield will be crucial to stemming Inter's attacks and controlling possession\n- Home-ground confidence clash: Inter are 2-1 up across their last three at DEVK-Arena, while Lincoln's away record is dodgy at best\n\nExpected lineups:\n\n- **Inter Club d'Escaldes**: A. Fernandez, A. Gomes, Á. Sánchez, J. Torres, M. Rodríguez, Á. d. l. Torre, V. Alonso, A. Llovet, A. Mohedano, Sascha, P. Muñoz\n- **Lincoln Red Imps**: J. Hankins, J. Toscano, B. Lopes, Joe, I. Ayew, G. Torrilla, Mandi, K. Clinton, Juanje, V. Villacanas, K. Gómez\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n- **Total Goals 2.5**: Over 2.5 goals\n\nPrediction: **Inter 2-1 Lincoln**. The hosts have the edge at home and should cash in on that shaky visiting defense. ⚽",
+          "generated_at": "2026-07-13T16:45:26.652101+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-07-13",
@@ -4871,16 +3337,16 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.58,
+          "odds_home": 1.57,
           "odds_draw": 4.23,
-          "odds_away": 4.74,
+          "odds_away": 4.8,
           "odds_over_15": 1.16,
-          "odds_over_25": 1.55,
-          "odds_over_35": 2.38,
-          "odds_under_15": 4.57,
-          "odds_under_25": 2.31,
-          "odds_under_35": 1.53,
-          "odds_btts_yes": 1.63,
+          "odds_over_25": 1.54,
+          "odds_over_35": 2.37,
+          "odds_under_15": 4.61,
+          "odds_under_25": 2.32,
+          "odds_under_35": 1.54,
+          "odds_btts_yes": 1.62,
           "odds_btts_no": 2.16,
           "actual_home_xg": null,
           "actual_away_xg": null,
@@ -4995,7 +3461,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**FC Iberia 1999 host Flora Tallinn in a Champions League first-round clash where home advantage and recent head-to-head form could prove decisive.** The Georgian side edged Flora 3-2 away just weeks ago — a statement win that sets the tone for this return fixture. 🔥\n\nIberia are coming off an uneven run (1W 2L in their last three), but that victory over Flora shows they can hurt the Estonians on the break. Flora, meanwhile, are winless in their last outing and will need to tighten up defensively after leaking three goals at home.\n\nKey storylines:\n\n- **FC Iberia 1999's attacking momentum**: A. Dzagania and T. Akhvlediani led the charge in the 3-2 thriller; expect them to test Flora's backline early.\n- **Flora's struggle to contain**: A. Kollo and A. Vaher will have their hands full dealing with Iberia's creative midfield and direct threat up front.\n- **Home-field edge in Tbilisi**: The Mikheil Meskhi Stadium backing should give Iberia's press an extra gear.\n\nExpected lineups:\n\n- **FC Iberia 1999**: G. Makaridze, A. Amisulashvili, A. Zohouri, G. Jgerenaia, G. Kobuladze, B. Kardava, N. Dadian, G. Goshteliani, A. Dzagania, T. Akhvlediani, A. Rušević\n- **Flora Tallinn**: A. Tatrik, A. Kollo, A. Vaher, M. Kolobov, O. Pihela, D. Kuraksin, I. Antonov, M. Kalimullin, R. Sappinen, T. Usta, A. Kaares\n\nPrediction:\n\n**FC Iberia 1999 2–1 Flora Tallinn**\n\nIberia lean on home comfort and their recent edge in the head-to-head to squeeze through. 🟢",
+            "generated_at": "2026-07-13T16:45:32.987118+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-07-09T05:20:14.254914+03:00",
@@ -5082,16 +3551,16 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.58,
+        "odds_home": 1.57,
         "odds_draw": 4.23,
-        "odds_away": 4.74,
+        "odds_away": 4.8,
         "odds_over_15": 1.16,
-        "odds_over_25": 1.55,
-        "odds_over_35": 2.38,
-        "odds_under_15": 4.57,
-        "odds_under_25": 2.31,
-        "odds_under_35": 1.53,
-        "odds_btts_yes": 1.63,
+        "odds_over_25": 1.54,
+        "odds_over_35": 2.37,
+        "odds_under_15": 4.61,
+        "odds_under_25": 2.32,
+        "odds_under_35": 1.54,
+        "odds_btts_yes": 1.62,
         "odds_btts_no": 2.16,
         "actual_home_xg": null,
         "actual_away_xg": null,
@@ -5200,7 +3669,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**FC Iberia 1999 host Flora Tallinn in a Champions League first-round clash where home advantage and recent head-to-head form could prove decisive.** The Georgian side edged Flora 3-2 away just weeks ago — a statement win that sets the tone for this return fixture. 🔥\n\nIberia are coming off an uneven run (1W 2L in their last three), but that victory over Flora shows they can hurt the Estonians on the break. Flora, meanwhile, are winless in their last outing and will need to tighten up defensively after leaking three goals at home.\n\nKey storylines:\n\n- **FC Iberia 1999's attacking momentum**: A. Dzagania and T. Akhvlediani led the charge in the 3-2 thriller; expect them to test Flora's backline early.\n- **Flora's struggle to contain**: A. Kollo and A. Vaher will have their hands full dealing with Iberia's creative midfield and direct threat up front.\n- **Home-field edge in Tbilisi**: The Mikheil Meskhi Stadium backing should give Iberia's press an extra gear.\n\nExpected lineups:\n\n- **FC Iberia 1999**: G. Makaridze, A. Amisulashvili, A. Zohouri, G. Jgerenaia, G. Kobuladze, B. Kardava, N. Dadian, G. Goshteliani, A. Dzagania, T. Akhvlediani, A. Rušević\n- **Flora Tallinn**: A. Tatrik, A. Kollo, A. Vaher, M. Kolobov, O. Pihela, D. Kuraksin, I. Antonov, M. Kalimullin, R. Sappinen, T. Usta, A. Kaares\n\nPrediction:\n\n**FC Iberia 1999 2–1 Flora Tallinn**\n\nIberia lean on home comfort and their recent edge in the head-to-head to squeeze through. 🟢",
+          "generated_at": "2026-07-13T16:45:32.987118+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-07-13",
@@ -5428,17 +3900,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.72,
-          "odds_draw": 3.6,
-          "odds_away": 4.54,
-          "odds_over_15": 1.26,
-          "odds_over_25": 1.84,
-          "odds_over_35": 3.03,
-          "odds_under_15": 3.51,
-          "odds_under_25": 1.89,
+          "odds_home": 1.7,
+          "odds_draw": 3.64,
+          "odds_away": 4.63,
+          "odds_over_15": 1.25,
+          "odds_over_25": 1.83,
+          "odds_over_35": 3.01,
+          "odds_under_15": 3.54,
+          "odds_under_25": 1.9,
           "odds_under_35": 1.34,
           "odds_btts_yes": 1.8,
-          "odds_btts_no": 1.91,
+          "odds_btts_no": 1.9,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -5541,9 +4013,25 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 1,
+              "sentence": "Ararat-Armenia haven't lost in their last 4 games."
+            },
+            {
+              "type_id": 27,
+              "sentence": "The result of the first leg: Ararat-Armenia - Riga FC 2-0."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Riga FC haven't lost in any of their last 12 home matches."
+            }
+          ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Ararat-Armenia roll into the rematch as heavy favorites** — they just dismantled Riga 2-0 at home, and now they're back in Latvia looking to complete the job. 🔥\n\nRiga's got home turf but zero wins in their last five, while Ararat-Armenia's riding a clean sheet victory. The Armenian side's defensive shape is clearly clicking, and that's trouble for a struggling Riga attack.\n\nKey storylines:\n\n- **Ararat-Armenia's defense** has been ironclad in the first leg; shutting out Riga again looks plausible\n- **Riga's attack** (C. Ferreira and J. Christian leading the charge) needs to break through or face elimination\n- **Home advantage** might spark something for the Latvian side, but form tells a different story\n\nExpected lineups:\n\n- **Riga FC**: F. Orols, Abner, A. Salazar, Baba Musah, K. G. Wassom, A. Ankrah, I. S. Augusto, M. Diop, A. Taiwo, C. Ferreira, J. Christian\n\n- **FC Ararat-Armenia**: A. Nersesyan, A. Malis, B. Pereira, B. Wilson, E. Grigoryan, A. L. Tera, A. Ambartsumyan, A. Serobyan, A. Ndour, A. Eloyan, P. Ayongo\n\nBest picks:\n\n- **Total Goals Under 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Ararat-Armenia 1–0 Riga FC** — they've got the edge in every department, and Riga's lifeless form makes another low-scoring Armenian win likely.",
+            "generated_at": "2026-07-13T17:45:26.125555+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-07-08T05:20:13.800791+03:00",
@@ -5624,17 +4112,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.72,
-        "odds_draw": 3.6,
-        "odds_away": 4.54,
-        "odds_over_15": 1.26,
-        "odds_over_25": 1.84,
-        "odds_over_35": 3.03,
-        "odds_under_15": 3.51,
-        "odds_under_25": 1.89,
+        "odds_home": 1.7,
+        "odds_draw": 3.64,
+        "odds_away": 4.63,
+        "odds_over_15": 1.25,
+        "odds_over_25": 1.83,
+        "odds_over_35": 3.01,
+        "odds_under_15": 3.54,
+        "odds_under_25": 1.9,
         "odds_under_35": 1.34,
         "odds_btts_yes": 1.8,
-        "odds_btts_no": 1.91,
+        "odds_btts_no": 1.9,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -5731,9 +4219,25 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 1,
+            "sentence": "Ararat-Armenia haven't lost in their last 4 games."
+          },
+          {
+            "type_id": 27,
+            "sentence": "The result of the first leg: Ararat-Armenia - Riga FC 2-0."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Riga FC haven't lost in any of their last 12 home matches."
+          }
+        ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Ararat-Armenia roll into the rematch as heavy favorites** — they just dismantled Riga 2-0 at home, and now they're back in Latvia looking to complete the job. 🔥\n\nRiga's got home turf but zero wins in their last five, while Ararat-Armenia's riding a clean sheet victory. The Armenian side's defensive shape is clearly clicking, and that's trouble for a struggling Riga attack.\n\nKey storylines:\n\n- **Ararat-Armenia's defense** has been ironclad in the first leg; shutting out Riga again looks plausible\n- **Riga's attack** (C. Ferreira and J. Christian leading the charge) needs to break through or face elimination\n- **Home advantage** might spark something for the Latvian side, but form tells a different story\n\nExpected lineups:\n\n- **Riga FC**: F. Orols, Abner, A. Salazar, Baba Musah, K. G. Wassom, A. Ankrah, I. S. Augusto, M. Diop, A. Taiwo, C. Ferreira, J. Christian\n\n- **FC Ararat-Armenia**: A. Nersesyan, A. Malis, B. Pereira, B. Wilson, E. Grigoryan, A. L. Tera, A. Ambartsumyan, A. Serobyan, A. Ndour, A. Eloyan, P. Ayongo\n\nBest picks:\n\n- **Total Goals Under 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Ararat-Armenia 1–0 Riga FC** — they've got the edge in every department, and Riga's lifeless form makes another low-scoring Armenian win likely.",
+          "generated_at": "2026-07-13T17:45:26.125555+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-07-13",
@@ -5967,17 +4471,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.68,
-          "odds_draw": 4.07,
-          "odds_away": 4.18,
+          "odds_home": 1.69,
+          "odds_draw": 4.04,
+          "odds_away": 4.11,
           "odds_over_15": 1.16,
-          "odds_over_25": 1.54,
-          "odds_over_35": 2.36,
-          "odds_under_15": 4.62,
-          "odds_under_25": 2.34,
+          "odds_over_25": 1.55,
+          "odds_over_35": 2.37,
+          "odds_under_15": 4.59,
+          "odds_under_25": 2.33,
           "odds_under_35": 1.54,
           "odds_btts_yes": 1.57,
-          "odds_btts_no": 2.28,
+          "odds_btts_no": 2.27,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -6093,9 +4597,21 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 27,
+              "sentence": "The result of the first leg: Vikingur Reykjavik - ETO Gyor 1-0."
+            },
+            {
+              "type_id": 1,
+              "sentence": "ETO Gyor haven't lost in any of their last 14 home matches."
+            }
+          ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Víkingur's back at the scene of the crime.** The Icelandic side already mugged ETO at home last month, and now they're rolling back into Hungary for the return leg with all the momentum. 🔥\n\nETO desperately need a reaction after that opening loss, but they're down a body with **A. N. Benbouali** sidelined. Víkingur won their last outing and have the head-to-head edge — this looks like it could be a repeat of their earlier dominance.\n\nKey storylines:\n\n- **Víkingur's road resilience** tested against a hungry Hungarian side that can't afford another blank scoreline\n- ETO's attacking trio of **I. Tollár, M. Huszár, and M. Szep** need to break through a solid Icelandic back line\n- The absence of **A. N. Benbouali** leaves ETO short in midfield creativity at a crucial moment\n\nExpected lineups:\n\n- **ETO FC Győr**: B. Megyeri, Á. Umathum, S. Balint, B. Bíró, D. Štefulj, Á. Décsy, C. Bumba, J. Živković, I. Tollár, M. Huszár, M. Szep\n- **Víkingur Reykjavík**: Ö. Kristinsson, D. Ö. Atlason, H. Guðjónsson, K. Gunnarsson, O. Ekroth, A. I. Finnbogason, A. E. Þrándarson, D. Jónsson, E. Már Ómarsson, N. Hansen, T. Ingólfsson\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n- **Both Teams to Score**: BTTS No\n- **Total Goals 2.5**: Under 2.5 goals\n\nPrediction:\n\n**0-1 Víkingur** — edge to the visitors riding defensive discipline and proven pedigree in this tie.",
+            "generated_at": "2026-07-13T17:45:31.514913+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-07-08T05:20:13.352686+03:00",
@@ -6182,17 +4698,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.68,
-        "odds_draw": 4.07,
-        "odds_away": 4.18,
+        "odds_home": 1.69,
+        "odds_draw": 4.04,
+        "odds_away": 4.11,
         "odds_over_15": 1.16,
-        "odds_over_25": 1.54,
-        "odds_over_35": 2.36,
-        "odds_under_15": 4.62,
-        "odds_under_25": 2.34,
+        "odds_over_25": 1.55,
+        "odds_over_35": 2.37,
+        "odds_under_15": 4.59,
+        "odds_under_25": 2.33,
         "odds_under_35": 1.54,
         "odds_btts_yes": 1.57,
-        "odds_btts_no": 2.28,
+        "odds_btts_no": 2.27,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -6302,9 +4818,21 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 27,
+            "sentence": "The result of the first leg: Vikingur Reykjavik - ETO Gyor 1-0."
+          },
+          {
+            "type_id": 1,
+            "sentence": "ETO Gyor haven't lost in any of their last 14 home matches."
+          }
+        ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Víkingur's back at the scene of the crime.** The Icelandic side already mugged ETO at home last month, and now they're rolling back into Hungary for the return leg with all the momentum. 🔥\n\nETO desperately need a reaction after that opening loss, but they're down a body with **A. N. Benbouali** sidelined. Víkingur won their last outing and have the head-to-head edge — this looks like it could be a repeat of their earlier dominance.\n\nKey storylines:\n\n- **Víkingur's road resilience** tested against a hungry Hungarian side that can't afford another blank scoreline\n- ETO's attacking trio of **I. Tollár, M. Huszár, and M. Szep** need to break through a solid Icelandic back line\n- The absence of **A. N. Benbouali** leaves ETO short in midfield creativity at a crucial moment\n\nExpected lineups:\n\n- **ETO FC Győr**: B. Megyeri, Á. Umathum, S. Balint, B. Bíró, D. Štefulj, Á. Décsy, C. Bumba, J. Živković, I. Tollár, M. Huszár, M. Szep\n- **Víkingur Reykjavík**: Ö. Kristinsson, D. Ö. Atlason, H. Guðjónsson, K. Gunnarsson, O. Ekroth, A. I. Finnbogason, A. E. Þrándarson, D. Jónsson, E. Már Ómarsson, N. Hansen, T. Ingólfsson\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n- **Both Teams to Score**: BTTS No\n- **Total Goals 2.5**: Under 2.5 goals\n\nPrediction:\n\n**0-1 Víkingur** — edge to the visitors riding defensive discipline and proven pedigree in this tie.",
+          "generated_at": "2026-07-13T17:45:31.514913+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-07-13",
@@ -6585,17 +5113,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.32,
-          "odds_draw": 4.62,
-          "odds_away": 9.7,
-          "odds_over_15": 1.32,
-          "odds_over_25": 2,
-          "odds_over_35": 3.48,
-          "odds_under_15": 3.17,
-          "odds_under_25": 1.74,
-          "odds_under_35": 1.27,
-          "odds_btts_yes": 2.54,
-          "odds_btts_no": 1.46,
+          "odds_home": 1.33,
+          "odds_draw": 4.51,
+          "odds_away": 9.78,
+          "odds_over_15": 1.34,
+          "odds_over_25": 2.09,
+          "odds_over_35": 3.74,
+          "odds_under_15": 3.03,
+          "odds_under_25": 1.69,
+          "odds_under_35": 1.24,
+          "odds_btts_yes": 2.63,
+          "odds_btts_no": 1.43,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -6701,9 +5229,25 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 1,
+              "sentence": "Levski Sofia haven't lost in their last 8 games."
+            },
+            {
+              "type_id": 27,
+              "sentence": "The result of the first leg: Banja Luka - Levski Sofia 1-1."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Banja Luka have lost none of their last 11 away matches."
+            }
+          ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Levski Sofia's looking to turn a dead-rubber draw into a proper advantage** — they've got home turf, and Borac showed almost nothing in their first leg. 🏟️\n\nLevski are the sharper side here with a W-D-D stretch, while Borac are basically treading water after that 1-1 in Banja Luka. The Sofia outfit have serious attacking threats; Borac's back line has work to do.\n\nKey storylines:\n\n- **Levski's home fortress** vs a Borac team that's barely mustered offensive momentum since the first leg\n- **Perea and M. Dugandžić** will need to turn Levski's possession advantage into clear chances\n- **Defensive solidity from both sides** — the first match set a cautious tone, and that could repeat here\n\nExpected lineups:\n\n- **Levski Sofia**: S. Vutsov, R. Kirilov, A. Mitkov, G. Kostadinov, Aldair, A. Oko-Flex, C. Ohene, M. Soula, E. Bala, M. Dugandžić, Perea\n- **FK Borac Banja Luka**: D. Siskovski, A. Pascual, D. C. Atab, E. Riđan, N. Jakšić, A. Milak, A. Hiroš, A. Roguljić, D. Romera, L. Juričić, M. Deket\n\nBest picks:\n\n- **Total Goals Under 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Levski 1–1 FK Borac** — draw feels coin-flip here; both defenses hold firm, neither cracks wide open. 🔒",
+            "generated_at": "2026-07-13T17:45:42.197780+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-07-08T05:20:14.326198+03:00",
@@ -6790,17 +5334,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.32,
-        "odds_draw": 4.62,
-        "odds_away": 9.7,
-        "odds_over_15": 1.32,
-        "odds_over_25": 2,
-        "odds_over_35": 3.48,
-        "odds_under_15": 3.17,
-        "odds_under_25": 1.74,
-        "odds_under_35": 1.27,
-        "odds_btts_yes": 2.54,
-        "odds_btts_no": 1.46,
+        "odds_home": 1.33,
+        "odds_draw": 4.51,
+        "odds_away": 9.78,
+        "odds_over_15": 1.34,
+        "odds_over_25": 2.09,
+        "odds_over_35": 3.74,
+        "odds_under_15": 3.03,
+        "odds_under_25": 1.69,
+        "odds_under_35": 1.24,
+        "odds_btts_yes": 2.63,
+        "odds_btts_no": 1.43,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -6900,9 +5444,25 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 1,
+            "sentence": "Levski Sofia haven't lost in their last 8 games."
+          },
+          {
+            "type_id": 27,
+            "sentence": "The result of the first leg: Banja Luka - Levski Sofia 1-1."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Banja Luka have lost none of their last 11 away matches."
+          }
+        ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Levski Sofia's looking to turn a dead-rubber draw into a proper advantage** — they've got home turf, and Borac showed almost nothing in their first leg. 🏟️\n\nLevski are the sharper side here with a W-D-D stretch, while Borac are basically treading water after that 1-1 in Banja Luka. The Sofia outfit have serious attacking threats; Borac's back line has work to do.\n\nKey storylines:\n\n- **Levski's home fortress** vs a Borac team that's barely mustered offensive momentum since the first leg\n- **Perea and M. Dugandžić** will need to turn Levski's possession advantage into clear chances\n- **Defensive solidity from both sides** — the first match set a cautious tone, and that could repeat here\n\nExpected lineups:\n\n- **Levski Sofia**: S. Vutsov, R. Kirilov, A. Mitkov, G. Kostadinov, Aldair, A. Oko-Flex, C. Ohene, M. Soula, E. Bala, M. Dugandžić, Perea\n- **FK Borac Banja Luka**: D. Siskovski, A. Pascual, D. C. Atab, E. Riđan, N. Jakšić, A. Milak, A. Hiroš, A. Roguljić, D. Romera, L. Juričić, M. Deket\n\nBest picks:\n\n- **Total Goals Under 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Levski 1–1 FK Borac** — draw feels coin-flip here; both defenses hold firm, neither cracks wide open. 🔒",
+          "generated_at": "2026-07-13T17:45:42.197780+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-07-13",
@@ -7184,17 +5744,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 4.63,
-          "odds_draw": 4.02,
-          "odds_away": 1.63,
+          "odds_home": 4.66,
+          "odds_draw": 3.99,
+          "odds_away": 1.62,
           "odds_over_15": 1.18,
-          "odds_over_25": 1.59,
+          "odds_over_25": 1.6,
           "odds_over_35": 2.46,
-          "odds_under_15": 4.41,
-          "odds_under_25": 2.23,
+          "odds_under_15": 4.38,
+          "odds_under_25": 2.22,
           "odds_under_35": 1.5,
-          "odds_btts_yes": 1.63,
-          "odds_btts_no": 2.14,
+          "odds_btts_yes": 1.65,
+          "odds_btts_no": 2.12,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -7298,9 +5858,17 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 27,
+              "sentence": "The result of the first leg: Sabah Masazir - New Saints 2-0."
+            }
+          ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Sabah FK roll back into Park Hall with a massive edge** — they've already shown The New Saints they're the better side, hammering them 2-0 at home just weeks ago. 🔥\n\nTNS are winless in five (1D, 2L), while Sabah just beat the exact same opponent and are riding that confidence. The hosts will need to dig deep to overturn an away-day deficit that's already looking like a mountain.\n\nKey storylines:\n\n- **Sabah FK's defensive solidity** — they haven't given much away in recent fixtures and will look to suffocate TNS's creative outlets early\n- **TNS needing an attacking spark** — **B. Wilson** and **L. Phillips** have to find space against a well-drilled backline, but the odds aren't in their favor\n- **Set pieces as a lifeline** — with open play likely tight, corners and free kicks become crucial for the home side\n\nExpected lineups:\n\n- **The New Saints**: J. Edwards, D. Williams, H. Godsmark-Ford, H. McGahey, J. Bodenham, B. Clark, D. Redmond, R. Holden, J. Williams, B. Wilson, L. Phillips\n- **Sabah FK**: N. Mehbaliyev, A. Zedadka, R. Dashdamirov, S. Solvet, A. Seydiyev, A. Khaybulaev, I. Lepinjica, K. Aliyev, K. Parris, J. Mickels, P. Šafranko\n\nBest picks:\n\n- **Under 2.5 goals**: Under 2.5 goals\n- **Both Teams to Score**: No\n- **Under 3.5 goals**: Under 3.5 goals\n\nPrediction:\n\n**Sabah FK 1–0 The New Saints**. Low-scoring affair with the visitors' defensive prowess keeping TNS at bay. 🎯",
+            "generated_at": "2026-07-13T17:45:37.057261+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-07-08T05:20:14.828880+03:00",
@@ -7393,17 +5961,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 4.63,
-        "odds_draw": 4.02,
-        "odds_away": 1.63,
+        "odds_home": 4.66,
+        "odds_draw": 3.99,
+        "odds_away": 1.62,
         "odds_over_15": 1.18,
-        "odds_over_25": 1.59,
+        "odds_over_25": 1.6,
         "odds_over_35": 2.46,
-        "odds_under_15": 4.41,
-        "odds_under_25": 2.23,
+        "odds_under_15": 4.38,
+        "odds_under_25": 2.22,
         "odds_under_35": 1.5,
-        "odds_btts_yes": 1.63,
-        "odds_btts_no": 2.14,
+        "odds_btts_yes": 1.65,
+        "odds_btts_no": 2.12,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -7501,9 +6069,17 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 27,
+            "sentence": "The result of the first leg: Sabah Masazir - New Saints 2-0."
+          }
+        ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Sabah FK roll back into Park Hall with a massive edge** — they've already shown The New Saints they're the better side, hammering them 2-0 at home just weeks ago. 🔥\n\nTNS are winless in five (1D, 2L), while Sabah just beat the exact same opponent and are riding that confidence. The hosts will need to dig deep to overturn an away-day deficit that's already looking like a mountain.\n\nKey storylines:\n\n- **Sabah FK's defensive solidity** — they haven't given much away in recent fixtures and will look to suffocate TNS's creative outlets early\n- **TNS needing an attacking spark** — **B. Wilson** and **L. Phillips** have to find space against a well-drilled backline, but the odds aren't in their favor\n- **Set pieces as a lifeline** — with open play likely tight, corners and free kicks become crucial for the home side\n\nExpected lineups:\n\n- **The New Saints**: J. Edwards, D. Williams, H. Godsmark-Ford, H. McGahey, J. Bodenham, B. Clark, D. Redmond, R. Holden, J. Williams, B. Wilson, L. Phillips\n- **Sabah FK**: N. Mehbaliyev, A. Zedadka, R. Dashdamirov, S. Solvet, A. Seydiyev, A. Khaybulaev, I. Lepinjica, K. Aliyev, K. Parris, J. Mickels, P. Šafranko\n\nBest picks:\n\n- **Under 2.5 goals**: Under 2.5 goals\n- **Both Teams to Score**: No\n- **Under 3.5 goals**: Under 3.5 goals\n\nPrediction:\n\n**Sabah FK 1–0 The New Saints**. Low-scoring affair with the visitors' defensive prowess keeping TNS at bay. 🎯",
+          "generated_at": "2026-07-13T17:45:37.057261+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-07-13",
@@ -7850,7 +6426,20 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 1,
+              "sentence": "Drita haven't won in their last 5 games."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Kauno haven't lost in their last 5 games."
+            },
+            {
+              "type_id": 27,
+              "sentence": "The result of the first leg: Kauno - Drita 1-1."
+            }
+          ],
           "sr_stats": null,
           "ai_preview": null,
           "live_websocket": true
@@ -8046,7 +6635,20 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 1,
+            "sentence": "Drita haven't won in their last 5 games."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Kauno haven't lost in their last 5 games."
+          },
+          {
+            "type_id": 27,
+            "sentence": "The result of the first leg: Kauno - Drita 1-1."
+          }
+        ],
         "sr_stats": null,
         "ai_preview": null,
         "live_websocket": true,
