@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-13T06:57:10.329Z",
+  "generated_at": "2026-07-13T10:33:22.331Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -854,16 +854,16 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.94,
-          "odds_draw": 3.22,
-          "odds_away": 3.98,
+          "odds_home": 1.96,
+          "odds_draw": 3.23,
+          "odds_away": 3.88,
           "odds_over_15": 1.33,
-          "odds_over_25": 2.04,
-          "odds_over_35": 3.53,
-          "odds_under_15": 3.08,
-          "odds_under_25": 1.72,
-          "odds_under_35": 1.26,
-          "odds_btts_yes": 1.84,
+          "odds_over_25": 2.03,
+          "odds_over_35": 3.49,
+          "odds_under_15": 3.11,
+          "odds_under_25": 1.73,
+          "odds_under_35": 1.27,
+          "odds_btts_yes": 1.83,
           "odds_btts_no": 1.88,
           "actual_home_xg": null,
           "actual_away_xg": null,
@@ -1088,16 +1088,16 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.94,
-        "odds_draw": 3.22,
-        "odds_away": 3.98,
+        "odds_home": 1.96,
+        "odds_draw": 3.23,
+        "odds_away": 3.88,
         "odds_over_15": 1.33,
-        "odds_over_25": 2.04,
-        "odds_over_35": 3.53,
-        "odds_under_15": 3.08,
-        "odds_under_25": 1.72,
-        "odds_under_35": 1.26,
-        "odds_btts_yes": 1.84,
+        "odds_over_25": 2.03,
+        "odds_over_35": 3.49,
+        "odds_under_15": 3.11,
+        "odds_under_25": 1.73,
+        "odds_under_35": 1.27,
+        "odds_btts_yes": 1.83,
         "odds_btts_no": 1.88,
         "actual_home_xg": null,
         "actual_away_xg": null,
@@ -1487,17 +1487,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.9,
-          "odds_draw": 3.14,
-          "odds_away": 4.32,
-          "odds_over_15": 1.41,
-          "odds_over_25": 2.31,
-          "odds_over_35": 4.26,
-          "odds_under_15": 2.7,
-          "odds_under_25": 1.57,
-          "odds_under_35": 1.19,
-          "odds_btts_yes": 2.04,
-          "odds_btts_no": 1.7,
+          "odds_home": 1.91,
+          "odds_draw": 3.13,
+          "odds_away": 4.34,
+          "odds_over_15": 1.43,
+          "odds_over_25": 2.34,
+          "odds_over_35": 4.34,
+          "odds_under_15": 2.65,
+          "odds_under_25": 1.56,
+          "odds_under_35": 1.18,
+          "odds_btts_yes": 2.07,
+          "odds_btts_no": 1.69,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -1732,17 +1732,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.9,
-        "odds_draw": 3.14,
-        "odds_away": 4.32,
-        "odds_over_15": 1.41,
-        "odds_over_25": 2.31,
-        "odds_over_35": 4.26,
-        "odds_under_15": 2.7,
-        "odds_under_25": 1.57,
-        "odds_under_35": 1.19,
-        "odds_btts_yes": 2.04,
-        "odds_btts_no": 1.7,
+        "odds_home": 1.91,
+        "odds_draw": 3.13,
+        "odds_away": 4.34,
+        "odds_over_15": 1.43,
+        "odds_over_25": 2.34,
+        "odds_over_35": 4.34,
+        "odds_under_15": 2.65,
+        "odds_under_25": 1.56,
+        "odds_under_35": 1.18,
+        "odds_btts_yes": 2.07,
+        "odds_btts_no": 1.69,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -8517,7 +8517,18 @@
           "temperature_c": 43,
           "pitch_condition": null,
           "attendance": null,
-          "referee": null,
+          "referee": {
+            "id": 2462,
+            "name": "Iván Barton",
+            "country": "El Salvador",
+            "nationality_a3": "",
+            "birthdate": null,
+            "yellowCards": 319,
+            "redCards": 16,
+            "career_games": 67,
+            "career_yellow_cards": 319,
+            "career_red_cards": 16
+          },
           "home_coach": {
             "id": 32,
             "name": "Didier Deschamps",
@@ -8714,7 +8725,18 @@
         "temperature_c": 43,
         "pitch_condition": null,
         "attendance": null,
-        "referee": null,
+        "referee": {
+          "id": 2462,
+          "name": "Iván Barton",
+          "country": "El Salvador",
+          "nationality_a3": "",
+          "birthdate": null,
+          "yellowCards": 319,
+          "redCards": 16,
+          "career_games": 67,
+          "career_yellow_cards": 319,
+          "career_red_cards": 16
+        },
         "home_coach": {
           "id": 32,
           "name": "Didier Deschamps",
@@ -17020,14 +17042,8 @@
             "home": [],
             "away": [
               {
-                "name": "Abdoulie Sanyang Bamba",
-                "status": "injured",
-                "reason": "",
-                "expected_return": null
-              },
-              {
                 "name": "Niko Sigur",
-                "status": "injured",
+                "status": "doubtful",
                 "reason": "",
                 "expected_return": null
               }
@@ -17199,14 +17215,8 @@
           "home": [],
           "away": [
             {
-              "name": "Abdoulie Sanyang Bamba",
-              "status": "injured",
-              "reason": "",
-              "expected_return": null
-            },
-            {
               "name": "Niko Sigur",
-              "status": "injured",
+              "status": "doubtful",
               "reason": "",
               "expected_return": null
             }
@@ -20126,8 +20136,14 @@
               {
                 "name": "Prince Owusu",
                 "status": "suspended",
-                "reason": "Yellow card accumulation suspension",
-                "expected_return": "2026-07-18"
+                "reason": "yellow_card_accumulation_suspension",
+                "expected_return": "2026-07-17"
+              },
+              {
+                "name": "Wikelman Carmona",
+                "status": "injured",
+                "reason": "Knee Injury",
+                "expected_return": "2026-07-31"
               }
             ],
             "away": [
@@ -20158,14 +20174,14 @@
               {
                 "name": "Jonathan Osorio",
                 "status": "suspended",
-                "reason": "Yellow card accumulation suspension",
-                "expected_return": "2026-07-18"
+                "reason": "yellow_card_accumulation_suspension",
+                "expected_return": "2026-07-17"
               },
               {
                 "name": "Matheus Pereira",
                 "status": "injured",
                 "reason": "Groin Injury",
-                "expected_return": "2026-07-18"
+                "expected_return": "2026-07-31"
               }
             ]
           },
@@ -20383,8 +20399,14 @@
             {
               "name": "Prince Owusu",
               "status": "suspended",
-              "reason": "Yellow card accumulation suspension",
-              "expected_return": "2026-07-18"
+              "reason": "yellow_card_accumulation_suspension",
+              "expected_return": "2026-07-17"
+            },
+            {
+              "name": "Wikelman Carmona",
+              "status": "injured",
+              "reason": "Knee Injury",
+              "expected_return": "2026-07-31"
             }
           ],
           "away": [
@@ -20415,14 +20437,14 @@
             {
               "name": "Jonathan Osorio",
               "status": "suspended",
-              "reason": "Yellow card accumulation suspension",
-              "expected_return": "2026-07-18"
+              "reason": "yellow_card_accumulation_suspension",
+              "expected_return": "2026-07-17"
             },
             {
               "name": "Matheus Pereira",
               "status": "injured",
               "reason": "Groin Injury",
-              "expected_return": "2026-07-18"
+              "expected_return": "2026-07-31"
             }
           ]
         },
@@ -20901,6 +20923,12 @@
                 "status": "doubtful",
                 "reason": "Achilles Strain",
                 "expected_return": "2026-07-18"
+              },
+              {
+                "name": "Yohei Takaoka",
+                "status": "suspended",
+                "reason": "red_card_suspension",
+                "expected_return": "2026-07-17"
               }
             ]
           },
@@ -21140,6 +21168,12 @@
               "status": "doubtful",
               "reason": "Achilles Strain",
               "expected_return": "2026-07-18"
+            },
+            {
+              "name": "Yohei Takaoka",
+              "status": "suspended",
+              "reason": "red_card_suspension",
+              "expected_return": "2026-07-17"
             }
           ]
         },
@@ -21589,6 +21623,12 @@
                 "expected_return": "2026-07-18"
               },
               {
+                "name": "Conrad Wallem",
+                "status": "suspended",
+                "reason": "yellow_or_red_card_suspension",
+                "expected_return": "2026-07-17"
+              },
+              {
                 "name": "Jaziel Orozco",
                 "status": "injured",
                 "reason": "Leg Injury",
@@ -21825,6 +21865,12 @@
               "status": "suspended",
               "reason": "Yellow card accumulation suspension",
               "expected_return": "2026-07-18"
+            },
+            {
+              "name": "Conrad Wallem",
+              "status": "suspended",
+              "reason": "yellow_or_red_card_suspension",
+              "expected_return": "2026-07-17"
             },
             {
               "name": "Jaziel Orozco",
@@ -22320,7 +22366,7 @@
                 "name": "Omir Fernandez",
                 "status": "injured",
                 "reason": "Foot Injury",
-                "expected_return": "2026-07-18"
+                "expected_return": "2026-08-10"
               }
             ]
           },
@@ -22555,7 +22601,7 @@
               "name": "Omir Fernandez",
               "status": "injured",
               "reason": "Foot Injury",
-              "expected_return": "2026-07-18"
+              "expected_return": "2026-08-10"
             }
           ]
         },
@@ -36813,8 +36859,8 @@
               {
                 "name": "Riqui Puig",
                 "status": "injured",
-                "reason": "ACL Knee Injury",
-                "expected_return": "2026-09-28"
+                "reason": "Knee Injury",
+                "expected_return": "2026-11-10"
               }
             ],
             "away": [
@@ -37051,8 +37097,8 @@
             {
               "name": "Riqui Puig",
               "status": "injured",
-              "reason": "ACL Knee Injury",
-              "expected_return": "2026-09-28"
+              "reason": "Knee Injury",
+              "expected_return": "2026-11-10"
             }
           ],
           "away": [
@@ -88026,6 +88072,12 @@
                 "status": "doubtful",
                 "reason": "Achilles Strain",
                 "expected_return": "2026-07-18"
+              },
+              {
+                "name": "Yohei Takaoka",
+                "status": "suspended",
+                "reason": "red_card_suspension",
+                "expected_return": "2026-07-17"
               }
             ]
           },
@@ -88237,6 +88289,12 @@
               "status": "doubtful",
               "reason": "Achilles Strain",
               "expected_return": "2026-07-18"
+            },
+            {
+              "name": "Yohei Takaoka",
+              "status": "suspended",
+              "reason": "red_card_suspension",
+              "expected_return": "2026-07-17"
             }
           ]
         },
@@ -89295,14 +89353,14 @@
               {
                 "name": "Jonathan Osorio",
                 "status": "suspended",
-                "reason": "Yellow card accumulation suspension",
-                "expected_return": "2026-07-18"
+                "reason": "yellow_card_accumulation_suspension",
+                "expected_return": "2026-07-17"
               },
               {
                 "name": "Matheus Pereira",
                 "status": "injured",
                 "reason": "Groin Injury",
-                "expected_return": "2026-07-18"
+                "expected_return": "2026-07-31"
               }
             ]
           },
@@ -89512,14 +89570,14 @@
             {
               "name": "Jonathan Osorio",
               "status": "suspended",
-              "reason": "Yellow card accumulation suspension",
-              "expected_return": "2026-07-18"
+              "reason": "yellow_card_accumulation_suspension",
+              "expected_return": "2026-07-17"
             },
             {
               "name": "Matheus Pereira",
               "status": "injured",
               "reason": "Groin Injury",
-              "expected_return": "2026-07-18"
+              "expected_return": "2026-07-31"
             }
           ]
         },
@@ -91792,8 +91850,8 @@
               {
                 "name": "David Schnegg",
                 "status": "suspended",
-                "reason": "Red card suspension",
-                "expected_return": "2026-07-24"
+                "reason": "yellow_or_red_card_suspension",
+                "expected_return": "2026-07-23"
               }
             ],
             "away": [
@@ -91979,8 +92037,8 @@
             {
               "name": "David Schnegg",
               "status": "suspended",
-              "reason": "Red card suspension",
-              "expected_return": "2026-07-24"
+              "reason": "yellow_or_red_card_suspension",
+              "expected_return": "2026-07-23"
             }
           ],
           "away": [
@@ -94226,8 +94284,14 @@
               {
                 "name": "Prince Owusu",
                 "status": "suspended",
-                "reason": "Yellow card accumulation suspension",
-                "expected_return": "2026-07-18"
+                "reason": "yellow_card_accumulation_suspension",
+                "expected_return": "2026-07-17"
+              },
+              {
+                "name": "Wikelman Carmona",
+                "status": "injured",
+                "reason": "Knee Injury",
+                "expected_return": "2026-07-31"
               }
             ]
           },
@@ -94425,8 +94489,14 @@
             {
               "name": "Prince Owusu",
               "status": "suspended",
-              "reason": "Yellow card accumulation suspension",
-              "expected_return": "2026-07-18"
+              "reason": "yellow_card_accumulation_suspension",
+              "expected_return": "2026-07-17"
+            },
+            {
+              "name": "Wikelman Carmona",
+              "status": "injured",
+              "reason": "Knee Injury",
+              "expected_return": "2026-07-31"
             }
           ]
         },
@@ -98987,10 +99057,22 @@
           "unavailable_players": {
             "home": [
               {
+                "name": "Miguel Navarro",
+                "status": "suspended",
+                "reason": "yellow_card_accumulation_suspension",
+                "expected_return": "2026-07-23"
+              },
+              {
                 "name": "Theodore Ku-DiPietro",
                 "status": "injured",
                 "reason": "Shoulder Injury",
                 "expected_return": "2026-09-11"
+              },
+              {
+                "name": "Wayne Frederick",
+                "status": "suspended",
+                "reason": "red_card_suspension",
+                "expected_return": "2026-07-23"
               }
             ],
             "away": [
@@ -98999,6 +99081,12 @@
                 "status": "injured",
                 "reason": "Unknown",
                 "expected_return": null
+              },
+              {
+                "name": "Luca Bombino",
+                "status": "suspended",
+                "reason": "yellow_or_red_card_suspension",
+                "expected_return": "2026-07-23"
               }
             ]
           },
@@ -99174,10 +99262,22 @@
         "unavailable_players": {
           "home": [
             {
+              "name": "Miguel Navarro",
+              "status": "suspended",
+              "reason": "yellow_card_accumulation_suspension",
+              "expected_return": "2026-07-23"
+            },
+            {
               "name": "Theodore Ku-DiPietro",
               "status": "injured",
               "reason": "Shoulder Injury",
               "expected_return": "2026-09-11"
+            },
+            {
+              "name": "Wayne Frederick",
+              "status": "suspended",
+              "reason": "red_card_suspension",
+              "expected_return": "2026-07-23"
             }
           ],
           "away": [
@@ -99186,6 +99286,12 @@
               "status": "injured",
               "reason": "Unknown",
               "expected_return": null
+            },
+            {
+              "name": "Luca Bombino",
+              "status": "suspended",
+              "reason": "yellow_or_red_card_suspension",
+              "expected_return": "2026-07-23"
             }
           ]
         },
@@ -100826,8 +100932,8 @@
               {
                 "name": "Riqui Puig",
                 "status": "injured",
-                "reason": "ACL Knee Injury",
-                "expected_return": "2026-09-28"
+                "reason": "Knee Injury",
+                "expected_return": "2026-11-10"
               }
             ],
             "away": [
@@ -100842,6 +100948,12 @@
                 "status": "suspended",
                 "reason": "Yellow card accumulation suspension",
                 "expected_return": "2026-07-18"
+              },
+              {
+                "name": "Conrad Wallem",
+                "status": "suspended",
+                "reason": "yellow_or_red_card_suspension",
+                "expected_return": "2026-07-17"
               },
               {
                 "name": "Jaziel Orozco",
@@ -101049,8 +101161,8 @@
             {
               "name": "Riqui Puig",
               "status": "injured",
-              "reason": "ACL Knee Injury",
-              "expected_return": "2026-09-28"
+              "reason": "Knee Injury",
+              "expected_return": "2026-11-10"
             }
           ],
           "away": [
@@ -101065,6 +101177,12 @@
               "status": "suspended",
               "reason": "Yellow card accumulation suspension",
               "expected_return": "2026-07-18"
+            },
+            {
+              "name": "Conrad Wallem",
+              "status": "suspended",
+              "reason": "yellow_or_red_card_suspension",
+              "expected_return": "2026-07-17"
             },
             {
               "name": "Jaziel Orozco",
@@ -101504,7 +101622,7 @@
                 "name": "Omir Fernandez",
                 "status": "injured",
                 "reason": "Foot Injury",
-                "expected_return": "2026-07-18"
+                "expected_return": "2026-08-10"
               }
             ],
             "away": [
@@ -101706,7 +101824,7 @@
               "name": "Omir Fernandez",
               "status": "injured",
               "reason": "Foot Injury",
-              "expected_return": "2026-07-18"
+              "expected_return": "2026-08-10"
             }
           ],
           "away": [
@@ -116227,8 +116345,8 @@
               {
                 "name": "David Schnegg",
                 "status": "suspended",
-                "reason": "Red card suspension",
-                "expected_return": "2026-07-24"
+                "reason": "yellow_or_red_card_suspension",
+                "expected_return": "2026-07-23"
               }
             ]
           },
@@ -116411,8 +116529,8 @@
             {
               "name": "David Schnegg",
               "status": "suspended",
-              "reason": "Red card suspension",
-              "expected_return": "2026-07-24"
+              "reason": "yellow_or_red_card_suspension",
+              "expected_return": "2026-07-23"
             }
           ]
         },
@@ -122002,8 +122120,14 @@
               {
                 "name": "Prince Owusu",
                 "status": "suspended",
-                "reason": "Yellow card accumulation suspension",
-                "expected_return": "2026-07-18"
+                "reason": "yellow_card_accumulation_suspension",
+                "expected_return": "2026-07-17"
+              },
+              {
+                "name": "Wikelman Carmona",
+                "status": "injured",
+                "reason": "Knee Injury",
+                "expected_return": "2026-07-31"
               }
             ],
             "away": [
@@ -122195,8 +122319,14 @@
             {
               "name": "Prince Owusu",
               "status": "suspended",
-              "reason": "Yellow card accumulation suspension",
-              "expected_return": "2026-07-18"
+              "reason": "yellow_card_accumulation_suspension",
+              "expected_return": "2026-07-17"
+            },
+            {
+              "name": "Wikelman Carmona",
+              "status": "injured",
+              "reason": "Knee Injury",
+              "expected_return": "2026-07-31"
             }
           ],
           "away": [
@@ -122654,14 +122784,14 @@
               {
                 "name": "Jonathan Osorio",
                 "status": "suspended",
-                "reason": "Yellow card accumulation suspension",
-                "expected_return": "2026-07-18"
+                "reason": "yellow_card_accumulation_suspension",
+                "expected_return": "2026-07-17"
               },
               {
                 "name": "Matheus Pereira",
                 "status": "injured",
                 "reason": "Groin Injury",
-                "expected_return": "2026-07-18"
+                "expected_return": "2026-07-31"
               }
             ]
           },
@@ -122877,14 +123007,14 @@
             {
               "name": "Jonathan Osorio",
               "status": "suspended",
-              "reason": "Yellow card accumulation suspension",
-              "expected_return": "2026-07-18"
+              "reason": "yellow_card_accumulation_suspension",
+              "expected_return": "2026-07-17"
             },
             {
               "name": "Matheus Pereira",
               "status": "injured",
               "reason": "Groin Injury",
-              "expected_return": "2026-07-18"
+              "expected_return": "2026-07-31"
             }
           ]
         },
@@ -125148,6 +125278,12 @@
                 "expected_return": "2026-07-18"
               },
               {
+                "name": "Conrad Wallem",
+                "status": "suspended",
+                "reason": "yellow_or_red_card_suspension",
+                "expected_return": "2026-07-17"
+              },
+              {
                 "name": "Jaziel Orozco",
                 "status": "injured",
                 "reason": "Leg Injury",
@@ -125168,10 +125304,22 @@
             ],
             "away": [
               {
+                "name": "Miguel Navarro",
+                "status": "suspended",
+                "reason": "yellow_card_accumulation_suspension",
+                "expected_return": "2026-07-23"
+              },
+              {
                 "name": "Theodore Ku-DiPietro",
                 "status": "injured",
                 "reason": "Shoulder Injury",
                 "expected_return": "2026-09-11"
+              },
+              {
+                "name": "Wayne Frederick",
+                "status": "suspended",
+                "reason": "red_card_suspension",
+                "expected_return": "2026-07-23"
               }
             ]
           },
@@ -125359,6 +125507,12 @@
               "expected_return": "2026-07-18"
             },
             {
+              "name": "Conrad Wallem",
+              "status": "suspended",
+              "reason": "yellow_or_red_card_suspension",
+              "expected_return": "2026-07-17"
+            },
+            {
               "name": "Jaziel Orozco",
               "status": "injured",
               "reason": "Leg Injury",
@@ -125379,10 +125533,22 @@
           ],
           "away": [
             {
+              "name": "Miguel Navarro",
+              "status": "suspended",
+              "reason": "yellow_card_accumulation_suspension",
+              "expected_return": "2026-07-23"
+            },
+            {
               "name": "Theodore Ku-DiPietro",
               "status": "injured",
               "reason": "Shoulder Injury",
               "expected_return": "2026-09-11"
+            },
+            {
+              "name": "Wayne Frederick",
+              "status": "suspended",
+              "reason": "red_card_suspension",
+              "expected_return": "2026-07-23"
             }
           ]
         },
@@ -125843,6 +126009,12 @@
                 "status": "doubtful",
                 "reason": "Achilles Strain",
                 "expected_return": "2026-07-18"
+              },
+              {
+                "name": "Yohei Takaoka",
+                "status": "suspended",
+                "reason": "red_card_suspension",
+                "expected_return": "2026-07-17"
               }
             ]
           },
@@ -126060,6 +126232,12 @@
               "status": "doubtful",
               "reason": "Achilles Strain",
               "expected_return": "2026-07-18"
+            },
+            {
+              "name": "Yohei Takaoka",
+              "status": "suspended",
+              "reason": "red_card_suspension",
+              "expected_return": "2026-07-17"
             }
           ]
         },
@@ -128049,6 +128227,12 @@
                 "status": "injured",
                 "reason": "Unknown",
                 "expected_return": null
+              },
+              {
+                "name": "Luca Bombino",
+                "status": "suspended",
+                "reason": "yellow_or_red_card_suspension",
+                "expected_return": "2026-07-23"
               }
             ],
             "away": [
@@ -128248,6 +128432,12 @@
               "status": "injured",
               "reason": "Unknown",
               "expected_return": null
+            },
+            {
+              "name": "Luca Bombino",
+              "status": "suspended",
+              "reason": "yellow_or_red_card_suspension",
+              "expected_return": "2026-07-23"
             }
           ],
           "away": [
@@ -130903,8 +131093,8 @@
               {
                 "name": "Riqui Puig",
                 "status": "injured",
-                "reason": "ACL Knee Injury",
-                "expected_return": "2026-09-28"
+                "reason": "Knee Injury",
+                "expected_return": "2026-11-10"
               }
             ]
           },
@@ -131114,8 +131304,8 @@
             {
               "name": "Riqui Puig",
               "status": "injured",
-              "reason": "ACL Knee Injury",
-              "expected_return": "2026-09-28"
+              "reason": "Knee Injury",
+              "expected_return": "2026-11-10"
             }
           ]
         },
@@ -131535,7 +131725,7 @@
                 "name": "Omir Fernandez",
                 "status": "injured",
                 "reason": "Foot Injury",
-                "expected_return": "2026-07-18"
+                "expected_return": "2026-08-10"
               }
             ],
             "away": [
@@ -131737,7 +131927,7 @@
               "name": "Omir Fernandez",
               "status": "injured",
               "reason": "Foot Injury",
-              "expected_return": "2026-07-18"
+              "expected_return": "2026-08-10"
             }
           ],
           "away": [
@@ -149993,9 +150183,9 @@
           "is_local_derby": null,
           "is_neutral_ground": null,
           "travel_distance_km": null,
-          "weather_code": null,
-          "wind_speed": null,
-          "temperature_c": null,
+          "weather_code": 1,
+          "wind_speed": 9.7,
+          "temperature_c": 24,
           "pitch_condition": null,
           "attendance": null,
           "referee": null,
@@ -150192,9 +150382,9 @@
         "is_local_derby": null,
         "is_neutral_ground": null,
         "travel_distance_km": null,
-        "weather_code": null,
-        "wind_speed": null,
-        "temperature_c": null,
+        "weather_code": 1,
+        "wind_speed": 9.7,
+        "temperature_c": 24,
         "pitch_condition": null,
         "attendance": null,
         "referee": null,
@@ -150601,9 +150791,9 @@
           "is_local_derby": null,
           "is_neutral_ground": null,
           "travel_distance_km": null,
-          "weather_code": null,
-          "wind_speed": null,
-          "temperature_c": null,
+          "weather_code": 0,
+          "wind_speed": 12.5,
+          "temperature_c": 27,
           "pitch_condition": null,
           "attendance": null,
           "referee": null,
@@ -150842,9 +151032,9 @@
         "is_local_derby": null,
         "is_neutral_ground": null,
         "travel_distance_km": null,
-        "weather_code": null,
-        "wind_speed": null,
-        "temperature_c": null,
+        "weather_code": 0,
+        "wind_speed": 12.5,
+        "temperature_c": 27,
         "pitch_condition": null,
         "attendance": null,
         "referee": null,
@@ -166235,14 +166425,14 @@
               {
                 "name": "Jonathan Osorio",
                 "status": "suspended",
-                "reason": "Yellow card accumulation suspension",
-                "expected_return": "2026-07-18"
+                "reason": "yellow_card_accumulation_suspension",
+                "expected_return": "2026-07-17"
               },
               {
                 "name": "Matheus Pereira",
                 "status": "injured",
                 "reason": "Groin Injury",
-                "expected_return": "2026-07-18"
+                "expected_return": "2026-07-31"
               }
             ]
           },
@@ -166470,14 +166660,14 @@
             {
               "name": "Jonathan Osorio",
               "status": "suspended",
-              "reason": "Yellow card accumulation suspension",
-              "expected_return": "2026-07-18"
+              "reason": "yellow_card_accumulation_suspension",
+              "expected_return": "2026-07-17"
             },
             {
               "name": "Matheus Pereira",
               "status": "injured",
               "reason": "Groin Injury",
-              "expected_return": "2026-07-18"
+              "expected_return": "2026-07-31"
             }
           ]
         },
