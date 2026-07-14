@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T22:02:23.057Z",
+  "generated_at": "2026-07-14T23:26:03.184Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -3164,7 +3164,20 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 2,
+              "sentence": "Miami haven't won any of their last 7 games against Indy Eleven."
+            },
+            {
+              "type_id": 24,
+              "sentence": "Indy Eleven's away record this season: 0-2-3."
+            },
+            {
+              "type_id": 22,
+              "sentence": "Miami's last home win against Indy Eleven was in 2017."
+            }
+          ],
           "sr_stats": null,
           "ai_preview": null,
           "live_websocket": true
@@ -3349,7 +3362,20 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 2,
+            "sentence": "Miami haven't won any of their last 7 games against Indy Eleven."
+          },
+          {
+            "type_id": 24,
+            "sentence": "Indy Eleven's away record this season: 0-2-3."
+          },
+          {
+            "type_id": 22,
+            "sentence": "Miami's last home win against Indy Eleven was in 2017."
+          }
+        ],
         "sr_stats": null,
         "ai_preview": null,
         "live_websocket": true,
@@ -3648,17 +3674,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.71,
-          "odds_draw": 3.77,
-          "odds_away": 3.93,
+          "odds_home": 1.66,
+          "odds_draw": 3.74,
+          "odds_away": 4.24,
           "odds_over_15": 1.19,
-          "odds_over_25": 1.65,
-          "odds_over_35": 2.59,
-          "odds_under_15": 3.98,
-          "odds_under_25": 2.1,
+          "odds_over_25": 1.66,
+          "odds_over_35": 2.61,
+          "odds_under_15": 3.96,
+          "odds_under_25": 2.08,
           "odds_under_35": 1.42,
-          "odds_btts_yes": 1.64,
-          "odds_btts_no": 2.08,
+          "odds_btts_yes": 1.66,
+          "odds_btts_no": 2.07,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -3757,7 +3783,20 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 24,
+              "sentence": "Boston's away record this season: 0-2-3."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Boston haven't won any of their last 5 away matches."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Orlando have won 3 home matches in a row."
+            }
+          ],
           "sr_stats": null,
           "ai_preview": null,
           "live_websocket": true
@@ -3840,17 +3879,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.71,
-        "odds_draw": 3.77,
-        "odds_away": 3.93,
+        "odds_home": 1.66,
+        "odds_draw": 3.74,
+        "odds_away": 4.24,
         "odds_over_15": 1.19,
-        "odds_over_25": 1.65,
-        "odds_over_35": 2.59,
-        "odds_under_15": 3.98,
-        "odds_under_25": 2.1,
+        "odds_over_25": 1.66,
+        "odds_over_35": 2.61,
+        "odds_under_15": 3.96,
+        "odds_under_25": 2.08,
         "odds_under_35": 1.42,
-        "odds_btts_yes": 1.64,
-        "odds_btts_no": 2.08,
+        "odds_btts_yes": 1.66,
+        "odds_btts_no": 2.07,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -3943,7 +3982,20 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 24,
+            "sentence": "Boston's away record this season: 0-2-3."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Boston haven't won any of their last 5 away matches."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Orlando have won 3 home matches in a row."
+          }
+        ],
         "sr_stats": null,
         "ai_preview": null,
         "live_websocket": true,
@@ -4260,7 +4312,7 @@
           "period": "",
           "odds_home": 1.66,
           "odds_draw": 3.71,
-          "odds_away": 4.41,
+          "odds_away": 4.42,
           "odds_over_15": 1.23,
           "odds_over_25": 1.75,
           "odds_over_35": 2.84,
@@ -4366,7 +4418,20 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 1,
+              "sentence": "New Mexico United haven't lost in their last 8 games."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Lexington SC have a winning streak of 3 matches in Championship USL."
+            },
+            {
+              "type_id": 23,
+              "sentence": "Last season's matches: 2-1 (Lexington SC at home) and 2-1 (New Mexico United at home)."
+            }
+          ],
           "sr_stats": null,
           "ai_preview": null,
           "live_websocket": true
@@ -4451,7 +4516,7 @@
         "period": "",
         "odds_home": 1.66,
         "odds_draw": 3.71,
-        "odds_away": 4.41,
+        "odds_away": 4.42,
         "odds_over_15": 1.23,
         "odds_over_25": 1.75,
         "odds_over_35": 2.84,
@@ -4551,7 +4616,20 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 1,
+            "sentence": "New Mexico United haven't lost in their last 8 games."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Lexington SC have a winning streak of 3 matches in Championship USL."
+          },
+          {
+            "type_id": 23,
+            "sentence": "Last season's matches: 2-1 (Lexington SC at home) and 2-1 (New Mexico United at home)."
+          }
+        ],
         "sr_stats": null,
         "ai_preview": null,
         "live_websocket": true,
