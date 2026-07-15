@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-14T23:26:03.184Z",
+  "generated_at": "2026-07-15T00:51:49.807Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -3056,16 +3056,16 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.75,
+          "odds_home": 2.74,
           "odds_draw": 3.26,
-          "odds_away": 2.32,
+          "odds_away": 2.31,
           "odds_over_15": 1.24,
-          "odds_over_25": 1.8,
+          "odds_over_25": 1.79,
           "odds_over_35": 2.92,
-          "odds_under_15": 3.64,
+          "odds_under_15": 3.66,
           "odds_under_25": 1.93,
           "odds_under_35": 1.35,
-          "odds_btts_yes": 1.64,
+          "odds_btts_yes": 1.63,
           "odds_btts_no": 2.13,
           "actual_home_xg": null,
           "actual_away_xg": null,
@@ -3179,7 +3179,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Miami's hosting Indy in what should be a classic USL heavyweight clash** — one side riding solid home vibes, the other absolutely rolling right now. 🔥\n\nMiami's form is streaky (1W 2D 2L), but they've got the pitch advantage at FIU Stadium. Indy Eleven? They're **4W in their last five** with only one loss to show for it — these guys are legit dangerous on the road.\n\nKey storylines:\n\n- **Indy's hot streak** meets **Miami's home-field edge** in a Round 1 showdown that could set the tone for both sides' seasons\n- Miami's midfield depth (Romero, Ndiaye, Tori) will need to control tempo against Indy's slick passing game led by Quinn and Blake\n- Expect goals — both teams have the firepower to open it up, and Indy's recent defensive solidity won't stop them from pressing forward\n\nExpected lineups:\n\n- **Miami FC**: E. Room, A. Milesi, A. Calfo, D. Knutson, A. Rogers, M. Romero, B. Ndiaye, R. Tori, R. d. Costa, J. Locadia, M. Tunbridge\n- **Indy Eleven**: E. Dick, H. Barry, J. O'Brien, P. Craig, B. Rendón, A. Quinn, L. Mesanvi, C. Lindley, J. Blake, L. Neidlinger, E. Kizza\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**Miami 2-1 Indy** — home crowd tilts the balance, but Indy keeps it tight. 💪",
+            "generated_at": "2026-07-14T23:45:38.787628+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-06-02T13:54:15.225812+03:00",
@@ -3260,16 +3263,16 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.75,
+        "odds_home": 2.74,
         "odds_draw": 3.26,
-        "odds_away": 2.32,
+        "odds_away": 2.31,
         "odds_over_15": 1.24,
-        "odds_over_25": 1.8,
+        "odds_over_25": 1.79,
         "odds_over_35": 2.92,
-        "odds_under_15": 3.64,
+        "odds_under_15": 3.66,
         "odds_under_25": 1.93,
         "odds_under_35": 1.35,
-        "odds_btts_yes": 1.64,
+        "odds_btts_yes": 1.63,
         "odds_btts_no": 2.13,
         "actual_home_xg": null,
         "actual_away_xg": null,
@@ -3377,7 +3380,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Miami's hosting Indy in what should be a classic USL heavyweight clash** — one side riding solid home vibes, the other absolutely rolling right now. 🔥\n\nMiami's form is streaky (1W 2D 2L), but they've got the pitch advantage at FIU Stadium. Indy Eleven? They're **4W in their last five** with only one loss to show for it — these guys are legit dangerous on the road.\n\nKey storylines:\n\n- **Indy's hot streak** meets **Miami's home-field edge** in a Round 1 showdown that could set the tone for both sides' seasons\n- Miami's midfield depth (Romero, Ndiaye, Tori) will need to control tempo against Indy's slick passing game led by Quinn and Blake\n- Expect goals — both teams have the firepower to open it up, and Indy's recent defensive solidity won't stop them from pressing forward\n\nExpected lineups:\n\n- **Miami FC**: E. Room, A. Milesi, A. Calfo, D. Knutson, A. Rogers, M. Romero, B. Ndiaye, R. Tori, R. d. Costa, J. Locadia, M. Tunbridge\n- **Indy Eleven**: E. Dick, H. Barry, J. O'Brien, P. Craig, B. Rendón, A. Quinn, L. Mesanvi, C. Lindley, J. Blake, L. Neidlinger, E. Kizza\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**Miami 2-1 Indy** — home crowd tilts the balance, but Indy keeps it tight. 💪",
+          "generated_at": "2026-07-14T23:45:38.787628+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-07-14",
@@ -3676,12 +3682,12 @@
           "period": "",
           "odds_home": 1.66,
           "odds_draw": 3.74,
-          "odds_away": 4.24,
+          "odds_away": 4.25,
           "odds_over_15": 1.19,
           "odds_over_25": 1.66,
           "odds_over_35": 2.61,
           "odds_under_15": 3.96,
-          "odds_under_25": 2.08,
+          "odds_under_25": 2.09,
           "odds_under_35": 1.42,
           "odds_btts_yes": 1.66,
           "odds_btts_no": 2.07,
@@ -3798,7 +3804,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Orlando's looking to bounce back at home** — Boston arrives as a visitor in unfamiliar territory, and Pride have the form to make them pay. 🔥\n\nOrlando have won three of their last five and dismantled Kansas City at home. Boston, meanwhile, are inconsistent (1W-2D-2L) and came up empty against Kansas City on the road. The head-to-head edge tilts toward Boston, but home soil matters.\n\nKey storylines:\n\n- **Marta** and **S. Washington** lead Orlando's attack; they've been clinical in recent wins and will test **C. Murphy** early and often\n- **Boston's back line** of **L. A. Reale**, **J. Carabalí**, and **N. Hernández** needs to stay sharp — Orlando's offensive setup (4-2-3-1) creates space out wide for **C. Dyke** and **H. Anderson**\n- **A. Traoré** and **A. Gutierres** carry Boston's goal threat, but they've misfired against top teams lately\n\nExpected lineups:\n\n- **Orlando Pride**: A. Moorhouse, H. Anderson, K. Abello, Z. S. Chavoshi, C. Dyke, Angelina, L. Ovalle, B. Banda, A. Lemos, Marta, S. Washington\n- **Boston Legacy FC**: C. Murphy, L. A. Reale, J. Carabalí, N. Hernández, L. Ansbrow, A. Caño, E. Elgin, A. Karich, N. Prince, A. Traoré, A. Gutierres\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**Orlando Pride 2–0 Boston Legacy FC**. Home edge, sharper form, and Boston's defensive wobbles give Pride the lean. ⚪",
+            "generated_at": "2026-07-14T23:45:43.916495+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-07-13T05:20:14.068283+03:00",
@@ -3881,12 +3890,12 @@
         "period": "",
         "odds_home": 1.66,
         "odds_draw": 3.74,
-        "odds_away": 4.24,
+        "odds_away": 4.25,
         "odds_over_15": 1.19,
         "odds_over_25": 1.66,
         "odds_over_35": 2.61,
         "odds_under_15": 3.96,
-        "odds_under_25": 2.08,
+        "odds_under_25": 2.09,
         "odds_under_35": 1.42,
         "odds_btts_yes": 1.66,
         "odds_btts_no": 2.07,
@@ -3997,7 +4006,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Orlando's looking to bounce back at home** — Boston arrives as a visitor in unfamiliar territory, and Pride have the form to make them pay. 🔥\n\nOrlando have won three of their last five and dismantled Kansas City at home. Boston, meanwhile, are inconsistent (1W-2D-2L) and came up empty against Kansas City on the road. The head-to-head edge tilts toward Boston, but home soil matters.\n\nKey storylines:\n\n- **Marta** and **S. Washington** lead Orlando's attack; they've been clinical in recent wins and will test **C. Murphy** early and often\n- **Boston's back line** of **L. A. Reale**, **J. Carabalí**, and **N. Hernández** needs to stay sharp — Orlando's offensive setup (4-2-3-1) creates space out wide for **C. Dyke** and **H. Anderson**\n- **A. Traoré** and **A. Gutierres** carry Boston's goal threat, but they've misfired against top teams lately\n\nExpected lineups:\n\n- **Orlando Pride**: A. Moorhouse, H. Anderson, K. Abello, Z. S. Chavoshi, C. Dyke, Angelina, L. Ovalle, B. Banda, A. Lemos, Marta, S. Washington\n- **Boston Legacy FC**: C. Murphy, L. A. Reale, J. Carabalí, N. Hernández, L. Ansbrow, A. Caño, E. Elgin, A. Karich, N. Prince, A. Traoré, A. Gutierres\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**Orlando Pride 2–0 Boston Legacy FC**. Home edge, sharper form, and Boston's defensive wobbles give Pride the lean. ⚪",
+          "generated_at": "2026-07-14T23:45:43.916495+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-07-14",
@@ -4311,13 +4323,13 @@
           "current_minute": null,
           "period": "",
           "odds_home": 1.66,
-          "odds_draw": 3.71,
-          "odds_away": 4.42,
+          "odds_draw": 3.7,
+          "odds_away": 4.39,
           "odds_over_15": 1.23,
           "odds_over_25": 1.75,
-          "odds_over_35": 2.84,
-          "odds_under_15": 3.71,
-          "odds_under_25": 1.98,
+          "odds_over_35": 2.86,
+          "odds_under_15": 3.72,
+          "odds_under_25": 1.97,
           "odds_under_35": 1.37,
           "odds_btts_yes": 1.74,
           "odds_btts_no": 1.97,
@@ -4433,7 +4445,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Lexington's rolling hot, and they're about to make life difficult for a New Mexico side that just can't find a win.** Home advantage + elite form is a nasty combo. ⚽\n\nLexington have demolished everyone lately—back-to-back 4-1 road wins plus a 2-0 shutout at home. New Mexico, meanwhile, are stuck in neutral: three wins but two draws, and zero losses feel like a mirage when you're not scoring enough.\n\nKey storylines:\n\n- **Lexington's attack is *ruthless*** — P. Goodrum, N. Firmino, and M. Epps have been clinical in the final third\n- **New Mexico's defense faces a test** — K. Shakes will need help from M. Howell and K. Keller against relentless pressure\n- **Home crowd matters** — LEXINGTON SC STADIUM could be the edge Lexington needs to control tempo\n\nExpected lineups:\n\n- **Lexington SC**: O. Semmle, J. Brown, K. Burks, A. Ordoñez, X. Zengue, A. Molloy, B. Ferri, M. Epps, N. Firmino, J. Greene, P. Goodrum\n- **New Mexico United**: K. Shakes, Niko Hämäläinen, M. Howell, K. Keller, C. Gloster, O. Jabang, Z. Bailey, D. Harris, V. Noël, N. Reid-Stephen, G. Hurst\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Lexington 2–0 New Mexico**. The hosts have the edge in form and firepower; expect a controlled win. 🔥",
+            "generated_at": "2026-07-14T23:45:33.055223+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-06-02T13:54:15.654169+03:00",
@@ -4515,13 +4530,13 @@
         "current_minute": null,
         "period": "",
         "odds_home": 1.66,
-        "odds_draw": 3.71,
-        "odds_away": 4.42,
+        "odds_draw": 3.7,
+        "odds_away": 4.39,
         "odds_over_15": 1.23,
         "odds_over_25": 1.75,
-        "odds_over_35": 2.84,
-        "odds_under_15": 3.71,
-        "odds_under_25": 1.98,
+        "odds_over_35": 2.86,
+        "odds_under_15": 3.72,
+        "odds_under_25": 1.97,
         "odds_under_35": 1.37,
         "odds_btts_yes": 1.74,
         "odds_btts_no": 1.97,
@@ -4631,7 +4646,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Lexington's rolling hot, and they're about to make life difficult for a New Mexico side that just can't find a win.** Home advantage + elite form is a nasty combo. ⚽\n\nLexington have demolished everyone lately—back-to-back 4-1 road wins plus a 2-0 shutout at home. New Mexico, meanwhile, are stuck in neutral: three wins but two draws, and zero losses feel like a mirage when you're not scoring enough.\n\nKey storylines:\n\n- **Lexington's attack is *ruthless*** — P. Goodrum, N. Firmino, and M. Epps have been clinical in the final third\n- **New Mexico's defense faces a test** — K. Shakes will need help from M. Howell and K. Keller against relentless pressure\n- **Home crowd matters** — LEXINGTON SC STADIUM could be the edge Lexington needs to control tempo\n\nExpected lineups:\n\n- **Lexington SC**: O. Semmle, J. Brown, K. Burks, A. Ordoñez, X. Zengue, A. Molloy, B. Ferri, M. Epps, N. Firmino, J. Greene, P. Goodrum\n- **New Mexico United**: K. Shakes, Niko Hämäläinen, M. Howell, K. Keller, C. Gloster, O. Jabang, Z. Bailey, D. Harris, V. Noël, N. Reid-Stephen, G. Hurst\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Lexington 2–0 New Mexico**. The hosts have the edge in form and firepower; expect a controlled win. 🔥",
+          "generated_at": "2026-07-14T23:45:33.055223+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-07-14",
@@ -4999,7 +5017,10 @@
           "jerseys": null,
           "funfacts": null,
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Pittsburgh rolls into Jacksonville riding a wave**, and SC Jacksonville's leaky defense is basically gift-wrapping this one. 🎁\n\nJacksonville are winless in five with three losses and some genuinely grim scorelines — they just conceded six at home to Detroit. Pittsburgh, meanwhile, have won three of their last four and beat them 1-0 in their only H2H. This feels like a mismatch on paper.\n\nKey storylines:\n\n- **Pittsburgh's attacking pair** of P. Barnes and A. Dikwa face a Jacksonville backline that's been getting shredded\n- **SC Jacksonville need to tighten up defensively** — C. Olivares will have a lot of work to do in goal\n- **R. Mertz and D. Griffin control the midfield battle** for Riverhounds, setting the tempo\n\nExpected lineups:\n\n- **SC Jacksonville**: C. Olivares, A. Gomez, R. Edwards, W. Ackwei, T. Rose, H. Neville, J. Rossiter, R. Pedder, K. Sadlier, E. Jääskeläinen, E. Rito\n- **Pittsburgh Riverhounds**: N. Campuzano, B. Etou, O. Mikoy, V. Souza, L. J. Kelp, D. Griffin, R. Mertz, B. Sample, P. Barnes, A. Dikwa, T. Amann\n\nBest picks:\n\n- **Total Goals Over 1.5**: Over 1.5 goals\n\nPrediction:\n\n**Pittsburgh Riverhounds 2, SC Jacksonville 0** — the model leans Riverhounds, and Jacksonville's form screams trouble.",
+            "generated_at": "2026-07-14T23:45:48.619937+00:00"
+          },
           "live_websocket": false
         },
         "created_at": "2026-06-02T13:54:15.980240+03:00",
@@ -5151,7 +5172,10 @@
         "jerseys": null,
         "funfacts": null,
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Pittsburgh rolls into Jacksonville riding a wave**, and SC Jacksonville's leaky defense is basically gift-wrapping this one. 🎁\n\nJacksonville are winless in five with three losses and some genuinely grim scorelines — they just conceded six at home to Detroit. Pittsburgh, meanwhile, have won three of their last four and beat them 1-0 in their only H2H. This feels like a mismatch on paper.\n\nKey storylines:\n\n- **Pittsburgh's attacking pair** of P. Barnes and A. Dikwa face a Jacksonville backline that's been getting shredded\n- **SC Jacksonville need to tighten up defensively** — C. Olivares will have a lot of work to do in goal\n- **R. Mertz and D. Griffin control the midfield battle** for Riverhounds, setting the tempo\n\nExpected lineups:\n\n- **SC Jacksonville**: C. Olivares, A. Gomez, R. Edwards, W. Ackwei, T. Rose, H. Neville, J. Rossiter, R. Pedder, K. Sadlier, E. Jääskeläinen, E. Rito\n- **Pittsburgh Riverhounds**: N. Campuzano, B. Etou, O. Mikoy, V. Souza, L. J. Kelp, D. Griffin, R. Mertz, B. Sample, P. Barnes, A. Dikwa, T. Amann\n\nBest picks:\n\n- **Total Goals Over 1.5**: Over 1.5 goals\n\nPrediction:\n\n**Pittsburgh Riverhounds 2, SC Jacksonville 0** — the model leans Riverhounds, and Jacksonville's form screams trouble.",
+          "generated_at": "2026-07-14T23:45:48.619937+00:00"
+        },
         "live_websocket": false,
         "home_form": {
           "calculated_at": "2026-07-14",
@@ -5464,17 +5488,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.14,
-          "odds_draw": 3.01,
-          "odds_away": 3.25,
-          "odds_over_15": 1.36,
-          "odds_over_25": 2.15,
-          "odds_over_35": 3.77,
-          "odds_under_15": 2.84,
-          "odds_under_25": 1.62,
-          "odds_under_35": 1.21,
-          "odds_btts_yes": 1.87,
-          "odds_btts_no": 1.81,
+          "odds_home": 2.13,
+          "odds_draw": 3.03,
+          "odds_away": 3.24,
+          "odds_over_15": 1.33,
+          "odds_over_25": 2.06,
+          "odds_over_35": 3.53,
+          "odds_under_15": 2.97,
+          "odds_under_25": 1.67,
+          "odds_under_35": 1.24,
+          "odds_btts_yes": 1.8,
+          "odds_btts_no": 1.88,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -5573,9 +5597,25 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 2,
+              "sentence": "When playing at home, Gotham have not lost to Washington in their last 3 encounters."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Gotham haven't lost in any of their last 5 home matches."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Washington have a winning streak of 3 matches."
+            }
+          ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Gotham's got the home-field advantage at Citi Field, but Spirit are absolutely rolling right now.** This is a classic clash of form versus venue — one side's momentum, the other's comfort. 🏟️\n\nGotham have looked scrappy lately with a mixed 3W-1D-1L stretch, including a rough loss to San Diego. Spirit, meanwhile, are on a **4-win tear** with only one defeat in their last five — they're the in-form team coming into this.\n\nKey storylines:\n\n- **Spirit's dominance vs. Gotham's home turf** — Washington's defensive record speaks volumes (2-0, 2-1, 2-1 wins), but Citi Field's vastness could throw them off rhythm.\n- **Gotham need **J. Dudley** and **M. Purce** to click** — they've got the attacking talent but haven't strung together consistent performances.\n- **Spirit's **S. Cantore** and **C. Martínez** carrying the load** — this duo's been crucial to their winning run.\n\nExpected lineups:\n\n- **NJ/NY Gotham FC**: A. Berger, T. Davidson, E. Sonnett, J. Carter, M. Freeman, S. Schupansky, G. Reiten, E. González, J. Shaw, J. Dudley, M. Purce\n- **Washington Spirit**: S. MacIver, E. Morgan, T. McKeown, K. Wiesner, G. Carle, L. Santos, T. Rodman, G. Monday, R. Kouassi, S. Cantore, C. Martínez\n\nPrediction:\n\n**2-1 Gotham.** The model leans home, and despite Spirit's form, Gotham's got just enough quality and crowd backing to nab it. 🔴",
+            "generated_at": "2026-07-15T00:45:37.237881+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-07-13T05:20:14.696293+03:00",
@@ -5656,17 +5696,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.14,
-        "odds_draw": 3.01,
-        "odds_away": 3.25,
-        "odds_over_15": 1.36,
-        "odds_over_25": 2.15,
-        "odds_over_35": 3.77,
-        "odds_under_15": 2.84,
-        "odds_under_25": 1.62,
-        "odds_under_35": 1.21,
-        "odds_btts_yes": 1.87,
-        "odds_btts_no": 1.81,
+        "odds_home": 2.13,
+        "odds_draw": 3.03,
+        "odds_away": 3.24,
+        "odds_over_15": 1.33,
+        "odds_over_25": 2.06,
+        "odds_over_35": 3.53,
+        "odds_under_15": 2.97,
+        "odds_under_25": 1.67,
+        "odds_under_35": 1.24,
+        "odds_btts_yes": 1.8,
+        "odds_btts_no": 1.88,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -5759,9 +5799,25 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 2,
+            "sentence": "When playing at home, Gotham have not lost to Washington in their last 3 encounters."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Gotham haven't lost in any of their last 5 home matches."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Washington have a winning streak of 3 matches."
+          }
+        ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Gotham's got the home-field advantage at Citi Field, but Spirit are absolutely rolling right now.** This is a classic clash of form versus venue — one side's momentum, the other's comfort. 🏟️\n\nGotham have looked scrappy lately with a mixed 3W-1D-1L stretch, including a rough loss to San Diego. Spirit, meanwhile, are on a **4-win tear** with only one defeat in their last five — they're the in-form team coming into this.\n\nKey storylines:\n\n- **Spirit's dominance vs. Gotham's home turf** — Washington's defensive record speaks volumes (2-0, 2-1, 2-1 wins), but Citi Field's vastness could throw them off rhythm.\n- **Gotham need **J. Dudley** and **M. Purce** to click** — they've got the attacking talent but haven't strung together consistent performances.\n- **Spirit's **S. Cantore** and **C. Martínez** carrying the load** — this duo's been crucial to their winning run.\n\nExpected lineups:\n\n- **NJ/NY Gotham FC**: A. Berger, T. Davidson, E. Sonnett, J. Carter, M. Freeman, S. Schupansky, G. Reiten, E. González, J. Shaw, J. Dudley, M. Purce\n- **Washington Spirit**: S. MacIver, E. Morgan, T. McKeown, K. Wiesner, G. Carle, L. Santos, T. Rodman, G. Monday, R. Kouassi, S. Cantore, C. Martínez\n\nPrediction:\n\n**2-1 Gotham.** The model leans home, and despite Spirit's form, Gotham's got just enough quality and crowd backing to nab it. 🔴",
+          "generated_at": "2026-07-15T00:45:37.237881+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-07-14",
