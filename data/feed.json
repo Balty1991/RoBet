@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-15T23:32:24.081Z",
+  "generated_at": "2026-07-16T01:03:53.636Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -8,9 +8,9 @@
     "managers_endpoint": "/managers/?team_id={id}"
   },
   "summary": {
-    "total_matches": 278,
+    "total_matches": 276,
     "total_leagues": 17,
-    "average_confidence": 50.07820718637955,
+    "average_confidence": 50.06076417231597,
     "favorite_recommend": 0,
     "over_15_recommend": 0,
     "over_25_recommend": 0,
@@ -19,1175 +19,6 @@
     "winner_recommend": 0
   },
   "items": [
-    {
-      "event_id": 207697,
-      "prediction": {
-        "id": 5007,
-        "event": {
-          "id": 207697,
-          "league": {
-            "id": 57,
-            "name": "USL Championship",
-            "country": "USA",
-            "is_women": false,
-            "current_season": {
-              "id": 1435,
-              "name": "USL Championship 2026",
-              "year": 2026,
-              "start_date": "2026-01-01",
-              "end_date": "2026-12-31"
-            }
-          },
-          "season": {
-            "id": 1435,
-            "name": "USL Championship 2026",
-            "year": 2026
-          },
-          "home_team": "SC Jacksonville",
-          "away_team": "Pittsburgh Riverhounds",
-          "home_team_obj": {
-            "id": 2227,
-            "name": "SC Jacksonville",
-            "short_name": "",
-            "country": "USA",
-            "coach": {
-              "name": "Liam Fox",
-              "shortName": "L. Fox"
-            },
-            "venue": null
-          },
-          "away_team_obj": {
-            "id": 2226,
-            "name": "Pittsburgh Riverhounds",
-            "short_name": "Pittsburgh Riverhounds",
-            "country": "USA",
-            "coach": {
-              "name": "Rob Vincent",
-              "shortName": "R. Vincent"
-            },
-            "venue": null
-          },
-          "event_date": "2026-07-16T02:30:00+03:00",
-          "round_number": 1,
-          "round_name": "",
-          "group_name": null,
-          "status": "notstarted",
-          "home_score": 0,
-          "away_score": 0,
-          "home_score_ht": null,
-          "away_score_ht": null,
-          "current_minute": null,
-          "period": "",
-          "odds_home": null,
-          "odds_draw": null,
-          "odds_away": null,
-          "odds_over_15": null,
-          "odds_over_25": null,
-          "odds_over_35": null,
-          "odds_under_15": null,
-          "odds_under_25": null,
-          "odds_under_35": null,
-          "odds_btts_yes": null,
-          "odds_btts_no": null,
-          "actual_home_xg": null,
-          "actual_away_xg": null,
-          "home_xg_live": null,
-          "away_xg_live": null,
-          "penalty_shootout": null,
-          "extra_time_score": null,
-          "is_local_derby": null,
-          "is_neutral_ground": null,
-          "travel_distance_km": null,
-          "weather_code": null,
-          "wind_speed": null,
-          "temperature_c": null,
-          "pitch_condition": null,
-          "attendance": null,
-          "referee": null,
-          "home_coach": {
-            "id": 1622,
-            "name": "Liam Fox",
-            "short_name": "L. Fox",
-            "country": "Scotland",
-            "profile": "balanced",
-            "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.36241276784545057,
-            "defensive_line": "mid",
-            "top_styles": [
-              "terrorist_fb",
-              "park_the_bus"
-            ]
-          },
-          "away_coach": {
-            "id": 1621,
-            "name": "Rob Vincent",
-            "short_name": "R. Vincent",
-            "country": "England",
-            "profile": "balanced",
-            "preferred_formation": "3-4-2-1",
-            "pressing_intensity": 0.4038424486007353,
-            "defensive_line": "mid",
-            "top_styles": [
-              "territory",
-              "high_press"
-            ]
-          },
-          "unavailable_players": null,
-          "venue": {
-            "id": 1342,
-            "name": "Hodges Stadium",
-            "city": "Jacksonville",
-            "country": "USA",
-            "capacity": 9400,
-            "latitude": null,
-            "longitude": null,
-            "pitch_x": null,
-            "pitch_y": null,
-            "built_year": null
-          },
-          "incidents": null,
-          "live_stats": null,
-          "lineups": null,
-          "shotmap": null,
-          "momentum": null,
-          "xg_per_minute": null,
-          "average_positions": null,
-          "jerseys": null,
-          "funfacts": null,
-          "sr_stats": null,
-          "ai_preview": {
-            "text": "**Pittsburgh rolls into Jacksonville looking to make a statement, and the Riverhounds' recent form suggests they're the team to back here.** 🔥 Jacksonville's defensive record is absolutely brutal — they've shipped 13 goals in their last three home games — while Pittsburgh's showing real swagger with three wins in their last five.\n\nJacksonville are leaking goals at an alarming rate, but they do have some attacking intent. Pittsburgh's been tested lately but found a way to grind out results when it matters.\n\nKey storylines:\n\n- **Jacksonville's backline is vulnerable** — C. Olivares and co. have been exposed repeatedly at Hodges Stadium, and Pittsburgh won't hesitate to exploit that\n- **Pittsburgh's attacking depth** — B. Sample and A. Dikwa have momentum, while P. Barnes offers a different look up top\n- **H2H edge to the Riverhounds** — Pittsburgh won their last meeting, coming into this with confidence\n\nExpected lineups:\n\n- **SC Jacksonville**: C. Olivares, A. Gomez, R. Edwards, W. Ackwei, T. Rose, H. Neville, J. Rossiter, R. Pedder, K. Sadlier, E. Jääskeläinen, E. Rito\n- **Pittsburgh Riverhounds**: N. Campuzano, B. Etou, O. Mikoy, V. Souza, L. J. Kelp, D. Griffin, R. Mertz, B. Sample, P. Barnes, A. Dikwa, T. Amann\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**Pittsburgh Riverhounds 2–1 SC Jacksonville.** Pittsburgh's form and Jacksonville's defensive fragility give the visitors a slight edge.",
-            "generated_at": "2026-07-15T03:45:43.683462+00:00"
-          },
-          "live_websocket": false
-        },
-        "created_at": "2026-06-02T13:54:15.980240+03:00",
-        "prob_home_win": 16.466788301843106,
-        "prob_draw": 21.849997442250963,
-        "prob_away_win": 61.68321425590592,
-        "predicted_result": "A",
-        "expected_home_goals": 1.10673,
-        "expected_away_goals": 1.14866,
-        "prob_over_15": 78.36626687582334,
-        "prob_over_25": 61.296613382285926,
-        "prob_over_35": 37.702674316841815,
-        "prob_btts_yes": 61.14671611497277,
-        "confidence": 61.68321425590592,
-        "model_version": "v5.0",
-        "most_likely_score": "1-1",
-        "favorite": "A",
-        "favorite_prob": 61.68321425590592,
-        "favorite_recommend": false,
-        "over_15_recommend": false,
-        "over_25_recommend": false,
-        "over_35_recommend": false,
-        "btts_recommend": false,
-        "winner_recommend": false
-      },
-      "event_detail": {
-        "id": 207697,
-        "league": {
-          "id": 57,
-          "name": "USL Championship",
-          "country": "USA",
-          "is_women": false,
-          "current_season": {
-            "id": 1435,
-            "name": "USL Championship 2026",
-            "year": 2026,
-            "start_date": "2026-01-01",
-            "end_date": "2026-12-31"
-          }
-        },
-        "season": {
-          "id": 1435,
-          "name": "USL Championship 2026",
-          "year": 2026
-        },
-        "home_team": "SC Jacksonville",
-        "away_team": "Pittsburgh Riverhounds",
-        "home_team_obj": {
-          "id": 2227,
-          "name": "SC Jacksonville",
-          "short_name": "",
-          "country": "USA",
-          "coach": {
-            "name": "Liam Fox",
-            "shortName": "L. Fox"
-          },
-          "venue": null
-        },
-        "away_team_obj": {
-          "id": 2226,
-          "name": "Pittsburgh Riverhounds",
-          "short_name": "Pittsburgh Riverhounds",
-          "country": "USA",
-          "coach": {
-            "name": "Rob Vincent",
-            "shortName": "R. Vincent"
-          },
-          "venue": null
-        },
-        "event_date": "2026-07-16T02:30:00+03:00",
-        "round_number": 1,
-        "round_name": "",
-        "group_name": null,
-        "status": "notstarted",
-        "home_score": 0,
-        "away_score": 0,
-        "home_score_ht": null,
-        "away_score_ht": null,
-        "current_minute": null,
-        "period": "",
-        "odds_home": null,
-        "odds_draw": null,
-        "odds_away": null,
-        "odds_over_15": null,
-        "odds_over_25": null,
-        "odds_over_35": null,
-        "odds_under_15": null,
-        "odds_under_25": null,
-        "odds_under_35": null,
-        "odds_btts_yes": null,
-        "odds_btts_no": null,
-        "actual_home_xg": null,
-        "actual_away_xg": null,
-        "home_xg_live": null,
-        "away_xg_live": null,
-        "penalty_shootout": null,
-        "extra_time_score": null,
-        "is_local_derby": null,
-        "is_neutral_ground": null,
-        "travel_distance_km": null,
-        "weather_code": null,
-        "wind_speed": null,
-        "temperature_c": null,
-        "pitch_condition": null,
-        "attendance": null,
-        "referee": null,
-        "home_coach": {
-          "id": 1622,
-          "name": "Liam Fox",
-          "short_name": "L. Fox",
-          "country": "Scotland",
-          "profile": "balanced",
-          "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.36241276784545057,
-          "defensive_line": "mid",
-          "top_styles": [
-            "terrorist_fb",
-            "park_the_bus"
-          ]
-        },
-        "away_coach": {
-          "id": 1621,
-          "name": "Rob Vincent",
-          "short_name": "R. Vincent",
-          "country": "England",
-          "profile": "balanced",
-          "preferred_formation": "3-4-2-1",
-          "pressing_intensity": 0.4038424486007353,
-          "defensive_line": "mid",
-          "top_styles": [
-            "territory",
-            "high_press"
-          ]
-        },
-        "unavailable_players": null,
-        "venue": {
-          "id": 1342,
-          "name": "Hodges Stadium",
-          "city": "Jacksonville",
-          "country": "USA",
-          "capacity": 9400,
-          "latitude": null,
-          "longitude": null,
-          "pitch_x": null,
-          "pitch_y": null,
-          "built_year": null
-        },
-        "live_stats": null,
-        "jerseys": null,
-        "funfacts": null,
-        "sr_stats": null,
-        "ai_preview": {
-          "text": "**Pittsburgh rolls into Jacksonville looking to make a statement, and the Riverhounds' recent form suggests they're the team to back here.** 🔥 Jacksonville's defensive record is absolutely brutal — they've shipped 13 goals in their last three home games — while Pittsburgh's showing real swagger with three wins in their last five.\n\nJacksonville are leaking goals at an alarming rate, but they do have some attacking intent. Pittsburgh's been tested lately but found a way to grind out results when it matters.\n\nKey storylines:\n\n- **Jacksonville's backline is vulnerable** — C. Olivares and co. have been exposed repeatedly at Hodges Stadium, and Pittsburgh won't hesitate to exploit that\n- **Pittsburgh's attacking depth** — B. Sample and A. Dikwa have momentum, while P. Barnes offers a different look up top\n- **H2H edge to the Riverhounds** — Pittsburgh won their last meeting, coming into this with confidence\n\nExpected lineups:\n\n- **SC Jacksonville**: C. Olivares, A. Gomez, R. Edwards, W. Ackwei, T. Rose, H. Neville, J. Rossiter, R. Pedder, K. Sadlier, E. Jääskeläinen, E. Rito\n- **Pittsburgh Riverhounds**: N. Campuzano, B. Etou, O. Mikoy, V. Souza, L. J. Kelp, D. Griffin, R. Mertz, B. Sample, P. Barnes, A. Dikwa, T. Amann\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**Pittsburgh Riverhounds 2–1 SC Jacksonville.** Pittsburgh's form and Jacksonville's defensive fragility give the visitors a slight edge.",
-          "generated_at": "2026-07-15T03:45:43.683462+00:00"
-        },
-        "live_websocket": false,
-        "home_form": {
-          "calculated_at": "2026-07-15",
-          "matches_played": 5,
-          "form_string": "DLLLD",
-          "wins": 0,
-          "draws": 2,
-          "losses": 3,
-          "points_last_n": 2,
-          "goals_scored_last_n": 9,
-          "goals_conceded_last_n": 17,
-          "avg_xg": 1.8,
-          "avg_xg_conceded": 3.4,
-          "avg_shots": 10.4,
-          "avg_shots_on_target": 4,
-          "avg_key_passes": 9,
-          "goal_conversion_rate": 0,
-          "defensive_efficiency": 0,
-          "clean_sheets": 0,
-          "avg_pass_accuracy": 84.73538626446006,
-          "duel_win_rate": 0.49025069637883006,
-          "aerial_win_rate": 0.4672897196261682,
-          "avg_fouls": 11,
-          "avg_yellow_cards": 2.2,
-          "home_ppg": 0.4,
-          "away_ppg": 0.2,
-          "home_goals_scored": 10,
-          "home_goals_conceded": 18,
-          "away_goals_scored": 4,
-          "away_goals_conceded": 11,
-          "avg_team_rating": 6.6441391941391945
-        },
-        "away_form": {
-          "calculated_at": "2026-07-15",
-          "matches_played": 5,
-          "form_string": "LDWWW",
-          "wins": 3,
-          "draws": 1,
-          "losses": 1,
-          "points_last_n": 10,
-          "goals_scored_last_n": 5,
-          "goals_conceded_last_n": 2,
-          "avg_xg": 0.07225999999999999,
-          "avg_xg_conceded": 0.5099400000000001,
-          "avg_shots": 10.6,
-          "avg_shots_on_target": 3.6,
-          "avg_key_passes": 8.2,
-          "goal_conversion_rate": 13.838915029061724,
-          "defensive_efficiency": 0.2155939914499745,
-          "clean_sheets": 4,
-          "avg_pass_accuracy": 76.32993192080312,
-          "duel_win_rate": 0.5290909090909091,
-          "aerial_win_rate": 0.5170940170940171,
-          "avg_fouls": 12.8,
-          "avg_yellow_cards": 1.4,
-          "home_ppg": 1.8,
-          "away_ppg": 1,
-          "home_goals_scored": 5,
-          "home_goals_conceded": 4,
-          "away_goals_scored": 3,
-          "away_goals_conceded": 5,
-          "avg_team_rating": 6.950059523809524
-        },
-        "head_to_head": {
-          "total_matches": 1,
-          "home_wins": 0,
-          "draws": 0,
-          "away_wins": 1,
-          "home_goals": 2,
-          "away_goals": 3,
-          "avg_total_goals": 5,
-          "home_win_rate": 0,
-          "away_win_rate": 1,
-          "recent_matches": [
-            {
-              "away": "SC Jacksonville",
-              "date": "2026-03-28T23:00:00+00:00",
-              "home": "Pittsburgh Riverhounds",
-              "score": "3-2"
-            }
-          ]
-        },
-        "lineups": null,
-        "social": []
-      },
-      "managers": {
-        "home": {
-          "id": 1622,
-          "name": "Liam Fox",
-          "short_name": "L. Fox",
-          "country": "Scotland",
-          "current_team": {
-            "id": 2227,
-            "name": "SC Jacksonville"
-          },
-          "preferred_formation": "4-2-3-1",
-          "formations_used": {
-            "3-4-3": 4,
-            "3-5-2": 2,
-            "4-3-3": 1,
-            "5-3-2": 1,
-            "5-4-1": 2,
-            "4-2-3-1": 5
-          },
-          "profile": "balanced",
-          "team_style": "neutral",
-          "pressing_intensity": 0.36241276784545057,
-          "defensive_line": "mid",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "terrorist_fb",
-              "name": "Terrorist Football",
-              "category": "fan",
-              "emoji": "💣",
-              "description": "Ultra-negative setup — destroy the game",
-              "score": 0.177
-            },
-            {
-              "rank": 2,
-              "code": "park_the_bus",
-              "name": "Park the Bus",
-              "category": "defensive",
-              "emoji": "🚌",
-              "description": "Ultra-deep defense, minimal attacking intent",
-              "score": 0.127
-            },
-            {
-              "rank": 3,
-              "code": "anti_football",
-              "name": "Anti-Football",
-              "category": "defensive",
-              "emoji": "⏱",
-              "description": "Time-wasting, fouling, disrupting rhythm",
-              "score": 0.092
-            },
-            {
-              "rank": 4,
-              "code": "low_counter",
-              "name": "Low Block Counter",
-              "category": "counter",
-              "emoji": "🏹",
-              "description": "Deep defense with rapid forward outlets",
-              "score": 0.046
-            }
-          ],
-          "matches_total": 15,
-          "wins": 0,
-          "draws": 4,
-          "losses": 11,
-          "win_pct": 0,
-          "avg_goals_scored": 1.27,
-          "avg_goals_conceded": 2.73,
-          "avg_possession": 44.27,
-          "avg_shots": 8.27,
-          "avg_shots_on_target": 3,
-          "avg_xg_for": 1.09,
-          "avg_xg_against": 2.01,
-          "avg_corners": 3.33,
-          "avg_yellow_cards": 2.47,
-          "avg_red_cards": 0.07,
-          "avg_fouls": 13.8,
-          "clean_sheet_pct": 0,
-          "btts_pct": 66.7,
-          "over_25_pct": 73.3,
-          "over_15_pct": 80,
-          "fail_to_score_pct": 33.3,
-          "avg_goals_scored_1h": 0.67,
-          "avg_goals_conceded_1h": 1.13
-        },
-        "away": {
-          "id": 1621,
-          "name": "Rob Vincent",
-          "short_name": "R. Vincent",
-          "country": "England",
-          "current_team": {
-            "id": 2226,
-            "name": "Pittsburgh Riverhounds"
-          },
-          "preferred_formation": "3-4-2-1",
-          "formations_used": {
-            "4-4-2": 4,
-            "3-4-2-1": 5,
-            "4-1-3-2": 4
-          },
-          "profile": "balanced",
-          "team_style": "neutral",
-          "pressing_intensity": 0.4038424486007353,
-          "defensive_line": "mid",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "territory",
-              "name": "Territory Control",
-              "category": "possession",
-              "emoji": "🗺",
-              "description": "Pin opponent deep rather than shoot often",
-              "score": 0.13
-            },
-            {
-              "rank": 2,
-              "code": "high_press",
-              "name": "High Press",
-              "category": "pressing",
-              "emoji": "🔥",
-              "description": "Press defenders and keeper aggressively high up",
-              "score": 0.059
-            },
-            {
-              "rank": 3,
-              "code": "gegenpressing",
-              "name": "Gegenpressing",
-              "category": "pressing",
-              "emoji": "💨",
-              "description": "Immediate press after losing the ball",
-              "score": 0.057
-            },
-            {
-              "rank": 4,
-              "code": "half_space",
-              "name": "Half-Space",
-              "category": "wide",
-              "emoji": "◐",
-              "description": "Attacks through channels beside the penalty box",
-              "score": 0.056
-            }
-          ],
-          "matches_total": 13,
-          "wins": 6,
-          "draws": 2,
-          "losses": 5,
-          "win_pct": 46.2,
-          "avg_goals_scored": 1.15,
-          "avg_goals_conceded": 1.15,
-          "avg_possession": 49.38,
-          "avg_shots": 9.77,
-          "avg_shots_on_target": 3.54,
-          "avg_xg_for": 1.12,
-          "avg_xg_against": 1.41,
-          "avg_corners": 3.77,
-          "avg_yellow_cards": 1.38,
-          "avg_red_cards": 0.08,
-          "avg_fouls": 11.31,
-          "clean_sheet_pct": 30.8,
-          "btts_pct": 38.5,
-          "over_25_pct": 38.5,
-          "over_15_pct": 69.2,
-          "fail_to_score_pct": 38.5,
-          "avg_goals_scored_1h": 0.38,
-          "avg_goals_conceded_1h": 0.38
-        }
-      }
-    },
-    {
-      "event_id": 216369,
-      "prediction": {
-        "id": 5423,
-        "event": {
-          "id": 216369,
-          "league": {
-            "id": 72,
-            "name": "NWSL",
-            "country": "USA",
-            "is_women": true,
-            "current_season": {
-              "id": 1540,
-              "name": "National Womens Soccer League 2026",
-              "year": 2026,
-              "start_date": "2026-01-01",
-              "end_date": "2026-12-31"
-            }
-          },
-          "season": {
-            "id": 1540,
-            "name": "National Womens Soccer League 2026",
-            "year": 2026
-          },
-          "home_team": "NJ/NY Gotham FC",
-          "away_team": "Washington Spirit",
-          "home_team_obj": {
-            "id": 3929,
-            "name": "NJ/NY Gotham FC",
-            "short_name": "Gotham",
-            "country": "USA",
-            "coach": {
-              "name": "Juan Carlos Amorós",
-              "shortName": "J. C. Amorós"
-            },
-            "venue": null
-          },
-          "away_team_obj": {
-            "id": 3926,
-            "name": "Washington Spirit",
-            "short_name": "Washington",
-            "country": "USA",
-            "coach": {
-              "name": "Adrián González",
-              "shortName": "A. González"
-            },
-            "venue": null
-          },
-          "event_date": "2026-07-16T03:00:00+03:00",
-          "round_number": 1,
-          "round_name": "",
-          "group_name": null,
-          "status": "notstarted",
-          "home_score": null,
-          "away_score": null,
-          "home_score_ht": null,
-          "away_score_ht": null,
-          "current_minute": null,
-          "period": "",
-          "odds_home": 2.57,
-          "odds_draw": 2.25,
-          "odds_away": 3.47,
-          "odds_over_15": 2.32,
-          "odds_over_25": 5.3,
-          "odds_over_35": 3.84,
-          "odds_under_15": 1.5,
-          "odds_under_25": 1.1,
-          "odds_under_35": 1.21,
-          "odds_btts_yes": 1.83,
-          "odds_btts_no": 1.85,
-          "actual_home_xg": null,
-          "actual_away_xg": null,
-          "home_xg_live": null,
-          "away_xg_live": null,
-          "penalty_shootout": null,
-          "extra_time_score": null,
-          "is_local_derby": false,
-          "is_neutral_ground": null,
-          "travel_distance_km": 321,
-          "weather_code": 2,
-          "wind_speed": 18.9,
-          "temperature_c": 35,
-          "pitch_condition": null,
-          "attendance": null,
-          "referee": null,
-          "home_coach": {
-            "id": 2052,
-            "name": "Juan Carlos Amorós",
-            "short_name": "J. C. Amorós",
-            "country": "Spain",
-            "profile": "defensive",
-            "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.8392274000242865,
-            "defensive_line": "high",
-            "top_styles": [
-              "gegenpressing",
-              "high_press"
-            ]
-          },
-          "away_coach": {
-            "id": 2049,
-            "name": "Adrián González",
-            "short_name": "A. González",
-            "country": "Spain",
-            "profile": "balanced",
-            "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.9371545623876227,
-            "defensive_line": "low",
-            "top_styles": [
-              "gegenpressing",
-              "high_press"
-            ]
-          },
-          "unavailable_players": null,
-          "venue": {
-            "id": 1163,
-            "name": "Citi Field",
-            "city": "New York",
-            "country": "USA",
-            "capacity": 41922,
-            "latitude": 40.7564124,
-            "longitude": -73.84589369999999,
-            "pitch_x": 105,
-            "pitch_y": 68,
-            "built_year": null
-          },
-          "incidents": null,
-          "live_stats": null,
-          "lineups": null,
-          "shotmap": null,
-          "momentum": null,
-          "xg_per_minute": null,
-          "average_positions": null,
-          "jerseys": {
-            "away": {
-              "GK": {
-                "base": "122901",
-                "real": true,
-                "type": "long_sleeves",
-                "number": "ffffff",
-                "sleeve": "244204"
-              },
-              "player": {
-                "base": "3c5a5b",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "f44e85",
-                "sleeve": "0e3b42"
-              }
-            },
-            "home": {
-              "GK": {
-                "base": "e69b94",
-                "real": true,
-                "type": "long_sleeves",
-                "number": "050505",
-                "sleeve": "810f0f"
-              },
-              "player": {
-                "base": "83b6b5",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "0a0a0a",
-                "sleevelong": "0d0d0d"
-              }
-            }
-          },
-          "funfacts": [
-            {
-              "type_id": 2,
-              "sentence": "When playing at home, Gotham have not lost to Washington in their last 3 encounters."
-            },
-            {
-              "type_id": 1,
-              "sentence": "Gotham haven't lost in any of their last 5 home matches."
-            },
-            {
-              "type_id": 1,
-              "sentence": "Washington have a winning streak of 3 matches."
-            }
-          ],
-          "sr_stats": null,
-          "ai_preview": {
-            "text": "**Gotham host a red-hot Spirit in NWSL Round 1 — and this one's got proper upset energy written all over it.** Washington's on a four-win tear, while the hosts are coming off a shocker to San Diego. 🔥\n\nGotham looked shaky against Wave, but bounced back with a home win versus Houston. Spirit, though? They're rolling: beat Reign, Courage, and Dash convincingly. Form says visitors, but Citi Field's always a wild card.\n\nKey storylines:\n\n- **M. Purce** and **G. Reiten** need to unlock Gotham's attack early — they can't let **C. Martínez** and **R. Kouassi** dictate the tempo.\n- **Washington's back four** (T. McKeown, K. Wiesner, E. Morgan, G. Carle) has been rock-solid; suffocating Gotham's build-up will be the gameplan.\n- Home advantage at Citi Field might keep this tight, but Spirit's momentum is genuinely scary right now.\n\nExpected lineups:\n\n- **NJ/NY Gotham FC**: A. Berger, T. Davidson, E. Sonnett, J. Carter, M. Freeman, S. Schupansky, G. Reiten, E. González, J. Shaw, J. Dudley, M. Purce\n- **Washington Spirit**: S. MacIver, E. Morgan, T. McKeown, K. Wiesner, G. Carle, L. Santos, T. Rodman, G. Monday, R. Kouassi, S. Cantore, C. Martínez\n\nPrediction:\n\n**1-1** — Gotham edge it at home, but Spirit's form is too hot to ignore; lean toward the draw with an outside chance the visitors nick it. ⚽",
-            "generated_at": "2026-07-15T04:45:41.142448+00:00"
-          },
-          "live_websocket": true
-        },
-        "created_at": "2026-07-13T05:20:14.696293+03:00",
-        "prob_home_win": 43.287471998400775,
-        "prob_draw": 22.285115611678087,
-        "prob_away_win": 34.42741238992114,
-        "predicted_result": "H",
-        "expected_home_goals": 1.1,
-        "expected_away_goals": 0.9,
-        "prob_over_15": 67.85975042998069,
-        "prob_over_25": 42.58885394107823,
-        "prob_over_35": 22.637476824431275,
-        "prob_btts_yes": 50.064301664167566,
-        "confidence": 43.287471998400775,
-        "model_version": "v5.0",
-        "most_likely_score": "1-0",
-        "favorite": "H",
-        "favorite_prob": 43.287471998400775,
-        "favorite_recommend": false,
-        "over_15_recommend": false,
-        "over_25_recommend": false,
-        "over_35_recommend": false,
-        "btts_recommend": false,
-        "winner_recommend": false
-      },
-      "event_detail": {
-        "id": 216369,
-        "league": {
-          "id": 72,
-          "name": "NWSL",
-          "country": "USA",
-          "is_women": true,
-          "current_season": {
-            "id": 1540,
-            "name": "National Womens Soccer League 2026",
-            "year": 2026,
-            "start_date": "2026-01-01",
-            "end_date": "2026-12-31"
-          }
-        },
-        "season": {
-          "id": 1540,
-          "name": "National Womens Soccer League 2026",
-          "year": 2026
-        },
-        "home_team": "NJ/NY Gotham FC",
-        "away_team": "Washington Spirit",
-        "home_team_obj": {
-          "id": 3929,
-          "name": "NJ/NY Gotham FC",
-          "short_name": "Gotham",
-          "country": "USA",
-          "coach": {
-            "name": "Juan Carlos Amorós",
-            "shortName": "J. C. Amorós"
-          },
-          "venue": null
-        },
-        "away_team_obj": {
-          "id": 3926,
-          "name": "Washington Spirit",
-          "short_name": "Washington",
-          "country": "USA",
-          "coach": {
-            "name": "Adrián González",
-            "shortName": "A. González"
-          },
-          "venue": null
-        },
-        "event_date": "2026-07-16T03:00:00+03:00",
-        "round_number": 1,
-        "round_name": "",
-        "group_name": null,
-        "status": "notstarted",
-        "home_score": null,
-        "away_score": null,
-        "home_score_ht": null,
-        "away_score_ht": null,
-        "current_minute": null,
-        "period": "",
-        "odds_home": 2.57,
-        "odds_draw": 2.25,
-        "odds_away": 3.47,
-        "odds_over_15": 2.32,
-        "odds_over_25": 5.3,
-        "odds_over_35": 3.84,
-        "odds_under_15": 1.5,
-        "odds_under_25": 1.1,
-        "odds_under_35": 1.21,
-        "odds_btts_yes": 1.83,
-        "odds_btts_no": 1.85,
-        "actual_home_xg": null,
-        "actual_away_xg": null,
-        "home_xg_live": null,
-        "away_xg_live": null,
-        "penalty_shootout": null,
-        "extra_time_score": null,
-        "is_local_derby": false,
-        "is_neutral_ground": null,
-        "travel_distance_km": 321,
-        "weather_code": 2,
-        "wind_speed": 18.9,
-        "temperature_c": 35,
-        "pitch_condition": null,
-        "attendance": null,
-        "referee": null,
-        "home_coach": {
-          "id": 2052,
-          "name": "Juan Carlos Amorós",
-          "short_name": "J. C. Amorós",
-          "country": "Spain",
-          "profile": "defensive",
-          "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.8392274000242865,
-          "defensive_line": "high",
-          "top_styles": [
-            "gegenpressing",
-            "high_press"
-          ]
-        },
-        "away_coach": {
-          "id": 2049,
-          "name": "Adrián González",
-          "short_name": "A. González",
-          "country": "Spain",
-          "profile": "balanced",
-          "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.9371545623876227,
-          "defensive_line": "low",
-          "top_styles": [
-            "gegenpressing",
-            "high_press"
-          ]
-        },
-        "unavailable_players": null,
-        "venue": {
-          "id": 1163,
-          "name": "Citi Field",
-          "city": "New York",
-          "country": "USA",
-          "capacity": 41922,
-          "latitude": 40.7564124,
-          "longitude": -73.84589369999999,
-          "pitch_x": 105,
-          "pitch_y": 68,
-          "built_year": null
-        },
-        "live_stats": null,
-        "jerseys": {
-          "away": {
-            "GK": {
-              "base": "122901",
-              "real": true,
-              "type": "long_sleeves",
-              "number": "ffffff",
-              "sleeve": "244204"
-            },
-            "player": {
-              "base": "3c5a5b",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "f44e85",
-              "sleeve": "0e3b42"
-            }
-          },
-          "home": {
-            "GK": {
-              "base": "e69b94",
-              "real": true,
-              "type": "long_sleeves",
-              "number": "050505",
-              "sleeve": "810f0f"
-            },
-            "player": {
-              "base": "83b6b5",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "0a0a0a",
-              "sleevelong": "0d0d0d"
-            }
-          }
-        },
-        "funfacts": [
-          {
-            "type_id": 2,
-            "sentence": "When playing at home, Gotham have not lost to Washington in their last 3 encounters."
-          },
-          {
-            "type_id": 1,
-            "sentence": "Gotham haven't lost in any of their last 5 home matches."
-          },
-          {
-            "type_id": 1,
-            "sentence": "Washington have a winning streak of 3 matches."
-          }
-        ],
-        "sr_stats": null,
-        "ai_preview": {
-          "text": "**Gotham host a red-hot Spirit in NWSL Round 1 — and this one's got proper upset energy written all over it.** Washington's on a four-win tear, while the hosts are coming off a shocker to San Diego. 🔥\n\nGotham looked shaky against Wave, but bounced back with a home win versus Houston. Spirit, though? They're rolling: beat Reign, Courage, and Dash convincingly. Form says visitors, but Citi Field's always a wild card.\n\nKey storylines:\n\n- **M. Purce** and **G. Reiten** need to unlock Gotham's attack early — they can't let **C. Martínez** and **R. Kouassi** dictate the tempo.\n- **Washington's back four** (T. McKeown, K. Wiesner, E. Morgan, G. Carle) has been rock-solid; suffocating Gotham's build-up will be the gameplan.\n- Home advantage at Citi Field might keep this tight, but Spirit's momentum is genuinely scary right now.\n\nExpected lineups:\n\n- **NJ/NY Gotham FC**: A. Berger, T. Davidson, E. Sonnett, J. Carter, M. Freeman, S. Schupansky, G. Reiten, E. González, J. Shaw, J. Dudley, M. Purce\n- **Washington Spirit**: S. MacIver, E. Morgan, T. McKeown, K. Wiesner, G. Carle, L. Santos, T. Rodman, G. Monday, R. Kouassi, S. Cantore, C. Martínez\n\nPrediction:\n\n**1-1** — Gotham edge it at home, but Spirit's form is too hot to ignore; lean toward the draw with an outside chance the visitors nick it. ⚽",
-          "generated_at": "2026-07-15T04:45:41.142448+00:00"
-        },
-        "live_websocket": true,
-        "home_form": {
-          "calculated_at": "2026-07-15",
-          "matches_played": 5,
-          "form_string": "WLWWD",
-          "wins": 3,
-          "draws": 1,
-          "losses": 1,
-          "points_last_n": 10,
-          "goals_scored_last_n": 7,
-          "goals_conceded_last_n": 4,
-          "avg_xg": 1.4,
-          "avg_xg_conceded": 0.8,
-          "avg_shots": 12,
-          "avg_shots_on_target": 5,
-          "avg_key_passes": 9,
-          "goal_conversion_rate": 0,
-          "defensive_efficiency": 0,
-          "clean_sheets": 2,
-          "avg_pass_accuracy": 78.2122905027933,
-          "duel_win_rate": 0.5263157894736842,
-          "aerial_win_rate": 0.7333333333333333,
-          "avg_fouls": 10,
-          "avg_yellow_cards": 2,
-          "home_ppg": 2.2,
-          "away_ppg": 1.8,
-          "home_goals_scored": 6,
-          "home_goals_conceded": 1,
-          "away_goals_scored": 8,
-          "away_goals_conceded": 5,
-          "avg_team_rating": 6.999999999999999
-        },
-        "away_form": {
-          "calculated_at": "2026-07-15",
-          "matches_played": 5,
-          "form_string": "WWWLW",
-          "wins": 4,
-          "draws": 0,
-          "losses": 1,
-          "points_last_n": 12,
-          "goals_scored_last_n": 8,
-          "goals_conceded_last_n": 4,
-          "avg_xg": 1.6,
-          "avg_xg_conceded": 0.8,
-          "avg_shots": 8,
-          "avg_shots_on_target": 5,
-          "avg_key_passes": 5,
-          "goal_conversion_rate": 0,
-          "defensive_efficiency": 0,
-          "clean_sheets": 2,
-          "avg_pass_accuracy": 83.76753507014027,
-          "duel_win_rate": 0.5223880597014925,
-          "aerial_win_rate": 0.2222222222222222,
-          "avg_fouls": 1,
-          "avg_yellow_cards": 0,
-          "home_ppg": 2.6,
-          "away_ppg": 2.4,
-          "home_goals_scored": 10,
-          "home_goals_conceded": 3,
-          "away_goals_scored": 10,
-          "away_goals_conceded": 4,
-          "avg_team_rating": 7.031249999999999
-        },
-        "head_to_head": null,
-        "lineups": null,
-        "social": []
-      },
-      "managers": {
-        "home": {
-          "id": 2052,
-          "name": "Juan Carlos Amorós",
-          "short_name": "J. C. Amorós",
-          "country": "Spain",
-          "current_team": {
-            "id": 3929,
-            "name": "NJ/NY Gotham FC"
-          },
-          "preferred_formation": "4-2-3-1",
-          "formations_used": {
-            "4-3-3": 1,
-            "4-4-2": 1,
-            "4-1-4-1": 2,
-            "4-2-3-1": 9
-          },
-          "profile": "defensive",
-          "team_style": "soft",
-          "pressing_intensity": 0.8392274000242865,
-          "defensive_line": "high",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "gegenpressing",
-              "name": "Gegenpressing",
-              "category": "pressing",
-              "emoji": "💨",
-              "description": "Immediate press after losing the ball",
-              "score": 0.204
-            },
-            {
-              "rank": 2,
-              "code": "high_press",
-              "name": "High Press",
-              "category": "pressing",
-              "emoji": "🔥",
-              "description": "Press defenders and keeper aggressively high up",
-              "score": 0.153
-            },
-            {
-              "rank": 3,
-              "code": "total_football",
-              "name": "Total Football",
-              "category": "possession",
-              "emoji": "🌀",
-              "description": "Fluid rotations, every player attacks and defends",
-              "score": 0.071
-            },
-            {
-              "rank": 4,
-              "code": "ball_dominant",
-              "name": "Ball Dominant",
-              "category": "possession",
-              "emoji": "⚽",
-              "description": "Keep the ball to control tempo and energy",
-              "score": 0.054
-            }
-          ],
-          "matches_total": 13,
-          "wins": 7,
-          "draws": 3,
-          "losses": 3,
-          "win_pct": 53.8,
-          "avg_goals_scored": 1.15,
-          "avg_goals_conceded": 0.62,
-          "avg_possession": 57.62,
-          "avg_shots": 14,
-          "avg_shots_on_target": 5.23,
-          "avg_xg_for": 1.71,
-          "avg_xg_against": 1.07,
-          "avg_corners": 5.15,
-          "avg_yellow_cards": 1.15,
-          "avg_red_cards": 0,
-          "avg_fouls": 9.69,
-          "clean_sheet_pct": 61.5,
-          "btts_pct": 23.1,
-          "over_25_pct": 23.1,
-          "over_15_pct": 61.5,
-          "fail_to_score_pct": 30.8,
-          "avg_goals_scored_1h": 0.92,
-          "avg_goals_conceded_1h": 0.31
-        },
-        "away": {
-          "id": 2049,
-          "name": "Adrián González",
-          "short_name": "A. González",
-          "country": "Spain",
-          "current_team": {
-            "id": 3926,
-            "name": "Washington Spirit"
-          },
-          "preferred_formation": "4-2-3-1",
-          "formations_used": {
-            "4-1-4-1": 2,
-            "4-2-3-1": 11
-          },
-          "profile": "balanced",
-          "team_style": "soft",
-          "pressing_intensity": 0.9371545623876227,
-          "defensive_line": "low",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "gegenpressing",
-              "name": "Gegenpressing",
-              "category": "pressing",
-              "emoji": "💨",
-              "description": "Immediate press after losing the ball",
-              "score": 0.16
-            },
-            {
-              "rank": 2,
-              "code": "high_press",
-              "name": "High Press",
-              "category": "pressing",
-              "emoji": "🔥",
-              "description": "Press defenders and keeper aggressively high up",
-              "score": 0.114
-            },
-            {
-              "rank": 3,
-              "code": "inverted_fb",
-              "name": "Inverted Fullbacks",
-              "category": "possession",
-              "emoji": "↩",
-              "description": "Fullbacks step into midfield to overload centre",
-              "score": 0.067
-            },
-            {
-              "rank": 4,
-              "code": "tiki_taka",
-              "name": "Tiki-Taka",
-              "category": "possession",
-              "emoji": "🎨",
-              "description": "Short passing, domination via possession",
-              "score": 0.056
-            }
-          ],
-          "matches_total": 13,
-          "wins": 8,
-          "draws": 3,
-          "losses": 2,
-          "win_pct": 61.5,
-          "avg_goals_scored": 1.69,
-          "avg_goals_conceded": 0.77,
-          "avg_possession": 56.85,
-          "avg_shots": 13.23,
-          "avg_shots_on_target": 5.23,
-          "avg_xg_for": 1.9,
-          "avg_xg_against": 1.03,
-          "avg_corners": 4.69,
-          "avg_yellow_cards": 1,
-          "avg_red_cards": 0,
-          "avg_fouls": 9.85,
-          "clean_sheet_pct": 46.2,
-          "btts_pct": 46.2,
-          "over_25_pct": 46.2,
-          "over_15_pct": 69.2,
-          "fail_to_score_pct": 15.4,
-          "avg_goals_scored_1h": 0.77,
-          "avg_goals_conceded_1h": 0.46
-        }
-      }
-    },
     {
       "event_id": 207019,
       "prediction": {
@@ -1247,13 +78,13 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.73,
-          "odds_draw": 4.06,
-          "odds_away": 4.16,
+          "odds_home": 1.7,
+          "odds_draw": 4.08,
+          "odds_away": 4.25,
           "odds_over_15": 1.14,
           "odds_over_25": 1.47,
-          "odds_over_35": 2.18,
-          "odds_under_15": 5.17,
+          "odds_over_35": 2.19,
+          "odds_under_15": 5.16,
           "odds_under_25": 2.52,
           "odds_under_35": 1.64,
           "odds_btts_yes": 1.5,
@@ -1516,13 +347,13 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.73,
-        "odds_draw": 4.06,
-        "odds_away": 4.16,
+        "odds_home": 1.7,
+        "odds_draw": 4.08,
+        "odds_away": 4.25,
         "odds_over_15": 1.14,
         "odds_over_25": 1.47,
-        "odds_over_35": 2.18,
-        "odds_under_15": 5.17,
+        "odds_over_35": 2.19,
+        "odds_under_15": 5.16,
         "odds_under_25": 2.52,
         "odds_under_35": 1.64,
         "odds_btts_yes": 1.5,
@@ -1956,15 +787,15 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 3.84,
-          "odds_draw": 3.65,
+          "odds_home": 3.8,
+          "odds_draw": 3.66,
           "odds_away": 1.83,
           "odds_over_15": 1.23,
-          "odds_over_25": 1.76,
-          "odds_over_35": 2.88,
-          "odds_under_15": 3.72,
-          "odds_under_25": 1.98,
-          "odds_under_35": 1.37,
+          "odds_over_25": 1.74,
+          "odds_over_35": 2.81,
+          "odds_under_15": 3.8,
+          "odds_under_25": 2.01,
+          "odds_under_35": 1.39,
           "odds_btts_yes": 1.69,
           "odds_btts_no": 2.05,
           "actual_home_xg": null,
@@ -2175,17 +1006,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 3.84,
-        "odds_draw": 3.65,
+        "odds_home": 3.8,
+        "odds_draw": 3.66,
         "odds_away": 1.83,
         "odds_over_15": 1.23,
-        "odds_over_25": 1.76,
-        "odds_over_35": 2.88,
-        "odds_under_15": 3.72,
-        "odds_under_25": 1.98,
-        "odds_under_35": 1.37,
-        "odds_btts_yes": 1.69,
-        "odds_btts_no": 2.05,
+        "odds_over_25": 1.74,
+        "odds_over_35": 2.81,
+        "odds_under_15": 3.8,
+        "odds_under_25": 2.01,
+        "odds_under_35": 1.39,
+        "odds_btts_yes": 1.67,
+        "odds_btts_no": 2.07,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -2590,16 +1421,16 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 4.68,
-          "odds_draw": 3.76,
+          "odds_home": 4.69,
+          "odds_draw": 3.78,
           "odds_away": 1.66,
           "odds_over_15": 1.28,
           "odds_over_25": 1.89,
           "odds_over_35": 3.26,
-          "odds_under_15": 3.36,
+          "odds_under_15": 3.35,
           "odds_under_25": 1.84,
           "odds_under_35": 1.3,
-          "odds_btts_yes": 1.87,
+          "odds_btts_yes": 1.88,
           "odds_btts_no": 1.84,
           "actual_home_xg": null,
           "actual_away_xg": null,
@@ -2820,16 +1651,16 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 4.68,
-        "odds_draw": 3.76,
+        "odds_home": 4.69,
+        "odds_draw": 3.78,
         "odds_away": 1.66,
         "odds_over_15": 1.28,
         "odds_over_25": 1.89,
         "odds_over_35": 3.26,
-        "odds_under_15": 3.36,
+        "odds_under_15": 3.35,
         "odds_under_25": 1.84,
         "odds_under_35": 1.3,
-        "odds_btts_yes": 1.87,
+        "odds_btts_yes": 1.88,
         "odds_btts_no": 1.84,
         "actual_home_xg": null,
         "actual_away_xg": null,
@@ -3234,11 +2065,11 @@
           "odds_home": 3.75,
           "odds_draw": 3.12,
           "odds_away": 2.02,
-          "odds_over_15": 1.37,
-          "odds_over_25": 2.18,
-          "odds_over_35": 3.87,
-          "odds_under_15": 2.85,
-          "odds_under_25": 1.63,
+          "odds_over_15": 1.38,
+          "odds_over_25": 2.19,
+          "odds_over_35": 3.91,
+          "odds_under_15": 2.83,
+          "odds_under_25": 1.62,
           "odds_under_35": 1.22,
           "odds_btts_yes": 1.93,
           "odds_btts_no": 1.78,
@@ -3456,13 +2287,13 @@
         "odds_home": 3.75,
         "odds_draw": 3.12,
         "odds_away": 2.02,
-        "odds_over_15": 1.37,
-        "odds_over_25": 2.18,
-        "odds_over_35": 3.87,
-        "odds_under_15": 2.85,
-        "odds_under_25": 1.63,
+        "odds_over_15": 1.38,
+        "odds_over_25": 2.19,
+        "odds_over_35": 3.91,
+        "odds_under_15": 2.83,
+        "odds_under_25": 1.62,
         "odds_under_35": 1.22,
-        "odds_btts_yes": 1.93,
+        "odds_btts_yes": 1.94,
         "odds_btts_no": 1.78,
         "actual_home_xg": null,
         "actual_away_xg": null,
@@ -3857,16 +2688,16 @@
           "current_minute": null,
           "period": "",
           "odds_home": 1.46,
-          "odds_draw": 4.56,
-          "odds_away": 5.71,
+          "odds_draw": 4.61,
+          "odds_away": 5.73,
           "odds_over_15": 1.12,
           "odds_over_25": 1.44,
-          "odds_over_35": 2.11,
-          "odds_under_15": 5.34,
-          "odds_under_25": 2.6,
-          "odds_under_35": 1.67,
+          "odds_over_35": 2.12,
+          "odds_under_15": 5.31,
+          "odds_under_25": 2.59,
+          "odds_under_35": 1.66,
           "odds_btts_yes": 1.6,
-          "odds_btts_no": 2.22,
+          "odds_btts_no": 2.21,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -4077,14 +2908,14 @@
         "current_minute": null,
         "period": "",
         "odds_home": 1.46,
-        "odds_draw": 4.56,
-        "odds_away": 5.71,
+        "odds_draw": 4.61,
+        "odds_away": 5.73,
         "odds_over_15": 1.12,
         "odds_over_25": 1.44,
-        "odds_over_35": 2.11,
-        "odds_under_15": 5.34,
-        "odds_under_25": 2.6,
-        "odds_under_35": 1.67,
+        "odds_over_35": 2.12,
+        "odds_under_15": 5.31,
+        "odds_under_25": 2.59,
+        "odds_under_35": 1.66,
         "odds_btts_yes": 1.6,
         "odds_btts_no": 2.22,
         "actual_home_xg": null,
@@ -4431,7 +3262,7 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 3.03,
+          "odds_home": 3.04,
           "odds_draw": 3.41,
           "odds_away": 2.17,
           "odds_over_15": 1.26,
@@ -4668,7 +3499,7 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 3.03,
+        "odds_home": 3.04,
         "odds_draw": 3.41,
         "odds_away": 2.17,
         "odds_over_15": 1.26,
@@ -5052,15 +3883,15 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 20.88,
-          "odds_draw": 8.86,
+          "odds_home": 20.5,
+          "odds_draw": 8.9,
           "odds_away": 1.1,
           "odds_over_15": 1.12,
           "odds_over_25": 1.43,
-          "odds_over_35": 2.1,
-          "odds_under_15": 5.34,
-          "odds_under_25": 2.61,
-          "odds_under_35": 1.67,
+          "odds_over_35": 2.09,
+          "odds_under_15": 5.38,
+          "odds_under_25": 2.63,
+          "odds_under_35": 1.68,
           "odds_btts_yes": 3.09,
           "odds_btts_no": 1.37,
           "actual_home_xg": null,
@@ -5269,17 +4100,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 20.88,
-        "odds_draw": 8.86,
+        "odds_home": 20.5,
+        "odds_draw": 8.9,
         "odds_away": 1.1,
         "odds_over_15": 1.12,
         "odds_over_25": 1.43,
-        "odds_over_35": 2.1,
-        "odds_under_15": 5.34,
-        "odds_under_25": 2.61,
-        "odds_under_35": 1.67,
-        "odds_btts_yes": 3.09,
-        "odds_btts_no": 1.37,
+        "odds_over_35": 2.09,
+        "odds_under_15": 5.38,
+        "odds_under_25": 2.63,
+        "odds_under_35": 1.68,
+        "odds_btts_yes": 3.05,
+        "odds_btts_no": 1.38,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -5674,13 +4505,13 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.99,
-          "odds_draw": 3.53,
-          "odds_away": 3.56,
+          "odds_home": 1.98,
+          "odds_draw": 3.55,
+          "odds_away": 3.59,
           "odds_over_15": 1.26,
           "odds_over_25": 1.83,
-          "odds_over_35": 3.02,
-          "odds_under_15": 3.59,
+          "odds_over_35": 3.03,
+          "odds_under_15": 3.6,
           "odds_under_25": 1.92,
           "odds_under_35": 1.35,
           "odds_btts_yes": 1.7,
@@ -5996,14 +4827,14 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.99,
-        "odds_draw": 3.53,
-        "odds_away": 3.56,
+        "odds_home": 1.98,
+        "odds_draw": 3.55,
+        "odds_away": 3.6,
         "odds_over_15": 1.26,
         "odds_over_25": 1.83,
-        "odds_over_35": 3.02,
-        "odds_under_15": 3.59,
-        "odds_under_25": 1.92,
+        "odds_over_35": 3.03,
+        "odds_under_15": 3.61,
+        "odds_under_25": 1.93,
         "odds_under_35": 1.35,
         "odds_btts_yes": 1.7,
         "odds_btts_no": 2.05,
@@ -6605,17 +5436,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.35,
+          "odds_home": 2.34,
           "odds_draw": 3.22,
           "odds_away": 2.99,
           "odds_over_15": 1.31,
           "odds_over_25": 2.02,
-          "odds_over_35": 3.49,
+          "odds_over_35": 3.52,
           "odds_under_15": 3.23,
           "odds_under_25": 1.76,
           "odds_under_35": 1.27,
           "odds_btts_yes": 1.78,
-          "odds_btts_no": 1.94,
+          "odds_btts_no": 1.95,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -6904,17 +5735,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.35,
+        "odds_home": 2.34,
         "odds_draw": 3.22,
         "odds_away": 2.99,
         "odds_over_15": 1.31,
         "odds_over_25": 2.02,
-        "odds_over_35": 3.49,
+        "odds_over_35": 3.52,
         "odds_under_15": 3.23,
         "odds_under_25": 1.76,
         "odds_under_35": 1.27,
         "odds_btts_yes": 1.78,
-        "odds_btts_no": 1.94,
+        "odds_btts_no": 1.95,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -7566,7 +6397,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Clube De Regatas Brasil looking to punish a **Náutico side in freefall** — the visitors haven't won in five and are leaking goals at the Estádio Rei Pelé.** 🔥\n\nBrasil sit comfortably mid-table form (1W 3D 1L), riding a recent win over Botafogo-SP. Náutico, meanwhile, are spiraling — just two draws and three losses across their last five, including a brutal 0-2 drubbing at Avaí. Home advantage should matter here.\n\nKey storylines:\n\n- **Brasil's attack** led by L. Phellype and Mikael will fancy their chances against a Náutico defence that's conceded in three straight\n- **Náutico's midfield** (Wenderson, Dodô) will need to clamp down early or risk getting overrun in the middle\n- Brasil's **only notable absence** is Matheus Albino, but the squad depth looks solid\n\nExpected lineups:\n\n- **Clube De Regatas Brasil**: V. Caetano, F. Alemão, H. Santos, Wallace, D. Hereda, Crystopher, Thiaguinho, P. Castro, Mikael, D. Belmonte, L. Phellype\n- **Náutico**: Muriel, Vitinho, I. Fernandes, Betão, Reginaldo, Wenderson, Dodô, Vinícius, V. Andrade, Derek, P. Sérgio\n\nBest picks:\n\n- **Total Goals Under 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Brasil 2–0 Náutico.** Home side slight favorites; expect a controlled performance against a fragile visitor. 📊",
+            "generated_at": "2026-07-15T23:45:31.822401+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-06-02T13:54:32.531582+03:00",
@@ -7799,7 +6633,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Clube De Regatas Brasil looking to punish a **Náutico side in freefall** — the visitors haven't won in five and are leaking goals at the Estádio Rei Pelé.** 🔥\n\nBrasil sit comfortably mid-table form (1W 3D 1L), riding a recent win over Botafogo-SP. Náutico, meanwhile, are spiraling — just two draws and three losses across their last five, including a brutal 0-2 drubbing at Avaí. Home advantage should matter here.\n\nKey storylines:\n\n- **Brasil's attack** led by L. Phellype and Mikael will fancy their chances against a Náutico defence that's conceded in three straight\n- **Náutico's midfield** (Wenderson, Dodô) will need to clamp down early or risk getting overrun in the middle\n- Brasil's **only notable absence** is Matheus Albino, but the squad depth looks solid\n\nExpected lineups:\n\n- **Clube De Regatas Brasil**: V. Caetano, F. Alemão, H. Santos, Wallace, D. Hereda, Crystopher, Thiaguinho, P. Castro, Mikael, D. Belmonte, L. Phellype\n- **Náutico**: Muriel, Vitinho, I. Fernandes, Betão, Reginaldo, Wenderson, Dodô, Vinícius, V. Andrade, Derek, P. Sérgio\n\nBest picks:\n\n- **Total Goals Under 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Brasil 2–0 Náutico.** Home side slight favorites; expect a controlled performance against a fragile visitor. 📊",
+          "generated_at": "2026-07-15T23:45:31.822401+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-07-15",
@@ -8105,16 +6942,16 @@
           "current_minute": null,
           "period": "",
           "odds_home": 1.98,
-          "odds_draw": 3.69,
-          "odds_away": 3.46,
-          "odds_over_15": 1.18,
-          "odds_over_25": 1.61,
-          "odds_over_35": 2.47,
-          "odds_under_15": 4.43,
-          "odds_under_25": 2.25,
+          "odds_draw": 3.7,
+          "odds_away": 3.47,
+          "odds_over_15": 1.19,
+          "odds_over_25": 1.62,
+          "odds_over_35": 2.48,
+          "odds_under_15": 4.39,
+          "odds_under_25": 2.24,
           "odds_under_35": 1.49,
-          "odds_btts_yes": 1.54,
-          "odds_btts_no": 2.34,
+          "odds_btts_yes": 1.55,
+          "odds_btts_no": 2.32,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -8272,9 +7109,25 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 1,
+              "sentence": "Toronto haven't won in their last 9 games."
+            },
+            {
+              "type_id": 25,
+              "sentence": "Prince-Osei Owusu is Montreal's top scorer with 9 goals. Daniel Salloi has scored 4 times for Toronto."
+            },
+            {
+              "type_id": 25,
+              "sentence": "Prince-Osei Owusu has more yellow cards (5) than any other player at Montreal. Jonathan Osorio has collected 5 for Toronto."
+            }
+          ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**CF Montréal host a wounded Toronto FC side looking to bounce back from a brutal stretch.** The visitors are winless in five with just one draw, while the hosts have steadied the ship with a win and two draws. This is a mismatch waiting to happen 🔥\n\nMontréal's defensive lineup is solid despite missing **J. Nteziryayo** and **W. Carmona** to injury. Toronto, meanwhile, are depleted with **D. Kerr**, **H. Wingo**, and **M. Pereira** sidelined — that's a brutal cocktail for a team already leaking goals (1-2, 1-3, 2-4 in their last three).\n\nKey storylines:\n\n- **Montréal's depth** gets tested but edges the visitors' paper-thin backline anchored by **W. Zimmerman**\n- **J. Sargent** carries Toronto's offensive hopes against a Montréal defense that just held Chicago and Portland to reasonable terms\n- **D. Rios** and **H. Synchuk** could feast on a depleted Toronto fullback unit\n\nExpected lineups:\n\n- **CF Montréal**: T. Gillier, L. Petrasso, B. Vera, E. Morales, D. Bugaj, S. Piette, M. Longstaff, V. Loturi, I. Jaime, D. Rios, H. Synchuk\n- **Toronto FC**: L. Gavran, R. Edwards, Z. Monlouis, W. Zimmerman, K. Franklin, A. Coello, J. Cifuentes, D. Sallói, M. Henry, E. Aristizábal, J. Sargent\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**Montréal 2–0 Toronto.** The model favors the hosts, and Toronto's injury list is simply too long to overcome. 📌",
+            "generated_at": "2026-07-15T23:45:36.682775+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-06-02T13:54:16.789224+03:00",
@@ -8368,16 +7221,16 @@
         "current_minute": null,
         "period": "",
         "odds_home": 1.98,
-        "odds_draw": 3.69,
-        "odds_away": 3.46,
-        "odds_over_15": 1.18,
-        "odds_over_25": 1.61,
-        "odds_over_35": 2.47,
-        "odds_under_15": 4.43,
-        "odds_under_25": 2.25,
+        "odds_draw": 3.7,
+        "odds_away": 3.47,
+        "odds_over_15": 1.19,
+        "odds_over_25": 1.62,
+        "odds_over_35": 2.48,
+        "odds_under_15": 4.39,
+        "odds_under_25": 2.24,
         "odds_under_35": 1.49,
-        "odds_btts_yes": 1.54,
-        "odds_btts_no": 2.34,
+        "odds_btts_yes": 1.55,
+        "odds_btts_no": 2.32,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -8529,9 +7382,25 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 1,
+            "sentence": "Toronto haven't won in their last 9 games."
+          },
+          {
+            "type_id": 25,
+            "sentence": "Prince-Osei Owusu is Montreal's top scorer with 9 goals. Daniel Salloi has scored 4 times for Toronto."
+          },
+          {
+            "type_id": 25,
+            "sentence": "Prince-Osei Owusu has more yellow cards (5) than any other player at Montreal. Jonathan Osorio has collected 5 for Toronto."
+          }
+        ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**CF Montréal host a wounded Toronto FC side looking to bounce back from a brutal stretch.** The visitors are winless in five with just one draw, while the hosts have steadied the ship with a win and two draws. This is a mismatch waiting to happen 🔥\n\nMontréal's defensive lineup is solid despite missing **J. Nteziryayo** and **W. Carmona** to injury. Toronto, meanwhile, are depleted with **D. Kerr**, **H. Wingo**, and **M. Pereira** sidelined — that's a brutal cocktail for a team already leaking goals (1-2, 1-3, 2-4 in their last three).\n\nKey storylines:\n\n- **Montréal's depth** gets tested but edges the visitors' paper-thin backline anchored by **W. Zimmerman**\n- **J. Sargent** carries Toronto's offensive hopes against a Montréal defense that just held Chicago and Portland to reasonable terms\n- **D. Rios** and **H. Synchuk** could feast on a depleted Toronto fullback unit\n\nExpected lineups:\n\n- **CF Montréal**: T. Gillier, L. Petrasso, B. Vera, E. Morales, D. Bugaj, S. Piette, M. Longstaff, V. Loturi, I. Jaime, D. Rios, H. Synchuk\n- **Toronto FC**: L. Gavran, R. Edwards, Z. Monlouis, W. Zimmerman, K. Franklin, A. Coello, J. Cifuentes, D. Sallói, M. Henry, E. Aristizábal, J. Sargent\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**Montréal 2–0 Toronto.** The model favors the hosts, and Toronto's injury list is simply too long to overcome. 📌",
+          "generated_at": "2026-07-15T23:45:36.682775+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-07-15",
@@ -8869,17 +7738,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.44,
-          "odds_draw": 4.88,
-          "odds_away": 6.05,
+          "odds_home": 1.43,
+          "odds_draw": 4.91,
+          "odds_away": 6.1,
           "odds_over_15": 1.11,
           "odds_over_25": 1.38,
-          "odds_over_35": 1.95,
+          "odds_over_35": 1.96,
           "odds_under_15": 5.99,
           "odds_under_25": 2.87,
           "odds_under_35": 1.79,
           "odds_btts_yes": 1.53,
-          "odds_btts_no": 2.38,
+          "odds_btts_no": 2.37,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -9018,9 +7887,25 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 24,
+              "sentence": "Kansas City's away record this season: 2-0-5."
+            },
+            {
+              "type_id": 25,
+              "sentence": "Marcel Hartel is Saint Louis's top scorer with 3 goals. Dejan Joveljic has scored 6 times for Kansas City."
+            },
+            {
+              "type_id": 25,
+              "sentence": "Chris Durkin has more yellow cards (5) than any other player at Saint Louis. Jacob Davis has collected 3 for Kansas City."
+            }
+          ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**St. Louis City hosts SKC in a cagey Midwest derby clash**, and the home side's been absolutely rolling while Kansas City stumbles. 🔥\n\nCity's won three of their last five and just demolished Austin 3-0 at home. Meanwhile, Sporting are stuck in neutral — only two wins in their last five and a recent loss to the Red Bulls. The model gives the edge to **St. Louis City** here.\n\nKey storylines:\n\n- **S. Córdova and D. Edelman** lead City's attack against a SKC defense that's been leaky lately\n- **C. Harris and D. Joveljić** carry Sporting's offensive load, but they'll face a confident home crowd at Energizer Park\n- City's missing depth (C. Pompeu, C. Durkin, and others out) but momentum is still firmly in their pocket\n\nExpected lineups:\n\n- **St. Louis City**: B. Lundt, T. Baumgartl, L. MacNaughton, F. Fall, R. Santos, T. Totland, M. Hartel, D. Polvara, S. Córdova, S. Becher, D. Edelman\n- **Sporting Kansas City**: S. Cleveland, J. Reid, I. James, W. Meyer, J. Davis, M. García, L. B. Johnsen, J. Bartlett, C. Harris, D. Joveljić, T. Calheira\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**St. Louis City 2–1 Sporting Kansas City**. City's form and home comfort should be enough to see off a misfiring Sporting side. ⚽",
+            "generated_at": "2026-07-16T00:45:41.202344+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-06-02T13:54:17.220597+03:00",
@@ -9113,17 +7998,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.44,
-        "odds_draw": 4.88,
-        "odds_away": 6.05,
+        "odds_home": 1.43,
+        "odds_draw": 4.91,
+        "odds_away": 6.1,
         "odds_over_15": 1.11,
         "odds_over_25": 1.38,
-        "odds_over_35": 1.95,
+        "odds_over_35": 1.96,
         "odds_under_15": 5.99,
         "odds_under_25": 2.87,
         "odds_under_35": 1.79,
         "odds_btts_yes": 1.53,
-        "odds_btts_no": 2.38,
+        "odds_btts_no": 2.37,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -9256,9 +8141,25 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 24,
+            "sentence": "Kansas City's away record this season: 2-0-5."
+          },
+          {
+            "type_id": 25,
+            "sentence": "Marcel Hartel is Saint Louis's top scorer with 3 goals. Dejan Joveljic has scored 6 times for Kansas City."
+          },
+          {
+            "type_id": 25,
+            "sentence": "Chris Durkin has more yellow cards (5) than any other player at Saint Louis. Jacob Davis has collected 3 for Kansas City."
+          }
+        ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**St. Louis City hosts SKC in a cagey Midwest derby clash**, and the home side's been absolutely rolling while Kansas City stumbles. 🔥\n\nCity's won three of their last five and just demolished Austin 3-0 at home. Meanwhile, Sporting are stuck in neutral — only two wins in their last five and a recent loss to the Red Bulls. The model gives the edge to **St. Louis City** here.\n\nKey storylines:\n\n- **S. Córdova and D. Edelman** lead City's attack against a SKC defense that's been leaky lately\n- **C. Harris and D. Joveljić** carry Sporting's offensive load, but they'll face a confident home crowd at Energizer Park\n- City's missing depth (C. Pompeu, C. Durkin, and others out) but momentum is still firmly in their pocket\n\nExpected lineups:\n\n- **St. Louis City**: B. Lundt, T. Baumgartl, L. MacNaughton, F. Fall, R. Santos, T. Totland, M. Hartel, D. Polvara, S. Córdova, S. Becher, D. Edelman\n- **Sporting Kansas City**: S. Cleveland, J. Reid, I. James, W. Meyer, J. Davis, M. García, L. B. Johnsen, J. Bartlett, C. Harris, D. Joveljić, T. Calheira\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**St. Louis City 2–1 Sporting Kansas City**. City's form and home comfort should be enough to see off a misfiring Sporting side. ⚽",
+          "generated_at": "2026-07-16T00:45:41.202344+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-07-15",
@@ -9599,12 +8500,12 @@
           "current_minute": null,
           "period": "",
           "odds_home": 2.78,
-          "odds_draw": 3.67,
-          "odds_away": 2.3,
+          "odds_draw": 3.63,
+          "odds_away": 2.32,
           "odds_over_15": 1.15,
           "odds_over_25": 1.51,
           "odds_over_35": 2.26,
-          "odds_under_15": 4.98,
+          "odds_under_15": 4.94,
           "odds_under_25": 2.43,
           "odds_under_35": 1.6,
           "odds_btts_yes": 1.45,
@@ -9742,9 +8643,25 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 24,
+              "sentence": "Chicago Fire's home record this season: 5-0-3."
+            },
+            {
+              "type_id": 25,
+              "sentence": "Hugo Cuypers is Chicago Fire's top scorer with 13 goals. Brian White has scored 10 times for Vancouver."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Chicago Fire have a winning streak of 3 matches."
+            }
+          ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Chicago's on a tear, and Vancouver's missing pieces.** The Fire have won three of their last five and come in hot — this is a statement moment at Soldier Field. 🔥\n\nChicago's offensive rhythm is clicking right now, while Vancouver are dealing with some key absences that'll make it tough to match that intensity on the road.\n\nKey storylines:\n\n- **Chicago's attacking form** has them rolling with three wins in five, including a 3-1 demolition of DC United\n- **Vancouver's injury crisis** — missing B. Halbouni, R. Priso, and Y. Takaoka leaves their squad stretched thin\n- **H. Cuypers and P. Zinckernagel** will be crucial outlets for Chicago's midfield dominance\n\nExpected lineups:\n\n- **Chicago Fire**: C. Brady, A. Gutman, J. Elliott, M. Mbokazi, J. Dean, A. Salétros, D. T. D'Avilla, J. Bamba, M. Haile-Selassie, P. Zinckernagel, H. Cuypers\n- **Vancouver Whitecaps**: I. Boehmer, T. Johnson, T. Blackmon, M. Laborda, É. Ocampo, S. Berhalter, A. Cubas, C. T. Sabaly, T. Müller, E. Sabbi, B. White\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**Chicago Fire 2-1 Vancouver Whitecaps** — Fire's momentum and Whitecaps' injury troubles give Chicago the slight edge in a lively match. ⚪",
+            "generated_at": "2026-07-16T00:45:45.538194+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-06-02T13:54:17.655167+03:00",
@@ -9838,12 +8755,12 @@
         "current_minute": null,
         "period": "",
         "odds_home": 2.78,
-        "odds_draw": 3.67,
-        "odds_away": 2.3,
+        "odds_draw": 3.63,
+        "odds_away": 2.32,
         "odds_over_15": 1.15,
         "odds_over_25": 1.51,
         "odds_over_35": 2.26,
-        "odds_under_15": 4.98,
+        "odds_under_15": 4.94,
         "odds_under_25": 2.43,
         "odds_under_35": 1.6,
         "odds_btts_yes": 1.45,
@@ -9975,9 +8892,25 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 24,
+            "sentence": "Chicago Fire's home record this season: 5-0-3."
+          },
+          {
+            "type_id": 25,
+            "sentence": "Hugo Cuypers is Chicago Fire's top scorer with 13 goals. Brian White has scored 10 times for Vancouver."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Chicago Fire have a winning streak of 3 matches."
+          }
+        ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Chicago's on a tear, and Vancouver's missing pieces.** The Fire have won three of their last five and come in hot — this is a statement moment at Soldier Field. 🔥\n\nChicago's offensive rhythm is clicking right now, while Vancouver are dealing with some key absences that'll make it tough to match that intensity on the road.\n\nKey storylines:\n\n- **Chicago's attacking form** has them rolling with three wins in five, including a 3-1 demolition of DC United\n- **Vancouver's injury crisis** — missing B. Halbouni, R. Priso, and Y. Takaoka leaves their squad stretched thin\n- **H. Cuypers and P. Zinckernagel** will be crucial outlets for Chicago's midfield dominance\n\nExpected lineups:\n\n- **Chicago Fire**: C. Brady, A. Gutman, J. Elliott, M. Mbokazi, J. Dean, A. Salétros, D. T. D'Avilla, J. Bamba, M. Haile-Selassie, P. Zinckernagel, H. Cuypers\n- **Vancouver Whitecaps**: I. Boehmer, T. Johnson, T. Blackmon, M. Laborda, É. Ocampo, S. Berhalter, A. Cubas, C. T. Sabaly, T. Müller, E. Sabbi, B. White\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**Chicago Fire 2-1 Vancouver Whitecaps** — Fire's momentum and Whitecaps' injury troubles give Chicago the slight edge in a lively match. ⚪",
+          "generated_at": "2026-07-16T00:45:45.538194+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-07-15",
@@ -10982,9 +9915,9 @@
           "away_xg_live": null,
           "penalty_shootout": null,
           "extra_time_score": null,
-          "is_local_derby": null,
+          "is_local_derby": false,
           "is_neutral_ground": null,
-          "travel_distance_km": null,
+          "travel_distance_km": 1788,
           "weather_code": null,
           "wind_speed": null,
           "temperature_c": null,
@@ -11036,11 +9969,11 @@
             "city": "Tijuana",
             "country": "Mexico",
             "capacity": 27333,
-            "latitude": null,
-            "longitude": null,
-            "pitch_x": null,
-            "pitch_y": null,
-            "built_year": null
+            "latitude": 32.506067,
+            "longitude": -116.993092,
+            "pitch_x": 103,
+            "pitch_y": 68,
+            "built_year": 2006
           },
           "incidents": null,
           "live_stats": null,
@@ -11049,11 +9982,44 @@
           "momentum": null,
           "xg_per_minute": null,
           "average_positions": null,
-          "jerseys": null,
+          "jerseys": {
+            "away": {
+              "GK": {
+                "base": "fa97f1",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "ffffff",
+                "sleeve": "050505"
+              },
+              "player": {
+                "base": "ffcf24",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "2854b9",
+                "sleeve": "326ad9"
+              }
+            },
+            "home": {
+              "GK": {
+                "base": "392750",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "ffffff",
+                "sleeve": "332650"
+              },
+              "player": {
+                "base": "b72d36",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "ffffff",
+                "sleeve": "171717"
+              }
+            }
+          },
           "funfacts": null,
           "sr_stats": null,
           "ai_preview": null,
-          "live_websocket": false
+          "live_websocket": true
         },
         "created_at": "2026-07-11T05:20:16.732694+03:00",
         "prob_home_win": 51.63850872414362,
@@ -11162,9 +10128,9 @@
         "away_xg_live": null,
         "penalty_shootout": null,
         "extra_time_score": null,
-        "is_local_derby": null,
+        "is_local_derby": false,
         "is_neutral_ground": null,
-        "travel_distance_km": null,
+        "travel_distance_km": 1788,
         "weather_code": null,
         "wind_speed": null,
         "temperature_c": null,
@@ -11216,18 +10182,51 @@
           "city": "Tijuana",
           "country": "Mexico",
           "capacity": 27333,
-          "latitude": null,
-          "longitude": null,
-          "pitch_x": null,
-          "pitch_y": null,
-          "built_year": null
+          "latitude": 32.506067,
+          "longitude": -116.993092,
+          "pitch_x": 103,
+          "pitch_y": 68,
+          "built_year": 2006
         },
         "live_stats": null,
-        "jerseys": null,
+        "jerseys": {
+          "away": {
+            "GK": {
+              "base": "fa97f1",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "ffffff",
+              "sleeve": "050505"
+            },
+            "player": {
+              "base": "ffcf24",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "2854b9",
+              "sleeve": "326ad9"
+            }
+          },
+          "home": {
+            "GK": {
+              "base": "392750",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "ffffff",
+              "sleeve": "332650"
+            },
+            "player": {
+              "base": "b72d36",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "ffffff",
+              "sleeve": "171717"
+            }
+          }
+        },
         "funfacts": null,
         "sr_stats": null,
         "ai_preview": null,
-        "live_websocket": false,
+        "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-07-15",
           "matches_played": 5,
@@ -14034,9 +13033,9 @@
           "away_xg_live": null,
           "penalty_shootout": null,
           "extra_time_score": null,
-          "is_local_derby": null,
+          "is_local_derby": false,
           "is_neutral_ground": null,
-          "travel_distance_km": null,
+          "travel_distance_km": 364,
           "weather_code": 0,
           "wind_speed": 2.2,
           "temperature_c": 32,
@@ -14088,11 +13087,44 @@
           "momentum": null,
           "xg_per_minute": null,
           "average_positions": null,
-          "jerseys": null,
+          "jerseys": {
+            "away": {
+              "GK": {
+                "base": "1af400",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "000000",
+                "sleeve": "27b5eb"
+              },
+              "player": {
+                "base": "ffffff",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "141414",
+                "sleeve": "f7f7f7"
+              }
+            },
+            "home": {
+              "GK": {
+                "base": "dd0000",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "fdfdfd",
+                "sleeve": "dd0000"
+              },
+              "player": {
+                "base": "1a79e6",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "ffffff",
+                "sleeve": "1a79e6"
+              }
+            }
+          },
           "funfacts": null,
           "sr_stats": null,
           "ai_preview": null,
-          "live_websocket": false
+          "live_websocket": true
         },
         "created_at": "2026-07-11T05:20:18.939243+03:00",
         "prob_home_win": 67.3311903827787,
@@ -14195,9 +13227,9 @@
         "away_xg_live": null,
         "penalty_shootout": null,
         "extra_time_score": null,
-        "is_local_derby": null,
+        "is_local_derby": false,
         "is_neutral_ground": null,
-        "travel_distance_km": null,
+        "travel_distance_km": 364,
         "weather_code": 0,
         "wind_speed": 2.2,
         "temperature_c": 32,
@@ -14243,11 +13275,44 @@
           "built_year": 2012
         },
         "live_stats": null,
-        "jerseys": null,
+        "jerseys": {
+          "away": {
+            "GK": {
+              "base": "1af400",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "000000",
+              "sleeve": "27b5eb"
+            },
+            "player": {
+              "base": "ffffff",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "141414",
+              "sleeve": "f7f7f7"
+            }
+          },
+          "home": {
+            "GK": {
+              "base": "dd0000",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "fdfdfd",
+              "sleeve": "dd0000"
+            },
+            "player": {
+              "base": "1a79e6",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "ffffff",
+              "sleeve": "1a79e6"
+            }
+          }
+        },
         "funfacts": null,
         "sr_stats": null,
         "ai_preview": null,
-        "live_websocket": false,
+        "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-07-15",
           "matches_played": 2,
@@ -14527,9 +13592,9 @@
           "away_xg_live": null,
           "penalty_shootout": null,
           "extra_time_score": null,
-          "is_local_derby": null,
+          "is_local_derby": false,
           "is_neutral_ground": null,
-          "travel_distance_km": null,
+          "travel_distance_km": 378,
           "weather_code": 1,
           "wind_speed": 16.8,
           "temperature_c": 30,
@@ -14584,11 +13649,44 @@
           "momentum": null,
           "xg_per_minute": null,
           "average_positions": null,
-          "jerseys": null,
+          "jerseys": {
+            "away": {
+              "GK": {
+                "base": "c2bcbe",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "f5f0f0",
+                "sleeve": "e7e7e2"
+              },
+              "player": {
+                "base": "db2232",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "ffffff",
+                "sleeve": "810808"
+              }
+            },
+            "home": {
+              "GK": {
+                "base": "ffdf00",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "ffffff",
+                "sleeve": "221e1e"
+              },
+              "player": {
+                "base": "1e5e9c",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "ffffff",
+                "sleeve": "1e5e9c"
+              }
+            }
+          },
           "funfacts": null,
           "sr_stats": null,
           "ai_preview": null,
-          "live_websocket": false
+          "live_websocket": true
         },
         "created_at": "2026-07-11T05:20:20.033946+03:00",
         "prob_home_win": 54.17635844653083,
@@ -14697,9 +13795,9 @@
         "away_xg_live": null,
         "penalty_shootout": null,
         "extra_time_score": null,
-        "is_local_derby": null,
+        "is_local_derby": false,
         "is_neutral_ground": null,
-        "travel_distance_km": null,
+        "travel_distance_km": 378,
         "weather_code": 1,
         "wind_speed": 16.8,
         "temperature_c": 30,
@@ -14748,11 +13846,44 @@
           "built_year": null
         },
         "live_stats": null,
-        "jerseys": null,
+        "jerseys": {
+          "away": {
+            "GK": {
+              "base": "c2bcbe",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "f5f0f0",
+              "sleeve": "e7e7e2"
+            },
+            "player": {
+              "base": "db2232",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "ffffff",
+              "sleeve": "810808"
+            }
+          },
+          "home": {
+            "GK": {
+              "base": "ffdf00",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "ffffff",
+              "sleeve": "221e1e"
+            },
+            "player": {
+              "base": "1e5e9c",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "ffffff",
+              "sleeve": "1e5e9c"
+            }
+          }
+        },
         "funfacts": null,
         "sr_stats": null,
         "ai_preview": null,
-        "live_websocket": false,
+        "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-07-15",
           "matches_played": 5,
@@ -19912,9 +19043,9 @@
           "away_xg_live": null,
           "penalty_shootout": null,
           "extra_time_score": null,
-          "is_local_derby": null,
+          "is_local_derby": false,
           "is_neutral_ground": null,
-          "travel_distance_km": null,
+          "travel_distance_km": 2163,
           "weather_code": 0,
           "wind_speed": 23.9,
           "temperature_c": 25,
@@ -20043,11 +19174,45 @@
           "momentum": null,
           "xg_per_minute": null,
           "average_positions": null,
-          "jerseys": null,
+          "jerseys": {
+            "away": {
+              "GK": {
+                "base": "ffed3e",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "000000",
+                "sleeve": "9999cc"
+              },
+              "player": {
+                "base": "006d0c",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "ffffff",
+                "sleeve": "c2ac67"
+              }
+            },
+            "home": {
+              "GK": {
+                "base": "fd9b90",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "141414",
+                "sleeve": "bafa88"
+              },
+              "player": {
+                "base": "ffffff",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "043a73",
+                "sleeve": "063f76",
+                "sleevelong": "ffffff"
+              }
+            }
+          },
           "funfacts": null,
           "sr_stats": null,
           "ai_preview": null,
-          "live_websocket": false
+          "live_websocket": true
         },
         "created_at": "2026-07-11T05:20:21.864277+03:00",
         "prob_home_win": 55.346442373934025,
@@ -20156,9 +19321,9 @@
         "away_xg_live": null,
         "penalty_shootout": null,
         "extra_time_score": null,
-        "is_local_derby": null,
+        "is_local_derby": false,
         "is_neutral_ground": null,
-        "travel_distance_km": null,
+        "travel_distance_km": 2163,
         "weather_code": 0,
         "wind_speed": 23.9,
         "temperature_c": 25,
@@ -20281,11 +19446,45 @@
           "built_year": 2013
         },
         "live_stats": null,
-        "jerseys": null,
+        "jerseys": {
+          "away": {
+            "GK": {
+              "base": "ffed3e",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "000000",
+              "sleeve": "9999cc"
+            },
+            "player": {
+              "base": "006d0c",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "ffffff",
+              "sleeve": "c2ac67"
+            }
+          },
+          "home": {
+            "GK": {
+              "base": "fd9b90",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "141414",
+              "sleeve": "bafa88"
+            },
+            "player": {
+              "base": "ffffff",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "043a73",
+              "sleeve": "063f76",
+              "sleevelong": "ffffff"
+            }
+          }
+        },
         "funfacts": null,
         "sr_stats": null,
         "ai_preview": null,
-        "live_websocket": false,
+        "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-07-15",
           "matches_played": 5,
@@ -20620,9 +19819,9 @@
           "away_xg_live": null,
           "penalty_shootout": null,
           "extra_time_score": null,
-          "is_local_derby": null,
+          "is_local_derby": false,
           "is_neutral_ground": null,
-          "travel_distance_km": null,
+          "travel_distance_km": 339,
           "weather_code": 0,
           "wind_speed": 2,
           "temperature_c": 21,
@@ -20748,11 +19947,47 @@
           "momentum": null,
           "xg_per_minute": null,
           "average_positions": null,
-          "jerseys": null,
+          "jerseys": {
+            "away": {
+              "GK": {
+                "base": "6700bc",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "ffffff",
+                "sleeve": "202020"
+              },
+              "player": {
+                "base": "fcfcfc",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "f50000",
+                "sleeve": "ff0000",
+                "sleevelong": "ffffff"
+              }
+            },
+            "home": {
+              "GK": {
+                "base": "8e051d",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "070707",
+                "sleeve": "8e051d"
+              },
+              "player": {
+                "base": "6e202e",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "ffffff",
+                "sleeve": "ffffff",
+                "stripes": "1e433a",
+                "sleevelong": "6e202e"
+              }
+            }
+          },
           "funfacts": null,
           "sr_stats": null,
           "ai_preview": null,
-          "live_websocket": false
+          "live_websocket": true
         },
         "created_at": "2026-06-02T13:54:47.311881+03:00",
         "prob_home_win": 31.710507935888067,
@@ -20861,9 +20096,9 @@
         "away_xg_live": null,
         "penalty_shootout": null,
         "extra_time_score": null,
-        "is_local_derby": null,
+        "is_local_derby": false,
         "is_neutral_ground": null,
-        "travel_distance_km": null,
+        "travel_distance_km": 339,
         "weather_code": 0,
         "wind_speed": 2,
         "temperature_c": 21,
@@ -20983,11 +20218,47 @@
           "built_year": 1950
         },
         "live_stats": null,
-        "jerseys": null,
+        "jerseys": {
+          "away": {
+            "GK": {
+              "base": "6700bc",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "ffffff",
+              "sleeve": "202020"
+            },
+            "player": {
+              "base": "fcfcfc",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "f50000",
+              "sleeve": "ff0000",
+              "sleevelong": "ffffff"
+            }
+          },
+          "home": {
+            "GK": {
+              "base": "8e051d",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "070707",
+              "sleeve": "8e051d"
+            },
+            "player": {
+              "base": "6e202e",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "ffffff",
+              "sleeve": "ffffff",
+              "stripes": "1e433a",
+              "sleevelong": "6e202e"
+            }
+          }
+        },
         "funfacts": null,
         "sr_stats": null,
         "ai_preview": null,
-        "live_websocket": false,
+        "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-07-15",
           "matches_played": 5,
@@ -21384,7 +20655,7 @@
           "away_xg_live": null,
           "penalty_shootout": null,
           "extra_time_score": null,
-          "is_local_derby": null,
+          "is_local_derby": false,
           "is_neutral_ground": null,
           "travel_distance_km": null,
           "weather_code": 0,
@@ -21494,11 +20765,47 @@
           "momentum": null,
           "xg_per_minute": null,
           "average_positions": null,
-          "jerseys": null,
+          "jerseys": {
+            "away": {
+              "GK": {
+                "base": "f2e407",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "ffffff",
+                "sleeve": "010033"
+              },
+              "player": {
+                "base": "b8edff",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "ffffff",
+                "sleeve": "ffffff",
+                "stripes": "000000",
+                "sleevelong": "b8edff"
+              }
+            },
+            "home": {
+              "GK": {
+                "base": "12409e",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "ffffff",
+                "sleeve": "e3b458"
+              },
+              "player": {
+                "base": "ffff00",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "076450",
+                "sleeve": "076450",
+                "sleevelong": "ffff00"
+              }
+            }
+          },
           "funfacts": null,
           "sr_stats": null,
           "ai_preview": null,
-          "live_websocket": false
+          "live_websocket": true
         },
         "created_at": "2026-06-02T13:54:49.667711+03:00",
         "prob_home_win": 55.346442373934025,
@@ -21607,7 +20914,7 @@
         "away_xg_live": null,
         "penalty_shootout": null,
         "extra_time_score": null,
-        "is_local_derby": null,
+        "is_local_derby": false,
         "is_neutral_ground": null,
         "travel_distance_km": null,
         "weather_code": 0,
@@ -21711,11 +21018,47 @@
           "built_year": null
         },
         "live_stats": null,
-        "jerseys": null,
+        "jerseys": {
+          "away": {
+            "GK": {
+              "base": "f2e407",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "ffffff",
+              "sleeve": "010033"
+            },
+            "player": {
+              "base": "b8edff",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "ffffff",
+              "sleeve": "ffffff",
+              "stripes": "000000",
+              "sleevelong": "b8edff"
+            }
+          },
+          "home": {
+            "GK": {
+              "base": "12409e",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "ffffff",
+              "sleeve": "e3b458"
+            },
+            "player": {
+              "base": "ffff00",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "076450",
+              "sleeve": "076450",
+              "sleevelong": "ffff00"
+            }
+          }
+        },
         "funfacts": null,
         "sr_stats": null,
         "ai_preview": null,
-        "live_websocket": false,
+        "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-07-15",
           "matches_played": 5,
@@ -22057,9 +21400,9 @@
           "away_xg_live": null,
           "penalty_shootout": null,
           "extra_time_score": null,
-          "is_local_derby": null,
+          "is_local_derby": false,
           "is_neutral_ground": null,
-          "travel_distance_km": null,
+          "travel_distance_km": 2125,
           "weather_code": null,
           "wind_speed": null,
           "temperature_c": null,
@@ -22101,8 +21444,8 @@
             "city": "Kansas City",
             "country": "USA",
             "capacity": 11500,
-            "latitude": null,
-            "longitude": null,
+            "latitude": 39.120333,
+            "longitude": -94.56625,
             "pitch_x": null,
             "pitch_y": null,
             "built_year": null
@@ -22114,11 +21457,44 @@
           "momentum": null,
           "xg_per_minute": null,
           "average_positions": null,
-          "jerseys": null,
+          "jerseys": {
+            "away": {
+              "GK": {
+                "base": "00d584",
+                "real": true,
+                "type": "long_sleeves",
+                "number": "ffffff",
+                "sleeve": "080808"
+              },
+              "player": {
+                "base": "1407b8",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "f8f6f6",
+                "sleeve": "00f1ff"
+              }
+            },
+            "home": {
+              "GK": {
+                "base": "d4b5cf",
+                "real": true,
+                "type": "long_sleeves",
+                "number": "050505",
+                "sleeve": "c193b1"
+              },
+              "player": {
+                "base": "D8D8D8",
+                "real": false,
+                "type": "short_sleeves",
+                "number": "000000",
+                "sleeve": "D8D8D8"
+              }
+            }
+          },
           "funfacts": null,
           "sr_stats": null,
           "ai_preview": null,
-          "live_websocket": false
+          "live_websocket": true
         },
         "created_at": "2026-07-13T05:20:15.191031+03:00",
         "prob_home_win": 57.21373663477488,
@@ -22215,9 +21591,9 @@
         "away_xg_live": null,
         "penalty_shootout": null,
         "extra_time_score": null,
-        "is_local_derby": null,
+        "is_local_derby": false,
         "is_neutral_ground": null,
-        "travel_distance_km": null,
+        "travel_distance_km": 2125,
         "weather_code": null,
         "wind_speed": null,
         "temperature_c": null,
@@ -22259,18 +21635,51 @@
           "city": "Kansas City",
           "country": "USA",
           "capacity": 11500,
-          "latitude": null,
-          "longitude": null,
+          "latitude": 39.120333,
+          "longitude": -94.56625,
           "pitch_x": null,
           "pitch_y": null,
           "built_year": null
         },
         "live_stats": null,
-        "jerseys": null,
+        "jerseys": {
+          "away": {
+            "GK": {
+              "base": "00d584",
+              "real": true,
+              "type": "long_sleeves",
+              "number": "ffffff",
+              "sleeve": "080808"
+            },
+            "player": {
+              "base": "1407b8",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "f8f6f6",
+              "sleeve": "00f1ff"
+            }
+          },
+          "home": {
+            "GK": {
+              "base": "d4b5cf",
+              "real": true,
+              "type": "long_sleeves",
+              "number": "050505",
+              "sleeve": "c193b1"
+            },
+            "player": {
+              "base": "D8D8D8",
+              "real": false,
+              "type": "short_sleeves",
+              "number": "000000",
+              "sleeve": "D8D8D8"
+            }
+          }
+        },
         "funfacts": null,
         "sr_stats": null,
         "ai_preview": null,
-        "live_websocket": false,
+        "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-07-15",
           "matches_played": 5,
@@ -23802,9 +23211,9 @@
           "away_xg_live": null,
           "penalty_shootout": null,
           "extra_time_score": null,
-          "is_local_derby": null,
+          "is_local_derby": false,
           "is_neutral_ground": null,
-          "travel_distance_km": null,
+          "travel_distance_km": 418,
           "weather_code": 0,
           "wind_speed": 7.5,
           "temperature_c": 17,
@@ -23869,11 +23278,47 @@
           "momentum": null,
           "xg_per_minute": null,
           "average_positions": null,
-          "jerseys": null,
+          "jerseys": {
+            "away": {
+              "GK": {
+                "base": "ff80dc",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "ffffff",
+                "sleeve": "ff3300"
+              },
+              "player": {
+                "base": "ff0000",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "ffffff",
+                "sleeve": "ffffff",
+                "sleevelong": "000000"
+              }
+            },
+            "home": {
+              "GK": {
+                "base": "af498b",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "ffffff",
+                "sleeve": "5d5d5d"
+              },
+              "player": {
+                "base": "ffffff",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "000000",
+                "sleeve": "ffffff",
+                "stripes": "63aee3",
+                "sleevelong": "63aee3"
+              }
+            }
+          },
           "funfacts": null,
           "sr_stats": null,
           "ai_preview": null,
-          "live_websocket": false
+          "live_websocket": true
         },
         "created_at": "2026-06-02T13:54:41.041909+03:00",
         "prob_home_win": 39.64157337312309,
@@ -23982,9 +23427,9 @@
         "away_xg_live": null,
         "penalty_shootout": null,
         "extra_time_score": null,
-        "is_local_derby": null,
+        "is_local_derby": false,
         "is_neutral_ground": null,
-        "travel_distance_km": null,
+        "travel_distance_km": 418,
         "weather_code": 0,
         "wind_speed": 7.5,
         "temperature_c": 17,
@@ -24043,11 +23488,47 @@
           "built_year": null
         },
         "live_stats": null,
-        "jerseys": null,
+        "jerseys": {
+          "away": {
+            "GK": {
+              "base": "ff80dc",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "ffffff",
+              "sleeve": "ff3300"
+            },
+            "player": {
+              "base": "ff0000",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "ffffff",
+              "sleeve": "ffffff",
+              "sleevelong": "000000"
+            }
+          },
+          "home": {
+            "GK": {
+              "base": "af498b",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "ffffff",
+              "sleeve": "5d5d5d"
+            },
+            "player": {
+              "base": "ffffff",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "000000",
+              "sleeve": "ffffff",
+              "stripes": "63aee3",
+              "sleevelong": "63aee3"
+            }
+          }
+        },
         "funfacts": null,
         "sr_stats": null,
         "ai_preview": null,
-        "live_websocket": false,
+        "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-07-15",
           "matches_played": 5,
