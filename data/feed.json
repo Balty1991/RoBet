@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-17T18:34:43.506Z",
+  "generated_at": "2026-07-17T20:09:09.748Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -90,7 +90,7 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.95,
+          "odds_home": 1.96,
           "odds_draw": 3.23,
           "odds_away": 3.94,
           "odds_over_15": 1.37,
@@ -336,7 +336,7 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.95,
+        "odds_home": 1.96,
         "odds_draw": 3.23,
         "odds_away": 3.94,
         "odds_over_15": 1.37,
@@ -783,14 +783,14 @@
           "period": "",
           "odds_home": 2.47,
           "odds_draw": 2.92,
-          "odds_away": 3.03,
-          "odds_over_15": 1.46,
-          "odds_over_25": 2.43,
-          "odds_over_35": 4.54,
-          "odds_under_15": 2.57,
-          "odds_under_25": 1.51,
+          "odds_away": 3.05,
+          "odds_over_15": 1.47,
+          "odds_over_25": 2.45,
+          "odds_over_35": 4.62,
+          "odds_under_15": 2.55,
+          "odds_under_25": 1.5,
           "odds_under_35": 1.17,
-          "odds_btts_yes": 2.02,
+          "odds_btts_yes": 2.03,
           "odds_btts_no": 1.72,
           "actual_home_xg": null,
           "actual_away_xg": null,
@@ -1021,14 +1021,14 @@
         "period": "",
         "odds_home": 2.47,
         "odds_draw": 2.92,
-        "odds_away": 3.03,
-        "odds_over_15": 1.46,
-        "odds_over_25": 2.43,
-        "odds_over_35": 4.54,
-        "odds_under_15": 2.57,
-        "odds_under_25": 1.51,
+        "odds_away": 3.05,
+        "odds_over_15": 1.47,
+        "odds_over_25": 2.45,
+        "odds_over_35": 4.62,
+        "odds_under_15": 2.55,
+        "odds_under_25": 1.5,
         "odds_under_35": 1.17,
-        "odds_btts_yes": 2.02,
+        "odds_btts_yes": 2.03,
         "odds_btts_no": 1.72,
         "actual_home_xg": null,
         "actual_away_xg": null,
@@ -1484,12 +1484,12 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.03,
-          "odds_draw": 2.86,
+          "odds_home": 2.02,
+          "odds_draw": 2.87,
           "odds_away": 4.3,
           "odds_over_15": 1.68,
           "odds_over_25": 3.06,
-          "odds_over_35": 6.5,
+          "odds_over_35": 6.49,
           "odds_under_15": 2.1,
           "odds_under_25": 1.34,
           "odds_under_35": 1.09,
@@ -1722,12 +1722,12 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.03,
-        "odds_draw": 2.86,
+        "odds_home": 2.02,
+        "odds_draw": 2.87,
         "odds_away": 4.3,
         "odds_over_15": 1.68,
         "odds_over_25": 3.06,
-        "odds_over_35": 6.5,
+        "odds_over_35": 6.49,
         "odds_under_15": 2.1,
         "odds_under_25": 1.34,
         "odds_under_35": 1.09,
@@ -1981,7 +1981,32 @@
           ]
         },
         "lineups": null,
-        "social": []
+        "social": [
+          {
+            "id": 619387,
+            "type": "tweet",
+            "url": "https://x.com/ECJuventude/status/2078207570590711942",
+            "title": "",
+            "text": "O Alfredo Jaconi é espetacular 🏟️\n\n📷 Fernando Alves/ECJ\n\n#DiaDeJu #JUVxCUI",
+            "thumbnail": "https://pbs.twimg.com/media/HNdGv-VWUAAFEoL.jpg",
+            "account_handle": "ECJuventude",
+            "account_name": "E.C. Juventude",
+            "account_verified": true,
+            "published_at": "2026-07-17T19:57:50+00:00"
+          },
+          {
+            "id": 619388,
+            "type": "tweet",
+            "url": "https://x.com/ECJuventude/status/2078198758039249206",
+            "title": "",
+            "text": "É dia de Juventude pelo @BrasileiraoB no Alfredo Jaconi 🏟️🇳🇬\n\n📷 Fernando Alves/ECJ \n\n#Juventude #JUVxCUI",
+            "thumbnail": "https://pbs.twimg.com/media/HNc-wD9XwAA9Csm.jpg",
+            "account_handle": "ECJuventude",
+            "account_name": "E.C. Juventude",
+            "account_verified": true,
+            "published_at": "2026-07-17T19:22:49+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
@@ -2231,15 +2256,15 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.42,
-          "odds_draw": 4.76,
-          "odds_away": 6.91,
+          "odds_home": 1.41,
+          "odds_draw": 4.75,
+          "odds_away": 7.01,
           "odds_over_15": 1.18,
-          "odds_over_25": 1.61,
+          "odds_over_25": 1.6,
           "odds_over_35": 2.51,
-          "odds_under_15": 4.46,
+          "odds_under_15": 4.47,
           "odds_under_25": 2.26,
-          "odds_under_35": 1.49,
+          "odds_under_35": 1.5,
           "odds_btts_yes": 1.81,
           "odds_btts_no": 1.91,
           "actual_home_xg": null,
@@ -2286,13 +2311,13 @@
             "home": [
               {
                 "name": "Cristian Olivera",
-                "status": "injured",
+                "status": "doubtful",
                 "reason": "Sprained Ankle",
                 "expected_return": "2026-07-31"
               },
               {
                 "name": "Iago Borduchi",
-                "status": "injured",
+                "status": "doubtful",
                 "reason": "Thigh Injury",
                 "expected_return": "2026-07-31"
               },
@@ -2345,12 +2370,6 @@
                 "status": "injured",
                 "reason": "Unknown",
                 "expected_return": "2026-08-01"
-              },
-              {
-                "name": "Maurício Garcez",
-                "status": "injured",
-                "reason": "Leg Injury",
-                "expected_return": null
               },
               {
                 "name": "Rafael Carvalheira",
@@ -2543,15 +2562,15 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.42,
-        "odds_draw": 4.76,
-        "odds_away": 6.91,
+        "odds_home": 1.41,
+        "odds_draw": 4.75,
+        "odds_away": 7.01,
         "odds_over_15": 1.18,
-        "odds_over_25": 1.61,
+        "odds_over_25": 1.6,
         "odds_over_35": 2.51,
-        "odds_under_15": 4.46,
+        "odds_under_15": 4.47,
         "odds_under_25": 2.26,
-        "odds_under_35": 1.49,
+        "odds_under_35": 1.5,
         "odds_btts_yes": 1.81,
         "odds_btts_no": 1.91,
         "actual_home_xg": null,
@@ -2598,13 +2617,13 @@
           "home": [
             {
               "name": "Cristian Olivera",
-              "status": "injured",
+              "status": "doubtful",
               "reason": "Sprained Ankle",
               "expected_return": "2026-07-31"
             },
             {
               "name": "Iago Borduchi",
-              "status": "injured",
+              "status": "doubtful",
               "reason": "Thigh Injury",
               "expected_return": "2026-07-31"
             },
@@ -2657,12 +2676,6 @@
               "status": "injured",
               "reason": "Unknown",
               "expected_return": "2026-08-01"
-            },
-            {
-              "name": "Maurício Garcez",
-              "status": "injured",
-              "reason": "Leg Injury",
-              "expected_return": null
             },
             {
               "name": "Rafael Carvalheira",
@@ -2870,7 +2883,32 @@
           ]
         },
         "lineups": null,
-        "social": []
+        "social": [
+          {
+            "id": 619253,
+            "type": "tweet",
+            "url": "https://x.com/ecbahia/status/2078194512707424587",
+            "title": "",
+            "text": "A @ingresse agora veste o Esquadrão.\n\nNova parceira oficial do Clube, a marca estará presente nos meiões dos uniformes de jogo do Bahia. Saiba mais sobre essa parceria ➡️  #BBMP",
+            "thumbnail": "https://pbs.twimg.com/media/HNc65AzWYAAghHj.jpg",
+            "account_handle": "ecbahia",
+            "account_name": "Esporte Clube Bahia",
+            "account_verified": true,
+            "published_at": "2026-07-17T19:05:57+00:00"
+          },
+          {
+            "id": 619254,
+            "type": "tweet",
+            "url": "https://x.com/ecbahia/status/2078160094269788422",
+            "title": "",
+            "text": "💙❤️🤍 Tem o Esquadrão marcado na pele? 😍 Sua tatuagem pode valer uma camisa oficial autografada ➕ dois ingressos para o jogo de hoje à noite contra a Chapecoense! \n\n😎 É a promoção TRICOLOR DE CORPO E ALMA, em parceria com nossa patrocinadora Esportiva. Para concorrer, você",
+            "thumbnail": "https://pbs.twimg.com/media/HNcbltqXYAAulUF.jpg",
+            "account_handle": "ecbahia",
+            "account_name": "Esporte Clube Bahia",
+            "account_verified": true,
+            "published_at": "2026-07-17T16:49:11+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
@@ -3075,12 +3113,12 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.83,
-          "odds_draw": 3.45,
-          "odds_away": 4.4,
+          "odds_home": 1.81,
+          "odds_draw": 3.46,
+          "odds_away": 4.49,
           "odds_over_15": 1.32,
-          "odds_over_25": 2.03,
-          "odds_over_35": 3.53,
+          "odds_over_25": 2.02,
+          "odds_over_35": 3.52,
           "odds_under_15": 3.19,
           "odds_under_25": 1.76,
           "odds_under_35": 1.27,
@@ -3149,6 +3187,18 @@
                 "expected_return": "2026-07-20"
               },
               {
+                "name": "David Terans",
+                "status": "injured",
+                "reason": "",
+                "expected_return": null
+              },
+              {
+                "name": "Ganso",
+                "status": "injured",
+                "reason": "",
+                "expected_return": null
+              },
+              {
                 "name": "Matheus Reis",
                 "status": "injured",
                 "reason": "",
@@ -3159,6 +3209,12 @@
                 "status": "suspended",
                 "reason": "yellow_card_accumulation_suspension",
                 "expected_return": "2026-07-18"
+              },
+              {
+                "name": "Thiago Silva",
+                "status": "injured",
+                "reason": "",
+                "expected_return": null
               }
             ],
             "away": [
@@ -3379,12 +3435,12 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.83,
-        "odds_draw": 3.45,
-        "odds_away": 4.4,
+        "odds_home": 1.81,
+        "odds_draw": 3.46,
+        "odds_away": 4.49,
         "odds_over_15": 1.32,
-        "odds_over_25": 2.03,
-        "odds_over_35": 3.53,
+        "odds_over_25": 2.02,
+        "odds_over_35": 3.52,
         "odds_under_15": 3.19,
         "odds_under_25": 1.76,
         "odds_under_35": 1.27,
@@ -3453,6 +3509,18 @@
               "expected_return": "2026-07-20"
             },
             {
+              "name": "David Terans",
+              "status": "injured",
+              "reason": "",
+              "expected_return": null
+            },
+            {
+              "name": "Ganso",
+              "status": "injured",
+              "reason": "",
+              "expected_return": null
+            },
+            {
               "name": "Matheus Reis",
               "status": "injured",
               "reason": "",
@@ -3463,6 +3531,12 @@
               "status": "suspended",
               "reason": "yellow_card_accumulation_suspension",
               "expected_return": "2026-07-18"
+            },
+            {
+              "name": "Thiago Silva",
+              "status": "injured",
+              "reason": "",
+              "expected_return": null
             }
           ],
           "away": [
@@ -3722,7 +3796,56 @@
           ]
         },
         "lineups": null,
-        "social": []
+        "social": [
+          {
+            "id": 619350,
+            "type": "tweet",
+            "url": "https://x.com/FluminenseFC/status/2078200565356515576",
+            "title": "",
+            "text": "FINALMENTE É #DIADEFLU PELO BRASILEIRÃO NO MARACA! \n\nDOIS MESES DEPOIS, NOS REENCONTRAMOS PRA CONTINUAR NA LUTA PELO PENTA!\n\nCompre seu ingresso em !",
+            "thumbnail": "https://pbs.twimg.com/media/HNc0DLHWcAAE2wb.jpg",
+            "account_handle": "FluminenseFC",
+            "account_name": "Fluminense F.C.",
+            "account_verified": true,
+            "published_at": "2026-07-17T19:30:00+00:00"
+          },
+          {
+            "id": 619351,
+            "type": "tweet",
+            "url": "https://x.com/FluminenseFC/status/2078193723943366905",
+            "title": "",
+            "text": "\"Nós somos do Rio de Janeiro\" é refrão da torcida, mas é nome da mais nova série original da #FluTV.\n\nEm cada episódio, um território carioca ocupado pelo amor ao Tricolor.\n\n“Nós Somos do Rio de Janeiro” vai mostrar o tamanho da torcida do Fluminense espalhada por territórios",
+            "thumbnail": "https://pbs.twimg.com/amplify_video_thumb/2078193020839534592/img/sjDAlZl7p44gTEz6.jpg",
+            "account_handle": "FluminenseFC",
+            "account_name": "Fluminense F.C.",
+            "account_verified": true,
+            "published_at": "2026-07-17T19:02:49+00:00"
+          },
+          {
+            "id": 619352,
+            "type": "tweet",
+            "url": "https://x.com/FluminenseFC/status/2078189067448062127",
+            "title": "",
+            "text": "QUASE TUDO PRONTO! ⏳🇭🇺\n\nA #FluFest 2026 vem aí neste fim de semana para comemorar o aniversário do grande amor das nossas vidas!\n\nSeis shows, transmissão da final e muito mais. Ingressos em !",
+            "thumbnail": "https://pbs.twimg.com/media/HNc17qoWsAELJgC.jpg",
+            "account_handle": "FluminenseFC",
+            "account_name": "Fluminense F.C.",
+            "account_verified": true,
+            "published_at": "2026-07-17T18:44:19+00:00"
+          },
+          {
+            "id": 619353,
+            "type": "tweet",
+            "url": "https://x.com/FluminenseFC/status/2078178066782695866",
+            "title": "",
+            "text": "Os relacionados do #TimeDeGuerreiros para o retorno do @Brasileirao! VAMOS, FLUMINENSE! 🇭🇺",
+            "thumbnail": "https://pbs.twimg.com/media/HNcr732XMAAkH6A.jpg",
+            "account_handle": "FluminenseFC",
+            "account_name": "Fluminense F.C.",
+            "account_verified": true,
+            "published_at": "2026-07-17T18:00:36+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
@@ -3966,15 +4089,15 @@
           "current_minute": null,
           "period": "",
           "odds_home": 1.92,
-          "odds_draw": 3.38,
-          "odds_away": 4.06,
-          "odds_over_15": 1.34,
-          "odds_over_25": 2.07,
+          "odds_draw": 3.33,
+          "odds_away": 4.09,
+          "odds_over_15": 1.35,
+          "odds_over_25": 2.08,
           "odds_over_35": 3.7,
-          "odds_under_15": 3.08,
+          "odds_under_15": 3.07,
           "odds_under_25": 1.71,
           "odds_under_35": 1.25,
-          "odds_btts_yes": 1.9,
+          "odds_btts_yes": 1.89,
           "odds_btts_no": 1.83,
           "actual_home_xg": null,
           "actual_away_xg": null,
@@ -4051,6 +4174,12 @@
                 "expected_return": null
               },
               {
+                "name": "Tiquinho Soares",
+                "status": "injured",
+                "reason": "",
+                "expected_return": null
+              },
+              {
                 "name": "Willian Machado",
                 "status": "suspended",
                 "reason": "yellow_card_accumulation_suspension",
@@ -4058,6 +4187,12 @@
               }
             ],
             "away": [
+              {
+                "name": "Fabián Balbuena",
+                "status": "injured",
+                "reason": "",
+                "expected_return": null
+              },
               {
                 "name": "Gabriel Grando",
                 "status": "injured",
@@ -4081,6 +4216,12 @@
                 "status": "injured",
                 "reason": "Ankle Injury",
                 "expected_return": "2026-08-21"
+              },
+              {
+                "name": "Matheus Nascimento",
+                "status": "injured",
+                "reason": "",
+                "expected_return": null
               },
               {
                 "name": "Thiago Beltrame",
@@ -4258,15 +4399,15 @@
         "current_minute": null,
         "period": "",
         "odds_home": 1.92,
-        "odds_draw": 3.38,
-        "odds_away": 4.06,
-        "odds_over_15": 1.34,
-        "odds_over_25": 2.07,
+        "odds_draw": 3.33,
+        "odds_away": 4.09,
+        "odds_over_15": 1.35,
+        "odds_over_25": 2.08,
         "odds_over_35": 3.7,
-        "odds_under_15": 3.08,
+        "odds_under_15": 3.07,
         "odds_under_25": 1.71,
         "odds_under_35": 1.25,
-        "odds_btts_yes": 1.9,
+        "odds_btts_yes": 1.89,
         "odds_btts_no": 1.83,
         "actual_home_xg": null,
         "actual_away_xg": null,
@@ -4343,6 +4484,12 @@
               "expected_return": null
             },
             {
+              "name": "Tiquinho Soares",
+              "status": "injured",
+              "reason": "",
+              "expected_return": null
+            },
+            {
               "name": "Willian Machado",
               "status": "suspended",
               "reason": "yellow_card_accumulation_suspension",
@@ -4350,6 +4497,12 @@
             }
           ],
           "away": [
+            {
+              "name": "Fabián Balbuena",
+              "status": "injured",
+              "reason": "",
+              "expected_return": null
+            },
             {
               "name": "Gabriel Grando",
               "status": "injured",
@@ -4373,6 +4526,12 @@
               "status": "injured",
               "reason": "Ankle Injury",
               "expected_return": "2026-08-21"
+            },
+            {
+              "name": "Matheus Nascimento",
+              "status": "injured",
+              "reason": "",
+              "expected_return": null
             },
             {
               "name": "Thiago Beltrame",
@@ -4540,7 +4699,56 @@
           ]
         },
         "lineups": null,
-        "social": []
+        "social": [
+          {
+            "id": 619375,
+            "type": "tweet",
+            "url": "https://x.com/Gremio/status/2078201070950519122",
+            "title": "",
+            "text": "O GRÊMIO É A NOSSA VIDA! 🇪🇪💙 Poder contribuir todos os dias com o Clube que amamos é uma honra sem tamanho. Muitos de nós, inclusive, carregam na pele esta paixão pelas três cores. Neste Dia Mundial da Tatuagem, a gente lembra de quem faz o Grêmio acontecer fora das quatro",
+            "thumbnail": "https://pbs.twimg.com/media/HNdA2ygW8AArzY8.jpg",
+            "account_handle": "Gremio",
+            "account_name": "Grêmio FBPA",
+            "account_verified": true,
+            "published_at": "2026-07-17T19:32:01+00:00"
+          },
+          {
+            "id": 619376,
+            "type": "tweet",
+            "url": "https://x.com/Gremio/status/2078186517898686914",
+            "title": "",
+            "text": "GRÊMIO 🤝 HAITI 🇪🇪🇭🇹 O Tricolor oficializou uma parceria com a Fundação Matana para ampliar oportunidades à juventude haitiana por meio do futebol. O acordo prevê programas de formação, identificação e desenvolvimento de atletas, além de incentivar o crescimento pessoal,",
+            "thumbnail": "https://pbs.twimg.com/media/HNcznkzWsAATFy5.jpg",
+            "account_handle": "Gremio",
+            "account_name": "Grêmio FBPA",
+            "account_verified": true,
+            "published_at": "2026-07-17T18:34:11+00:00"
+          },
+          {
+            "id": 619377,
+            "type": "tweet",
+            "url": "https://x.com/Gremio/status/2078177942857826654",
+            "title": "",
+            "text": "VEM CORRER COM O TRICOLOR! 💪🏼🇪🇪 No dia 15 de novembro, temos um encontro marcado na Grêmio Run! Com percursos de 3 km, 5 km e 10 km, caminhada de 3 km e Corrida Kids para a gurizada, o evento passa por dentro da Arena e promete uma experiência inesquecível para toda a família.",
+            "thumbnail": "https://pbs.twimg.com/media/HNcr0hYXIAALKrE.jpg",
+            "account_handle": "Gremio",
+            "account_name": "Grêmio FBPA",
+            "account_verified": true,
+            "published_at": "2026-07-17T18:00:06+00:00"
+          },
+          {
+            "id": 619378,
+            "type": "tweet",
+            "url": "https://x.com/Gremio/status/2078163977108951254",
+            "title": "",
+            "text": "DIA DE SOL E TRICOLOR ☀️🇪🇪 Bora reiniciar a nossa caminhada no #Brasileirão2026 juntos!\n\n#MFCxGRE",
+            "thumbnail": "https://pbs.twimg.com/media/HNcfHjjXYAAbpuG.jpg",
+            "account_handle": "Gremio",
+            "account_name": "Grêmio FBPA",
+            "account_verified": true,
+            "published_at": "2026-07-17T17:04:37+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
@@ -4789,16 +4997,16 @@
           "current_minute": null,
           "period": "",
           "odds_home": 2.07,
-          "odds_draw": 3.11,
-          "odds_away": 3.72,
+          "odds_draw": 3.1,
+          "odds_away": 3.71,
           "odds_over_15": 1.36,
           "odds_over_25": 2.15,
-          "odds_over_35": 3.77,
-          "odds_under_15": 2.93,
-          "odds_under_25": 1.66,
+          "odds_over_35": 3.78,
+          "odds_under_15": 2.92,
+          "odds_under_25": 1.65,
           "odds_under_35": 1.23,
-          "odds_btts_yes": 1.87,
-          "odds_btts_no": 1.84,
+          "odds_btts_yes": 1.88,
+          "odds_btts_no": 1.83,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -5033,16 +5241,16 @@
         "current_minute": null,
         "period": "",
         "odds_home": 2.07,
-        "odds_draw": 3.11,
-        "odds_away": 3.72,
+        "odds_draw": 3.1,
+        "odds_away": 3.71,
         "odds_over_15": 1.36,
         "odds_over_25": 2.15,
-        "odds_over_35": 3.77,
-        "odds_under_15": 2.93,
-        "odds_under_25": 1.66,
+        "odds_over_35": 3.78,
+        "odds_under_15": 2.92,
+        "odds_under_25": 1.65,
         "odds_under_35": 1.23,
-        "odds_btts_yes": 1.87,
-        "odds_btts_no": 1.84,
+        "odds_btts_yes": 1.88,
+        "odds_btts_no": 1.83,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -5243,7 +5451,20 @@
         },
         "head_to_head": null,
         "lineups": null,
-        "social": []
+        "social": [
+          {
+            "id": 619354,
+            "type": "tweet",
+            "url": "https://x.com/FortalezaEC/status/2078183985297912153",
+            "title": "",
+            "text": "É dia de Leão em campo! 🦁\n\nÀs 21h, a bola vai rolar para Fortaleza vs Novorizontino, na Arena Castelão, em mais um duelo importante pelo Brasileirão Série B.\n\nPra cima!\n\n✅ Faça seu check-in: \n🎟️ Garanta seu ingresso: \n\n#FortalezaEC",
+            "thumbnail": "https://pbs.twimg.com/media/HNcxUP6XoAAoc9p.jpg",
+            "account_handle": "FortalezaEC",
+            "account_name": "Fortaleza Esporte Clube 🦁",
+            "account_verified": true,
+            "published_at": "2026-07-17T18:24:07+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
@@ -5475,17 +5696,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.97,
-          "odds_draw": 3.35,
+          "odds_home": 1.98,
+          "odds_draw": 3.34,
           "odds_away": 3.3,
-          "odds_over_15": 1.22,
-          "odds_over_25": 1.73,
-          "odds_over_35": 2.75,
-          "odds_under_15": 3.77,
-          "odds_under_25": 1.98,
-          "odds_under_35": 1.38,
-          "odds_btts_yes": 1.61,
-          "odds_btts_no": 2.13,
+          "odds_over_15": 1.21,
+          "odds_over_25": 1.71,
+          "odds_over_35": 2.71,
+          "odds_under_15": 3.81,
+          "odds_under_25": 2,
+          "odds_under_35": 1.39,
+          "odds_btts_yes": 1.6,
+          "odds_btts_no": 2.15,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -5682,17 +5903,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.97,
-        "odds_draw": 3.35,
+        "odds_home": 1.98,
+        "odds_draw": 3.34,
         "odds_away": 3.3,
-        "odds_over_15": 1.22,
-        "odds_over_25": 1.73,
-        "odds_over_35": 2.75,
-        "odds_under_15": 3.77,
-        "odds_under_25": 1.98,
-        "odds_under_35": 1.38,
-        "odds_btts_yes": 1.61,
-        "odds_btts_no": 2.13,
+        "odds_over_15": 1.21,
+        "odds_over_25": 1.71,
+        "odds_over_35": 2.71,
+        "odds_under_15": 3.81,
+        "odds_under_25": 2,
+        "odds_under_35": 1.39,
+        "odds_btts_yes": 1.6,
+        "odds_btts_no": 2.15,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -6104,17 +6325,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.52,
-          "odds_draw": 3.02,
-          "odds_away": 2.87,
+          "odds_home": 2.68,
+          "odds_draw": 3.01,
+          "odds_away": 2.7,
           "odds_over_15": 1.42,
           "odds_over_25": 2.32,
-          "odds_over_35": 4.3,
+          "odds_over_35": 4.29,
           "odds_under_15": 2.69,
           "odds_under_25": 1.57,
           "odds_under_35": 1.19,
-          "odds_btts_yes": 1.95,
-          "odds_btts_no": 1.77,
+          "odds_btts_yes": 1.94,
+          "odds_btts_no": 1.78,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -6347,17 +6568,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.52,
-        "odds_draw": 3.02,
-        "odds_away": 2.87,
+        "odds_home": 2.68,
+        "odds_draw": 3.01,
+        "odds_away": 2.7,
         "odds_over_15": 1.42,
         "odds_over_25": 2.32,
-        "odds_over_35": 4.3,
+        "odds_over_35": 4.29,
         "odds_under_15": 2.69,
         "odds_under_25": 1.57,
         "odds_under_35": 1.19,
-        "odds_btts_yes": 1.95,
-        "odds_btts_no": 1.77,
+        "odds_btts_yes": 1.94,
+        "odds_btts_no": 1.78,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -6800,16 +7021,16 @@
           "current_minute": null,
           "period": "",
           "odds_home": 1.54,
-          "odds_draw": 4.33,
-          "odds_away": 5.54,
+          "odds_draw": 4.34,
+          "odds_away": 5.47,
           "odds_over_15": 1.2,
-          "odds_over_25": 1.65,
-          "odds_over_35": 2.61,
-          "odds_under_15": 4.22,
-          "odds_under_25": 2.16,
-          "odds_under_35": 1.45,
-          "odds_btts_yes": 1.76,
-          "odds_btts_no": 1.98,
+          "odds_over_25": 1.64,
+          "odds_over_35": 2.58,
+          "odds_under_15": 4.25,
+          "odds_under_25": 2.19,
+          "odds_under_35": 1.46,
+          "odds_btts_yes": 1.74,
+          "odds_btts_no": 2,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -7060,16 +7281,16 @@
         "current_minute": null,
         "period": "",
         "odds_home": 1.54,
-        "odds_draw": 4.33,
-        "odds_away": 5.54,
+        "odds_draw": 4.34,
+        "odds_away": 5.47,
         "odds_over_15": 1.2,
-        "odds_over_25": 1.65,
-        "odds_over_35": 2.61,
-        "odds_under_15": 4.22,
-        "odds_under_25": 2.16,
-        "odds_under_35": 1.45,
-        "odds_btts_yes": 1.76,
-        "odds_btts_no": 1.98,
+        "odds_over_25": 1.64,
+        "odds_over_35": 2.58,
+        "odds_under_15": 4.25,
+        "odds_under_25": 2.19,
+        "odds_under_35": 1.46,
+        "odds_btts_yes": 1.74,
+        "odds_btts_no": 2,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -7557,9 +7778,9 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 3.96,
-          "odds_draw": 3.57,
-          "odds_away": 1.85,
+          "odds_home": 3.97,
+          "odds_draw": 3.58,
+          "odds_away": 1.84,
           "odds_over_15": 1.24,
           "odds_over_25": 1.77,
           "odds_over_35": 2.88,
@@ -7567,7 +7788,7 @@
           "odds_under_25": 1.97,
           "odds_under_35": 1.38,
           "odds_btts_yes": 1.68,
-          "odds_btts_no": 2.08,
+          "odds_btts_no": 2.07,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -7805,9 +8026,9 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 3.96,
-        "odds_draw": 3.57,
-        "odds_away": 1.85,
+        "odds_home": 3.97,
+        "odds_draw": 3.58,
+        "odds_away": 1.84,
         "odds_over_15": 1.24,
         "odds_over_25": 1.77,
         "odds_over_35": 2.88,
@@ -7815,7 +8036,7 @@
         "odds_under_25": 1.97,
         "odds_under_35": 1.38,
         "odds_btts_yes": 1.68,
-        "odds_btts_no": 2.08,
+        "odds_btts_no": 2.07,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -8246,17 +8467,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.07,
-          "odds_draw": 3.36,
-          "odds_away": 3.37,
+          "odds_home": 2.1,
+          "odds_draw": 3.33,
+          "odds_away": 3.33,
           "odds_over_15": 1.26,
           "odds_over_25": 1.85,
-          "odds_over_35": 3.06,
-          "odds_under_15": 3.55,
-          "odds_under_25": 1.9,
-          "odds_under_35": 1.34,
-          "odds_btts_yes": 1.69,
-          "odds_btts_no": 2.06,
+          "odds_over_35": 3.08,
+          "odds_under_15": 3.53,
+          "odds_under_25": 1.89,
+          "odds_under_35": 1.33,
+          "odds_btts_yes": 1.7,
+          "odds_btts_no": 2.05,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -8468,17 +8689,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.07,
-        "odds_draw": 3.36,
-        "odds_away": 3.37,
+        "odds_home": 2.1,
+        "odds_draw": 3.33,
+        "odds_away": 3.33,
         "odds_over_15": 1.26,
         "odds_over_25": 1.85,
-        "odds_over_35": 3.06,
-        "odds_under_15": 3.55,
-        "odds_under_25": 1.9,
-        "odds_under_35": 1.34,
-        "odds_btts_yes": 1.69,
-        "odds_btts_no": 2.06,
+        "odds_over_35": 3.08,
+        "odds_under_15": 3.53,
+        "odds_under_25": 1.89,
+        "odds_under_35": 1.33,
+        "odds_btts_yes": 1.7,
+        "odds_btts_no": 2.05,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -8920,16 +9141,16 @@
           "current_minute": null,
           "period": "",
           "odds_home": 2.95,
-          "odds_draw": 3.67,
-          "odds_away": 2.2,
+          "odds_draw": 3.68,
+          "odds_away": 2.19,
           "odds_over_15": 1.16,
-          "odds_over_25": 1.55,
-          "odds_over_35": 2.35,
-          "odds_under_15": 4.75,
-          "odds_under_25": 2.35,
-          "odds_under_35": 1.55,
+          "odds_over_25": 1.54,
+          "odds_over_35": 2.33,
+          "odds_under_15": 4.77,
+          "odds_under_25": 2.36,
+          "odds_under_35": 1.56,
           "odds_btts_yes": 1.48,
-          "odds_btts_no": 2.5,
+          "odds_btts_no": 2.51,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -9203,16 +9424,16 @@
         "current_minute": null,
         "period": "",
         "odds_home": 2.95,
-        "odds_draw": 3.67,
-        "odds_away": 2.2,
+        "odds_draw": 3.68,
+        "odds_away": 2.19,
         "odds_over_15": 1.16,
-        "odds_over_25": 1.55,
-        "odds_over_35": 2.35,
-        "odds_under_15": 4.75,
-        "odds_under_25": 2.35,
-        "odds_under_35": 1.55,
+        "odds_over_25": 1.54,
+        "odds_over_35": 2.33,
+        "odds_under_15": 4.77,
+        "odds_under_25": 2.36,
+        "odds_under_35": 1.56,
         "odds_btts_yes": 1.48,
-        "odds_btts_no": 2.5,
+        "odds_btts_no": 2.51,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -9722,11 +9943,11 @@
           "current_minute": null,
           "period": "",
           "odds_home": 1.66,
-          "odds_draw": 3.87,
+          "odds_draw": 3.86,
           "odds_away": 4.71,
           "odds_over_15": 1.21,
           "odds_over_25": 1.7,
-          "odds_over_35": 2.69,
+          "odds_over_35": 2.7,
           "odds_under_15": 4.02,
           "odds_under_25": 2.08,
           "odds_under_35": 1.42,
@@ -9965,11 +10186,11 @@
         "current_minute": null,
         "period": "",
         "odds_home": 1.66,
-        "odds_draw": 3.87,
+        "odds_draw": 3.86,
         "odds_away": 4.71,
         "odds_over_15": 1.21,
         "odds_over_25": 1.7,
-        "odds_over_35": 2.69,
+        "odds_over_35": 2.7,
         "odds_under_15": 4.02,
         "odds_under_25": 2.08,
         "odds_under_35": 1.42,
@@ -10430,14 +10651,14 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 7.23,
+          "odds_home": 7.21,
           "odds_draw": 5.71,
           "odds_away": 1.28,
           "odds_over_15": 1.06,
           "odds_over_25": 1.26,
           "odds_over_35": 1.7,
           "odds_under_15": 7.77,
-          "odds_under_25": 3.42,
+          "odds_under_25": 3.4,
           "odds_under_35": 2.01,
           "odds_btts_yes": 1.52,
           "odds_btts_no": 2.33,
@@ -10564,14 +10785,14 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 7.23,
+        "odds_home": 7.21,
         "odds_draw": 5.71,
         "odds_away": 1.28,
         "odds_over_15": 1.06,
         "odds_over_25": 1.26,
         "odds_over_35": 1.7,
         "odds_under_15": 7.77,
-        "odds_under_25": 3.42,
+        "odds_under_25": 3.4,
         "odds_under_35": 2.01,
         "odds_btts_yes": 1.52,
         "odds_btts_no": 2.33,
@@ -14049,7 +14270,7 @@
           "odds_over_25": 1.94,
           "odds_over_35": 3.34,
           "odds_under_15": 3.29,
-          "odds_under_25": 1.8,
+          "odds_under_25": 1.81,
           "odds_under_35": 1.29,
           "odds_btts_yes": 1.81,
           "odds_btts_no": 1.9,
@@ -14258,7 +14479,7 @@
         "odds_over_25": 1.94,
         "odds_over_35": 3.34,
         "odds_under_15": 3.29,
-        "odds_under_25": 1.8,
+        "odds_under_25": 1.81,
         "odds_under_35": 1.29,
         "odds_btts_yes": 1.81,
         "odds_btts_no": 1.9,
@@ -14603,11 +14824,11 @@
           "period": "",
           "odds_home": 3.1,
           "odds_draw": 3.15,
-          "odds_away": 2.3,
+          "odds_away": 2.29,
           "odds_over_15": 1.39,
           "odds_over_25": 2.21,
           "odds_over_35": 4.02,
-          "odds_under_15": 2.82,
+          "odds_under_15": 2.81,
           "odds_under_25": 1.62,
           "odds_under_35": 1.22,
           "odds_btts_yes": 1.89,
@@ -14811,11 +15032,11 @@
         "period": "",
         "odds_home": 3.1,
         "odds_draw": 3.15,
-        "odds_away": 2.3,
+        "odds_away": 2.29,
         "odds_over_15": 1.39,
         "odds_over_25": 2.21,
         "odds_over_35": 4.02,
-        "odds_under_15": 2.82,
+        "odds_under_15": 2.81,
         "odds_under_25": 1.62,
         "odds_under_35": 1.22,
         "odds_btts_yes": 1.89,
@@ -17203,17 +17424,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.25,
-          "odds_draw": 5.75,
-          "odds_away": 9.81,
-          "odds_over_15": 1.12,
+          "odds_home": 1.24,
+          "odds_draw": 5.81,
+          "odds_away": 9.95,
+          "odds_over_15": 1.13,
           "odds_over_25": 1.44,
-          "odds_over_35": 2.16,
-          "odds_under_15": 5.29,
-          "odds_under_25": 2.53,
-          "odds_under_35": 1.66,
-          "odds_btts_yes": 1.85,
-          "odds_btts_no": 1.84,
+          "odds_over_35": 2.18,
+          "odds_under_15": 5.18,
+          "odds_under_25": 2.54,
+          "odds_under_35": 1.65,
+          "odds_btts_yes": 1.9,
+          "odds_btts_no": 1.79,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -17344,17 +17565,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.25,
-        "odds_draw": 5.75,
-        "odds_away": 9.81,
-        "odds_over_15": 1.12,
+        "odds_home": 1.24,
+        "odds_draw": 5.81,
+        "odds_away": 9.95,
+        "odds_over_15": 1.13,
         "odds_over_25": 1.44,
-        "odds_over_35": 2.16,
-        "odds_under_15": 5.29,
-        "odds_under_25": 2.53,
-        "odds_under_35": 1.66,
-        "odds_btts_yes": 1.85,
-        "odds_btts_no": 1.84,
+        "odds_over_35": 2.18,
+        "odds_under_15": 5.18,
+        "odds_under_25": 2.54,
+        "odds_under_35": 1.65,
+        "odds_btts_yes": 1.9,
+        "odds_btts_no": 1.79,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -17621,13 +17842,13 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 3.39,
-          "odds_draw": 3.18,
-          "odds_away": 2.18,
+          "odds_home": 3.4,
+          "odds_draw": 3.19,
+          "odds_away": 2.17,
           "odds_over_15": 1.32,
-          "odds_over_25": 2.03,
-          "odds_over_35": 3.5,
-          "odds_under_15": 3.15,
+          "odds_over_25": 2.02,
+          "odds_over_35": 3.47,
+          "odds_under_15": 3.17,
           "odds_under_25": 1.75,
           "odds_under_35": 1.27,
           "odds_btts_yes": 1.79,
@@ -17867,13 +18088,13 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 3.39,
-        "odds_draw": 3.18,
-        "odds_away": 2.18,
+        "odds_home": 3.4,
+        "odds_draw": 3.19,
+        "odds_away": 2.17,
         "odds_over_15": 1.32,
-        "odds_over_25": 2.03,
-        "odds_over_35": 3.5,
-        "odds_under_15": 3.15,
+        "odds_over_25": 2.02,
+        "odds_over_35": 3.47,
+        "odds_under_15": 3.17,
         "odds_under_25": 1.75,
         "odds_under_35": 1.27,
         "odds_btts_yes": 1.79,
@@ -18314,9 +18535,9 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.92,
-          "odds_draw": 3.75,
-          "odds_away": 3.45,
+          "odds_home": 1.94,
+          "odds_draw": 3.73,
+          "odds_away": 3.42,
           "odds_over_15": 1.17,
           "odds_over_25": 1.55,
           "odds_over_35": 2.39,
@@ -18324,7 +18545,7 @@
           "odds_under_25": 2.33,
           "odds_under_35": 1.54,
           "odds_btts_yes": 1.51,
-          "odds_btts_no": 2.4,
+          "odds_btts_no": 2.41,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -18472,9 +18693,9 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.92,
-        "odds_draw": 3.75,
-        "odds_away": 3.45,
+        "odds_home": 1.94,
+        "odds_draw": 3.73,
+        "odds_away": 3.42,
         "odds_over_15": 1.17,
         "odds_over_25": 1.55,
         "odds_over_35": 2.39,
@@ -18482,7 +18703,7 @@
         "odds_under_25": 2.33,
         "odds_under_35": 1.54,
         "odds_btts_yes": 1.51,
-        "odds_btts_no": 2.4,
+        "odds_btts_no": 2.41,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -19534,11 +19755,11 @@
           "odds_home": 2.59,
           "odds_draw": 3.41,
           "odds_away": 2.54,
-          "odds_over_15": 1.26,
-          "odds_over_25": 1.83,
+          "odds_over_15": 1.25,
+          "odds_over_25": 1.82,
           "odds_over_35": 3,
-          "odds_under_15": 3.63,
-          "odds_under_25": 1.92,
+          "odds_under_15": 3.64,
+          "odds_under_25": 1.93,
           "odds_under_35": 1.35,
           "odds_btts_yes": 1.66,
           "odds_btts_no": 2.11,
@@ -19624,6 +19845,12 @@
                 "status": "injured",
                 "reason": "Concussion",
                 "expected_return": "2026-07-23"
+              },
+              {
+                "name": "Jonas Lindberg",
+                "status": "injured",
+                "reason": "Concussion",
+                "expected_return": "2026-07-26"
               },
               {
                 "name": "Oskar Ågren",
@@ -19792,11 +20019,11 @@
         "odds_home": 2.59,
         "odds_draw": 3.41,
         "odds_away": 2.54,
-        "odds_over_15": 1.26,
-        "odds_over_25": 1.83,
+        "odds_over_15": 1.25,
+        "odds_over_25": 1.82,
         "odds_over_35": 3,
-        "odds_under_15": 3.63,
-        "odds_under_25": 1.92,
+        "odds_under_15": 3.64,
+        "odds_under_25": 1.93,
         "odds_under_35": 1.35,
         "odds_btts_yes": 1.66,
         "odds_btts_no": 2.11,
@@ -19882,6 +20109,12 @@
               "status": "injured",
               "reason": "Concussion",
               "expected_return": "2026-07-23"
+            },
+            {
+              "name": "Jonas Lindberg",
+              "status": "injured",
+              "reason": "Concussion",
+              "expected_return": "2026-07-26"
             },
             {
               "name": "Oskar Ågren",
@@ -22168,7 +22401,7 @@
           "period": "",
           "odds_home": 1.66,
           "odds_draw": 3.95,
-          "odds_away": 4.76,
+          "odds_away": 4.77,
           "odds_over_15": 1.2,
           "odds_over_25": 1.67,
           "odds_over_35": 2.64,
@@ -22411,7 +22644,7 @@
         "period": "",
         "odds_home": 1.66,
         "odds_draw": 3.95,
-        "odds_away": 4.76,
+        "odds_away": 4.77,
         "odds_over_15": 1.2,
         "odds_over_25": 1.67,
         "odds_over_35": 2.64,
@@ -22819,11 +23052,11 @@
           "odds_home": 3.07,
           "odds_draw": 3.56,
           "odds_away": 2.17,
-          "odds_over_15": 1.19,
+          "odds_over_15": 1.18,
           "odds_over_25": 1.61,
           "odds_over_35": 2.49,
-          "odds_under_15": 4.42,
-          "odds_under_25": 2.23,
+          "odds_under_15": 4.45,
+          "odds_under_25": 2.24,
           "odds_under_35": 1.48,
           "odds_btts_yes": 1.51,
           "odds_btts_no": 2.41,
@@ -23077,11 +23310,11 @@
         "odds_home": 3.07,
         "odds_draw": 3.56,
         "odds_away": 2.17,
-        "odds_over_15": 1.19,
+        "odds_over_15": 1.18,
         "odds_over_25": 1.61,
         "odds_over_35": 2.49,
-        "odds_under_15": 4.42,
-        "odds_under_25": 2.23,
+        "odds_under_15": 4.45,
+        "odds_under_25": 2.24,
         "odds_under_35": 1.48,
         "odds_btts_yes": 1.51,
         "odds_btts_no": 2.41,
@@ -24803,15 +25036,15 @@
           "period": "",
           "odds_home": 3.54,
           "odds_draw": 3.09,
-          "odds_away": 2.07,
+          "odds_away": 2.08,
           "odds_over_15": 1.37,
           "odds_over_25": 2.17,
-          "odds_over_35": 3.86,
-          "odds_under_15": 2.85,
-          "odds_under_25": 1.63,
+          "odds_over_35": 3.85,
+          "odds_under_15": 2.86,
+          "odds_under_25": 1.64,
           "odds_under_35": 1.22,
           "odds_btts_yes": 1.88,
-          "odds_btts_no": 1.81,
+          "odds_btts_no": 1.82,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -25015,15 +25248,15 @@
         "period": "",
         "odds_home": 3.54,
         "odds_draw": 3.09,
-        "odds_away": 2.07,
+        "odds_away": 2.08,
         "odds_over_15": 1.37,
         "odds_over_25": 2.17,
-        "odds_over_35": 3.86,
-        "odds_under_15": 2.85,
-        "odds_under_25": 1.63,
+        "odds_over_35": 3.85,
+        "odds_under_15": 2.86,
+        "odds_under_25": 1.64,
         "odds_under_35": 1.22,
         "odds_btts_yes": 1.88,
-        "odds_btts_no": 1.81,
+        "odds_btts_no": 1.82,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -25478,11 +25711,11 @@
           "odds_over_15": 1.16,
           "odds_over_25": 1.54,
           "odds_over_35": 2.33,
-          "odds_under_15": 4.8,
+          "odds_under_15": 4.79,
           "odds_under_25": 2.36,
           "odds_under_35": 1.57,
-          "odds_btts_yes": 1.47,
-          "odds_btts_no": 2.51,
+          "odds_btts_yes": 1.48,
+          "odds_btts_no": 2.5,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -25742,11 +25975,11 @@
         "odds_over_15": 1.16,
         "odds_over_25": 1.54,
         "odds_over_35": 2.33,
-        "odds_under_15": 4.8,
-        "odds_under_25": 2.37,
+        "odds_under_15": 4.79,
+        "odds_under_25": 2.36,
         "odds_under_35": 1.57,
-        "odds_btts_yes": 1.47,
-        "odds_btts_no": 2.51,
+        "odds_btts_yes": 1.48,
+        "odds_btts_no": 2.5,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -26160,15 +26393,15 @@
           "period": "",
           "odds_home": 1.28,
           "odds_draw": 5.76,
-          "odds_away": 9.19,
-          "odds_over_15": 1.1,
-          "odds_over_25": 1.37,
-          "odds_over_35": 1.95,
-          "odds_under_15": 6.14,
-          "odds_under_25": 2.89,
-          "odds_under_35": 1.8,
-          "odds_btts_yes": 1.69,
-          "odds_btts_no": 2.05,
+          "odds_away": 9.2,
+          "odds_over_15": 1.11,
+          "odds_over_25": 1.38,
+          "odds_over_35": 1.97,
+          "odds_under_15": 5.94,
+          "odds_under_25": 2.85,
+          "odds_under_35": 1.78,
+          "odds_btts_yes": 1.71,
+          "odds_btts_no": 2.03,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -26420,15 +26653,15 @@
         "period": "",
         "odds_home": 1.28,
         "odds_draw": 5.76,
-        "odds_away": 9.19,
-        "odds_over_15": 1.1,
-        "odds_over_25": 1.37,
-        "odds_over_35": 1.95,
-        "odds_under_15": 6.14,
-        "odds_under_25": 2.89,
-        "odds_under_35": 1.8,
-        "odds_btts_yes": 1.69,
-        "odds_btts_no": 2.05,
+        "odds_away": 9.2,
+        "odds_over_15": 1.11,
+        "odds_over_25": 1.38,
+        "odds_over_35": 1.97,
+        "odds_under_15": 5.94,
+        "odds_under_25": 2.85,
+        "odds_under_35": 1.78,
+        "odds_btts_yes": 1.71,
+        "odds_btts_no": 2.03,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -26844,15 +27077,15 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.98,
-          "odds_draw": 3.15,
-          "odds_away": 2.24,
-          "odds_over_15": 1.31,
-          "odds_over_25": 1.97,
-          "odds_over_35": 3.41,
-          "odds_under_15": 3.15,
-          "odds_under_25": 1.75,
-          "odds_under_35": 1.26,
+          "odds_home": 3.1,
+          "odds_draw": 3.18,
+          "odds_away": 2.16,
+          "odds_over_15": 1.3,
+          "odds_over_25": 1.96,
+          "odds_over_35": 3.4,
+          "odds_under_15": 3.18,
+          "odds_under_25": 1.76,
+          "odds_under_35": 1.27,
           "odds_btts_yes": 1.76,
           "odds_btts_no": 1.95,
           "actual_home_xg": null,
@@ -27048,15 +27281,15 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.98,
-        "odds_draw": 3.15,
-        "odds_away": 2.24,
-        "odds_over_15": 1.31,
-        "odds_over_25": 1.97,
-        "odds_over_35": 3.41,
-        "odds_under_15": 3.15,
-        "odds_under_25": 1.75,
-        "odds_under_35": 1.26,
+        "odds_home": 3.1,
+        "odds_draw": 3.18,
+        "odds_away": 2.16,
+        "odds_over_15": 1.3,
+        "odds_over_25": 1.96,
+        "odds_over_35": 3.4,
+        "odds_under_15": 3.18,
+        "odds_under_25": 1.76,
+        "odds_under_35": 1.27,
         "odds_btts_yes": 1.76,
         "odds_btts_no": 1.95,
         "actual_home_xg": null,
@@ -27475,17 +27708,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.52,
-          "odds_draw": 3.24,
-          "odds_away": 2.48,
-          "odds_over_15": 1.25,
-          "odds_over_25": 1.82,
-          "odds_over_35": 2.98,
-          "odds_under_15": 3.48,
-          "odds_under_25": 1.88,
-          "odds_under_35": 1.32,
-          "odds_btts_yes": 1.65,
-          "odds_btts_no": 2.08,
+          "odds_home": 2.53,
+          "odds_draw": 3.33,
+          "odds_away": 2.44,
+          "odds_over_15": 1.21,
+          "odds_over_25": 1.72,
+          "odds_over_35": 2.71,
+          "odds_under_15": 3.87,
+          "odds_under_25": 2,
+          "odds_under_35": 1.39,
+          "odds_btts_yes": 1.57,
+          "odds_btts_no": 2.22,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -27676,17 +27909,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.52,
-        "odds_draw": 3.24,
-        "odds_away": 2.48,
-        "odds_over_15": 1.25,
-        "odds_over_25": 1.82,
-        "odds_over_35": 2.98,
-        "odds_under_15": 3.48,
-        "odds_under_25": 1.88,
-        "odds_under_35": 1.32,
-        "odds_btts_yes": 1.65,
-        "odds_btts_no": 2.08,
+        "odds_home": 2.53,
+        "odds_draw": 3.33,
+        "odds_away": 2.44,
+        "odds_over_15": 1.21,
+        "odds_over_25": 1.72,
+        "odds_over_35": 2.71,
+        "odds_under_15": 3.87,
+        "odds_under_25": 2,
+        "odds_under_35": 1.39,
+        "odds_btts_yes": 1.57,
+        "odds_btts_no": 2.22,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -28096,7 +28329,7 @@
           "period": "",
           "odds_home": 1.41,
           "odds_draw": 4.25,
-          "odds_away": 7.2,
+          "odds_away": 7.21,
           "odds_over_15": 1.26,
           "odds_over_25": 1.84,
           "odds_over_35": 3.07,
@@ -28313,7 +28546,7 @@
         "period": "",
         "odds_home": 1.41,
         "odds_draw": 4.25,
-        "odds_away": 7.2,
+        "odds_away": 7.21,
         "odds_over_15": 1.26,
         "odds_over_25": 1.84,
         "odds_over_35": 3.07,
@@ -28764,15 +28997,15 @@
           "period": "",
           "odds_home": 1.29,
           "odds_draw": 5.01,
-          "odds_away": 9.15,
+          "odds_away": 9.25,
           "odds_over_15": 1.2,
           "odds_over_25": 1.65,
-          "odds_over_35": 2.59,
-          "odds_under_15": 4.1,
+          "odds_over_35": 2.6,
+          "odds_under_15": 4.09,
           "odds_under_25": 2.13,
-          "odds_under_35": 1.44,
-          "odds_btts_yes": 2.06,
-          "odds_btts_no": 1.68,
+          "odds_under_35": 1.43,
+          "odds_btts_yes": 2.07,
+          "odds_btts_no": 1.67,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -28980,15 +29213,15 @@
         "period": "",
         "odds_home": 1.29,
         "odds_draw": 5.01,
-        "odds_away": 9.15,
+        "odds_away": 9.25,
         "odds_over_15": 1.2,
         "odds_over_25": 1.65,
-        "odds_over_35": 2.59,
-        "odds_under_15": 4.1,
+        "odds_over_35": 2.6,
+        "odds_under_15": 4.09,
         "odds_under_25": 2.13,
-        "odds_under_35": 1.44,
-        "odds_btts_yes": 2.06,
-        "odds_btts_no": 1.68,
+        "odds_under_35": 1.43,
+        "odds_btts_yes": 2.07,
+        "odds_btts_no": 1.67,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -29420,14 +29653,14 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 4.72,
-          "odds_draw": 3.33,
-          "odds_away": 1.77,
+          "odds_home": 4.7,
+          "odds_draw": 3.32,
+          "odds_away": 1.78,
           "odds_over_15": 1.4,
           "odds_over_25": 2.24,
           "odds_over_35": 4.1,
           "odds_under_15": 2.76,
-          "odds_under_25": 1.6,
+          "odds_under_25": 1.61,
           "odds_under_35": 1.2,
           "odds_btts_yes": 2.06,
           "odds_btts_no": 1.68,
@@ -29540,7 +29773,20 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 1,
+              "sentence": "Ponte Preta haven't won in their last 11 games."
+            },
+            {
+              "type_id": 2,
+              "sentence": "When playing at home, Ponte Preta have not lost to Goias in their last 4 encounters."
+            },
+            {
+              "type_id": 24,
+              "sentence": "Ponte Preta's home record this season: 1-2-6."
+            }
+          ],
           "sr_stats": null,
           "ai_preview": null,
           "live_websocket": true
@@ -29635,14 +29881,14 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 4.72,
-        "odds_draw": 3.33,
-        "odds_away": 1.77,
+        "odds_home": 4.7,
+        "odds_draw": 3.32,
+        "odds_away": 1.78,
         "odds_over_15": 1.4,
         "odds_over_25": 2.24,
         "odds_over_35": 4.1,
         "odds_under_15": 2.76,
-        "odds_under_25": 1.6,
+        "odds_under_25": 1.61,
         "odds_under_35": 1.2,
         "odds_btts_yes": 2.06,
         "odds_btts_no": 1.68,
@@ -29749,7 +29995,20 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 1,
+            "sentence": "Ponte Preta haven't won in their last 11 games."
+          },
+          {
+            "type_id": 2,
+            "sentence": "When playing at home, Ponte Preta have not lost to Goias in their last 4 encounters."
+          },
+          {
+            "type_id": 24,
+            "sentence": "Ponte Preta's home record this season: 1-2-6."
+          }
+        ],
         "sr_stats": null,
         "ai_preview": null,
         "live_websocket": true,
@@ -30015,17 +30274,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.71,
-          "odds_draw": 3.34,
-          "odds_away": 5.26,
-          "odds_over_15": 1.4,
-          "odds_over_25": 2.22,
-          "odds_over_35": 4.04,
-          "odds_under_15": 2.78,
-          "odds_under_25": 1.61,
+          "odds_home": 1.62,
+          "odds_draw": 3.5,
+          "odds_away": 5.78,
+          "odds_over_15": 1.39,
+          "odds_over_25": 2.2,
+          "odds_over_35": 3.97,
+          "odds_under_15": 2.81,
+          "odds_under_25": 1.62,
           "odds_under_35": 1.21,
-          "odds_btts_yes": 2.1,
-          "odds_btts_no": 1.67,
+          "odds_btts_yes": 2.15,
+          "odds_btts_no": 1.64,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -30125,7 +30384,20 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 2,
+              "sentence": "When playing at home, Criciuma have not lost to Vila Nova in their last 5 encounters."
+            },
+            {
+              "type_id": 24,
+              "sentence": "Criciuma's home record this season: 5-3-0."
+            },
+            {
+              "type_id": 26,
+              "sentence": "A year ago, Vila Nova were number 8 in the table with 24 points. Now they are number 2 with 31 points."
+            }
+          ],
           "sr_stats": null,
           "ai_preview": null,
           "live_websocket": true
@@ -30220,17 +30492,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.71,
-        "odds_draw": 3.34,
-        "odds_away": 5.26,
-        "odds_over_15": 1.4,
-        "odds_over_25": 2.22,
-        "odds_over_35": 4.04,
-        "odds_under_15": 2.78,
-        "odds_under_25": 1.61,
+        "odds_home": 1.62,
+        "odds_draw": 3.5,
+        "odds_away": 5.78,
+        "odds_over_15": 1.39,
+        "odds_over_25": 2.2,
+        "odds_over_35": 3.97,
+        "odds_under_15": 2.81,
+        "odds_under_25": 1.62,
         "odds_under_35": 1.21,
-        "odds_btts_yes": 2.1,
-        "odds_btts_no": 1.67,
+        "odds_btts_yes": 2.15,
+        "odds_btts_no": 1.64,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -30324,7 +30596,20 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 2,
+            "sentence": "When playing at home, Criciuma have not lost to Vila Nova in their last 5 encounters."
+          },
+          {
+            "type_id": 24,
+            "sentence": "Criciuma's home record this season: 5-3-0."
+          },
+          {
+            "type_id": 26,
+            "sentence": "A year ago, Vila Nova were number 8 in the table with 24 points. Now they are number 2 with 31 points."
+          }
+        ],
         "sr_stats": null,
         "ai_preview": null,
         "live_websocket": true,
@@ -30629,15 +30914,15 @@
           "current_minute": null,
           "period": "",
           "odds_home": 1.88,
-          "odds_draw": 3.27,
+          "odds_draw": 3.28,
           "odds_away": 4.16,
           "odds_over_15": 1.36,
           "odds_over_25": 2.14,
-          "odds_over_35": 3.83,
+          "odds_over_35": 3.81,
           "odds_under_15": 2.92,
           "odds_under_25": 1.66,
           "odds_under_35": 1.23,
-          "odds_btts_yes": 1.94,
+          "odds_btts_yes": 1.93,
           "odds_btts_no": 1.78,
           "actual_home_xg": null,
           "actual_away_xg": null,
@@ -30809,15 +31094,15 @@
         "current_minute": null,
         "period": "",
         "odds_home": 1.88,
-        "odds_draw": 3.27,
+        "odds_draw": 3.28,
         "odds_away": 4.16,
         "odds_over_15": 1.36,
         "odds_over_25": 2.14,
-        "odds_over_35": 3.83,
+        "odds_over_35": 3.81,
         "odds_under_15": 2.92,
         "odds_under_25": 1.66,
         "odds_under_35": 1.23,
-        "odds_btts_yes": 1.94,
+        "odds_btts_yes": 1.93,
         "odds_btts_no": 1.78,
         "actual_home_xg": null,
         "actual_away_xg": null,
@@ -31184,17 +31469,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 3.03,
-          "odds_draw": 3.24,
-          "odds_away": 2.14,
-          "odds_over_15": 1.24,
-          "odds_over_25": 1.8,
-          "odds_over_35": 2.93,
-          "odds_under_15": 3.57,
-          "odds_under_25": 1.89,
-          "odds_under_35": 1.34,
-          "odds_btts_yes": 1.66,
-          "odds_btts_no": 2.06,
+          "odds_home": 3.01,
+          "odds_draw": 3.35,
+          "odds_away": 2.09,
+          "odds_over_15": 1.2,
+          "odds_over_25": 1.68,
+          "odds_over_35": 2.64,
+          "odds_under_15": 3.92,
+          "odds_under_25": 2.05,
+          "odds_under_35": 1.41,
+          "odds_btts_yes": 1.56,
+          "odds_btts_no": 2.25,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -31293,7 +31578,20 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 25,
+              "sentence": "Claire Catherine Hutton has more yellow cards (4) than any other player at Bay. Uno Shiragaki has collected 3 for North Carolina."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Bay have played 5 home matches in a row without winning."
+            },
+            {
+              "type_id": 23,
+              "sentence": "Last season's matches: 1-4 (Bay at home) and 0-1 (North Carolina at home)."
+            }
+          ],
           "sr_stats": null,
           "ai_preview": null,
           "live_websocket": true
@@ -31376,17 +31674,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 3.03,
-        "odds_draw": 3.24,
-        "odds_away": 2.14,
-        "odds_over_15": 1.24,
-        "odds_over_25": 1.8,
-        "odds_over_35": 2.93,
-        "odds_under_15": 3.57,
-        "odds_under_25": 1.89,
-        "odds_under_35": 1.34,
-        "odds_btts_yes": 1.66,
-        "odds_btts_no": 2.06,
+        "odds_home": 3.01,
+        "odds_draw": 3.35,
+        "odds_away": 2.09,
+        "odds_over_15": 1.2,
+        "odds_over_25": 1.68,
+        "odds_over_35": 2.64,
+        "odds_under_15": 3.92,
+        "odds_under_25": 2.05,
+        "odds_under_35": 1.41,
+        "odds_btts_yes": 1.56,
+        "odds_btts_no": 2.25,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -31479,7 +31777,20 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 25,
+            "sentence": "Claire Catherine Hutton has more yellow cards (4) than any other player at Bay. Uno Shiragaki has collected 3 for North Carolina."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Bay have played 5 home matches in a row without winning."
+          },
+          {
+            "type_id": 23,
+            "sentence": "Last season's matches: 1-4 (Bay at home) and 0-1 (North Carolina at home)."
+          }
+        ],
         "sr_stats": null,
         "ai_preview": null,
         "live_websocket": true,
@@ -41428,6 +41739,12 @@
                 "status": "injured",
                 "reason": "MCL Knee Injury",
                 "expected_return": null
+              },
+              {
+                "name": "Raúl Zúñiga",
+                "status": "injured",
+                "reason": "Broken Collarbone",
+                "expected_return": null
               }
             ]
           },
@@ -41607,6 +41924,12 @@
               "name": "Cristián Borja",
               "status": "injured",
               "reason": "MCL Knee Injury",
+              "expected_return": null
+            },
+            {
+              "name": "Raúl Zúñiga",
+              "status": "injured",
+              "reason": "Broken Collarbone",
               "expected_return": null
             }
           ]
@@ -61088,13 +61411,13 @@
             "away": [
               {
                 "name": "Cristian Olivera",
-                "status": "injured",
+                "status": "doubtful",
                 "reason": "Sprained Ankle",
                 "expected_return": "2026-07-31"
               },
               {
                 "name": "Iago Borduchi",
-                "status": "injured",
+                "status": "doubtful",
                 "reason": "Thigh Injury",
                 "expected_return": "2026-07-31"
               },
@@ -61311,13 +61634,13 @@
           "away": [
             {
               "name": "Cristian Olivera",
-              "status": "injured",
+              "status": "doubtful",
               "reason": "Sprained Ankle",
               "expected_return": "2026-07-31"
             },
             {
               "name": "Iago Borduchi",
-              "status": "injured",
+              "status": "doubtful",
               "reason": "Thigh Injury",
               "expected_return": "2026-07-31"
             },
@@ -66280,6 +66603,12 @@
                 "expected_return": "2026-07-31"
               },
               {
+                "name": "Magnus Riisnæs",
+                "status": "injured",
+                "reason": "Knock Injury",
+                "expected_return": "2026-07-25"
+              },
+              {
                 "name": "Sondre Fet",
                 "status": "injured",
                 "reason": "Knock Injury",
@@ -66471,6 +66800,12 @@
               "status": "injured",
               "reason": "Knock Injury",
               "expected_return": "2026-07-31"
+            },
+            {
+              "name": "Magnus Riisnæs",
+              "status": "injured",
+              "reason": "Knock Injury",
+              "expected_return": "2026-07-25"
             },
             {
               "name": "Sondre Fet",
@@ -74541,12 +74876,6 @@
           "unavailable_players": {
             "home": [
               {
-                "name": "Allan Saint-Maximin",
-                "status": "doubtful",
-                "reason": "",
-                "expected_return": null
-              },
-              {
                 "name": "David Schnegg",
                 "status": "suspended",
                 "reason": "yellow_or_red_card_suspension",
@@ -74733,12 +75062,6 @@
         },
         "unavailable_players": {
           "home": [
-            {
-              "name": "Allan Saint-Maximin",
-              "status": "doubtful",
-              "reason": "",
-              "expected_return": null
-            },
             {
               "name": "David Schnegg",
               "status": "suspended",
@@ -80309,12 +80632,6 @@
                 "expected_return": "2026-08-01"
               },
               {
-                "name": "Maurício Garcez",
-                "status": "injured",
-                "reason": "Leg Injury",
-                "expected_return": null
-              },
-              {
                 "name": "Rafael Carvalheira",
                 "status": "injured",
                 "reason": "Cruciate Ligament Injury",
@@ -80545,12 +80862,6 @@
               "status": "injured",
               "reason": "Unknown",
               "expected_return": "2026-08-01"
-            },
-            {
-              "name": "Maurício Garcez",
-              "status": "injured",
-              "reason": "Leg Injury",
-              "expected_return": null
             },
             {
               "name": "Rafael Carvalheira",
@@ -89139,6 +89450,18 @@
               "status": "injured",
               "reason": "Knee Injury",
               "expected_return": null
+            },
+            {
+              "name": "Mads Bech Sørensen",
+              "status": "injured",
+              "reason": "Unknown",
+              "expected_return": "2026-08-10"
+            },
+            {
+              "name": "Mikel Gogorza",
+              "status": "injured",
+              "reason": "Hip Injury",
+              "expected_return": "2026-08-20"
             }
           ]
         },
@@ -90019,6 +90342,12 @@
             "home": [],
             "away": [
               {
+                "name": "Fabián Balbuena",
+                "status": "injured",
+                "reason": "",
+                "expected_return": null
+              },
+              {
                 "name": "Gabriel Grando",
                 "status": "injured",
                 "reason": "Broken Finger",
@@ -90041,6 +90370,12 @@
                 "status": "injured",
                 "reason": "Ankle Injury",
                 "expected_return": "2026-08-21"
+              },
+              {
+                "name": "Matheus Nascimento",
+                "status": "injured",
+                "reason": "",
+                "expected_return": null
               },
               {
                 "name": "Thiago Beltrame",
@@ -104606,12 +104941,6 @@
                 "expected_return": "2026-08-01"
               },
               {
-                "name": "Maurício Garcez",
-                "status": "injured",
-                "reason": "Leg Injury",
-                "expected_return": null
-              },
-              {
                 "name": "Rafael Carvalheira",
                 "status": "injured",
                 "reason": "Cruciate Ligament Injury",
@@ -104872,12 +105201,6 @@
               "status": "injured",
               "reason": "Unknown",
               "expected_return": "2026-08-01"
-            },
-            {
-              "name": "Maurício Garcez",
-              "status": "injured",
-              "reason": "Leg Injury",
-              "expected_return": null
             },
             {
               "name": "Rafael Carvalheira",
@@ -105306,12 +105629,6 @@
             ],
             "away": [
               {
-                "name": "Allan Saint-Maximin",
-                "status": "doubtful",
-                "reason": "",
-                "expected_return": null
-              },
-              {
                 "name": "David Schnegg",
                 "status": "suspended",
                 "reason": "yellow_or_red_card_suspension",
@@ -105495,12 +105812,6 @@
             }
           ],
           "away": [
-            {
-              "name": "Allan Saint-Maximin",
-              "status": "doubtful",
-              "reason": "",
-              "expected_return": null
-            },
             {
               "name": "David Schnegg",
               "status": "suspended",
@@ -113206,6 +113517,12 @@
                 "expected_return": null
               },
               {
+                "name": "Tiquinho Soares",
+                "status": "injured",
+                "reason": "",
+                "expected_return": null
+              },
+              {
                 "name": "Willian Machado",
                 "status": "suspended",
                 "reason": "yellow_card_accumulation_suspension",
@@ -113412,6 +113729,12 @@
             },
             {
               "name": "Negueba",
+              "status": "injured",
+              "reason": "",
+              "expected_return": null
+            },
+            {
+              "name": "Tiquinho Soares",
               "status": "injured",
               "reason": "",
               "expected_return": null
@@ -129528,6 +129851,12 @@
                 "expected_return": "2026-07-23"
               },
               {
+                "name": "Jonas Lindberg",
+                "status": "injured",
+                "reason": "Concussion",
+                "expected_return": "2026-07-26"
+              },
+              {
                 "name": "Oskar Ågren",
                 "status": "suspended",
                 "reason": "yellow_card_accumulation_suspension",
@@ -129706,6 +130035,12 @@
               "status": "injured",
               "reason": "Concussion",
               "expected_return": "2026-07-23"
+            },
+            {
+              "name": "Jonas Lindberg",
+              "status": "injured",
+              "reason": "Concussion",
+              "expected_return": "2026-07-26"
             },
             {
               "name": "Oskar Ågren",
@@ -130688,6 +131023,12 @@
                 "expected_return": "2026-07-31"
               },
               {
+                "name": "Magnus Riisnæs",
+                "status": "injured",
+                "reason": "Knock Injury",
+                "expected_return": "2026-07-25"
+              },
+              {
                 "name": "Sondre Fet",
                 "status": "injured",
                 "reason": "Knock Injury",
@@ -130885,6 +131226,12 @@
               "status": "injured",
               "reason": "Knock Injury",
               "expected_return": "2026-07-31"
+            },
+            {
+              "name": "Magnus Riisnæs",
+              "status": "injured",
+              "reason": "Knock Injury",
+              "expected_return": "2026-07-25"
             },
             {
               "name": "Sondre Fet",
@@ -134406,13 +134753,13 @@
             "home": [
               {
                 "name": "Cristian Olivera",
-                "status": "injured",
+                "status": "doubtful",
                 "reason": "Sprained Ankle",
                 "expected_return": "2026-07-31"
               },
               {
                 "name": "Iago Borduchi",
-                "status": "injured",
+                "status": "doubtful",
                 "reason": "Thigh Injury",
                 "expected_return": "2026-07-31"
               },
@@ -134629,13 +134976,13 @@
           "home": [
             {
               "name": "Cristian Olivera",
-              "status": "injured",
+              "status": "doubtful",
               "reason": "Sprained Ankle",
               "expected_return": "2026-07-31"
             },
             {
               "name": "Iago Borduchi",
-              "status": "injured",
+              "status": "doubtful",
               "reason": "Thigh Injury",
               "expected_return": "2026-07-31"
             },
@@ -135692,6 +136039,12 @@
           "unavailable_players": {
             "home": [
               {
+                "name": "Fabián Balbuena",
+                "status": "injured",
+                "reason": "",
+                "expected_return": null
+              },
+              {
                 "name": "Gabriel Grando",
                 "status": "injured",
                 "reason": "Broken Finger",
@@ -135716,6 +136069,12 @@
                 "expected_return": "2026-08-21"
               },
               {
+                "name": "Matheus Nascimento",
+                "status": "injured",
+                "reason": "",
+                "expected_return": null
+              },
+              {
                 "name": "Thiago Beltrame",
                 "status": "suspended",
                 "reason": "red_card_suspension",
@@ -135730,6 +136089,18 @@
                 "expected_return": "2026-07-20"
               },
               {
+                "name": "David Terans",
+                "status": "injured",
+                "reason": "",
+                "expected_return": null
+              },
+              {
+                "name": "Ganso",
+                "status": "injured",
+                "reason": "",
+                "expected_return": null
+              },
+              {
                 "name": "Matheus Reis",
                 "status": "injured",
                 "reason": "",
@@ -135740,6 +136111,12 @@
                 "status": "suspended",
                 "reason": "yellow_card_accumulation_suspension",
                 "expected_return": "2026-07-18"
+              },
+              {
+                "name": "Thiago Silva",
+                "status": "injured",
+                "reason": "",
+                "expected_return": null
               }
             ]
           },
@@ -135953,6 +136330,18 @@
               "expected_return": "2026-07-20"
             },
             {
+              "name": "David Terans",
+              "status": "injured",
+              "reason": "",
+              "expected_return": null
+            },
+            {
+              "name": "Ganso",
+              "status": "injured",
+              "reason": "",
+              "expected_return": null
+            },
+            {
               "name": "Matheus Reis",
               "status": "injured",
               "reason": "",
@@ -135963,6 +136352,12 @@
               "status": "suspended",
               "reason": "yellow_card_accumulation_suspension",
               "expected_return": "2026-07-18"
+            },
+            {
+              "name": "Thiago Silva",
+              "status": "injured",
+              "reason": "",
+              "expected_return": null
             }
           ]
         },
@@ -145183,6 +145578,12 @@
             ],
             "away": [
               {
+                "name": "Fabián Balbuena",
+                "status": "injured",
+                "reason": "",
+                "expected_return": null
+              },
+              {
                 "name": "Gabriel Grando",
                 "status": "injured",
                 "reason": "Broken Finger",
@@ -145205,6 +145606,12 @@
                 "status": "injured",
                 "reason": "Ankle Injury",
                 "expected_return": "2026-08-21"
+              },
+              {
+                "name": "Matheus Nascimento",
+                "status": "injured",
+                "reason": "",
+                "expected_return": null
               },
               {
                 "name": "Thiago Beltrame",
@@ -146702,12 +147109,6 @@
                 "expected_return": "2026-08-01"
               },
               {
-                "name": "Maurício Garcez",
-                "status": "injured",
-                "reason": "Leg Injury",
-                "expected_return": null
-              },
-              {
                 "name": "Rafael Carvalheira",
                 "status": "injured",
                 "reason": "Cruciate Ligament Injury",
@@ -146944,12 +147345,6 @@
               "status": "injured",
               "reason": "Unknown",
               "expected_return": "2026-08-01"
-            },
-            {
-              "name": "Maurício Garcez",
-              "status": "injured",
-              "reason": "Leg Injury",
-              "expected_return": null
             },
             {
               "name": "Rafael Carvalheira",
@@ -148542,6 +148937,12 @@
                 "expected_return": null
               },
               {
+                "name": "Tiquinho Soares",
+                "status": "injured",
+                "reason": "",
+                "expected_return": null
+              },
+              {
                 "name": "Willian Machado",
                 "status": "suspended",
                 "reason": "yellow_card_accumulation_suspension",
@@ -148766,6 +149167,12 @@
             },
             {
               "name": "Negueba",
+              "status": "injured",
+              "reason": "",
+              "expected_return": null
+            },
+            {
+              "name": "Tiquinho Soares",
               "status": "injured",
               "reason": "",
               "expected_return": null
@@ -151998,6 +152405,18 @@
                 "expected_return": "2026-07-20"
               },
               {
+                "name": "David Terans",
+                "status": "injured",
+                "reason": "",
+                "expected_return": null
+              },
+              {
+                "name": "Ganso",
+                "status": "injured",
+                "reason": "",
+                "expected_return": null
+              },
+              {
                 "name": "Matheus Reis",
                 "status": "injured",
                 "reason": "",
@@ -152008,18 +152427,24 @@
                 "status": "suspended",
                 "reason": "yellow_card_accumulation_suspension",
                 "expected_return": "2026-07-18"
+              },
+              {
+                "name": "Thiago Silva",
+                "status": "injured",
+                "reason": "",
+                "expected_return": null
               }
             ],
             "away": [
               {
                 "name": "Cristian Olivera",
-                "status": "injured",
+                "status": "doubtful",
                 "reason": "Sprained Ankle",
                 "expected_return": "2026-07-31"
               },
               {
                 "name": "Iago Borduchi",
-                "status": "injured",
+                "status": "doubtful",
                 "reason": "Thigh Injury",
                 "expected_return": "2026-07-31"
               },
@@ -152221,6 +152646,18 @@
               "expected_return": "2026-07-20"
             },
             {
+              "name": "David Terans",
+              "status": "injured",
+              "reason": "",
+              "expected_return": null
+            },
+            {
+              "name": "Ganso",
+              "status": "injured",
+              "reason": "",
+              "expected_return": null
+            },
+            {
               "name": "Matheus Reis",
               "status": "injured",
               "reason": "",
@@ -152231,18 +152668,24 @@
               "status": "suspended",
               "reason": "yellow_card_accumulation_suspension",
               "expected_return": "2026-07-18"
+            },
+            {
+              "name": "Thiago Silva",
+              "status": "injured",
+              "reason": "",
+              "expected_return": null
             }
           ],
           "away": [
             {
               "name": "Cristian Olivera",
-              "status": "injured",
+              "status": "doubtful",
               "reason": "Sprained Ankle",
               "expected_return": "2026-07-31"
             },
             {
               "name": "Iago Borduchi",
-              "status": "injured",
+              "status": "doubtful",
               "reason": "Thigh Injury",
               "expected_return": "2026-07-31"
             },
@@ -153444,6 +153887,12 @@
           "unavailable_players": {
             "home": [
               {
+                "name": "Fabián Balbuena",
+                "status": "injured",
+                "reason": "",
+                "expected_return": null
+              },
+              {
                 "name": "Gabriel Grando",
                 "status": "injured",
                 "reason": "Broken Finger",
@@ -153466,6 +153915,12 @@
                 "status": "injured",
                 "reason": "Ankle Injury",
                 "expected_return": "2026-08-21"
+              },
+              {
+                "name": "Matheus Nascimento",
+                "status": "injured",
+                "reason": "",
+                "expected_return": null
               },
               {
                 "name": "Thiago Beltrame",
@@ -157491,6 +157946,12 @@
                 "expected_return": "2026-07-31"
               },
               {
+                "name": "Magnus Riisnæs",
+                "status": "injured",
+                "reason": "Knock Injury",
+                "expected_return": "2026-07-25"
+              },
+              {
                 "name": "Sondre Fet",
                 "status": "injured",
                 "reason": "Knock Injury",
@@ -157682,6 +158143,12 @@
               "status": "injured",
               "reason": "Knock Injury",
               "expected_return": "2026-07-31"
+            },
+            {
+              "name": "Magnus Riisnæs",
+              "status": "injured",
+              "reason": "Knock Injury",
+              "expected_return": "2026-07-25"
             },
             {
               "name": "Sondre Fet",
