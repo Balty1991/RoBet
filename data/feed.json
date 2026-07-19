@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-19T15:32:49.622Z",
+  "generated_at": "2026-07-19T17:02:19.459Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -8,9 +8,9 @@
     "managers_endpoint": "/managers/?team_id={id}"
   },
   "summary": {
-    "total_matches": 227,
+    "total_matches": 225,
     "total_leagues": 21,
-    "average_confidence": 49.582703526271956,
+    "average_confidence": 49.566187104956605,
     "favorite_recommend": 0,
     "over_15_recommend": 0,
     "over_25_recommend": 0,
@@ -19,3025 +19,6 @@
     "winner_recommend": 0
   },
   "items": [
-    {
-      "event_id": 214526,
-      "prediction": {
-        "id": 5415,
-        "event": {
-          "id": 214526,
-          "league": {
-            "id": 23,
-            "name": "Superliga",
-            "country": "Romania",
-            "is_women": false,
-            "current_season": {
-              "id": 1396,
-              "name": "Superliga 26/27",
-              "year": 2026,
-              "start_date": "2026-07-01",
-              "end_date": "2027-06-30"
-            }
-          },
-          "season": {
-            "id": 1396,
-            "name": "Superliga 26/27",
-            "year": 2026
-          },
-          "home_team": "FC Petrolul Ploiești",
-          "away_team": "FC Dinamo București",
-          "home_team_obj": {
-            "id": 362,
-            "name": "FC Petrolul Ploiești",
-            "short_name": "Petrolul Ploiești",
-            "country": "Romania",
-            "coach": {
-              "name": "Ricardo Sousa",
-              "shortName": "R. Sousa"
-            },
-            "venue": {
-              "id": 342,
-              "name": "Stadionul Ilie Oană",
-              "city": "Ploiesti",
-              "country": "Romania",
-              "capacity": 15500
-            }
-          },
-          "away_team_obj": {
-            "id": 368,
-            "name": "FC Dinamo București",
-            "short_name": "Dinamo București",
-            "country": "Romania",
-            "coach": {
-              "name": "Nuno Campos",
-              "shortName": "N. Campos"
-            },
-            "venue": {
-              "id": 348,
-              "name": "Dinamo Stadium",
-              "city": "Bucharest",
-              "country": "Romania",
-              "capacity": 15032
-            }
-          },
-          "event_date": "2026-07-19T19:30:00+03:00",
-          "round_number": 1,
-          "round_name": "",
-          "group_name": null,
-          "status": "notstarted",
-          "home_score": null,
-          "away_score": null,
-          "home_score_ht": null,
-          "away_score_ht": null,
-          "current_minute": null,
-          "period": "",
-          "odds_home": 3.79,
-          "odds_draw": 3.11,
-          "odds_away": 2.02,
-          "odds_over_15": 1.38,
-          "odds_over_25": 2.2,
-          "odds_over_35": 3.98,
-          "odds_under_15": 2.85,
-          "odds_under_25": 1.62,
-          "odds_under_35": 1.21,
-          "odds_btts_yes": 1.93,
-          "odds_btts_no": 1.78,
-          "actual_home_xg": null,
-          "actual_away_xg": null,
-          "home_xg_live": null,
-          "away_xg_live": null,
-          "penalty_shootout": null,
-          "extra_time_score": null,
-          "is_local_derby": false,
-          "is_neutral_ground": null,
-          "travel_distance_km": 54,
-          "weather_code": 0,
-          "wind_speed": 8.8,
-          "temperature_c": 31,
-          "pitch_condition": null,
-          "attendance": null,
-          "referee": null,
-          "home_coach": {
-            "id": 1994,
-            "name": "Ricardo Sousa",
-            "short_name": "R. Sousa",
-            "country": "Portugal",
-            "profile": "",
-            "preferred_formation": "",
-            "pressing_intensity": null,
-            "defensive_line": "",
-            "top_styles": []
-          },
-          "away_coach": {
-            "id": 999,
-            "name": "Nuno Campos",
-            "short_name": "N. Campos",
-            "country": "Portugal",
-            "profile": "attacking",
-            "preferred_formation": "",
-            "pressing_intensity": null,
-            "defensive_line": "",
-            "top_styles": []
-          },
-          "unavailable_players": {
-            "home": [],
-            "away": [
-              {
-                "name": "Alaa Bellaarouch",
-                "status": "doubtful",
-                "reason": "",
-                "expected_return": null
-              },
-              {
-                "name": "Darío Benavides",
-                "status": "injured",
-                "reason": "Unknown",
-                "expected_return": null
-              }
-            ]
-          },
-          "venue": {
-            "id": 342,
-            "name": "Stadionul Ilie Oană",
-            "city": "Ploiesti",
-            "country": "Romania",
-            "capacity": 15500,
-            "latitude": 44.940278,
-            "longitude": 26.033333,
-            "pitch_x": 105,
-            "pitch_y": 68,
-            "built_year": 2011
-          },
-          "incidents": null,
-          "live_stats": null,
-          "lineups": {
-            "away": {
-              "players": [
-                {
-                  "name": "A. Bellaarouch",
-                  "goals": 0,
-                  "api_id": 1000501,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "G",
-                  "red_card": false,
-                  "player_id": 899,
-                  "yellow_card": false,
-                  "jersey_number": "36",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "GK",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "M. Sivis",
-                  "goals": 0,
-                  "api_id": 869934,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 11114,
-                  "yellow_card": false,
-                  "jersey_number": "27",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "M. Pascual",
-                  "goals": 0,
-                  "api_id": 947201,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 31806,
-                  "yellow_card": false,
-                  "jersey_number": "44",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "CB",
-                  "positions_detailed": [
-                    "CB"
-                  ]
-                },
-                {
-                  "name": "N. Stoioanov",
-                  "goals": 0,
-                  "api_id": 1214868,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 11117,
-                  "yellow_card": false,
-                  "jersey_number": "15",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "R. Opruț",
-                  "goals": 0,
-                  "api_id": 878671,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 11118,
-                  "yellow_card": false,
-                  "jersey_number": "31",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "LB",
-                  "positions_detailed": [
-                    "LB"
-                  ]
-                },
-                {
-                  "name": "D. Armstrong",
-                  "goals": 0,
-                  "api_id": 895765,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 11133,
-                  "yellow_card": false,
-                  "jersey_number": "77",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "A. Soro",
-                  "goals": 0,
-                  "api_id": 944049,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 11136,
-                  "yellow_card": false,
-                  "jersey_number": "29",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "A. Mărginean",
-                  "goals": 0,
-                  "api_id": 1001769,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 11124,
-                  "yellow_card": false,
-                  "jersey_number": "90",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "C. Cîrjan",
-                  "goals": 0,
-                  "api_id": 1065254,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 11131,
-                  "yellow_card": false,
-                  "jersey_number": "10",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "A. M. Musi",
-                  "goals": 0,
-                  "api_id": 1142723,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "F",
-                  "red_card": false,
-                  "player_id": 11128,
-                  "yellow_card": false,
-                  "jersey_number": "7",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "FWD",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "A. Pop",
-                  "goals": 0,
-                  "api_id": 839694,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "F",
-                  "red_card": false,
-                  "player_id": 11143,
-                  "yellow_card": false,
-                  "jersey_number": "99",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "FWD",
-                  "positions_detailed": []
-                }
-              ],
-              "formation": "4-4-2",
-              "substitutes": [
-                {
-                  "name": "D. Epassy",
-                  "goals": 0,
-                  "api_id": 362758,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "G",
-                  "red_card": false,
-                  "player_id": 11112,
-                  "yellow_card": false,
-                  "jersey_number": "1",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "GK",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "R. Răzvan",
-                  "goals": 0,
-                  "api_id": 1902130,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 62216,
-                  "yellow_card": false,
-                  "jersey_number": "19",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "C. Licsandru",
-                  "goals": 0,
-                  "api_id": 1875754,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 11989,
-                  "yellow_card": false,
-                  "jersey_number": "6",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "M. Dutu",
-                  "goals": 0,
-                  "api_id": 1152493,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 8532,
-                  "yellow_card": false,
-                  "jersey_number": "30",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "A. Irimia",
-                  "goals": 0,
-                  "api_id": 1517145,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 10867,
-                  "yellow_card": false,
-                  "jersey_number": "98",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "AM",
-                  "positions_detailed": [
-                    "AM"
-                  ]
-                },
-                {
-                  "name": "G. U. Etetim",
-                  "goals": 0,
-                  "api_id": 1853385,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 62215,
-                  "yellow_card": false,
-                  "jersey_number": "16",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "D. Irimia",
-                  "goals": 0,
-                  "api_id": 1496353,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 10870,
-                  "yellow_card": false,
-                  "jersey_number": "20",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "C. Mihai",
-                  "goals": 0,
-                  "api_id": 1126975,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 11150,
-                  "yellow_card": false,
-                  "jersey_number": "21",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "O. Hintsa",
-                  "goals": 0,
-                  "api_id": 992235,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "F",
-                  "red_card": false,
-                  "player_id": 59988,
-                  "yellow_card": false,
-                  "jersey_number": "18",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "FWD",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "I. Târbă",
-                  "goals": 0,
-                  "api_id": 1426621,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "F",
-                  "red_card": false,
-                  "player_id": 11170,
-                  "yellow_card": false,
-                  "jersey_number": "23",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "FWD",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "A. Mazilu",
-                  "goals": 0,
-                  "api_id": 1152449,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "F",
-                  "red_card": false,
-                  "player_id": 11140,
-                  "yellow_card": false,
-                  "jersey_number": "26",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "FWD",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "M. Karamoko",
-                  "goals": 0,
-                  "api_id": 974196,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "F",
-                  "red_card": false,
-                  "player_id": 11785,
-                  "yellow_card": false,
-                  "jersey_number": "9",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "FWD",
-                  "positions_detailed": []
-                }
-              ]
-            },
-            "home": {
-              "players": [
-                {
-                  "name": "L. Zima",
-                  "goals": 0,
-                  "api_id": 135602,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "G",
-                  "red_card": false,
-                  "player_id": 3078,
-                  "yellow_card": false,
-                  "jersey_number": "38",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "GK",
-                  "positions_detailed": [
-                    "GK"
-                  ]
-                },
-                {
-                  "name": "T. Căpuşă",
-                  "goals": 0,
-                  "api_id": 856555,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 11768,
-                  "yellow_card": false,
-                  "jersey_number": "66",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "RB",
-                  "positions_detailed": [
-                    "RB",
-                    "CB"
-                  ]
-                },
-                {
-                  "name": "P. Papp",
-                  "goals": 0,
-                  "api_id": 69336,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 10980,
-                  "yellow_card": false,
-                  "jersey_number": "4",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "A. Zaian",
-                  "goals": 0,
-                  "api_id": 2072429,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 63944,
-                  "yellow_card": false,
-                  "jersey_number": "24",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "CB",
-                  "positions_detailed": [
-                    "CB"
-                  ]
-                },
-                {
-                  "name": "A. Dumitrescu",
-                  "goals": 0,
-                  "api_id": 1000581,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 10988,
-                  "yellow_card": false,
-                  "jersey_number": "2",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "LB",
-                  "positions_detailed": [
-                    "LB"
-                  ]
-                },
-                {
-                  "name": "K. Ludewig",
-                  "goals": 0,
-                  "api_id": 877843,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 11992,
-                  "yellow_card": false,
-                  "jersey_number": "29",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "M. Ioniță",
-                  "goals": 0,
-                  "api_id": 1492209,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 63942,
-                  "yellow_card": false,
-                  "jersey_number": "80",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "S. Hanca",
-                  "goals": 0,
-                  "api_id": 113743,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 11003,
-                  "yellow_card": false,
-                  "jersey_number": "20",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "R. Martins",
-                  "goals": 0,
-                  "api_id": 945059,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 63938,
-                  "yellow_card": false,
-                  "jersey_number": "7",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "LW",
-                  "positions_detailed": [
-                    "LW"
-                  ]
-                },
-                {
-                  "name": "L. Teixeira",
-                  "goals": 0,
-                  "api_id": 1161080,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "F",
-                  "red_card": false,
-                  "player_id": 63937,
-                  "yellow_card": false,
-                  "jersey_number": "19",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "LW",
-                  "positions_detailed": [
-                    "LW"
-                  ]
-                },
-                {
-                  "name": "R. D. Jerdea",
-                  "goals": 0,
-                  "api_id": 1112607,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "F",
-                  "red_card": false,
-                  "player_id": 63939,
-                  "yellow_card": false,
-                  "jersey_number": "98",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "ST",
-                  "positions_detailed": [
-                    "ST"
-                  ]
-                }
-              ],
-              "formation": "4-4-2",
-              "substitutes": [
-                {
-                  "name": "Ș. Rădulescu",
-                  "goals": 0,
-                  "api_id": 2462564,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "G",
-                  "red_card": false,
-                  "player_id": 65807,
-                  "yellow_card": false,
-                  "jersey_number": "1",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "GK",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "S. Georgescu",
-                  "goals": 0,
-                  "api_id": 1399625,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "G",
-                  "red_card": false,
-                  "player_id": 36049,
-                  "yellow_card": false,
-                  "jersey_number": "12",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "GK",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "M. Țuțu",
-                  "goals": 0,
-                  "api_id": 1906867,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 11788,
-                  "yellow_card": false,
-                  "jersey_number": "22",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "R. Leescu",
-                  "goals": 0,
-                  "api_id": 2641475,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 63946,
-                  "yellow_card": false,
-                  "jersey_number": "30",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "D. Paraschiv",
-                  "goals": 0,
-                  "api_id": 1804825,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 13615,
-                  "yellow_card": false,
-                  "jersey_number": "21",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "A. Dumitrache",
-                  "goals": 0,
-                  "api_id": 1637176,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 11751,
-                  "yellow_card": false,
-                  "jersey_number": "97",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "I. Tolea",
-                  "goals": 0,
-                  "api_id": 1465151,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 11868,
-                  "yellow_card": false,
-                  "jersey_number": "11",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "L. Argeșanu",
-                  "goals": 0,
-                  "api_id": 2641664,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 63943,
-                  "yellow_card": false,
-                  "jersey_number": "26",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "D. N'Lundulu",
-                  "goals": 0,
-                  "api_id": 920374,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "F",
-                  "red_card": false,
-                  "player_id": 5917,
-                  "yellow_card": false,
-                  "jersey_number": "17",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "FWD",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "M. Costache",
-                  "goals": 0,
-                  "api_id": 2641663,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 63940,
-                  "yellow_card": false,
-                  "jersey_number": "28",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "A. Chică-Roșă",
-                  "goals": 0,
-                  "api_id": 1155668,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "F",
-                  "red_card": false,
-                  "player_id": 10993,
-                  "yellow_card": false,
-                  "jersey_number": "9",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "FWD",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "R. Manolache",
-                  "goals": 0,
-                  "api_id": 2149099,
-                  "rating": null,
-                  "sub_in": null,
-                  "sub_out": null,
-                  "position": "F",
-                  "red_card": false,
-                  "player_id": 11816,
-                  "yellow_card": false,
-                  "jersey_number": "40",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "FWD",
-                  "positions_detailed": []
-                }
-              ]
-            },
-            "confirmed": true
-          },
-          "shotmap": null,
-          "momentum": null,
-          "xg_per_minute": null,
-          "average_positions": null,
-          "jerseys": {
-            "away": {
-              "GK": {
-                "base": "5eb4ab",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "59b3aa",
-                "sleevelong": "075c4f"
-              },
-              "player": {
-                "base": "d10000",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "ffffff",
-                "sleevelong": "cc0000"
-              }
-            },
-            "home": {
-              "GK": {
-                "base": "f16f0a",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "000000",
-                "sleeve": "8d8d8d"
-              },
-              "player": {
-                "base": "ffff00",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "2e4298",
-                "sleeve": "2e4298",
-                "sleevelong": "ffff00"
-              }
-            }
-          },
-          "funfacts": [
-            {
-              "type_id": 1,
-              "sentence": "Petrolul Ploiesti have played 5 home matches in a row without winning."
-            },
-            {
-              "type_id": 1,
-              "sentence": "Dinamo Bucuresti haven't won any of their last 8 away matches."
-            },
-            {
-              "type_id": 6,
-              "sentence": "During the last 9 meetings with Petrolul Ploiesti playing at home, Petrolul Ploiesti have won 2 times, there have been 2 draws while Dinamo Bucuresti have won 5 times. The goal difference is 18-8 in favour of Dinamo Bucuresti."
-            }
-          ],
-          "sr_stats": null,
-          "ai_preview": {
-            "text": "**Dinamo's inconsistency meets Petrolul's mixed form in a Superliga opener that screams unpredictability.** Neither side looks rock solid heading into round 1, which sets up a classic coin-flip affair. 🎲\n\nPetrolul's picked up a decent draw recently but also got hammered by Arka Gdynik. Dinamo meanwhile has been all over the map — they demolished ŁKS Łódź then lost to Omonia and Farul. The H2H leans slightly Dinamo's way with one win in the last two, but the previous match was a draw, so there's zero momentum for either club here.\n\nKey storylines:\n\n- **D. Armstrong and G. Pușcaș** will look to spark Dinamo's attack after a shaky run of results, especially following that Farul loss at home\n- **M. Costache and D. N'Lundulu** are Petrolul's attacking focal points in what could be a tight, low-confidence clash\n- Petrolul drawing 2-2 at home recently shows they can create chances; Dinamo's wild scoring variance (4-0 followed by 1-2) makes prediction a minefield\n\nExpected lineups:\n\n- **FC Petrolul Ploiești**: L. Zima, A. Dumitrescu, P. Papp, M. Dulca, D. Rodrigues, A. Boțogan, A. Mateiu, A. Chică-Roșă, A. Dumitrache, D. N'Lundulu, M. Costache\n- **FC Dinamo București**: D. Epassy, R. Opruț, N. Stoioanov, M. Sivis, M. Dutu, C. Cîrjan, C. Mihai, A. Caragea, D. Armstrong, G. Pușcaș, A. M. Musi\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**1-1 draw.** Both teams have the firepower to score but lack the defensive solidity to dominate — a stalemate feels spot on.",
-            "generated_at": "2026-07-19T00:46:12.269893+00:00"
-          },
-          "live_websocket": true
-        },
-        "created_at": "2026-07-12T05:20:28.131148+03:00",
-        "prob_home_win": 33.86323465093021,
-        "prob_draw": 35.55041146572156,
-        "prob_away_win": 30.586353883348234,
-        "predicted_result": "D",
-        "expected_home_goals": 1.35778,
-        "expected_away_goals": 1.01137,
-        "prob_over_15": 80.60623354196417,
-        "prob_over_25": 53.97351855517698,
-        "prob_over_35": 34.13255416697493,
-        "prob_btts_yes": 66.05906469339253,
-        "confidence": 35.55041146572156,
-        "model_version": "v5.0",
-        "most_likely_score": "1-1",
-        "favorite": "H",
-        "favorite_prob": 33.86323465093021,
-        "favorite_recommend": false,
-        "over_15_recommend": false,
-        "over_25_recommend": false,
-        "over_35_recommend": false,
-        "btts_recommend": false,
-        "winner_recommend": false
-      },
-      "event_detail": {
-        "id": 214526,
-        "league": {
-          "id": 23,
-          "name": "Superliga",
-          "country": "Romania",
-          "is_women": false,
-          "current_season": {
-            "id": 1396,
-            "name": "Superliga 26/27",
-            "year": 2026,
-            "start_date": "2026-07-01",
-            "end_date": "2027-06-30"
-          }
-        },
-        "season": {
-          "id": 1396,
-          "name": "Superliga 26/27",
-          "year": 2026
-        },
-        "home_team": "FC Petrolul Ploiești",
-        "away_team": "FC Dinamo București",
-        "home_team_obj": {
-          "id": 362,
-          "name": "FC Petrolul Ploiești",
-          "short_name": "Petrolul Ploiești",
-          "country": "Romania",
-          "coach": {
-            "name": "Ricardo Sousa",
-            "shortName": "R. Sousa"
-          },
-          "venue": {
-            "id": 342,
-            "name": "Stadionul Ilie Oană",
-            "city": "Ploiesti",
-            "country": "Romania",
-            "capacity": 15500
-          }
-        },
-        "away_team_obj": {
-          "id": 368,
-          "name": "FC Dinamo București",
-          "short_name": "Dinamo București",
-          "country": "Romania",
-          "coach": {
-            "name": "Nuno Campos",
-            "shortName": "N. Campos"
-          },
-          "venue": {
-            "id": 348,
-            "name": "Dinamo Stadium",
-            "city": "Bucharest",
-            "country": "Romania",
-            "capacity": 15032
-          }
-        },
-        "event_date": "2026-07-19T19:30:00+03:00",
-        "round_number": 1,
-        "round_name": "",
-        "group_name": null,
-        "status": "notstarted",
-        "home_score": null,
-        "away_score": null,
-        "home_score_ht": null,
-        "away_score_ht": null,
-        "current_minute": null,
-        "period": "",
-        "odds_home": 3.81,
-        "odds_draw": 3.12,
-        "odds_away": 2.01,
-        "odds_over_15": 1.38,
-        "odds_over_25": 2.2,
-        "odds_over_35": 3.98,
-        "odds_under_15": 2.85,
-        "odds_under_25": 1.62,
-        "odds_under_35": 1.21,
-        "odds_btts_yes": 1.93,
-        "odds_btts_no": 1.78,
-        "actual_home_xg": null,
-        "actual_away_xg": null,
-        "home_xg_live": null,
-        "away_xg_live": null,
-        "penalty_shootout": null,
-        "extra_time_score": null,
-        "is_local_derby": false,
-        "is_neutral_ground": null,
-        "travel_distance_km": 54,
-        "weather_code": 0,
-        "wind_speed": 8.8,
-        "temperature_c": 31,
-        "pitch_condition": null,
-        "attendance": null,
-        "referee": null,
-        "home_coach": {
-          "id": 1994,
-          "name": "Ricardo Sousa",
-          "short_name": "R. Sousa",
-          "country": "Portugal",
-          "profile": "",
-          "preferred_formation": "",
-          "pressing_intensity": null,
-          "defensive_line": "",
-          "top_styles": []
-        },
-        "away_coach": {
-          "id": 999,
-          "name": "Nuno Campos",
-          "short_name": "N. Campos",
-          "country": "Portugal",
-          "profile": "attacking",
-          "preferred_formation": "",
-          "pressing_intensity": null,
-          "defensive_line": "",
-          "top_styles": []
-        },
-        "unavailable_players": {
-          "home": [],
-          "away": [
-            {
-              "name": "Alaa Bellaarouch",
-              "status": "doubtful",
-              "reason": "",
-              "expected_return": null
-            },
-            {
-              "name": "Darío Benavides",
-              "status": "injured",
-              "reason": "Unknown",
-              "expected_return": null
-            }
-          ]
-        },
-        "venue": {
-          "id": 342,
-          "name": "Stadionul Ilie Oană",
-          "city": "Ploiesti",
-          "country": "Romania",
-          "capacity": 15500,
-          "latitude": 44.940278,
-          "longitude": 26.033333,
-          "pitch_x": 105,
-          "pitch_y": 68,
-          "built_year": 2011
-        },
-        "live_stats": null,
-        "jerseys": {
-          "away": {
-            "GK": {
-              "base": "5eb4ab",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "59b3aa",
-              "sleevelong": "075c4f"
-            },
-            "player": {
-              "base": "d10000",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "ffffff",
-              "sleevelong": "cc0000"
-            }
-          },
-          "home": {
-            "GK": {
-              "base": "f16f0a",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "000000",
-              "sleeve": "8d8d8d"
-            },
-            "player": {
-              "base": "ffff00",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "2e4298",
-              "sleeve": "2e4298",
-              "sleevelong": "ffff00"
-            }
-          }
-        },
-        "funfacts": [
-          {
-            "type_id": 1,
-            "sentence": "Petrolul Ploiesti have played 5 home matches in a row without winning."
-          },
-          {
-            "type_id": 1,
-            "sentence": "Dinamo Bucuresti haven't won any of their last 8 away matches."
-          },
-          {
-            "type_id": 6,
-            "sentence": "During the last 9 meetings with Petrolul Ploiesti playing at home, Petrolul Ploiesti have won 2 times, there have been 2 draws while Dinamo Bucuresti have won 5 times. The goal difference is 18-8 in favour of Dinamo Bucuresti."
-          }
-        ],
-        "sr_stats": null,
-        "ai_preview": {
-          "text": "**Dinamo's inconsistency meets Petrolul's mixed form in a Superliga opener that screams unpredictability.** Neither side looks rock solid heading into round 1, which sets up a classic coin-flip affair. 🎲\n\nPetrolul's picked up a decent draw recently but also got hammered by Arka Gdynik. Dinamo meanwhile has been all over the map — they demolished ŁKS Łódź then lost to Omonia and Farul. The H2H leans slightly Dinamo's way with one win in the last two, but the previous match was a draw, so there's zero momentum for either club here.\n\nKey storylines:\n\n- **D. Armstrong and G. Pușcaș** will look to spark Dinamo's attack after a shaky run of results, especially following that Farul loss at home\n- **M. Costache and D. N'Lundulu** are Petrolul's attacking focal points in what could be a tight, low-confidence clash\n- Petrolul drawing 2-2 at home recently shows they can create chances; Dinamo's wild scoring variance (4-0 followed by 1-2) makes prediction a minefield\n\nExpected lineups:\n\n- **FC Petrolul Ploiești**: L. Zima, A. Dumitrescu, P. Papp, M. Dulca, D. Rodrigues, A. Boțogan, A. Mateiu, A. Chică-Roșă, A. Dumitrache, D. N'Lundulu, M. Costache\n- **FC Dinamo București**: D. Epassy, R. Opruț, N. Stoioanov, M. Sivis, M. Dutu, C. Cîrjan, C. Mihai, A. Caragea, D. Armstrong, G. Pușcaș, A. M. Musi\n\nBest picks:\n\n- **Total Goals 1.5**: Over 1.5 goals\n\nPrediction:\n\n**1-1 draw.** Both teams have the firepower to score but lack the defensive solidity to dominate — a stalemate feels spot on.",
-          "generated_at": "2026-07-19T00:46:12.269893+00:00"
-        },
-        "live_websocket": true,
-        "home_form": {
-          "calculated_at": "2026-07-19",
-          "matches_played": 5,
-          "form_string": "LDDLD",
-          "wins": 0,
-          "draws": 3,
-          "losses": 2,
-          "points_last_n": 3,
-          "goals_scored_last_n": 5,
-          "goals_conceded_last_n": 11,
-          "avg_xg": 1.1248,
-          "avg_xg_conceded": 1.91962,
-          "avg_shots": 12.8,
-          "avg_shots_on_target": 4.8,
-          "avg_key_passes": 9.2,
-          "goal_conversion_rate": 0.8890469416785207,
-          "defensive_efficiency": -0.1460601577395526,
-          "clean_sheets": 0,
-          "avg_pass_accuracy": 77.73686369376946,
-          "duel_win_rate": 0.49776785714285715,
-          "aerial_win_rate": 0.5588235294117647,
-          "avg_fouls": 13.2,
-          "avg_yellow_cards": 1.4,
-          "home_ppg": 1.2,
-          "away_ppg": 0.8,
-          "home_goals_scored": 6,
-          "home_goals_conceded": 8,
-          "away_goals_scored": 4,
-          "away_goals_conceded": 8,
-          "avg_team_rating": 6.59975
-        },
-        "away_form": {
-          "calculated_at": "2026-07-19",
-          "matches_played": 5,
-          "form_string": "LDDWL",
-          "wins": 1,
-          "draws": 2,
-          "losses": 2,
-          "points_last_n": 5,
-          "goals_scored_last_n": 5,
-          "goals_conceded_last_n": 6,
-          "avg_xg": 0.82394,
-          "avg_xg_conceded": 0.9490999999999999,
-          "avg_shots": 15.6,
-          "avg_shots_on_target": 4,
-          "avg_key_passes": 11.2,
-          "goal_conversion_rate": 1.2136806078112483,
-          "defensive_efficiency": -0.26435570540512066,
-          "clean_sheets": 1,
-          "avg_pass_accuracy": 79.98624683142785,
-          "duel_win_rate": 0.5218295218295218,
-          "aerial_win_rate": 0.52,
-          "avg_fouls": 9.8,
-          "avg_yellow_cards": 2.2,
-          "home_ppg": 2,
-          "away_ppg": 0.6,
-          "home_goals_scored": 8,
-          "home_goals_conceded": 5,
-          "away_goals_scored": 6,
-          "away_goals_conceded": 8,
-          "avg_team_rating": 6.784210784313726
-        },
-        "head_to_head": {
-          "total_matches": 2,
-          "home_wins": 0,
-          "draws": 1,
-          "away_wins": 1,
-          "home_goals": 1,
-          "away_goals": 4,
-          "avg_total_goals": 2.5,
-          "home_win_rate": 0,
-          "away_win_rate": 0.5,
-          "recent_matches": [
-            {
-              "away": "FC Petrolul Ploiești",
-              "date": "2026-01-30T18:00:00+00:00",
-              "home": "FC Dinamo București",
-              "score": "1-1"
-            },
-            {
-              "away": "FC Dinamo București",
-              "date": "2025-09-15T18:00:00+00:00",
-              "home": "FC Petrolul Ploiești",
-              "score": "0-3"
-            }
-          ]
-        },
-        "lineups": {
-          "away": {
-            "players": [
-              {
-                "name": "A. Bellaarouch",
-                "goals": 0,
-                "api_id": 1000501,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "G",
-                "red_card": false,
-                "player_id": 899,
-                "yellow_card": false,
-                "jersey_number": "36",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "GK",
-                "positions_detailed": []
-              },
-              {
-                "name": "M. Sivis",
-                "goals": 0,
-                "api_id": 869934,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 11114,
-                "yellow_card": false,
-                "jersey_number": "27",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "M. Pascual",
-                "goals": 0,
-                "api_id": 947201,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 31806,
-                "yellow_card": false,
-                "jersey_number": "44",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "CB",
-                "positions_detailed": [
-                  "CB"
-                ]
-              },
-              {
-                "name": "N. Stoioanov",
-                "goals": 0,
-                "api_id": 1214868,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 11117,
-                "yellow_card": false,
-                "jersey_number": "15",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "R. Opruț",
-                "goals": 0,
-                "api_id": 878671,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 11118,
-                "yellow_card": false,
-                "jersey_number": "31",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "LB",
-                "positions_detailed": [
-                  "LB"
-                ]
-              },
-              {
-                "name": "D. Armstrong",
-                "goals": 0,
-                "api_id": 895765,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 11133,
-                "yellow_card": false,
-                "jersey_number": "77",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "A. Soro",
-                "goals": 0,
-                "api_id": 944049,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 11136,
-                "yellow_card": false,
-                "jersey_number": "29",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "A. Mărginean",
-                "goals": 0,
-                "api_id": 1001769,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 11124,
-                "yellow_card": false,
-                "jersey_number": "90",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "C. Cîrjan",
-                "goals": 0,
-                "api_id": 1065254,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 11131,
-                "yellow_card": false,
-                "jersey_number": "10",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "A. M. Musi",
-                "goals": 0,
-                "api_id": 1142723,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "F",
-                "red_card": false,
-                "player_id": 11128,
-                "yellow_card": false,
-                "jersey_number": "7",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "FWD",
-                "positions_detailed": []
-              },
-              {
-                "name": "A. Pop",
-                "goals": 0,
-                "api_id": 839694,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "F",
-                "red_card": false,
-                "player_id": 11143,
-                "yellow_card": false,
-                "jersey_number": "99",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "FWD",
-                "positions_detailed": []
-              }
-            ],
-            "formation": "4-4-2",
-            "substitutes": [
-              {
-                "name": "D. Epassy",
-                "goals": 0,
-                "api_id": 362758,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "G",
-                "red_card": false,
-                "player_id": 11112,
-                "yellow_card": false,
-                "jersey_number": "1",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "GK",
-                "positions_detailed": []
-              },
-              {
-                "name": "R. Răzvan",
-                "goals": 0,
-                "api_id": 1902130,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 62216,
-                "yellow_card": false,
-                "jersey_number": "19",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "C. Licsandru",
-                "goals": 0,
-                "api_id": 1875754,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 11989,
-                "yellow_card": false,
-                "jersey_number": "6",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "M. Dutu",
-                "goals": 0,
-                "api_id": 1152493,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 8532,
-                "yellow_card": false,
-                "jersey_number": "30",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "A. Irimia",
-                "goals": 0,
-                "api_id": 1517145,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 10867,
-                "yellow_card": false,
-                "jersey_number": "98",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "AM",
-                "positions_detailed": [
-                  "AM"
-                ]
-              },
-              {
-                "name": "G. U. Etetim",
-                "goals": 0,
-                "api_id": 1853385,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 62215,
-                "yellow_card": false,
-                "jersey_number": "16",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "D. Irimia",
-                "goals": 0,
-                "api_id": 1496353,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 10870,
-                "yellow_card": false,
-                "jersey_number": "20",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "C. Mihai",
-                "goals": 0,
-                "api_id": 1126975,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 11150,
-                "yellow_card": false,
-                "jersey_number": "21",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "O. Hintsa",
-                "goals": 0,
-                "api_id": 992235,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "F",
-                "red_card": false,
-                "player_id": 59988,
-                "yellow_card": false,
-                "jersey_number": "18",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "FWD",
-                "positions_detailed": []
-              },
-              {
-                "name": "I. Târbă",
-                "goals": 0,
-                "api_id": 1426621,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "F",
-                "red_card": false,
-                "player_id": 11170,
-                "yellow_card": false,
-                "jersey_number": "23",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "FWD",
-                "positions_detailed": []
-              },
-              {
-                "name": "A. Mazilu",
-                "goals": 0,
-                "api_id": 1152449,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "F",
-                "red_card": false,
-                "player_id": 11140,
-                "yellow_card": false,
-                "jersey_number": "26",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "FWD",
-                "positions_detailed": []
-              },
-              {
-                "name": "M. Karamoko",
-                "goals": 0,
-                "api_id": 974196,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "F",
-                "red_card": false,
-                "player_id": 11785,
-                "yellow_card": false,
-                "jersey_number": "9",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "FWD",
-                "positions_detailed": []
-              }
-            ]
-          },
-          "home": {
-            "players": [
-              {
-                "name": "L. Zima",
-                "goals": 0,
-                "api_id": 135602,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "G",
-                "red_card": false,
-                "player_id": 3078,
-                "yellow_card": false,
-                "jersey_number": "38",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "GK",
-                "positions_detailed": [
-                  "GK"
-                ]
-              },
-              {
-                "name": "T. Căpuşă",
-                "goals": 0,
-                "api_id": 856555,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 11768,
-                "yellow_card": false,
-                "jersey_number": "66",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "RB",
-                "positions_detailed": [
-                  "RB",
-                  "CB"
-                ]
-              },
-              {
-                "name": "P. Papp",
-                "goals": 0,
-                "api_id": 69336,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 10980,
-                "yellow_card": false,
-                "jersey_number": "4",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "A. Zaian",
-                "goals": 0,
-                "api_id": 2072429,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 63944,
-                "yellow_card": false,
-                "jersey_number": "24",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "CB",
-                "positions_detailed": [
-                  "CB"
-                ]
-              },
-              {
-                "name": "A. Dumitrescu",
-                "goals": 0,
-                "api_id": 1000581,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 10988,
-                "yellow_card": false,
-                "jersey_number": "2",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "LB",
-                "positions_detailed": [
-                  "LB"
-                ]
-              },
-              {
-                "name": "K. Ludewig",
-                "goals": 0,
-                "api_id": 877843,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 11992,
-                "yellow_card": false,
-                "jersey_number": "29",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "M. Ioniță",
-                "goals": 0,
-                "api_id": 1492209,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 63942,
-                "yellow_card": false,
-                "jersey_number": "80",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "S. Hanca",
-                "goals": 0,
-                "api_id": 113743,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 11003,
-                "yellow_card": false,
-                "jersey_number": "20",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "R. Martins",
-                "goals": 0,
-                "api_id": 945059,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 63938,
-                "yellow_card": false,
-                "jersey_number": "7",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "LW",
-                "positions_detailed": [
-                  "LW"
-                ]
-              },
-              {
-                "name": "L. Teixeira",
-                "goals": 0,
-                "api_id": 1161080,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "F",
-                "red_card": false,
-                "player_id": 63937,
-                "yellow_card": false,
-                "jersey_number": "19",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "LW",
-                "positions_detailed": [
-                  "LW"
-                ]
-              },
-              {
-                "name": "R. D. Jerdea",
-                "goals": 0,
-                "api_id": 1112607,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "F",
-                "red_card": false,
-                "player_id": 63939,
-                "yellow_card": false,
-                "jersey_number": "98",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "ST",
-                "positions_detailed": [
-                  "ST"
-                ]
-              }
-            ],
-            "formation": "4-4-2",
-            "substitutes": [
-              {
-                "name": "Ș. Rădulescu",
-                "goals": 0,
-                "api_id": 2462564,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "G",
-                "red_card": false,
-                "player_id": 65807,
-                "yellow_card": false,
-                "jersey_number": "1",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "GK",
-                "positions_detailed": []
-              },
-              {
-                "name": "S. Georgescu",
-                "goals": 0,
-                "api_id": 1399625,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "G",
-                "red_card": false,
-                "player_id": 36049,
-                "yellow_card": false,
-                "jersey_number": "12",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "GK",
-                "positions_detailed": []
-              },
-              {
-                "name": "M. Țuțu",
-                "goals": 0,
-                "api_id": 1906867,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 11788,
-                "yellow_card": false,
-                "jersey_number": "22",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "R. Leescu",
-                "goals": 0,
-                "api_id": 2641475,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 63946,
-                "yellow_card": false,
-                "jersey_number": "30",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "D. Paraschiv",
-                "goals": 0,
-                "api_id": 1804825,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 13615,
-                "yellow_card": false,
-                "jersey_number": "21",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "A. Dumitrache",
-                "goals": 0,
-                "api_id": 1637176,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 11751,
-                "yellow_card": false,
-                "jersey_number": "97",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "I. Tolea",
-                "goals": 0,
-                "api_id": 1465151,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 11868,
-                "yellow_card": false,
-                "jersey_number": "11",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "L. Argeșanu",
-                "goals": 0,
-                "api_id": 2641664,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 63943,
-                "yellow_card": false,
-                "jersey_number": "26",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "D. N'Lundulu",
-                "goals": 0,
-                "api_id": 920374,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "F",
-                "red_card": false,
-                "player_id": 5917,
-                "yellow_card": false,
-                "jersey_number": "17",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "FWD",
-                "positions_detailed": []
-              },
-              {
-                "name": "M. Costache",
-                "goals": 0,
-                "api_id": 2641663,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 63940,
-                "yellow_card": false,
-                "jersey_number": "28",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "A. Chică-Roșă",
-                "goals": 0,
-                "api_id": 1155668,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "F",
-                "red_card": false,
-                "player_id": 10993,
-                "yellow_card": false,
-                "jersey_number": "9",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "FWD",
-                "positions_detailed": []
-              },
-              {
-                "name": "R. Manolache",
-                "goals": 0,
-                "api_id": 2149099,
-                "rating": null,
-                "sub_in": null,
-                "sub_out": null,
-                "position": "F",
-                "red_card": false,
-                "player_id": 11816,
-                "yellow_card": false,
-                "jersey_number": "40",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "FWD",
-                "positions_detailed": []
-              }
-            ]
-          },
-          "confirmed": true
-        },
-        "social": []
-      },
-      "managers": {
-        "home": {
-          "id": 464,
-          "name": "Mehmet Topal",
-          "short_name": "M. Topal",
-          "country": "Türkiye",
-          "current_team": {
-            "id": 362,
-            "name": "FC Petrolul Ploiești"
-          },
-          "preferred_formation": "4-2-3-1",
-          "formations_used": {
-            "3-4-3": 7,
-            "3-5-2": 2,
-            "4-3-3": 14,
-            "5-3-2": 1,
-            "3-4-2-1": 1,
-            "4-1-4-1": 1,
-            "4-2-3-1": 12,
-            "4-4-1-1": 1
-          },
-          "profile": "defensive",
-          "team_style": "neutral",
-          "pressing_intensity": 0.5936793755089345,
-          "defensive_line": "mid",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "set_piece",
-              "name": "Set-Piece Reliant",
-              "category": "defensive",
-              "emoji": "🎯",
-              "description": "Goals mainly from corners and free kicks",
-              "score": 0.075
-            },
-            {
-              "rank": 2,
-              "code": "cross_pray",
-              "name": "Cross & Pray",
-              "category": "wide",
-              "emoji": "🙏",
-              "description": "High-volume hopeful crosses into the box",
-              "score": 0.065
-            },
-            {
-              "rank": 3,
-              "code": "terrorist_fb",
-              "name": "Terrorist Football",
-              "category": "fan",
-              "emoji": "💣",
-              "description": "Ultra-negative setup — destroy the game",
-              "score": 0.062
-            },
-            {
-              "rank": 4,
-              "code": "park_the_bus",
-              "name": "Park the Bus",
-              "category": "defensive",
-              "emoji": "🚌",
-              "description": "Ultra-deep defense, minimal attacking intent",
-              "score": 0.058
-            }
-          ],
-          "matches_total": 39,
-          "wins": 9,
-          "draws": 14,
-          "losses": 16,
-          "win_pct": 23.1,
-          "avg_goals_scored": 0.85,
-          "avg_goals_conceded": 1.18,
-          "avg_possession": 46.62,
-          "avg_shots": 12.38,
-          "avg_shots_on_target": 3.54,
-          "avg_xg_for": 1.1,
-          "avg_xg_against": 1.31,
-          "avg_corners": 4.92,
-          "avg_yellow_cards": 2.13,
-          "avg_red_cards": 0.05,
-          "avg_fouls": 14.56,
-          "clean_sheet_pct": 23.1,
-          "btts_pct": 48.7,
-          "over_25_pct": 28.2,
-          "over_15_pct": 64.1,
-          "fail_to_score_pct": 35.9,
-          "avg_goals_scored_1h": 0.31,
-          "avg_goals_conceded_1h": 0.49
-        },
-        "away": {
-          "id": 999,
-          "name": "Nuno Campos",
-          "short_name": "N. Campos",
-          "country": "Portugal",
-          "current_team": {
-            "id": 368,
-            "name": "FC Dinamo București"
-          },
-          "preferred_formation": "",
-          "formations_used": {},
-          "profile": "attacking",
-          "team_style": "soft",
-          "pressing_intensity": null,
-          "defensive_line": "",
-          "tactical_styles": [],
-          "matches_total": 4,
-          "wins": 4,
-          "draws": 0,
-          "losses": 0,
-          "win_pct": 100,
-          "avg_goals_scored": 4.75,
-          "avg_goals_conceded": 0.5,
-          "avg_possession": null,
-          "avg_shots": null,
-          "avg_shots_on_target": null,
-          "avg_xg_for": null,
-          "avg_xg_against": null,
-          "avg_corners": null,
-          "avg_yellow_cards": 0.75,
-          "avg_red_cards": 0,
-          "avg_fouls": null,
-          "clean_sheet_pct": 50,
-          "btts_pct": 50,
-          "over_25_pct": 75,
-          "over_15_pct": 75,
-          "fail_to_score_pct": 0,
-          "avg_goals_scored_1h": 1.25,
-          "avg_goals_conceded_1h": 0
-        }
-      }
-    },
-    {
-      "event_id": 211652,
-      "prediction": {
-        "id": 5432,
-        "event": {
-          "id": 211652,
-          "league": {
-            "id": 22,
-            "name": "Parva Liga",
-            "country": "Bulgaria",
-            "is_women": false,
-            "current_season": {
-              "id": 1326,
-              "name": "Parva Liga 26/27",
-              "year": 2026,
-              "start_date": "2026-07-01",
-              "end_date": "2027-06-30"
-            }
-          },
-          "season": {
-            "id": 1326,
-            "name": "Parva Liga 26/27",
-            "year": 2026
-          },
-          "home_team": "Botev Vratsa",
-          "away_team": "Cherno More Varna",
-          "home_team_obj": {
-            "id": 347,
-            "name": "Botev Vratsa",
-            "short_name": "Botev Vratsa",
-            "country": "Bulgaria",
-            "coach": {
-              "name": "Todor Simov",
-              "shortName": "T. Simov"
-            },
-            "venue": {
-              "id": 327,
-              "name": "Hristo Botev Stadium",
-              "city": "Vratsa",
-              "country": "Bulgaria",
-              "capacity": 25000
-            }
-          },
-          "away_team_obj": {
-            "id": 342,
-            "name": "Cherno More Varna",
-            "short_name": "Cherno More",
-            "country": "Bulgaria",
-            "coach": {
-              "name": "Ilian Iliev",
-              "shortName": "I. Iliev"
-            },
-            "venue": {
-              "id": 322,
-              "name": "Ticha Stadium",
-              "city": "Varna",
-              "country": "Bulgaria",
-              "capacity": 6250
-            }
-          },
-          "event_date": "2026-07-19T19:30:00+03:00",
-          "round_number": 1,
-          "round_name": "",
-          "group_name": null,
-          "status": "notstarted",
-          "home_score": null,
-          "away_score": null,
-          "home_score_ht": null,
-          "away_score_ht": null,
-          "current_minute": null,
-          "period": "",
-          "odds_home": 2.75,
-          "odds_draw": 2.69,
-          "odds_away": 2.85,
-          "odds_over_15": 1.51,
-          "odds_over_25": 2.6,
-          "odds_over_35": 5.04,
-          "odds_under_15": 2.42,
-          "odds_under_25": 1.44,
-          "odds_under_35": 1.14,
-          "odds_btts_yes": 2.06,
-          "odds_btts_no": 1.68,
-          "actual_home_xg": null,
-          "actual_away_xg": null,
-          "home_xg_live": null,
-          "away_xg_live": null,
-          "penalty_shootout": null,
-          "extra_time_score": null,
-          "is_local_derby": false,
-          "is_neutral_ground": null,
-          "travel_distance_km": 354,
-          "weather_code": 3,
-          "wind_speed": 2.9,
-          "temperature_c": 30,
-          "pitch_condition": null,
-          "attendance": null,
-          "referee": {
-            "id": 2265,
-            "name": "Georgi Kabakov",
-            "country": "Bulgaria",
-            "nationality_a3": "",
-            "birthdate": null,
-            "yellowCards": 1880,
-            "redCards": 37,
-            "career_games": 336,
-            "career_yellow_cards": 1880,
-            "career_red_cards": 37
-          },
-          "home_coach": {
-            "id": 459,
-            "name": "Todor Simov",
-            "short_name": "T. Simov",
-            "country": "Bulgaria",
-            "profile": "defensive",
-            "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.2361828048147246,
-            "defensive_line": "high",
-            "top_styles": [
-              "terrorist_fb",
-              "set_piece"
-            ]
-          },
-          "away_coach": {
-            "id": 365,
-            "name": "Ilian Iliev",
-            "short_name": "I. Iliev",
-            "country": "Bulgaria",
-            "profile": "balanced",
-            "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.3528548197442915,
-            "defensive_line": "mid",
-            "top_styles": [
-              "man_press",
-              "low_block"
-            ]
-          },
-          "unavailable_players": null,
-          "venue": {
-            "id": 327,
-            "name": "Hristo Botev Stadium",
-            "city": "Vratsa",
-            "country": "Bulgaria",
-            "capacity": 25000,
-            "latitude": 43.200845,
-            "longitude": 23.568702,
-            "pitch_x": null,
-            "pitch_y": null,
-            "built_year": 1948
-          },
-          "incidents": null,
-          "live_stats": null,
-          "lineups": null,
-          "shotmap": null,
-          "momentum": null,
-          "xg_per_minute": null,
-          "average_positions": null,
-          "jerseys": {
-            "away": {
-              "GK": {
-                "base": "fae500",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "e5ff58"
-              },
-              "player": {
-                "base": "ffffff",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "000000",
-                "sleeve": "03883e",
-                "horizontalstripes": "03883e"
-              }
-            },
-            "home": {
-              "GK": {
-                "base": "ececec",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "0a0a0a",
-                "sleeve": "000000"
-              },
-              "player": {
-                "base": "1d7b43",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "f6f8f8"
-              }
-            }
-          },
-          "funfacts": [
-            {
-              "type_id": 1,
-              "sentence": "Vratsa haven't lost in their last 11 games."
-            },
-            {
-              "type_id": 1,
-              "sentence": "Vratsa haven't lost in any of their last 7 home matches."
-            },
-            {
-              "type_id": 6,
-              "sentence": "During the last 10 meetings with Vratsa playing at home, Vratsa have won 3 times, there have been 2 draws while Varna have won 5 times. The goal difference is 10-7 in favour of Varna."
-            }
-          ],
-          "sr_stats": null,
-          "ai_preview": {
-            "text": "**Botev Vratsa look sharp heading into the season opener, while Cherno More Varna are dealing with draw fatigue.** The hosts are unbeaten in preseason and should carry that momentum into round 1. 🔥\n\nVratsa's 3W-2D run is crisp, though they've conceded in most of those friendlies. Varna haven't lost either, but three draws out of five is the calling card of a team that struggles to finish — they'll want early intensity to avoid another stalemate.\n\nKey storylines:\n\n- **Botev's attacking trio** of Gallegos, Yurukov, and Petkov will probe Varna's back line early; **Donchev and Beyhan** need to stay compact\n- **Borukov** is the focal point up top for Vratsa and thrives in these opening fixtures where opposition rhythm is still settling\n- **Cherno More's draw curse**: Varna have to shake off three consecutive deadlocks or face another frustrating afternoon\n\nExpected lineups:\n\n- **Botev Vratsa**: Vasilev, Jovičić, Goranov, Boyanov, Stoev, Stoyanov, Genov, Gallegos, Yurukov, Petkov, Borukov\n- **Cherno More Varna**: Tomov, Bandaro, Donchev, Beyhan, Tombak, Teles, Panayotov, Lazarov, Zlatev, Sidney, Kolev\n\nBest picks:\n\n- **Total Goals Under 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Botev Vratsa 2–0 Cherno More Varna**\n\nThe model leans Botev, and the preseason form gap is real. Varna haven't found the net enough to trouble this Vratsa side.",
-            "generated_at": "2026-07-19T00:46:17.655879+00:00"
-          },
-          "live_websocket": true
-        },
-        "created_at": "2026-07-13T05:20:19.670875+03:00",
-        "prob_home_win": 67.3311903827787,
-        "prob_draw": 20.802160125579935,
-        "prob_away_win": 11.866649491641367,
-        "predicted_result": "H",
-        "expected_home_goals": 1.32141,
-        "expected_away_goals": 0.34665999999999997,
-        "prob_over_15": 59.61961110822548,
-        "prob_over_25": 37.76604075407673,
-        "prob_over_35": 16.372413313130664,
-        "prob_btts_yes": 26.21966445910764,
-        "confidence": 67.3311903827787,
-        "model_version": "v5.0",
-        "most_likely_score": "1-0",
-        "favorite": "H",
-        "favorite_prob": 67.3311903827787,
-        "favorite_recommend": false,
-        "over_15_recommend": false,
-        "over_25_recommend": false,
-        "over_35_recommend": false,
-        "btts_recommend": false,
-        "winner_recommend": false
-      },
-      "event_detail": {
-        "id": 211652,
-        "league": {
-          "id": 22,
-          "name": "Parva Liga",
-          "country": "Bulgaria",
-          "is_women": false,
-          "current_season": {
-            "id": 1326,
-            "name": "Parva Liga 26/27",
-            "year": 2026,
-            "start_date": "2026-07-01",
-            "end_date": "2027-06-30"
-          }
-        },
-        "season": {
-          "id": 1326,
-          "name": "Parva Liga 26/27",
-          "year": 2026
-        },
-        "home_team": "Botev Vratsa",
-        "away_team": "Cherno More Varna",
-        "home_team_obj": {
-          "id": 347,
-          "name": "Botev Vratsa",
-          "short_name": "Botev Vratsa",
-          "country": "Bulgaria",
-          "coach": {
-            "name": "Todor Simov",
-            "shortName": "T. Simov"
-          },
-          "venue": {
-            "id": 327,
-            "name": "Hristo Botev Stadium",
-            "city": "Vratsa",
-            "country": "Bulgaria",
-            "capacity": 25000
-          }
-        },
-        "away_team_obj": {
-          "id": 342,
-          "name": "Cherno More Varna",
-          "short_name": "Cherno More",
-          "country": "Bulgaria",
-          "coach": {
-            "name": "Ilian Iliev",
-            "shortName": "I. Iliev"
-          },
-          "venue": {
-            "id": 322,
-            "name": "Ticha Stadium",
-            "city": "Varna",
-            "country": "Bulgaria",
-            "capacity": 6250
-          }
-        },
-        "event_date": "2026-07-19T19:30:00+03:00",
-        "round_number": 1,
-        "round_name": "",
-        "group_name": null,
-        "status": "notstarted",
-        "home_score": null,
-        "away_score": null,
-        "home_score_ht": null,
-        "away_score_ht": null,
-        "current_minute": null,
-        "period": "",
-        "odds_home": 2.75,
-        "odds_draw": 2.69,
-        "odds_away": 2.85,
-        "odds_over_15": 1.51,
-        "odds_over_25": 2.6,
-        "odds_over_35": 5.04,
-        "odds_under_15": 2.42,
-        "odds_under_25": 1.44,
-        "odds_under_35": 1.14,
-        "odds_btts_yes": 2.06,
-        "odds_btts_no": 1.68,
-        "actual_home_xg": null,
-        "actual_away_xg": null,
-        "home_xg_live": null,
-        "away_xg_live": null,
-        "penalty_shootout": null,
-        "extra_time_score": null,
-        "is_local_derby": false,
-        "is_neutral_ground": null,
-        "travel_distance_km": 354,
-        "weather_code": 3,
-        "wind_speed": 2.9,
-        "temperature_c": 30,
-        "pitch_condition": null,
-        "attendance": null,
-        "referee": {
-          "id": 2265,
-          "name": "Georgi Kabakov",
-          "country": "Bulgaria",
-          "nationality_a3": "",
-          "birthdate": null,
-          "yellowCards": 1880,
-          "redCards": 37,
-          "career_games": 336,
-          "career_yellow_cards": 1880,
-          "career_red_cards": 37
-        },
-        "home_coach": {
-          "id": 459,
-          "name": "Todor Simov",
-          "short_name": "T. Simov",
-          "country": "Bulgaria",
-          "profile": "defensive",
-          "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.2361828048147246,
-          "defensive_line": "high",
-          "top_styles": [
-            "terrorist_fb",
-            "set_piece"
-          ]
-        },
-        "away_coach": {
-          "id": 365,
-          "name": "Ilian Iliev",
-          "short_name": "I. Iliev",
-          "country": "Bulgaria",
-          "profile": "balanced",
-          "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.3528548197442915,
-          "defensive_line": "mid",
-          "top_styles": [
-            "man_press",
-            "low_block"
-          ]
-        },
-        "unavailable_players": null,
-        "venue": {
-          "id": 327,
-          "name": "Hristo Botev Stadium",
-          "city": "Vratsa",
-          "country": "Bulgaria",
-          "capacity": 25000,
-          "latitude": 43.200845,
-          "longitude": 23.568702,
-          "pitch_x": null,
-          "pitch_y": null,
-          "built_year": 1948
-        },
-        "live_stats": null,
-        "jerseys": {
-          "away": {
-            "GK": {
-              "base": "fae500",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "e5ff58"
-            },
-            "player": {
-              "base": "ffffff",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "000000",
-              "sleeve": "03883e",
-              "horizontalstripes": "03883e"
-            }
-          },
-          "home": {
-            "GK": {
-              "base": "ececec",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "0a0a0a",
-              "sleeve": "000000"
-            },
-            "player": {
-              "base": "1d7b43",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "f6f8f8"
-            }
-          }
-        },
-        "funfacts": [
-          {
-            "type_id": 1,
-            "sentence": "Vratsa haven't lost in their last 11 games."
-          },
-          {
-            "type_id": 1,
-            "sentence": "Vratsa haven't lost in any of their last 7 home matches."
-          },
-          {
-            "type_id": 6,
-            "sentence": "During the last 10 meetings with Vratsa playing at home, Vratsa have won 3 times, there have been 2 draws while Varna have won 5 times. The goal difference is 10-7 in favour of Varna."
-          }
-        ],
-        "sr_stats": null,
-        "ai_preview": {
-          "text": "**Botev Vratsa look sharp heading into the season opener, while Cherno More Varna are dealing with draw fatigue.** The hosts are unbeaten in preseason and should carry that momentum into round 1. 🔥\n\nVratsa's 3W-2D run is crisp, though they've conceded in most of those friendlies. Varna haven't lost either, but three draws out of five is the calling card of a team that struggles to finish — they'll want early intensity to avoid another stalemate.\n\nKey storylines:\n\n- **Botev's attacking trio** of Gallegos, Yurukov, and Petkov will probe Varna's back line early; **Donchev and Beyhan** need to stay compact\n- **Borukov** is the focal point up top for Vratsa and thrives in these opening fixtures where opposition rhythm is still settling\n- **Cherno More's draw curse**: Varna have to shake off three consecutive deadlocks or face another frustrating afternoon\n\nExpected lineups:\n\n- **Botev Vratsa**: Vasilev, Jovičić, Goranov, Boyanov, Stoev, Stoyanov, Genov, Gallegos, Yurukov, Petkov, Borukov\n- **Cherno More Varna**: Tomov, Bandaro, Donchev, Beyhan, Tombak, Teles, Panayotov, Lazarov, Zlatev, Sidney, Kolev\n\nBest picks:\n\n- **Total Goals Under 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Botev Vratsa 2–0 Cherno More Varna**\n\nThe model leans Botev, and the preseason form gap is real. Varna haven't found the net enough to trouble this Vratsa side.",
-          "generated_at": "2026-07-19T00:46:17.655879+00:00"
-        },
-        "live_websocket": true,
-        "home_form": {
-          "calculated_at": "2026-07-19",
-          "matches_played": 5,
-          "form_string": "WWWDD",
-          "wins": 3,
-          "draws": 2,
-          "losses": 0,
-          "points_last_n": 11,
-          "goals_scored_last_n": 9,
-          "goals_conceded_last_n": 4,
-          "avg_xg": 1.8,
-          "avg_xg_conceded": 0.8,
-          "avg_shots": 0,
-          "avg_shots_on_target": 0,
-          "avg_key_passes": 0,
-          "goal_conversion_rate": 0,
-          "defensive_efficiency": 0,
-          "clean_sheets": 2,
-          "avg_pass_accuracy": 0,
-          "duel_win_rate": 0,
-          "aerial_win_rate": 0,
-          "avg_fouls": 0,
-          "avg_yellow_cards": 1.8,
-          "home_ppg": 2.6,
-          "away_ppg": 1.2,
-          "home_goals_scored": 10,
-          "home_goals_conceded": 4,
-          "away_goals_scored": 5,
-          "away_goals_conceded": 5,
-          "avg_team_rating": 0
-        },
-        "away_form": {
-          "calculated_at": "2026-07-19",
-          "matches_played": 5,
-          "form_string": "LLWWD",
-          "wins": 2,
-          "draws": 1,
-          "losses": 2,
-          "points_last_n": 7,
-          "goals_scored_last_n": 6,
-          "goals_conceded_last_n": 8,
-          "avg_xg": 0.44028,
-          "avg_xg_conceded": 0.3814,
-          "avg_shots": 0,
-          "avg_shots_on_target": 0,
-          "avg_key_passes": 0,
-          "goal_conversion_rate": 2.725538293813028,
-          "defensive_efficiency": -3.195070791819612,
-          "clean_sheets": 3,
-          "avg_pass_accuracy": 0,
-          "duel_win_rate": 0,
-          "aerial_win_rate": 0,
-          "avg_fouls": 0,
-          "avg_yellow_cards": 1.6,
-          "home_ppg": 1.2,
-          "away_ppg": 1,
-          "home_goals_scored": 7,
-          "home_goals_conceded": 10,
-          "away_goals_scored": 2,
-          "away_goals_conceded": 7,
-          "avg_team_rating": 0
-        },
-        "head_to_head": {
-          "total_matches": 6,
-          "home_wins": 1,
-          "draws": 1,
-          "away_wins": 4,
-          "home_goals": 5,
-          "away_goals": 8,
-          "avg_total_goals": 2.1666666666666665,
-          "home_win_rate": 0.16666666666666666,
-          "away_win_rate": 0.6666666666666666,
-          "recent_matches": [
-            {
-              "away": "Botev Vratsa",
-              "date": "2026-02-20T15:45:00+00:00",
-              "home": "Cherno More Varna",
-              "score": "0-0"
-            },
-            {
-              "away": "Cherno More Varna",
-              "date": "2025-08-29T16:45:00+00:00",
-              "home": "Botev Vratsa",
-              "score": "1-0"
-            },
-            {
-              "away": "Cherno More Varna",
-              "date": "2024-12-07T11:00:00+00:00",
-              "home": "Botev Vratsa",
-              "score": "2-3"
-            },
-            {
-              "away": "Botev Vratsa",
-              "date": "2024-08-12T17:15:00+00:00",
-              "home": "Cherno More Varna",
-              "score": "2-1"
-            },
-            {
-              "away": "Botev Vratsa",
-              "date": "2024-03-01T13:30:00+00:00",
-              "home": "Cherno More Varna",
-              "score": "2-1"
-            },
-            {
-              "away": "Cherno More Varna",
-              "date": "2023-09-01T15:15:00+00:00",
-              "home": "Botev Vratsa",
-              "score": "0-1"
-            }
-          ]
-        },
-        "lineups": null,
-        "social": []
-      },
-      "managers": {
-        "home": {
-          "id": 459,
-          "name": "Todor Simov",
-          "short_name": "T. Simov",
-          "country": "Bulgaria",
-          "current_team": {
-            "id": 347,
-            "name": "Botev Vratsa"
-          },
-          "preferred_formation": "4-2-3-1",
-          "formations_used": {
-            "3-4-3": 1,
-            "3-5-2": 2,
-            "4-4-2": 2,
-            "5-3-2": 3,
-            "5-4-1": 4,
-            "3-4-2-1": 1,
-            "4-1-3-2": 1,
-            "4-1-4-1": 5,
-            "4-2-3-1": 18
-          },
-          "profile": "defensive",
-          "team_style": "neutral",
-          "pressing_intensity": 0.2361828048147246,
-          "defensive_line": "high",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "terrorist_fb",
-              "name": "Terrorist Football",
-              "category": "fan",
-              "emoji": "💣",
-              "description": "Ultra-negative setup — destroy the game",
-              "score": 0.082
-            },
-            {
-              "rank": 2,
-              "code": "set_piece",
-              "name": "Set-Piece Reliant",
-              "category": "defensive",
-              "emoji": "🎯",
-              "description": "Goals mainly from corners and free kicks",
-              "score": 0.071
-            },
-            {
-              "rank": 3,
-              "code": "moments_fc",
-              "name": "Moments FC",
-              "category": "fan",
-              "emoji": "⭐",
-              "description": "Relies entirely on individual star brilliance",
-              "score": 0.063
-            },
-            {
-              "rank": 4,
-              "code": "no_midfield",
-              "name": "No Midfield Just Vibes",
-              "category": "fan",
-              "emoji": "🚀",
-              "description": "Bypass midfield entirely, defend and attack direct",
-              "score": 0.051
-            }
-          ],
-          "matches_total": 37,
-          "wins": 13,
-          "draws": 14,
-          "losses": 10,
-          "win_pct": 35.1,
-          "avg_goals_scored": 0.97,
-          "avg_goals_conceded": 0.86,
-          "avg_possession": 45.27,
-          "avg_shots": 9.51,
-          "avg_shots_on_target": 3.19,
-          "avg_xg_for": 1.06,
-          "avg_xg_against": 1.23,
-          "avg_corners": 3.51,
-          "avg_yellow_cards": 2.11,
-          "avg_red_cards": 0.08,
-          "avg_fouls": 11.32,
-          "clean_sheet_pct": 43.2,
-          "btts_pct": 37.8,
-          "over_25_pct": 32.4,
-          "over_15_pct": 56.8,
-          "fail_to_score_pct": 40.5,
-          "avg_goals_scored_1h": 0.41,
-          "avg_goals_conceded_1h": 0.24
-        },
-        "away": {
-          "id": 365,
-          "name": "Ilian Iliev",
-          "short_name": "I. Iliev",
-          "country": "Bulgaria",
-          "current_team": {
-            "id": 342,
-            "name": "Cherno More Varna"
-          },
-          "preferred_formation": "4-2-3-1",
-          "formations_used": {
-            "3-5-2": 2,
-            "4-4-2": 10,
-            "5-3-2": 1,
-            "3-1-4-2": 1,
-            "4-2-3-1": 21,
-            "4-3-2-1": 1
-          },
-          "profile": "balanced",
-          "team_style": "neutral",
-          "pressing_intensity": 0.3528548197442915,
-          "defensive_line": "mid",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "man_press",
-              "name": "Man-Oriented Press",
-              "category": "pressing",
-              "emoji": "🎯",
-              "description": "Players follow their direct opponents everywhere",
-              "score": 0.052
-            },
-            {
-              "rank": 2,
-              "code": "low_block",
-              "name": "Low Block",
-              "category": "defensive",
-              "emoji": "🛡",
-              "description": "Compact defensive shape near own box",
-              "score": 0.048
-            },
-            {
-              "rank": 3,
-              "code": "territory",
-              "name": "Territory Control",
-              "category": "possession",
-              "emoji": "🗺",
-              "description": "Pin opponent deep rather than shoot often",
-              "score": 0.048
-            },
-            {
-              "rank": 4,
-              "code": "total_football",
-              "name": "Total Football",
-              "category": "possession",
-              "emoji": "🌀",
-              "description": "Fluid rotations, every player attacks and defends",
-              "score": 0.048
-            }
-          ],
-          "matches_total": 36,
-          "wins": 14,
-          "draws": 12,
-          "losses": 10,
-          "win_pct": 38.9,
-          "avg_goals_scored": 1.11,
-          "avg_goals_conceded": 0.94,
-          "avg_possession": 53.19,
-          "avg_shots": 10.81,
-          "avg_shots_on_target": 3.92,
-          "avg_xg_for": 1.28,
-          "avg_xg_against": 1.33,
-          "avg_corners": 4.69,
-          "avg_yellow_cards": 2.14,
-          "avg_red_cards": 0.03,
-          "avg_fouls": 13.06,
-          "clean_sheet_pct": 50,
-          "btts_pct": 38.9,
-          "over_25_pct": 38.9,
-          "over_15_pct": 61.1,
-          "fail_to_score_pct": 33.3,
-          "avg_goals_scored_1h": 0.53,
-          "avg_goals_conceded_1h": 0.36
-        }
-      }
-    },
     {
       "event_id": 8390,
       "prediction": {
@@ -3105,15 +86,15 @@
           "period": "",
           "odds_home": 2.31,
           "odds_draw": 2.98,
-          "odds_away": 3.53,
-          "odds_over_15": 1.41,
-          "odds_over_25": 2.28,
-          "odds_over_35": 4.08,
-          "odds_under_15": 2.83,
-          "odds_under_25": 1.61,
-          "odds_under_35": 1.22,
-          "odds_btts_yes": 1.87,
-          "odds_btts_no": 1.88,
+          "odds_away": 3.54,
+          "odds_over_15": 1.4,
+          "odds_over_25": 2.26,
+          "odds_over_35": 4.03,
+          "odds_under_15": 2.86,
+          "odds_under_25": 1.62,
+          "odds_under_35": 1.23,
+          "odds_btts_yes": 1.86,
+          "odds_btts_no": 1.89,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -3326,15 +307,15 @@
         "period": "",
         "odds_home": 2.31,
         "odds_draw": 2.98,
-        "odds_away": 3.53,
-        "odds_over_15": 1.41,
-        "odds_over_25": 2.28,
-        "odds_over_35": 4.08,
-        "odds_under_15": 2.83,
-        "odds_under_25": 1.61,
-        "odds_under_35": 1.22,
-        "odds_btts_yes": 1.87,
-        "odds_btts_no": 1.88,
+        "odds_away": 3.54,
+        "odds_over_15": 1.4,
+        "odds_over_25": 2.26,
+        "odds_over_35": 4.03,
+        "odds_under_15": 2.86,
+        "odds_under_25": 1.62,
+        "odds_under_35": 1.23,
+        "odds_btts_yes": 1.86,
+        "odds_btts_no": 1.89,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -3751,7 +732,7 @@
           "odds_draw": 3.57,
           "odds_away": 1.77,
           "odds_over_15": 1.22,
-          "odds_over_25": 1.73,
+          "odds_over_25": 1.74,
           "odds_over_35": 2.81,
           "odds_under_15": 3.75,
           "odds_under_25": 1.96,
@@ -3945,7 +926,7 @@
         "odds_draw": 3.57,
         "odds_away": 1.77,
         "odds_over_15": 1.22,
-        "odds_over_25": 1.73,
+        "odds_over_25": 1.74,
         "odds_over_35": 2.81,
         "odds_under_15": 3.75,
         "odds_under_25": 1.96,
@@ -4471,7 +1452,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**TPS rolls up to the Veritas hungry for three**, and they've got the form to back it up—Ilves, meanwhile, are limping into this one on a brutal run. 🔴\n\nTPS won two of their last three at home and look genuinely dangerous in attack; Ilves have dropped points in consecutive away trips and their defense looks shaky. This is a classic setup for the home side to capitalize.\n\nKey storylines:\n\n- **TPS's home fortress** vs a road-weary Ilves side that can't seem to keep a clean sheet anywhere\n- **Attack-minded TPS** with Muzaci, Väkiparta, and Kauppila leading the charge against a Ilves backline that's conceded in three straight\n- **Defensive solidity** will be crucial—Ilves' porous road record meets a TPS team that showed real bite in their 3-0 demolition of AC Oulu\n\nExpected lineups:\n\n- **Turun Palloseura**: D. Lauri, T. Karkulowski, C. Azongnitode, M. Hradecky, O. Häggström, L. Ikonen, A. Sihvonen, E. Vauhkonen, T. Väkiparta, M. Kauppila, A. Muzaci\n- **Ilves**: F. Krkalić, M. Rale, O. Pettersson, Y. Raap, K. Wallius, T. Miettunen, O. Tiitinen, A. Popovitch, J. Kanga, R. Riski, J. Kilo\n\nBest picks:\n\n- **Total Goals Under 3.5**: Under 3.5 goals\n\nPrediction:\n\n**TPS 2–0 Ilves**. Home edge and Ilves' skid are too much to ignore. 🎯",
+            "generated_at": "2026-07-19T15:45:31.166109+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-06-02T13:54:39.249270+03:00",
@@ -4674,7 +1658,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**TPS rolls up to the Veritas hungry for three**, and they've got the form to back it up—Ilves, meanwhile, are limping into this one on a brutal run. 🔴\n\nTPS won two of their last three at home and look genuinely dangerous in attack; Ilves have dropped points in consecutive away trips and their defense looks shaky. This is a classic setup for the home side to capitalize.\n\nKey storylines:\n\n- **TPS's home fortress** vs a road-weary Ilves side that can't seem to keep a clean sheet anywhere\n- **Attack-minded TPS** with Muzaci, Väkiparta, and Kauppila leading the charge against a Ilves backline that's conceded in three straight\n- **Defensive solidity** will be crucial—Ilves' porous road record meets a TPS team that showed real bite in their 3-0 demolition of AC Oulu\n\nExpected lineups:\n\n- **Turun Palloseura**: D. Lauri, T. Karkulowski, C. Azongnitode, M. Hradecky, O. Häggström, L. Ikonen, A. Sihvonen, E. Vauhkonen, T. Väkiparta, M. Kauppila, A. Muzaci\n- **Ilves**: F. Krkalić, M. Rale, O. Pettersson, Y. Raap, K. Wallius, T. Miettunen, O. Tiitinen, A. Popovitch, J. Kanga, R. Riski, J. Kilo\n\nBest picks:\n\n- **Total Goals Under 3.5**: Under 3.5 goals\n\nPrediction:\n\n**TPS 2–0 Ilves**. Home edge and Ilves' skid are too much to ignore. 🎯",
+          "generated_at": "2026-07-19T15:45:31.166109+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-07-19",
@@ -4961,7 +1948,7 @@
           "odds_away": 3.24,
           "odds_over_15": 1.34,
           "odds_over_25": 2.07,
-          "odds_over_35": 3.65,
+          "odds_over_35": 3.66,
           "odds_under_15": 3.06,
           "odds_under_25": 1.7,
           "odds_under_35": 1.25,
@@ -5070,7 +2057,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Hunedoara and Csíkszereda both limping in — this could be a cagey Superliga opener.** Neither side has exactly screamed confidence in preseason, and that's reflected in the lean toward the visitors despite playing away. 🏟️\n\nCorvinul's mixing wins and losses pretty evenly, while Csíkszereda's grabbed a couple of wins but also got hammered 3-1 recently. Both teams are grinding through these cup competitions, so there's fatigue in the air.\n\nKey storylines:\n\n- **Corvinul's home advantage** under the lights, but their recent record (1W-1D-3L) won't inspire confidence in the crowd\n- **Csíkszereda's resilience** — they've nicked wins away from home, though consistency remains elusive\n- **Defensive solidity** will likely decide this; neither offense has looked clinical in friendlies\n\nExpected lineups:\n\n- **FC Corvinul Hunedoara**: C. Sandu, A. Manolache, D. Hrezdac, F. Iacob, E. Okoro, E. Yeboah, A. Neacșa\n- **FK Csíkszereda Miercurea Ciuc**: E. Pap, R. Trif, R. Palmeș, A. Csuros, M. Tajti, A. Ceará, M. Eppel\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**1-1 draw** leans to the visitors, but expect a tight, low-scoring affair either way.",
+            "generated_at": "2026-07-19T15:45:36.375333+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-07-18T05:20:15.949104+03:00",
@@ -5162,7 +2152,7 @@
         "odds_away": 3.24,
         "odds_over_15": 1.34,
         "odds_over_25": 2.07,
-        "odds_over_35": 3.65,
+        "odds_over_35": 3.66,
         "odds_under_15": 3.06,
         "odds_under_25": 1.7,
         "odds_under_35": 1.25,
@@ -5265,7 +2255,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Hunedoara and Csíkszereda both limping in — this could be a cagey Superliga opener.** Neither side has exactly screamed confidence in preseason, and that's reflected in the lean toward the visitors despite playing away. 🏟️\n\nCorvinul's mixing wins and losses pretty evenly, while Csíkszereda's grabbed a couple of wins but also got hammered 3-1 recently. Both teams are grinding through these cup competitions, so there's fatigue in the air.\n\nKey storylines:\n\n- **Corvinul's home advantage** under the lights, but their recent record (1W-1D-3L) won't inspire confidence in the crowd\n- **Csíkszereda's resilience** — they've nicked wins away from home, though consistency remains elusive\n- **Defensive solidity** will likely decide this; neither offense has looked clinical in friendlies\n\nExpected lineups:\n\n- **FC Corvinul Hunedoara**: C. Sandu, A. Manolache, D. Hrezdac, F. Iacob, E. Okoro, E. Yeboah, A. Neacșa\n- **FK Csíkszereda Miercurea Ciuc**: E. Pap, R. Trif, R. Palmeș, A. Csuros, M. Tajti, A. Ceará, M. Eppel\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**1-1 draw** leans to the visitors, but expect a tight, low-scoring affair either way.",
+          "generated_at": "2026-07-19T15:45:36.375333+00:00"
+        },
         "live_websocket": true,
         "home_form": null,
         "away_form": {
@@ -5445,17 +2438,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 5.11,
+          "odds_home": 5.12,
           "odds_draw": 4.07,
           "odds_away": 1.58,
           "odds_over_15": 1.22,
-          "odds_over_25": 1.7,
+          "odds_over_25": 1.71,
           "odds_over_35": 2.75,
           "odds_under_15": 3.96,
           "odds_under_25": 2.07,
           "odds_under_35": 1.41,
           "odds_btts_yes": 1.75,
-          "odds_btts_no": 1.98,
+          "odds_btts_no": 1.97,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -5551,9 +2544,25 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 1,
+              "sentence": "Mariehamn haven't won in their last 10 games."
+            },
+            {
+              "type_id": 24,
+              "sentence": "Mariehamn's home record this season: 0-3-4."
+            },
+            {
+              "type_id": 25,
+              "sentence": "Sebastian Dahlstrom is Mariehamn's top scorer with 2 goals. Otso Koskinen has scored 3 times for Lahti."
+            }
+          ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Mariehamn's in freefall and Lahti smell blood** — this looks like a statement moment for the visitors, who've actually strung some wins together. 🔴\n\nMariehamn have lost five straight and shipped 12 goals in three games. Lahti just beat **HJK** and **IF Gnistan** at home, so the momentum swing is real. These sides drew 0–0 last time out, but that feels like ancient history given how differently they're moving now.\n\nKey storylines:\n\n- **IFK Mariehamn's** defensive collapse is the headline — they've conceded four twice in five games and can't find the net either\n- **FC Lahti's** home form is clicking, and **E. Andersson** will anchor a midfield that's been solid in their wins\n- The model sees this as a coin flip despite the form gap, which feels cautious given Mariehamn's current state\n\nExpected lineups:\n\n- **IFK Mariehamn**: K. Lund, A. Soiniemi, N. Nurmi, S. Ngulube, T. Koivisto, A. Huttunen, E. Patut, M. Hyvönen, L. Andersson, A. Larsson, A. Lundberg\n- **FC Lahti**: A. Hakala, J. Müller, N. G. Dantas, V. Vehkonen, R. Sans, E. Andersson, O. Koskinen, T. Montiel, A. Lindholm, A. Belabid, M. Sarr\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**FC Lahti 2–0 IFK Mariehamn**. Lahti lean on the road against a team that's completely lost it. 📉",
+            "generated_at": "2026-07-19T16:45:35.176870+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-06-02T13:54:39.598253+03:00",
@@ -5634,17 +2643,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 5.11,
+        "odds_home": 5.12,
         "odds_draw": 4.07,
         "odds_away": 1.58,
         "odds_over_15": 1.22,
-        "odds_over_25": 1.7,
+        "odds_over_25": 1.71,
         "odds_over_35": 2.75,
         "odds_under_15": 3.96,
         "odds_under_25": 2.07,
         "odds_under_35": 1.41,
         "odds_btts_yes": 1.75,
-        "odds_btts_no": 1.98,
+        "odds_btts_no": 1.97,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -5734,9 +2743,25 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 1,
+            "sentence": "Mariehamn haven't won in their last 10 games."
+          },
+          {
+            "type_id": 24,
+            "sentence": "Mariehamn's home record this season: 0-3-4."
+          },
+          {
+            "type_id": 25,
+            "sentence": "Sebastian Dahlstrom is Mariehamn's top scorer with 2 goals. Otso Koskinen has scored 3 times for Lahti."
+          }
+        ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Mariehamn's in freefall and Lahti smell blood** — this looks like a statement moment for the visitors, who've actually strung some wins together. 🔴\n\nMariehamn have lost five straight and shipped 12 goals in three games. Lahti just beat **HJK** and **IF Gnistan** at home, so the momentum swing is real. These sides drew 0–0 last time out, but that feels like ancient history given how differently they're moving now.\n\nKey storylines:\n\n- **IFK Mariehamn's** defensive collapse is the headline — they've conceded four twice in five games and can't find the net either\n- **FC Lahti's** home form is clicking, and **E. Andersson** will anchor a midfield that's been solid in their wins\n- The model sees this as a coin flip despite the form gap, which feels cautious given Mariehamn's current state\n\nExpected lineups:\n\n- **IFK Mariehamn**: K. Lund, A. Soiniemi, N. Nurmi, S. Ngulube, T. Koivisto, A. Huttunen, E. Patut, M. Hyvönen, L. Andersson, A. Larsson, A. Lundberg\n- **FC Lahti**: A. Hakala, J. Müller, N. G. Dantas, V. Vehkonen, R. Sans, E. Andersson, O. Koskinen, T. Montiel, A. Lindholm, A. Belabid, M. Sarr\n\nBest picks:\n\n- **Total Goals 3.5**: Under 3.5 goals\n\nPrediction:\n\n**FC Lahti 2–0 IFK Mariehamn**. Lahti lean on the road against a team that's completely lost it. 📉",
+          "generated_at": "2026-07-19T16:45:35.176870+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-07-19",
@@ -6170,9 +3195,25 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 1,
+              "sentence": "Slavia Sofia have won 3 home matches in a row."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Slavia Sofia have a winning streak of 3 matches."
+            },
+            {
+              "type_id": 1,
+              "sentence": "CSKA Sofia have a winning streak of 4 matches."
+            }
+          ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Sofia derby season-opener between two sides riding hot form — but one's trajectory looks sharper.** Both Slavia and CSKA crushed preseason, yet only one's vibe screams \"ready to run the table.\" 🔥\n\nSlavia's 4W1L streak includes a 7-2 thrashing and back-to-back road wins, while CSKA nabbed convincing victories, especially that 3-0 demolition of Dupnitsa. Head-to-head tells the story though: **Slavia's 2-3-1 record shows they've held their own against this rival, but draws have been common ground.**\n\nKey storylines:\n\n- **Y. Guermouche and J. Zwarts** clash as the creative sparks in mirror attacking shapes — pace vs. positioning\n- **D. Ferraresso and L. Godoy** anchor their defenses; expect a cagey midfield chess match early\n- **CSKA's model edge** hinges on A. Piedrahita controlling tempo in the middle third\n\nExpected lineups:\n\n- **Slavia Sofia**: I. Andonov, D. Ferraresso, L. Marin, N. Savić, B. Todorov, I. Minchev, R. Raychev, I. Stefanov, E. Stoev, Y. Guermouche\n- **CSKA Sofia**: D. Evtimov, A. Yordanov, F. Rodríguez, A. Lapeña, M. Ebong, A. Piedrahita, I. Solet, I. Pittas, L. Godoy, J. Zwarts\n\nBest picks:\n\n- **Total Goals Under 3.5**: Under 3.5 goals\n\nPrediction:\n\n**CSKA 1-0 Slavia.** Tight affair with a slight CSKA lean — their preseason was clinical, and the model sees a narrow edge in midfield control. 🎯",
+            "generated_at": "2026-07-19T16:45:41.435025+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-07-14T05:20:17.050566+03:00",
@@ -6369,9 +3410,25 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 1,
+            "sentence": "Slavia Sofia have won 3 home matches in a row."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Slavia Sofia have a winning streak of 3 matches."
+          },
+          {
+            "type_id": 1,
+            "sentence": "CSKA Sofia have a winning streak of 4 matches."
+          }
+        ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Sofia derby season-opener between two sides riding hot form — but one's trajectory looks sharper.** Both Slavia and CSKA crushed preseason, yet only one's vibe screams \"ready to run the table.\" 🔥\n\nSlavia's 4W1L streak includes a 7-2 thrashing and back-to-back road wins, while CSKA nabbed convincing victories, especially that 3-0 demolition of Dupnitsa. Head-to-head tells the story though: **Slavia's 2-3-1 record shows they've held their own against this rival, but draws have been common ground.**\n\nKey storylines:\n\n- **Y. Guermouche and J. Zwarts** clash as the creative sparks in mirror attacking shapes — pace vs. positioning\n- **D. Ferraresso and L. Godoy** anchor their defenses; expect a cagey midfield chess match early\n- **CSKA's model edge** hinges on A. Piedrahita controlling tempo in the middle third\n\nExpected lineups:\n\n- **Slavia Sofia**: I. Andonov, D. Ferraresso, L. Marin, N. Savić, B. Todorov, I. Minchev, R. Raychev, I. Stefanov, E. Stoev, Y. Guermouche\n- **CSKA Sofia**: D. Evtimov, A. Yordanov, F. Rodríguez, A. Lapeña, M. Ebong, A. Piedrahita, I. Solet, I. Pittas, L. Godoy, J. Zwarts\n\nBest picks:\n\n- **Total Goals Under 3.5**: Under 3.5 goals\n\nPrediction:\n\n**CSKA 1-0 Slavia.** Tight affair with a slight CSKA lean — their preseason was clinical, and the model sees a narrow edge in midfield control. 🎯",
+          "generated_at": "2026-07-19T16:45:41.435025+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-07-19",
@@ -6899,7 +3956,20 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 25,
+              "sentence": "Charlie Rosenqvist is Kalmar's top scorer with 5 goals. Erik Botheim has scored 10 times for Malmo."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Malmo haven't lost in their last 4 games."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Kalmar haven't lost in any of their last 6 home matches."
+            }
+          ],
           "sr_stats": null,
           "ai_preview": null,
           "live_websocket": true
@@ -7152,7 +4222,20 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 25,
+            "sentence": "Charlie Rosenqvist is Kalmar's top scorer with 5 goals. Erik Botheim has scored 10 times for Malmo."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Malmo haven't lost in their last 4 games."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Kalmar haven't lost in any of their last 6 home matches."
+          }
+        ],
         "sr_stats": null,
         "ai_preview": null,
         "live_websocket": true,
@@ -7599,7 +4682,20 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 2,
+              "sentence": "When playing at home, Orgryte have not lost to Djurgarden in their last 3 encounters."
+            },
+            {
+              "type_id": 25,
+              "sentence": "Noah Christofferson is Orgryte's top scorer with 4 goals. Kristian Stromland Lien has scored 7 times for Djurgarden."
+            },
+            {
+              "type_id": 22,
+              "sentence": "Orgryte's last home win against Djurgarden was in 2002."
+            }
+          ],
           "sr_stats": null,
           "ai_preview": null,
           "live_websocket": true
@@ -7851,7 +4947,20 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 2,
+            "sentence": "When playing at home, Orgryte have not lost to Djurgarden in their last 3 encounters."
+          },
+          {
+            "type_id": 25,
+            "sentence": "Noah Christofferson is Orgryte's top scorer with 4 goals. Kristian Stromland Lien has scored 7 times for Djurgarden."
+          },
+          {
+            "type_id": 22,
+            "sentence": "Orgryte's last home win against Djurgarden was in 2002."
+          }
+        ],
         "sr_stats": null,
         "ai_preview": null,
         "live_websocket": true,
