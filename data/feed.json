@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-20T07:41:24.250Z",
+  "generated_at": "2026-07-20T10:55:36.682Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -697,17 +697,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.17,
+          "odds_home": 2.15,
           "odds_draw": 3.19,
-          "odds_away": 3.25,
+          "odds_away": 3.28,
           "odds_over_15": 1.35,
-          "odds_over_25": 2.08,
-          "odds_over_35": 3.7,
+          "odds_over_25": 2.09,
+          "odds_over_35": 3.72,
           "odds_under_15": 3.01,
           "odds_under_25": 1.69,
-          "odds_under_35": 1.25,
-          "odds_btts_yes": 1.83,
-          "odds_btts_no": 1.88,
+          "odds_under_35": 1.24,
+          "odds_btts_yes": 1.85,
+          "odds_btts_no": 1.86,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -901,17 +901,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.17,
+        "odds_home": 2.15,
         "odds_draw": 3.19,
-        "odds_away": 3.25,
+        "odds_away": 3.28,
         "odds_over_15": 1.35,
-        "odds_over_25": 2.08,
-        "odds_over_35": 3.7,
+        "odds_over_25": 2.09,
+        "odds_over_35": 3.72,
         "odds_under_15": 3.01,
         "odds_under_25": 1.69,
-        "odds_under_35": 1.25,
-        "odds_btts_yes": 1.83,
-        "odds_btts_no": 1.88,
+        "odds_under_35": 1.24,
+        "odds_btts_yes": 1.85,
+        "odds_btts_no": 1.86,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -1192,7 +1192,7 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 5.16,
+          "odds_home": 5.14,
           "odds_draw": 4.05,
           "odds_away": 1.58,
           "odds_over_15": 1.22,
@@ -1201,8 +1201,8 @@
           "odds_under_15": 3.97,
           "odds_under_25": 2.08,
           "odds_under_35": 1.41,
-          "odds_btts_yes": 1.75,
-          "odds_btts_no": 1.98,
+          "odds_btts_yes": 1.74,
+          "odds_btts_no": 1.99,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -1397,7 +1397,7 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 5.16,
+        "odds_home": 5.14,
         "odds_draw": 4.05,
         "odds_away": 1.58,
         "odds_over_15": 1.22,
@@ -1406,8 +1406,8 @@
         "odds_under_15": 3.97,
         "odds_under_25": 2.08,
         "odds_under_35": 1.41,
-        "odds_btts_yes": 1.75,
-        "odds_btts_no": 1.98,
+        "odds_btts_yes": 1.74,
+        "odds_btts_no": 1.99,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -1839,17 +1839,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 7.18,
-          "odds_draw": 4.26,
-          "odds_away": 1.4,
+          "odds_home": 6.55,
+          "odds_draw": 4.14,
+          "odds_away": 1.45,
           "odds_over_15": 1.25,
-          "odds_over_25": 1.79,
-          "odds_over_35": 2.93,
-          "odds_under_15": 3.62,
-          "odds_under_25": 1.94,
+          "odds_over_25": 1.81,
+          "odds_over_35": 2.97,
+          "odds_under_15": 3.58,
+          "odds_under_25": 1.92,
           "odds_under_35": 1.35,
-          "odds_btts_yes": 2,
-          "odds_btts_no": 1.73,
+          "odds_btts_yes": 1.97,
+          "odds_btts_no": 1.75,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -2060,17 +2060,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 7.18,
-        "odds_draw": 4.26,
-        "odds_away": 1.4,
+        "odds_home": 6.55,
+        "odds_draw": 4.14,
+        "odds_away": 1.45,
         "odds_over_15": 1.25,
-        "odds_over_25": 1.79,
-        "odds_over_35": 2.93,
-        "odds_under_15": 3.62,
-        "odds_under_25": 1.94,
+        "odds_over_25": 1.81,
+        "odds_over_35": 2.97,
+        "odds_under_15": 3.58,
+        "odds_under_25": 1.92,
         "odds_under_35": 1.35,
-        "odds_btts_yes": 2,
-        "odds_btts_no": 1.73,
+        "odds_btts_yes": 1.97,
+        "odds_btts_no": 1.75,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -2546,17 +2546,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.78,
-          "odds_draw": 3.52,
-          "odds_away": 2.33,
+          "odds_home": 2.64,
+          "odds_draw": 3.51,
+          "odds_away": 2.45,
           "odds_over_15": 1.19,
-          "odds_over_25": 1.64,
-          "odds_over_35": 2.53,
-          "odds_under_15": 4.33,
-          "odds_under_25": 2.19,
-          "odds_under_35": 1.47,
-          "odds_btts_yes": 1.53,
-          "odds_btts_no": 2.37,
+          "odds_over_25": 1.65,
+          "odds_over_35": 2.54,
+          "odds_under_15": 4.3,
+          "odds_under_25": 2.17,
+          "odds_under_35": 1.46,
+          "odds_btts_yes": 1.52,
+          "odds_btts_no": 2.38,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -2821,17 +2821,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.78,
-        "odds_draw": 3.52,
-        "odds_away": 2.33,
+        "odds_home": 2.64,
+        "odds_draw": 3.51,
+        "odds_away": 2.45,
         "odds_over_15": 1.19,
-        "odds_over_25": 1.64,
-        "odds_over_35": 2.53,
-        "odds_under_15": 4.33,
-        "odds_under_25": 2.19,
-        "odds_under_35": 1.47,
-        "odds_btts_yes": 1.53,
-        "odds_btts_no": 2.37,
+        "odds_over_25": 1.65,
+        "odds_over_35": 2.54,
+        "odds_under_15": 4.3,
+        "odds_under_25": 2.17,
+        "odds_under_35": 1.46,
+        "odds_btts_yes": 1.52,
+        "odds_btts_no": 2.38,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -3273,17 +3273,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 6.85,
-          "odds_draw": 5,
-          "odds_away": 1.38,
+          "odds_home": 7.21,
+          "odds_draw": 5.12,
+          "odds_away": 1.36,
           "odds_over_15": 1.12,
-          "odds_over_25": 1.43,
-          "odds_over_35": 2.09,
-          "odds_under_15": 5.69,
-          "odds_under_25": 2.69,
-          "odds_under_35": 1.69,
-          "odds_btts_yes": 1.63,
-          "odds_btts_no": 2.17,
+          "odds_over_25": 1.42,
+          "odds_over_35": 2.06,
+          "odds_under_15": 5.76,
+          "odds_under_25": 2.73,
+          "odds_under_35": 1.72,
+          "odds_btts_yes": 1.64,
+          "odds_btts_no": 2.15,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -3547,17 +3547,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 6.85,
-        "odds_draw": 5,
-        "odds_away": 1.38,
+        "odds_home": 7.21,
+        "odds_draw": 5.12,
+        "odds_away": 1.36,
         "odds_over_15": 1.12,
-        "odds_over_25": 1.43,
-        "odds_over_35": 2.09,
-        "odds_under_15": 5.69,
-        "odds_under_25": 2.69,
-        "odds_under_35": 1.69,
-        "odds_btts_yes": 1.63,
-        "odds_btts_no": 2.17,
+        "odds_over_25": 1.42,
+        "odds_over_35": 2.06,
+        "odds_under_15": 5.76,
+        "odds_under_25": 2.73,
+        "odds_under_35": 1.72,
+        "odds_btts_yes": 1.64,
+        "odds_btts_no": 2.15,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -4033,17 +4033,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.73,
-          "odds_draw": 3.57,
-          "odds_away": 4.37,
+          "odds_home": 1.76,
+          "odds_draw": 3.54,
+          "odds_away": 4.28,
           "odds_over_15": 1.25,
-          "odds_over_25": 1.79,
-          "odds_over_35": 2.92,
-          "odds_under_15": 3.65,
-          "odds_under_25": 1.94,
+          "odds_over_25": 1.8,
+          "odds_over_35": 2.93,
+          "odds_under_15": 3.64,
+          "odds_under_25": 1.93,
           "odds_under_35": 1.36,
           "odds_btts_yes": 1.73,
-          "odds_btts_no": 1.99,
+          "odds_btts_no": 2,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -4247,17 +4247,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.73,
-        "odds_draw": 3.57,
-        "odds_away": 4.37,
+        "odds_home": 1.76,
+        "odds_draw": 3.54,
+        "odds_away": 4.28,
         "odds_over_15": 1.25,
-        "odds_over_25": 1.79,
-        "odds_over_35": 2.92,
-        "odds_under_15": 3.65,
-        "odds_under_25": 1.94,
+        "odds_over_25": 1.8,
+        "odds_over_35": 2.93,
+        "odds_under_15": 3.64,
+        "odds_under_25": 1.93,
         "odds_under_35": 1.36,
         "odds_btts_yes": 1.73,
-        "odds_btts_no": 1.99,
+        "odds_btts_no": 2,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -4722,17 +4722,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.78,
-          "odds_draw": 3.5,
-          "odds_away": 4.22,
+          "odds_home": 1.73,
+          "odds_draw": 3.56,
+          "odds_away": 4.5,
           "odds_over_15": 1.28,
-          "odds_over_25": 1.9,
-          "odds_over_35": 3.2,
-          "odds_under_15": 3.42,
+          "odds_over_25": 1.89,
+          "odds_over_35": 3.22,
+          "odds_under_15": 3.39,
           "odds_under_25": 1.85,
           "odds_under_35": 1.31,
-          "odds_btts_yes": 1.8,
-          "odds_btts_no": 1.91,
+          "odds_btts_yes": 1.82,
+          "odds_btts_no": 1.89,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -4929,17 +4929,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.78,
-        "odds_draw": 3.5,
-        "odds_away": 4.22,
+        "odds_home": 1.73,
+        "odds_draw": 3.56,
+        "odds_away": 4.5,
         "odds_over_15": 1.28,
-        "odds_over_25": 1.9,
-        "odds_over_35": 3.2,
-        "odds_under_15": 3.42,
+        "odds_over_25": 1.89,
+        "odds_over_35": 3.22,
+        "odds_under_15": 3.39,
         "odds_under_25": 1.85,
         "odds_under_35": 1.31,
-        "odds_btts_yes": 1.8,
-        "odds_btts_no": 1.91,
+        "odds_btts_yes": 1.82,
+        "odds_btts_no": 1.89,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -5266,17 +5266,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.84,
-          "odds_draw": 3.51,
-          "odds_away": 4.02,
+          "odds_home": 1.89,
+          "odds_draw": 3.46,
+          "odds_away": 3.87,
           "odds_over_15": 1.29,
           "odds_over_25": 1.91,
-          "odds_over_35": 3.24,
-          "odds_under_15": 3.35,
-          "odds_under_25": 1.83,
+          "odds_over_35": 3.28,
+          "odds_under_15": 3.33,
+          "odds_under_25": 1.82,
           "odds_under_35": 1.3,
-          "odds_btts_yes": 1.79,
-          "odds_btts_no": 1.92,
+          "odds_btts_yes": 1.78,
+          "odds_btts_no": 1.93,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -5374,9 +5374,25 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 1,
+              "sentence": "Daejeon Citizen haven't won in their last 6 games."
+            },
+            {
+              "type_id": 2,
+              "sentence": "Daejeon Citizen haven't won any of their last 5 games against Jeonbuk."
+            },
+            {
+              "type_id": 2,
+              "sentence": "When playing at home, Jeonbuk have not lost to Daejeon Citizen in their last 4 encounters."
+            }
+          ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Jeonbuk at home with a sharp edge over a Daejeon side stuck in neutral.** This looks like a mismatch on paper — one side hunting wins, the other treading water. 🔥\n\nJeonbuk's rattled off recent wins and are playing in their fortress; Daejeon have drawn three of their last five and can't seem to find the net when it counts. The hosts should dominate possession and tempo here.\n\nKey storylines:\n\n- **Jeonbuk's attacking depth** with O. Alionço, G. Paulauskas, and T. Orobó gives them a firepower advantage Daejeon's leaky defence will struggle to contain.\n- **Daejeon's draw addiction** — three stalemates in five matches means they're built to frustrate but lack the creative punch to hurt Jeonbuk.\n- Home advantage at Jeonju World Cup Stadium tilts the entire fixture toward **Jeonbuk**.\n\nExpected lineups:\n\n- **Jeonbuk Hyundai Motors**: B. Song, W. Cho, Y. Kim, K. Ha-Jun, T. H. Kim, K. Sang-Yun, O. Alionço, G. Paulauskas, J. Kim, A. Compagno, T. Orobó\n- **Daejeon Hana Citizen**: L. Chang-geun, J. Seong-Kwon, M. J. Lee, M. D. Kim, M. Kim, K. Bong-Soo, H. U. Kim, H. Lee, J. Jeong, Diogo Oliveira, K. H. Yu\n\nBest picks:\n\n- **Total Goals Under 3.5**: Daejeon rarely breaks open in away matches; expect controlled, low-scoring affair.\n\nPrediction:\n\n**Jeonbuk 2-0 Daejeon** — comfortable win for the home side with Daejeon held scoreless. ⚽",
+            "generated_at": "2026-07-20T10:45:23.323556+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-06-02T13:54:41.458322+03:00",
@@ -5457,17 +5473,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.84,
-        "odds_draw": 3.51,
-        "odds_away": 4.02,
+        "odds_home": 1.89,
+        "odds_draw": 3.46,
+        "odds_away": 3.87,
         "odds_over_15": 1.29,
         "odds_over_25": 1.91,
-        "odds_over_35": 3.24,
-        "odds_under_15": 3.35,
-        "odds_under_25": 1.83,
+        "odds_over_35": 3.28,
+        "odds_under_15": 3.33,
+        "odds_under_25": 1.82,
         "odds_under_35": 1.3,
-        "odds_btts_yes": 1.79,
-        "odds_btts_no": 1.92,
+        "odds_btts_yes": 1.78,
+        "odds_btts_no": 1.93,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -5559,9 +5575,25 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 1,
+            "sentence": "Daejeon Citizen haven't won in their last 6 games."
+          },
+          {
+            "type_id": 2,
+            "sentence": "Daejeon Citizen haven't won any of their last 5 games against Jeonbuk."
+          },
+          {
+            "type_id": 2,
+            "sentence": "When playing at home, Jeonbuk have not lost to Daejeon Citizen in their last 4 encounters."
+          }
+        ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Jeonbuk at home with a sharp edge over a Daejeon side stuck in neutral.** This looks like a mismatch on paper — one side hunting wins, the other treading water. 🔥\n\nJeonbuk's rattled off recent wins and are playing in their fortress; Daejeon have drawn three of their last five and can't seem to find the net when it counts. The hosts should dominate possession and tempo here.\n\nKey storylines:\n\n- **Jeonbuk's attacking depth** with O. Alionço, G. Paulauskas, and T. Orobó gives them a firepower advantage Daejeon's leaky defence will struggle to contain.\n- **Daejeon's draw addiction** — three stalemates in five matches means they're built to frustrate but lack the creative punch to hurt Jeonbuk.\n- Home advantage at Jeonju World Cup Stadium tilts the entire fixture toward **Jeonbuk**.\n\nExpected lineups:\n\n- **Jeonbuk Hyundai Motors**: B. Song, W. Cho, Y. Kim, K. Ha-Jun, T. H. Kim, K. Sang-Yun, O. Alionço, G. Paulauskas, J. Kim, A. Compagno, T. Orobó\n- **Daejeon Hana Citizen**: L. Chang-geun, J. Seong-Kwon, M. J. Lee, M. D. Kim, M. Kim, K. Bong-Soo, H. U. Kim, H. Lee, J. Jeong, Diogo Oliveira, K. H. Yu\n\nBest picks:\n\n- **Total Goals Under 3.5**: Daejeon rarely breaks open in away matches; expect controlled, low-scoring affair.\n\nPrediction:\n\n**Jeonbuk 2-0 Daejeon** — comfortable win for the home side with Daejeon held scoreless. ⚽",
+          "generated_at": "2026-07-20T10:45:23.323556+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-07-20",
@@ -5875,16 +5907,16 @@
           "current_minute": null,
           "period": "",
           "odds_home": 2.21,
-          "odds_draw": 3.14,
-          "odds_away": 3.27,
-          "odds_over_15": 1.35,
-          "odds_over_25": 2.11,
-          "odds_over_35": 3.72,
-          "odds_under_15": 2.99,
-          "odds_under_25": 1.68,
-          "odds_under_35": 1.24,
-          "odds_btts_yes": 1.84,
-          "odds_btts_no": 1.86,
+          "odds_draw": 3.15,
+          "odds_away": 3.23,
+          "odds_over_15": 1.34,
+          "odds_over_25": 2.07,
+          "odds_over_35": 3.62,
+          "odds_under_15": 3.07,
+          "odds_under_25": 1.7,
+          "odds_under_35": 1.25,
+          "odds_btts_yes": 1.82,
+          "odds_btts_no": 1.88,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -5982,9 +6014,25 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 2,
+              "sentence": "When playing at home, Ulsan HD have not lost to Incheon Utd in their last 4 encounters."
+            },
+            {
+              "type_id": 25,
+              "sentence": "Yago Cariello is Ulsan HD's top scorer with 8 goals. Stefan Mugosa has scored 7 times for Incheon Utd."
+            },
+            {
+              "type_id": 6,
+              "sentence": "During the last 30 meetings with Ulsan HD playing at home, Ulsan HD have won 13 times, there have been 9 draws while Incheon Utd have won 8 times. The goal difference is 51-36 in favour of Ulsan HD."
+            }
+          ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Ulsan at home looking to steady the ship against a Incheon side stuck in neutral.** Both teams have been streaky lately, but the hosts have the edge in their own backyard. 🔴\n\nUlsan's form is mixed — a draw, a loss, a draw — but they're unbeaten at the Munsu against Incheon historically. Incheon, meanwhile, have won 2 of their last 5 but just got torched 0-1 at home by FC Seoul. This screams \"bounce-back window\" for the hosts.\n\nKey storylines:\n\n- **Ulsan's attack** featuring Marcão and Yago needs to convert chances; they've drawn too many lately\n- **Incheon's away-day blues** continue — 0 wins in their last three on the road is a tough look\n- **Set-piece battle** could matter here; both teams will rely on transitional moments\n\nExpected lineups:\n\n- **Ulsan HD**: J. Hyeonwoo, S. Myeong-Kwan, S. Shim, J. Seung-hyeon, H. T. Cho, C. Seok-Hyun, D. G. Lee, L. Jin-hyun, Marcão, Y. Heo, Yago\n- **Incheon United**: L. T. Hui, Y. Seung-Won, K. Park, J. Fernández, J. Y. Lee, C. Seung-Gu, M. J. Lee, S. Jae-Min, C. Y. Lee, D. Lee, M. Ferrier\n\nBest picks:\n\n- **Total Goals Under 3.5**: Both sides have looked a bit blunt; expect a cagey, low-scoring affair\n\nPrediction: **Ulsan 2-0 Incheon**. Model leans Ulsan, home advantage, and Incheon's road form seal it.",
+            "generated_at": "2026-07-20T10:45:29.095673+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-06-02T13:54:42.112934+03:00",
@@ -6066,16 +6114,16 @@
         "current_minute": null,
         "period": "",
         "odds_home": 2.21,
-        "odds_draw": 3.14,
-        "odds_away": 3.27,
-        "odds_over_15": 1.35,
-        "odds_over_25": 2.11,
-        "odds_over_35": 3.72,
-        "odds_under_15": 2.99,
-        "odds_under_25": 1.68,
-        "odds_under_35": 1.24,
-        "odds_btts_yes": 1.84,
-        "odds_btts_no": 1.86,
+        "odds_draw": 3.15,
+        "odds_away": 3.23,
+        "odds_over_15": 1.34,
+        "odds_over_25": 2.07,
+        "odds_over_35": 3.62,
+        "odds_under_15": 3.07,
+        "odds_under_25": 1.7,
+        "odds_under_35": 1.25,
+        "odds_btts_yes": 1.82,
+        "odds_btts_no": 1.88,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -6167,9 +6215,25 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 2,
+            "sentence": "When playing at home, Ulsan HD have not lost to Incheon Utd in their last 4 encounters."
+          },
+          {
+            "type_id": 25,
+            "sentence": "Yago Cariello is Ulsan HD's top scorer with 8 goals. Stefan Mugosa has scored 7 times for Incheon Utd."
+          },
+          {
+            "type_id": 6,
+            "sentence": "During the last 30 meetings with Ulsan HD playing at home, Ulsan HD have won 13 times, there have been 9 draws while Incheon Utd have won 8 times. The goal difference is 51-36 in favour of Ulsan HD."
+          }
+        ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Ulsan at home looking to steady the ship against a Incheon side stuck in neutral.** Both teams have been streaky lately, but the hosts have the edge in their own backyard. 🔴\n\nUlsan's form is mixed — a draw, a loss, a draw — but they're unbeaten at the Munsu against Incheon historically. Incheon, meanwhile, have won 2 of their last 5 but just got torched 0-1 at home by FC Seoul. This screams \"bounce-back window\" for the hosts.\n\nKey storylines:\n\n- **Ulsan's attack** featuring Marcão and Yago needs to convert chances; they've drawn too many lately\n- **Incheon's away-day blues** continue — 0 wins in their last three on the road is a tough look\n- **Set-piece battle** could matter here; both teams will rely on transitional moments\n\nExpected lineups:\n\n- **Ulsan HD**: J. Hyeonwoo, S. Myeong-Kwan, S. Shim, J. Seung-hyeon, H. T. Cho, C. Seok-Hyun, D. G. Lee, L. Jin-hyun, Marcão, Y. Heo, Yago\n- **Incheon United**: L. T. Hui, Y. Seung-Won, K. Park, J. Fernández, J. Y. Lee, C. Seung-Gu, M. J. Lee, S. Jae-Min, C. Y. Lee, D. Lee, M. Ferrier\n\nBest picks:\n\n- **Total Goals Under 3.5**: Both sides have looked a bit blunt; expect a cagey, low-scoring affair\n\nPrediction: **Ulsan 2-0 Incheon**. Model leans Ulsan, home advantage, and Incheon's road form seal it.",
+          "generated_at": "2026-07-20T10:45:29.095673+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-07-20",
@@ -6438,16 +6502,16 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 3.4,
-          "odds_draw": 3.11,
+          "odds_home": 3.45,
+          "odds_draw": 3.1,
           "odds_away": 2.17,
           "odds_over_15": 1.44,
           "odds_over_25": 2.37,
-          "odds_over_35": 4.51,
+          "odds_over_35": 4.52,
           "odds_under_15": 2.62,
           "odds_under_25": 1.54,
-          "odds_under_35": 1.18,
-          "odds_btts_yes": 2.03,
+          "odds_under_35": 1.17,
+          "odds_btts_yes": 2.02,
           "odds_btts_no": 1.71,
           "actual_home_xg": null,
           "actual_away_xg": null,
@@ -6547,9 +6611,25 @@
               }
             }
           },
-          "funfacts": null,
+          "funfacts": [
+            {
+              "type_id": 1,
+              "sentence": "Jeju SK haven't won in their last 4 games."
+            },
+            {
+              "type_id": 25,
+              "sentence": "Kim Jae-woo has more yellow cards (5) than any other player at Jeju SK. Lee You-hyeon has collected 5 for Gangwon."
+            },
+            {
+              "type_id": 26,
+              "sentence": "A year ago, Gangwon were number 9 in the table with 21 points. Now they are number 3 with 28 points."
+            }
+          ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Gangwon's hot streak rolls into Jeju's backyard** — the visitors come in flying (3W-1D-1L) while the hosts are treading water with mixed results. 🔥\n\nJeju's solidity at home (two draws, one win in last three) gives them a fighting chance, but **Gangwon's recent form is genuinely scary**. The visitors have found their rhythm and should carry it through this one.\n\nKey storylines:\n\n- **Gangwon FC** hunting a fourth win in five to strengthen their playoff positioning\n- **Emerson Ramon** and the Jeju attack need to break through a Gangwon side that's looked compact defensively\n- Home advantage counts for something, but momentum is everything in K League — and **Gangwon** have it\n\nExpected lineups:\n\n- **Jeju SK**: D. J. Kim, R. Kim, C. W. Rim, J. Celestine, Emerson Ramon, C. Byung-Wook, C. J. Park, K. Shin-jin\n- **Gangwon FC**: C. Park, G. Lee, K. Joon-hyuk, H. Y. Park, K. Dong-hyeon, M. Seo, J. H. Mo, A. Halaihal, B. Choi\n\nBest picks:\n\n- **Total Goals Under 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Gangwon 1-0 Jeju**. The visitors' form edges them past a decent Jeju side that struggles to find their rhythm right now. 📌",
+            "generated_at": "2026-07-20T10:45:33.760842+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-06-02T13:54:41.767227+03:00",
@@ -6630,16 +6710,16 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 3.4,
-        "odds_draw": 3.11,
+        "odds_home": 3.45,
+        "odds_draw": 3.1,
         "odds_away": 2.17,
         "odds_over_15": 1.44,
         "odds_over_25": 2.37,
-        "odds_over_35": 4.51,
+        "odds_over_35": 4.52,
         "odds_under_15": 2.62,
         "odds_under_25": 1.54,
-        "odds_under_35": 1.18,
-        "odds_btts_yes": 2.03,
+        "odds_under_35": 1.17,
+        "odds_btts_yes": 2.02,
         "odds_btts_no": 1.71,
         "actual_home_xg": null,
         "actual_away_xg": null,
@@ -6733,9 +6813,25 @@
             }
           }
         },
-        "funfacts": null,
+        "funfacts": [
+          {
+            "type_id": 1,
+            "sentence": "Jeju SK haven't won in their last 4 games."
+          },
+          {
+            "type_id": 25,
+            "sentence": "Kim Jae-woo has more yellow cards (5) than any other player at Jeju SK. Lee You-hyeon has collected 5 for Gangwon."
+          },
+          {
+            "type_id": 26,
+            "sentence": "A year ago, Gangwon were number 9 in the table with 21 points. Now they are number 3 with 28 points."
+          }
+        ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Gangwon's hot streak rolls into Jeju's backyard** — the visitors come in flying (3W-1D-1L) while the hosts are treading water with mixed results. 🔥\n\nJeju's solidity at home (two draws, one win in last three) gives them a fighting chance, but **Gangwon's recent form is genuinely scary**. The visitors have found their rhythm and should carry it through this one.\n\nKey storylines:\n\n- **Gangwon FC** hunting a fourth win in five to strengthen their playoff positioning\n- **Emerson Ramon** and the Jeju attack need to break through a Gangwon side that's looked compact defensively\n- Home advantage counts for something, but momentum is everything in K League — and **Gangwon** have it\n\nExpected lineups:\n\n- **Jeju SK**: D. J. Kim, R. Kim, C. W. Rim, J. Celestine, Emerson Ramon, C. Byung-Wook, C. J. Park, K. Shin-jin\n- **Gangwon FC**: C. Park, G. Lee, K. Joon-hyuk, H. Y. Park, K. Dong-hyeon, M. Seo, J. H. Mo, A. Halaihal, B. Choi\n\nBest picks:\n\n- **Total Goals Under 3.5**: Under 3.5 goals\n\nPrediction:\n\n**Gangwon 1-0 Jeju**. The visitors' form edges them past a decent Jeju side that struggles to find their rhythm right now. 📌",
+          "generated_at": "2026-07-20T10:45:33.760842+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-07-20",
@@ -36448,16 +36544,28 @@
             ],
             "away": [
               {
-                "name": "Jorge Carrascal",
+                "name": "Giorgian de Arrascaeta",
                 "status": "injured",
-                "reason": "FA Charge of Improper Conduct",
-                "expected_return": "2026-07-28"
+                "reason": "Calf Injury",
+                "expected_return": "2026-08-10"
+              },
+              {
+                "name": "Jorge Carrascal",
+                "status": "suspended",
+                "reason": "red_card_suspension",
+                "expected_return": "2026-07-27"
               },
               {
                 "name": "Lucas Paquetá",
                 "status": "injured",
                 "reason": "Hamstring Injury",
                 "expected_return": "2026-07-31"
+              },
+              {
+                "name": "Luiz Araújo",
+                "status": "injured",
+                "reason": "Knee Injury",
+                "expected_return": "2026-08-20"
               }
             ]
           },
@@ -36680,16 +36788,28 @@
           ],
           "away": [
             {
-              "name": "Jorge Carrascal",
+              "name": "Giorgian de Arrascaeta",
               "status": "injured",
-              "reason": "FA Charge of Improper Conduct",
-              "expected_return": "2026-07-28"
+              "reason": "Calf Injury",
+              "expected_return": "2026-08-10"
+            },
+            {
+              "name": "Jorge Carrascal",
+              "status": "suspended",
+              "reason": "red_card_suspension",
+              "expected_return": "2026-07-27"
             },
             {
               "name": "Lucas Paquetá",
               "status": "injured",
               "reason": "Hamstring Injury",
               "expected_return": "2026-07-31"
+            },
+            {
+              "name": "Luiz Araújo",
+              "status": "injured",
+              "reason": "Knee Injury",
+              "expected_return": "2026-08-20"
             }
           ]
         },
@@ -117558,16 +117678,28 @@
           "unavailable_players": {
             "home": [
               {
-                "name": "Jorge Carrascal",
+                "name": "Giorgian de Arrascaeta",
                 "status": "injured",
-                "reason": "FA Charge of Improper Conduct",
-                "expected_return": "2026-07-28"
+                "reason": "Calf Injury",
+                "expected_return": "2026-08-10"
+              },
+              {
+                "name": "Jorge Carrascal",
+                "status": "suspended",
+                "reason": "red_card_suspension",
+                "expected_return": "2026-07-27"
               },
               {
                 "name": "Lucas Paquetá",
                 "status": "injured",
                 "reason": "Hamstring Injury",
                 "expected_return": "2026-07-31"
+              },
+              {
+                "name": "Luiz Araújo",
+                "status": "injured",
+                "reason": "Knee Injury",
+                "expected_return": "2026-08-20"
               }
             ],
             "away": [
@@ -117751,16 +117883,28 @@
         "unavailable_players": {
           "home": [
             {
-              "name": "Jorge Carrascal",
+              "name": "Giorgian de Arrascaeta",
               "status": "injured",
-              "reason": "FA Charge of Improper Conduct",
-              "expected_return": "2026-07-28"
+              "reason": "Calf Injury",
+              "expected_return": "2026-08-10"
+            },
+            {
+              "name": "Jorge Carrascal",
+              "status": "suspended",
+              "reason": "red_card_suspension",
+              "expected_return": "2026-07-27"
             },
             {
               "name": "Lucas Paquetá",
               "status": "injured",
               "reason": "Hamstring Injury",
               "expected_return": "2026-07-31"
+            },
+            {
+              "name": "Luiz Araújo",
+              "status": "injured",
+              "reason": "Knee Injury",
+              "expected_return": "2026-08-20"
             }
           ],
           "away": [
@@ -132335,16 +132479,28 @@
             ],
             "away": [
               {
-                "name": "Jorge Carrascal",
+                "name": "Giorgian de Arrascaeta",
                 "status": "injured",
-                "reason": "FA Charge of Improper Conduct",
-                "expected_return": "2026-07-28"
+                "reason": "Calf Injury",
+                "expected_return": "2026-08-10"
+              },
+              {
+                "name": "Jorge Carrascal",
+                "status": "suspended",
+                "reason": "red_card_suspension",
+                "expected_return": "2026-07-27"
               },
               {
                 "name": "Lucas Paquetá",
                 "status": "injured",
                 "reason": "Hamstring Injury",
                 "expected_return": "2026-07-31"
+              },
+              {
+                "name": "Luiz Araújo",
+                "status": "injured",
+                "reason": "Knee Injury",
+                "expected_return": "2026-08-20"
               }
             ]
           },
@@ -132528,16 +132684,28 @@
           ],
           "away": [
             {
-              "name": "Jorge Carrascal",
+              "name": "Giorgian de Arrascaeta",
               "status": "injured",
-              "reason": "FA Charge of Improper Conduct",
-              "expected_return": "2026-07-28"
+              "reason": "Calf Injury",
+              "expected_return": "2026-08-10"
+            },
+            {
+              "name": "Jorge Carrascal",
+              "status": "suspended",
+              "reason": "red_card_suspension",
+              "expected_return": "2026-07-27"
             },
             {
               "name": "Lucas Paquetá",
               "status": "injured",
               "reason": "Hamstring Injury",
               "expected_return": "2026-07-31"
+            },
+            {
+              "name": "Luiz Araújo",
+              "status": "injured",
+              "reason": "Knee Injury",
+              "expected_return": "2026-08-20"
             }
           ]
         },
