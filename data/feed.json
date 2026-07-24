@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-24T06:28:05.446Z",
+  "generated_at": "2026-07-24T09:04:55.659Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -10,7 +10,7 @@
   "summary": {
     "total_matches": 50,
     "total_leagues": 16,
-    "average_confidence": 0.4825379999999999,
+    "average_confidence": 0.48251399999999983,
     "favorite_recommend": 0,
     "over_15_recommend": 0,
     "over_25_recommend": 0,
@@ -1398,8 +1398,8 @@
         "prob_draw": 33.9,
         "prob_away_win": 38.2,
         "predicted_result": "A",
-        "expected_home_goals": 1.384,
-        "expected_away_goals": 1.848,
+        "expected_home_goals": 1.386,
+        "expected_away_goals": 1.845,
         "prob_over_15": 79,
         "prob_over_25": 58,
         "prob_over_35": 37,
@@ -2060,12 +2060,12 @@
         "prob_draw": 31.2,
         "prob_away_win": 19,
         "predicted_result": "H",
-        "expected_home_goals": 1.873,
-        "expected_away_goals": 1.222,
+        "expected_home_goals": 1.875,
+        "expected_away_goals": 1.221,
         "prob_over_15": 80.8,
         "prob_over_25": 60.5,
         "prob_over_35": 39.4,
-        "prob_btts_yes": 57.4,
+        "prob_btts_yes": 58.1,
         "confidence": 0.498,
         "model_version": "dc-blend-v1",
         "most_likely_score": "1-1",
@@ -4066,7 +4066,7 @@
         "prob_away_win": 32.7,
         "predicted_result": "D",
         "expected_home_goals": 1.541,
-        "expected_away_goals": 1.311,
+        "expected_away_goals": 1.312,
         "prob_over_15": 71.6,
         "prob_over_25": 47.5,
         "prob_over_35": 6.8,
@@ -4662,7 +4662,17 @@
               "terrorist_fb"
             ]
           },
-          "unavailable_players": null,
+          "unavailable_players": {
+            "home": [
+              {
+                "name": "Kevin Rincón",
+                "status": "injured",
+                "reason": "Broken Foot",
+                "expected_return": "2026-11-10"
+              }
+            ],
+            "away": []
+          },
           "venue": {
             "id": 1657,
             "name": "Estadio Bello Horizonte “Rey Pelé”",
@@ -4871,7 +4881,17 @@
             "terrorist_fb"
           ]
         },
-        "unavailable_players": null,
+        "unavailable_players": {
+          "home": [
+            {
+              "name": "Kevin Rincón",
+              "status": "injured",
+              "reason": "Broken Foot",
+              "expected_return": "2026-11-10"
+            }
+          ],
+          "away": []
+        },
         "venue": {
           "id": 1657,
           "name": "Estadio Bello Horizonte “Rey Pelé”",
@@ -5197,6 +5217,624 @@
       }
     },
     {
+      "event_id": 216378,
+      "prediction": {
+        "id": 155,
+        "event": {
+          "id": 216378,
+          "league": {
+            "id": 72,
+            "name": "NWSL",
+            "country": "USA",
+            "is_women": true,
+            "current_season": {
+              "id": 1540,
+              "name": "National Womens Soccer League 2026",
+              "year": 2026,
+              "start_date": "2026-01-01",
+              "end_date": "2026-12-31"
+            }
+          },
+          "season": {
+            "id": 1540,
+            "name": "National Womens Soccer League 2026",
+            "year": 2026
+          },
+          "home_team": "Houston Dash",
+          "away_team": "Bay FC",
+          "home_team_obj": {
+            "id": 3937,
+            "name": "Houston Dash",
+            "short_name": "Houston",
+            "country": "USA",
+            "coach": {
+              "name": "Fabrice Gautrat",
+              "shortName": "F. Gautrat"
+            },
+            "venue": null
+          },
+          "away_team_obj": {
+            "id": 3932,
+            "name": "Bay FC",
+            "short_name": "",
+            "country": "USA",
+            "coach": {
+              "name": "Emma Coates",
+              "shortName": "E. Coates"
+            },
+            "venue": null
+          },
+          "event_date": "2026-07-25T04:00:00+04:00",
+          "round_number": 1,
+          "round_name": "",
+          "group_name": null,
+          "status": "notstarted",
+          "home_score": null,
+          "away_score": null,
+          "home_score_ht": null,
+          "away_score_ht": null,
+          "current_minute": null,
+          "period": "",
+          "odds_home": 2.64,
+          "odds_draw": 3.38,
+          "odds_away": 2.28,
+          "odds_over_15": 1.19,
+          "odds_over_25": 1.64,
+          "odds_over_35": 2.56,
+          "odds_under_15": 4.12,
+          "odds_under_25": 2.09,
+          "odds_under_35": 1.42,
+          "odds_btts_yes": 1.53,
+          "odds_btts_no": 2.27,
+          "actual_home_xg": null,
+          "actual_away_xg": null,
+          "home_xg_live": null,
+          "away_xg_live": null,
+          "penalty_shootout": null,
+          "extra_time_score": null,
+          "is_local_derby": false,
+          "is_neutral_ground": null,
+          "travel_distance_km": null,
+          "weather_code": 0,
+          "wind_speed": 19.9,
+          "temperature_c": 31,
+          "pitch_condition": null,
+          "attendance": null,
+          "referee": null,
+          "home_coach": {
+            "id": 2060,
+            "name": "Fabrice Gautrat",
+            "short_name": "F. Gautrat",
+            "country": "USA",
+            "profile": "balanced",
+            "preferred_formation": "4-4-2",
+            "pressing_intensity": 0.6578098724285119,
+            "defensive_line": "high",
+            "top_styles": [
+              "moments_fc",
+              "gegenpressing"
+            ]
+          },
+          "away_coach": {
+            "id": 2055,
+            "name": "Emma Coates",
+            "short_name": "E. Coates",
+            "country": "England",
+            "profile": "balanced",
+            "preferred_formation": "4-2-3-1",
+            "pressing_intensity": 0.8318611622844487,
+            "defensive_line": "mid",
+            "top_styles": [
+              "gegenpressing",
+              "high_press"
+            ]
+          },
+          "unavailable_players": null,
+          "venue": {
+            "id": 276,
+            "name": "Shell Energy Stadium",
+            "city": "Houston",
+            "country": "USA",
+            "capacity": 22039,
+            "latitude": 29.7522,
+            "longitude": -95.3523,
+            "pitch_x": 109,
+            "pitch_y": 69,
+            "built_year": 2012
+          },
+          "incidents": null,
+          "live_stats": null,
+          "lineups": null,
+          "shotmap": null,
+          "momentum": null,
+          "xg_per_minute": null,
+          "average_positions": null,
+          "jerseys": {
+            "away": {
+              "GK": {
+                "base": "e7341e",
+                "real": true,
+                "type": "long_sleeves",
+                "number": "050505",
+                "sleeve": "ee0e06"
+              },
+              "player": {
+                "base": "2a3349",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "d15c52",
+                "sleeve": "ca6055"
+              }
+            },
+            "home": {
+              "GK": {
+                "base": "008ac9",
+                "real": true,
+                "type": "long_sleeves",
+                "number": "c9d5db",
+                "sleeve": "2386a5"
+              },
+              "player": {
+                "base": "ca4643",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "d3d2d5",
+                "sleeve": "77b6ab"
+              }
+            }
+          },
+          "funfacts": [
+            {
+              "type_id": 1,
+              "sentence": "Houston haven't won in their last 4 games."
+            },
+            {
+              "type_id": 25,
+              "sentence": "Kat Rader is Houston's top scorer with 5 goals. Karlie Lema has scored 4 times for Bay."
+            },
+            {
+              "type_id": 25,
+              "sentence": "Avery Patterson has more yellow cards (5) than any other player at Houston. Claire Catherine Hutton has collected 4 for Bay."
+            }
+          ],
+          "sr_stats": null,
+          "ai_preview": {
+            "text": "**Houston and Bay kick off the NWSL reset with a classic early-season toss-up** — both teams have mixed form but plenty to prove in a packed fixture list. 🔥\n\nHouston's been leaky on the road (0W 2D 2L in their last four away), while Bay just rolled Louisville and North Carolina but can't seem to string consistency together. This is the kind of match where the team that settles first grabs the edge.\n\nKey storylines:\n\n- **J. Campbell** and **J. Silkowitz** will be tested early; both backlines have shown frailty recently\n- **M. Doniak** and **R. Kundananji** are the creative sparks both teams need to break down compact defenses\n- Houston's midfield pairing of **L. Ullmark** and **K. A. Rader** faces pressure to control tempo against a Bay side that likes to transition fast\n\nExpected lineups:\n\n- **Houston Dash**: J. Campbell, L. M. Klenke, A. Patterson, P. Nielsen, L. Boattin, L. Ullmark, K. A. Rader, A. West, M. Graham, M. Doniak, M. Ivanović\n- **Bay FC**: J. Silkowitz, S. Collins, J. Anderson, M. Moreau, A. Denton, C. Hutton, H. Bebar, K. Lema, T. Huff, R. Kundananji, C. Conti\n\nPrediction:\n\n**1–1 draw** — neither side convinces fully, but both find a goal in a frantic NWSL opener.",
+            "generated_at": "2026-07-24T00:45:31.081985+00:00"
+          },
+          "live_websocket": true
+        },
+        "created_at": "2026-07-23T16:01:10.865884+00:00",
+        "prob_home_win": 33.9,
+        "prob_draw": 26.9,
+        "prob_away_win": 39.2,
+        "predicted_result": "A",
+        "expected_home_goals": 1.434,
+        "expected_away_goals": 1.313,
+        "prob_over_15": 77.4,
+        "prob_over_25": 55.4,
+        "prob_over_35": 34.9,
+        "prob_btts_yes": 60.1,
+        "confidence": 0.392,
+        "model_version": "dc-blend-v1",
+        "most_likely_score": "1-1",
+        "favorite": "A",
+        "favorite_prob": 39.2,
+        "favorite_recommend": false,
+        "over_15_recommend": false,
+        "over_25_recommend": false,
+        "over_35_recommend": false,
+        "btts_recommend": false,
+        "winner_recommend": false
+      },
+      "event_detail": {
+        "id": 216378,
+        "league": {
+          "id": 72,
+          "name": "NWSL",
+          "country": "USA",
+          "is_women": true,
+          "current_season": {
+            "id": 1540,
+            "name": "National Womens Soccer League 2026",
+            "year": 2026,
+            "start_date": "2026-01-01",
+            "end_date": "2026-12-31"
+          }
+        },
+        "season": {
+          "id": 1540,
+          "name": "National Womens Soccer League 2026",
+          "year": 2026
+        },
+        "home_team": "Houston Dash",
+        "away_team": "Bay FC",
+        "home_team_obj": {
+          "id": 3937,
+          "name": "Houston Dash",
+          "short_name": "Houston",
+          "country": "USA",
+          "coach": {
+            "name": "Fabrice Gautrat",
+            "shortName": "F. Gautrat"
+          },
+          "venue": null
+        },
+        "away_team_obj": {
+          "id": 3932,
+          "name": "Bay FC",
+          "short_name": "",
+          "country": "USA",
+          "coach": {
+            "name": "Emma Coates",
+            "shortName": "E. Coates"
+          },
+          "venue": null
+        },
+        "event_date": "2026-07-25T03:00:00+03:00",
+        "round_number": 1,
+        "round_name": "",
+        "group_name": null,
+        "status": "notstarted",
+        "home_score": null,
+        "away_score": null,
+        "home_score_ht": null,
+        "away_score_ht": null,
+        "current_minute": null,
+        "period": "",
+        "odds_home": 2.64,
+        "odds_draw": 3.38,
+        "odds_away": 2.28,
+        "odds_over_15": 1.19,
+        "odds_over_25": 1.64,
+        "odds_over_35": 2.56,
+        "odds_under_15": 4.12,
+        "odds_under_25": 2.09,
+        "odds_under_35": 1.42,
+        "odds_btts_yes": 1.53,
+        "odds_btts_no": 2.27,
+        "actual_home_xg": null,
+        "actual_away_xg": null,
+        "home_xg_live": null,
+        "away_xg_live": null,
+        "penalty_shootout": null,
+        "extra_time_score": null,
+        "is_local_derby": false,
+        "is_neutral_ground": null,
+        "travel_distance_km": null,
+        "weather_code": 0,
+        "wind_speed": 19.9,
+        "temperature_c": 31,
+        "pitch_condition": null,
+        "attendance": null,
+        "referee": null,
+        "home_coach": {
+          "id": 2060,
+          "name": "Fabrice Gautrat",
+          "short_name": "F. Gautrat",
+          "country": "USA",
+          "profile": "balanced",
+          "preferred_formation": "4-4-2",
+          "pressing_intensity": 0.6578098724285119,
+          "defensive_line": "high",
+          "top_styles": [
+            "moments_fc",
+            "gegenpressing"
+          ]
+        },
+        "away_coach": {
+          "id": 2055,
+          "name": "Emma Coates",
+          "short_name": "E. Coates",
+          "country": "England",
+          "profile": "balanced",
+          "preferred_formation": "4-2-3-1",
+          "pressing_intensity": 0.8318611622844487,
+          "defensive_line": "mid",
+          "top_styles": [
+            "gegenpressing",
+            "high_press"
+          ]
+        },
+        "unavailable_players": null,
+        "venue": {
+          "id": 276,
+          "name": "Shell Energy Stadium",
+          "city": "Houston",
+          "country": "USA",
+          "capacity": 22039,
+          "latitude": 29.7522,
+          "longitude": -95.3523,
+          "pitch_x": 109,
+          "pitch_y": 69,
+          "built_year": 2012
+        },
+        "live_stats": null,
+        "jerseys": {
+          "away": {
+            "GK": {
+              "base": "e7341e",
+              "real": true,
+              "type": "long_sleeves",
+              "number": "050505",
+              "sleeve": "ee0e06"
+            },
+            "player": {
+              "base": "2a3349",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "d15c52",
+              "sleeve": "ca6055"
+            }
+          },
+          "home": {
+            "GK": {
+              "base": "008ac9",
+              "real": true,
+              "type": "long_sleeves",
+              "number": "c9d5db",
+              "sleeve": "2386a5"
+            },
+            "player": {
+              "base": "ca4643",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "d3d2d5",
+              "sleeve": "77b6ab"
+            }
+          }
+        },
+        "funfacts": [
+          {
+            "type_id": 1,
+            "sentence": "Houston haven't won in their last 4 games."
+          },
+          {
+            "type_id": 25,
+            "sentence": "Kat Rader is Houston's top scorer with 5 goals. Karlie Lema has scored 4 times for Bay."
+          },
+          {
+            "type_id": 25,
+            "sentence": "Avery Patterson has more yellow cards (5) than any other player at Houston. Claire Catherine Hutton has collected 4 for Bay."
+          }
+        ],
+        "sr_stats": null,
+        "ai_preview": {
+          "text": "**Houston and Bay kick off the NWSL reset with a classic early-season toss-up** — both teams have mixed form but plenty to prove in a packed fixture list. 🔥\n\nHouston's been leaky on the road (0W 2D 2L in their last four away), while Bay just rolled Louisville and North Carolina but can't seem to string consistency together. This is the kind of match where the team that settles first grabs the edge.\n\nKey storylines:\n\n- **J. Campbell** and **J. Silkowitz** will be tested early; both backlines have shown frailty recently\n- **M. Doniak** and **R. Kundananji** are the creative sparks both teams need to break down compact defenses\n- Houston's midfield pairing of **L. Ullmark** and **K. A. Rader** faces pressure to control tempo against a Bay side that likes to transition fast\n\nExpected lineups:\n\n- **Houston Dash**: J. Campbell, L. M. Klenke, A. Patterson, P. Nielsen, L. Boattin, L. Ullmark, K. A. Rader, A. West, M. Graham, M. Doniak, M. Ivanović\n- **Bay FC**: J. Silkowitz, S. Collins, J. Anderson, M. Moreau, A. Denton, C. Hutton, H. Bebar, K. Lema, T. Huff, R. Kundananji, C. Conti\n\nPrediction:\n\n**1–1 draw** — neither side convinces fully, but both find a goal in a frantic NWSL opener.",
+          "generated_at": "2026-07-24T00:45:31.081985+00:00"
+        },
+        "live_websocket": true,
+        "home_form": {
+          "calculated_at": "2026-07-24",
+          "matches_played": 5,
+          "form_string": "DDLLW",
+          "wins": 1,
+          "draws": 2,
+          "losses": 2,
+          "points_last_n": 5,
+          "goals_scored_last_n": 6,
+          "goals_conceded_last_n": 7,
+          "avg_xg": 1.2,
+          "avg_xg_conceded": 1.4,
+          "avg_shots": 8.2,
+          "avg_shots_on_target": 4.2,
+          "avg_key_passes": 6.8,
+          "goal_conversion_rate": 0,
+          "defensive_efficiency": 0,
+          "clean_sheets": 0,
+          "avg_pass_accuracy": 79.18395496378858,
+          "duel_win_rate": 0.5354330708661418,
+          "aerial_win_rate": 0.48148148148148145,
+          "avg_fouls": 9.8,
+          "avg_yellow_cards": 1.6,
+          "home_ppg": 1,
+          "away_ppg": 0.4,
+          "home_goals_scored": 5,
+          "home_goals_conceded": 8,
+          "away_goals_scored": 4,
+          "away_goals_conceded": 9,
+          "avg_team_rating": 6.780083333333335
+        },
+        "away_form": {
+          "calculated_at": "2026-07-24",
+          "matches_played": 5,
+          "form_string": "WWDLL",
+          "wins": 2,
+          "draws": 1,
+          "losses": 2,
+          "points_last_n": 7,
+          "goals_scored_last_n": 8,
+          "goals_conceded_last_n": 6,
+          "avg_xg": 1.6,
+          "avg_xg_conceded": 1.2,
+          "avg_shots": 13.8,
+          "avg_shots_on_target": 5.8,
+          "avg_key_passes": 10.4,
+          "goal_conversion_rate": 0,
+          "defensive_efficiency": 0,
+          "clean_sheets": 2,
+          "avg_pass_accuracy": 81.57562327875516,
+          "duel_win_rate": 0.47696476964769646,
+          "aerial_win_rate": 0.4,
+          "avg_fouls": 8.2,
+          "avg_yellow_cards": 0.8,
+          "home_ppg": 1,
+          "away_ppg": 1.4,
+          "home_goals_scored": 4,
+          "home_goals_conceded": 4,
+          "away_goals_scored": 6,
+          "away_goals_conceded": 7,
+          "avg_team_rating": 6.772
+        },
+        "head_to_head": null,
+        "lineups": null,
+        "social": []
+      },
+      "managers": {
+        "home": {
+          "id": 2060,
+          "name": "Fabrice Gautrat",
+          "short_name": "F. Gautrat",
+          "country": "USA",
+          "current_team": {
+            "id": 3937,
+            "name": "Houston Dash"
+          },
+          "preferred_formation": "4-4-2",
+          "formations_used": {
+            "4-4-2": 9,
+            "4-1-3-2": 1,
+            "4-2-3-1": 5
+          },
+          "profile": "balanced",
+          "team_style": "neutral",
+          "pressing_intensity": 0.6578098724285119,
+          "defensive_line": "high",
+          "tactical_styles": [
+            {
+              "rank": 1,
+              "code": "moments_fc",
+              "name": "Moments FC",
+              "category": "fan",
+              "emoji": "⭐",
+              "description": "Relies entirely on individual star brilliance",
+              "score": 0.095
+            },
+            {
+              "rank": 2,
+              "code": "gegenpressing",
+              "name": "Gegenpressing",
+              "category": "pressing",
+              "emoji": "💨",
+              "description": "Immediate press after losing the ball",
+              "score": 0.082
+            },
+            {
+              "rank": 3,
+              "code": "park_the_bus",
+              "name": "Park the Bus",
+              "category": "defensive",
+              "emoji": "🚌",
+              "description": "Ultra-deep defense, minimal attacking intent",
+              "score": 0.06
+            },
+            {
+              "rank": 4,
+              "code": "high_press",
+              "name": "High Press",
+              "category": "pressing",
+              "emoji": "🔥",
+              "description": "Press defenders and keeper aggressively high up",
+              "score": 0.059
+            }
+          ],
+          "matches_total": 15,
+          "wins": 4,
+          "draws": 4,
+          "losses": 7,
+          "win_pct": 26.7,
+          "avg_goals_scored": 1.2,
+          "avg_goals_conceded": 1.6,
+          "avg_possession": 44.93,
+          "avg_shots": 10.47,
+          "avg_shots_on_target": 3.73,
+          "avg_xg_for": 1.22,
+          "avg_xg_against": 2,
+          "avg_corners": 3.07,
+          "avg_yellow_cards": 1.53,
+          "avg_red_cards": 0,
+          "avg_fouls": 9.8,
+          "clean_sheet_pct": 20,
+          "btts_pct": 53.3,
+          "over_25_pct": 60,
+          "over_15_pct": 73.3,
+          "fail_to_score_pct": 33.3,
+          "avg_goals_scored_1h": 0.47,
+          "avg_goals_conceded_1h": 0.87
+        },
+        "away": {
+          "id": 2055,
+          "name": "Emma Coates",
+          "short_name": "E. Coates",
+          "country": "England",
+          "current_team": {
+            "id": 3932,
+            "name": "Bay FC"
+          },
+          "preferred_formation": "4-2-3-1",
+          "formations_used": {
+            "4-2-3-1": 11,
+            "4-4-1-1": 3
+          },
+          "profile": "balanced",
+          "team_style": "neutral",
+          "pressing_intensity": 0.8318611622844487,
+          "defensive_line": "mid",
+          "tactical_styles": [
+            {
+              "rank": 1,
+              "code": "gegenpressing",
+              "name": "Gegenpressing",
+              "category": "pressing",
+              "emoji": "💨",
+              "description": "Immediate press after losing the ball",
+              "score": 0.167
+            },
+            {
+              "rank": 2,
+              "code": "high_press",
+              "name": "High Press",
+              "category": "pressing",
+              "emoji": "🔥",
+              "description": "Press defenders and keeper aggressively high up",
+              "score": 0.13
+            },
+            {
+              "rank": 3,
+              "code": "man_press",
+              "name": "Man-Oriented Press",
+              "category": "pressing",
+              "emoji": "🎯",
+              "description": "Players follow their direct opponents everywhere",
+              "score": 0.046
+            },
+            {
+              "rank": 4,
+              "code": "total_football",
+              "name": "Total Football",
+              "category": "possession",
+              "emoji": "🌀",
+              "description": "Fluid rotations, every player attacks and defends",
+              "score": 0.044
+            }
+          ],
+          "matches_total": 14,
+          "wins": 5,
+          "draws": 3,
+          "losses": 6,
+          "win_pct": 35.7,
+          "avg_goals_scored": 1.14,
+          "avg_goals_conceded": 1.36,
+          "avg_possession": 50.36,
+          "avg_shots": 12.43,
+          "avg_shots_on_target": 4.43,
+          "avg_xg_for": 1.4,
+          "avg_xg_against": 2.02,
+          "avg_corners": 4.36,
+          "avg_yellow_cards": 1.64,
+          "avg_red_cards": 0.14,
+          "avg_fouls": 10.36,
+          "clean_sheet_pct": 28.6,
+          "btts_pct": 42.9,
+          "over_25_pct": 50,
+          "over_15_pct": 78.6,
+          "fail_to_score_pct": 35.7,
+          "avg_goals_scored_1h": 0.86,
+          "avg_goals_conceded_1h": 0.64
+        }
+      }
+    },
+    {
       "event_id": 216379,
       "prediction": {
         "id": 156,
@@ -5255,17 +5893,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.53,
-          "odds_draw": 4.23,
-          "odds_away": 4.83,
+          "odds_home": 1.52,
+          "odds_draw": 4.24,
+          "odds_away": 4.82,
           "odds_over_15": 1.14,
           "odds_over_25": 1.43,
           "odds_over_35": 2.11,
           "odds_under_15": 4.95,
-          "odds_under_25": 2.52,
-          "odds_under_35": 1.63,
+          "odds_under_25": 2.53,
+          "odds_under_35": 1.62,
           "odds_btts_yes": 1.55,
-          "odds_btts_no": 2.25,
+          "odds_btts_no": 2.24,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -5465,17 +6103,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.53,
-        "odds_draw": 4.23,
-        "odds_away": 4.83,
+        "odds_home": 1.52,
+        "odds_draw": 4.24,
+        "odds_away": 4.82,
         "odds_over_15": 1.14,
         "odds_over_25": 1.43,
         "odds_over_35": 2.11,
         "odds_under_15": 4.95,
-        "odds_under_25": 2.52,
-        "odds_under_35": 1.63,
+        "odds_under_25": 2.53,
+        "odds_under_35": 1.62,
         "odds_btts_yes": 1.55,
-        "odds_btts_no": 2.25,
+        "odds_btts_no": 2.24,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -5900,15 +6538,15 @@
           "current_minute": null,
           "period": "",
           "odds_home": 2.07,
-          "odds_draw": 3.4,
-          "odds_away": 3.14,
+          "odds_draw": 3.38,
+          "odds_away": 3.16,
           "odds_over_15": 1.24,
           "odds_over_25": 1.76,
-          "odds_over_35": 2.87,
-          "odds_under_15": 3.67,
+          "odds_over_35": 2.86,
+          "odds_under_15": 3.68,
           "odds_under_25": 1.96,
           "odds_under_35": 1.37,
-          "odds_btts_yes": 1.64,
+          "odds_btts_yes": 1.63,
           "odds_btts_no": 2.13,
           "actual_home_xg": null,
           "actual_away_xg": null,
@@ -6030,16 +6668,16 @@
         },
         "created_at": "2026-07-23T16:01:10.861547+00:00",
         "prob_home_win": 44.1,
-        "prob_draw": 26.8,
-        "prob_away_win": 29.1,
+        "prob_draw": 27,
+        "prob_away_win": 28.9,
         "predicted_result": "H",
         "expected_home_goals": 1.264,
-        "expected_away_goals": 1.212,
-        "prob_over_15": 74.3,
-        "prob_over_25": 51.9,
+        "expected_away_goals": 1.209,
+        "prob_over_15": 74.4,
+        "prob_over_25": 51.8,
         "prob_over_35": 31.1,
-        "prob_btts_yes": 56.5,
-        "confidence": 0.4409,
+        "prob_btts_yes": 56.6,
+        "confidence": 0.441,
         "model_version": "dc-blend-v1",
         "most_likely_score": "1-1",
         "favorite": "H",
@@ -6107,15 +6745,15 @@
         "current_minute": null,
         "period": "",
         "odds_home": 2.07,
-        "odds_draw": 3.4,
-        "odds_away": 3.14,
+        "odds_draw": 3.38,
+        "odds_away": 3.16,
         "odds_over_15": 1.24,
         "odds_over_25": 1.76,
-        "odds_over_35": 2.87,
-        "odds_under_15": 3.67,
+        "odds_over_35": 2.86,
+        "odds_under_15": 3.68,
         "odds_under_25": 1.96,
         "odds_under_35": 1.37,
-        "odds_btts_yes": 1.64,
+        "odds_btts_yes": 1.63,
         "odds_btts_no": 2.13,
         "actual_home_xg": null,
         "actual_away_xg": null,
@@ -6461,624 +7099,6 @@
       }
     },
     {
-      "event_id": 216378,
-      "prediction": {
-        "id": 155,
-        "event": {
-          "id": 216378,
-          "league": {
-            "id": 72,
-            "name": "NWSL",
-            "country": "USA",
-            "is_women": true,
-            "current_season": {
-              "id": 1540,
-              "name": "National Womens Soccer League 2026",
-              "year": 2026,
-              "start_date": "2026-01-01",
-              "end_date": "2026-12-31"
-            }
-          },
-          "season": {
-            "id": 1540,
-            "name": "National Womens Soccer League 2026",
-            "year": 2026
-          },
-          "home_team": "Houston Dash",
-          "away_team": "Bay FC",
-          "home_team_obj": {
-            "id": 3937,
-            "name": "Houston Dash",
-            "short_name": "Houston",
-            "country": "USA",
-            "coach": {
-              "name": "Fabrice Gautrat",
-              "shortName": "F. Gautrat"
-            },
-            "venue": null
-          },
-          "away_team_obj": {
-            "id": 3932,
-            "name": "Bay FC",
-            "short_name": "",
-            "country": "USA",
-            "coach": {
-              "name": "Emma Coates",
-              "shortName": "E. Coates"
-            },
-            "venue": null
-          },
-          "event_date": "2026-07-25T04:00:00+04:00",
-          "round_number": 1,
-          "round_name": "",
-          "group_name": null,
-          "status": "notstarted",
-          "home_score": null,
-          "away_score": null,
-          "home_score_ht": null,
-          "away_score_ht": null,
-          "current_minute": null,
-          "period": "",
-          "odds_home": 2.65,
-          "odds_draw": 3.33,
-          "odds_away": 2.31,
-          "odds_over_15": 1.2,
-          "odds_over_25": 1.68,
-          "odds_over_35": 2.64,
-          "odds_under_15": 3.95,
-          "odds_under_25": 2.03,
-          "odds_under_35": 1.4,
-          "odds_btts_yes": 1.56,
-          "odds_btts_no": 2.2,
-          "actual_home_xg": null,
-          "actual_away_xg": null,
-          "home_xg_live": null,
-          "away_xg_live": null,
-          "penalty_shootout": null,
-          "extra_time_score": null,
-          "is_local_derby": false,
-          "is_neutral_ground": null,
-          "travel_distance_km": null,
-          "weather_code": 0,
-          "wind_speed": 19.9,
-          "temperature_c": 31,
-          "pitch_condition": null,
-          "attendance": null,
-          "referee": null,
-          "home_coach": {
-            "id": 2060,
-            "name": "Fabrice Gautrat",
-            "short_name": "F. Gautrat",
-            "country": "USA",
-            "profile": "balanced",
-            "preferred_formation": "4-4-2",
-            "pressing_intensity": 0.6578098724285119,
-            "defensive_line": "high",
-            "top_styles": [
-              "moments_fc",
-              "gegenpressing"
-            ]
-          },
-          "away_coach": {
-            "id": 2055,
-            "name": "Emma Coates",
-            "short_name": "E. Coates",
-            "country": "England",
-            "profile": "balanced",
-            "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.8318611622844487,
-            "defensive_line": "mid",
-            "top_styles": [
-              "gegenpressing",
-              "high_press"
-            ]
-          },
-          "unavailable_players": null,
-          "venue": {
-            "id": 276,
-            "name": "Shell Energy Stadium",
-            "city": "Houston",
-            "country": "USA",
-            "capacity": 22039,
-            "latitude": 29.7522,
-            "longitude": -95.3523,
-            "pitch_x": 109,
-            "pitch_y": 69,
-            "built_year": 2012
-          },
-          "incidents": null,
-          "live_stats": null,
-          "lineups": null,
-          "shotmap": null,
-          "momentum": null,
-          "xg_per_minute": null,
-          "average_positions": null,
-          "jerseys": {
-            "away": {
-              "GK": {
-                "base": "e7341e",
-                "real": true,
-                "type": "long_sleeves",
-                "number": "050505",
-                "sleeve": "ee0e06"
-              },
-              "player": {
-                "base": "2a3349",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "d15c52",
-                "sleeve": "ca6055"
-              }
-            },
-            "home": {
-              "GK": {
-                "base": "008ac9",
-                "real": true,
-                "type": "long_sleeves",
-                "number": "c9d5db",
-                "sleeve": "2386a5"
-              },
-              "player": {
-                "base": "ca4643",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "d3d2d5",
-                "sleeve": "77b6ab"
-              }
-            }
-          },
-          "funfacts": [
-            {
-              "type_id": 1,
-              "sentence": "Houston haven't won in their last 4 games."
-            },
-            {
-              "type_id": 25,
-              "sentence": "Kat Rader is Houston's top scorer with 5 goals. Karlie Lema has scored 4 times for Bay."
-            },
-            {
-              "type_id": 25,
-              "sentence": "Avery Patterson has more yellow cards (5) than any other player at Houston. Claire Catherine Hutton has collected 4 for Bay."
-            }
-          ],
-          "sr_stats": null,
-          "ai_preview": {
-            "text": "**Houston and Bay kick off the NWSL reset with a classic early-season toss-up** — both teams have mixed form but plenty to prove in a packed fixture list. 🔥\n\nHouston's been leaky on the road (0W 2D 2L in their last four away), while Bay just rolled Louisville and North Carolina but can't seem to string consistency together. This is the kind of match where the team that settles first grabs the edge.\n\nKey storylines:\n\n- **J. Campbell** and **J. Silkowitz** will be tested early; both backlines have shown frailty recently\n- **M. Doniak** and **R. Kundananji** are the creative sparks both teams need to break down compact defenses\n- Houston's midfield pairing of **L. Ullmark** and **K. A. Rader** faces pressure to control tempo against a Bay side that likes to transition fast\n\nExpected lineups:\n\n- **Houston Dash**: J. Campbell, L. M. Klenke, A. Patterson, P. Nielsen, L. Boattin, L. Ullmark, K. A. Rader, A. West, M. Graham, M. Doniak, M. Ivanović\n- **Bay FC**: J. Silkowitz, S. Collins, J. Anderson, M. Moreau, A. Denton, C. Hutton, H. Bebar, K. Lema, T. Huff, R. Kundananji, C. Conti\n\nPrediction:\n\n**1–1 draw** — neither side convinces fully, but both find a goal in a frantic NWSL opener.",
-            "generated_at": "2026-07-24T00:45:31.081985+00:00"
-          },
-          "live_websocket": true
-        },
-        "created_at": "2026-07-23T16:01:10.865884+00:00",
-        "prob_home_win": 34,
-        "prob_draw": 27,
-        "prob_away_win": 39,
-        "predicted_result": "A",
-        "expected_home_goals": 1.434,
-        "expected_away_goals": 1.313,
-        "prob_over_15": 76.5,
-        "prob_over_25": 54.2,
-        "prob_over_35": 33.7,
-        "prob_btts_yes": 58.5,
-        "confidence": 0.3898,
-        "model_version": "dc-blend-v1",
-        "most_likely_score": "1-1",
-        "favorite": "A",
-        "favorite_prob": 39,
-        "favorite_recommend": false,
-        "over_15_recommend": false,
-        "over_25_recommend": false,
-        "over_35_recommend": false,
-        "btts_recommend": false,
-        "winner_recommend": false
-      },
-      "event_detail": {
-        "id": 216378,
-        "league": {
-          "id": 72,
-          "name": "NWSL",
-          "country": "USA",
-          "is_women": true,
-          "current_season": {
-            "id": 1540,
-            "name": "National Womens Soccer League 2026",
-            "year": 2026,
-            "start_date": "2026-01-01",
-            "end_date": "2026-12-31"
-          }
-        },
-        "season": {
-          "id": 1540,
-          "name": "National Womens Soccer League 2026",
-          "year": 2026
-        },
-        "home_team": "Houston Dash",
-        "away_team": "Bay FC",
-        "home_team_obj": {
-          "id": 3937,
-          "name": "Houston Dash",
-          "short_name": "Houston",
-          "country": "USA",
-          "coach": {
-            "name": "Fabrice Gautrat",
-            "shortName": "F. Gautrat"
-          },
-          "venue": null
-        },
-        "away_team_obj": {
-          "id": 3932,
-          "name": "Bay FC",
-          "short_name": "",
-          "country": "USA",
-          "coach": {
-            "name": "Emma Coates",
-            "shortName": "E. Coates"
-          },
-          "venue": null
-        },
-        "event_date": "2026-07-25T03:00:00+03:00",
-        "round_number": 1,
-        "round_name": "",
-        "group_name": null,
-        "status": "notstarted",
-        "home_score": null,
-        "away_score": null,
-        "home_score_ht": null,
-        "away_score_ht": null,
-        "current_minute": null,
-        "period": "",
-        "odds_home": 2.65,
-        "odds_draw": 3.33,
-        "odds_away": 2.31,
-        "odds_over_15": 1.2,
-        "odds_over_25": 1.68,
-        "odds_over_35": 2.64,
-        "odds_under_15": 3.95,
-        "odds_under_25": 2.03,
-        "odds_under_35": 1.4,
-        "odds_btts_yes": 1.56,
-        "odds_btts_no": 2.2,
-        "actual_home_xg": null,
-        "actual_away_xg": null,
-        "home_xg_live": null,
-        "away_xg_live": null,
-        "penalty_shootout": null,
-        "extra_time_score": null,
-        "is_local_derby": false,
-        "is_neutral_ground": null,
-        "travel_distance_km": null,
-        "weather_code": 0,
-        "wind_speed": 19.9,
-        "temperature_c": 31,
-        "pitch_condition": null,
-        "attendance": null,
-        "referee": null,
-        "home_coach": {
-          "id": 2060,
-          "name": "Fabrice Gautrat",
-          "short_name": "F. Gautrat",
-          "country": "USA",
-          "profile": "balanced",
-          "preferred_formation": "4-4-2",
-          "pressing_intensity": 0.6578098724285119,
-          "defensive_line": "high",
-          "top_styles": [
-            "moments_fc",
-            "gegenpressing"
-          ]
-        },
-        "away_coach": {
-          "id": 2055,
-          "name": "Emma Coates",
-          "short_name": "E. Coates",
-          "country": "England",
-          "profile": "balanced",
-          "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.8318611622844487,
-          "defensive_line": "mid",
-          "top_styles": [
-            "gegenpressing",
-            "high_press"
-          ]
-        },
-        "unavailable_players": null,
-        "venue": {
-          "id": 276,
-          "name": "Shell Energy Stadium",
-          "city": "Houston",
-          "country": "USA",
-          "capacity": 22039,
-          "latitude": 29.7522,
-          "longitude": -95.3523,
-          "pitch_x": 109,
-          "pitch_y": 69,
-          "built_year": 2012
-        },
-        "live_stats": null,
-        "jerseys": {
-          "away": {
-            "GK": {
-              "base": "e7341e",
-              "real": true,
-              "type": "long_sleeves",
-              "number": "050505",
-              "sleeve": "ee0e06"
-            },
-            "player": {
-              "base": "2a3349",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "d15c52",
-              "sleeve": "ca6055"
-            }
-          },
-          "home": {
-            "GK": {
-              "base": "008ac9",
-              "real": true,
-              "type": "long_sleeves",
-              "number": "c9d5db",
-              "sleeve": "2386a5"
-            },
-            "player": {
-              "base": "ca4643",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "d3d2d5",
-              "sleeve": "77b6ab"
-            }
-          }
-        },
-        "funfacts": [
-          {
-            "type_id": 1,
-            "sentence": "Houston haven't won in their last 4 games."
-          },
-          {
-            "type_id": 25,
-            "sentence": "Kat Rader is Houston's top scorer with 5 goals. Karlie Lema has scored 4 times for Bay."
-          },
-          {
-            "type_id": 25,
-            "sentence": "Avery Patterson has more yellow cards (5) than any other player at Houston. Claire Catherine Hutton has collected 4 for Bay."
-          }
-        ],
-        "sr_stats": null,
-        "ai_preview": {
-          "text": "**Houston and Bay kick off the NWSL reset with a classic early-season toss-up** — both teams have mixed form but plenty to prove in a packed fixture list. 🔥\n\nHouston's been leaky on the road (0W 2D 2L in their last four away), while Bay just rolled Louisville and North Carolina but can't seem to string consistency together. This is the kind of match where the team that settles first grabs the edge.\n\nKey storylines:\n\n- **J. Campbell** and **J. Silkowitz** will be tested early; both backlines have shown frailty recently\n- **M. Doniak** and **R. Kundananji** are the creative sparks both teams need to break down compact defenses\n- Houston's midfield pairing of **L. Ullmark** and **K. A. Rader** faces pressure to control tempo against a Bay side that likes to transition fast\n\nExpected lineups:\n\n- **Houston Dash**: J. Campbell, L. M. Klenke, A. Patterson, P. Nielsen, L. Boattin, L. Ullmark, K. A. Rader, A. West, M. Graham, M. Doniak, M. Ivanović\n- **Bay FC**: J. Silkowitz, S. Collins, J. Anderson, M. Moreau, A. Denton, C. Hutton, H. Bebar, K. Lema, T. Huff, R. Kundananji, C. Conti\n\nPrediction:\n\n**1–1 draw** — neither side convinces fully, but both find a goal in a frantic NWSL opener.",
-          "generated_at": "2026-07-24T00:45:31.081985+00:00"
-        },
-        "live_websocket": true,
-        "home_form": {
-          "calculated_at": "2026-07-24",
-          "matches_played": 5,
-          "form_string": "DDLLW",
-          "wins": 1,
-          "draws": 2,
-          "losses": 2,
-          "points_last_n": 5,
-          "goals_scored_last_n": 6,
-          "goals_conceded_last_n": 7,
-          "avg_xg": 1.2,
-          "avg_xg_conceded": 1.4,
-          "avg_shots": 8.2,
-          "avg_shots_on_target": 4.2,
-          "avg_key_passes": 6.8,
-          "goal_conversion_rate": 0,
-          "defensive_efficiency": 0,
-          "clean_sheets": 0,
-          "avg_pass_accuracy": 79.18395496378858,
-          "duel_win_rate": 0.5354330708661418,
-          "aerial_win_rate": 0.48148148148148145,
-          "avg_fouls": 9.8,
-          "avg_yellow_cards": 1.6,
-          "home_ppg": 1,
-          "away_ppg": 0.4,
-          "home_goals_scored": 5,
-          "home_goals_conceded": 8,
-          "away_goals_scored": 4,
-          "away_goals_conceded": 9,
-          "avg_team_rating": 6.780083333333335
-        },
-        "away_form": {
-          "calculated_at": "2026-07-24",
-          "matches_played": 5,
-          "form_string": "WWDLL",
-          "wins": 2,
-          "draws": 1,
-          "losses": 2,
-          "points_last_n": 7,
-          "goals_scored_last_n": 8,
-          "goals_conceded_last_n": 6,
-          "avg_xg": 1.6,
-          "avg_xg_conceded": 1.2,
-          "avg_shots": 13.8,
-          "avg_shots_on_target": 5.8,
-          "avg_key_passes": 10.4,
-          "goal_conversion_rate": 0,
-          "defensive_efficiency": 0,
-          "clean_sheets": 2,
-          "avg_pass_accuracy": 81.57562327875516,
-          "duel_win_rate": 0.47696476964769646,
-          "aerial_win_rate": 0.4,
-          "avg_fouls": 8.2,
-          "avg_yellow_cards": 0.8,
-          "home_ppg": 1,
-          "away_ppg": 1.4,
-          "home_goals_scored": 4,
-          "home_goals_conceded": 4,
-          "away_goals_scored": 6,
-          "away_goals_conceded": 7,
-          "avg_team_rating": 6.772
-        },
-        "head_to_head": null,
-        "lineups": null,
-        "social": []
-      },
-      "managers": {
-        "home": {
-          "id": 2060,
-          "name": "Fabrice Gautrat",
-          "short_name": "F. Gautrat",
-          "country": "USA",
-          "current_team": {
-            "id": 3937,
-            "name": "Houston Dash"
-          },
-          "preferred_formation": "4-4-2",
-          "formations_used": {
-            "4-4-2": 9,
-            "4-1-3-2": 1,
-            "4-2-3-1": 5
-          },
-          "profile": "balanced",
-          "team_style": "neutral",
-          "pressing_intensity": 0.6578098724285119,
-          "defensive_line": "high",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "moments_fc",
-              "name": "Moments FC",
-              "category": "fan",
-              "emoji": "⭐",
-              "description": "Relies entirely on individual star brilliance",
-              "score": 0.095
-            },
-            {
-              "rank": 2,
-              "code": "gegenpressing",
-              "name": "Gegenpressing",
-              "category": "pressing",
-              "emoji": "💨",
-              "description": "Immediate press after losing the ball",
-              "score": 0.082
-            },
-            {
-              "rank": 3,
-              "code": "park_the_bus",
-              "name": "Park the Bus",
-              "category": "defensive",
-              "emoji": "🚌",
-              "description": "Ultra-deep defense, minimal attacking intent",
-              "score": 0.06
-            },
-            {
-              "rank": 4,
-              "code": "high_press",
-              "name": "High Press",
-              "category": "pressing",
-              "emoji": "🔥",
-              "description": "Press defenders and keeper aggressively high up",
-              "score": 0.059
-            }
-          ],
-          "matches_total": 15,
-          "wins": 4,
-          "draws": 4,
-          "losses": 7,
-          "win_pct": 26.7,
-          "avg_goals_scored": 1.2,
-          "avg_goals_conceded": 1.6,
-          "avg_possession": 44.93,
-          "avg_shots": 10.47,
-          "avg_shots_on_target": 3.73,
-          "avg_xg_for": 1.22,
-          "avg_xg_against": 2,
-          "avg_corners": 3.07,
-          "avg_yellow_cards": 1.53,
-          "avg_red_cards": 0,
-          "avg_fouls": 9.8,
-          "clean_sheet_pct": 20,
-          "btts_pct": 53.3,
-          "over_25_pct": 60,
-          "over_15_pct": 73.3,
-          "fail_to_score_pct": 33.3,
-          "avg_goals_scored_1h": 0.47,
-          "avg_goals_conceded_1h": 0.87
-        },
-        "away": {
-          "id": 2055,
-          "name": "Emma Coates",
-          "short_name": "E. Coates",
-          "country": "England",
-          "current_team": {
-            "id": 3932,
-            "name": "Bay FC"
-          },
-          "preferred_formation": "4-2-3-1",
-          "formations_used": {
-            "4-2-3-1": 11,
-            "4-4-1-1": 3
-          },
-          "profile": "balanced",
-          "team_style": "neutral",
-          "pressing_intensity": 0.8318611622844487,
-          "defensive_line": "mid",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "gegenpressing",
-              "name": "Gegenpressing",
-              "category": "pressing",
-              "emoji": "💨",
-              "description": "Immediate press after losing the ball",
-              "score": 0.167
-            },
-            {
-              "rank": 2,
-              "code": "high_press",
-              "name": "High Press",
-              "category": "pressing",
-              "emoji": "🔥",
-              "description": "Press defenders and keeper aggressively high up",
-              "score": 0.13
-            },
-            {
-              "rank": 3,
-              "code": "man_press",
-              "name": "Man-Oriented Press",
-              "category": "pressing",
-              "emoji": "🎯",
-              "description": "Players follow their direct opponents everywhere",
-              "score": 0.046
-            },
-            {
-              "rank": 4,
-              "code": "total_football",
-              "name": "Total Football",
-              "category": "possession",
-              "emoji": "🌀",
-              "description": "Fluid rotations, every player attacks and defends",
-              "score": 0.044
-            }
-          ],
-          "matches_total": 14,
-          "wins": 5,
-          "draws": 3,
-          "losses": 6,
-          "win_pct": 35.7,
-          "avg_goals_scored": 1.14,
-          "avg_goals_conceded": 1.36,
-          "avg_possession": 50.36,
-          "avg_shots": 12.43,
-          "avg_shots_on_target": 4.43,
-          "avg_xg_for": 1.4,
-          "avg_xg_against": 2.02,
-          "avg_corners": 4.36,
-          "avg_yellow_cards": 1.64,
-          "avg_red_cards": 0.14,
-          "avg_fouls": 10.36,
-          "clean_sheet_pct": 28.6,
-          "btts_pct": 42.9,
-          "over_25_pct": 50,
-          "over_15_pct": 78.6,
-          "fail_to_score_pct": 35.7,
-          "avg_goals_scored_1h": 0.86,
-          "avg_goals_conceded_1h": 0.64
-        }
-      }
-    },
-    {
       "event_id": 219952,
       "prediction": {
         "id": 153,
@@ -7137,11 +7157,11 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.52,
-          "odds_draw": 3.73,
-          "odds_away": 6.58,
+          "odds_home": 1.53,
+          "odds_draw": 3.71,
+          "odds_away": 6.61,
           "odds_over_15": 1.37,
-          "odds_over_25": 2.16,
+          "odds_over_25": 2.15,
           "odds_over_35": 3.93,
           "odds_under_15": 2.88,
           "odds_under_25": 1.65,
@@ -7269,21 +7289,21 @@
           "live_websocket": true
         },
         "created_at": "2026-07-23T16:01:10.857092+00:00",
-        "prob_home_win": 61,
-        "prob_draw": 24.9,
+        "prob_home_win": 60.8,
+        "prob_draw": 25.1,
         "prob_away_win": 14.1,
         "predicted_result": "H",
-        "expected_home_goals": 1.755,
+        "expected_home_goals": 1.754,
         "expected_away_goals": 0.619,
         "prob_over_15": 68.2,
-        "prob_over_25": 43.6,
+        "prob_over_25": 43.7,
         "prob_over_35": 23.6,
         "prob_btts_yes": 41.5,
-        "confidence": 0.6103,
+        "confidence": 0.6083,
         "model_version": "dc-blend-v1",
         "most_likely_score": "1-0",
         "favorite": "H",
-        "favorite_prob": 61,
+        "favorite_prob": 60.8,
         "favorite_recommend": false,
         "over_15_recommend": false,
         "over_25_recommend": false,
@@ -7346,11 +7366,11 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.52,
-        "odds_draw": 3.73,
-        "odds_away": 6.58,
+        "odds_home": 1.53,
+        "odds_draw": 3.71,
+        "odds_away": 6.61,
         "odds_over_15": 1.37,
-        "odds_over_25": 2.16,
+        "odds_over_25": 2.15,
         "odds_over_35": 3.93,
         "odds_under_15": 2.88,
         "odds_under_25": 1.65,
@@ -7785,17 +7805,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 3.27,
-          "odds_draw": 3.18,
+          "odds_home": 3.25,
+          "odds_draw": 3.2,
           "odds_away": 2.06,
-          "odds_over_15": 1.3,
-          "odds_over_25": 1.95,
-          "odds_over_35": 3.31,
-          "odds_under_15": 3.13,
-          "odds_under_25": 1.75,
-          "odds_under_35": 1.27,
-          "odds_btts_yes": 1.78,
-          "odds_btts_no": 1.91,
+          "odds_over_15": 1.28,
+          "odds_over_25": 1.91,
+          "odds_over_35": 3.22,
+          "odds_under_15": 3.25,
+          "odds_under_25": 1.78,
+          "odds_under_35": 1.29,
+          "odds_btts_yes": 1.75,
+          "odds_btts_no": 1.94,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -7926,8 +7946,8 @@
         "prob_over_15": 70.4,
         "prob_over_25": 46.7,
         "prob_over_35": 26.7,
-        "prob_btts_yes": 51.8,
-        "confidence": 0.439,
+        "prob_btts_yes": 52,
+        "confidence": 0.4387,
         "model_version": "dc-blend-v1",
         "most_likely_score": "1-1",
         "favorite": "A",
@@ -7994,17 +8014,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 3.27,
-        "odds_draw": 3.18,
+        "odds_home": 3.25,
+        "odds_draw": 3.2,
         "odds_away": 2.06,
-        "odds_over_15": 1.3,
-        "odds_over_25": 1.95,
-        "odds_over_35": 3.31,
-        "odds_under_15": 3.13,
-        "odds_under_25": 1.75,
-        "odds_under_35": 1.27,
-        "odds_btts_yes": 1.78,
-        "odds_btts_no": 1.91,
+        "odds_over_15": 1.28,
+        "odds_over_25": 1.91,
+        "odds_over_35": 3.22,
+        "odds_under_15": 3.25,
+        "odds_under_25": 1.78,
+        "odds_under_35": 1.29,
+        "odds_btts_yes": 1.75,
+        "odds_btts_no": 1.94,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -8421,8 +8441,8 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.94,
-          "odds_draw": 3.63,
+          "odds_home": 1.95,
+          "odds_draw": 3.62,
           "odds_away": 3.46,
           "odds_over_15": 1.19,
           "odds_over_25": 1.62,
@@ -8563,21 +8583,21 @@
           "live_websocket": true
         },
         "created_at": "2026-07-23T16:01:10.838239+00:00",
-        "prob_home_win": 47.7,
-        "prob_draw": 25.5,
+        "prob_home_win": 47.6,
+        "prob_draw": 25.6,
         "prob_away_win": 26.8,
         "predicted_result": "H",
-        "expected_home_goals": 2.009,
-        "expected_away_goals": 1.052,
-        "prob_over_15": 78.6,
+        "expected_home_goals": 2.008,
+        "expected_away_goals": 1.053,
+        "prob_over_15": 78.7,
         "prob_over_25": 57.5,
-        "prob_over_35": 36.7,
+        "prob_over_35": 36.8,
         "prob_btts_yes": 59.8,
-        "confidence": 0.4773,
+        "confidence": 0.4757,
         "model_version": "dc-blend-v1",
         "most_likely_score": "1-1",
         "favorite": "H",
-        "favorite_prob": 47.7,
+        "favorite_prob": 47.6,
         "favorite_recommend": false,
         "over_15_recommend": false,
         "over_25_recommend": false,
@@ -8652,8 +8672,8 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.94,
-        "odds_draw": 3.63,
+        "odds_home": 1.95,
+        "odds_draw": 3.62,
         "odds_away": 3.46,
         "odds_over_15": 1.19,
         "odds_over_25": 1.62,
@@ -9106,13 +9126,13 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 5.05,
-          "odds_draw": 3.79,
-          "odds_away": 1.64,
-          "odds_over_15": 1.25,
+          "odds_home": 5.06,
+          "odds_draw": 3.81,
+          "odds_away": 1.63,
+          "odds_over_15": 1.24,
           "odds_over_25": 1.79,
           "odds_over_35": 2.96,
-          "odds_under_15": 3.67,
+          "odds_under_15": 3.68,
           "odds_under_25": 1.95,
           "odds_under_35": 1.36,
           "odds_btts_yes": 1.78,
@@ -9172,6 +9192,12 @@
                 "status": "suspended",
                 "reason": "yellow_or_red_card_suspension",
                 "expected_return": "2026-07-25"
+              },
+              {
+                "name": "Alex Zendejas",
+                "status": "injured",
+                "reason": "Knee Injury",
+                "expected_return": "2026-07-30"
               }
             ]
           },
@@ -9204,7 +9230,7 @@
           "live_websocket": false
         },
         "created_at": "2026-07-23T16:01:10.848172+00:00",
-        "prob_home_win": 18.5,
+        "prob_home_win": 18.4,
         "prob_draw": 24.6,
         "prob_away_win": 56.9,
         "predicted_result": "A",
@@ -9213,8 +9239,8 @@
         "prob_over_15": 74.6,
         "prob_over_25": 52.1,
         "prob_over_35": 31.5,
-        "prob_btts_yes": 52.1,
-        "confidence": 0.569,
+        "prob_btts_yes": 52,
+        "confidence": 0.5692,
         "model_version": "dc-blend-v1",
         "most_likely_score": null,
         "favorite": "A",
@@ -9287,13 +9313,13 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 5.05,
-        "odds_draw": 3.79,
-        "odds_away": 1.64,
-        "odds_over_15": 1.25,
+        "odds_home": 5.06,
+        "odds_draw": 3.81,
+        "odds_away": 1.63,
+        "odds_over_15": 1.24,
         "odds_over_25": 1.79,
         "odds_over_35": 2.96,
-        "odds_under_15": 3.67,
+        "odds_under_15": 3.68,
         "odds_under_25": 1.95,
         "odds_under_35": 1.36,
         "odds_btts_yes": 1.78,
@@ -9353,6 +9379,12 @@
               "status": "suspended",
               "reason": "yellow_or_red_card_suspension",
               "expected_return": "2026-07-25"
+            },
+            {
+              "name": "Alex Zendejas",
+              "status": "injured",
+              "reason": "Knee Injury",
+              "expected_return": "2026-07-30"
             }
           ]
         },
@@ -9632,15 +9664,15 @@
           "period": "",
           "odds_home": 1.43,
           "odds_draw": 4.7,
-          "odds_away": 5.13,
+          "odds_away": 5.12,
           "odds_over_15": 1.07,
           "odds_over_25": 1.31,
-          "odds_over_35": 1.84,
-          "odds_under_15": 6.6,
-          "odds_under_25": 3.03,
-          "odds_under_35": 1.86,
+          "odds_over_35": 1.85,
+          "odds_under_15": 6.58,
+          "odds_under_25": 3.02,
+          "odds_under_35": 1.85,
           "odds_btts_yes": 1.45,
-          "odds_btts_no": 2.51,
+          "odds_btts_no": 2.5,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -9683,7 +9715,10 @@
           "jerseys": null,
           "funfacts": null,
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Gold Coast Knights are the clear favorites in this local derby**, and United's dodgy form gives them every reason to be. 🔴\n\nKnights sit in decent shape with two wins in their last five, while United have won just once in the same stretch — including three straight defeats. The momentum gap is real.\n\nKey storylines:\n\n- **Gold Coast Knights** looking to exploit a shaky United backline that's shipped goals in bunches recently\n- **J. Russell** and **D. Mariner** leading the Knights' creative play against a struggling opposition midfield\n- United need **L. Sambrook** and **K. O'Connell** to spark something in attack, but consistency has been their enemy all season\n\nExpected lineups:\n\n- **Gold Coast Knights**: C. Saliadarre, A. Ludwik, J. Walker, K. Ikeda, C. Nancarrow, B. Inman, D. Mariner, D. Russell, M. Brown, G. Debele, J. Russell\n- **Gold Coast United**: K. Taylor, B. Thompson, B. Spink, D. Minster, C. Lucas, F. Porter, F. Hills, K. O'Connell, J. Durrington, L. Sambrook, W. Thomason\n\nPrediction:\n\n**Knights 2–0 United** — Knights have the edge and should control this comfortably. 💛",
+            "generated_at": "2026-07-24T08:45:40.048188+00:00"
+          },
           "live_websocket": false
         },
         "created_at": "2026-07-23T16:01:10.834282+00:00",
@@ -9763,15 +9798,15 @@
         "period": "",
         "odds_home": 1.43,
         "odds_draw": 4.7,
-        "odds_away": 5.13,
+        "odds_away": 5.12,
         "odds_over_15": 1.07,
         "odds_over_25": 1.31,
-        "odds_over_35": 1.84,
-        "odds_under_15": 6.6,
-        "odds_under_25": 3.03,
-        "odds_under_35": 1.86,
+        "odds_over_35": 1.85,
+        "odds_under_15": 6.58,
+        "odds_under_25": 3.02,
+        "odds_under_35": 1.85,
         "odds_btts_yes": 1.45,
-        "odds_btts_no": 2.51,
+        "odds_btts_no": 2.5,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -9808,7 +9843,10 @@
         "jerseys": null,
         "funfacts": null,
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Gold Coast Knights are the clear favorites in this local derby**, and United's dodgy form gives them every reason to be. 🔴\n\nKnights sit in decent shape with two wins in their last five, while United have won just once in the same stretch — including three straight defeats. The momentum gap is real.\n\nKey storylines:\n\n- **Gold Coast Knights** looking to exploit a shaky United backline that's shipped goals in bunches recently\n- **J. Russell** and **D. Mariner** leading the Knights' creative play against a struggling opposition midfield\n- United need **L. Sambrook** and **K. O'Connell** to spark something in attack, but consistency has been their enemy all season\n\nExpected lineups:\n\n- **Gold Coast Knights**: C. Saliadarre, A. Ludwik, J. Walker, K. Ikeda, C. Nancarrow, B. Inman, D. Mariner, D. Russell, M. Brown, G. Debele, J. Russell\n- **Gold Coast United**: K. Taylor, B. Thompson, B. Spink, D. Minster, C. Lucas, F. Porter, F. Hills, K. O'Connell, J. Durrington, L. Sambrook, W. Thomason\n\nPrediction:\n\n**Knights 2–0 United** — Knights have the edge and should control this comfortably. 💛",
+          "generated_at": "2026-07-24T08:45:40.048188+00:00"
+        },
         "live_websocket": false,
         "home_form": {
           "calculated_at": "2026-07-24",
@@ -10576,573 +10614,6 @@
       }
     },
     {
-      "event_id": 205106,
-      "prediction": {
-        "id": 146,
-        "event": {
-          "id": 205106,
-          "league": {
-            "id": 50,
-            "name": "K League 1",
-            "country": "South Korea",
-            "is_women": false,
-            "current_season": {
-              "id": 1288,
-              "name": "K-League 1 2026",
-              "year": 2026,
-              "start_date": "2026-01-01",
-              "end_date": "2026-12-31"
-            }
-          },
-          "season": {
-            "id": 1288,
-            "name": "K-League 1 2026",
-            "year": 2026
-          },
-          "home_team": "Gimcheon Sangmu FC",
-          "away_team": "Daejeon Hana Citizen",
-          "home_team_obj": {
-            "id": 1952,
-            "name": "Gimcheon Sangmu FC",
-            "short_name": "Gimcheon",
-            "country": "South Korea",
-            "coach": {
-              "name": "Seung-jin Joo",
-              "shortName": "S. Joo"
-            },
-            "venue": null
-          },
-          "away_team_obj": {
-            "id": 1958,
-            "name": "Daejeon Hana Citizen",
-            "short_name": "Daejeon Hana",
-            "country": "South Korea",
-            "coach": {
-              "name": "Sun-hong Hwang",
-              "shortName": "Seon-hong Hwang"
-            },
-            "venue": null
-          },
-          "event_date": "2026-07-25T14:30:00+04:00",
-          "round_number": 20,
-          "round_name": "",
-          "group_name": null,
-          "status": "notstarted",
-          "home_score": null,
-          "away_score": null,
-          "home_score_ht": null,
-          "away_score_ht": null,
-          "current_minute": null,
-          "period": "",
-          "odds_home": 2.91,
-          "odds_draw": 3.28,
-          "odds_away": 2.33,
-          "odds_over_15": 1.28,
-          "odds_over_25": 1.88,
-          "odds_over_35": 3.13,
-          "odds_under_15": 3.47,
-          "odds_under_25": 1.86,
-          "odds_under_35": 1.32,
-          "odds_btts_yes": 1.69,
-          "odds_btts_no": 2.05,
-          "actual_home_xg": null,
-          "actual_away_xg": null,
-          "home_xg_live": null,
-          "away_xg_live": null,
-          "penalty_shootout": null,
-          "extra_time_score": null,
-          "is_local_derby": false,
-          "is_neutral_ground": null,
-          "travel_distance_km": 73,
-          "weather_code": 0,
-          "wind_speed": 1.8,
-          "temperature_c": 31,
-          "pitch_condition": null,
-          "attendance": null,
-          "referee": null,
-          "home_coach": {
-            "id": 1309,
-            "name": "Seung-jin Joo",
-            "short_name": "S. Joo",
-            "country": "South Korea",
-            "profile": "defensive",
-            "preferred_formation": "4-4-2",
-            "pressing_intensity": 0.5204995066262543,
-            "defensive_line": "mid",
-            "top_styles": [
-              "set_piece",
-              "positional"
-            ]
-          },
-          "away_coach": {
-            "id": 1315,
-            "name": "Sun-hong Hwang",
-            "short_name": "Seon-hong Hwang",
-            "country": "South Korea",
-            "profile": "balanced",
-            "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.4632538409880058,
-            "defensive_line": "mid",
-            "top_styles": [
-              "territory",
-              "cross_pray"
-            ]
-          },
-          "unavailable_players": null,
-          "venue": {
-            "id": 1124,
-            "name": "Gimcheon Stadium",
-            "city": "Gimcheon",
-            "country": "South Korea",
-            "capacity": 24348,
-            "latitude": 36.139627,
-            "longitude": 128.086454,
-            "pitch_x": null,
-            "pitch_y": null,
-            "built_year": null
-          },
-          "incidents": null,
-          "live_stats": null,
-          "lineups": null,
-          "shotmap": null,
-          "momentum": null,
-          "xg_per_minute": null,
-          "average_positions": null,
-          "jerseys": {
-            "away": {
-              "GK": {
-                "base": "fbee6d",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "3aa89e",
-                "sleeve": "4ca79d"
-              },
-              "player": {
-                "base": "256c61",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "ca1730"
-              }
-            },
-            "home": {
-              "GK": {
-                "base": "8eac1f",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "ffffff"
-              },
-              "player": {
-                "base": "b70010",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "000000"
-              }
-            }
-          },
-          "funfacts": null,
-          "sr_stats": null,
-          "ai_preview": null,
-          "live_websocket": true
-        },
-        "created_at": "2026-07-23T16:01:10.818292+00:00",
-        "prob_home_win": 31.9,
-        "prob_draw": 28.3,
-        "prob_away_win": 39.8,
-        "predicted_result": "A",
-        "expected_home_goals": 1.036,
-        "expected_away_goals": 1.274,
-        "prob_over_15": 72.5,
-        "prob_over_25": 48.9,
-        "prob_over_35": 28.4,
-        "prob_btts_yes": 54.8,
-        "confidence": 0.3982,
-        "model_version": "dc-blend-v1",
-        "most_likely_score": "1-1",
-        "favorite": "A",
-        "favorite_prob": 39.8,
-        "favorite_recommend": false,
-        "over_15_recommend": false,
-        "over_25_recommend": false,
-        "over_35_recommend": false,
-        "btts_recommend": false,
-        "winner_recommend": false
-      },
-      "event_detail": {
-        "id": 205106,
-        "league": {
-          "id": 50,
-          "name": "K League 1",
-          "country": "South Korea",
-          "is_women": false,
-          "current_season": {
-            "id": 1288,
-            "name": "K-League 1 2026",
-            "year": 2026,
-            "start_date": "2026-01-01",
-            "end_date": "2026-12-31"
-          }
-        },
-        "season": {
-          "id": 1288,
-          "name": "K-League 1 2026",
-          "year": 2026
-        },
-        "home_team": "Gimcheon Sangmu FC",
-        "away_team": "Daejeon Hana Citizen",
-        "home_team_obj": {
-          "id": 1952,
-          "name": "Gimcheon Sangmu FC",
-          "short_name": "Gimcheon",
-          "country": "South Korea",
-          "coach": {
-            "name": "Seung-jin Joo",
-            "shortName": "S. Joo"
-          },
-          "venue": null
-        },
-        "away_team_obj": {
-          "id": 1958,
-          "name": "Daejeon Hana Citizen",
-          "short_name": "Daejeon Hana",
-          "country": "South Korea",
-          "coach": {
-            "name": "Sun-hong Hwang",
-            "shortName": "Seon-hong Hwang"
-          },
-          "venue": null
-        },
-        "event_date": "2026-07-25T13:30:00+03:00",
-        "round_number": 20,
-        "round_name": "",
-        "group_name": null,
-        "status": "notstarted",
-        "home_score": null,
-        "away_score": null,
-        "home_score_ht": null,
-        "away_score_ht": null,
-        "current_minute": null,
-        "period": "",
-        "odds_home": 2.91,
-        "odds_draw": 3.28,
-        "odds_away": 2.33,
-        "odds_over_15": 1.28,
-        "odds_over_25": 1.88,
-        "odds_over_35": 3.13,
-        "odds_under_15": 3.47,
-        "odds_under_25": 1.86,
-        "odds_under_35": 1.32,
-        "odds_btts_yes": 1.69,
-        "odds_btts_no": 2.05,
-        "actual_home_xg": null,
-        "actual_away_xg": null,
-        "home_xg_live": null,
-        "away_xg_live": null,
-        "penalty_shootout": null,
-        "extra_time_score": null,
-        "is_local_derby": false,
-        "is_neutral_ground": null,
-        "travel_distance_km": 73,
-        "weather_code": 0,
-        "wind_speed": 1.8,
-        "temperature_c": 31,
-        "pitch_condition": null,
-        "attendance": null,
-        "referee": null,
-        "home_coach": {
-          "id": 1309,
-          "name": "Seung-jin Joo",
-          "short_name": "S. Joo",
-          "country": "South Korea",
-          "profile": "defensive",
-          "preferred_formation": "4-4-2",
-          "pressing_intensity": 0.5204995066262543,
-          "defensive_line": "mid",
-          "top_styles": [
-            "set_piece",
-            "positional"
-          ]
-        },
-        "away_coach": {
-          "id": 1315,
-          "name": "Sun-hong Hwang",
-          "short_name": "Seon-hong Hwang",
-          "country": "South Korea",
-          "profile": "balanced",
-          "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.4632538409880058,
-          "defensive_line": "mid",
-          "top_styles": [
-            "territory",
-            "cross_pray"
-          ]
-        },
-        "unavailable_players": null,
-        "venue": {
-          "id": 1124,
-          "name": "Gimcheon Stadium",
-          "city": "Gimcheon",
-          "country": "South Korea",
-          "capacity": 24348,
-          "latitude": 36.139627,
-          "longitude": 128.086454,
-          "pitch_x": null,
-          "pitch_y": null,
-          "built_year": null
-        },
-        "live_stats": null,
-        "jerseys": {
-          "away": {
-            "GK": {
-              "base": "fbee6d",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "3aa89e",
-              "sleeve": "4ca79d"
-            },
-            "player": {
-              "base": "256c61",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "ca1730"
-            }
-          },
-          "home": {
-            "GK": {
-              "base": "8eac1f",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "ffffff"
-            },
-            "player": {
-              "base": "b70010",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "000000"
-            }
-          }
-        },
-        "funfacts": null,
-        "sr_stats": null,
-        "ai_preview": null,
-        "live_websocket": true,
-        "home_form": {
-          "calculated_at": "2026-07-24",
-          "matches_played": 5,
-          "form_string": "DLDDL",
-          "wins": 0,
-          "draws": 3,
-          "losses": 2,
-          "points_last_n": 3,
-          "goals_scored_last_n": 3,
-          "goals_conceded_last_n": 6,
-          "avg_xg": 0.11620000000000001,
-          "avg_xg_conceded": 0.30868,
-          "avg_shots": 0,
-          "avg_shots_on_target": 0,
-          "avg_key_passes": 0,
-          "goal_conversion_rate": 5.163511187607573,
-          "defensive_efficiency": -2.8875210574057273,
-          "clean_sheets": 0,
-          "avg_pass_accuracy": 0,
-          "duel_win_rate": 0,
-          "aerial_win_rate": 0,
-          "avg_fouls": 0,
-          "avg_yellow_cards": 1.4,
-          "home_ppg": 0.4,
-          "away_ppg": 1,
-          "home_goals_scored": 3,
-          "home_goals_conceded": 10,
-          "away_goals_scored": 6,
-          "away_goals_conceded": 8,
-          "avg_team_rating": 0
-        },
-        "away_form": {
-          "calculated_at": "2026-07-24",
-          "matches_played": 5,
-          "form_string": "DDDDL",
-          "wins": 0,
-          "draws": 4,
-          "losses": 1,
-          "points_last_n": 4,
-          "goals_scored_last_n": 5,
-          "goals_conceded_last_n": 6,
-          "avg_xg": 1,
-          "avg_xg_conceded": 1.2,
-          "avg_shots": 0,
-          "avg_shots_on_target": 0,
-          "avg_key_passes": 0,
-          "goal_conversion_rate": 0,
-          "defensive_efficiency": 0,
-          "clean_sheets": 2,
-          "avg_pass_accuracy": 0,
-          "duel_win_rate": 0,
-          "aerial_win_rate": 0,
-          "avg_fouls": 0,
-          "avg_yellow_cards": 1.2,
-          "home_ppg": 0.6,
-          "away_ppg": 1.6,
-          "home_goals_scored": 5,
-          "home_goals_conceded": 8,
-          "away_goals_scored": 9,
-          "away_goals_conceded": 3,
-          "avg_team_rating": 0
-        },
-        "head_to_head": {
-          "total_matches": 1,
-          "home_wins": 0,
-          "draws": 1,
-          "away_wins": 0,
-          "home_goals": 1,
-          "away_goals": 1,
-          "avg_total_goals": 2,
-          "home_win_rate": 0,
-          "away_win_rate": 0,
-          "recent_matches": [
-            {
-              "away": "Gimcheon Sangmu FC",
-              "date": "2026-03-14T07:30:00+00:00",
-              "home": "Daejeon Hana Citizen",
-              "score": "1-1"
-            }
-          ]
-        },
-        "lineups": null,
-        "social": []
-      },
-      "managers": {
-        "home": {
-          "id": 1770,
-          "name": "Joo Seung-jin",
-          "short_name": "J. Seung-jin",
-          "country": "",
-          "current_team": {
-            "id": 1952,
-            "name": "Gimcheon Sangmu FC"
-          },
-          "preferred_formation": "",
-          "formations_used": null,
-          "profile": "",
-          "team_style": "",
-          "pressing_intensity": null,
-          "defensive_line": "",
-          "tactical_styles": [],
-          "matches_total": 0,
-          "wins": 0,
-          "draws": 0,
-          "losses": 0,
-          "win_pct": null,
-          "avg_goals_scored": null,
-          "avg_goals_conceded": null,
-          "avg_possession": null,
-          "avg_shots": null,
-          "avg_shots_on_target": null,
-          "avg_xg_for": null,
-          "avg_xg_against": null,
-          "avg_corners": null,
-          "avg_yellow_cards": null,
-          "avg_red_cards": null,
-          "avg_fouls": null,
-          "clean_sheet_pct": null,
-          "btts_pct": null,
-          "over_25_pct": null,
-          "over_15_pct": null,
-          "fail_to_score_pct": null,
-          "avg_goals_scored_1h": null,
-          "avg_goals_conceded_1h": null
-        },
-        "away": {
-          "id": 1315,
-          "name": "Sun-hong Hwang",
-          "short_name": "Seon-hong Hwang",
-          "country": "South Korea",
-          "current_team": {
-            "id": 1958,
-            "name": "Daejeon Hana Citizen"
-          },
-          "preferred_formation": "4-2-3-1",
-          "formations_used": {
-            "3-4-3": 1,
-            "4-3-3": 2,
-            "4-4-2": 6,
-            "5-3-2": 1,
-            "4-1-4-1": 2,
-            "4-2-3-1": 6
-          },
-          "profile": "balanced",
-          "team_style": "soft",
-          "pressing_intensity": 0.4632538409880058,
-          "defensive_line": "mid",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "territory",
-              "name": "Territory Control",
-              "category": "possession",
-              "emoji": "🗺",
-              "description": "Pin opponent deep rather than shoot often",
-              "score": 0.062
-            },
-            {
-              "rank": 2,
-              "code": "cross_pray",
-              "name": "Cross & Pray",
-              "category": "wide",
-              "emoji": "🙏",
-              "description": "High-volume hopeful crosses into the box",
-              "score": 0.062
-            },
-            {
-              "rank": 3,
-              "code": "positional",
-              "name": "Positional Play",
-              "category": "possession",
-              "emoji": "♟",
-              "description": "Zone occupation and overloads",
-              "score": 0.056
-            },
-            {
-              "rank": 4,
-              "code": "total_football",
-              "name": "Total Football",
-              "category": "possession",
-              "emoji": "🌀",
-              "description": "Fluid rotations, every player attacks and defends",
-              "score": 0.055
-            }
-          ],
-          "matches_total": 23,
-          "wins": 6,
-          "draws": 9,
-          "losses": 8,
-          "win_pct": 26.1,
-          "avg_goals_scored": 1.22,
-          "avg_goals_conceded": 1.13,
-          "avg_possession": 53.55,
-          "avg_shots": 11.39,
-          "avg_shots_on_target": 3.78,
-          "avg_xg_for": 1.18,
-          "avg_xg_against": 1.43,
-          "avg_corners": 4.05,
-          "avg_yellow_cards": 1.22,
-          "avg_red_cards": 0.09,
-          "avg_fouls": 11.94,
-          "clean_sheet_pct": 21.7,
-          "btts_pct": 47.8,
-          "over_25_pct": 34.8,
-          "over_15_pct": 65.2,
-          "fail_to_score_pct": 39.1,
-          "avg_goals_scored_1h": 0.57,
-          "avg_goals_conceded_1h": 0.48
-        }
-      }
-    },
-    {
       "event_id": 205107,
       "prediction": {
         "id": 147,
@@ -11320,8 +10791,8 @@
         "prob_draw": 30.4,
         "prob_away_win": 39.5,
         "predicted_result": "A",
-        "expected_home_goals": 1.009,
-        "expected_away_goals": 1.2,
+        "expected_home_goals": 1.01,
+        "expected_away_goals": 1.202,
         "prob_over_15": 65.9,
         "prob_over_25": 41,
         "prob_over_35": 21.6,
@@ -11754,6 +11225,573 @@
       }
     },
     {
+      "event_id": 205106,
+      "prediction": {
+        "id": 146,
+        "event": {
+          "id": 205106,
+          "league": {
+            "id": 50,
+            "name": "K League 1",
+            "country": "South Korea",
+            "is_women": false,
+            "current_season": {
+              "id": 1288,
+              "name": "K-League 1 2026",
+              "year": 2026,
+              "start_date": "2026-01-01",
+              "end_date": "2026-12-31"
+            }
+          },
+          "season": {
+            "id": 1288,
+            "name": "K-League 1 2026",
+            "year": 2026
+          },
+          "home_team": "Gimcheon Sangmu FC",
+          "away_team": "Daejeon Hana Citizen",
+          "home_team_obj": {
+            "id": 1952,
+            "name": "Gimcheon Sangmu FC",
+            "short_name": "Gimcheon",
+            "country": "South Korea",
+            "coach": {
+              "name": "Seung-jin Joo",
+              "shortName": "S. Joo"
+            },
+            "venue": null
+          },
+          "away_team_obj": {
+            "id": 1958,
+            "name": "Daejeon Hana Citizen",
+            "short_name": "Daejeon Hana",
+            "country": "South Korea",
+            "coach": {
+              "name": "Sun-hong Hwang",
+              "shortName": "Seon-hong Hwang"
+            },
+            "venue": null
+          },
+          "event_date": "2026-07-25T14:30:00+04:00",
+          "round_number": 20,
+          "round_name": "",
+          "group_name": null,
+          "status": "notstarted",
+          "home_score": null,
+          "away_score": null,
+          "home_score_ht": null,
+          "away_score_ht": null,
+          "current_minute": null,
+          "period": "",
+          "odds_home": 2.91,
+          "odds_draw": 3.28,
+          "odds_away": 2.33,
+          "odds_over_15": 1.28,
+          "odds_over_25": 1.88,
+          "odds_over_35": 3.13,
+          "odds_under_15": 3.47,
+          "odds_under_25": 1.86,
+          "odds_under_35": 1.32,
+          "odds_btts_yes": 1.69,
+          "odds_btts_no": 2.05,
+          "actual_home_xg": null,
+          "actual_away_xg": null,
+          "home_xg_live": null,
+          "away_xg_live": null,
+          "penalty_shootout": null,
+          "extra_time_score": null,
+          "is_local_derby": false,
+          "is_neutral_ground": null,
+          "travel_distance_km": 73,
+          "weather_code": 0,
+          "wind_speed": 1.8,
+          "temperature_c": 31,
+          "pitch_condition": null,
+          "attendance": null,
+          "referee": null,
+          "home_coach": {
+            "id": 1309,
+            "name": "Seung-jin Joo",
+            "short_name": "S. Joo",
+            "country": "South Korea",
+            "profile": "defensive",
+            "preferred_formation": "4-4-2",
+            "pressing_intensity": 0.5204995066262543,
+            "defensive_line": "mid",
+            "top_styles": [
+              "set_piece",
+              "positional"
+            ]
+          },
+          "away_coach": {
+            "id": 1315,
+            "name": "Sun-hong Hwang",
+            "short_name": "Seon-hong Hwang",
+            "country": "South Korea",
+            "profile": "balanced",
+            "preferred_formation": "4-2-3-1",
+            "pressing_intensity": 0.4632538409880058,
+            "defensive_line": "mid",
+            "top_styles": [
+              "territory",
+              "cross_pray"
+            ]
+          },
+          "unavailable_players": null,
+          "venue": {
+            "id": 1124,
+            "name": "Gimcheon Stadium",
+            "city": "Gimcheon",
+            "country": "South Korea",
+            "capacity": 24348,
+            "latitude": 36.139627,
+            "longitude": 128.086454,
+            "pitch_x": null,
+            "pitch_y": null,
+            "built_year": null
+          },
+          "incidents": null,
+          "live_stats": null,
+          "lineups": null,
+          "shotmap": null,
+          "momentum": null,
+          "xg_per_minute": null,
+          "average_positions": null,
+          "jerseys": {
+            "away": {
+              "GK": {
+                "base": "fbee6d",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "3aa89e",
+                "sleeve": "4ca79d"
+              },
+              "player": {
+                "base": "256c61",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "ffffff",
+                "sleeve": "ca1730"
+              }
+            },
+            "home": {
+              "GK": {
+                "base": "8eac1f",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "ffffff",
+                "sleeve": "ffffff"
+              },
+              "player": {
+                "base": "b70010",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "ffffff",
+                "sleeve": "000000"
+              }
+            }
+          },
+          "funfacts": null,
+          "sr_stats": null,
+          "ai_preview": null,
+          "live_websocket": true
+        },
+        "created_at": "2026-07-23T16:01:10.818292+00:00",
+        "prob_home_win": 31.9,
+        "prob_draw": 28.3,
+        "prob_away_win": 39.8,
+        "predicted_result": "A",
+        "expected_home_goals": 1.039,
+        "expected_away_goals": 1.278,
+        "prob_over_15": 72.5,
+        "prob_over_25": 48.9,
+        "prob_over_35": 28.4,
+        "prob_btts_yes": 54.8,
+        "confidence": 0.3982,
+        "model_version": "dc-blend-v1",
+        "most_likely_score": "1-1",
+        "favorite": "A",
+        "favorite_prob": 39.8,
+        "favorite_recommend": false,
+        "over_15_recommend": false,
+        "over_25_recommend": false,
+        "over_35_recommend": false,
+        "btts_recommend": false,
+        "winner_recommend": false
+      },
+      "event_detail": {
+        "id": 205106,
+        "league": {
+          "id": 50,
+          "name": "K League 1",
+          "country": "South Korea",
+          "is_women": false,
+          "current_season": {
+            "id": 1288,
+            "name": "K-League 1 2026",
+            "year": 2026,
+            "start_date": "2026-01-01",
+            "end_date": "2026-12-31"
+          }
+        },
+        "season": {
+          "id": 1288,
+          "name": "K-League 1 2026",
+          "year": 2026
+        },
+        "home_team": "Gimcheon Sangmu FC",
+        "away_team": "Daejeon Hana Citizen",
+        "home_team_obj": {
+          "id": 1952,
+          "name": "Gimcheon Sangmu FC",
+          "short_name": "Gimcheon",
+          "country": "South Korea",
+          "coach": {
+            "name": "Seung-jin Joo",
+            "shortName": "S. Joo"
+          },
+          "venue": null
+        },
+        "away_team_obj": {
+          "id": 1958,
+          "name": "Daejeon Hana Citizen",
+          "short_name": "Daejeon Hana",
+          "country": "South Korea",
+          "coach": {
+            "name": "Sun-hong Hwang",
+            "shortName": "Seon-hong Hwang"
+          },
+          "venue": null
+        },
+        "event_date": "2026-07-25T13:30:00+03:00",
+        "round_number": 20,
+        "round_name": "",
+        "group_name": null,
+        "status": "notstarted",
+        "home_score": null,
+        "away_score": null,
+        "home_score_ht": null,
+        "away_score_ht": null,
+        "current_minute": null,
+        "period": "",
+        "odds_home": 2.91,
+        "odds_draw": 3.28,
+        "odds_away": 2.33,
+        "odds_over_15": 1.28,
+        "odds_over_25": 1.88,
+        "odds_over_35": 3.13,
+        "odds_under_15": 3.47,
+        "odds_under_25": 1.86,
+        "odds_under_35": 1.32,
+        "odds_btts_yes": 1.69,
+        "odds_btts_no": 2.05,
+        "actual_home_xg": null,
+        "actual_away_xg": null,
+        "home_xg_live": null,
+        "away_xg_live": null,
+        "penalty_shootout": null,
+        "extra_time_score": null,
+        "is_local_derby": false,
+        "is_neutral_ground": null,
+        "travel_distance_km": 73,
+        "weather_code": 0,
+        "wind_speed": 1.8,
+        "temperature_c": 31,
+        "pitch_condition": null,
+        "attendance": null,
+        "referee": null,
+        "home_coach": {
+          "id": 1309,
+          "name": "Seung-jin Joo",
+          "short_name": "S. Joo",
+          "country": "South Korea",
+          "profile": "defensive",
+          "preferred_formation": "4-4-2",
+          "pressing_intensity": 0.5204995066262543,
+          "defensive_line": "mid",
+          "top_styles": [
+            "set_piece",
+            "positional"
+          ]
+        },
+        "away_coach": {
+          "id": 1315,
+          "name": "Sun-hong Hwang",
+          "short_name": "Seon-hong Hwang",
+          "country": "South Korea",
+          "profile": "balanced",
+          "preferred_formation": "4-2-3-1",
+          "pressing_intensity": 0.4632538409880058,
+          "defensive_line": "mid",
+          "top_styles": [
+            "territory",
+            "cross_pray"
+          ]
+        },
+        "unavailable_players": null,
+        "venue": {
+          "id": 1124,
+          "name": "Gimcheon Stadium",
+          "city": "Gimcheon",
+          "country": "South Korea",
+          "capacity": 24348,
+          "latitude": 36.139627,
+          "longitude": 128.086454,
+          "pitch_x": null,
+          "pitch_y": null,
+          "built_year": null
+        },
+        "live_stats": null,
+        "jerseys": {
+          "away": {
+            "GK": {
+              "base": "fbee6d",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "3aa89e",
+              "sleeve": "4ca79d"
+            },
+            "player": {
+              "base": "256c61",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "ffffff",
+              "sleeve": "ca1730"
+            }
+          },
+          "home": {
+            "GK": {
+              "base": "8eac1f",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "ffffff",
+              "sleeve": "ffffff"
+            },
+            "player": {
+              "base": "b70010",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "ffffff",
+              "sleeve": "000000"
+            }
+          }
+        },
+        "funfacts": null,
+        "sr_stats": null,
+        "ai_preview": null,
+        "live_websocket": true,
+        "home_form": {
+          "calculated_at": "2026-07-24",
+          "matches_played": 5,
+          "form_string": "DLDDL",
+          "wins": 0,
+          "draws": 3,
+          "losses": 2,
+          "points_last_n": 3,
+          "goals_scored_last_n": 3,
+          "goals_conceded_last_n": 6,
+          "avg_xg": 0.11620000000000001,
+          "avg_xg_conceded": 0.30868,
+          "avg_shots": 0,
+          "avg_shots_on_target": 0,
+          "avg_key_passes": 0,
+          "goal_conversion_rate": 5.163511187607573,
+          "defensive_efficiency": -2.8875210574057273,
+          "clean_sheets": 0,
+          "avg_pass_accuracy": 0,
+          "duel_win_rate": 0,
+          "aerial_win_rate": 0,
+          "avg_fouls": 0,
+          "avg_yellow_cards": 1.4,
+          "home_ppg": 0.4,
+          "away_ppg": 1,
+          "home_goals_scored": 3,
+          "home_goals_conceded": 10,
+          "away_goals_scored": 6,
+          "away_goals_conceded": 8,
+          "avg_team_rating": 0
+        },
+        "away_form": {
+          "calculated_at": "2026-07-24",
+          "matches_played": 5,
+          "form_string": "DDDDL",
+          "wins": 0,
+          "draws": 4,
+          "losses": 1,
+          "points_last_n": 4,
+          "goals_scored_last_n": 5,
+          "goals_conceded_last_n": 6,
+          "avg_xg": 1,
+          "avg_xg_conceded": 1.2,
+          "avg_shots": 0,
+          "avg_shots_on_target": 0,
+          "avg_key_passes": 0,
+          "goal_conversion_rate": 0,
+          "defensive_efficiency": 0,
+          "clean_sheets": 2,
+          "avg_pass_accuracy": 0,
+          "duel_win_rate": 0,
+          "aerial_win_rate": 0,
+          "avg_fouls": 0,
+          "avg_yellow_cards": 1.2,
+          "home_ppg": 0.6,
+          "away_ppg": 1.6,
+          "home_goals_scored": 5,
+          "home_goals_conceded": 8,
+          "away_goals_scored": 9,
+          "away_goals_conceded": 3,
+          "avg_team_rating": 0
+        },
+        "head_to_head": {
+          "total_matches": 1,
+          "home_wins": 0,
+          "draws": 1,
+          "away_wins": 0,
+          "home_goals": 1,
+          "away_goals": 1,
+          "avg_total_goals": 2,
+          "home_win_rate": 0,
+          "away_win_rate": 0,
+          "recent_matches": [
+            {
+              "away": "Gimcheon Sangmu FC",
+              "date": "2026-03-14T07:30:00+00:00",
+              "home": "Daejeon Hana Citizen",
+              "score": "1-1"
+            }
+          ]
+        },
+        "lineups": null,
+        "social": []
+      },
+      "managers": {
+        "home": {
+          "id": 1770,
+          "name": "Joo Seung-jin",
+          "short_name": "J. Seung-jin",
+          "country": "",
+          "current_team": {
+            "id": 1952,
+            "name": "Gimcheon Sangmu FC"
+          },
+          "preferred_formation": "",
+          "formations_used": null,
+          "profile": "",
+          "team_style": "",
+          "pressing_intensity": null,
+          "defensive_line": "",
+          "tactical_styles": [],
+          "matches_total": 0,
+          "wins": 0,
+          "draws": 0,
+          "losses": 0,
+          "win_pct": null,
+          "avg_goals_scored": null,
+          "avg_goals_conceded": null,
+          "avg_possession": null,
+          "avg_shots": null,
+          "avg_shots_on_target": null,
+          "avg_xg_for": null,
+          "avg_xg_against": null,
+          "avg_corners": null,
+          "avg_yellow_cards": null,
+          "avg_red_cards": null,
+          "avg_fouls": null,
+          "clean_sheet_pct": null,
+          "btts_pct": null,
+          "over_25_pct": null,
+          "over_15_pct": null,
+          "fail_to_score_pct": null,
+          "avg_goals_scored_1h": null,
+          "avg_goals_conceded_1h": null
+        },
+        "away": {
+          "id": 1315,
+          "name": "Sun-hong Hwang",
+          "short_name": "Seon-hong Hwang",
+          "country": "South Korea",
+          "current_team": {
+            "id": 1958,
+            "name": "Daejeon Hana Citizen"
+          },
+          "preferred_formation": "4-2-3-1",
+          "formations_used": {
+            "3-4-3": 1,
+            "4-3-3": 2,
+            "4-4-2": 6,
+            "5-3-2": 1,
+            "4-1-4-1": 2,
+            "4-2-3-1": 6
+          },
+          "profile": "balanced",
+          "team_style": "soft",
+          "pressing_intensity": 0.4632538409880058,
+          "defensive_line": "mid",
+          "tactical_styles": [
+            {
+              "rank": 1,
+              "code": "territory",
+              "name": "Territory Control",
+              "category": "possession",
+              "emoji": "🗺",
+              "description": "Pin opponent deep rather than shoot often",
+              "score": 0.062
+            },
+            {
+              "rank": 2,
+              "code": "cross_pray",
+              "name": "Cross & Pray",
+              "category": "wide",
+              "emoji": "🙏",
+              "description": "High-volume hopeful crosses into the box",
+              "score": 0.062
+            },
+            {
+              "rank": 3,
+              "code": "positional",
+              "name": "Positional Play",
+              "category": "possession",
+              "emoji": "♟",
+              "description": "Zone occupation and overloads",
+              "score": 0.056
+            },
+            {
+              "rank": 4,
+              "code": "total_football",
+              "name": "Total Football",
+              "category": "possession",
+              "emoji": "🌀",
+              "description": "Fluid rotations, every player attacks and defends",
+              "score": 0.055
+            }
+          ],
+          "matches_total": 23,
+          "wins": 6,
+          "draws": 9,
+          "losses": 8,
+          "win_pct": 26.1,
+          "avg_goals_scored": 1.22,
+          "avg_goals_conceded": 1.13,
+          "avg_possession": 53.55,
+          "avg_shots": 11.39,
+          "avg_shots_on_target": 3.78,
+          "avg_xg_for": 1.18,
+          "avg_xg_against": 1.43,
+          "avg_corners": 4.05,
+          "avg_yellow_cards": 1.22,
+          "avg_red_cards": 0.09,
+          "avg_fouls": 11.94,
+          "clean_sheet_pct": 21.7,
+          "btts_pct": 47.8,
+          "over_25_pct": 34.8,
+          "over_15_pct": 65.2,
+          "fail_to_score_pct": 39.1,
+          "avg_goals_scored_1h": 0.57,
+          "avg_goals_conceded_1h": 0.48
+        }
+      }
+    },
+    {
       "event_id": 205838,
       "prediction": {
         "id": 145,
@@ -11931,7 +11969,7 @@
         "prob_draw": 26.5,
         "prob_away_win": 28.7,
         "predicted_result": "H",
-        "expected_home_goals": 1.746,
+        "expected_home_goals": 1.747,
         "expected_away_goals": 1.15,
         "prob_over_15": 77.8,
         "prob_over_25": 56.1,
@@ -13127,7 +13165,7 @@
         "prob_away_win": 29.8,
         "predicted_result": "H",
         "expected_home_goals": 1.306,
-        "expected_away_goals": 1.174,
+        "expected_away_goals": 1.175,
         "prob_over_15": 72.5,
         "prob_over_25": 48.7,
         "prob_over_35": 27.9,
@@ -13754,8 +13792,8 @@
         "prob_draw": 27.5,
         "prob_away_win": 25,
         "predicted_result": "H",
-        "expected_home_goals": 1.777,
-        "expected_away_goals": 1.161,
+        "expected_home_goals": 1.776,
+        "expected_away_goals": 1.162,
         "prob_over_15": 73.3,
         "prob_over_25": 49.9,
         "prob_over_35": 29.4,
@@ -15128,7 +15166,7 @@
         "prob_draw": 23.2,
         "prob_away_win": 58.3,
         "predicted_result": "A",
-        "expected_home_goals": 1.099,
+        "expected_home_goals": 1.095,
         "expected_away_goals": 1.492,
         "prob_over_15": 76.8,
         "prob_over_25": 54.8,
@@ -15766,8 +15804,8 @@
         "prob_draw": 26.6,
         "prob_away_win": 30.5,
         "predicted_result": "H",
-        "expected_home_goals": 1.682,
-        "expected_away_goals": 1.048,
+        "expected_home_goals": 1.679,
+        "expected_away_goals": 1.043,
         "prob_over_15": 76.5,
         "prob_over_25": 54.2,
         "prob_over_35": 33.5,
@@ -16362,8 +16400,8 @@
         "prob_draw": 25.9,
         "prob_away_win": 48,
         "predicted_result": "A",
-        "expected_home_goals": 1.2,
-        "expected_away_goals": 1.328,
+        "expected_home_goals": 1.201,
+        "expected_away_goals": 1.323,
         "prob_over_15": 75.7,
         "prob_over_25": 53.4,
         "prob_over_35": 32.3,
@@ -18167,7 +18205,7 @@
         "prob_draw": 27.2,
         "prob_away_win": 32.5,
         "predicted_result": "H",
-        "expected_home_goals": 1.198,
+        "expected_home_goals": 1.197,
         "expected_away_goals": 1.681,
         "prob_over_15": 75,
         "prob_over_25": 52.1,
@@ -19560,7 +19598,7 @@
         "prob_away_win": 34.7,
         "predicted_result": "H",
         "expected_home_goals": 1.962,
-        "expected_away_goals": 1.338,
+        "expected_away_goals": 1.337,
         "prob_over_15": 82.7,
         "prob_over_25": 63.5,
         "prob_over_35": 43.3,
@@ -22240,7 +22278,7 @@
         "prob_away_win": 15.5,
         "predicted_result": "H",
         "expected_home_goals": 2.025,
-        "expected_away_goals": 1.093,
+        "expected_away_goals": 1.094,
         "prob_over_15": 77.4,
         "prob_over_25": 55.8,
         "prob_over_35": 34.4,
@@ -22943,7 +22981,7 @@
         "prob_away_win": 28.7,
         "predicted_result": "H",
         "expected_home_goals": 2.105,
-        "expected_away_goals": 1.828,
+        "expected_away_goals": 1.829,
         "prob_over_15": 84.7,
         "prob_over_25": 66.8,
         "prob_over_35": 47,
@@ -23487,7 +23525,17 @@
               "tiki_taka"
             ]
           },
-          "unavailable_players": null,
+          "unavailable_players": {
+            "home": [],
+            "away": [
+              {
+                "name": "Elkin Rivero",
+                "status": "injured",
+                "reason": "Knock Injury",
+                "expected_return": "2026-08-10"
+              }
+            ]
+          },
           "venue": {
             "id": 1659,
             "name": "Estadio La Independencia",
@@ -23555,10 +23603,10 @@
         "prob_draw": 26.3,
         "prob_away_win": 57.8,
         "predicted_result": "A",
-        "expected_home_goals": 0.906,
+        "expected_home_goals": 0.908,
         "expected_away_goals": 1.319,
         "prob_over_15": 70.5,
-        "prob_over_25": 46.7,
+        "prob_over_25": 46.8,
         "prob_over_35": 26.4,
         "prob_btts_yes": 47.6,
         "confidence": 0.5778,
@@ -23688,7 +23736,17 @@
             "tiki_taka"
           ]
         },
-        "unavailable_players": null,
+        "unavailable_players": {
+          "home": [],
+          "away": [
+            {
+              "name": "Elkin Rivero",
+              "status": "injured",
+              "reason": "Knock Injury",
+              "expected_return": "2026-08-10"
+            }
+          ]
+        },
         "venue": {
           "id": 1659,
           "name": "Estadio La Independencia",
@@ -24757,7 +24815,7 @@
         "prob_draw": 26.8,
         "prob_away_win": 18.9,
         "predicted_result": "H",
-        "expected_home_goals": 1.448,
+        "expected_home_goals": 1.45,
         "expected_away_goals": 0.937,
         "prob_over_15": 69.8,
         "prob_over_25": 45.5,
@@ -25462,7 +25520,7 @@
         "prob_draw": 20.8,
         "prob_away_win": 13,
         "predicted_result": "H",
-        "expected_home_goals": 2.202,
+        "expected_home_goals": 2.201,
         "expected_away_goals": 0.788,
         "prob_over_15": 77.7,
         "prob_over_25": 56,
@@ -26185,7 +26243,7 @@
         "prob_over_25": 45.4,
         "prob_over_35": 23,
         "prob_btts_yes": 48.8,
-        "confidence": 0.4981,
+        "confidence": 0.4983,
         "model_version": "dc-blend-v1",
         "most_likely_score": "1-0",
         "favorite": "H",
@@ -26931,8 +26989,8 @@
         "prob_draw": 25.3,
         "prob_away_win": 31.6,
         "predicted_result": "H",
-        "expected_home_goals": 1.67,
-        "expected_away_goals": 1.578,
+        "expected_home_goals": 1.671,
+        "expected_away_goals": 1.579,
         "prob_over_15": 81.2,
         "prob_over_25": 61.5,
         "prob_over_35": 40.9,
@@ -27428,6 +27486,598 @@
       }
     },
     {
+      "event_id": 207712,
+      "prediction": {
+        "id": 121,
+        "event": {
+          "id": 207712,
+          "league": {
+            "id": 57,
+            "name": "USL Championship",
+            "country": "USA",
+            "is_women": false,
+            "current_season": {
+              "id": 1435,
+              "name": "USL Championship 2026",
+              "year": 2026,
+              "start_date": "2026-01-01",
+              "end_date": "2026-12-31"
+            }
+          },
+          "season": {
+            "id": 1435,
+            "name": "USL Championship 2026",
+            "year": 2026
+          },
+          "home_team": "Indy Eleven",
+          "away_team": "Loudoun United FC",
+          "home_team_obj": {
+            "id": 2242,
+            "name": "Indy Eleven",
+            "short_name": "Indy Eleven",
+            "country": "USA",
+            "coach": {
+              "name": "Sean McAuley",
+              "shortName": "S. McAuley"
+            },
+            "venue": null
+          },
+          "away_team_obj": {
+            "id": 2224,
+            "name": "Loudoun United FC",
+            "short_name": "Loudoun United",
+            "country": "USA",
+            "coach": {
+              "name": "Anthony Limbrick",
+              "shortName": "A. Limbrick"
+            },
+            "venue": null
+          },
+          "event_date": "2026-07-26T03:00:00+04:00",
+          "round_number": 1,
+          "round_name": "",
+          "group_name": null,
+          "status": "notstarted",
+          "home_score": null,
+          "away_score": null,
+          "home_score_ht": null,
+          "away_score_ht": null,
+          "current_minute": null,
+          "period": "",
+          "odds_home": 1.68,
+          "odds_draw": 3.86,
+          "odds_away": 4.12,
+          "odds_over_15": 1.2,
+          "odds_over_25": 1.64,
+          "odds_over_35": 2.59,
+          "odds_under_15": 4.09,
+          "odds_under_25": 2.14,
+          "odds_under_35": 1.44,
+          "odds_btts_yes": 1.64,
+          "odds_btts_no": 2.11,
+          "actual_home_xg": null,
+          "actual_away_xg": null,
+          "home_xg_live": null,
+          "away_xg_live": null,
+          "penalty_shootout": null,
+          "extra_time_score": null,
+          "is_local_derby": false,
+          "is_neutral_ground": null,
+          "travel_distance_km": 746,
+          "weather_code": 3,
+          "wind_speed": 8.6,
+          "temperature_c": 26,
+          "pitch_condition": null,
+          "attendance": null,
+          "referee": null,
+          "home_coach": {
+            "id": 1637,
+            "name": "Sean McAuley",
+            "short_name": "S. McAuley",
+            "country": "England",
+            "profile": "balanced",
+            "preferred_formation": "4-1-4-1",
+            "pressing_intensity": 0.20357312821561618,
+            "defensive_line": "mid",
+            "top_styles": [
+              "cross_pray",
+              "set_piece"
+            ]
+          },
+          "away_coach": {
+            "id": 1619,
+            "name": "Anthony Limbrick",
+            "short_name": "A. Limbrick",
+            "country": "Australia",
+            "profile": "balanced",
+            "preferred_formation": "3-4-3",
+            "pressing_intensity": 0.46953349400221395,
+            "defensive_line": "mid",
+            "top_styles": [
+              "anti_football",
+              "terrorist_fb"
+            ]
+          },
+          "unavailable_players": null,
+          "venue": {
+            "id": 1341,
+            "name": "Michael Carroll Stadium",
+            "city": "Indianapolis",
+            "country": "USA",
+            "capacity": 12111,
+            "latitude": 39.771146,
+            "longitude": -86.17788,
+            "pitch_x": null,
+            "pitch_y": null,
+            "built_year": null
+          },
+          "incidents": null,
+          "live_stats": null,
+          "lineups": null,
+          "shotmap": null,
+          "momentum": null,
+          "xg_per_minute": null,
+          "average_positions": null,
+          "jerseys": {
+            "away": {
+              "GK": {
+                "base": "efc131",
+                "real": false,
+                "type": "short_sleeves",
+                "number": "000000",
+                "sleeve": "333333"
+              },
+              "player": {
+                "base": "585858",
+                "real": false,
+                "type": "short_sleeves",
+                "number": "ffffff",
+                "sleeve": "585858"
+              }
+            },
+            "home": {
+              "GK": {
+                "base": "efc131",
+                "real": false,
+                "type": "short_sleeves",
+                "number": "000000",
+                "sleeve": "333333"
+              },
+              "player": {
+                "base": "D8D8D8",
+                "real": false,
+                "type": "short_sleeves",
+                "number": "000000",
+                "sleeve": "D8D8D8"
+              }
+            }
+          },
+          "funfacts": null,
+          "sr_stats": null,
+          "ai_preview": null,
+          "live_websocket": true
+        },
+        "created_at": "2026-07-23T16:01:10.644627+00:00",
+        "prob_home_win": 54.3,
+        "prob_draw": 23.6,
+        "prob_away_win": 22.1,
+        "predicted_result": "H",
+        "expected_home_goals": 1.903,
+        "expected_away_goals": 0.972,
+        "prob_over_15": 77.3,
+        "prob_over_25": 56.2,
+        "prob_over_35": 35,
+        "prob_btts_yes": 56.3,
+        "confidence": 0.5426,
+        "model_version": "dc-blend-v1",
+        "most_likely_score": "1-1",
+        "favorite": "H",
+        "favorite_prob": 54.3,
+        "favorite_recommend": false,
+        "over_15_recommend": false,
+        "over_25_recommend": false,
+        "over_35_recommend": false,
+        "btts_recommend": false,
+        "winner_recommend": false
+      },
+      "event_detail": {
+        "id": 207712,
+        "league": {
+          "id": 57,
+          "name": "USL Championship",
+          "country": "USA",
+          "is_women": false,
+          "current_season": {
+            "id": 1435,
+            "name": "USL Championship 2026",
+            "year": 2026,
+            "start_date": "2026-01-01",
+            "end_date": "2026-12-31"
+          }
+        },
+        "season": {
+          "id": 1435,
+          "name": "USL Championship 2026",
+          "year": 2026
+        },
+        "home_team": "Indy Eleven",
+        "away_team": "Loudoun United FC",
+        "home_team_obj": {
+          "id": 2242,
+          "name": "Indy Eleven",
+          "short_name": "Indy Eleven",
+          "country": "USA",
+          "coach": {
+            "name": "Sean McAuley",
+            "shortName": "S. McAuley"
+          },
+          "venue": null
+        },
+        "away_team_obj": {
+          "id": 2224,
+          "name": "Loudoun United FC",
+          "short_name": "Loudoun United",
+          "country": "USA",
+          "coach": {
+            "name": "Anthony Limbrick",
+            "shortName": "A. Limbrick"
+          },
+          "venue": null
+        },
+        "event_date": "2026-07-26T02:00:00+03:00",
+        "round_number": 1,
+        "round_name": "",
+        "group_name": null,
+        "status": "notstarted",
+        "home_score": null,
+        "away_score": null,
+        "home_score_ht": null,
+        "away_score_ht": null,
+        "current_minute": null,
+        "period": "",
+        "odds_home": 1.68,
+        "odds_draw": 3.86,
+        "odds_away": 4.12,
+        "odds_over_15": 1.2,
+        "odds_over_25": 1.64,
+        "odds_over_35": 2.59,
+        "odds_under_15": 4.09,
+        "odds_under_25": 2.14,
+        "odds_under_35": 1.44,
+        "odds_btts_yes": 1.64,
+        "odds_btts_no": 2.11,
+        "actual_home_xg": null,
+        "actual_away_xg": null,
+        "home_xg_live": null,
+        "away_xg_live": null,
+        "penalty_shootout": null,
+        "extra_time_score": null,
+        "is_local_derby": false,
+        "is_neutral_ground": null,
+        "travel_distance_km": 746,
+        "weather_code": 3,
+        "wind_speed": 8.6,
+        "temperature_c": 26,
+        "pitch_condition": null,
+        "attendance": null,
+        "referee": null,
+        "home_coach": {
+          "id": 1637,
+          "name": "Sean McAuley",
+          "short_name": "S. McAuley",
+          "country": "England",
+          "profile": "balanced",
+          "preferred_formation": "4-1-4-1",
+          "pressing_intensity": 0.20357312821561618,
+          "defensive_line": "mid",
+          "top_styles": [
+            "cross_pray",
+            "set_piece"
+          ]
+        },
+        "away_coach": {
+          "id": 1619,
+          "name": "Anthony Limbrick",
+          "short_name": "A. Limbrick",
+          "country": "Australia",
+          "profile": "balanced",
+          "preferred_formation": "3-4-3",
+          "pressing_intensity": 0.46953349400221395,
+          "defensive_line": "mid",
+          "top_styles": [
+            "anti_football",
+            "terrorist_fb"
+          ]
+        },
+        "unavailable_players": null,
+        "venue": {
+          "id": 1341,
+          "name": "Michael Carroll Stadium",
+          "city": "Indianapolis",
+          "country": "USA",
+          "capacity": 12111,
+          "latitude": 39.771146,
+          "longitude": -86.17788,
+          "pitch_x": null,
+          "pitch_y": null,
+          "built_year": null
+        },
+        "live_stats": null,
+        "jerseys": {
+          "away": {
+            "GK": {
+              "base": "efc131",
+              "real": false,
+              "type": "short_sleeves",
+              "number": "000000",
+              "sleeve": "333333"
+            },
+            "player": {
+              "base": "585858",
+              "real": false,
+              "type": "short_sleeves",
+              "number": "ffffff",
+              "sleeve": "585858"
+            }
+          },
+          "home": {
+            "GK": {
+              "base": "efc131",
+              "real": false,
+              "type": "short_sleeves",
+              "number": "000000",
+              "sleeve": "333333"
+            },
+            "player": {
+              "base": "D8D8D8",
+              "real": false,
+              "type": "short_sleeves",
+              "number": "000000",
+              "sleeve": "D8D8D8"
+            }
+          }
+        },
+        "funfacts": null,
+        "sr_stats": null,
+        "ai_preview": null,
+        "live_websocket": true,
+        "home_form": {
+          "calculated_at": "2026-07-24",
+          "matches_played": 5,
+          "form_string": "LLWLW",
+          "wins": 2,
+          "draws": 0,
+          "losses": 3,
+          "points_last_n": 6,
+          "goals_scored_last_n": 3,
+          "goals_conceded_last_n": 5,
+          "avg_xg": 0.6,
+          "avg_xg_conceded": 1,
+          "avg_shots": 9.6,
+          "avg_shots_on_target": 3,
+          "avg_key_passes": 6.6,
+          "goal_conversion_rate": 0,
+          "defensive_efficiency": 0,
+          "clean_sheets": 2,
+          "avg_pass_accuracy": 77.93599301651776,
+          "duel_win_rate": 0.49295774647887325,
+          "aerial_win_rate": 0.49044585987261147,
+          "avg_fouls": 12,
+          "avg_yellow_cards": 2.2,
+          "home_ppg": 3,
+          "away_ppg": 0.2,
+          "home_goals_scored": 11,
+          "home_goals_conceded": 3,
+          "away_goals_scored": 2,
+          "away_goals_conceded": 8,
+          "avg_team_rating": 6.789956043956043
+        },
+        "away_form": {
+          "calculated_at": "2026-07-24",
+          "matches_played": 5,
+          "form_string": "DDLDL",
+          "wins": 0,
+          "draws": 3,
+          "losses": 2,
+          "points_last_n": 3,
+          "goals_scored_last_n": 6,
+          "goals_conceded_last_n": 12,
+          "avg_xg": 1.2,
+          "avg_xg_conceded": 2.4,
+          "avg_shots": 13.2,
+          "avg_shots_on_target": 5.6,
+          "avg_key_passes": 9.2,
+          "goal_conversion_rate": 0,
+          "defensive_efficiency": 0,
+          "clean_sheets": 0,
+          "avg_pass_accuracy": 79.64648883250989,
+          "duel_win_rate": 0.5258426966292135,
+          "aerial_win_rate": 0.5084745762711864,
+          "avg_fouls": 10.2,
+          "avg_yellow_cards": 2.4,
+          "home_ppg": 0.8,
+          "away_ppg": 1,
+          "home_goals_scored": 6,
+          "home_goals_conceded": 9,
+          "away_goals_scored": 4,
+          "away_goals_conceded": 9,
+          "avg_team_rating": 6.698845238095238
+        },
+        "head_to_head": null,
+        "lineups": null,
+        "social": []
+      },
+      "managers": {
+        "home": {
+          "id": 1637,
+          "name": "Sean McAuley",
+          "short_name": "S. McAuley",
+          "country": "England",
+          "current_team": {
+            "id": 2242,
+            "name": "Indy Eleven"
+          },
+          "preferred_formation": "4-1-4-1",
+          "formations_used": {
+            "4-4-2": 1,
+            "4-1-4-1": 9,
+            "4-2-3-1": 3,
+            "4-3-2-1": 1
+          },
+          "profile": "balanced",
+          "team_style": "soft",
+          "pressing_intensity": 0.20357312821561618,
+          "defensive_line": "mid",
+          "tactical_styles": [
+            {
+              "rank": 1,
+              "code": "cross_pray",
+              "name": "Cross & Pray",
+              "category": "wide",
+              "emoji": "🙏",
+              "description": "High-volume hopeful crosses into the box",
+              "score": 0.122
+            },
+            {
+              "rank": 2,
+              "code": "set_piece",
+              "name": "Set-Piece Reliant",
+              "category": "defensive",
+              "emoji": "🎯",
+              "description": "Goals mainly from corners and free kicks",
+              "score": 0.12
+            },
+            {
+              "rank": 3,
+              "code": "low_counter",
+              "name": "Low Block Counter",
+              "category": "counter",
+              "emoji": "🏹",
+              "description": "Deep defense with rapid forward outlets",
+              "score": 0.077
+            },
+            {
+              "rank": 4,
+              "code": "no_midfield",
+              "name": "No Midfield Just Vibes",
+              "category": "fan",
+              "emoji": "🚀",
+              "description": "Bypass midfield entirely, defend and attack direct",
+              "score": 0.063
+            }
+          ],
+          "matches_total": 17,
+          "wins": 7,
+          "draws": 4,
+          "losses": 6,
+          "win_pct": 41.2,
+          "avg_goals_scored": 1.24,
+          "avg_goals_conceded": 1.18,
+          "avg_possession": 40,
+          "avg_shots": 12.57,
+          "avg_shots_on_target": 4.64,
+          "avg_xg_for": 1.71,
+          "avg_xg_against": 1.3,
+          "avg_corners": 4.86,
+          "avg_yellow_cards": 1.47,
+          "avg_red_cards": 0,
+          "avg_fouls": 14,
+          "clean_sheet_pct": 17.6,
+          "btts_pct": 47.1,
+          "over_25_pct": 47.1,
+          "over_15_pct": 70.6,
+          "fail_to_score_pct": 41.2,
+          "avg_goals_scored_1h": 0.24,
+          "avg_goals_conceded_1h": 0.47
+        },
+        "away": {
+          "id": 1619,
+          "name": "Anthony Limbrick",
+          "short_name": "A. Limbrick",
+          "country": "Australia",
+          "current_team": {
+            "id": 2224,
+            "name": "Loudoun United FC"
+          },
+          "preferred_formation": "3-4-3",
+          "formations_used": {
+            "3-4-3": 5,
+            "4-4-2": 1,
+            "5-4-1": 1,
+            "3-4-1-2": 4,
+            "3-4-2-1": 1,
+            "4-2-3-1": 2,
+            "4-3-1-2": 1
+          },
+          "profile": "balanced",
+          "team_style": "neutral",
+          "pressing_intensity": 0.46953349400221395,
+          "defensive_line": "mid",
+          "tactical_styles": [
+            {
+              "rank": 1,
+              "code": "anti_football",
+              "name": "Anti-Football",
+              "category": "defensive",
+              "emoji": "⏱",
+              "description": "Time-wasting, fouling, disrupting rhythm",
+              "score": 0.092
+            },
+            {
+              "rank": 2,
+              "code": "terrorist_fb",
+              "name": "Terrorist Football",
+              "category": "fan",
+              "emoji": "💣",
+              "description": "Ultra-negative setup — destroy the game",
+              "score": 0.054
+            },
+            {
+              "rank": 3,
+              "code": "moments_fc",
+              "name": "Moments FC",
+              "category": "fan",
+              "emoji": "⭐",
+              "description": "Relies entirely on individual star brilliance",
+              "score": 0.046
+            },
+            {
+              "rank": 4,
+              "code": "inverted_fb",
+              "name": "Inverted Fullbacks",
+              "category": "possession",
+              "emoji": "↩",
+              "description": "Fullbacks step into midfield to overload centre",
+              "score": 0.044
+            }
+          ],
+          "matches_total": 20,
+          "wins": 2,
+          "draws": 10,
+          "losses": 8,
+          "win_pct": 10,
+          "avg_goals_scored": 1.35,
+          "avg_goals_conceded": 1.95,
+          "avg_possession": 48.47,
+          "avg_shots": 11.13,
+          "avg_shots_on_target": 4.07,
+          "avg_xg_for": 1.02,
+          "avg_xg_against": 1.45,
+          "avg_corners": 3.33,
+          "avg_yellow_cards": 2.2,
+          "avg_red_cards": 0,
+          "avg_fouls": 13.4,
+          "clean_sheet_pct": 20,
+          "btts_pct": 75,
+          "over_25_pct": 65,
+          "over_15_pct": 75,
+          "fail_to_score_pct": 20,
+          "avg_goals_scored_1h": 0.45,
+          "avg_goals_conceded_1h": 0.85
+        }
+      }
+    },
+    {
       "event_id": 207711,
       "prediction": {
         "id": 118,
@@ -27604,8 +28254,8 @@
         "prob_draw": 23.5,
         "prob_away_win": 18.5,
         "predicted_result": "H",
-        "expected_home_goals": 1.893,
-        "expected_away_goals": 0.985,
+        "expected_home_goals": 1.895,
+        "expected_away_goals": 0.989,
         "prob_over_15": 75.7,
         "prob_over_25": 53.6,
         "prob_over_35": 32.8,
@@ -28018,598 +28668,6 @@
       }
     },
     {
-      "event_id": 207712,
-      "prediction": {
-        "id": 121,
-        "event": {
-          "id": 207712,
-          "league": {
-            "id": 57,
-            "name": "USL Championship",
-            "country": "USA",
-            "is_women": false,
-            "current_season": {
-              "id": 1435,
-              "name": "USL Championship 2026",
-              "year": 2026,
-              "start_date": "2026-01-01",
-              "end_date": "2026-12-31"
-            }
-          },
-          "season": {
-            "id": 1435,
-            "name": "USL Championship 2026",
-            "year": 2026
-          },
-          "home_team": "Indy Eleven",
-          "away_team": "Loudoun United FC",
-          "home_team_obj": {
-            "id": 2242,
-            "name": "Indy Eleven",
-            "short_name": "Indy Eleven",
-            "country": "USA",
-            "coach": {
-              "name": "Sean McAuley",
-              "shortName": "S. McAuley"
-            },
-            "venue": null
-          },
-          "away_team_obj": {
-            "id": 2224,
-            "name": "Loudoun United FC",
-            "short_name": "Loudoun United",
-            "country": "USA",
-            "coach": {
-              "name": "Anthony Limbrick",
-              "shortName": "A. Limbrick"
-            },
-            "venue": null
-          },
-          "event_date": "2026-07-26T03:00:00+04:00",
-          "round_number": 1,
-          "round_name": "",
-          "group_name": null,
-          "status": "notstarted",
-          "home_score": null,
-          "away_score": null,
-          "home_score_ht": null,
-          "away_score_ht": null,
-          "current_minute": null,
-          "period": "",
-          "odds_home": 1.68,
-          "odds_draw": 3.86,
-          "odds_away": 4.12,
-          "odds_over_15": 1.2,
-          "odds_over_25": 1.64,
-          "odds_over_35": 2.59,
-          "odds_under_15": 4.09,
-          "odds_under_25": 2.14,
-          "odds_under_35": 1.44,
-          "odds_btts_yes": 1.64,
-          "odds_btts_no": 2.11,
-          "actual_home_xg": null,
-          "actual_away_xg": null,
-          "home_xg_live": null,
-          "away_xg_live": null,
-          "penalty_shootout": null,
-          "extra_time_score": null,
-          "is_local_derby": false,
-          "is_neutral_ground": null,
-          "travel_distance_km": 746,
-          "weather_code": 3,
-          "wind_speed": 8.6,
-          "temperature_c": 26,
-          "pitch_condition": null,
-          "attendance": null,
-          "referee": null,
-          "home_coach": {
-            "id": 1637,
-            "name": "Sean McAuley",
-            "short_name": "S. McAuley",
-            "country": "England",
-            "profile": "balanced",
-            "preferred_formation": "4-1-4-1",
-            "pressing_intensity": 0.20357312821561618,
-            "defensive_line": "mid",
-            "top_styles": [
-              "cross_pray",
-              "set_piece"
-            ]
-          },
-          "away_coach": {
-            "id": 1619,
-            "name": "Anthony Limbrick",
-            "short_name": "A. Limbrick",
-            "country": "Australia",
-            "profile": "balanced",
-            "preferred_formation": "3-4-3",
-            "pressing_intensity": 0.46953349400221395,
-            "defensive_line": "mid",
-            "top_styles": [
-              "anti_football",
-              "terrorist_fb"
-            ]
-          },
-          "unavailable_players": null,
-          "venue": {
-            "id": 1341,
-            "name": "Michael Carroll Stadium",
-            "city": "Indianapolis",
-            "country": "USA",
-            "capacity": 12111,
-            "latitude": 39.771146,
-            "longitude": -86.17788,
-            "pitch_x": null,
-            "pitch_y": null,
-            "built_year": null
-          },
-          "incidents": null,
-          "live_stats": null,
-          "lineups": null,
-          "shotmap": null,
-          "momentum": null,
-          "xg_per_minute": null,
-          "average_positions": null,
-          "jerseys": {
-            "away": {
-              "GK": {
-                "base": "efc131",
-                "real": false,
-                "type": "short_sleeves",
-                "number": "000000",
-                "sleeve": "333333"
-              },
-              "player": {
-                "base": "585858",
-                "real": false,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "585858"
-              }
-            },
-            "home": {
-              "GK": {
-                "base": "efc131",
-                "real": false,
-                "type": "short_sleeves",
-                "number": "000000",
-                "sleeve": "333333"
-              },
-              "player": {
-                "base": "D8D8D8",
-                "real": false,
-                "type": "short_sleeves",
-                "number": "000000",
-                "sleeve": "D8D8D8"
-              }
-            }
-          },
-          "funfacts": null,
-          "sr_stats": null,
-          "ai_preview": null,
-          "live_websocket": true
-        },
-        "created_at": "2026-07-23T16:01:10.644627+00:00",
-        "prob_home_win": 54.3,
-        "prob_draw": 23.6,
-        "prob_away_win": 22.1,
-        "predicted_result": "H",
-        "expected_home_goals": 1.897,
-        "expected_away_goals": 0.972,
-        "prob_over_15": 77.2,
-        "prob_over_25": 56.1,
-        "prob_over_35": 34.9,
-        "prob_btts_yes": 56.3,
-        "confidence": 0.5426,
-        "model_version": "dc-blend-v1",
-        "most_likely_score": "1-1",
-        "favorite": "H",
-        "favorite_prob": 54.3,
-        "favorite_recommend": false,
-        "over_15_recommend": false,
-        "over_25_recommend": false,
-        "over_35_recommend": false,
-        "btts_recommend": false,
-        "winner_recommend": false
-      },
-      "event_detail": {
-        "id": 207712,
-        "league": {
-          "id": 57,
-          "name": "USL Championship",
-          "country": "USA",
-          "is_women": false,
-          "current_season": {
-            "id": 1435,
-            "name": "USL Championship 2026",
-            "year": 2026,
-            "start_date": "2026-01-01",
-            "end_date": "2026-12-31"
-          }
-        },
-        "season": {
-          "id": 1435,
-          "name": "USL Championship 2026",
-          "year": 2026
-        },
-        "home_team": "Indy Eleven",
-        "away_team": "Loudoun United FC",
-        "home_team_obj": {
-          "id": 2242,
-          "name": "Indy Eleven",
-          "short_name": "Indy Eleven",
-          "country": "USA",
-          "coach": {
-            "name": "Sean McAuley",
-            "shortName": "S. McAuley"
-          },
-          "venue": null
-        },
-        "away_team_obj": {
-          "id": 2224,
-          "name": "Loudoun United FC",
-          "short_name": "Loudoun United",
-          "country": "USA",
-          "coach": {
-            "name": "Anthony Limbrick",
-            "shortName": "A. Limbrick"
-          },
-          "venue": null
-        },
-        "event_date": "2026-07-26T02:00:00+03:00",
-        "round_number": 1,
-        "round_name": "",
-        "group_name": null,
-        "status": "notstarted",
-        "home_score": null,
-        "away_score": null,
-        "home_score_ht": null,
-        "away_score_ht": null,
-        "current_minute": null,
-        "period": "",
-        "odds_home": 1.68,
-        "odds_draw": 3.86,
-        "odds_away": 4.12,
-        "odds_over_15": 1.2,
-        "odds_over_25": 1.64,
-        "odds_over_35": 2.59,
-        "odds_under_15": 4.09,
-        "odds_under_25": 2.14,
-        "odds_under_35": 1.44,
-        "odds_btts_yes": 1.64,
-        "odds_btts_no": 2.11,
-        "actual_home_xg": null,
-        "actual_away_xg": null,
-        "home_xg_live": null,
-        "away_xg_live": null,
-        "penalty_shootout": null,
-        "extra_time_score": null,
-        "is_local_derby": false,
-        "is_neutral_ground": null,
-        "travel_distance_km": 746,
-        "weather_code": 3,
-        "wind_speed": 8.6,
-        "temperature_c": 26,
-        "pitch_condition": null,
-        "attendance": null,
-        "referee": null,
-        "home_coach": {
-          "id": 1637,
-          "name": "Sean McAuley",
-          "short_name": "S. McAuley",
-          "country": "England",
-          "profile": "balanced",
-          "preferred_formation": "4-1-4-1",
-          "pressing_intensity": 0.20357312821561618,
-          "defensive_line": "mid",
-          "top_styles": [
-            "cross_pray",
-            "set_piece"
-          ]
-        },
-        "away_coach": {
-          "id": 1619,
-          "name": "Anthony Limbrick",
-          "short_name": "A. Limbrick",
-          "country": "Australia",
-          "profile": "balanced",
-          "preferred_formation": "3-4-3",
-          "pressing_intensity": 0.46953349400221395,
-          "defensive_line": "mid",
-          "top_styles": [
-            "anti_football",
-            "terrorist_fb"
-          ]
-        },
-        "unavailable_players": null,
-        "venue": {
-          "id": 1341,
-          "name": "Michael Carroll Stadium",
-          "city": "Indianapolis",
-          "country": "USA",
-          "capacity": 12111,
-          "latitude": 39.771146,
-          "longitude": -86.17788,
-          "pitch_x": null,
-          "pitch_y": null,
-          "built_year": null
-        },
-        "live_stats": null,
-        "jerseys": {
-          "away": {
-            "GK": {
-              "base": "efc131",
-              "real": false,
-              "type": "short_sleeves",
-              "number": "000000",
-              "sleeve": "333333"
-            },
-            "player": {
-              "base": "585858",
-              "real": false,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "585858"
-            }
-          },
-          "home": {
-            "GK": {
-              "base": "efc131",
-              "real": false,
-              "type": "short_sleeves",
-              "number": "000000",
-              "sleeve": "333333"
-            },
-            "player": {
-              "base": "D8D8D8",
-              "real": false,
-              "type": "short_sleeves",
-              "number": "000000",
-              "sleeve": "D8D8D8"
-            }
-          }
-        },
-        "funfacts": null,
-        "sr_stats": null,
-        "ai_preview": null,
-        "live_websocket": true,
-        "home_form": {
-          "calculated_at": "2026-07-24",
-          "matches_played": 5,
-          "form_string": "LLWLW",
-          "wins": 2,
-          "draws": 0,
-          "losses": 3,
-          "points_last_n": 6,
-          "goals_scored_last_n": 3,
-          "goals_conceded_last_n": 5,
-          "avg_xg": 0.6,
-          "avg_xg_conceded": 1,
-          "avg_shots": 9.6,
-          "avg_shots_on_target": 3,
-          "avg_key_passes": 6.6,
-          "goal_conversion_rate": 0,
-          "defensive_efficiency": 0,
-          "clean_sheets": 2,
-          "avg_pass_accuracy": 77.93599301651776,
-          "duel_win_rate": 0.49295774647887325,
-          "aerial_win_rate": 0.49044585987261147,
-          "avg_fouls": 12,
-          "avg_yellow_cards": 2.2,
-          "home_ppg": 3,
-          "away_ppg": 0.2,
-          "home_goals_scored": 11,
-          "home_goals_conceded": 3,
-          "away_goals_scored": 2,
-          "away_goals_conceded": 8,
-          "avg_team_rating": 6.789956043956043
-        },
-        "away_form": {
-          "calculated_at": "2026-07-24",
-          "matches_played": 5,
-          "form_string": "DDLDL",
-          "wins": 0,
-          "draws": 3,
-          "losses": 2,
-          "points_last_n": 3,
-          "goals_scored_last_n": 6,
-          "goals_conceded_last_n": 12,
-          "avg_xg": 1.2,
-          "avg_xg_conceded": 2.4,
-          "avg_shots": 13.2,
-          "avg_shots_on_target": 5.6,
-          "avg_key_passes": 9.2,
-          "goal_conversion_rate": 0,
-          "defensive_efficiency": 0,
-          "clean_sheets": 0,
-          "avg_pass_accuracy": 79.64648883250989,
-          "duel_win_rate": 0.5258426966292135,
-          "aerial_win_rate": 0.5084745762711864,
-          "avg_fouls": 10.2,
-          "avg_yellow_cards": 2.4,
-          "home_ppg": 0.8,
-          "away_ppg": 1,
-          "home_goals_scored": 6,
-          "home_goals_conceded": 9,
-          "away_goals_scored": 4,
-          "away_goals_conceded": 9,
-          "avg_team_rating": 6.698845238095238
-        },
-        "head_to_head": null,
-        "lineups": null,
-        "social": []
-      },
-      "managers": {
-        "home": {
-          "id": 1637,
-          "name": "Sean McAuley",
-          "short_name": "S. McAuley",
-          "country": "England",
-          "current_team": {
-            "id": 2242,
-            "name": "Indy Eleven"
-          },
-          "preferred_formation": "4-1-4-1",
-          "formations_used": {
-            "4-4-2": 1,
-            "4-1-4-1": 9,
-            "4-2-3-1": 3,
-            "4-3-2-1": 1
-          },
-          "profile": "balanced",
-          "team_style": "soft",
-          "pressing_intensity": 0.20357312821561618,
-          "defensive_line": "mid",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "cross_pray",
-              "name": "Cross & Pray",
-              "category": "wide",
-              "emoji": "🙏",
-              "description": "High-volume hopeful crosses into the box",
-              "score": 0.122
-            },
-            {
-              "rank": 2,
-              "code": "set_piece",
-              "name": "Set-Piece Reliant",
-              "category": "defensive",
-              "emoji": "🎯",
-              "description": "Goals mainly from corners and free kicks",
-              "score": 0.12
-            },
-            {
-              "rank": 3,
-              "code": "low_counter",
-              "name": "Low Block Counter",
-              "category": "counter",
-              "emoji": "🏹",
-              "description": "Deep defense with rapid forward outlets",
-              "score": 0.077
-            },
-            {
-              "rank": 4,
-              "code": "no_midfield",
-              "name": "No Midfield Just Vibes",
-              "category": "fan",
-              "emoji": "🚀",
-              "description": "Bypass midfield entirely, defend and attack direct",
-              "score": 0.063
-            }
-          ],
-          "matches_total": 17,
-          "wins": 7,
-          "draws": 4,
-          "losses": 6,
-          "win_pct": 41.2,
-          "avg_goals_scored": 1.24,
-          "avg_goals_conceded": 1.18,
-          "avg_possession": 40,
-          "avg_shots": 12.57,
-          "avg_shots_on_target": 4.64,
-          "avg_xg_for": 1.71,
-          "avg_xg_against": 1.3,
-          "avg_corners": 4.86,
-          "avg_yellow_cards": 1.47,
-          "avg_red_cards": 0,
-          "avg_fouls": 14,
-          "clean_sheet_pct": 17.6,
-          "btts_pct": 47.1,
-          "over_25_pct": 47.1,
-          "over_15_pct": 70.6,
-          "fail_to_score_pct": 41.2,
-          "avg_goals_scored_1h": 0.24,
-          "avg_goals_conceded_1h": 0.47
-        },
-        "away": {
-          "id": 1619,
-          "name": "Anthony Limbrick",
-          "short_name": "A. Limbrick",
-          "country": "Australia",
-          "current_team": {
-            "id": 2224,
-            "name": "Loudoun United FC"
-          },
-          "preferred_formation": "3-4-3",
-          "formations_used": {
-            "3-4-3": 5,
-            "4-4-2": 1,
-            "5-4-1": 1,
-            "3-4-1-2": 4,
-            "3-4-2-1": 1,
-            "4-2-3-1": 2,
-            "4-3-1-2": 1
-          },
-          "profile": "balanced",
-          "team_style": "neutral",
-          "pressing_intensity": 0.46953349400221395,
-          "defensive_line": "mid",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "anti_football",
-              "name": "Anti-Football",
-              "category": "defensive",
-              "emoji": "⏱",
-              "description": "Time-wasting, fouling, disrupting rhythm",
-              "score": 0.092
-            },
-            {
-              "rank": 2,
-              "code": "terrorist_fb",
-              "name": "Terrorist Football",
-              "category": "fan",
-              "emoji": "💣",
-              "description": "Ultra-negative setup — destroy the game",
-              "score": 0.054
-            },
-            {
-              "rank": 3,
-              "code": "moments_fc",
-              "name": "Moments FC",
-              "category": "fan",
-              "emoji": "⭐",
-              "description": "Relies entirely on individual star brilliance",
-              "score": 0.046
-            },
-            {
-              "rank": 4,
-              "code": "inverted_fb",
-              "name": "Inverted Fullbacks",
-              "category": "possession",
-              "emoji": "↩",
-              "description": "Fullbacks step into midfield to overload centre",
-              "score": 0.044
-            }
-          ],
-          "matches_total": 20,
-          "wins": 2,
-          "draws": 10,
-          "losses": 8,
-          "win_pct": 10,
-          "avg_goals_scored": 1.35,
-          "avg_goals_conceded": 1.95,
-          "avg_possession": 48.47,
-          "avg_shots": 11.13,
-          "avg_shots_on_target": 4.07,
-          "avg_xg_for": 1.02,
-          "avg_xg_against": 1.45,
-          "avg_corners": 3.33,
-          "avg_yellow_cards": 2.2,
-          "avg_red_cards": 0,
-          "avg_fouls": 13.4,
-          "clean_sheet_pct": 20,
-          "btts_pct": 75,
-          "over_25_pct": 65,
-          "over_15_pct": 75,
-          "fail_to_score_pct": 20,
-          "avg_goals_scored_1h": 0.45,
-          "avg_goals_conceded_1h": 0.85
-        }
-      }
-    },
-    {
       "event_id": 207714,
       "prediction": {
         "id": 120,
@@ -28786,9 +28844,9 @@
         "prob_draw": 30.1,
         "prob_away_win": 36.4,
         "predicted_result": "A",
-        "expected_home_goals": 1.249,
-        "expected_away_goals": 1.269,
-        "prob_over_15": 67.4,
+        "expected_home_goals": 1.248,
+        "expected_away_goals": 1.273,
+        "prob_over_15": 67.5,
         "prob_over_25": 42.9,
         "prob_over_35": 23.6,
         "prob_btts_yes": 49,
@@ -29373,7 +29431,7 @@
         "prob_draw": 27.7,
         "prob_away_win": 34.4,
         "predicted_result": "H",
-        "expected_home_goals": 1.417,
+        "expected_home_goals": 1.42,
         "expected_away_goals": 1.306,
         "prob_over_15": 72.7,
         "prob_over_25": 49.6,
@@ -29965,7 +30023,7 @@
         "prob_away_win": 54.9,
         "predicted_result": "A",
         "expected_home_goals": 1.11,
-        "expected_away_goals": 1.513,
+        "expected_away_goals": 1.512,
         "prob_over_15": 75.1,
         "prob_over_25": 53,
         "prob_over_35": 32,
@@ -30586,8 +30644,8 @@
         "prob_draw": 20.7,
         "prob_away_win": 16.2,
         "predicted_result": "H",
-        "expected_home_goals": 2.192,
-        "expected_away_goals": 1.066,
+        "expected_home_goals": 2.19,
+        "expected_away_goals": 1.065,
         "prob_over_15": 79.8,
         "prob_over_25": 59.6,
         "prob_over_35": 38.2,
@@ -31259,8 +31317,8 @@
         "prob_draw": 28.7,
         "prob_away_win": 21.9,
         "predicted_result": "H",
-        "expected_home_goals": 1.836,
-        "expected_away_goals": 0.967,
+        "expected_home_goals": 1.838,
+        "expected_away_goals": 0.966,
         "prob_over_15": 67.9,
         "prob_over_25": 43.4,
         "prob_over_35": 23.7,
