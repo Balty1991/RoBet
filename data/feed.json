@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-07-27T04:22:38.124Z",
+  "generated_at": "2026-07-27T08:03:01.411Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -10,7 +10,7 @@
   "summary": {
     "total_matches": 50,
     "total_leagues": 14,
-    "average_confidence": 0.54488,
+    "average_confidence": 0.544602,
     "favorite_recommend": 0,
     "over_15_recommend": 0,
     "over_25_recommend": 0,
@@ -1343,8 +1343,8 @@
         "prob_draw": 24.3,
         "prob_away_win": 20.3,
         "predicted_result": "H",
-        "expected_home_goals": 1.796,
-        "expected_away_goals": 1.06,
+        "expected_home_goals": 1.802,
+        "expected_away_goals": 1.059,
         "prob_over_15": 76.3,
         "prob_over_25": 54,
         "prob_over_35": 32.9,
@@ -2019,8 +2019,8 @@
           ],
           "sr_stats": null,
           "ai_preview": {
-            "text": "**Randers host Silkeborg in a season-opener that screams classic playoff vibes** — both clubs hunting early momentum in the Danish Superliga's fresh campaign. 🔴\n\nRanders come in steadier (1W 2D 2L), grinding out results at home where they hammered Notts County 3-1. Silkeborg are spottier (2W 3L), though that 6-0 demolition of Thisted shows they can explode when it clicks. The hosts should have the edge here.\n\nKey storylines:\n\n- **Randers' attacking trio** of Mahmoud, Touré, and Sankoh will be hungry to translate home advantage into an early win\n- **Silkeborg's defensive shape** under pressure — they've leaked goals in spells and can't afford a slow start without P. Ganchas\n- **Midfield battle** between **Greve Petersen & Björkengren** (Randers) versus **Kirk & McCowatt** (Silkeborg) will dictate tempo and transition\n\nExpected lineups:\n\n- **Randers FC**: P. Izzo, W. Dammers, D. Høegh, N. Dyhr, L. Lissens, M. Greve Petersen, J. Björkengren, W. Caddy, E. Mahmoud, M. Touré, M. Sankoh\n- **Silkeborg IF**: A. Andrésen, J. Gammelby, R. Østrøm, S. Stüker, A. Priesborg, C. McCowatt, W. Kirk, S. Berger, O. Ross, M. Hansen, A. Simmelhack\n\nPrediction:\n\n**Randers 2–0 Silkeborg** — home comfort and recent consistency give the hosts a slight edge. 📊",
-            "generated_at": "2026-07-26T17:45:32.546389+00:00"
+            "text": "**Randers kick off the new season at home with a steadier hand than their guests** — both sides are shaking off preseason rust, but the hosts have momentum on their side. 🔥\n\nRanders showed bite in their last outing (3-1 over Notts County), while Silkeborg's form is spottier: they've won two but lost three, including a stumble away to Aarhus Fremad. The lack of **P. Ganchas** is a stinger for Silkeborg's depth.\n\nKey storylines:\n\n- **M. Sankoh** leading Randers' attack at home; the forward will fancy picking apart a Silkeborg backline that's been leaky\n- **W. Kirk** and **C. McCowatt** tasked with controlling Silkeborg's midfield and disrupting Randers' rhythm\n- Randers' defensive solidity (only conceded 4 across their warm-up run) versus Silkeborg's unpredictable finish\n\nExpected lineups:\n\n- **Randers FC**: P. Izzo, W. Dammers, D. Høegh, N. Dyhr, L. Lissens, M. Greve Petersen, J. Björkengren, W. Caddy, E. Mahmoud, M. Touré, M. Sankoh\n- **Silkeborg IF**: A. Andrésen, J. Gammelby, R. Østrøm, S. Stüker, A. Priesborg, C. McCowatt, W. Kirk, S. Berger, O. Ross, M. Hansen, A. Simmelhack\n\nPrediction:\n\n**Randers 2–1 Silkeborg**. Home edge and better preseason form give the hosts a slight lean. 👊",
+            "generated_at": "2026-07-27T04:45:32.036151+00:00"
           },
           "live_websocket": true
         },
@@ -2247,8 +2247,8 @@
         ],
         "sr_stats": null,
         "ai_preview": {
-          "text": "**Randers host Silkeborg in a season-opener that screams classic playoff vibes** — both clubs hunting early momentum in the Danish Superliga's fresh campaign. 🔴\n\nRanders come in steadier (1W 2D 2L), grinding out results at home where they hammered Notts County 3-1. Silkeborg are spottier (2W 3L), though that 6-0 demolition of Thisted shows they can explode when it clicks. The hosts should have the edge here.\n\nKey storylines:\n\n- **Randers' attacking trio** of Mahmoud, Touré, and Sankoh will be hungry to translate home advantage into an early win\n- **Silkeborg's defensive shape** under pressure — they've leaked goals in spells and can't afford a slow start without P. Ganchas\n- **Midfield battle** between **Greve Petersen & Björkengren** (Randers) versus **Kirk & McCowatt** (Silkeborg) will dictate tempo and transition\n\nExpected lineups:\n\n- **Randers FC**: P. Izzo, W. Dammers, D. Høegh, N. Dyhr, L. Lissens, M. Greve Petersen, J. Björkengren, W. Caddy, E. Mahmoud, M. Touré, M. Sankoh\n- **Silkeborg IF**: A. Andrésen, J. Gammelby, R. Østrøm, S. Stüker, A. Priesborg, C. McCowatt, W. Kirk, S. Berger, O. Ross, M. Hansen, A. Simmelhack\n\nPrediction:\n\n**Randers 2–0 Silkeborg** — home comfort and recent consistency give the hosts a slight edge. 📊",
-          "generated_at": "2026-07-26T17:45:32.546389+00:00"
+          "text": "**Randers kick off the new season at home with a steadier hand than their guests** — both sides are shaking off preseason rust, but the hosts have momentum on their side. 🔥\n\nRanders showed bite in their last outing (3-1 over Notts County), while Silkeborg's form is spottier: they've won two but lost three, including a stumble away to Aarhus Fremad. The lack of **P. Ganchas** is a stinger for Silkeborg's depth.\n\nKey storylines:\n\n- **M. Sankoh** leading Randers' attack at home; the forward will fancy picking apart a Silkeborg backline that's been leaky\n- **W. Kirk** and **C. McCowatt** tasked with controlling Silkeborg's midfield and disrupting Randers' rhythm\n- Randers' defensive solidity (only conceded 4 across their warm-up run) versus Silkeborg's unpredictable finish\n\nExpected lineups:\n\n- **Randers FC**: P. Izzo, W. Dammers, D. Høegh, N. Dyhr, L. Lissens, M. Greve Petersen, J. Björkengren, W. Caddy, E. Mahmoud, M. Touré, M. Sankoh\n- **Silkeborg IF**: A. Andrésen, J. Gammelby, R. Østrøm, S. Stüker, A. Priesborg, C. McCowatt, W. Kirk, S. Berger, O. Ross, M. Hansen, A. Simmelhack\n\nPrediction:\n\n**Randers 2–1 Silkeborg**. Home edge and better preseason form give the hosts a slight lean. 👊",
+          "generated_at": "2026-07-27T04:45:32.036151+00:00"
         },
         "live_websocket": true,
         "home_form": {
@@ -2706,7 +2706,7 @@
         "prob_draw": 23.4,
         "prob_away_win": 25.9,
         "predicted_result": "H",
-        "expected_home_goals": 1.717,
+        "expected_home_goals": 1.718,
         "expected_away_goals": 1.428,
         "prob_over_15": 81.8,
         "prob_over_25": 62,
@@ -3457,7 +3457,7 @@
         "prob_away_win": 37,
         "predicted_result": "A",
         "expected_home_goals": 1.31,
-        "expected_away_goals": 1.146,
+        "expected_away_goals": 1.147,
         "prob_over_15": 67.9,
         "prob_over_25": 43.3,
         "prob_over_35": 23.5,
@@ -5582,16 +5582,16 @@
         },
         "created_at": "2026-07-23T16:01:09.990319+00:00",
         "prob_home_win": 52,
-        "prob_draw": 26.2,
+        "prob_draw": 26.3,
         "prob_away_win": 21.8,
         "predicted_result": "H",
-        "expected_home_goals": 1.598,
-        "expected_away_goals": 1.04,
-        "prob_over_15": 74,
+        "expected_home_goals": 1.597,
+        "expected_away_goals": 1.038,
+        "prob_over_15": 73.9,
         "prob_over_25": 49.6,
         "prob_over_35": 26.8,
         "prob_btts_yes": 51.7,
-        "confidence": 0.5198,
+        "confidence": 0.5199,
         "model_version": "dc-blend-v1",
         "most_likely_score": "1-1",
         "favorite": "H",
@@ -6130,16 +6130,16 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.89,
-          "odds_draw": 3.16,
-          "odds_away": 4.3,
-          "odds_over_15": 1.47,
-          "odds_over_25": 2.45,
-          "odds_over_35": 4.67,
-          "odds_under_15": 2.53,
+          "odds_home": 1.93,
+          "odds_draw": 3.13,
+          "odds_away": 4.16,
+          "odds_over_15": 1.48,
+          "odds_over_25": 2.46,
+          "odds_over_35": 4.71,
+          "odds_under_15": 2.52,
           "odds_under_25": 1.51,
-          "odds_under_35": 1.17,
-          "odds_btts_yes": 2.17,
+          "odds_under_35": 1.16,
+          "odds_btts_yes": 2.15,
           "odds_btts_no": 1.63,
           "actual_home_xg": null,
           "actual_away_xg": null,
@@ -6284,21 +6284,21 @@
           "live_websocket": true
         },
         "created_at": "2026-07-23T16:01:09.998379+00:00",
-        "prob_home_win": 49.1,
-        "prob_draw": 29.3,
+        "prob_home_win": 48.9,
+        "prob_draw": 29.5,
         "prob_away_win": 21.6,
         "predicted_result": "H",
         "expected_home_goals": 1.064,
-        "expected_away_goals": 1.061,
+        "expected_away_goals": 1.062,
         "prob_over_15": 63.4,
         "prob_over_25": 38.2,
         "prob_over_35": 19.6,
         "prob_btts_yes": 42.9,
-        "confidence": 0.4908,
+        "confidence": 0.4887,
         "model_version": "dc-blend-v1",
         "most_likely_score": "1-1",
         "favorite": "H",
-        "favorite_prob": 49.1,
+        "favorite_prob": 48.9,
         "favorite_recommend": false,
         "over_15_recommend": false,
         "over_25_recommend": false,
@@ -6367,16 +6367,16 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.89,
-        "odds_draw": 3.16,
-        "odds_away": 4.3,
-        "odds_over_15": 1.47,
-        "odds_over_25": 2.45,
-        "odds_over_35": 4.67,
-        "odds_under_15": 2.53,
+        "odds_home": 1.93,
+        "odds_draw": 3.13,
+        "odds_away": 4.16,
+        "odds_over_15": 1.48,
+        "odds_over_25": 2.46,
+        "odds_over_35": 4.71,
+        "odds_under_15": 2.52,
         "odds_under_25": 1.51,
-        "odds_under_35": 1.17,
-        "odds_btts_yes": 2.17,
+        "odds_under_35": 1.16,
+        "odds_btts_yes": 2.15,
         "odds_btts_no": 1.63,
         "actual_home_xg": null,
         "actual_away_xg": null,
@@ -6840,17 +6840,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.12,
-          "odds_draw": 3.17,
-          "odds_away": 3.45,
-          "odds_over_15": 1.37,
-          "odds_over_25": 2.16,
-          "odds_over_35": 3.87,
-          "odds_under_15": 2.9,
-          "odds_under_25": 1.64,
-          "odds_under_35": 1.23,
-          "odds_btts_yes": 1.88,
-          "odds_btts_no": 1.83,
+          "odds_home": 2.18,
+          "odds_draw": 3.12,
+          "odds_away": 3.34,
+          "odds_over_15": 1.38,
+          "odds_over_25": 2.18,
+          "odds_over_35": 3.93,
+          "odds_under_15": 2.85,
+          "odds_under_25": 1.63,
+          "odds_under_35": 1.22,
+          "odds_btts_yes": 1.9,
+          "odds_btts_no": 1.82,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -6935,21 +6935,21 @@
           "live_websocket": false
         },
         "created_at": "2026-07-23T16:01:10.004384+00:00",
-        "prob_home_win": 43.8,
-        "prob_draw": 29.3,
-        "prob_away_win": 26.9,
+        "prob_home_win": 42.4,
+        "prob_draw": 29.6,
+        "prob_away_win": 28,
         "predicted_result": "H",
         "expected_home_goals": 1.199,
-        "expected_away_goals": 1.121,
-        "prob_over_15": 68,
-        "prob_over_25": 43.1,
-        "prob_over_35": 23.6,
-        "prob_btts_yes": 49.3,
-        "confidence": 0.438,
+        "expected_away_goals": 1.123,
+        "prob_over_15": 67.8,
+        "prob_over_25": 43,
+        "prob_over_35": 23.3,
+        "prob_btts_yes": 49.1,
+        "confidence": 0.4235,
         "model_version": "dc-blend-v1",
         "most_likely_score": "1-1",
         "favorite": "H",
-        "favorite_prob": 43.8,
+        "favorite_prob": 42.4,
         "favorite_recommend": false,
         "over_15_recommend": false,
         "over_25_recommend": false,
@@ -7024,17 +7024,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.12,
-        "odds_draw": 3.17,
-        "odds_away": 3.45,
-        "odds_over_15": 1.37,
-        "odds_over_25": 2.16,
-        "odds_over_35": 3.87,
-        "odds_under_15": 2.9,
-        "odds_under_25": 1.64,
-        "odds_under_35": 1.23,
-        "odds_btts_yes": 1.88,
-        "odds_btts_no": 1.83,
+        "odds_home": 2.19,
+        "odds_draw": 3.11,
+        "odds_away": 3.35,
+        "odds_over_15": 1.38,
+        "odds_over_25": 2.18,
+        "odds_over_35": 3.93,
+        "odds_under_15": 2.85,
+        "odds_under_25": 1.63,
+        "odds_under_35": 1.22,
+        "odds_btts_yes": 1.9,
+        "odds_btts_no": 1.82,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -7560,8 +7560,8 @@
         "prob_draw": 27.8,
         "prob_away_win": 42.4,
         "predicted_result": "A",
-        "expected_home_goals": 1.868,
-        "expected_away_goals": 1.241,
+        "expected_home_goals": 1.864,
+        "expected_away_goals": 1.24,
         "prob_over_15": 73.7,
         "prob_over_25": 50.8,
         "prob_over_35": 29.8,
@@ -8191,8 +8191,8 @@
         "prob_draw": 21.2,
         "prob_away_win": 62.4,
         "predicted_result": "A",
-        "expected_home_goals": 1.343,
-        "expected_away_goals": 1.732,
+        "expected_home_goals": 1.342,
+        "expected_away_goals": 1.734,
         "prob_over_15": 76.6,
         "prob_over_25": 54.6,
         "prob_over_35": 33.1,
@@ -10474,8 +10474,26 @@
           "unavailable_players": {
             "home": [
               {
+                "name": "Aleks Stojaković",
+                "status": "injured",
+                "reason": "",
+                "expected_return": null
+              },
+              {
+                "name": "Dani Rodríguez",
+                "status": "injured",
+                "reason": "",
+                "expected_return": null
+              },
+              {
                 "name": "Luka Stojković",
                 "status": "injured",
+                "reason": "",
+                "expected_return": null
+              },
+              {
+                "name": "Monsef Bakrar",
+                "status": "doubtful",
                 "reason": "",
                 "expected_return": null
               }
@@ -10486,6 +10504,12 @@
                 "status": "suspended",
                 "reason": "red_card_suspension",
                 "expected_return": "2026-08-23"
+              },
+              {
+                "name": "Mattias Käit",
+                "status": "injured",
+                "reason": "",
+                "expected_return": null
               }
             ]
           },
@@ -10552,8 +10576,8 @@
         "prob_draw": 19.3,
         "prob_away_win": 12.7,
         "predicted_result": "H",
-        "expected_home_goals": 1.804,
-        "expected_away_goals": 1.844,
+        "expected_home_goals": 1.803,
+        "expected_away_goals": 1.846,
         "prob_over_15": 79.7,
         "prob_over_25": 60.1,
         "prob_over_35": 38.6,
@@ -10702,8 +10726,26 @@
         "unavailable_players": {
           "home": [
             {
+              "name": "Aleks Stojaković",
+              "status": "injured",
+              "reason": "",
+              "expected_return": null
+            },
+            {
+              "name": "Dani Rodríguez",
+              "status": "injured",
+              "reason": "",
+              "expected_return": null
+            },
+            {
               "name": "Luka Stojković",
               "status": "injured",
+              "reason": "",
+              "expected_return": null
+            },
+            {
+              "name": "Monsef Bakrar",
+              "status": "doubtful",
               "reason": "",
               "expected_return": null
             }
@@ -10714,6 +10756,12 @@
               "status": "suspended",
               "reason": "red_card_suspension",
               "expected_return": "2026-08-23"
+            },
+            {
+              "name": "Mattias Käit",
+              "status": "injured",
+              "reason": "",
+              "expected_return": null
             }
           ]
         },
@@ -11688,7 +11736,7 @@
         "prob_away_win": 13.6,
         "predicted_result": "H",
         "expected_home_goals": 2.211,
-        "expected_away_goals": 1.708,
+        "expected_away_goals": 1.705,
         "prob_over_15": 79.7,
         "prob_over_25": 60,
         "prob_over_35": 38.5,
@@ -12235,8 +12283,8 @@
         "prob_draw": 24.1,
         "prob_away_win": 24.7,
         "predicted_result": "H",
-        "expected_home_goals": 2.062,
-        "expected_away_goals": 0.953,
+        "expected_home_goals": 2.061,
+        "expected_away_goals": 0.954,
         "prob_over_15": 79.7,
         "prob_over_25": 59.2,
         "prob_over_35": 38.4,
@@ -13444,7 +13492,7 @@
         "prob_draw": 27.4,
         "prob_away_win": 27.6,
         "predicted_result": "H",
-        "expected_home_goals": 1.7,
+        "expected_home_goals": 1.699,
         "expected_away_goals": 0.77,
         "prob_over_15": 72.4,
         "prob_over_25": 48.9,
@@ -14105,8 +14153,8 @@
         "prob_draw": 25.7,
         "prob_away_win": 14.9,
         "predicted_result": "H",
-        "expected_home_goals": 1.348,
-        "expected_away_goals": 1.018,
+        "expected_home_goals": 1.347,
+        "expected_away_goals": 1.019,
         "prob_over_15": 67.4,
         "prob_over_25": 42.9,
         "prob_over_35": 23,
@@ -14783,8 +14831,8 @@
         "prob_draw": 30,
         "prob_away_win": 45.7,
         "predicted_result": "A",
-        "expected_home_goals": 1.029,
-        "expected_away_goals": 1.258,
+        "expected_home_goals": 1.028,
+        "expected_away_goals": 1.257,
         "prob_over_15": 65.6,
         "prob_over_25": 40.8,
         "prob_over_35": 21.6,
@@ -18530,6 +18578,12 @@
                 "expected_return": "2026-08-01"
               },
               {
+                "name": "Jesper Hansen",
+                "status": "injured",
+                "reason": "",
+                "expected_return": null
+              },
+              {
                 "name": "Kevin Yakob",
                 "status": "injured",
                 "reason": "Unknown",
@@ -18736,6 +18790,12 @@
               "status": "injured",
               "reason": "fa_charge_of_improper_conduct",
               "expected_return": "2026-08-01"
+            },
+            {
+              "name": "Jesper Hansen",
+              "status": "injured",
+              "reason": "",
+              "expected_return": null
             },
             {
               "name": "Kevin Yakob",
@@ -18991,485 +19051,6 @@
           "fail_to_score_pct": 0,
           "avg_goals_scored_1h": 0.88,
           "avg_goals_conceded_1h": 0.25
-        }
-      }
-    },
-    {
-      "event_id": 216508,
-      "prediction": {
-        "id": 330,
-        "event": {
-          "id": 216508,
-          "league": {
-            "id": 7,
-            "name": "Champions League",
-            "country": "Europe",
-            "is_women": false,
-            "current_season": {
-              "id": 1112,
-              "name": "UEFA Champions League 26/27",
-              "year": 2026,
-              "start_date": "2026-07-01",
-              "end_date": "2027-06-30"
-            }
-          },
-          "season": {
-            "id": 1112,
-            "name": "UEFA Champions League 26/27",
-            "year": 2026
-          },
-          "home_team": "Hapoel Be'er Sheva",
-          "away_team": "Víkingur Reykjavík",
-          "home_team_obj": {
-            "id": 416,
-            "name": "Hapoel Be'er Sheva",
-            "short_name": "H. Be'er Sheva",
-            "country": "Israel",
-            "coach": {
-              "name": "Ran Kozuk",
-              "shortName": "R. Kozuk"
-            },
-            "venue": {
-              "id": 397,
-              "name": "Toto Turner Stadium",
-              "city": "Beersheba",
-              "country": "Israel",
-              "capacity": 16000
-            }
-          },
-          "away_team_obj": {
-            "id": 3452,
-            "name": "Víkingur Reykjavík",
-            "short_name": "Víkingur",
-            "country": "Iceland",
-            "coach": {
-              "name": "Solvi Geir",
-              "shortName": "S. Geir"
-            },
-            "venue": null
-          },
-          "event_date": "2026-07-29T21:30:00+04:00",
-          "round_number": 2,
-          "round_name": "Qualification Round 2",
-          "group_name": null,
-          "status": "notstarted",
-          "home_score": null,
-          "away_score": null,
-          "home_score_ht": null,
-          "away_score_ht": null,
-          "current_minute": null,
-          "period": "",
-          "odds_home": 1.59,
-          "odds_draw": 3.94,
-          "odds_away": 5.16,
-          "odds_over_15": 1.21,
-          "odds_over_25": 1.69,
-          "odds_over_35": 2.71,
-          "odds_under_15": 3.98,
-          "odds_under_25": 2.08,
-          "odds_under_35": 1.42,
-          "odds_btts_yes": 1.73,
-          "odds_btts_no": 1.99,
-          "actual_home_xg": null,
-          "actual_away_xg": null,
-          "home_xg_live": null,
-          "away_xg_live": null,
-          "penalty_shootout": null,
-          "extra_time_score": null,
-          "is_local_derby": null,
-          "is_neutral_ground": null,
-          "travel_distance_km": null,
-          "weather_code": null,
-          "wind_speed": null,
-          "temperature_c": null,
-          "pitch_condition": null,
-          "attendance": null,
-          "referee": null,
-          "home_coach": {
-            "id": 632,
-            "name": "Ran Kozuk",
-            "short_name": "R. Kozuk",
-            "country": "Israel",
-            "profile": "balanced",
-            "preferred_formation": "",
-            "pressing_intensity": null,
-            "defensive_line": "",
-            "top_styles": []
-          },
-          "away_coach": {
-            "id": 1840,
-            "name": "Solvi Geir",
-            "short_name": "S. Geir",
-            "country": "Iceland",
-            "profile": "",
-            "preferred_formation": "",
-            "pressing_intensity": null,
-            "defensive_line": "",
-            "top_styles": []
-          },
-          "unavailable_players": {
-            "home": [
-              {
-                "name": "João Victor",
-                "status": "injured",
-                "reason": "Hamstring Injury",
-                "expected_return": "2026-08-31"
-              }
-            ],
-            "away": []
-          },
-          "venue": {
-            "id": 397,
-            "name": "Toto Turner Stadium",
-            "city": "Beersheba",
-            "country": "Israel",
-            "capacity": 16000,
-            "latitude": null,
-            "longitude": null,
-            "pitch_x": null,
-            "pitch_y": null,
-            "built_year": null
-          },
-          "incidents": null,
-          "live_stats": null,
-          "lineups": null,
-          "shotmap": null,
-          "momentum": null,
-          "xg_per_minute": null,
-          "average_positions": null,
-          "jerseys": null,
-          "funfacts": null,
-          "sr_stats": null,
-          "ai_preview": null,
-          "live_websocket": false
-        },
-        "created_at": "2026-07-26T18:05:10.352313+00:00",
-        "prob_home_win": 58.4,
-        "prob_draw": 23.6,
-        "prob_away_win": 18,
-        "predicted_result": "H",
-        "expected_home_goals": null,
-        "expected_away_goals": null,
-        "prob_over_15": 76.7,
-        "prob_over_25": 55.2,
-        "prob_over_35": 34.4,
-        "prob_btts_yes": 53.5,
-        "confidence": 0.5842,
-        "model_version": "dc-blend-v1",
-        "most_likely_score": null,
-        "favorite": "H",
-        "favorite_prob": 58.4,
-        "favorite_recommend": false,
-        "over_15_recommend": false,
-        "over_25_recommend": false,
-        "over_35_recommend": false,
-        "btts_recommend": false,
-        "winner_recommend": false
-      },
-      "event_detail": {
-        "id": 216508,
-        "league": {
-          "id": 7,
-          "name": "Champions League",
-          "country": "Europe",
-          "is_women": false,
-          "current_season": {
-            "id": 1112,
-            "name": "UEFA Champions League 26/27",
-            "year": 2026,
-            "start_date": "2026-07-01",
-            "end_date": "2027-06-30"
-          }
-        },
-        "season": {
-          "id": 1112,
-          "name": "UEFA Champions League 26/27",
-          "year": 2026
-        },
-        "home_team": "Hapoel Be'er Sheva",
-        "away_team": "Víkingur Reykjavík",
-        "home_team_obj": {
-          "id": 416,
-          "name": "Hapoel Be'er Sheva",
-          "short_name": "H. Be'er Sheva",
-          "country": "Israel",
-          "coach": {
-            "name": "Ran Kozuk",
-            "shortName": "R. Kozuk"
-          },
-          "venue": {
-            "id": 397,
-            "name": "Toto Turner Stadium",
-            "city": "Beersheba",
-            "country": "Israel",
-            "capacity": 16000
-          }
-        },
-        "away_team_obj": {
-          "id": 3452,
-          "name": "Víkingur Reykjavík",
-          "short_name": "Víkingur",
-          "country": "Iceland",
-          "coach": {
-            "name": "Solvi Geir",
-            "shortName": "S. Geir"
-          },
-          "venue": null
-        },
-        "event_date": "2026-07-29T20:30:00+03:00",
-        "round_number": 2,
-        "round_name": "Qualification Round 2",
-        "group_name": null,
-        "status": "notstarted",
-        "home_score": null,
-        "away_score": null,
-        "home_score_ht": null,
-        "away_score_ht": null,
-        "current_minute": null,
-        "period": "",
-        "odds_home": 1.59,
-        "odds_draw": 3.94,
-        "odds_away": 5.16,
-        "odds_over_15": 1.21,
-        "odds_over_25": 1.69,
-        "odds_over_35": 2.71,
-        "odds_under_15": 3.98,
-        "odds_under_25": 2.08,
-        "odds_under_35": 1.42,
-        "odds_btts_yes": 1.73,
-        "odds_btts_no": 1.99,
-        "actual_home_xg": null,
-        "actual_away_xg": null,
-        "home_xg_live": null,
-        "away_xg_live": null,
-        "penalty_shootout": null,
-        "extra_time_score": null,
-        "is_local_derby": null,
-        "is_neutral_ground": null,
-        "travel_distance_km": null,
-        "weather_code": null,
-        "wind_speed": null,
-        "temperature_c": null,
-        "pitch_condition": null,
-        "attendance": null,
-        "referee": null,
-        "home_coach": {
-          "id": 632,
-          "name": "Ran Kozuk",
-          "short_name": "R. Kozuk",
-          "country": "Israel",
-          "profile": "balanced",
-          "preferred_formation": "",
-          "pressing_intensity": null,
-          "defensive_line": "",
-          "top_styles": []
-        },
-        "away_coach": {
-          "id": 1840,
-          "name": "Solvi Geir",
-          "short_name": "S. Geir",
-          "country": "Iceland",
-          "profile": "",
-          "preferred_formation": "",
-          "pressing_intensity": null,
-          "defensive_line": "",
-          "top_styles": []
-        },
-        "unavailable_players": {
-          "home": [
-            {
-              "name": "João Victor",
-              "status": "injured",
-              "reason": "Hamstring Injury",
-              "expected_return": "2026-08-31"
-            }
-          ],
-          "away": []
-        },
-        "venue": {
-          "id": 397,
-          "name": "Toto Turner Stadium",
-          "city": "Beersheba",
-          "country": "Israel",
-          "capacity": 16000,
-          "latitude": null,
-          "longitude": null,
-          "pitch_x": null,
-          "pitch_y": null,
-          "built_year": null
-        },
-        "live_stats": null,
-        "jerseys": null,
-        "funfacts": null,
-        "sr_stats": null,
-        "ai_preview": null,
-        "live_websocket": false,
-        "home_form": {
-          "calculated_at": "2026-07-27",
-          "matches_played": 1,
-          "form_string": "L",
-          "wins": 0,
-          "draws": 0,
-          "losses": 1,
-          "points_last_n": 0,
-          "goals_scored_last_n": 1,
-          "goals_conceded_last_n": 2,
-          "avg_xg": 1,
-          "avg_xg_conceded": 2,
-          "avg_shots": 0,
-          "avg_shots_on_target": 0,
-          "avg_key_passes": 0,
-          "goal_conversion_rate": 0,
-          "defensive_efficiency": 0,
-          "clean_sheets": 0,
-          "avg_pass_accuracy": 0,
-          "duel_win_rate": 0,
-          "aerial_win_rate": 0,
-          "avg_fouls": 0,
-          "avg_yellow_cards": 2,
-          "home_ppg": 0,
-          "away_ppg": 0,
-          "home_goals_scored": 0,
-          "home_goals_conceded": 0,
-          "away_goals_scored": 1,
-          "away_goals_conceded": 2,
-          "avg_team_rating": 0
-        },
-        "away_form": {
-          "calculated_at": "2026-07-27",
-          "matches_played": 3,
-          "form_string": "WDW",
-          "wins": 2,
-          "draws": 1,
-          "losses": 0,
-          "points_last_n": 7,
-          "goals_scored_last_n": 5,
-          "goals_conceded_last_n": 3,
-          "avg_xg": 1.6666666666666667,
-          "avg_xg_conceded": 1,
-          "avg_shots": 3,
-          "avg_shots_on_target": 0.6666666666666666,
-          "avg_key_passes": 2,
-          "goal_conversion_rate": 0,
-          "defensive_efficiency": 0,
-          "clean_sheets": 1,
-          "avg_pass_accuracy": 77.11598746081505,
-          "duel_win_rate": 0.48484848484848486,
-          "aerial_win_rate": 0.6,
-          "avg_fouls": 3,
-          "avg_yellow_cards": 1.3333333333333333,
-          "home_ppg": 3,
-          "away_ppg": 1,
-          "home_goals_scored": 3,
-          "home_goals_conceded": 1,
-          "away_goals_scored": 2,
-          "away_goals_conceded": 2,
-          "avg_team_rating": 6.735714285714285
-        },
-        "head_to_head": {
-          "total_matches": 1,
-          "home_wins": 0,
-          "draws": 0,
-          "away_wins": 1,
-          "home_goals": 1,
-          "away_goals": 2,
-          "avg_total_goals": 3,
-          "home_win_rate": 0,
-          "away_win_rate": 1,
-          "recent_matches": [
-            {
-              "away": "Hapoel Be'er Sheva",
-              "date": "2026-07-21T19:00:00+00:00",
-              "home": "Víkingur Reykjavík",
-              "score": "2-1"
-            }
-          ]
-        },
-        "lineups": null,
-        "social": []
-      },
-      "managers": {
-        "home": {
-          "id": 2075,
-          "name": "Ran Kozuch",
-          "short_name": "R. Kozuch",
-          "country": "Israel",
-          "current_team": {
-            "id": 416,
-            "name": "Hapoel Be'er Sheva"
-          },
-          "preferred_formation": "4-3-3",
-          "formations_used": {
-            "4-3-3": 3
-          },
-          "profile": "attacking",
-          "team_style": "soft",
-          "pressing_intensity": null,
-          "defensive_line": "",
-          "tactical_styles": [],
-          "matches_total": 3,
-          "wins": 1,
-          "draws": 1,
-          "losses": 1,
-          "win_pct": 33.3,
-          "avg_goals_scored": 2,
-          "avg_goals_conceded": 2.33,
-          "avg_possession": null,
-          "avg_shots": null,
-          "avg_shots_on_target": null,
-          "avg_xg_for": null,
-          "avg_xg_against": null,
-          "avg_corners": null,
-          "avg_yellow_cards": 0.33,
-          "avg_red_cards": 0,
-          "avg_fouls": null,
-          "clean_sheet_pct": 0,
-          "btts_pct": 100,
-          "over_25_pct": 100,
-          "over_15_pct": 100,
-          "fail_to_score_pct": 0,
-          "avg_goals_scored_1h": 1.33,
-          "avg_goals_conceded_1h": 1
-        },
-        "away": {
-          "id": 1840,
-          "name": "Solvi Geir",
-          "short_name": "S. Geir",
-          "country": "Iceland",
-          "current_team": {
-            "id": 3452,
-            "name": "Víkingur Reykjavík"
-          },
-          "preferred_formation": "",
-          "formations_used": null,
-          "profile": "",
-          "team_style": "",
-          "pressing_intensity": null,
-          "defensive_line": "",
-          "tactical_styles": [],
-          "matches_total": 0,
-          "wins": 0,
-          "draws": 0,
-          "losses": 0,
-          "win_pct": null,
-          "avg_goals_scored": null,
-          "avg_goals_conceded": null,
-          "avg_possession": null,
-          "avg_shots": null,
-          "avg_shots_on_target": null,
-          "avg_xg_for": null,
-          "avg_xg_against": null,
-          "avg_corners": null,
-          "avg_yellow_cards": null,
-          "avg_red_cards": null,
-          "avg_fouls": null,
-          "clean_sheet_pct": null,
-          "btts_pct": null,
-          "over_25_pct": null,
-          "over_15_pct": null,
-          "fail_to_score_pct": null,
-          "avg_goals_scored_1h": null,
-          "avg_goals_conceded_1h": null
         }
       }
     },
@@ -20040,6 +19621,485 @@
           "fail_to_score_pct": 25,
           "avg_goals_scored_1h": 0.75,
           "avg_goals_conceded_1h": 0.19
+        }
+      }
+    },
+    {
+      "event_id": 216508,
+      "prediction": {
+        "id": 330,
+        "event": {
+          "id": 216508,
+          "league": {
+            "id": 7,
+            "name": "Champions League",
+            "country": "Europe",
+            "is_women": false,
+            "current_season": {
+              "id": 1112,
+              "name": "UEFA Champions League 26/27",
+              "year": 2026,
+              "start_date": "2026-07-01",
+              "end_date": "2027-06-30"
+            }
+          },
+          "season": {
+            "id": 1112,
+            "name": "UEFA Champions League 26/27",
+            "year": 2026
+          },
+          "home_team": "Hapoel Be'er Sheva",
+          "away_team": "Víkingur Reykjavík",
+          "home_team_obj": {
+            "id": 416,
+            "name": "Hapoel Be'er Sheva",
+            "short_name": "H. Be'er Sheva",
+            "country": "Israel",
+            "coach": {
+              "name": "Ran Kozuk",
+              "shortName": "R. Kozuk"
+            },
+            "venue": {
+              "id": 397,
+              "name": "Toto Turner Stadium",
+              "city": "Beersheba",
+              "country": "Israel",
+              "capacity": 16000
+            }
+          },
+          "away_team_obj": {
+            "id": 3452,
+            "name": "Víkingur Reykjavík",
+            "short_name": "Víkingur",
+            "country": "Iceland",
+            "coach": {
+              "name": "Solvi Geir",
+              "shortName": "S. Geir"
+            },
+            "venue": null
+          },
+          "event_date": "2026-07-29T21:30:00+04:00",
+          "round_number": 2,
+          "round_name": "Qualification Round 2",
+          "group_name": null,
+          "status": "notstarted",
+          "home_score": null,
+          "away_score": null,
+          "home_score_ht": null,
+          "away_score_ht": null,
+          "current_minute": null,
+          "period": "",
+          "odds_home": 1.59,
+          "odds_draw": 3.94,
+          "odds_away": 5.16,
+          "odds_over_15": 1.21,
+          "odds_over_25": 1.69,
+          "odds_over_35": 2.71,
+          "odds_under_15": 3.98,
+          "odds_under_25": 2.08,
+          "odds_under_35": 1.42,
+          "odds_btts_yes": 1.73,
+          "odds_btts_no": 1.99,
+          "actual_home_xg": null,
+          "actual_away_xg": null,
+          "home_xg_live": null,
+          "away_xg_live": null,
+          "penalty_shootout": null,
+          "extra_time_score": null,
+          "is_local_derby": null,
+          "is_neutral_ground": null,
+          "travel_distance_km": null,
+          "weather_code": null,
+          "wind_speed": null,
+          "temperature_c": null,
+          "pitch_condition": null,
+          "attendance": null,
+          "referee": null,
+          "home_coach": {
+            "id": 632,
+            "name": "Ran Kozuk",
+            "short_name": "R. Kozuk",
+            "country": "Israel",
+            "profile": "balanced",
+            "preferred_formation": "",
+            "pressing_intensity": null,
+            "defensive_line": "",
+            "top_styles": []
+          },
+          "away_coach": {
+            "id": 1840,
+            "name": "Solvi Geir",
+            "short_name": "S. Geir",
+            "country": "Iceland",
+            "profile": "",
+            "preferred_formation": "",
+            "pressing_intensity": null,
+            "defensive_line": "",
+            "top_styles": []
+          },
+          "unavailable_players": {
+            "home": [
+              {
+                "name": "João Victor",
+                "status": "injured",
+                "reason": "Hamstring Injury",
+                "expected_return": "2026-08-31"
+              }
+            ],
+            "away": []
+          },
+          "venue": {
+            "id": 397,
+            "name": "Toto Turner Stadium",
+            "city": "Beersheba",
+            "country": "Israel",
+            "capacity": 16000,
+            "latitude": null,
+            "longitude": null,
+            "pitch_x": null,
+            "pitch_y": null,
+            "built_year": null
+          },
+          "incidents": null,
+          "live_stats": null,
+          "lineups": null,
+          "shotmap": null,
+          "momentum": null,
+          "xg_per_minute": null,
+          "average_positions": null,
+          "jerseys": null,
+          "funfacts": null,
+          "sr_stats": null,
+          "ai_preview": null,
+          "live_websocket": false
+        },
+        "created_at": "2026-07-26T18:05:10.352313+00:00",
+        "prob_home_win": 58.4,
+        "prob_draw": 23.6,
+        "prob_away_win": 18,
+        "predicted_result": "H",
+        "expected_home_goals": null,
+        "expected_away_goals": null,
+        "prob_over_15": 76.7,
+        "prob_over_25": 55.2,
+        "prob_over_35": 34.4,
+        "prob_btts_yes": 53.5,
+        "confidence": 0.5842,
+        "model_version": "dc-blend-v1",
+        "most_likely_score": null,
+        "favorite": "H",
+        "favorite_prob": 58.4,
+        "favorite_recommend": false,
+        "over_15_recommend": false,
+        "over_25_recommend": false,
+        "over_35_recommend": false,
+        "btts_recommend": false,
+        "winner_recommend": false
+      },
+      "event_detail": {
+        "id": 216508,
+        "league": {
+          "id": 7,
+          "name": "Champions League",
+          "country": "Europe",
+          "is_women": false,
+          "current_season": {
+            "id": 1112,
+            "name": "UEFA Champions League 26/27",
+            "year": 2026,
+            "start_date": "2026-07-01",
+            "end_date": "2027-06-30"
+          }
+        },
+        "season": {
+          "id": 1112,
+          "name": "UEFA Champions League 26/27",
+          "year": 2026
+        },
+        "home_team": "Hapoel Be'er Sheva",
+        "away_team": "Víkingur Reykjavík",
+        "home_team_obj": {
+          "id": 416,
+          "name": "Hapoel Be'er Sheva",
+          "short_name": "H. Be'er Sheva",
+          "country": "Israel",
+          "coach": {
+            "name": "Ran Kozuk",
+            "shortName": "R. Kozuk"
+          },
+          "venue": {
+            "id": 397,
+            "name": "Toto Turner Stadium",
+            "city": "Beersheba",
+            "country": "Israel",
+            "capacity": 16000
+          }
+        },
+        "away_team_obj": {
+          "id": 3452,
+          "name": "Víkingur Reykjavík",
+          "short_name": "Víkingur",
+          "country": "Iceland",
+          "coach": {
+            "name": "Solvi Geir",
+            "shortName": "S. Geir"
+          },
+          "venue": null
+        },
+        "event_date": "2026-07-29T20:30:00+03:00",
+        "round_number": 2,
+        "round_name": "Qualification Round 2",
+        "group_name": null,
+        "status": "notstarted",
+        "home_score": null,
+        "away_score": null,
+        "home_score_ht": null,
+        "away_score_ht": null,
+        "current_minute": null,
+        "period": "",
+        "odds_home": 1.59,
+        "odds_draw": 3.94,
+        "odds_away": 5.16,
+        "odds_over_15": 1.21,
+        "odds_over_25": 1.69,
+        "odds_over_35": 2.71,
+        "odds_under_15": 3.98,
+        "odds_under_25": 2.08,
+        "odds_under_35": 1.42,
+        "odds_btts_yes": 1.73,
+        "odds_btts_no": 1.99,
+        "actual_home_xg": null,
+        "actual_away_xg": null,
+        "home_xg_live": null,
+        "away_xg_live": null,
+        "penalty_shootout": null,
+        "extra_time_score": null,
+        "is_local_derby": null,
+        "is_neutral_ground": null,
+        "travel_distance_km": null,
+        "weather_code": null,
+        "wind_speed": null,
+        "temperature_c": null,
+        "pitch_condition": null,
+        "attendance": null,
+        "referee": null,
+        "home_coach": {
+          "id": 632,
+          "name": "Ran Kozuk",
+          "short_name": "R. Kozuk",
+          "country": "Israel",
+          "profile": "balanced",
+          "preferred_formation": "",
+          "pressing_intensity": null,
+          "defensive_line": "",
+          "top_styles": []
+        },
+        "away_coach": {
+          "id": 1840,
+          "name": "Solvi Geir",
+          "short_name": "S. Geir",
+          "country": "Iceland",
+          "profile": "",
+          "preferred_formation": "",
+          "pressing_intensity": null,
+          "defensive_line": "",
+          "top_styles": []
+        },
+        "unavailable_players": {
+          "home": [
+            {
+              "name": "João Victor",
+              "status": "injured",
+              "reason": "Hamstring Injury",
+              "expected_return": "2026-08-31"
+            }
+          ],
+          "away": []
+        },
+        "venue": {
+          "id": 397,
+          "name": "Toto Turner Stadium",
+          "city": "Beersheba",
+          "country": "Israel",
+          "capacity": 16000,
+          "latitude": null,
+          "longitude": null,
+          "pitch_x": null,
+          "pitch_y": null,
+          "built_year": null
+        },
+        "live_stats": null,
+        "jerseys": null,
+        "funfacts": null,
+        "sr_stats": null,
+        "ai_preview": null,
+        "live_websocket": false,
+        "home_form": {
+          "calculated_at": "2026-07-27",
+          "matches_played": 1,
+          "form_string": "L",
+          "wins": 0,
+          "draws": 0,
+          "losses": 1,
+          "points_last_n": 0,
+          "goals_scored_last_n": 1,
+          "goals_conceded_last_n": 2,
+          "avg_xg": 1,
+          "avg_xg_conceded": 2,
+          "avg_shots": 0,
+          "avg_shots_on_target": 0,
+          "avg_key_passes": 0,
+          "goal_conversion_rate": 0,
+          "defensive_efficiency": 0,
+          "clean_sheets": 0,
+          "avg_pass_accuracy": 0,
+          "duel_win_rate": 0,
+          "aerial_win_rate": 0,
+          "avg_fouls": 0,
+          "avg_yellow_cards": 2,
+          "home_ppg": 0,
+          "away_ppg": 0,
+          "home_goals_scored": 0,
+          "home_goals_conceded": 0,
+          "away_goals_scored": 1,
+          "away_goals_conceded": 2,
+          "avg_team_rating": 0
+        },
+        "away_form": {
+          "calculated_at": "2026-07-27",
+          "matches_played": 3,
+          "form_string": "WDW",
+          "wins": 2,
+          "draws": 1,
+          "losses": 0,
+          "points_last_n": 7,
+          "goals_scored_last_n": 5,
+          "goals_conceded_last_n": 3,
+          "avg_xg": 1.6666666666666667,
+          "avg_xg_conceded": 1,
+          "avg_shots": 3,
+          "avg_shots_on_target": 0.6666666666666666,
+          "avg_key_passes": 2,
+          "goal_conversion_rate": 0,
+          "defensive_efficiency": 0,
+          "clean_sheets": 1,
+          "avg_pass_accuracy": 77.11598746081505,
+          "duel_win_rate": 0.48484848484848486,
+          "aerial_win_rate": 0.6,
+          "avg_fouls": 3,
+          "avg_yellow_cards": 1.3333333333333333,
+          "home_ppg": 3,
+          "away_ppg": 1,
+          "home_goals_scored": 3,
+          "home_goals_conceded": 1,
+          "away_goals_scored": 2,
+          "away_goals_conceded": 2,
+          "avg_team_rating": 6.735714285714285
+        },
+        "head_to_head": {
+          "total_matches": 1,
+          "home_wins": 0,
+          "draws": 0,
+          "away_wins": 1,
+          "home_goals": 1,
+          "away_goals": 2,
+          "avg_total_goals": 3,
+          "home_win_rate": 0,
+          "away_win_rate": 1,
+          "recent_matches": [
+            {
+              "away": "Hapoel Be'er Sheva",
+              "date": "2026-07-21T19:00:00+00:00",
+              "home": "Víkingur Reykjavík",
+              "score": "2-1"
+            }
+          ]
+        },
+        "lineups": null,
+        "social": []
+      },
+      "managers": {
+        "home": {
+          "id": 2075,
+          "name": "Ran Kozuch",
+          "short_name": "R. Kozuch",
+          "country": "Israel",
+          "current_team": {
+            "id": 416,
+            "name": "Hapoel Be'er Sheva"
+          },
+          "preferred_formation": "4-3-3",
+          "formations_used": {
+            "4-3-3": 3
+          },
+          "profile": "attacking",
+          "team_style": "soft",
+          "pressing_intensity": null,
+          "defensive_line": "",
+          "tactical_styles": [],
+          "matches_total": 3,
+          "wins": 1,
+          "draws": 1,
+          "losses": 1,
+          "win_pct": 33.3,
+          "avg_goals_scored": 2,
+          "avg_goals_conceded": 2.33,
+          "avg_possession": null,
+          "avg_shots": null,
+          "avg_shots_on_target": null,
+          "avg_xg_for": null,
+          "avg_xg_against": null,
+          "avg_corners": null,
+          "avg_yellow_cards": 0.33,
+          "avg_red_cards": 0,
+          "avg_fouls": null,
+          "clean_sheet_pct": 0,
+          "btts_pct": 100,
+          "over_25_pct": 100,
+          "over_15_pct": 100,
+          "fail_to_score_pct": 0,
+          "avg_goals_scored_1h": 1.33,
+          "avg_goals_conceded_1h": 1
+        },
+        "away": {
+          "id": 1840,
+          "name": "Solvi Geir",
+          "short_name": "S. Geir",
+          "country": "Iceland",
+          "current_team": {
+            "id": 3452,
+            "name": "Víkingur Reykjavík"
+          },
+          "preferred_formation": "",
+          "formations_used": null,
+          "profile": "",
+          "team_style": "",
+          "pressing_intensity": null,
+          "defensive_line": "",
+          "tactical_styles": [],
+          "matches_total": 0,
+          "wins": 0,
+          "draws": 0,
+          "losses": 0,
+          "win_pct": null,
+          "avg_goals_scored": null,
+          "avg_goals_conceded": null,
+          "avg_possession": null,
+          "avg_shots": null,
+          "avg_shots_on_target": null,
+          "avg_xg_for": null,
+          "avg_xg_against": null,
+          "avg_corners": null,
+          "avg_yellow_cards": null,
+          "avg_red_cards": null,
+          "avg_fouls": null,
+          "clean_sheet_pct": null,
+          "btts_pct": null,
+          "over_25_pct": null,
+          "over_15_pct": null,
+          "fail_to_score_pct": null,
+          "avg_goals_scored_1h": null,
+          "avg_goals_conceded_1h": null
         }
       }
     },
@@ -20741,7 +20801,7 @@
         "prob_draw": 22.3,
         "prob_away_win": 62.9,
         "predicted_result": "A",
-        "expected_home_goals": 1.477,
+        "expected_home_goals": 1.478,
         "expected_away_goals": 1.653,
         "prob_over_15": 76.4,
         "prob_over_25": 54.4,
@@ -21279,7 +21339,7 @@
         "prob_draw": 19.1,
         "prob_away_win": 12.2,
         "predicted_result": "H",
-        "expected_home_goals": 2.034,
+        "expected_home_goals": 2.032,
         "expected_away_goals": 1.568,
         "prob_over_15": 80,
         "prob_over_25": 60.1,
@@ -22231,7 +22291,7 @@
         "prob_draw": 24.7,
         "prob_away_win": 19.6,
         "predicted_result": "H",
-        "expected_home_goals": 1.376,
+        "expected_home_goals": 1.377,
         "expected_away_goals": 1.244,
         "prob_over_15": 72.5,
         "prob_over_25": 49,
@@ -22816,7 +22876,7 @@
         "prob_away_win": 48.1,
         "predicted_result": "A",
         "expected_home_goals": 1.26,
-        "expected_away_goals": 1.388,
+        "expected_away_goals": 1.389,
         "prob_over_15": 72.4,
         "prob_over_25": 48.8,
         "prob_over_35": 28,
@@ -23522,8 +23582,8 @@
         "prob_draw": 26,
         "prob_away_win": 19.6,
         "predicted_result": "H",
-        "expected_home_goals": 1.867,
-        "expected_away_goals": 0.851,
+        "expected_home_goals": 1.866,
+        "expected_away_goals": 0.852,
         "prob_over_15": 71.8,
         "prob_over_25": 48.1,
         "prob_over_35": 27.6,
@@ -24116,7 +24176,7 @@
         "prob_away_win": 26.9,
         "predicted_result": "H",
         "expected_home_goals": 1.203,
-        "expected_away_goals": 1.107,
+        "expected_away_goals": 1.106,
         "prob_over_15": 67.5,
         "prob_over_25": 43,
         "prob_over_35": 23.2,
@@ -24636,7 +24696,7 @@
         "prob_draw": 19,
         "prob_away_win": 14.1,
         "predicted_result": "H",
-        "expected_home_goals": 1.68,
+        "expected_home_goals": 1.681,
         "expected_away_goals": 1.115,
         "prob_over_15": 81.2,
         "prob_over_25": 61.8,
@@ -25173,7 +25233,7 @@
           "live_websocket": false
         },
         "created_at": "2026-07-23T16:01:09.825498+00:00",
-        "prob_home_win": 57.1,
+        "prob_home_win": 57.2,
         "prob_draw": 23.3,
         "prob_away_win": 19.5,
         "predicted_result": "H",
@@ -25183,11 +25243,11 @@
         "prob_over_25": 56.2,
         "prob_over_35": 33.5,
         "prob_btts_yes": 55.5,
-        "confidence": 0.5714,
+        "confidence": 0.5717,
         "model_version": "dc-blend-v1",
         "most_likely_score": "1-1",
         "favorite": "H",
-        "favorite_prob": 57.1,
+        "favorite_prob": 57.2,
         "favorite_recommend": false,
         "over_15_recommend": false,
         "over_25_recommend": false,
@@ -25810,12 +25870,12 @@
         "prob_away_win": 50,
         "predicted_result": "A",
         "expected_home_goals": 1.01,
-        "expected_away_goals": 1.445,
+        "expected_away_goals": 1.444,
         "prob_over_15": 70.9,
         "prob_over_25": 45.9,
         "prob_over_35": 23.4,
         "prob_btts_yes": 49.6,
-        "confidence": 0.4996,
+        "confidence": 0.4995,
         "model_version": "dc-blend-v1",
         "most_likely_score": "1-1",
         "favorite": "A",
@@ -26365,697 +26425,6 @@
       }
     },
     {
-      "event_id": 7199,
-      "prediction": {
-        "id": 9,
-        "event": {
-          "id": 7199,
-          "league": {
-            "id": 9,
-            "name": "Brasileirão Serie A",
-            "country": "Brazil",
-            "is_women": false,
-            "current_season": {
-              "id": 28,
-              "name": "Brasileiro Serie A 2026",
-              "year": 2026,
-              "start_date": "2026-01-01",
-              "end_date": "2026-12-31"
-            }
-          },
-          "season": {
-            "id": 28,
-            "name": "Brasileiro Serie A 2026",
-            "year": 2026
-          },
-          "home_team": "Fluminense",
-          "away_team": "Bahia",
-          "home_team_obj": {
-            "id": 153,
-            "name": "Fluminense",
-            "short_name": "Fluminense",
-            "country": "Brazil",
-            "coach": {
-              "name": "Luis Zubeldia",
-              "shortName": "L. Zubeldia"
-            },
-            "venue": {
-              "id": 151,
-              "name": "Estádio do Maracanã",
-              "city": "Rio de Janeiro",
-              "country": "Brazil",
-              "capacity": 78838
-            }
-          },
-          "away_team_obj": {
-            "id": 166,
-            "name": "Bahia",
-            "short_name": "Bahia",
-            "country": "Brazil",
-            "coach": {
-              "name": "Rogério Ceni",
-              "shortName": "R. Ceni"
-            },
-            "venue": {
-              "id": 163,
-              "name": "Arena Fonte Nova",
-              "city": "Salvador",
-              "country": "Brazil",
-              "capacity": 48902
-            }
-          },
-          "event_date": "2026-07-30T04:30:00+04:00",
-          "round_number": 21,
-          "round_name": "",
-          "group_name": null,
-          "status": "notstarted",
-          "home_score": null,
-          "away_score": null,
-          "home_score_ht": null,
-          "away_score_ht": null,
-          "current_minute": null,
-          "period": "",
-          "odds_home": null,
-          "odds_draw": null,
-          "odds_away": null,
-          "odds_over_15": null,
-          "odds_over_25": null,
-          "odds_over_35": null,
-          "odds_under_15": null,
-          "odds_under_25": null,
-          "odds_under_35": null,
-          "odds_btts_yes": null,
-          "odds_btts_no": null,
-          "actual_home_xg": null,
-          "actual_away_xg": null,
-          "home_xg_live": null,
-          "away_xg_live": null,
-          "penalty_shootout": null,
-          "extra_time_score": null,
-          "is_local_derby": null,
-          "is_neutral_ground": null,
-          "travel_distance_km": null,
-          "weather_code": 0,
-          "wind_speed": 6.8,
-          "temperature_c": 22,
-          "pitch_condition": null,
-          "attendance": null,
-          "referee": null,
-          "home_coach": {
-            "id": 152,
-            "name": "Luis Zubeldia",
-            "short_name": "L. Zubeldia",
-            "country": "Argentina",
-            "profile": "balanced",
-            "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.4584082031808306,
-            "defensive_line": "mid",
-            "top_styles": [
-              "false_9",
-              "tiki_taka"
-            ]
-          },
-          "away_coach": {
-            "id": 145,
-            "name": "Rogério Ceni",
-            "short_name": "R. Ceni",
-            "country": "Brazil",
-            "profile": "balanced",
-            "preferred_formation": "4-3-3",
-            "pressing_intensity": 0.6170875350463247,
-            "defensive_line": "high",
-            "top_styles": [
-              "ball_dominant",
-              "tiki_taka"
-            ]
-          },
-          "unavailable_players": {
-            "home": [
-              {
-                "name": "Jemmes",
-                "status": "injured",
-                "reason": "Thigh Injury",
-                "expected_return": "2026-08-15"
-              },
-              {
-                "name": "John Kennedy",
-                "status": "suspended",
-                "reason": "red_card_suspension",
-                "expected_return": "2026-07-30"
-              },
-              {
-                "name": "Julián Millán",
-                "status": "injured",
-                "reason": "Thigh Injury",
-                "expected_return": "2026-08-31"
-              }
-            ],
-            "away": [
-              {
-                "name": "Caio Alexandre",
-                "status": "injured",
-                "reason": "Thigh Injury",
-                "expected_return": "2026-08-10"
-              },
-              {
-                "name": "Iago Borduchi",
-                "status": "doubtful",
-                "reason": "Thigh Injury",
-                "expected_return": "2026-07-31"
-              },
-              {
-                "name": "Léo Vieira",
-                "status": "injured",
-                "reason": "Knee Surgery",
-                "expected_return": null
-              },
-              {
-                "name": "Marco Moreno",
-                "status": "injured",
-                "reason": "Physical Discomfort",
-                "expected_return": "2026-08-01"
-              },
-              {
-                "name": "Ruan Pablo",
-                "status": "injured",
-                "reason": "Sprained Ankle",
-                "expected_return": "2026-07-31"
-              },
-              {
-                "name": "Santiago Ramos Mingo",
-                "status": "doubtful",
-                "reason": "Hip Injury",
-                "expected_return": "2026-08-06"
-              }
-            ]
-          },
-          "venue": {
-            "id": 151,
-            "name": "Estádio do Maracanã",
-            "city": "Rio de Janeiro",
-            "country": "Brazil",
-            "capacity": 78838,
-            "latitude": -22.912172,
-            "longitude": -43.23021,
-            "pitch_x": 105,
-            "pitch_y": 68,
-            "built_year": 1950
-          },
-          "incidents": null,
-          "live_stats": null,
-          "lineups": null,
-          "shotmap": null,
-          "momentum": null,
-          "xg_per_minute": null,
-          "average_positions": null,
-          "jerseys": null,
-          "funfacts": null,
-          "sr_stats": null,
-          "ai_preview": null,
-          "live_websocket": false
-        },
-        "created_at": "2026-07-23T16:01:09.820301+00:00",
-        "prob_home_win": 53.5,
-        "prob_draw": 26.2,
-        "prob_away_win": 20.3,
-        "predicted_result": "H",
-        "expected_home_goals": 1.607,
-        "expected_away_goals": 0.997,
-        "prob_over_15": 73.4,
-        "prob_over_25": 49,
-        "prob_over_35": 26.2,
-        "prob_btts_yes": 50.9,
-        "confidence": 0.5352,
-        "model_version": "dc-blend-v1",
-        "most_likely_score": "1-1",
-        "favorite": "H",
-        "favorite_prob": 53.5,
-        "favorite_recommend": false,
-        "over_15_recommend": false,
-        "over_25_recommend": false,
-        "over_35_recommend": false,
-        "btts_recommend": false,
-        "winner_recommend": false
-      },
-      "event_detail": {
-        "id": 7199,
-        "league": {
-          "id": 9,
-          "name": "Brasileirão Serie A",
-          "country": "Brazil",
-          "is_women": false,
-          "current_season": {
-            "id": 28,
-            "name": "Brasileiro Serie A 2026",
-            "year": 2026,
-            "start_date": "2026-01-01",
-            "end_date": "2026-12-31"
-          }
-        },
-        "season": {
-          "id": 28,
-          "name": "Brasileiro Serie A 2026",
-          "year": 2026
-        },
-        "home_team": "Fluminense",
-        "away_team": "Bahia",
-        "home_team_obj": {
-          "id": 153,
-          "name": "Fluminense",
-          "short_name": "Fluminense",
-          "country": "Brazil",
-          "coach": {
-            "name": "Luis Zubeldia",
-            "shortName": "L. Zubeldia"
-          },
-          "venue": {
-            "id": 151,
-            "name": "Estádio do Maracanã",
-            "city": "Rio de Janeiro",
-            "country": "Brazil",
-            "capacity": 78838
-          }
-        },
-        "away_team_obj": {
-          "id": 166,
-          "name": "Bahia",
-          "short_name": "Bahia",
-          "country": "Brazil",
-          "coach": {
-            "name": "Rogério Ceni",
-            "shortName": "R. Ceni"
-          },
-          "venue": {
-            "id": 163,
-            "name": "Arena Fonte Nova",
-            "city": "Salvador",
-            "country": "Brazil",
-            "capacity": 48902
-          }
-        },
-        "event_date": "2026-07-30T03:30:00+03:00",
-        "round_number": 21,
-        "round_name": "",
-        "group_name": null,
-        "status": "notstarted",
-        "home_score": null,
-        "away_score": null,
-        "home_score_ht": null,
-        "away_score_ht": null,
-        "current_minute": null,
-        "period": "",
-        "odds_home": null,
-        "odds_draw": null,
-        "odds_away": null,
-        "odds_over_15": null,
-        "odds_over_25": null,
-        "odds_over_35": null,
-        "odds_under_15": null,
-        "odds_under_25": null,
-        "odds_under_35": null,
-        "odds_btts_yes": null,
-        "odds_btts_no": null,
-        "actual_home_xg": null,
-        "actual_away_xg": null,
-        "home_xg_live": null,
-        "away_xg_live": null,
-        "penalty_shootout": null,
-        "extra_time_score": null,
-        "is_local_derby": null,
-        "is_neutral_ground": null,
-        "travel_distance_km": null,
-        "weather_code": 0,
-        "wind_speed": 6.8,
-        "temperature_c": 22,
-        "pitch_condition": null,
-        "attendance": null,
-        "referee": null,
-        "home_coach": {
-          "id": 152,
-          "name": "Luis Zubeldia",
-          "short_name": "L. Zubeldia",
-          "country": "Argentina",
-          "profile": "balanced",
-          "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.4584082031808306,
-          "defensive_line": "mid",
-          "top_styles": [
-            "false_9",
-            "tiki_taka"
-          ]
-        },
-        "away_coach": {
-          "id": 145,
-          "name": "Rogério Ceni",
-          "short_name": "R. Ceni",
-          "country": "Brazil",
-          "profile": "balanced",
-          "preferred_formation": "4-3-3",
-          "pressing_intensity": 0.6170875350463247,
-          "defensive_line": "high",
-          "top_styles": [
-            "ball_dominant",
-            "tiki_taka"
-          ]
-        },
-        "unavailable_players": {
-          "home": [
-            {
-              "name": "Jemmes",
-              "status": "injured",
-              "reason": "Thigh Injury",
-              "expected_return": "2026-08-15"
-            },
-            {
-              "name": "John Kennedy",
-              "status": "suspended",
-              "reason": "red_card_suspension",
-              "expected_return": "2026-07-30"
-            },
-            {
-              "name": "Julián Millán",
-              "status": "injured",
-              "reason": "Thigh Injury",
-              "expected_return": "2026-08-31"
-            }
-          ],
-          "away": [
-            {
-              "name": "Caio Alexandre",
-              "status": "injured",
-              "reason": "Thigh Injury",
-              "expected_return": "2026-08-10"
-            },
-            {
-              "name": "Iago Borduchi",
-              "status": "doubtful",
-              "reason": "Thigh Injury",
-              "expected_return": "2026-07-31"
-            },
-            {
-              "name": "Léo Vieira",
-              "status": "injured",
-              "reason": "Knee Surgery",
-              "expected_return": null
-            },
-            {
-              "name": "Marco Moreno",
-              "status": "injured",
-              "reason": "Physical Discomfort",
-              "expected_return": "2026-08-01"
-            },
-            {
-              "name": "Ruan Pablo",
-              "status": "injured",
-              "reason": "Sprained Ankle",
-              "expected_return": "2026-07-31"
-            },
-            {
-              "name": "Santiago Ramos Mingo",
-              "status": "doubtful",
-              "reason": "Hip Injury",
-              "expected_return": "2026-08-06"
-            }
-          ]
-        },
-        "venue": {
-          "id": 151,
-          "name": "Estádio do Maracanã",
-          "city": "Rio de Janeiro",
-          "country": "Brazil",
-          "capacity": 78838,
-          "latitude": -22.912172,
-          "longitude": -43.23021,
-          "pitch_x": 105,
-          "pitch_y": 68,
-          "built_year": 1950
-        },
-        "live_stats": null,
-        "jerseys": null,
-        "funfacts": null,
-        "sr_stats": null,
-        "ai_preview": null,
-        "live_websocket": false,
-        "home_form": {
-          "calculated_at": "2026-07-27",
-          "matches_played": 5,
-          "form_string": "DDDLW",
-          "wins": 1,
-          "draws": 3,
-          "losses": 1,
-          "points_last_n": 6,
-          "goals_scored_last_n": 5,
-          "goals_conceded_last_n": 5,
-          "avg_xg": 1.0742600000000002,
-          "avg_xg_conceded": 0.94946,
-          "avg_shots": 12.4,
-          "avg_shots_on_target": 3.2,
-          "avg_key_passes": 10.2,
-          "goal_conversion_rate": 0.9308733453726284,
-          "defensive_efficiency": -0.05323025719882879,
-          "clean_sheets": 0,
-          "avg_pass_accuracy": 86.61309223363796,
-          "duel_win_rate": 0.4739454094292804,
-          "aerial_win_rate": 0.48148148148148145,
-          "avg_fouls": 11.4,
-          "avg_yellow_cards": 2.8,
-          "home_ppg": 1.6,
-          "away_ppg": 1,
-          "home_goals_scored": 8,
-          "home_goals_conceded": 7,
-          "away_goals_scored": 5,
-          "away_goals_conceded": 7,
-          "avg_team_rating": 6.764750000000001
-        },
-        "away_form": {
-          "calculated_at": "2026-07-27",
-          "matches_played": 5,
-          "form_string": "DDWWL",
-          "wins": 2,
-          "draws": 2,
-          "losses": 1,
-          "points_last_n": 8,
-          "goals_scored_last_n": 8,
-          "goals_conceded_last_n": 6,
-          "avg_xg": 1.5423199999999997,
-          "avg_xg_conceded": 0.7799799999999999,
-          "avg_shots": 17.8,
-          "avg_shots_on_target": 4.4,
-          "avg_key_passes": 14.2,
-          "goal_conversion_rate": 1.037398205301105,
-          "defensive_efficiency": -0.5385009872048003,
-          "clean_sheets": 1,
-          "avg_pass_accuracy": 86.95466918992116,
-          "duel_win_rate": 0.5154004106776181,
-          "aerial_win_rate": 0.5126050420168067,
-          "avg_fouls": 15.4,
-          "avg_yellow_cards": 2.6,
-          "home_ppg": 1.6,
-          "away_ppg": 1,
-          "home_goals_scored": 7,
-          "home_goals_conceded": 5,
-          "away_goals_scored": 7,
-          "away_goals_conceded": 9,
-          "avg_team_rating": 6.812
-        },
-        "head_to_head": {
-          "total_matches": 1,
-          "home_wins": 1,
-          "draws": 0,
-          "away_wins": 0,
-          "home_goals": 2,
-          "away_goals": 0,
-          "avg_total_goals": 2,
-          "home_win_rate": 1,
-          "away_win_rate": 0,
-          "recent_matches": [
-            {
-              "away": "Bahia",
-              "date": "2026-07-12T19:00:00+00:00",
-              "home": "Fluminense",
-              "score": "2-0"
-            }
-          ]
-        },
-        "lineups": null,
-        "social": []
-      },
-      "managers": {
-        "home": {
-          "id": 152,
-          "name": "Luis Zubeldia",
-          "short_name": "L. Zubeldia",
-          "country": "Argentina",
-          "current_team": {
-            "id": 153,
-            "name": "Fluminense"
-          },
-          "preferred_formation": "4-2-3-1",
-          "formations_used": {
-            "4-3-3": 4,
-            "4-4-2": 2,
-            "5-4-1": 1,
-            "3-4-1-2": 1,
-            "3-4-2-1": 1,
-            "4-1-4-1": 3,
-            "4-2-3-1": 55
-          },
-          "profile": "balanced",
-          "team_style": "neutral",
-          "pressing_intensity": 0.4584082031808306,
-          "defensive_line": "mid",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "false_9",
-              "name": "False 9 System",
-              "category": "possession",
-              "emoji": "🎩",
-              "description": "No fixed striker — central creator drops deep",
-              "score": 0.081
-            },
-            {
-              "rank": 2,
-              "code": "tiki_taka",
-              "name": "Tiki-Taka",
-              "category": "possession",
-              "emoji": "🎨",
-              "description": "Short passing, domination via possession",
-              "score": 0.079
-            },
-            {
-              "rank": 3,
-              "code": "inverted_fb",
-              "name": "Inverted Fullbacks",
-              "category": "possession",
-              "emoji": "↩",
-              "description": "Fullbacks step into midfield to overload centre",
-              "score": 0.077
-            },
-            {
-              "rank": 4,
-              "code": "heritage",
-              "name": "Heritage Football",
-              "category": "fan",
-              "emoji": "🪨",
-              "description": "Old-school physical, long balls and grit",
-              "score": 0.054
-            }
-          ],
-          "matches_total": 67,
-          "wins": 33,
-          "draws": 15,
-          "losses": 19,
-          "win_pct": 49.3,
-          "avg_goals_scored": 1.43,
-          "avg_goals_conceded": 1.07,
-          "avg_possession": 56,
-          "avg_shots": 13.42,
-          "avg_shots_on_target": 4.6,
-          "avg_xg_for": 1.25,
-          "avg_xg_against": 0.95,
-          "avg_corners": 4.63,
-          "avg_yellow_cards": 2.27,
-          "avg_red_cards": 0.06,
-          "avg_fouls": 13.03,
-          "clean_sheet_pct": 32.8,
-          "btts_pct": 52.2,
-          "over_25_pct": 44.8,
-          "over_15_pct": 74.6,
-          "fail_to_score_pct": 22.4,
-          "avg_goals_scored_1h": 0.63,
-          "avg_goals_conceded_1h": 0.43
-        },
-        "away": {
-          "id": 145,
-          "name": "Rogério Ceni",
-          "short_name": "R. Ceni",
-          "country": "Brazil",
-          "current_team": {
-            "id": 166,
-            "name": "Bahia"
-          },
-          "preferred_formation": "4-3-3",
-          "formations_used": {
-            "3-4-3": 2,
-            "4-3-3": 35,
-            "4-5-1": 2,
-            "3-3-3-1": 1,
-            "3-4-2-1": 1,
-            "4-1-4-1": 6,
-            "4-2-3-1": 9,
-            "4-3-1-2": 1,
-            "4-3-2-1": 5
-          },
-          "profile": "balanced",
-          "team_style": "neutral",
-          "pressing_intensity": 0.6170875350463247,
-          "defensive_line": "high",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "ball_dominant",
-              "name": "Ball Dominant",
-              "category": "possession",
-              "emoji": "⚽",
-              "description": "Keep the ball to control tempo and energy",
-              "score": 0.123
-            },
-            {
-              "rank": 2,
-              "code": "tiki_taka",
-              "name": "Tiki-Taka",
-              "category": "possession",
-              "emoji": "🎨",
-              "description": "Short passing, domination via possession",
-              "score": 0.098
-            },
-            {
-              "rank": 3,
-              "code": "total_football",
-              "name": "Total Football",
-              "category": "possession",
-              "emoji": "🌀",
-              "description": "Fluid rotations, every player attacks and defends",
-              "score": 0.074
-            },
-            {
-              "rank": 4,
-              "code": "false_9",
-              "name": "False 9 System",
-              "category": "possession",
-              "emoji": "🎩",
-              "description": "No fixed striker — central creator drops deep",
-              "score": 0.066
-            }
-          ],
-          "matches_total": 62,
-          "wins": 27,
-          "draws": 14,
-          "losses": 21,
-          "win_pct": 43.5,
-          "avg_goals_scored": 1.37,
-          "avg_goals_conceded": 1.27,
-          "avg_possession": 55.82,
-          "avg_shots": 13.77,
-          "avg_shots_on_target": 4.85,
-          "avg_xg_for": 1.45,
-          "avg_xg_against": 1.29,
-          "avg_corners": 5.25,
-          "avg_yellow_cards": 2.44,
-          "avg_red_cards": 0.06,
-          "avg_fouls": 12.82,
-          "clean_sheet_pct": 29,
-          "btts_pct": 56.5,
-          "over_25_pct": 53.2,
-          "over_15_pct": 79,
-          "fail_to_score_pct": 16.1,
-          "avg_goals_scored_1h": 0.65,
-          "avg_goals_conceded_1h": 0.58
-        }
-      }
-    },
-    {
       "event_id": 207985,
       "prediction": {
         "id": 8,
@@ -27230,21 +26599,21 @@
           "live_websocket": false
         },
         "created_at": "2026-07-23T16:01:09.814564+00:00",
-        "prob_home_win": 36.1,
+        "prob_home_win": 36.3,
         "prob_draw": 32.6,
-        "prob_away_win": 31.3,
+        "prob_away_win": 31.2,
         "predicted_result": "H",
-        "expected_home_goals": 1.093,
-        "expected_away_goals": 0.989,
+        "expected_home_goals": 1.095,
+        "expected_away_goals": 0.986,
         "prob_over_15": 63.7,
-        "prob_over_25": 37.8,
+        "prob_over_25": 37.7,
         "prob_over_35": 16.6,
-        "prob_btts_yes": 44.9,
-        "confidence": 0.3613,
+        "prob_btts_yes": 44.8,
+        "confidence": 0.3626,
         "model_version": "dc-blend-v1",
         "most_likely_score": "1-1",
         "favorite": "H",
-        "favorite_prob": 36.1,
+        "favorite_prob": 36.3,
         "favorite_recommend": false,
         "over_15_recommend": false,
         "over_25_recommend": false,
@@ -27863,12 +27232,12 @@
         "prob_away_win": 24.2,
         "predicted_result": "H",
         "expected_home_goals": 1.454,
-        "expected_away_goals": 1.026,
-        "prob_over_15": 71.3,
-        "prob_over_25": 46.4,
-        "prob_over_35": 23.8,
-        "prob_btts_yes": 50,
-        "confidence": 0.4781,
+        "expected_away_goals": 1.027,
+        "prob_over_15": 71.4,
+        "prob_over_25": 46.5,
+        "prob_over_35": 23.9,
+        "prob_btts_yes": 50.1,
+        "confidence": 0.4779,
         "model_version": "dc-blend-v1",
         "most_likely_score": "1-1",
         "favorite": "H",
@@ -28023,6 +27392,12 @@
               "status": "injured",
               "reason": "Calf Injury",
               "expected_return": "2026-08-10"
+            },
+            {
+              "name": "Gustavo Marques",
+              "status": "doubtful",
+              "reason": "Unknown",
+              "expected_return": "2026-08-11"
             },
             {
               "name": "Vanderlan",
@@ -28275,6 +27650,715 @@
       }
     },
     {
+      "event_id": 7199,
+      "prediction": {
+        "id": 9,
+        "event": {
+          "id": 7199,
+          "league": {
+            "id": 9,
+            "name": "Brasileirão Serie A",
+            "country": "Brazil",
+            "is_women": false,
+            "current_season": {
+              "id": 28,
+              "name": "Brasileiro Serie A 2026",
+              "year": 2026,
+              "start_date": "2026-01-01",
+              "end_date": "2026-12-31"
+            }
+          },
+          "season": {
+            "id": 28,
+            "name": "Brasileiro Serie A 2026",
+            "year": 2026
+          },
+          "home_team": "Fluminense",
+          "away_team": "Bahia",
+          "home_team_obj": {
+            "id": 153,
+            "name": "Fluminense",
+            "short_name": "Fluminense",
+            "country": "Brazil",
+            "coach": {
+              "name": "Luis Zubeldia",
+              "shortName": "L. Zubeldia"
+            },
+            "venue": {
+              "id": 151,
+              "name": "Estádio do Maracanã",
+              "city": "Rio de Janeiro",
+              "country": "Brazil",
+              "capacity": 78838
+            }
+          },
+          "away_team_obj": {
+            "id": 166,
+            "name": "Bahia",
+            "short_name": "Bahia",
+            "country": "Brazil",
+            "coach": {
+              "name": "Rogério Ceni",
+              "shortName": "R. Ceni"
+            },
+            "venue": {
+              "id": 163,
+              "name": "Arena Fonte Nova",
+              "city": "Salvador",
+              "country": "Brazil",
+              "capacity": 48902
+            }
+          },
+          "event_date": "2026-07-30T04:30:00+04:00",
+          "round_number": 21,
+          "round_name": "",
+          "group_name": null,
+          "status": "notstarted",
+          "home_score": null,
+          "away_score": null,
+          "home_score_ht": null,
+          "away_score_ht": null,
+          "current_minute": null,
+          "period": "",
+          "odds_home": null,
+          "odds_draw": null,
+          "odds_away": null,
+          "odds_over_15": null,
+          "odds_over_25": null,
+          "odds_over_35": null,
+          "odds_under_15": null,
+          "odds_under_25": null,
+          "odds_under_35": null,
+          "odds_btts_yes": null,
+          "odds_btts_no": null,
+          "actual_home_xg": null,
+          "actual_away_xg": null,
+          "home_xg_live": null,
+          "away_xg_live": null,
+          "penalty_shootout": null,
+          "extra_time_score": null,
+          "is_local_derby": null,
+          "is_neutral_ground": null,
+          "travel_distance_km": null,
+          "weather_code": 0,
+          "wind_speed": 6.8,
+          "temperature_c": 22,
+          "pitch_condition": null,
+          "attendance": null,
+          "referee": null,
+          "home_coach": {
+            "id": 152,
+            "name": "Luis Zubeldia",
+            "short_name": "L. Zubeldia",
+            "country": "Argentina",
+            "profile": "balanced",
+            "preferred_formation": "4-2-3-1",
+            "pressing_intensity": 0.4584082031808306,
+            "defensive_line": "mid",
+            "top_styles": [
+              "false_9",
+              "tiki_taka"
+            ]
+          },
+          "away_coach": {
+            "id": 145,
+            "name": "Rogério Ceni",
+            "short_name": "R. Ceni",
+            "country": "Brazil",
+            "profile": "balanced",
+            "preferred_formation": "4-3-3",
+            "pressing_intensity": 0.6170875350463247,
+            "defensive_line": "high",
+            "top_styles": [
+              "ball_dominant",
+              "tiki_taka"
+            ]
+          },
+          "unavailable_players": {
+            "home": [
+              {
+                "name": "Jemmes",
+                "status": "injured",
+                "reason": "Thigh Injury",
+                "expected_return": "2026-08-15"
+              },
+              {
+                "name": "John Kennedy",
+                "status": "suspended",
+                "reason": "red_card_suspension",
+                "expected_return": "2026-07-30"
+              },
+              {
+                "name": "Julián Millán",
+                "status": "injured",
+                "reason": "Thigh Injury",
+                "expected_return": "2026-08-31"
+              }
+            ],
+            "away": [
+              {
+                "name": "Caio Alexandre",
+                "status": "injured",
+                "reason": "Thigh Injury",
+                "expected_return": "2026-08-10"
+              },
+              {
+                "name": "Iago Borduchi",
+                "status": "doubtful",
+                "reason": "Thigh Injury",
+                "expected_return": "2026-07-31"
+              },
+              {
+                "name": "Léo Vieira",
+                "status": "injured",
+                "reason": "Knee Surgery",
+                "expected_return": null
+              },
+              {
+                "name": "Marco Moreno",
+                "status": "injured",
+                "reason": "Physical Discomfort",
+                "expected_return": "2026-08-01"
+              },
+              {
+                "name": "Ruan Pablo",
+                "status": "injured",
+                "reason": "Sprained Ankle",
+                "expected_return": "2026-07-31"
+              },
+              {
+                "name": "Santiago Ramos Mingo",
+                "status": "doubtful",
+                "reason": "Hip Injury",
+                "expected_return": "2026-08-06"
+              }
+            ]
+          },
+          "venue": {
+            "id": 151,
+            "name": "Estádio do Maracanã",
+            "city": "Rio de Janeiro",
+            "country": "Brazil",
+            "capacity": 78838,
+            "latitude": -22.912172,
+            "longitude": -43.23021,
+            "pitch_x": 105,
+            "pitch_y": 68,
+            "built_year": 1950
+          },
+          "incidents": null,
+          "live_stats": null,
+          "lineups": null,
+          "shotmap": null,
+          "momentum": null,
+          "xg_per_minute": null,
+          "average_positions": null,
+          "jerseys": null,
+          "funfacts": null,
+          "sr_stats": null,
+          "ai_preview": null,
+          "live_websocket": false
+        },
+        "created_at": "2026-07-23T16:01:09.820301+00:00",
+        "prob_home_win": 53.5,
+        "prob_draw": 26.2,
+        "prob_away_win": 20.3,
+        "predicted_result": "H",
+        "expected_home_goals": 1.607,
+        "expected_away_goals": 0.996,
+        "prob_over_15": 73.4,
+        "prob_over_25": 48.9,
+        "prob_over_35": 26.2,
+        "prob_btts_yes": 50.9,
+        "confidence": 0.5353,
+        "model_version": "dc-blend-v1",
+        "most_likely_score": "1-1",
+        "favorite": "H",
+        "favorite_prob": 53.5,
+        "favorite_recommend": false,
+        "over_15_recommend": false,
+        "over_25_recommend": false,
+        "over_35_recommend": false,
+        "btts_recommend": false,
+        "winner_recommend": false
+      },
+      "event_detail": {
+        "id": 7199,
+        "league": {
+          "id": 9,
+          "name": "Brasileirão Serie A",
+          "country": "Brazil",
+          "is_women": false,
+          "current_season": {
+            "id": 28,
+            "name": "Brasileiro Serie A 2026",
+            "year": 2026,
+            "start_date": "2026-01-01",
+            "end_date": "2026-12-31"
+          }
+        },
+        "season": {
+          "id": 28,
+          "name": "Brasileiro Serie A 2026",
+          "year": 2026
+        },
+        "home_team": "Fluminense",
+        "away_team": "Bahia",
+        "home_team_obj": {
+          "id": 153,
+          "name": "Fluminense",
+          "short_name": "Fluminense",
+          "country": "Brazil",
+          "coach": {
+            "name": "Luis Zubeldia",
+            "shortName": "L. Zubeldia"
+          },
+          "venue": {
+            "id": 151,
+            "name": "Estádio do Maracanã",
+            "city": "Rio de Janeiro",
+            "country": "Brazil",
+            "capacity": 78838
+          }
+        },
+        "away_team_obj": {
+          "id": 166,
+          "name": "Bahia",
+          "short_name": "Bahia",
+          "country": "Brazil",
+          "coach": {
+            "name": "Rogério Ceni",
+            "shortName": "R. Ceni"
+          },
+          "venue": {
+            "id": 163,
+            "name": "Arena Fonte Nova",
+            "city": "Salvador",
+            "country": "Brazil",
+            "capacity": 48902
+          }
+        },
+        "event_date": "2026-07-30T03:30:00+03:00",
+        "round_number": 21,
+        "round_name": "",
+        "group_name": null,
+        "status": "notstarted",
+        "home_score": null,
+        "away_score": null,
+        "home_score_ht": null,
+        "away_score_ht": null,
+        "current_minute": null,
+        "period": "",
+        "odds_home": null,
+        "odds_draw": null,
+        "odds_away": null,
+        "odds_over_15": null,
+        "odds_over_25": null,
+        "odds_over_35": null,
+        "odds_under_15": null,
+        "odds_under_25": null,
+        "odds_under_35": null,
+        "odds_btts_yes": null,
+        "odds_btts_no": null,
+        "actual_home_xg": null,
+        "actual_away_xg": null,
+        "home_xg_live": null,
+        "away_xg_live": null,
+        "penalty_shootout": null,
+        "extra_time_score": null,
+        "is_local_derby": null,
+        "is_neutral_ground": null,
+        "travel_distance_km": null,
+        "weather_code": 0,
+        "wind_speed": 6.8,
+        "temperature_c": 22,
+        "pitch_condition": null,
+        "attendance": null,
+        "referee": null,
+        "home_coach": {
+          "id": 152,
+          "name": "Luis Zubeldia",
+          "short_name": "L. Zubeldia",
+          "country": "Argentina",
+          "profile": "balanced",
+          "preferred_formation": "4-2-3-1",
+          "pressing_intensity": 0.4584082031808306,
+          "defensive_line": "mid",
+          "top_styles": [
+            "false_9",
+            "tiki_taka"
+          ]
+        },
+        "away_coach": {
+          "id": 145,
+          "name": "Rogério Ceni",
+          "short_name": "R. Ceni",
+          "country": "Brazil",
+          "profile": "balanced",
+          "preferred_formation": "4-3-3",
+          "pressing_intensity": 0.6170875350463247,
+          "defensive_line": "high",
+          "top_styles": [
+            "ball_dominant",
+            "tiki_taka"
+          ]
+        },
+        "unavailable_players": {
+          "home": [
+            {
+              "name": "Guilherme Arana",
+              "status": "injured",
+              "reason": "Knee Injury",
+              "expected_return": "2026-08-20"
+            },
+            {
+              "name": "Jemmes",
+              "status": "injured",
+              "reason": "Thigh Injury",
+              "expected_return": "2026-08-15"
+            },
+            {
+              "name": "John Kennedy",
+              "status": "suspended",
+              "reason": "red_card_suspension",
+              "expected_return": "2026-07-30"
+            },
+            {
+              "name": "Julián Millán",
+              "status": "injured",
+              "reason": "Thigh Injury",
+              "expected_return": "2026-08-31"
+            }
+          ],
+          "away": [
+            {
+              "name": "Caio Alexandre",
+              "status": "injured",
+              "reason": "Thigh Injury",
+              "expected_return": "2026-08-10"
+            },
+            {
+              "name": "David Duarte",
+              "status": "suspended",
+              "reason": "yellow_card_accumulation_suspension",
+              "expected_return": "2026-07-30"
+            },
+            {
+              "name": "Iago Borduchi",
+              "status": "doubtful",
+              "reason": "Thigh Injury",
+              "expected_return": "2026-07-31"
+            },
+            {
+              "name": "José Guilherme",
+              "status": "suspended",
+              "reason": "yellow_card_accumulation_suspension",
+              "expected_return": "2026-07-30"
+            },
+            {
+              "name": "Léo Vieira",
+              "status": "injured",
+              "reason": "Knee Surgery",
+              "expected_return": null
+            },
+            {
+              "name": "Marco Moreno",
+              "status": "injured",
+              "reason": "Physical Discomfort",
+              "expected_return": "2026-08-01"
+            },
+            {
+              "name": "Ruan Pablo",
+              "status": "injured",
+              "reason": "Sprained Ankle",
+              "expected_return": "2026-07-31"
+            },
+            {
+              "name": "Santiago Ramos Mingo",
+              "status": "doubtful",
+              "reason": "Hip Injury",
+              "expected_return": "2026-08-06"
+            }
+          ]
+        },
+        "venue": {
+          "id": 151,
+          "name": "Estádio do Maracanã",
+          "city": "Rio de Janeiro",
+          "country": "Brazil",
+          "capacity": 78838,
+          "latitude": -22.912172,
+          "longitude": -43.23021,
+          "pitch_x": 105,
+          "pitch_y": 68,
+          "built_year": 1950
+        },
+        "live_stats": null,
+        "jerseys": null,
+        "funfacts": null,
+        "sr_stats": null,
+        "ai_preview": null,
+        "live_websocket": false,
+        "home_form": {
+          "calculated_at": "2026-07-27",
+          "matches_played": 5,
+          "form_string": "DDDLW",
+          "wins": 1,
+          "draws": 3,
+          "losses": 1,
+          "points_last_n": 6,
+          "goals_scored_last_n": 5,
+          "goals_conceded_last_n": 5,
+          "avg_xg": 1.0742600000000002,
+          "avg_xg_conceded": 0.94946,
+          "avg_shots": 12.4,
+          "avg_shots_on_target": 3.2,
+          "avg_key_passes": 10.2,
+          "goal_conversion_rate": 0.9308733453726284,
+          "defensive_efficiency": -0.05323025719882879,
+          "clean_sheets": 0,
+          "avg_pass_accuracy": 86.61309223363796,
+          "duel_win_rate": 0.4739454094292804,
+          "aerial_win_rate": 0.48148148148148145,
+          "avg_fouls": 11.4,
+          "avg_yellow_cards": 2.8,
+          "home_ppg": 1.6,
+          "away_ppg": 1,
+          "home_goals_scored": 8,
+          "home_goals_conceded": 7,
+          "away_goals_scored": 5,
+          "away_goals_conceded": 7,
+          "avg_team_rating": 6.764750000000001
+        },
+        "away_form": {
+          "calculated_at": "2026-07-27",
+          "matches_played": 5,
+          "form_string": "DDWWL",
+          "wins": 2,
+          "draws": 2,
+          "losses": 1,
+          "points_last_n": 8,
+          "goals_scored_last_n": 8,
+          "goals_conceded_last_n": 6,
+          "avg_xg": 1.5423199999999997,
+          "avg_xg_conceded": 0.7799799999999999,
+          "avg_shots": 17.8,
+          "avg_shots_on_target": 4.4,
+          "avg_key_passes": 14.2,
+          "goal_conversion_rate": 1.037398205301105,
+          "defensive_efficiency": -0.5385009872048003,
+          "clean_sheets": 1,
+          "avg_pass_accuracy": 86.95466918992116,
+          "duel_win_rate": 0.5154004106776181,
+          "aerial_win_rate": 0.5126050420168067,
+          "avg_fouls": 15.4,
+          "avg_yellow_cards": 2.6,
+          "home_ppg": 1.6,
+          "away_ppg": 1,
+          "home_goals_scored": 7,
+          "home_goals_conceded": 5,
+          "away_goals_scored": 7,
+          "away_goals_conceded": 9,
+          "avg_team_rating": 6.812
+        },
+        "head_to_head": {
+          "total_matches": 1,
+          "home_wins": 1,
+          "draws": 0,
+          "away_wins": 0,
+          "home_goals": 2,
+          "away_goals": 0,
+          "avg_total_goals": 2,
+          "home_win_rate": 1,
+          "away_win_rate": 0,
+          "recent_matches": [
+            {
+              "away": "Bahia",
+              "date": "2026-07-12T19:00:00+00:00",
+              "home": "Fluminense",
+              "score": "2-0"
+            }
+          ]
+        },
+        "lineups": null,
+        "social": []
+      },
+      "managers": {
+        "home": {
+          "id": 152,
+          "name": "Luis Zubeldia",
+          "short_name": "L. Zubeldia",
+          "country": "Argentina",
+          "current_team": {
+            "id": 153,
+            "name": "Fluminense"
+          },
+          "preferred_formation": "4-2-3-1",
+          "formations_used": {
+            "4-3-3": 4,
+            "4-4-2": 2,
+            "5-4-1": 1,
+            "3-4-1-2": 1,
+            "3-4-2-1": 1,
+            "4-1-4-1": 3,
+            "4-2-3-1": 55
+          },
+          "profile": "balanced",
+          "team_style": "neutral",
+          "pressing_intensity": 0.4584082031808306,
+          "defensive_line": "mid",
+          "tactical_styles": [
+            {
+              "rank": 1,
+              "code": "false_9",
+              "name": "False 9 System",
+              "category": "possession",
+              "emoji": "🎩",
+              "description": "No fixed striker — central creator drops deep",
+              "score": 0.081
+            },
+            {
+              "rank": 2,
+              "code": "tiki_taka",
+              "name": "Tiki-Taka",
+              "category": "possession",
+              "emoji": "🎨",
+              "description": "Short passing, domination via possession",
+              "score": 0.079
+            },
+            {
+              "rank": 3,
+              "code": "inverted_fb",
+              "name": "Inverted Fullbacks",
+              "category": "possession",
+              "emoji": "↩",
+              "description": "Fullbacks step into midfield to overload centre",
+              "score": 0.077
+            },
+            {
+              "rank": 4,
+              "code": "heritage",
+              "name": "Heritage Football",
+              "category": "fan",
+              "emoji": "🪨",
+              "description": "Old-school physical, long balls and grit",
+              "score": 0.054
+            }
+          ],
+          "matches_total": 67,
+          "wins": 33,
+          "draws": 15,
+          "losses": 19,
+          "win_pct": 49.3,
+          "avg_goals_scored": 1.43,
+          "avg_goals_conceded": 1.07,
+          "avg_possession": 56,
+          "avg_shots": 13.42,
+          "avg_shots_on_target": 4.6,
+          "avg_xg_for": 1.25,
+          "avg_xg_against": 0.95,
+          "avg_corners": 4.63,
+          "avg_yellow_cards": 2.27,
+          "avg_red_cards": 0.06,
+          "avg_fouls": 13.03,
+          "clean_sheet_pct": 32.8,
+          "btts_pct": 52.2,
+          "over_25_pct": 44.8,
+          "over_15_pct": 74.6,
+          "fail_to_score_pct": 22.4,
+          "avg_goals_scored_1h": 0.63,
+          "avg_goals_conceded_1h": 0.43
+        },
+        "away": {
+          "id": 145,
+          "name": "Rogério Ceni",
+          "short_name": "R. Ceni",
+          "country": "Brazil",
+          "current_team": {
+            "id": 166,
+            "name": "Bahia"
+          },
+          "preferred_formation": "4-3-3",
+          "formations_used": {
+            "3-4-3": 2,
+            "4-3-3": 35,
+            "4-5-1": 2,
+            "3-3-3-1": 1,
+            "3-4-2-1": 1,
+            "4-1-4-1": 6,
+            "4-2-3-1": 9,
+            "4-3-1-2": 1,
+            "4-3-2-1": 5
+          },
+          "profile": "balanced",
+          "team_style": "neutral",
+          "pressing_intensity": 0.6170875350463247,
+          "defensive_line": "high",
+          "tactical_styles": [
+            {
+              "rank": 1,
+              "code": "ball_dominant",
+              "name": "Ball Dominant",
+              "category": "possession",
+              "emoji": "⚽",
+              "description": "Keep the ball to control tempo and energy",
+              "score": 0.123
+            },
+            {
+              "rank": 2,
+              "code": "tiki_taka",
+              "name": "Tiki-Taka",
+              "category": "possession",
+              "emoji": "🎨",
+              "description": "Short passing, domination via possession",
+              "score": 0.098
+            },
+            {
+              "rank": 3,
+              "code": "total_football",
+              "name": "Total Football",
+              "category": "possession",
+              "emoji": "🌀",
+              "description": "Fluid rotations, every player attacks and defends",
+              "score": 0.074
+            },
+            {
+              "rank": 4,
+              "code": "false_9",
+              "name": "False 9 System",
+              "category": "possession",
+              "emoji": "🎩",
+              "description": "No fixed striker — central creator drops deep",
+              "score": 0.066
+            }
+          ],
+          "matches_total": 62,
+          "wins": 27,
+          "draws": 14,
+          "losses": 21,
+          "win_pct": 43.5,
+          "avg_goals_scored": 1.37,
+          "avg_goals_conceded": 1.27,
+          "avg_possession": 55.82,
+          "avg_shots": 13.77,
+          "avg_shots_on_target": 4.85,
+          "avg_xg_for": 1.45,
+          "avg_xg_against": 1.29,
+          "avg_corners": 5.25,
+          "avg_yellow_cards": 2.44,
+          "avg_red_cards": 0.06,
+          "avg_fouls": 12.82,
+          "clean_sheet_pct": 29,
+          "btts_pct": 56.5,
+          "over_25_pct": 53.2,
+          "over_15_pct": 79,
+          "fail_to_score_pct": 16.1,
+          "avg_goals_scored_1h": 0.65,
+          "avg_goals_conceded_1h": 0.58
+        }
+      }
+    },
+    {
       "event_id": 216387,
       "prediction": {
         "id": 5,
@@ -28414,21 +28498,21 @@
           "live_websocket": false
         },
         "created_at": "2026-07-23T16:01:09.798222+00:00",
-        "prob_home_win": 37,
+        "prob_home_win": 37.1,
         "prob_draw": 28.4,
-        "prob_away_win": 34.5,
+        "prob_away_win": 34.4,
         "predicted_result": "H",
-        "expected_home_goals": 1.307,
-        "expected_away_goals": 1.232,
+        "expected_home_goals": 1.309,
+        "expected_away_goals": 1.23,
         "prob_over_15": 72.4,
         "prob_over_25": 47.6,
         "prob_over_35": 25,
         "prob_btts_yes": 51.8,
-        "confidence": 0.3701,
+        "confidence": 0.3713,
         "model_version": "dc-blend-v1",
         "most_likely_score": "1-1",
         "favorite": "H",
-        "favorite_prob": 37,
+        "favorite_prob": 37.1,
         "favorite_recommend": false,
         "over_15_recommend": false,
         "over_25_recommend": false,
@@ -28956,7 +29040,7 @@
         "prob_away_win": 41.9,
         "predicted_result": "A",
         "expected_home_goals": 1.073,
-        "expected_away_goals": 1.259,
+        "expected_away_goals": 1.26,
         "prob_over_15": 68.7,
         "prob_over_25": 43.3,
         "prob_over_35": 21.1,
