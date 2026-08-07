@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T22:38:48.826Z",
+  "generated_at": "2026-08-07T23:35:56.292Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -9,8 +9,8 @@
   },
   "summary": {
     "total_matches": 50,
-    "total_leagues": 13,
-    "average_confidence": 0.502284,
+    "total_leagues": 12,
+    "average_confidence": 0.49558199999999997,
     "favorite_recommend": 0,
     "over_15_recommend": 0,
     "over_25_recommend": 0,
@@ -19,2845 +19,6 @@
     "winner_recommend": 0
   },
   "items": [
-    {
-      "event_id": 216398,
-      "prediction": {
-        "id": 488,
-        "event": {
-          "id": 216398,
-          "league": {
-            "id": 72,
-            "name": "NWSL",
-            "country": "USA",
-            "is_women": true,
-            "current_season": {
-              "id": 1540,
-              "name": "National Womens Soccer League 2026",
-              "year": 2026,
-              "start_date": "2026-01-01",
-              "end_date": "2026-12-31"
-            }
-          },
-          "season": {
-            "id": 1540,
-            "name": "National Womens Soccer League 2026",
-            "year": 2026
-          },
-          "home_team": "Orlando Pride",
-          "away_team": "Racing Louisville",
-          "home_team_obj": {
-            "id": 3938,
-            "name": "Orlando Pride",
-            "short_name": "Orlando",
-            "country": "USA",
-            "coach": {
-              "name": "Seb Hines",
-              "shortName": "S. Hines"
-            },
-            "venue": null
-          },
-          "away_team_obj": {
-            "id": 3935,
-            "name": "Racing Louisville",
-            "short_name": "Racing Louisville",
-            "country": "USA",
-            "coach": {
-              "name": "Beverly Yanez",
-              "shortName": "B. Yanez"
-            },
-            "venue": null
-          },
-          "event_date": "2026-08-07T23:00:00Z",
-          "round_number": 1,
-          "round_name": "",
-          "group_name": null,
-          "status": "notstarted",
-          "home_score": null,
-          "away_score": null,
-          "home_score_ht": null,
-          "away_score_ht": null,
-          "current_minute": null,
-          "period": "",
-          "odds_home": 1.68,
-          "odds_draw": 3.77,
-          "odds_away": 4.1,
-          "odds_over_15": 1.19,
-          "odds_over_25": 1.64,
-          "odds_over_35": 2.59,
-          "odds_under_15": 4.07,
-          "odds_under_25": 2.11,
-          "odds_under_35": 1.43,
-          "odds_btts_yes": 1.64,
-          "odds_btts_no": 2.11,
-          "actual_home_xg": null,
-          "actual_away_xg": null,
-          "home_xg_live": null,
-          "away_xg_live": null,
-          "penalty_shootout": null,
-          "extra_time_score": null,
-          "is_local_derby": false,
-          "is_neutral_ground": null,
-          "travel_distance_km": 1155,
-          "weather_code": 0,
-          "wind_speed": 22.1,
-          "temperature_c": 33,
-          "pitch_condition": null,
-          "attendance": null,
-          "referee": null,
-          "home_coach": {
-            "id": 2061,
-            "name": "Seb Hines",
-            "short_name": "S. Hines",
-            "country": "England",
-            "profile": "balanced",
-            "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.7245936656934515,
-            "defensive_line": "mid",
-            "top_styles": [
-              "gegenpressing",
-              "chaos_ball"
-            ]
-          },
-          "away_coach": {
-            "id": 2058,
-            "name": "Beverly Yanez",
-            "short_name": "B. Yanez",
-            "country": "USA",
-            "profile": "balanced",
-            "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.6142214337499199,
-            "defensive_line": "mid",
-            "top_styles": [
-              "park_the_bus",
-              "no_midfield"
-            ]
-          },
-          "unavailable_players": null,
-          "venue": {
-            "id": 268,
-            "name": "Inter&Co Stadium",
-            "city": "Orlando",
-            "country": "USA",
-            "capacity": 25500,
-            "latitude": 28.541065,
-            "longitude": -81.389035,
-            "pitch_x": 110,
-            "pitch_y": 69,
-            "built_year": 2016
-          },
-          "incidents": null,
-          "live_stats": null,
-          "lineups": {
-            "away": {
-              "players": [
-                {
-                  "name": "J. Bloomer",
-                  "goals": 0,
-                  "api_id": 1172397,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "G",
-                  "red_card": false,
-                  "player_id": 65234,
-                  "yellow_card": false,
-                  "jersey_number": "24",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "GK",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "L. Milliet",
-                  "goals": 0,
-                  "api_id": 1025587,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 65235,
-                  "yellow_card": false,
-                  "jersey_number": "2",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "E. Jean",
-                  "goals": 0,
-                  "api_id": 1093420,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 65236,
-                  "yellow_card": false,
-                  "jersey_number": "5",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "A. Wright",
-                  "goals": 0,
-                  "api_id": 1025652,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": true,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 65237,
-                  "yellow_card": false,
-                  "jersey_number": "3",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "M. Gacioch",
-                  "goals": 0,
-                  "api_id": 2251772,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 65251,
-                  "yellow_card": false,
-                  "jersey_number": "15",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "K. O'Kane",
-                  "goals": 0,
-                  "api_id": 2049759,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 65242,
-                  "yellow_card": false,
-                  "jersey_number": "20",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "Q. McMahon",
-                  "goals": 0,
-                  "api_id": 2043628,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 65245,
-                  "yellow_card": false,
-                  "jersey_number": "12",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "E. Sears",
-                  "goals": 0,
-                  "api_id": 1821128,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 65241,
-                  "yellow_card": false,
-                  "jersey_number": "13",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "K. Fischer",
-                  "goals": 0,
-                  "api_id": 1482053,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 65246,
-                  "yellow_card": false,
-                  "jersey_number": "9",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "M. Morris",
-                  "goals": 0,
-                  "api_id": 1822840,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 65247,
-                  "yellow_card": false,
-                  "jersey_number": "4",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "A. McKeen",
-                  "goals": 0,
-                  "api_id": 2110856,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "F",
-                  "red_card": false,
-                  "player_id": 65332,
-                  "yellow_card": false,
-                  "jersey_number": "88",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "FWD",
-                  "positions_detailed": []
-                }
-              ],
-              "formation": "4-2-3-1",
-              "substitutes": [
-                {
-                  "name": "M. Prohaska",
-                  "goals": 0,
-                  "api_id": 2060770,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "G",
-                  "red_card": false,
-                  "player_id": 65250,
-                  "yellow_card": false,
-                  "jersey_number": "1",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "GK",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "A. Kalitta",
-                  "goals": 0,
-                  "api_id": 2078097,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 65249,
-                  "yellow_card": false,
-                  "jersey_number": "19",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "C. Petersen",
-                  "goals": 0,
-                  "api_id": 1046072,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 65238,
-                  "yellow_card": false,
-                  "jersey_number": "8",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "M. Blackburn",
-                  "goals": 0,
-                  "api_id": 2252216,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 65333,
-                  "yellow_card": false,
-                  "jersey_number": "23",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "R. Hill",
-                  "goals": 0,
-                  "api_id": 1025594,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "F",
-                  "red_card": false,
-                  "player_id": 65331,
-                  "yellow_card": false,
-                  "jersey_number": "21",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "FWD",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "E. Hase",
-                  "goals": 0,
-                  "api_id": 2042369,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 65243,
-                  "yellow_card": false,
-                  "jersey_number": "6",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "M. Lardner",
-                  "goals": 0,
-                  "api_id": 2251505,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "F",
-                  "red_card": false,
-                  "player_id": 65248,
-                  "yellow_card": false,
-                  "jersey_number": "16",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "FWD",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "S. Weber",
-                  "goals": 0,
-                  "api_id": 2042368,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "F",
-                  "red_card": false,
-                  "player_id": 65244,
-                  "yellow_card": false,
-                  "jersey_number": "42",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "FWD",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "E. Floyd",
-                  "goals": 0,
-                  "api_id": 2540128,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "G",
-                  "red_card": false,
-                  "player_id": 65252,
-                  "yellow_card": false,
-                  "jersey_number": "30",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "GK",
-                  "positions_detailed": []
-                }
-              ]
-            },
-            "home": {
-              "players": [
-                {
-                  "name": "A. Moorhouse",
-                  "goals": 0,
-                  "api_id": 1007235,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "G",
-                  "red_card": false,
-                  "player_id": 65194,
-                  "yellow_card": false,
-                  "jersey_number": "1",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "GK",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "N. Payne",
-                  "goals": 0,
-                  "api_id": 1125793,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 65211,
-                  "yellow_card": false,
-                  "jersey_number": "23",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "Z. S. Chavoshi",
-                  "goals": 0,
-                  "api_id": 1395537,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 65196,
-                  "yellow_card": false,
-                  "jersey_number": "16",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "Rafaelle",
-                  "goals": 0,
-                  "api_id": 796781,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 66333,
-                  "yellow_card": false,
-                  "jersey_number": "4",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "C. Dyke",
-                  "goals": 0,
-                  "api_id": 1821303,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 65195,
-                  "yellow_card": false,
-                  "jersey_number": "12",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "A. Lemos",
-                  "goals": 0,
-                  "api_id": 1651388,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 65199,
-                  "yellow_card": false,
-                  "jersey_number": "6",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "Angelina",
-                  "goals": 0,
-                  "api_id": 1023953,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": true,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 65202,
-                  "yellow_card": false,
-                  "jersey_number": "7",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "L. Ovalle",
-                  "goals": 0,
-                  "api_id": 1127180,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 65201,
-                  "yellow_card": false,
-                  "jersey_number": "13",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "H. Mace",
-                  "goals": 0,
-                  "api_id": 981580,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 65205,
-                  "yellow_card": false,
-                  "jersey_number": "5",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "S. Jackson",
-                  "goals": 0,
-                  "api_id": 2179204,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 66130,
-                  "yellow_card": false,
-                  "jersey_number": "80",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "J. Doyle",
-                  "goals": 0,
-                  "api_id": 1172399,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "F",
-                  "red_card": false,
-                  "player_id": 65207,
-                  "yellow_card": false,
-                  "jersey_number": "20",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "FWD",
-                  "positions_detailed": []
-                }
-              ],
-              "formation": "4-2-3-1",
-              "substitutes": [
-                {
-                  "name": "C. Martin",
-                  "goals": 0,
-                  "api_id": 2251500,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "G",
-                  "red_card": false,
-                  "player_id": 66360,
-                  "yellow_card": false,
-                  "jersey_number": "31",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "GK",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "C. Morche",
-                  "goals": 0,
-                  "api_id": 1025086,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "G",
-                  "red_card": false,
-                  "player_id": 65210,
-                  "yellow_card": false,
-                  "jersey_number": "77",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "GK",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "Z. Matthews",
-                  "goals": 0,
-                  "api_id": 1971174,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 21273,
-                  "yellow_card": false,
-                  "jersey_number": "33",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "K. Abello",
-                  "goals": 0,
-                  "api_id": 1193009,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 65198,
-                  "yellow_card": false,
-                  "jersey_number": "25",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "S. Yates",
-                  "goals": 0,
-                  "api_id": 1481767,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "F",
-                  "red_card": false,
-                  "player_id": 65212,
-                  "yellow_card": false,
-                  "jersey_number": "28",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "FWD",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "Luana",
-                  "goals": 0,
-                  "api_id": 794302,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 65206,
-                  "yellow_card": false,
-                  "jersey_number": "8",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "S. Washington",
-                  "goals": 0,
-                  "api_id": 1507910,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "F",
-                  "red_card": false,
-                  "player_id": 65203,
-                  "yellow_card": false,
-                  "jersey_number": "29",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "FWD",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "G. Nunes",
-                  "goals": 0,
-                  "api_id": 860760,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "F",
-                  "red_card": false,
-                  "player_id": null,
-                  "yellow_card": false,
-                  "jersey_number": "18",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "FWD",
-                  "positions_detailed": []
-                }
-              ]
-            },
-            "confirmed": true
-          },
-          "shotmap": null,
-          "momentum": null,
-          "xg_per_minute": null,
-          "average_positions": null,
-          "jerseys": {
-            "away": {
-              "GK": {
-                "base": "efc131",
-                "real": false,
-                "type": "short_sleeves",
-                "number": "000000",
-                "sleeve": "333333"
-              },
-              "player": {
-                "base": "e2e2e1",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "0d0d0d",
-                "sleeve": "b0abce",
-                "sleevelong": "b7b0d7"
-              }
-            },
-            "home": {
-              "GK": {
-                "base": "f8f548",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "cedb73",
-                "sleevelong": "cde651"
-              },
-              "player": {
-                "base": "9b28cc",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ded3f7",
-                "sleeve": "47b7d7"
-              }
-            }
-          },
-          "funfacts": [
-            {
-              "type_id": 24,
-              "sentence": "Louisville's away record this season: 1-0-8."
-            },
-            {
-              "type_id": 25,
-              "sentence": "Haley McCutcheon has more yellow cards (4) than any other player at Orlando. Taylor Flint has collected 5 for Louisville."
-            },
-            {
-              "type_id": 6,
-              "sentence": "During the last 7 meetings with Orlando playing at home, Orlando have won 3 times, there have been 4 draws while Louisville have won 0 times. The goal difference is 10-6 in favour of Orlando."
-            }
-          ],
-          "sr_stats": null,
-          "ai_preview": {
-            "text": "**Orlando hosts Louisville in a battle where recent head-to-head form flips the script** — Pride have stumbled badly of late, but they've actually had Louisville's number historically. 🔥\n\nPride's last outing was a brutal 5-0 mauling by North Carolina, yet they bounced back to beat Chicago at home. Louisville won their last two but got torn apart 5-1 by Kansas City, so consistency is a question mark for both sides.\n\nKey storylines:\n\n- **Marta** and **Angelina** need to spark Orlando's attack after a disastrous road trip — home advantage could matter here\n- **Racing Louisville's** defense, anchored by **A. Wright** and **C. Petersen**, faces a Pride side hungry to restore credibility\n- **S. Washington** and **B. Banda** will be crucial if Pride want to impose themselves early in the fixture\n\nExpected lineups:\n\n- **Orlando Pride**: A. Moorhouse, C. Dyke, Z. S. Chavoshi, O. Hernández, Rafaelle, H. Hanson, A. Lemos, Marta, Angelina, B. Banda, S. Washington\n- **Racing Louisville**: J. Bloomer, L. Milliet, A. Wright, C. Petersen, M. Gacioch, K. O'Kane, T. Flint, E. Sears, K. Fischer, S. Weber, M. Lardner\n\nPrediction:\n\n**Orlando Pride 2–1 Racing Louisville.** Home turf tilts this one slightly Pride's way — they've owned this matchup historically and need the statement badly. 📍",
-            "generated_at": "2026-08-07T04:41:20.217211+00:00"
-          },
-          "live_websocket": true
-        },
-        "created_at": "2026-08-01T02:15:11.215558+00:00",
-        "prob_home_win": 52.5,
-        "prob_draw": 24.6,
-        "prob_away_win": 22.9,
-        "predicted_result": "H",
-        "expected_home_goals": 1.744,
-        "expected_away_goals": 1.072,
-        "prob_over_15": 77.5,
-        "prob_over_25": 57.3,
-        "prob_over_35": 36.4,
-        "prob_btts_yes": 56.8,
-        "confidence": 0.5255,
-        "model_version": "dc-blend-v1",
-        "most_likely_score": "1-1",
-        "favorite": "H",
-        "favorite_prob": 52.5,
-        "favorite_recommend": false,
-        "over_15_recommend": false,
-        "over_25_recommend": false,
-        "over_35_recommend": false,
-        "btts_recommend": false,
-        "winner_recommend": false
-      },
-      "event_detail": {
-        "id": 216398,
-        "league": {
-          "id": 72,
-          "name": "NWSL",
-          "country": "USA",
-          "is_women": true,
-          "current_season": {
-            "id": 1540,
-            "name": "National Womens Soccer League 2026",
-            "year": 2026,
-            "start_date": "2026-01-01",
-            "end_date": "2026-12-31"
-          }
-        },
-        "season": {
-          "id": 1540,
-          "name": "National Womens Soccer League 2026",
-          "year": 2026
-        },
-        "home_team": "Orlando Pride",
-        "away_team": "Racing Louisville",
-        "home_team_obj": {
-          "id": 3938,
-          "name": "Orlando Pride",
-          "short_name": "Orlando",
-          "country": "USA",
-          "coach": {
-            "name": "Seb Hines",
-            "shortName": "S. Hines"
-          },
-          "venue": null
-        },
-        "away_team_obj": {
-          "id": 3935,
-          "name": "Racing Louisville",
-          "short_name": "Racing Louisville",
-          "country": "USA",
-          "coach": {
-            "name": "Beverly Yanez",
-            "shortName": "B. Yanez"
-          },
-          "venue": null
-        },
-        "event_date": "2026-08-08T02:00:00+03:00",
-        "round_number": 1,
-        "round_name": "",
-        "group_name": null,
-        "status": "notstarted",
-        "home_score": null,
-        "away_score": null,
-        "home_score_ht": null,
-        "away_score_ht": null,
-        "current_minute": null,
-        "period": "",
-        "odds_home": 1.68,
-        "odds_draw": 3.77,
-        "odds_away": 4.1,
-        "odds_over_15": 1.19,
-        "odds_over_25": 1.64,
-        "odds_over_35": 2.59,
-        "odds_under_15": 4.07,
-        "odds_under_25": 2.11,
-        "odds_under_35": 1.43,
-        "odds_btts_yes": 1.64,
-        "odds_btts_no": 2.11,
-        "actual_home_xg": null,
-        "actual_away_xg": null,
-        "home_xg_live": null,
-        "away_xg_live": null,
-        "penalty_shootout": null,
-        "extra_time_score": null,
-        "is_local_derby": false,
-        "is_neutral_ground": null,
-        "travel_distance_km": 1155,
-        "weather_code": 0,
-        "wind_speed": 22.1,
-        "temperature_c": 33,
-        "pitch_condition": null,
-        "attendance": null,
-        "referee": null,
-        "home_coach": {
-          "id": 2061,
-          "name": "Seb Hines",
-          "short_name": "S. Hines",
-          "country": "England",
-          "profile": "balanced",
-          "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.7245936656934515,
-          "defensive_line": "mid",
-          "top_styles": [
-            "gegenpressing",
-            "chaos_ball"
-          ]
-        },
-        "away_coach": {
-          "id": 2058,
-          "name": "Beverly Yanez",
-          "short_name": "B. Yanez",
-          "country": "USA",
-          "profile": "balanced",
-          "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.6142214337499199,
-          "defensive_line": "mid",
-          "top_styles": [
-            "park_the_bus",
-            "no_midfield"
-          ]
-        },
-        "unavailable_players": null,
-        "venue": {
-          "id": 268,
-          "name": "Inter&Co Stadium",
-          "city": "Orlando",
-          "country": "USA",
-          "capacity": 25500,
-          "latitude": 28.541065,
-          "longitude": -81.389035,
-          "pitch_x": 110,
-          "pitch_y": 69,
-          "built_year": 2016
-        },
-        "live_stats": null,
-        "jerseys": {
-          "away": {
-            "GK": {
-              "base": "efc131",
-              "real": false,
-              "type": "short_sleeves",
-              "number": "000000",
-              "sleeve": "333333"
-            },
-            "player": {
-              "base": "e2e2e1",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "0d0d0d",
-              "sleeve": "b0abce",
-              "sleevelong": "b7b0d7"
-            }
-          },
-          "home": {
-            "GK": {
-              "base": "f8f548",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "cedb73",
-              "sleevelong": "cde651"
-            },
-            "player": {
-              "base": "9b28cc",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ded3f7",
-              "sleeve": "47b7d7"
-            }
-          }
-        },
-        "funfacts": [
-          {
-            "type_id": 24,
-            "sentence": "Louisville's away record this season: 1-0-8."
-          },
-          {
-            "type_id": 25,
-            "sentence": "Haley McCutcheon has more yellow cards (4) than any other player at Orlando. Taylor Flint has collected 5 for Louisville."
-          },
-          {
-            "type_id": 6,
-            "sentence": "During the last 7 meetings with Orlando playing at home, Orlando have won 3 times, there have been 4 draws while Louisville have won 0 times. The goal difference is 10-6 in favour of Orlando."
-          }
-        ],
-        "sr_stats": null,
-        "ai_preview": {
-          "text": "**Orlando hosts Louisville in a battle where recent head-to-head form flips the script** — Pride have stumbled badly of late, but they've actually had Louisville's number historically. 🔥\n\nPride's last outing was a brutal 5-0 mauling by North Carolina, yet they bounced back to beat Chicago at home. Louisville won their last two but got torn apart 5-1 by Kansas City, so consistency is a question mark for both sides.\n\nKey storylines:\n\n- **Marta** and **Angelina** need to spark Orlando's attack after a disastrous road trip — home advantage could matter here\n- **Racing Louisville's** defense, anchored by **A. Wright** and **C. Petersen**, faces a Pride side hungry to restore credibility\n- **S. Washington** and **B. Banda** will be crucial if Pride want to impose themselves early in the fixture\n\nExpected lineups:\n\n- **Orlando Pride**: A. Moorhouse, C. Dyke, Z. S. Chavoshi, O. Hernández, Rafaelle, H. Hanson, A. Lemos, Marta, Angelina, B. Banda, S. Washington\n- **Racing Louisville**: J. Bloomer, L. Milliet, A. Wright, C. Petersen, M. Gacioch, K. O'Kane, T. Flint, E. Sears, K. Fischer, S. Weber, M. Lardner\n\nPrediction:\n\n**Orlando Pride 2–1 Racing Louisville.** Home turf tilts this one slightly Pride's way — they've owned this matchup historically and need the statement badly. 📍",
-          "generated_at": "2026-08-07T04:41:20.217211+00:00"
-        },
-        "live_websocket": true,
-        "home_form": {
-          "calculated_at": "2026-08-07",
-          "matches_played": 5,
-          "form_string": "LWLLW",
-          "wins": 2,
-          "draws": 0,
-          "losses": 3,
-          "points_last_n": 6,
-          "goals_scored_last_n": 4,
-          "goals_conceded_last_n": 7,
-          "avg_xg": 0.8,
-          "avg_xg_conceded": 1.4,
-          "avg_shots": 13.4,
-          "avg_shots_on_target": 3.8,
-          "avg_key_passes": 9.2,
-          "goal_conversion_rate": 0,
-          "defensive_efficiency": 0,
-          "clean_sheets": 2,
-          "avg_pass_accuracy": 78.83322598477591,
-          "duel_win_rate": 0.5142857142857142,
-          "aerial_win_rate": 0.5125,
-          "avg_fouls": 8.8,
-          "avg_yellow_cards": 1,
-          "home_ppg": 2.4,
-          "away_ppg": 0.6,
-          "home_goals_scored": 8,
-          "home_goals_conceded": 2,
-          "away_goals_scored": 2,
-          "away_goals_conceded": 11,
-          "avg_team_rating": 6.808720588235294
-        },
-        "away_form": {
-          "calculated_at": "2026-08-07",
-          "matches_played": 5,
-          "form_string": "WLWDL",
-          "wins": 2,
-          "draws": 1,
-          "losses": 2,
-          "points_last_n": 7,
-          "goals_scored_last_n": 6,
-          "goals_conceded_last_n": 10,
-          "avg_xg": 1.2,
-          "avg_xg_conceded": 2,
-          "avg_shots": 13,
-          "avg_shots_on_target": 4.4,
-          "avg_key_passes": 8.4,
-          "goal_conversion_rate": 0,
-          "defensive_efficiency": 0,
-          "clean_sheets": 0,
-          "avg_pass_accuracy": 68.50807092749352,
-          "duel_win_rate": 0.4863013698630137,
-          "aerial_win_rate": 0.5178571428571429,
-          "avg_fouls": 8.4,
-          "avg_yellow_cards": 1.8,
-          "home_ppg": 0.8,
-          "away_ppg": 0.6,
-          "home_goals_scored": 4,
-          "home_goals_conceded": 7,
-          "away_goals_scored": 4,
-          "away_goals_conceded": 13,
-          "avg_team_rating": 6.668666666666667
-        },
-        "head_to_head": {
-          "total_matches": 12,
-          "home_wins": 2,
-          "draws": 3,
-          "away_wins": 5,
-          "home_goals": 12,
-          "away_goals": 18,
-          "avg_total_goals": 2.5,
-          "home_win_rate": 0.16666666666666666,
-          "away_win_rate": 0.4166666666666667,
-          "recent_matches": [
-            {
-              "away": "Orlando Pride",
-              "date": "2026-04-24T21:30:00+00:00",
-              "home": "Racing Louisville",
-              "score": "3-2"
-            },
-            {
-              "away": "Racing Louisville",
-              "date": "2025-08-09T23:30:00+00:00",
-              "home": "Orlando Pride",
-              "score": "1-1"
-            },
-            {
-              "away": "Orlando Pride",
-              "date": "2025-06-21T00:00:00+00:00",
-              "home": "Racing Louisville",
-              "score": "2-0"
-            },
-            {
-              "away": "Racing Louisville",
-              "date": "2024-05-05T22:00:00+00:00",
-              "home": "Orlando Pride",
-              "score": "1-0"
-            },
-            {
-              "away": "Orlando Pride",
-              "date": "2024-03-16T20:00:00+00:00",
-              "home": "Racing Louisville",
-              "score": "2-2"
-            },
-            {
-              "away": "Orlando Pride",
-              "date": "2023-10-06T23:30:00+00:00",
-              "home": "Racing Louisville",
-              "score": "3-2"
-            },
-            {
-              "away": "Racing Louisville",
-              "date": "2023-05-06T23:00:00+00:00",
-              "home": "Orlando Pride",
-              "score": "1-0"
-            },
-            {
-              "away": "Orlando Pride",
-              "date": "2022-09-16T23:30:00+00:00",
-              "home": "Racing Louisville",
-              "score": "2-0"
-            },
-            {
-              "away": "Racing Louisville",
-              "date": "2022-07-04T00:00:00+00:00",
-              "home": "Orlando Pride",
-              "score": "2-2"
-            },
-            {
-              "away": "Orlando Pride",
-              "date": "2021-10-16T23:30:00+00:00",
-              "home": "Racing Louisville",
-              "score": "3-1"
-            }
-          ]
-        },
-        "lineups": {
-          "away": {
-            "players": [
-              {
-                "name": "J. Bloomer",
-                "goals": 0,
-                "api_id": 1172397,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "G",
-                "red_card": false,
-                "player_id": 65234,
-                "yellow_card": false,
-                "jersey_number": "24",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "GK",
-                "positions_detailed": []
-              },
-              {
-                "name": "L. Milliet",
-                "goals": 0,
-                "api_id": 1025587,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 65235,
-                "yellow_card": false,
-                "jersey_number": "2",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "E. Jean",
-                "goals": 0,
-                "api_id": 1093420,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 65236,
-                "yellow_card": false,
-                "jersey_number": "5",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "A. Wright",
-                "goals": 0,
-                "api_id": 1025652,
-                "rating": null,
-                "sub_in": null,
-                "captain": true,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 65237,
-                "yellow_card": false,
-                "jersey_number": "3",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "M. Gacioch",
-                "goals": 0,
-                "api_id": 2251772,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 65251,
-                "yellow_card": false,
-                "jersey_number": "15",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "K. O'Kane",
-                "goals": 0,
-                "api_id": 2049759,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 65242,
-                "yellow_card": false,
-                "jersey_number": "20",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "Q. McMahon",
-                "goals": 0,
-                "api_id": 2043628,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 65245,
-                "yellow_card": false,
-                "jersey_number": "12",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "E. Sears",
-                "goals": 0,
-                "api_id": 1821128,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 65241,
-                "yellow_card": false,
-                "jersey_number": "13",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "K. Fischer",
-                "goals": 0,
-                "api_id": 1482053,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 65246,
-                "yellow_card": false,
-                "jersey_number": "9",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "M. Morris",
-                "goals": 0,
-                "api_id": 1822840,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 65247,
-                "yellow_card": false,
-                "jersey_number": "4",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "A. McKeen",
-                "goals": 0,
-                "api_id": 2110856,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "F",
-                "red_card": false,
-                "player_id": 65332,
-                "yellow_card": false,
-                "jersey_number": "88",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "FWD",
-                "positions_detailed": []
-              }
-            ],
-            "formation": "4-2-3-1",
-            "substitutes": [
-              {
-                "name": "M. Prohaska",
-                "goals": 0,
-                "api_id": 2060770,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "G",
-                "red_card": false,
-                "player_id": 65250,
-                "yellow_card": false,
-                "jersey_number": "1",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "GK",
-                "positions_detailed": []
-              },
-              {
-                "name": "A. Kalitta",
-                "goals": 0,
-                "api_id": 2078097,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 65249,
-                "yellow_card": false,
-                "jersey_number": "19",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "C. Petersen",
-                "goals": 0,
-                "api_id": 1046072,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 65238,
-                "yellow_card": false,
-                "jersey_number": "8",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "M. Blackburn",
-                "goals": 0,
-                "api_id": 2252216,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 65333,
-                "yellow_card": false,
-                "jersey_number": "23",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "R. Hill",
-                "goals": 0,
-                "api_id": 1025594,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "F",
-                "red_card": false,
-                "player_id": 65331,
-                "yellow_card": false,
-                "jersey_number": "21",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "FWD",
-                "positions_detailed": []
-              },
-              {
-                "name": "E. Hase",
-                "goals": 0,
-                "api_id": 2042369,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 65243,
-                "yellow_card": false,
-                "jersey_number": "6",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "M. Lardner",
-                "goals": 0,
-                "api_id": 2251505,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "F",
-                "red_card": false,
-                "player_id": 65248,
-                "yellow_card": false,
-                "jersey_number": "16",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "FWD",
-                "positions_detailed": []
-              },
-              {
-                "name": "S. Weber",
-                "goals": 0,
-                "api_id": 2042368,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "F",
-                "red_card": false,
-                "player_id": 65244,
-                "yellow_card": false,
-                "jersey_number": "42",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "FWD",
-                "positions_detailed": []
-              },
-              {
-                "name": "E. Floyd",
-                "goals": 0,
-                "api_id": 2540128,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "G",
-                "red_card": false,
-                "player_id": 65252,
-                "yellow_card": false,
-                "jersey_number": "30",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "GK",
-                "positions_detailed": []
-              }
-            ]
-          },
-          "home": {
-            "players": [
-              {
-                "name": "A. Moorhouse",
-                "goals": 0,
-                "api_id": 1007235,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "G",
-                "red_card": false,
-                "player_id": 65194,
-                "yellow_card": false,
-                "jersey_number": "1",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "GK",
-                "positions_detailed": []
-              },
-              {
-                "name": "N. Payne",
-                "goals": 0,
-                "api_id": 1125793,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 65211,
-                "yellow_card": false,
-                "jersey_number": "23",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "Z. S. Chavoshi",
-                "goals": 0,
-                "api_id": 1395537,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 65196,
-                "yellow_card": false,
-                "jersey_number": "16",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "Rafaelle",
-                "goals": 0,
-                "api_id": 796781,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 66333,
-                "yellow_card": false,
-                "jersey_number": "4",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "C. Dyke",
-                "goals": 0,
-                "api_id": 1821303,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 65195,
-                "yellow_card": false,
-                "jersey_number": "12",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "A. Lemos",
-                "goals": 0,
-                "api_id": 1651388,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 65199,
-                "yellow_card": false,
-                "jersey_number": "6",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "Angelina",
-                "goals": 0,
-                "api_id": 1023953,
-                "rating": null,
-                "sub_in": null,
-                "captain": true,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 65202,
-                "yellow_card": false,
-                "jersey_number": "7",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "L. Ovalle",
-                "goals": 0,
-                "api_id": 1127180,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 65201,
-                "yellow_card": false,
-                "jersey_number": "13",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "H. Mace",
-                "goals": 0,
-                "api_id": 981580,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 65205,
-                "yellow_card": false,
-                "jersey_number": "5",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "S. Jackson",
-                "goals": 0,
-                "api_id": 2179204,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 66130,
-                "yellow_card": false,
-                "jersey_number": "80",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "J. Doyle",
-                "goals": 0,
-                "api_id": 1172399,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "F",
-                "red_card": false,
-                "player_id": 65207,
-                "yellow_card": false,
-                "jersey_number": "20",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "FWD",
-                "positions_detailed": []
-              }
-            ],
-            "formation": "4-2-3-1",
-            "substitutes": [
-              {
-                "name": "C. Martin",
-                "goals": 0,
-                "api_id": 2251500,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "G",
-                "red_card": false,
-                "player_id": 66360,
-                "yellow_card": false,
-                "jersey_number": "31",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "GK",
-                "positions_detailed": []
-              },
-              {
-                "name": "C. Morche",
-                "goals": 0,
-                "api_id": 1025086,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "G",
-                "red_card": false,
-                "player_id": 65210,
-                "yellow_card": false,
-                "jersey_number": "77",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "GK",
-                "positions_detailed": []
-              },
-              {
-                "name": "Z. Matthews",
-                "goals": 0,
-                "api_id": 1971174,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 21273,
-                "yellow_card": false,
-                "jersey_number": "33",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "K. Abello",
-                "goals": 0,
-                "api_id": 1193009,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 65198,
-                "yellow_card": false,
-                "jersey_number": "25",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "S. Yates",
-                "goals": 0,
-                "api_id": 1481767,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "F",
-                "red_card": false,
-                "player_id": 65212,
-                "yellow_card": false,
-                "jersey_number": "28",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "FWD",
-                "positions_detailed": []
-              },
-              {
-                "name": "Luana",
-                "goals": 0,
-                "api_id": 794302,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 65206,
-                "yellow_card": false,
-                "jersey_number": "8",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "S. Washington",
-                "goals": 0,
-                "api_id": 1507910,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "F",
-                "red_card": false,
-                "player_id": 65203,
-                "yellow_card": false,
-                "jersey_number": "29",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "FWD",
-                "positions_detailed": []
-              },
-              {
-                "name": "G. Nunes",
-                "goals": 0,
-                "api_id": 860760,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "F",
-                "red_card": false,
-                "player_id": null,
-                "yellow_card": false,
-                "jersey_number": "18",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "FWD",
-                "positions_detailed": []
-              }
-            ]
-          },
-          "confirmed": true
-        },
-        "social": []
-      },
-      "managers": {
-        "home": {
-          "id": 2061,
-          "name": "Seb Hines",
-          "short_name": "S. Hines",
-          "country": "England",
-          "current_team": {
-            "id": 3938,
-            "name": "Orlando Pride"
-          },
-          "preferred_formation": "4-2-3-1",
-          "formations_used": {
-            "4-3-3": 1,
-            "4-4-2": 1,
-            "4-5-1": 2,
-            "4-1-4-1": 1,
-            "4-2-3-1": 13
-          },
-          "profile": "balanced",
-          "team_style": "neutral",
-          "pressing_intensity": 0.7245936656934515,
-          "defensive_line": "mid",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "gegenpressing",
-              "name": "Gegenpressing",
-              "category": "pressing",
-              "emoji": "💨",
-              "description": "Immediate press after losing the ball",
-              "score": 0.089
-            },
-            {
-              "rank": 2,
-              "code": "chaos_ball",
-              "name": "Chaos Ball",
-              "category": "fan",
-              "emoji": "🎲",
-              "description": "Embrace pure randomness, anything can happen",
-              "score": 0.064
-            },
-            {
-              "rank": 3,
-              "code": "high_press",
-              "name": "High Press",
-              "category": "pressing",
-              "emoji": "🔥",
-              "description": "Press defenders and keeper aggressively high up",
-              "score": 0.063
-            },
-            {
-              "rank": 4,
-              "code": "chaos_football",
-              "name": "Chaos Football",
-              "category": "pressing",
-              "emoji": "🌪",
-              "description": "High tempo, risk-heavy, disorganised by design",
-              "score": 0.051
-            }
-          ],
-          "matches_total": 18,
-          "wins": 7,
-          "draws": 2,
-          "losses": 9,
-          "win_pct": 38.9,
-          "avg_goals_scored": 1.22,
-          "avg_goals_conceded": 1.44,
-          "avg_possession": 47.06,
-          "avg_shots": 13.89,
-          "avg_shots_on_target": 4.78,
-          "avg_xg_for": 1.71,
-          "avg_xg_against": 1.56,
-          "avg_corners": 4.78,
-          "avg_yellow_cards": 1.39,
-          "avg_red_cards": 0.06,
-          "avg_fouls": 11.11,
-          "clean_sheet_pct": 33.3,
-          "btts_pct": 44.4,
-          "over_25_pct": 55.6,
-          "over_15_pct": 66.7,
-          "fail_to_score_pct": 27.8,
-          "avg_goals_scored_1h": 0.5,
-          "avg_goals_conceded_1h": 0.72
-        },
-        "away": {
-          "id": 3204,
-          "name": "Beverly Goebel Yanez",
-          "short_name": "B. G. Yanez",
-          "country": "USA",
-          "current_team": {
-            "id": 3935,
-            "name": "Racing Louisville"
-          },
-          "preferred_formation": "",
-          "formations_used": null,
-          "profile": "",
-          "team_style": "",
-          "pressing_intensity": null,
-          "defensive_line": "",
-          "tactical_styles": [],
-          "matches_total": 0,
-          "wins": 0,
-          "draws": 0,
-          "losses": 0,
-          "win_pct": null,
-          "avg_goals_scored": null,
-          "avg_goals_conceded": null,
-          "avg_possession": null,
-          "avg_shots": null,
-          "avg_shots_on_target": null,
-          "avg_xg_for": null,
-          "avg_xg_against": null,
-          "avg_corners": null,
-          "avg_yellow_cards": null,
-          "avg_red_cards": null,
-          "avg_fouls": null,
-          "clean_sheet_pct": null,
-          "btts_pct": null,
-          "over_25_pct": null,
-          "over_15_pct": null,
-          "fail_to_score_pct": null,
-          "avg_goals_scored_1h": null,
-          "avg_goals_conceded_1h": null
-        }
-      }
-    },
-    {
-      "event_id": 10057,
-      "prediction": {
-        "id": 487,
-        "event": {
-          "id": 10057,
-          "league": {
-            "id": 34,
-            "name": "Brasileirão Serie B",
-            "country": "Brazil",
-            "is_women": false,
-            "current_season": {
-              "id": 52,
-              "name": "Brasileiro Serie B 2026",
-              "year": 2026,
-              "start_date": "2026-01-01",
-              "end_date": "2026-12-31"
-            }
-          },
-          "season": {
-            "id": 52,
-            "name": "Brasileiro Serie B 2026",
-            "year": 2026
-          },
-          "home_team": "Ceará",
-          "away_team": "Ponte Preta",
-          "home_team_obj": {
-            "id": 169,
-            "name": "Ceará",
-            "short_name": "Ceará",
-            "country": "Brazil",
-            "coach": {
-              "name": "Daniel Paulista",
-              "shortName": "D. Paulista"
-            },
-            "venue": null
-          },
-          "away_team_obj": {
-            "id": 844,
-            "name": "Ponte Preta",
-            "short_name": "Ponte Preta",
-            "country": "Brazil",
-            "coach": {
-              "name": "Márcio Zanardi",
-              "shortName": "M. Zanardi"
-            },
-            "venue": {
-              "id": 636,
-              "name": "Moisés Lucarelli",
-              "city": "Campinas",
-              "country": "Brazil",
-              "capacity": 19728
-            }
-          },
-          "event_date": "2026-08-07T23:30:00Z",
-          "round_number": 21,
-          "round_name": "",
-          "group_name": null,
-          "status": "notstarted",
-          "home_score": null,
-          "away_score": null,
-          "home_score_ht": null,
-          "away_score_ht": null,
-          "current_minute": null,
-          "period": "",
-          "odds_home": 1.42,
-          "odds_draw": 4.13,
-          "odds_away": 7.41,
-          "odds_over_15": 1.29,
-          "odds_over_25": 1.93,
-          "odds_over_35": 3.31,
-          "odds_under_15": 3.31,
-          "odds_under_25": 1.8,
-          "odds_under_35": 1.29,
-          "odds_btts_yes": 2.14,
-          "odds_btts_no": 1.63,
-          "actual_home_xg": null,
-          "actual_away_xg": null,
-          "home_xg_live": null,
-          "away_xg_live": null,
-          "penalty_shootout": null,
-          "extra_time_score": null,
-          "is_local_derby": false,
-          "is_neutral_ground": null,
-          "travel_distance_km": 2319,
-          "weather_code": 51,
-          "wind_speed": 11.5,
-          "temperature_c": 25,
-          "pitch_condition": null,
-          "attendance": null,
-          "referee": {
-            "id": 1810,
-            "name": "Paulo Cesar Zanovelli da Silva",
-            "country": "Brazil",
-            "nationality_a3": "",
-            "birthdate": null,
-            "yellowCards": 719,
-            "redCards": 31,
-            "career_games": 130,
-            "career_yellow_cards": 719,
-            "career_red_cards": 31
-          },
-          "home_coach": {
-            "id": 139,
-            "name": "Daniel Paulista",
-            "short_name": "D. Paulista",
-            "country": "Brazil",
-            "profile": "balanced",
-            "preferred_formation": "4-1-3-2",
-            "pressing_intensity": 0.4738599917263663,
-            "defensive_line": "low",
-            "top_styles": [
-              "anti_football",
-              "tiki_taka"
-            ]
-          },
-          "away_coach": {
-            "id": 768,
-            "name": "Márcio Zanardi",
-            "short_name": "M. Zanardi",
-            "country": "Brazil",
-            "profile": "defensive",
-            "preferred_formation": "3-4-2-1",
-            "pressing_intensity": 0.5102114550254736,
-            "defensive_line": "high",
-            "top_styles": [
-              "terrorist_fb",
-              "anti_football"
-            ]
-          },
-          "unavailable_players": {
-            "home": [
-              {
-                "name": "Bruno Tubarão",
-                "status": "doubtful",
-                "reason": "Thigh Injury",
-                "expected_return": "2026-08-21"
-              }
-            ],
-            "away": [
-              {
-                "name": "Dudu",
-                "status": "injured",
-                "reason": "",
-                "expected_return": null
-              }
-            ]
-          },
-          "venue": {
-            "id": 1310,
-            "name": "Estádio Presidente Vargas",
-            "city": "Fortaleza",
-            "country": "Brazil",
-            "capacity": 20600,
-            "latitude": -3.745833,
-            "longitude": -38.536667,
-            "pitch_x": null,
-            "pitch_y": null,
-            "built_year": null
-          },
-          "incidents": null,
-          "live_stats": null,
-          "lineups": null,
-          "shotmap": null,
-          "momentum": null,
-          "xg_per_minute": null,
-          "average_positions": null,
-          "jerseys": {
-            "away": {
-              "GK": {
-                "base": "151413",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "020202"
-              },
-              "player": {
-                "base": "ffffff",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "000000",
-                "sleeve": "ffffff",
-                "sleevelong": "ffffff"
-              }
-            },
-            "home": {
-              "GK": {
-                "base": "e09c03",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "000000"
-              },
-              "player": {
-                "base": "000000",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "ffffff",
-                "stripes": "ffffff",
-                "sleevelong": "000000"
-              }
-            }
-          },
-          "funfacts": [
-            {
-              "type_id": 1,
-              "sentence": "Ponte Preta haven't won in their last 14 games."
-            },
-            {
-              "type_id": 2,
-              "sentence": "When playing at home, Ceara have not lost to Ponte Preta in their last 5 encounters."
-            },
-            {
-              "type_id": 24,
-              "sentence": "Ponte Preta's away record this season: 1-0-8."
-            }
-          ],
-          "sr_stats": null,
-          "ai_preview": {
-            "text": "**Ceará's looking to keep climbing while Ponte Preta's in freefall** — the hosts have won one of their last five, but that's still leagues ahead of Ponte's winless streak. 🔥\n\nCeará's form is spotty (1W 2D 2L) but they've got the H2H edge and a decent home record to lean on. Ponte Preta, meanwhile, are spiraling with four losses in five — they need a shock result just to stay relevant.\n\nKey storylines:\n\n- **Ceará's attack** led by R. López and Kauã will fancy their chances against a Ponte Preta backline that's been breached repeatedly\n- **Melk and J. Gabriel** controlling the midfield could be the difference in a match where Ceará should have more possession\n- **Ponte Preta's desperation** is real, but Elvis and Kevyson will struggle to create enough without David and Brandão getting serious service\n\nExpected lineups:\n\n- **Ceará**: Richard, Éder, L. Otávio, Rafael Ramos, E. Lodovico, J. Gabriel, Melk, L. Holanda, R. López, Kauã\n- **Ponte Preta**: G. Viana, D. Barcelos, L. Cunha, M. Silva, Kevyson, Elvis, Julio, R. de Souza, David, Brandão, J. Damião\n\nPrediction:\n\n**Ceará 2–0 Ponte Preta**\n\nHome side's form may be mixed, but Ponte are simply too vulnerable right now. Slight favorite to Ceará.",
-            "generated_at": "2026-08-07T03:42:20.337252+00:00"
-          },
-          "live_websocket": true
-        },
-        "created_at": "2026-08-01T02:15:11.207476+00:00",
-        "prob_home_win": 65.6,
-        "prob_draw": 22.8,
-        "prob_away_win": 11.6,
-        "predicted_result": "H",
-        "expected_home_goals": 1.701,
-        "expected_away_goals": 0.762,
-        "prob_over_15": 72.9,
-        "prob_over_25": 49.6,
-        "prob_over_35": 29.4,
-        "prob_btts_yes": 43.8,
-        "confidence": 0.6558,
-        "model_version": "dc-blend-v1",
-        "most_likely_score": "1-0",
-        "favorite": "H",
-        "favorite_prob": 65.6,
-        "favorite_recommend": false,
-        "over_15_recommend": false,
-        "over_25_recommend": false,
-        "over_35_recommend": false,
-        "btts_recommend": false,
-        "winner_recommend": false
-      },
-      "event_detail": {
-        "id": 10057,
-        "league": {
-          "id": 34,
-          "name": "Brasileirão Serie B",
-          "country": "Brazil",
-          "is_women": false,
-          "current_season": {
-            "id": 52,
-            "name": "Brasileiro Serie B 2026",
-            "year": 2026,
-            "start_date": "2026-01-01",
-            "end_date": "2026-12-31"
-          }
-        },
-        "season": {
-          "id": 52,
-          "name": "Brasileiro Serie B 2026",
-          "year": 2026
-        },
-        "home_team": "Ceará",
-        "away_team": "Ponte Preta",
-        "home_team_obj": {
-          "id": 169,
-          "name": "Ceará",
-          "short_name": "Ceará",
-          "country": "Brazil",
-          "coach": {
-            "name": "Daniel Paulista",
-            "shortName": "D. Paulista"
-          },
-          "venue": null
-        },
-        "away_team_obj": {
-          "id": 844,
-          "name": "Ponte Preta",
-          "short_name": "Ponte Preta",
-          "country": "Brazil",
-          "coach": {
-            "name": "Márcio Zanardi",
-            "shortName": "M. Zanardi"
-          },
-          "venue": {
-            "id": 636,
-            "name": "Moisés Lucarelli",
-            "city": "Campinas",
-            "country": "Brazil",
-            "capacity": 19728
-          }
-        },
-        "event_date": "2026-08-08T02:30:00+03:00",
-        "round_number": 21,
-        "round_name": "",
-        "group_name": null,
-        "status": "notstarted",
-        "home_score": null,
-        "away_score": null,
-        "home_score_ht": null,
-        "away_score_ht": null,
-        "current_minute": null,
-        "period": "",
-        "odds_home": 1.42,
-        "odds_draw": 4.13,
-        "odds_away": 7.41,
-        "odds_over_15": 1.29,
-        "odds_over_25": 1.93,
-        "odds_over_35": 3.31,
-        "odds_under_15": 3.31,
-        "odds_under_25": 1.8,
-        "odds_under_35": 1.29,
-        "odds_btts_yes": 2.14,
-        "odds_btts_no": 1.63,
-        "actual_home_xg": null,
-        "actual_away_xg": null,
-        "home_xg_live": null,
-        "away_xg_live": null,
-        "penalty_shootout": null,
-        "extra_time_score": null,
-        "is_local_derby": false,
-        "is_neutral_ground": null,
-        "travel_distance_km": 2319,
-        "weather_code": 51,
-        "wind_speed": 11.5,
-        "temperature_c": 25,
-        "pitch_condition": null,
-        "attendance": null,
-        "referee": {
-          "id": 1810,
-          "name": "Paulo Cesar Zanovelli da Silva",
-          "country": "Brazil",
-          "nationality_a3": "",
-          "birthdate": null,
-          "yellowCards": 719,
-          "redCards": 31,
-          "career_games": 130,
-          "career_yellow_cards": 719,
-          "career_red_cards": 31
-        },
-        "home_coach": {
-          "id": 139,
-          "name": "Daniel Paulista",
-          "short_name": "D. Paulista",
-          "country": "Brazil",
-          "profile": "balanced",
-          "preferred_formation": "4-1-3-2",
-          "pressing_intensity": 0.4738599917263663,
-          "defensive_line": "low",
-          "top_styles": [
-            "anti_football",
-            "tiki_taka"
-          ]
-        },
-        "away_coach": {
-          "id": 768,
-          "name": "Márcio Zanardi",
-          "short_name": "M. Zanardi",
-          "country": "Brazil",
-          "profile": "defensive",
-          "preferred_formation": "3-4-2-1",
-          "pressing_intensity": 0.5102114550254736,
-          "defensive_line": "high",
-          "top_styles": [
-            "terrorist_fb",
-            "anti_football"
-          ]
-        },
-        "unavailable_players": {
-          "home": [
-            {
-              "name": "Bruno Tubarão",
-              "status": "doubtful",
-              "reason": "Thigh Injury",
-              "expected_return": "2026-08-21"
-            }
-          ],
-          "away": [
-            {
-              "name": "Dudu",
-              "status": "injured",
-              "reason": "",
-              "expected_return": null
-            }
-          ]
-        },
-        "venue": {
-          "id": 1310,
-          "name": "Estádio Presidente Vargas",
-          "city": "Fortaleza",
-          "country": "Brazil",
-          "capacity": 20600,
-          "latitude": -3.745833,
-          "longitude": -38.536667,
-          "pitch_x": null,
-          "pitch_y": null,
-          "built_year": null
-        },
-        "live_stats": null,
-        "jerseys": {
-          "away": {
-            "GK": {
-              "base": "151413",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "020202"
-            },
-            "player": {
-              "base": "ffffff",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "000000",
-              "sleeve": "ffffff",
-              "sleevelong": "ffffff"
-            }
-          },
-          "home": {
-            "GK": {
-              "base": "e09c03",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "000000"
-            },
-            "player": {
-              "base": "000000",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "ffffff",
-              "stripes": "ffffff",
-              "sleevelong": "000000"
-            }
-          }
-        },
-        "funfacts": [
-          {
-            "type_id": 1,
-            "sentence": "Ponte Preta haven't won in their last 14 games."
-          },
-          {
-            "type_id": 2,
-            "sentence": "When playing at home, Ceara have not lost to Ponte Preta in their last 5 encounters."
-          },
-          {
-            "type_id": 24,
-            "sentence": "Ponte Preta's away record this season: 1-0-8."
-          }
-        ],
-        "sr_stats": null,
-        "ai_preview": {
-          "text": "**Ceará's looking to keep climbing while Ponte Preta's in freefall** — the hosts have won one of their last five, but that's still leagues ahead of Ponte's winless streak. 🔥\n\nCeará's form is spotty (1W 2D 2L) but they've got the H2H edge and a decent home record to lean on. Ponte Preta, meanwhile, are spiraling with four losses in five — they need a shock result just to stay relevant.\n\nKey storylines:\n\n- **Ceará's attack** led by R. López and Kauã will fancy their chances against a Ponte Preta backline that's been breached repeatedly\n- **Melk and J. Gabriel** controlling the midfield could be the difference in a match where Ceará should have more possession\n- **Ponte Preta's desperation** is real, but Elvis and Kevyson will struggle to create enough without David and Brandão getting serious service\n\nExpected lineups:\n\n- **Ceará**: Richard, Éder, L. Otávio, Rafael Ramos, E. Lodovico, J. Gabriel, Melk, L. Holanda, R. López, Kauã\n- **Ponte Preta**: G. Viana, D. Barcelos, L. Cunha, M. Silva, Kevyson, Elvis, Julio, R. de Souza, David, Brandão, J. Damião\n\nPrediction:\n\n**Ceará 2–0 Ponte Preta**\n\nHome side's form may be mixed, but Ponte are simply too vulnerable right now. Slight favorite to Ceará.",
-          "generated_at": "2026-08-07T03:42:20.337252+00:00"
-        },
-        "live_websocket": true,
-        "home_form": {
-          "calculated_at": "2026-08-07",
-          "matches_played": 5,
-          "form_string": "WLDDL",
-          "wins": 1,
-          "draws": 2,
-          "losses": 2,
-          "points_last_n": 5,
-          "goals_scored_last_n": 5,
-          "goals_conceded_last_n": 7,
-          "avg_xg": 0.8166,
-          "avg_xg_conceded": 1.0552,
-          "avg_shots": 15.4,
-          "avg_shots_on_target": 3.8,
-          "avg_key_passes": 10.8,
-          "goal_conversion_rate": 1.224589762429586,
-          "defensive_efficiency": -0.3267626990144048,
-          "clean_sheets": 1,
-          "avg_pass_accuracy": 82.28837172918546,
-          "duel_win_rate": 0.5114345114345115,
-          "aerial_win_rate": 0.46853146853146854,
-          "avg_fouls": 14.4,
-          "avg_yellow_cards": 2.2,
-          "home_ppg": 0.8,
-          "away_ppg": 1,
-          "home_goals_scored": 3,
-          "home_goals_conceded": 5,
-          "away_goals_scored": 6,
-          "away_goals_conceded": 9,
-          "avg_team_rating": 6.717499999999999
-        },
-        "away_form": {
-          "calculated_at": "2026-08-07",
-          "matches_played": 5,
-          "form_string": "DLLLL",
-          "wins": 0,
-          "draws": 1,
-          "losses": 4,
-          "points_last_n": 1,
-          "goals_scored_last_n": 5,
-          "goals_conceded_last_n": 10,
-          "avg_xg": 1.13134,
-          "avg_xg_conceded": 1.54828,
-          "avg_shots": 12.2,
-          "avg_shots_on_target": 4.4,
-          "avg_key_passes": 7.2,
-          "goal_conversion_rate": 0.8839075786235792,
-          "defensive_efficiency": -0.29175601312424093,
-          "clean_sheets": 0,
-          "avg_pass_accuracy": 73.20339064435174,
-          "duel_win_rate": 0.4810606060606061,
-          "aerial_win_rate": 0.4594594594594595,
-          "avg_fouls": 19.4,
-          "avg_yellow_cards": 3.4,
-          "home_ppg": 0.2,
-          "away_ppg": 0,
-          "home_goals_scored": 4,
-          "home_goals_conceded": 9,
-          "away_goals_scored": 4,
-          "away_goals_conceded": 14,
-          "avg_team_rating": 6.598345238095239
-        },
-        "head_to_head": {
-          "total_matches": 11,
-          "home_wins": 4,
-          "draws": 4,
-          "away_wins": 2,
-          "home_goals": 13,
-          "away_goals": 12,
-          "avg_total_goals": 2.272727272727273,
-          "home_win_rate": 0.36363636363636365,
-          "away_win_rate": 0.18181818181818182,
-          "recent_matches": [
-            {
-              "away": "Ceará",
-              "date": "2026-04-02T00:00:00+00:00",
-              "home": "Ponte Preta",
-              "score": "1-1"
-            },
-            {
-              "away": "Ponte Preta",
-              "date": "2024-10-12T20:00:00+00:00",
-              "home": "Ceará",
-              "score": "1-0"
-            },
-            {
-              "away": "Ceará",
-              "date": "2024-06-26T00:00:00+00:00",
-              "home": "Ponte Preta",
-              "score": "3-1"
-            },
-            {
-              "away": "Ponte Preta",
-              "date": "2023-08-20T21:00:00+00:00",
-              "home": "Ceará",
-              "score": "1-1"
-            },
-            {
-              "away": "Ceará",
-              "date": "2023-05-07T14:00:00+00:00",
-              "home": "Ponte Preta",
-              "score": "0-0"
-            },
-            {
-              "away": "Ceará",
-              "date": "2014-09-27T19:10:00+00:00",
-              "home": "Ponte Preta",
-              "score": "3-1"
-            },
-            {
-              "away": "Ponte Preta",
-              "date": "2014-05-24T00:50:00+00:00",
-              "home": "Ceará",
-              "score": "3-2"
-            },
-            {
-              "away": "Ceará",
-              "date": "2009-11-21T19:00:00+00:00",
-              "home": "Ponte Preta",
-              "score": "1-2"
-            },
-            {
-              "away": "Ponte Preta",
-              "date": "2009-08-15T00:00:00+00:00",
-              "home": "Ceará",
-              "score": "1-1"
-            },
-            {
-              "away": "Ponte Preta",
-              "date": "2008-08-30T19:00:00+00:00",
-              "home": "Ceará",
-              "score": "2-0"
-            }
-          ]
-        },
-        "lineups": null,
-        "social": [
-          {
-            "id": 681610,
-            "type": "tweet",
-            "url": "https://x.com/CearaSC/status/2085787852621652434",
-            "title": "",
-            "text": "Informativo do jogo disponível! ⚽✅\n\nSe liga nas informações para o jogo desta sexta-feira (7) contra a Ponte Preta. \n\n- Os portões abrirão às 18h30\n- Catracas exclusivas para mulheres e crianças \n- Pontos de atendimento ao sócio \n\nVerifique o seu check-in ou ingresso e chegue",
-            "thumbnail": "",
-            "account_handle": "CearaSC",
-            "account_name": "Ceará Sporting Club",
-            "account_verified": true,
-            "published_at": "2026-08-07T17:59:10+00:00"
-          },
-          {
-            "id": 681611,
-            "type": "tweet",
-            "url": "https://x.com/CearaSC/status/2085787368578035859",
-            "title": "",
-            "text": "O Informativo do jogo disponível! ⚽✅\n\nSe liga nas informações para o jogo desta sexta-feira (7) contra a Ponte Preta. \n\n- Os portões abrirão às 18h30\n- Catracas exclusivas para mulheres e crianças \n- Pontos de atendimento ao sócio \n\nVerifique o seu check-in ou ingresso e chegue",
-            "thumbnail": "https://pbs.twimg.com/media/HPIzU_dXAAAekRE.jpg",
-            "account_handle": "CearaSC",
-            "account_name": "Ceará Sporting Club",
-            "account_verified": true,
-            "published_at": "2026-08-07T17:57:15+00:00"
-          }
-        ]
-      },
-      "managers": {
-        "home": {
-          "id": 1803,
-          "name": "Anderson Silva",
-          "short_name": "A. Silva",
-          "country": "Brazil",
-          "current_team": {
-            "id": 169,
-            "name": "Ceará"
-          },
-          "preferred_formation": "3-4-3",
-          "formations_used": {
-            "3-4-3": 3
-          },
-          "profile": "defensive",
-          "team_style": "soft",
-          "pressing_intensity": 0.8355772944879714,
-          "defensive_line": "low",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "gegenpressing",
-              "name": "Gegenpressing",
-              "category": "pressing",
-              "emoji": "💨",
-              "description": "Immediate press after losing the ball",
-              "score": 0.199
-            },
-            {
-              "rank": 2,
-              "code": "man_press",
-              "name": "Man-Oriented Press",
-              "category": "pressing",
-              "emoji": "🎯",
-              "description": "Players follow their direct opponents everywhere",
-              "score": 0.183
-            },
-            {
-              "rank": 3,
-              "code": "high_press",
-              "name": "High Press",
-              "category": "pressing",
-              "emoji": "🔥",
-              "description": "Press defenders and keeper aggressively high up",
-              "score": 0.149
-            },
-            {
-              "rank": 4,
-              "code": "no_midfield",
-              "name": "No Midfield Just Vibes",
-              "category": "fan",
-              "emoji": "🚀",
-              "description": "Bypass midfield entirely, defend and attack direct",
-              "score": 0.046
-            }
-          ],
-          "matches_total": 3,
-          "wins": 0,
-          "draws": 1,
-          "losses": 2,
-          "win_pct": 0,
-          "avg_goals_scored": 0.33,
-          "avg_goals_conceded": 1.33,
-          "avg_possession": 48.33,
-          "avg_shots": 12,
-          "avg_shots_on_target": 3.67,
-          "avg_xg_for": 0.98,
-          "avg_xg_against": 1.26,
-          "avg_corners": 4.33,
-          "avg_yellow_cards": 1,
-          "avg_red_cards": 0,
-          "avg_fouls": 15.67,
-          "clean_sheet_pct": 0,
-          "btts_pct": 33.3,
-          "over_25_pct": 0,
-          "over_15_pct": 66.7,
-          "fail_to_score_pct": 66.7,
-          "avg_goals_scored_1h": 0,
-          "avg_goals_conceded_1h": 1
-        },
-        "away": {
-          "id": 1767,
-          "name": "Edson Boaro",
-          "short_name": "E. Boaro",
-          "country": "Brazil",
-          "current_team": {
-            "id": 844,
-            "name": "Ponte Preta"
-          },
-          "preferred_formation": "",
-          "formations_used": null,
-          "profile": "",
-          "team_style": "",
-          "pressing_intensity": null,
-          "defensive_line": "",
-          "tactical_styles": [],
-          "matches_total": 0,
-          "wins": 0,
-          "draws": 0,
-          "losses": 0,
-          "win_pct": null,
-          "avg_goals_scored": null,
-          "avg_goals_conceded": null,
-          "avg_possession": null,
-          "avg_shots": null,
-          "avg_shots_on_target": null,
-          "avg_xg_for": null,
-          "avg_xg_against": null,
-          "avg_corners": null,
-          "avg_yellow_cards": null,
-          "avg_red_cards": null,
-          "avg_fouls": null,
-          "clean_sheet_pct": null,
-          "btts_pct": null,
-          "over_25_pct": null,
-          "over_15_pct": null,
-          "fail_to_score_pct": null,
-          "avg_goals_scored_1h": null,
-          "avg_goals_conceded_1h": null
-        }
-      }
-    },
     {
       "event_id": 216399,
       "prediction": {
@@ -3649,7 +810,417 @@
           },
           "incidents": null,
           "live_stats": null,
-          "lineups": null,
+          "lineups": {
+            "away": {
+              "players": [
+                {
+                  "name": "L. Bruera",
+                  "goals": 0,
+                  "api_id": 857487,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "G",
+                  "red_card": false,
+                  "player_id": 18830,
+                  "yellow_card": false,
+                  "jersey_number": "1",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "GK",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "G. Maffini",
+                  "goals": 0,
+                  "api_id": 992968,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 90441,
+                  "yellow_card": false,
+                  "jersey_number": "2",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "DEF",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "S. Ojeda",
+                  "goals": 0,
+                  "api_id": 313250,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 90442,
+                  "yellow_card": false,
+                  "jersey_number": "30",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "DEF",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "A. Quiroga",
+                  "goals": 0,
+                  "api_id": 1484795,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 90443,
+                  "yellow_card": false,
+                  "jersey_number": "29",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "DEF",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "G. Gonzalez",
+                  "goals": 0,
+                  "api_id": 1381878,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 90445,
+                  "yellow_card": false,
+                  "jersey_number": "14",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "DEF",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "F. Romero",
+                  "goals": 0,
+                  "api_id": 871849,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 90444,
+                  "yellow_card": false,
+                  "jersey_number": "13",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "MID",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "N. Talpone",
+                  "goals": 0,
+                  "api_id": 838402,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 90446,
+                  "yellow_card": false,
+                  "jersey_number": "19",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "MID",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "G. Alanis",
+                  "goals": 0,
+                  "api_id": 609736,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 90448,
+                  "yellow_card": false,
+                  "jersey_number": "17",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "MID",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "J. Garro",
+                  "goals": 0,
+                  "api_id": 250339,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 90450,
+                  "yellow_card": false,
+                  "jersey_number": "27",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "MID",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "T. González",
+                  "goals": 0,
+                  "api_id": 1650474,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 90447,
+                  "yellow_card": false,
+                  "jersey_number": "10",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "MID",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Y. Moreno",
+                  "goals": 0,
+                  "api_id": 2036024,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 90449,
+                  "yellow_card": false,
+                  "jersey_number": "16",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "FWD",
+                  "positions_detailed": []
+                }
+              ],
+              "formation": "3-4-2-1",
+              "substitutes": []
+            },
+            "home": {
+              "players": [
+                {
+                  "name": "N. Bolcato",
+                  "goals": 0,
+                  "api_id": 2338281,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "G",
+                  "red_card": false,
+                  "player_id": 22752,
+                  "yellow_card": false,
+                  "jersey_number": "30",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "GK",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "L. Costa",
+                  "goals": 0,
+                  "api_id": 1177545,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 22757,
+                  "yellow_card": false,
+                  "jersey_number": "2",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "DEF",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "S. Studer",
+                  "goals": 0,
+                  "api_id": 1018464,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 22755,
+                  "yellow_card": false,
+                  "jersey_number": "42",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "DEF",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "I. Villalba",
+                  "goals": 0,
+                  "api_id": 875088,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 22754,
+                  "yellow_card": false,
+                  "jersey_number": "40",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "DEF",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "J. M. Elordi",
+                  "goals": 0,
+                  "api_id": 993481,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 22766,
+                  "yellow_card": false,
+                  "jersey_number": "3",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "DEF",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "T. Bottari",
+                  "goals": 0,
+                  "api_id": 1092337,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 22762,
+                  "yellow_card": false,
+                  "jersey_number": "5",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "MID",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "G. Ríos",
+                  "goals": 0,
+                  "api_id": 1160545,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 22763,
+                  "yellow_card": false,
+                  "jersey_number": "11",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "MID",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "J. Florentín",
+                  "goals": 0,
+                  "api_id": 988619,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 22758,
+                  "yellow_card": false,
+                  "jersey_number": "25",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "MID",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "M. Fernández",
+                  "goals": 0,
+                  "api_id": 1020500,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 22759,
+                  "yellow_card": false,
+                  "jersey_number": "10",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "MID",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "F. Sartori",
+                  "goals": 0,
+                  "api_id": 2123031,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 22760,
+                  "yellow_card": false,
+                  "jersey_number": "43",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "FWD",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "A. Arce",
+                  "goals": 0,
+                  "api_id": 1167312,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 16914,
+                  "yellow_card": false,
+                  "jersey_number": "9",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "specific_position": "FWD",
+                  "positions_detailed": []
+                }
+              ],
+              "formation": "4-3-1-2",
+              "substitutes": []
+            },
+            "confirmed": false
+          },
           "shotmap": null,
           "momentum": null,
           "xg_per_minute": null,
@@ -3993,7 +1564,417 @@
             }
           ]
         },
-        "lineups": null,
+        "lineups": {
+          "away": {
+            "players": [
+              {
+                "name": "L. Bruera",
+                "goals": 0,
+                "api_id": 857487,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "G",
+                "red_card": false,
+                "player_id": 18830,
+                "yellow_card": false,
+                "jersey_number": "1",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "GK",
+                "positions_detailed": []
+              },
+              {
+                "name": "G. Maffini",
+                "goals": 0,
+                "api_id": 992968,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 90441,
+                "yellow_card": false,
+                "jersey_number": "2",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "DEF",
+                "positions_detailed": []
+              },
+              {
+                "name": "S. Ojeda",
+                "goals": 0,
+                "api_id": 313250,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 90442,
+                "yellow_card": false,
+                "jersey_number": "30",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "DEF",
+                "positions_detailed": []
+              },
+              {
+                "name": "A. Quiroga",
+                "goals": 0,
+                "api_id": 1484795,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 90443,
+                "yellow_card": false,
+                "jersey_number": "29",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "DEF",
+                "positions_detailed": []
+              },
+              {
+                "name": "G. Gonzalez",
+                "goals": 0,
+                "api_id": 1381878,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 90445,
+                "yellow_card": false,
+                "jersey_number": "14",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "DEF",
+                "positions_detailed": []
+              },
+              {
+                "name": "F. Romero",
+                "goals": 0,
+                "api_id": 871849,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 90444,
+                "yellow_card": false,
+                "jersey_number": "13",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "MID",
+                "positions_detailed": []
+              },
+              {
+                "name": "N. Talpone",
+                "goals": 0,
+                "api_id": 838402,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 90446,
+                "yellow_card": false,
+                "jersey_number": "19",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "MID",
+                "positions_detailed": []
+              },
+              {
+                "name": "G. Alanis",
+                "goals": 0,
+                "api_id": 609736,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 90448,
+                "yellow_card": false,
+                "jersey_number": "17",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "MID",
+                "positions_detailed": []
+              },
+              {
+                "name": "J. Garro",
+                "goals": 0,
+                "api_id": 250339,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 90450,
+                "yellow_card": false,
+                "jersey_number": "27",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "MID",
+                "positions_detailed": []
+              },
+              {
+                "name": "T. González",
+                "goals": 0,
+                "api_id": 1650474,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 90447,
+                "yellow_card": false,
+                "jersey_number": "10",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "MID",
+                "positions_detailed": []
+              },
+              {
+                "name": "Y. Moreno",
+                "goals": 0,
+                "api_id": 2036024,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 90449,
+                "yellow_card": false,
+                "jersey_number": "16",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "FWD",
+                "positions_detailed": []
+              }
+            ],
+            "formation": "3-4-2-1",
+            "substitutes": []
+          },
+          "home": {
+            "players": [
+              {
+                "name": "N. Bolcato",
+                "goals": 0,
+                "api_id": 2338281,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "G",
+                "red_card": false,
+                "player_id": 22752,
+                "yellow_card": false,
+                "jersey_number": "30",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "GK",
+                "positions_detailed": []
+              },
+              {
+                "name": "L. Costa",
+                "goals": 0,
+                "api_id": 1177545,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 22757,
+                "yellow_card": false,
+                "jersey_number": "2",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "DEF",
+                "positions_detailed": []
+              },
+              {
+                "name": "S. Studer",
+                "goals": 0,
+                "api_id": 1018464,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 22755,
+                "yellow_card": false,
+                "jersey_number": "42",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "DEF",
+                "positions_detailed": []
+              },
+              {
+                "name": "I. Villalba",
+                "goals": 0,
+                "api_id": 875088,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 22754,
+                "yellow_card": false,
+                "jersey_number": "40",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "DEF",
+                "positions_detailed": []
+              },
+              {
+                "name": "J. M. Elordi",
+                "goals": 0,
+                "api_id": 993481,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 22766,
+                "yellow_card": false,
+                "jersey_number": "3",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "DEF",
+                "positions_detailed": []
+              },
+              {
+                "name": "T. Bottari",
+                "goals": 0,
+                "api_id": 1092337,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 22762,
+                "yellow_card": false,
+                "jersey_number": "5",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "MID",
+                "positions_detailed": []
+              },
+              {
+                "name": "G. Ríos",
+                "goals": 0,
+                "api_id": 1160545,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 22763,
+                "yellow_card": false,
+                "jersey_number": "11",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "MID",
+                "positions_detailed": []
+              },
+              {
+                "name": "J. Florentín",
+                "goals": 0,
+                "api_id": 988619,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 22758,
+                "yellow_card": false,
+                "jersey_number": "25",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "MID",
+                "positions_detailed": []
+              },
+              {
+                "name": "M. Fernández",
+                "goals": 0,
+                "api_id": 1020500,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 22759,
+                "yellow_card": false,
+                "jersey_number": "10",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "MID",
+                "positions_detailed": []
+              },
+              {
+                "name": "F. Sartori",
+                "goals": 0,
+                "api_id": 2123031,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 22760,
+                "yellow_card": false,
+                "jersey_number": "43",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "FWD",
+                "positions_detailed": []
+              },
+              {
+                "name": "A. Arce",
+                "goals": 0,
+                "api_id": 1167312,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 16914,
+                "yellow_card": false,
+                "jersey_number": "9",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "specific_position": "FWD",
+                "positions_detailed": []
+              }
+            ],
+            "formation": "4-3-1-2",
+            "substitutes": []
+          },
+          "confirmed": false
+        },
         "social": []
       },
       "managers": {
@@ -18868,14 +16849,7 @@
                 "expected_return": "2026-08-08"
               }
             ],
-            "away": [
-              {
-                "name": "Dominik Sarapata",
-                "status": "injured",
-                "reason": "Shoulder Injury",
-                "expected_return": "2026-08-20"
-              }
-            ]
+            "away": []
           },
           "venue": {
             "id": 413,
@@ -19108,14 +17082,7 @@
               "expected_return": "2026-08-08"
             }
           ],
-          "away": [
-            {
-              "name": "Dominik Sarapata",
-              "status": "injured",
-              "reason": "Shoulder Injury",
-              "expected_return": "2026-08-20"
-            }
-          ]
+          "away": []
         },
         "venue": {
           "id": 413,
@@ -20277,10 +18244,22 @@
                 "expected_return": "2026-08-20"
               },
               {
+                "name": "Johan Hove",
+                "status": "suspended",
+                "reason": "yellow_card_accumulation_suspension",
+                "expected_return": "2026-08-08"
+              },
+              {
                 "name": "Martin Ellingsen",
                 "status": "injured",
                 "reason": "Achilles Tendon Injury",
                 "expected_return": "2026-08-31"
+              },
+              {
+                "name": "Taha Ayari",
+                "status": "injured",
+                "reason": "Calf Injury",
+                "expected_return": "2026-08-20"
               },
               {
                 "name": "Zadok Yohanna",
@@ -20574,10 +18553,22 @@
               "expected_return": "2026-08-20"
             },
             {
+              "name": "Johan Hove",
+              "status": "suspended",
+              "reason": "yellow_card_accumulation_suspension",
+              "expected_return": "2026-08-08"
+            },
+            {
               "name": "Martin Ellingsen",
               "status": "injured",
               "reason": "Achilles Tendon Injury",
               "expected_return": "2026-08-31"
+            },
+            {
+              "name": "Taha Ayari",
+              "status": "injured",
+              "reason": "Calf Injury",
+              "expected_return": "2026-08-20"
             },
             {
               "name": "Zadok Yohanna",
@@ -21732,18 +19723,6 @@
             ],
             "away": [
               {
-                "name": "Duk",
-                "status": "suspended",
-                "reason": "red_card_suspension",
-                "expected_return": "2026-08-16"
-              },
-              {
-                "name": "Jamie McGrath",
-                "status": "injured",
-                "reason": "Calf Injury",
-                "expected_return": "2026-08-20"
-              },
-              {
                 "name": "Kristers Tobers",
                 "status": "injured",
                 "reason": "Knee Injury",
@@ -21982,18 +19961,6 @@
             }
           ],
           "away": [
-            {
-              "name": "Duk",
-              "status": "suspended",
-              "reason": "red_card_suspension",
-              "expected_return": "2026-08-16"
-            },
-            {
-              "name": "Jamie McGrath",
-              "status": "injured",
-              "reason": "Calf Injury",
-              "expected_return": "2026-08-20"
-            },
             {
               "name": "Kristers Tobers",
               "status": "injured",
@@ -25281,12 +23248,6 @@
                 "status": "injured",
                 "reason": "",
                 "expected_return": null
-              },
-              {
-                "name": "Ryan Andrews",
-                "status": "injured",
-                "reason": "Knock Injury",
-                "expected_return": "2026-08-15"
               }
             ],
             "away": [
@@ -25354,7 +23315,10 @@
           },
           "funfacts": null,
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Watford's got injury headaches, but Crawley are massive underdogs here.** A Carabao Cup warmup at Vicarage Road should be a comfortable tune-up for the Championship side — if they can get up to speed early. 🏆\n\nWatford are patchy in preseason (1W, 3L), but they're still a league above. Crawley have shown some bite with two wins lately, yet they're without key keeper **L. Copley** and facing a step-up in quality that could expose them fast.\n\nKey storylines:\n\n- **Watford's midfield pivot** — **I. Louza** and **E. Kayembe** need to control tempo early and starve Crawley of possession\n- **Crawley's transition game** — They'll hunt for quick breaks; **O. Kamara** up top is their only real outlet\n- **Depth test for Watford** — Missing **M. Sissoko** and **R. Andrews**, so fringe players like **L. Kjerrumgaard** and **M. Doumbia** get minutes to impress\n\nExpected lineups:\n\n- **Watford**: A. Marriott, M. Pollock, K. K. Biakolo, J. Ngakia, T. Akomeah, I. Louza, E. Kayembe, G. Chakvetadze, A. Nabizada, L. Kjerrumgaard, M. Doumbia\n- **Crawley Town**: M. Cox, C. Barker, J. Russell, P. Arganese-McDermott, O. Mrisho, A. Adeyemo, H. Forster, L. Watson\n\nPrediction:\n\n**Watford 2–0 Crawley Town**\n\nWatford should cruise past League Two opposition. Expect controlled, professional football from the hosts. 🎯",
+            "generated_at": "2026-08-07T22:41:35.412365+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-08-05T16:05:25.025870+00:00",
@@ -25502,12 +23466,6 @@
               "status": "injured",
               "reason": "",
               "expected_return": null
-            },
-            {
-              "name": "Ryan Andrews",
-              "status": "injured",
-              "reason": "Knock Injury",
-              "expected_return": "2026-08-15"
             }
           ],
           "away": [
@@ -25569,7 +23527,10 @@
         },
         "funfacts": null,
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Watford's got injury headaches, but Crawley are massive underdogs here.** A Carabao Cup warmup at Vicarage Road should be a comfortable tune-up for the Championship side — if they can get up to speed early. 🏆\n\nWatford are patchy in preseason (1W, 3L), but they're still a league above. Crawley have shown some bite with two wins lately, yet they're without key keeper **L. Copley** and facing a step-up in quality that could expose them fast.\n\nKey storylines:\n\n- **Watford's midfield pivot** — **I. Louza** and **E. Kayembe** need to control tempo early and starve Crawley of possession\n- **Crawley's transition game** — They'll hunt for quick breaks; **O. Kamara** up top is their only real outlet\n- **Depth test for Watford** — Missing **M. Sissoko** and **R. Andrews**, so fringe players like **L. Kjerrumgaard** and **M. Doumbia** get minutes to impress\n\nExpected lineups:\n\n- **Watford**: A. Marriott, M. Pollock, K. K. Biakolo, J. Ngakia, T. Akomeah, I. Louza, E. Kayembe, G. Chakvetadze, A. Nabizada, L. Kjerrumgaard, M. Doumbia\n- **Crawley Town**: M. Cox, C. Barker, J. Russell, P. Arganese-McDermott, O. Mrisho, A. Adeyemo, H. Forster, L. Watson\n\nPrediction:\n\n**Watford 2–0 Crawley Town**\n\nWatford should cruise past League Two opposition. Expect controlled, professional football from the hosts. 🎯",
+          "generated_at": "2026-08-07T22:41:35.412365+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-07",
@@ -32392,14 +30353,7 @@
             ]
           },
           "unavailable_players": {
-            "home": [
-              {
-                "name": "Lucas Paquetá",
-                "status": "doubtful",
-                "reason": "",
-                "expected_return": null
-              }
-            ],
+            "home": [],
             "away": [
               {
                 "name": "Kusini Yengi",
@@ -32634,14 +30588,7 @@
           ]
         },
         "unavailable_players": {
-          "home": [
-            {
-              "name": "Lucas Paquetá",
-              "status": "doubtful",
-              "reason": "",
-              "expected_return": null
-            }
-          ],
+          "home": [],
           "away": [
             {
               "name": "Kusini Yengi",
@@ -33917,7 +31864,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Cardiff's in mood for a cup rout, and Swindon might be in for a long afternoon.** The Bluebirds have been absolutely clinical in their warm-ups, while the Robins are nowhere near that level yet. 🔵\n\nCardiff's scoring machine is ticking over nicely after demolishing everyone in their path. Swindon's won their last couple but have looked shaky on the road — and this is the worst place to visit right now.\n\nKey storylines:\n\n- **Cardiff's attacking prowess** is the story: three wins with 15 goals across their last three matches\n- **Swindon's soft defense** has conceded freely (1-3 loss to Bristol City a reminder they leak goals)\n- Cup underdog moment: **Swindon** will need discipline and a breakout performance from their frontline to stay competitive\n\nExpected lineups:\n\n- **Cardiff City**: J. Alnwick, D. Lawlor, J. Bagan, P. Ng, W. T. Fish, O. Tanner, R. Colwill, Y. Salech\n- **Swindon Town**: C. Brann, J. McGregor, W. Wright, R. Tafazolli, F. Mabete, O. Clarke, T. Nichols, J. Snowdon\n\nPrediction:\n\n**Cardiff City 3-1 Swindon Town.** Cardiff's the clear favorite here — their form is too hot to ignore. 🔥",
+            "generated_at": "2026-08-07T22:41:44.315277+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-08-02T02:15:26.801673+00:00",
@@ -34126,7 +32076,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Cardiff's in mood for a cup rout, and Swindon might be in for a long afternoon.** The Bluebirds have been absolutely clinical in their warm-ups, while the Robins are nowhere near that level yet. 🔵\n\nCardiff's scoring machine is ticking over nicely after demolishing everyone in their path. Swindon's won their last couple but have looked shaky on the road — and this is the worst place to visit right now.\n\nKey storylines:\n\n- **Cardiff's attacking prowess** is the story: three wins with 15 goals across their last three matches\n- **Swindon's soft defense** has conceded freely (1-3 loss to Bristol City a reminder they leak goals)\n- Cup underdog moment: **Swindon** will need discipline and a breakout performance from their frontline to stay competitive\n\nExpected lineups:\n\n- **Cardiff City**: J. Alnwick, D. Lawlor, J. Bagan, P. Ng, W. T. Fish, O. Tanner, R. Colwill, Y. Salech\n- **Swindon Town**: C. Brann, J. McGregor, W. Wright, R. Tafazolli, F. Mabete, O. Clarke, T. Nichols, J. Snowdon\n\nPrediction:\n\n**Cardiff City 3-1 Swindon Town.** Cardiff's the clear favorite here — their form is too hot to ignore. 🔥",
+          "generated_at": "2026-08-07T22:41:44.315277+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-07",
@@ -34377,6 +32330,1255 @@
           "fail_to_score_pct": 10,
           "avg_goals_scored_1h": 1,
           "avg_goals_conceded_1h": 0.7
+        }
+      }
+    },
+    {
+      "event_id": 212757,
+      "prediction": {
+        "id": 591,
+        "event": {
+          "id": 212757,
+          "league": {
+            "id": 40,
+            "name": "Carabao Cup",
+            "country": "England",
+            "is_women": false,
+            "current_season": {
+              "id": 1092,
+              "name": "EFL Cup 26/27",
+              "year": 2026,
+              "start_date": "2026-07-01",
+              "end_date": "2027-06-30"
+            }
+          },
+          "season": {
+            "id": 1092,
+            "name": "EFL Cup 26/27",
+            "year": 2026
+          },
+          "home_team": "Preston North End",
+          "away_team": "Huddersfield Town",
+          "home_team_obj": {
+            "id": 214,
+            "name": "Preston North End",
+            "short_name": "Preston",
+            "country": "England",
+            "coach": {
+              "name": "Paul Heckingbottom",
+              "shortName": "P. Heckingbottom"
+            },
+            "venue": null
+          },
+          "away_team_obj": {
+            "id": 1250,
+            "name": "Huddersfield Town",
+            "short_name": "Huddersfield",
+            "country": "England",
+            "coach": {
+              "name": "Martin Drury",
+              "shortName": "M. Drury"
+            },
+            "venue": {
+              "id": 717,
+              "name": "Accu Stadium",
+              "city": "Huddersfield",
+              "country": "England",
+              "capacity": 24500
+            }
+          },
+          "event_date": "2026-08-08T14:00:00Z",
+          "round_number": 1,
+          "round_name": "Round 1",
+          "group_name": null,
+          "status": "notstarted",
+          "home_score": null,
+          "away_score": null,
+          "home_score_ht": null,
+          "away_score_ht": null,
+          "current_minute": null,
+          "period": "",
+          "odds_home": 2.2,
+          "odds_draw": 3.57,
+          "odds_away": 2.94,
+          "odds_over_15": 1.2,
+          "odds_over_25": 1.67,
+          "odds_over_35": 2.62,
+          "odds_under_15": 4.13,
+          "odds_under_25": 2.12,
+          "odds_under_35": 1.44,
+          "odds_btts_yes": 1.56,
+          "odds_btts_no": 2.28,
+          "actual_home_xg": null,
+          "actual_away_xg": null,
+          "home_xg_live": null,
+          "away_xg_live": null,
+          "penalty_shootout": null,
+          "extra_time_score": null,
+          "is_local_derby": false,
+          "is_neutral_ground": null,
+          "travel_distance_km": 62,
+          "weather_code": null,
+          "wind_speed": 11.9,
+          "temperature_c": 20,
+          "pitch_condition": null,
+          "attendance": null,
+          "referee": {
+            "id": 2001,
+            "name": "Sebastian Stockbridge",
+            "country": "England",
+            "nationality_a3": "",
+            "birthdate": null,
+            "yellowCards": 1274,
+            "redCards": 39,
+            "career_games": 351,
+            "career_yellow_cards": 1274,
+            "career_red_cards": 39
+          },
+          "home_coach": {
+            "id": 178,
+            "name": "Paul Heckingbottom",
+            "short_name": "P. Heckingbottom",
+            "country": "England",
+            "profile": "balanced",
+            "preferred_formation": "3-5-2",
+            "pressing_intensity": 0.5122361332614392,
+            "defensive_line": "mid",
+            "top_styles": [
+              "cross_pray",
+              "no_midfield"
+            ]
+          },
+          "away_coach": {
+            "id": 3252,
+            "name": "Martin Drury",
+            "short_name": "M. Drury",
+            "country": "England",
+            "profile": "",
+            "preferred_formation": "",
+            "pressing_intensity": null,
+            "defensive_line": "",
+            "top_styles": []
+          },
+          "unavailable_players": null,
+          "venue": {
+            "id": 1750,
+            "name": "Goodison Park",
+            "city": "Liverpool",
+            "country": "England",
+            "capacity": 39571,
+            "latitude": 53.439255,
+            "longitude": -2.967065,
+            "pitch_x": 100,
+            "pitch_y": 68,
+            "built_year": 1892
+          },
+          "incidents": null,
+          "live_stats": null,
+          "lineups": null,
+          "shotmap": null,
+          "momentum": null,
+          "xg_per_minute": null,
+          "average_positions": null,
+          "jerseys": {
+            "away": {
+              "GK": {
+                "base": "ffffff",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "000000",
+                "sleeve": "ffffff"
+              },
+              "player": {
+                "base": "0270bb",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "0e0b01",
+                "sleeve": "ffffff",
+                "stripes": "ffffff",
+                "sleevelong": "0170bb"
+              }
+            },
+            "home": {
+              "GK": {
+                "base": "000000",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "ffffff",
+                "sleeve": "000000"
+              },
+              "player": {
+                "base": "ffffff",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "00004d",
+                "sleeve": "000847"
+              }
+            }
+          },
+          "funfacts": [
+            {
+              "type_id": 2,
+              "sentence": "Huddersfield haven't won any of their last 3 games against Preston."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Preston have lost 4 matches in a row."
+            },
+            {
+              "type_id": 6,
+              "sentence": "During the last 11 meetings with Preston playing at home, Preston have won 8 times, there have been 2 draws while Huddersfield have won 1 times. The goal difference is 22-7 in favour of Preston."
+            }
+          ],
+          "sr_stats": null,
+          "ai_preview": {
+            "text": "**Preston's preseason collapse meets Huddersfield's mixed form in a neutral-ground Carabao Cup clash** — this one's got upset written all over it. 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\nPreston have looked dreadful in warm-ups, dropping all five friendlies and leaking goals for fun. Huddersfield aren't exactly flying either, but they've at least picked up wins against Middlesbrough and Oldham Athletic, suggesting some actual attacking rhythm. That's a massive gap in readiness right now.\n\nKey storylines:\n\n- **Preston's backline** will be tested immediately — conceding 9 goals in 3 preseason games is a nightmare start to build from\n- **Huddersfield's attacking threat** (Spencer, Bashir, Evans) could feast on a Preston defense that's clearly not match-fit\n- Early-season cup ties favor teams with any kind of form; Preston have none\n\nExpected lineups:\n\n- **Preston North End**: Cornell, Lindsay, Hughes, Storey, Tarry, Bauer, Potts, Whiteman, Brady, Osmajić, Evans\n- **Huddersfield Town**: Hurl, Sørensen, Balker, Murray, Smith-Sway, Kasumu, Evans, Vost, Sebine, Bashir, Spencer\n\nPrediction:\n\n**Huddersfield 2-0 Preston** — the visitors are too soft right now, and Town have at least shown they can string passes together. Slight edge to the Terriers. 📺",
+            "generated_at": "2026-08-07T22:41:28.849404+00:00"
+          },
+          "live_websocket": true
+        },
+        "created_at": "2026-08-02T02:15:26.706479+00:00",
+        "prob_home_win": 42.3,
+        "prob_draw": 26.1,
+        "prob_away_win": 31.6,
+        "predicted_result": "H",
+        "expected_home_goals": 1.599,
+        "expected_away_goals": 1.783,
+        "prob_over_15": 77.8,
+        "prob_over_25": 56.4,
+        "prob_over_35": 35.7,
+        "prob_btts_yes": 59.4,
+        "confidence": 0.4229,
+        "model_version": "dc-blend-v1",
+        "most_likely_score": "1-1",
+        "favorite": "H",
+        "favorite_prob": 42.3,
+        "favorite_recommend": false,
+        "over_15_recommend": false,
+        "over_25_recommend": false,
+        "over_35_recommend": false,
+        "btts_recommend": false,
+        "winner_recommend": false
+      },
+      "event_detail": {
+        "id": 212757,
+        "league": {
+          "id": 40,
+          "name": "Carabao Cup",
+          "country": "England",
+          "is_women": false,
+          "current_season": {
+            "id": 1092,
+            "name": "EFL Cup 26/27",
+            "year": 2026,
+            "start_date": "2026-07-01",
+            "end_date": "2027-06-30"
+          }
+        },
+        "season": {
+          "id": 1092,
+          "name": "EFL Cup 26/27",
+          "year": 2026
+        },
+        "home_team": "Preston North End",
+        "away_team": "Huddersfield Town",
+        "home_team_obj": {
+          "id": 214,
+          "name": "Preston North End",
+          "short_name": "Preston",
+          "country": "England",
+          "coach": {
+            "name": "Paul Heckingbottom",
+            "shortName": "P. Heckingbottom"
+          },
+          "venue": null
+        },
+        "away_team_obj": {
+          "id": 1250,
+          "name": "Huddersfield Town",
+          "short_name": "Huddersfield",
+          "country": "England",
+          "coach": {
+            "name": "Martin Drury",
+            "shortName": "M. Drury"
+          },
+          "venue": {
+            "id": 717,
+            "name": "Accu Stadium",
+            "city": "Huddersfield",
+            "country": "England",
+            "capacity": 24500
+          }
+        },
+        "event_date": "2026-08-08T17:00:00+03:00",
+        "round_number": 1,
+        "round_name": "Round 1",
+        "group_name": null,
+        "status": "notstarted",
+        "home_score": null,
+        "away_score": null,
+        "home_score_ht": null,
+        "away_score_ht": null,
+        "current_minute": null,
+        "period": "",
+        "odds_home": 2.2,
+        "odds_draw": 3.57,
+        "odds_away": 2.94,
+        "odds_over_15": 1.2,
+        "odds_over_25": 1.67,
+        "odds_over_35": 2.62,
+        "odds_under_15": 4.13,
+        "odds_under_25": 2.12,
+        "odds_under_35": 1.44,
+        "odds_btts_yes": 1.56,
+        "odds_btts_no": 2.28,
+        "actual_home_xg": null,
+        "actual_away_xg": null,
+        "home_xg_live": null,
+        "away_xg_live": null,
+        "penalty_shootout": null,
+        "extra_time_score": null,
+        "is_local_derby": false,
+        "is_neutral_ground": null,
+        "travel_distance_km": 62,
+        "weather_code": null,
+        "wind_speed": 11.9,
+        "temperature_c": 20,
+        "pitch_condition": null,
+        "attendance": null,
+        "referee": {
+          "id": 2001,
+          "name": "Sebastian Stockbridge",
+          "country": "England",
+          "nationality_a3": "",
+          "birthdate": null,
+          "yellowCards": 1274,
+          "redCards": 39,
+          "career_games": 351,
+          "career_yellow_cards": 1274,
+          "career_red_cards": 39
+        },
+        "home_coach": {
+          "id": 178,
+          "name": "Paul Heckingbottom",
+          "short_name": "P. Heckingbottom",
+          "country": "England",
+          "profile": "balanced",
+          "preferred_formation": "3-5-2",
+          "pressing_intensity": 0.5122361332614392,
+          "defensive_line": "mid",
+          "top_styles": [
+            "cross_pray",
+            "no_midfield"
+          ]
+        },
+        "away_coach": {
+          "id": 3252,
+          "name": "Martin Drury",
+          "short_name": "M. Drury",
+          "country": "England",
+          "profile": "",
+          "preferred_formation": "",
+          "pressing_intensity": null,
+          "defensive_line": "",
+          "top_styles": []
+        },
+        "unavailable_players": null,
+        "venue": {
+          "id": 1750,
+          "name": "Goodison Park",
+          "city": "Liverpool",
+          "country": "England",
+          "capacity": 39571,
+          "latitude": 53.439255,
+          "longitude": -2.967065,
+          "pitch_x": 100,
+          "pitch_y": 68,
+          "built_year": 1892
+        },
+        "live_stats": null,
+        "jerseys": {
+          "away": {
+            "GK": {
+              "base": "ffffff",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "000000",
+              "sleeve": "ffffff"
+            },
+            "player": {
+              "base": "0270bb",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "0e0b01",
+              "sleeve": "ffffff",
+              "stripes": "ffffff",
+              "sleevelong": "0170bb"
+            }
+          },
+          "home": {
+            "GK": {
+              "base": "000000",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "ffffff",
+              "sleeve": "000000"
+            },
+            "player": {
+              "base": "ffffff",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "00004d",
+              "sleeve": "000847"
+            }
+          }
+        },
+        "funfacts": [
+          {
+            "type_id": 2,
+            "sentence": "Huddersfield haven't won any of their last 3 games against Preston."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Preston have lost 4 matches in a row."
+          },
+          {
+            "type_id": 6,
+            "sentence": "During the last 11 meetings with Preston playing at home, Preston have won 8 times, there have been 2 draws while Huddersfield have won 1 times. The goal difference is 22-7 in favour of Preston."
+          }
+        ],
+        "sr_stats": null,
+        "ai_preview": {
+          "text": "**Preston's preseason collapse meets Huddersfield's mixed form in a neutral-ground Carabao Cup clash** — this one's got upset written all over it. 🏴󠁧󠁢󠁥󠁮󠁧󠁿\n\nPreston have looked dreadful in warm-ups, dropping all five friendlies and leaking goals for fun. Huddersfield aren't exactly flying either, but they've at least picked up wins against Middlesbrough and Oldham Athletic, suggesting some actual attacking rhythm. That's a massive gap in readiness right now.\n\nKey storylines:\n\n- **Preston's backline** will be tested immediately — conceding 9 goals in 3 preseason games is a nightmare start to build from\n- **Huddersfield's attacking threat** (Spencer, Bashir, Evans) could feast on a Preston defense that's clearly not match-fit\n- Early-season cup ties favor teams with any kind of form; Preston have none\n\nExpected lineups:\n\n- **Preston North End**: Cornell, Lindsay, Hughes, Storey, Tarry, Bauer, Potts, Whiteman, Brady, Osmajić, Evans\n- **Huddersfield Town**: Hurl, Sørensen, Balker, Murray, Smith-Sway, Kasumu, Evans, Vost, Sebine, Bashir, Spencer\n\nPrediction:\n\n**Huddersfield 2-0 Preston** — the visitors are too soft right now, and Town have at least shown they can string passes together. Slight edge to the Terriers. 📺",
+          "generated_at": "2026-08-07T22:41:28.849404+00:00"
+        },
+        "live_websocket": true,
+        "home_form": {
+          "calculated_at": "2026-08-07",
+          "matches_played": 5,
+          "form_string": "LWLDW",
+          "wins": 2,
+          "draws": 1,
+          "losses": 2,
+          "points_last_n": 7,
+          "goals_scored_last_n": 9,
+          "goals_conceded_last_n": 7,
+          "avg_xg": 1.32035,
+          "avg_xg_conceded": 1.1069,
+          "avg_shots": 18,
+          "avg_shots_on_target": 5.5,
+          "avg_key_passes": 12,
+          "goal_conversion_rate": 3.4081872230847883,
+          "defensive_efficiency": -2.1619839190532115,
+          "clean_sheets": 2,
+          "avg_pass_accuracy": 85.50703179981002,
+          "duel_win_rate": 0.42857142857142855,
+          "aerial_win_rate": 0.4915254237288136,
+          "avg_fouls": 8.5,
+          "avg_yellow_cards": 0.5,
+          "home_ppg": 1,
+          "away_ppg": 2.4,
+          "home_goals_scored": 7,
+          "home_goals_conceded": 9,
+          "away_goals_scored": 15,
+          "away_goals_conceded": 5,
+          "avg_team_rating": 6.668749999999999
+        },
+        "away_form": {
+          "calculated_at": "2026-08-07",
+          "matches_played": 5,
+          "form_string": "LDDLW",
+          "wins": 1,
+          "draws": 2,
+          "losses": 2,
+          "points_last_n": 5,
+          "goals_scored_last_n": 8,
+          "goals_conceded_last_n": 8,
+          "avg_xg": 3.3135333333333334,
+          "avg_xg_conceded": 3.920666666666667,
+          "avg_shots": 9,
+          "avg_shots_on_target": 3.3333333333333335,
+          "avg_key_passes": 6.666666666666667,
+          "goal_conversion_rate": 0.8047803955495644,
+          "defensive_efficiency": 0.3198435640197246,
+          "clean_sheets": 1,
+          "avg_pass_accuracy": 75.30447211779449,
+          "duel_win_rate": 0.5084033613445378,
+          "aerial_win_rate": 0.42592592592592593,
+          "avg_fouls": 6.666666666666667,
+          "avg_yellow_cards": 1,
+          "home_ppg": 0.8,
+          "away_ppg": 0.4,
+          "home_goals_scored": 8,
+          "home_goals_conceded": 11,
+          "away_goals_scored": 3,
+          "away_goals_conceded": 7,
+          "avg_team_rating": 6.798214285714285
+        },
+        "head_to_head": {
+          "total_matches": 2,
+          "home_wins": 1,
+          "draws": 0,
+          "away_wins": 1,
+          "home_goals": 2,
+          "away_goals": 3,
+          "avg_total_goals": 2.5,
+          "home_win_rate": 0.5,
+          "away_win_rate": 0.5,
+          "recent_matches": [
+            {
+              "away": "Huddersfield Town",
+              "date": "2012-04-14T14:00:00+00:00",
+              "home": "Preston North End",
+              "score": "1-0"
+            },
+            {
+              "away": "Preston North End",
+              "date": "2011-10-22T14:00:00+00:00",
+              "home": "Huddersfield Town",
+              "score": "3-1"
+            }
+          ]
+        },
+        "lineups": null,
+        "social": []
+      },
+      "managers": {
+        "home": {
+          "id": 178,
+          "name": "Paul Heckingbottom",
+          "short_name": "P. Heckingbottom",
+          "country": "England",
+          "current_team": {
+            "id": 214,
+            "name": "Preston North End"
+          },
+          "preferred_formation": "3-5-2",
+          "formations_used": {
+            "3-4-3": 2,
+            "3-5-2": 15,
+            "4-4-2": 5,
+            "5-3-2": 10,
+            "3-1-4-2": 10,
+            "3-4-1-2": 5,
+            "3-4-2-1": 3,
+            "3-5-1-1": 2,
+            "4-2-3-1": 1
+          },
+          "profile": "balanced",
+          "team_style": "neutral",
+          "pressing_intensity": 0.5122361332614392,
+          "defensive_line": "mid",
+          "tactical_styles": [
+            {
+              "rank": 1,
+              "code": "cross_pray",
+              "name": "Cross & Pray",
+              "category": "wide",
+              "emoji": "🙏",
+              "description": "High-volume hopeful crosses into the box",
+              "score": 0.084
+            },
+            {
+              "rank": 2,
+              "code": "no_midfield",
+              "name": "No Midfield Just Vibes",
+              "category": "fan",
+              "emoji": "🚀",
+              "description": "Bypass midfield entirely, defend and attack direct",
+              "score": 0.056
+            },
+            {
+              "rank": 3,
+              "code": "set_piece",
+              "name": "Set-Piece Reliant",
+              "category": "defensive",
+              "emoji": "🎯",
+              "description": "Goals mainly from corners and free kicks",
+              "score": 0.055
+            },
+            {
+              "rank": 4,
+              "code": "gegenpressing",
+              "name": "Gegenpressing",
+              "category": "pressing",
+              "emoji": "💨",
+              "description": "Immediate press after losing the ball",
+              "score": 0.05
+            }
+          ],
+          "matches_total": 55,
+          "wins": 17,
+          "draws": 15,
+          "losses": 23,
+          "win_pct": 30.9,
+          "avg_goals_scored": 1.2,
+          "avg_goals_conceded": 1.42,
+          "avg_possession": 46.81,
+          "avg_shots": 11.22,
+          "avg_shots_on_target": 3.63,
+          "avg_xg_for": 1.19,
+          "avg_xg_against": 1.53,
+          "avg_corners": 4.56,
+          "avg_yellow_cards": 1.76,
+          "avg_red_cards": 0.05,
+          "avg_fouls": 10.29,
+          "clean_sheet_pct": 18.2,
+          "btts_pct": 56.4,
+          "over_25_pct": 49.1,
+          "over_15_pct": 76.4,
+          "fail_to_score_pct": 29.1,
+          "avg_goals_scored_1h": 0.55,
+          "avg_goals_conceded_1h": 0.69
+        },
+        "away": {
+          "id": 860,
+          "name": "Liam Manning",
+          "short_name": "L. Manning",
+          "country": "England",
+          "current_team": {
+            "id": 1250,
+            "name": "Huddersfield Town"
+          },
+          "preferred_formation": "4-2-3-1",
+          "formations_used": {
+            "4-2-3-1": 3
+          },
+          "profile": "balanced",
+          "team_style": "soft",
+          "pressing_intensity": null,
+          "defensive_line": "",
+          "tactical_styles": [],
+          "matches_total": 3,
+          "wins": 0,
+          "draws": 2,
+          "losses": 1,
+          "win_pct": 0,
+          "avg_goals_scored": 1,
+          "avg_goals_conceded": 1.67,
+          "avg_possession": 31.33,
+          "avg_shots": 9,
+          "avg_shots_on_target": 3.33,
+          "avg_xg_for": 3.39,
+          "avg_xg_against": 3.92,
+          "avg_corners": 2,
+          "avg_yellow_cards": 1,
+          "avg_red_cards": 0,
+          "avg_fouls": 6.67,
+          "clean_sheet_pct": 0,
+          "btts_pct": 66.7,
+          "over_25_pct": 33.3,
+          "over_15_pct": 100,
+          "fail_to_score_pct": 33.3,
+          "avg_goals_scored_1h": 0.33,
+          "avg_goals_conceded_1h": 0.33
+        }
+      }
+    },
+    {
+      "event_id": 212764,
+      "prediction": {
+        "id": 759,
+        "event": {
+          "id": 212764,
+          "league": {
+            "id": 40,
+            "name": "Carabao Cup",
+            "country": "England",
+            "is_women": false,
+            "current_season": {
+              "id": 1092,
+              "name": "EFL Cup 26/27",
+              "year": 2026,
+              "start_date": "2026-07-01",
+              "end_date": "2027-06-30"
+            }
+          },
+          "season": {
+            "id": 1092,
+            "name": "EFL Cup 26/27",
+            "year": 2026
+          },
+          "home_team": "Bromley",
+          "away_team": "Reading",
+          "home_team_obj": {
+            "id": 1424,
+            "name": "Bromley",
+            "short_name": "Bromley",
+            "country": "England",
+            "coach": {
+              "name": "Andy Woodman",
+              "shortName": "A. Woodman"
+            },
+            "venue": {
+              "id": 874,
+              "name": "Hayes Lane",
+              "city": "Bromley",
+              "country": "England",
+              "capacity": 5000
+            }
+          },
+          "away_team_obj": {
+            "id": 1248,
+            "name": "Reading",
+            "short_name": "",
+            "country": "England",
+            "coach": {
+              "name": "Leam Richardson",
+              "shortName": "L. Richardson"
+            },
+            "venue": {
+              "id": 716,
+              "name": "Select Car Leasing Stadium",
+              "city": "Reading",
+              "country": "England",
+              "capacity": 24161
+            }
+          },
+          "event_date": "2026-08-08T14:00:00Z",
+          "round_number": 1,
+          "round_name": "Round 1",
+          "group_name": null,
+          "status": "notstarted",
+          "home_score": null,
+          "away_score": null,
+          "home_score_ht": null,
+          "away_score_ht": null,
+          "current_minute": null,
+          "period": "",
+          "odds_home": 2.2,
+          "odds_draw": 3.36,
+          "odds_away": 3.11,
+          "odds_over_15": 1.25,
+          "odds_over_25": 1.82,
+          "odds_over_35": 2.96,
+          "odds_under_15": 3.65,
+          "odds_under_25": 1.92,
+          "odds_under_35": 1.36,
+          "odds_btts_yes": 1.65,
+          "odds_btts_no": 2.11,
+          "actual_home_xg": null,
+          "actual_away_xg": null,
+          "home_xg_live": null,
+          "away_xg_live": null,
+          "penalty_shootout": null,
+          "extra_time_score": null,
+          "is_local_derby": false,
+          "is_neutral_ground": null,
+          "travel_distance_km": null,
+          "weather_code": 3,
+          "wind_speed": 15.5,
+          "temperature_c": 27,
+          "pitch_condition": null,
+          "attendance": null,
+          "referee": null,
+          "home_coach": {
+            "id": 869,
+            "name": "Andy Woodman",
+            "short_name": "A. Woodman",
+            "country": "England",
+            "profile": "balanced",
+            "preferred_formation": "3-5-2",
+            "pressing_intensity": 0.3253022800539156,
+            "defensive_line": "high",
+            "top_styles": [
+              "chaos_ball",
+              "no_midfield"
+            ]
+          },
+          "away_coach": {
+            "id": 853,
+            "name": "Leam Richardson",
+            "short_name": "L. Richardson",
+            "country": "England",
+            "profile": "attacking",
+            "preferred_formation": "4-2-3-1",
+            "pressing_intensity": null,
+            "defensive_line": "",
+            "top_styles": []
+          },
+          "unavailable_players": null,
+          "venue": {
+            "id": 874,
+            "name": "Hayes Lane",
+            "city": "Bromley",
+            "country": "England",
+            "capacity": 5000,
+            "latitude": 51.390098,
+            "longitude": 0.021055,
+            "pitch_x": null,
+            "pitch_y": null,
+            "built_year": null
+          },
+          "incidents": null,
+          "live_stats": null,
+          "lineups": null,
+          "shotmap": null,
+          "momentum": null,
+          "xg_per_minute": null,
+          "average_positions": null,
+          "jerseys": {
+            "away": {
+              "GK": {
+                "base": "fc6337",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "ffffff",
+                "sleeve": "fc6337"
+              },
+              "player": {
+                "base": "1238ac",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "df203d",
+                "sleeve": "df203d",
+                "sleevelong": "1238ac",
+                "horizontalstripes": "ffffff"
+              }
+            },
+            "home": {
+              "GK": {
+                "base": "f00000",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "ffffff",
+                "sleeve": "fa0606",
+                "sleevelong": "f50404"
+              },
+              "player": {
+                "base": "ffffff",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "9d8a37",
+                "sleeve": "9d8a37"
+              }
+            }
+          },
+          "funfacts": [
+            {
+              "type_id": 1,
+              "sentence": "Reading have lost none of their last 5 away matches."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Reading have a winning streak of 4 matches away from home."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Reading have a winning streak of 4 matches."
+            }
+          ],
+          "sr_stats": null,
+          "ai_preview": {
+            "text": "**Bromley get a proper test here** — the Carabao Cup's early rounds are where League Two sides dream of giant-killing, but Reading are absolutely humming 🔥\n\nBromley limped through preseason with mixed results and a 7-0 hammering from QPR that'll sting. Reading, meanwhile, are rolling with four wins in five and looking genuinely sharp. This is a gap-wide mismatch on paper.\n\nKey storylines:\n\n- **Reading's attacking form** has been ruthless; Bromley's backline will need to stay compact and hope G. Smith in goal keeps them in it\n- **J. Jones and K. Ehibhatiomhan** leading the charge for Reading could find space early if Bromley don't settle\n- **N. Kabamba and M. Cheek** need to be Bromley's creative spark, but they'll spend most of the night defending\n\nExpected lineups:\n\n- **Bromley**: G. Smith, O. Sowunmi, B. Webster, F. Cowin, I. Odutayo, M. Ifill, A. Charles, N. Kabamba, J. Arthurs, M. Cheek, G. Evans\n- **Reading**: J. Pereira, J. Dorsett, D. Williams, K. Abrefa, E. Osho, L. Wing, D. Kyerewaa, K. Ehibhatiomhan, L. Howard, P. Lane, J. Jones\n\nPrediction:\n\n**Reading 3-0 Bromley**. Reading are the obvious favorites — expect them to ease through without dropping a sweat. ⚽",
+            "generated_at": "2026-08-07T17:42:06.595979+00:00"
+          },
+          "live_websocket": true
+        },
+        "created_at": "2026-08-05T16:05:24.875896+00:00",
+        "prob_home_win": 42.3,
+        "prob_draw": 27.7,
+        "prob_away_win": 29.9,
+        "predicted_result": "H",
+        "expected_home_goals": 1.961,
+        "expected_away_goals": 1.492,
+        "prob_over_15": 75,
+        "prob_over_25": 52.2,
+        "prob_over_35": 31.9,
+        "prob_btts_yes": 56.1,
+        "confidence": 0.4233,
+        "model_version": "dc-blend-v1",
+        "most_likely_score": "1-1",
+        "favorite": "H",
+        "favorite_prob": 42.3,
+        "favorite_recommend": false,
+        "over_15_recommend": false,
+        "over_25_recommend": false,
+        "over_35_recommend": false,
+        "btts_recommend": false,
+        "winner_recommend": false
+      },
+      "event_detail": {
+        "id": 212764,
+        "league": {
+          "id": 40,
+          "name": "Carabao Cup",
+          "country": "England",
+          "is_women": false,
+          "current_season": {
+            "id": 1092,
+            "name": "EFL Cup 26/27",
+            "year": 2026,
+            "start_date": "2026-07-01",
+            "end_date": "2027-06-30"
+          }
+        },
+        "season": {
+          "id": 1092,
+          "name": "EFL Cup 26/27",
+          "year": 2026
+        },
+        "home_team": "Bromley",
+        "away_team": "Reading",
+        "home_team_obj": {
+          "id": 1424,
+          "name": "Bromley",
+          "short_name": "Bromley",
+          "country": "England",
+          "coach": {
+            "name": "Andy Woodman",
+            "shortName": "A. Woodman"
+          },
+          "venue": {
+            "id": 874,
+            "name": "Hayes Lane",
+            "city": "Bromley",
+            "country": "England",
+            "capacity": 5000
+          }
+        },
+        "away_team_obj": {
+          "id": 1248,
+          "name": "Reading",
+          "short_name": "",
+          "country": "England",
+          "coach": {
+            "name": "Leam Richardson",
+            "shortName": "L. Richardson"
+          },
+          "venue": {
+            "id": 716,
+            "name": "Select Car Leasing Stadium",
+            "city": "Reading",
+            "country": "England",
+            "capacity": 24161
+          }
+        },
+        "event_date": "2026-08-08T17:00:00+03:00",
+        "round_number": 1,
+        "round_name": "Round 1",
+        "group_name": null,
+        "status": "notstarted",
+        "home_score": null,
+        "away_score": null,
+        "home_score_ht": null,
+        "away_score_ht": null,
+        "current_minute": null,
+        "period": "",
+        "odds_home": 2.2,
+        "odds_draw": 3.36,
+        "odds_away": 3.11,
+        "odds_over_15": 1.25,
+        "odds_over_25": 1.82,
+        "odds_over_35": 2.96,
+        "odds_under_15": 3.65,
+        "odds_under_25": 1.92,
+        "odds_under_35": 1.36,
+        "odds_btts_yes": 1.65,
+        "odds_btts_no": 2.11,
+        "actual_home_xg": null,
+        "actual_away_xg": null,
+        "home_xg_live": null,
+        "away_xg_live": null,
+        "penalty_shootout": null,
+        "extra_time_score": null,
+        "is_local_derby": false,
+        "is_neutral_ground": null,
+        "travel_distance_km": null,
+        "weather_code": 3,
+        "wind_speed": 15.5,
+        "temperature_c": 27,
+        "pitch_condition": null,
+        "attendance": null,
+        "referee": null,
+        "home_coach": {
+          "id": 869,
+          "name": "Andy Woodman",
+          "short_name": "A. Woodman",
+          "country": "England",
+          "profile": "balanced",
+          "preferred_formation": "3-5-2",
+          "pressing_intensity": 0.3253022800539156,
+          "defensive_line": "high",
+          "top_styles": [
+            "chaos_ball",
+            "no_midfield"
+          ]
+        },
+        "away_coach": {
+          "id": 853,
+          "name": "Leam Richardson",
+          "short_name": "L. Richardson",
+          "country": "England",
+          "profile": "attacking",
+          "preferred_formation": "4-2-3-1",
+          "pressing_intensity": null,
+          "defensive_line": "",
+          "top_styles": []
+        },
+        "unavailable_players": null,
+        "venue": {
+          "id": 874,
+          "name": "Hayes Lane",
+          "city": "Bromley",
+          "country": "England",
+          "capacity": 5000,
+          "latitude": 51.390098,
+          "longitude": 0.021055,
+          "pitch_x": null,
+          "pitch_y": null,
+          "built_year": null
+        },
+        "live_stats": null,
+        "jerseys": {
+          "away": {
+            "GK": {
+              "base": "fc6337",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "ffffff",
+              "sleeve": "fc6337"
+            },
+            "player": {
+              "base": "1238ac",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "df203d",
+              "sleeve": "df203d",
+              "sleevelong": "1238ac",
+              "horizontalstripes": "ffffff"
+            }
+          },
+          "home": {
+            "GK": {
+              "base": "f00000",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "ffffff",
+              "sleeve": "fa0606",
+              "sleevelong": "f50404"
+            },
+            "player": {
+              "base": "ffffff",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "9d8a37",
+              "sleeve": "9d8a37"
+            }
+          }
+        },
+        "funfacts": [
+          {
+            "type_id": 1,
+            "sentence": "Reading have lost none of their last 5 away matches."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Reading have a winning streak of 4 matches away from home."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Reading have a winning streak of 4 matches."
+          }
+        ],
+        "sr_stats": null,
+        "ai_preview": {
+          "text": "**Bromley get a proper test here** — the Carabao Cup's early rounds are where League Two sides dream of giant-killing, but Reading are absolutely humming 🔥\n\nBromley limped through preseason with mixed results and a 7-0 hammering from QPR that'll sting. Reading, meanwhile, are rolling with four wins in five and looking genuinely sharp. This is a gap-wide mismatch on paper.\n\nKey storylines:\n\n- **Reading's attacking form** has been ruthless; Bromley's backline will need to stay compact and hope G. Smith in goal keeps them in it\n- **J. Jones and K. Ehibhatiomhan** leading the charge for Reading could find space early if Bromley don't settle\n- **N. Kabamba and M. Cheek** need to be Bromley's creative spark, but they'll spend most of the night defending\n\nExpected lineups:\n\n- **Bromley**: G. Smith, O. Sowunmi, B. Webster, F. Cowin, I. Odutayo, M. Ifill, A. Charles, N. Kabamba, J. Arthurs, M. Cheek, G. Evans\n- **Reading**: J. Pereira, J. Dorsett, D. Williams, K. Abrefa, E. Osho, L. Wing, D. Kyerewaa, K. Ehibhatiomhan, L. Howard, P. Lane, J. Jones\n\nPrediction:\n\n**Reading 3-0 Bromley**. Reading are the obvious favorites — expect them to ease through without dropping a sweat. ⚽",
+          "generated_at": "2026-08-07T17:42:06.595979+00:00"
+        },
+        "live_websocket": true,
+        "home_form": {
+          "calculated_at": "2026-08-07",
+          "matches_played": 3,
+          "form_string": "DDL",
+          "wins": 0,
+          "draws": 2,
+          "losses": 1,
+          "points_last_n": 2,
+          "goals_scored_last_n": 3,
+          "goals_conceded_last_n": 4,
+          "avg_xg": 6.124949999999999,
+          "avg_xg_conceded": 6.33845,
+          "avg_shots": 12.5,
+          "avg_shots_on_target": 4,
+          "avg_key_passes": 9,
+          "goal_conversion_rate": 0.24489995836700712,
+          "defensive_efficiency": 0.684465445022048,
+          "clean_sheets": 0,
+          "avg_pass_accuracy": 57.43101140781339,
+          "duel_win_rate": 0.4977578475336323,
+          "aerial_win_rate": 0.5357142857142857,
+          "avg_fouls": 12.5,
+          "avg_yellow_cards": 0.5,
+          "home_ppg": 0.6666666666666666,
+          "away_ppg": 0,
+          "home_goals_scored": 3,
+          "home_goals_conceded": 4,
+          "away_goals_scored": 0,
+          "away_goals_conceded": 0,
+          "avg_team_rating": 7.023333333333333
+        },
+        "away_form": {
+          "calculated_at": "2026-08-07",
+          "matches_played": 5,
+          "form_string": "LWWDD",
+          "wins": 2,
+          "draws": 2,
+          "losses": 1,
+          "points_last_n": 8,
+          "goals_scored_last_n": 8,
+          "goals_conceded_last_n": 8,
+          "avg_xg": 1.1290333333333333,
+          "avg_xg_conceded": 1.8948999999999998,
+          "avg_shots": 10.333333333333334,
+          "avg_shots_on_target": 4.666666666666667,
+          "avg_key_passes": 7,
+          "goal_conversion_rate": 2.3619025124737973,
+          "defensive_efficiency": -0.4072862244269708,
+          "clean_sheets": 0,
+          "avg_pass_accuracy": 74.97995619958782,
+          "duel_win_rate": 0.4849315068493151,
+          "aerial_win_rate": 0.4423076923076923,
+          "avg_fouls": 11.666666666666666,
+          "avg_yellow_cards": 0.6666666666666666,
+          "home_ppg": 0.8,
+          "away_ppg": 1.6,
+          "home_goals_scored": 5,
+          "home_goals_conceded": 9,
+          "away_goals_scored": 9,
+          "away_goals_conceded": 6,
+          "avg_team_rating": 6.78125
+        },
+        "head_to_head": null,
+        "lineups": null,
+        "social": []
+      },
+      "managers": {
+        "home": {
+          "id": 869,
+          "name": "Andy Woodman",
+          "short_name": "A. Woodman",
+          "country": "England",
+          "current_team": {
+            "id": 1424,
+            "name": "Bromley"
+          },
+          "preferred_formation": "3-5-2",
+          "formations_used": {
+            "3-5-2": 2,
+            "4-3-3": 2,
+            "3-1-4-2": 1,
+            "3-4-2-1": 1,
+            "4-2-3-1": 1
+          },
+          "profile": "balanced",
+          "team_style": "soft",
+          "pressing_intensity": 0.3253022800539156,
+          "defensive_line": "high",
+          "tactical_styles": [
+            {
+              "rank": 1,
+              "code": "chaos_ball",
+              "name": "Chaos Ball",
+              "category": "fan",
+              "emoji": "🎲",
+              "description": "Embrace pure randomness, anything can happen",
+              "score": 0.538
+            },
+            {
+              "rank": 2,
+              "code": "no_midfield",
+              "name": "No Midfield Just Vibes",
+              "category": "fan",
+              "emoji": "🚀",
+              "description": "Bypass midfield entirely, defend and attack direct",
+              "score": 0.081
+            },
+            {
+              "rank": 3,
+              "code": "vibes_fc",
+              "name": "Vibes FC",
+              "category": "fan",
+              "emoji": "✨",
+              "description": "Minimal structure, individual freedom",
+              "score": 0.07
+            },
+            {
+              "rank": 4,
+              "code": "vertical",
+              "name": "Vertical Football",
+              "category": "counter",
+              "emoji": "↕",
+              "description": "Forward passes prioritised over possession",
+              "score": 0.049
+            }
+          ],
+          "matches_total": 9,
+          "wins": 1,
+          "draws": 4,
+          "losses": 4,
+          "win_pct": 11.1,
+          "avg_goals_scored": 1,
+          "avg_goals_conceded": 2.33,
+          "avg_possession": 36.71,
+          "avg_shots": 11,
+          "avg_shots_on_target": 4,
+          "avg_xg_for": 6.12,
+          "avg_xg_against": 6.33,
+          "avg_corners": 3.43,
+          "avg_yellow_cards": 0.22,
+          "avg_red_cards": 0,
+          "avg_fouls": 10,
+          "clean_sheet_pct": 11.1,
+          "btts_pct": 66.7,
+          "over_25_pct": 55.6,
+          "over_15_pct": 100,
+          "fail_to_score_pct": 22.2,
+          "avg_goals_scored_1h": 0.56,
+          "avg_goals_conceded_1h": 0.78
+        },
+        "away": {
+          "id": 853,
+          "name": "Leam Richardson",
+          "short_name": "L. Richardson",
+          "country": "England",
+          "current_team": {
+            "id": 1248,
+            "name": "Reading"
+          },
+          "preferred_formation": "4-2-3-1",
+          "formations_used": {
+            "4-3-3": 2,
+            "4-2-3-1": 4
+          },
+          "profile": "attacking",
+          "team_style": "soft",
+          "pressing_intensity": null,
+          "defensive_line": "",
+          "tactical_styles": [],
+          "matches_total": 10,
+          "wins": 7,
+          "draws": 0,
+          "losses": 3,
+          "win_pct": 70,
+          "avg_goals_scored": 1.8,
+          "avg_goals_conceded": 0.9,
+          "avg_possession": 46.67,
+          "avg_shots": 10.33,
+          "avg_shots_on_target": 4.67,
+          "avg_xg_for": 1.13,
+          "avg_xg_against": 1.91,
+          "avg_corners": 4,
+          "avg_yellow_cards": 0.7,
+          "avg_red_cards": 0,
+          "avg_fouls": 11.67,
+          "clean_sheet_pct": 40,
+          "btts_pct": 40,
+          "over_25_pct": 60,
+          "over_15_pct": 80,
+          "fail_to_score_pct": 20,
+          "avg_goals_scored_1h": 0.7,
+          "avg_goals_conceded_1h": 0.1
         }
       }
     }
