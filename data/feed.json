@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-07T23:35:56.292Z",
+  "generated_at": "2026-08-08T01:49:41.174Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -9,8 +9,8 @@
   },
   "summary": {
     "total_matches": 50,
-    "total_leagues": 12,
-    "average_confidence": 0.49558199999999997,
+    "total_leagues": 10,
+    "average_confidence": 0.4956159999999999,
     "favorite_recommend": 0,
     "over_15_recommend": 0,
     "over_25_recommend": 0,
@@ -19,2139 +19,6 @@
     "winner_recommend": 0
   },
   "items": [
-    {
-      "event_id": 216399,
-      "prediction": {
-        "id": 486,
-        "event": {
-          "id": 216399,
-          "league": {
-            "id": 72,
-            "name": "NWSL",
-            "country": "USA",
-            "is_women": true,
-            "current_season": {
-              "id": 1540,
-              "name": "National Womens Soccer League 2026",
-              "year": 2026,
-              "start_date": "2026-01-01",
-              "end_date": "2026-12-31"
-            }
-          },
-          "season": {
-            "id": 1540,
-            "name": "National Womens Soccer League 2026",
-            "year": 2026
-          },
-          "home_team": "NJ/NY Gotham FC",
-          "away_team": "San Diego Wave FC",
-          "home_team_obj": {
-            "id": 3929,
-            "name": "NJ/NY Gotham FC",
-            "short_name": "Gotham",
-            "country": "USA",
-            "coach": {
-              "name": "Juan Carlos Amorós",
-              "shortName": "J. C. Amorós"
-            },
-            "venue": null
-          },
-          "away_team_obj": {
-            "id": 3936,
-            "name": "San Diego Wave FC",
-            "short_name": "San Diego Wave",
-            "country": "USA",
-            "coach": {
-              "name": "Jonas Eidevall",
-              "shortName": "J. Eidevall"
-            },
-            "venue": null
-          },
-          "event_date": "2026-08-08T00:00:00Z",
-          "round_number": 1,
-          "round_name": "",
-          "group_name": null,
-          "status": "notstarted",
-          "home_score": null,
-          "away_score": null,
-          "home_score_ht": null,
-          "away_score_ht": null,
-          "current_minute": null,
-          "period": "",
-          "odds_home": 2.1,
-          "odds_draw": 3.16,
-          "odds_away": 3.18,
-          "odds_over_15": 1.32,
-          "odds_over_25": 2.02,
-          "odds_over_35": 3.54,
-          "odds_under_15": 3.01,
-          "odds_under_25": 1.69,
-          "odds_under_35": 1.24,
-          "odds_btts_yes": 1.8,
-          "odds_btts_no": 1.87,
-          "actual_home_xg": null,
-          "actual_away_xg": null,
-          "home_xg_live": null,
-          "away_xg_live": null,
-          "penalty_shootout": null,
-          "extra_time_score": null,
-          "is_local_derby": false,
-          "is_neutral_ground": null,
-          "travel_distance_km": 3897,
-          "weather_code": 3,
-          "wind_speed": 14.8,
-          "temperature_c": 28,
-          "pitch_condition": null,
-          "attendance": null,
-          "referee": null,
-          "home_coach": {
-            "id": 2052,
-            "name": "Juan Carlos Amorós",
-            "short_name": "J. C. Amorós",
-            "country": "Spain",
-            "profile": "defensive",
-            "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.7854397241332969,
-            "defensive_line": "mid",
-            "top_styles": [
-              "gegenpressing",
-              "high_press"
-            ]
-          },
-          "away_coach": {
-            "id": 2059,
-            "name": "Jonas Eidevall",
-            "short_name": "J. Eidevall",
-            "country": "Sweden",
-            "profile": "balanced",
-            "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.7137410687952593,
-            "defensive_line": "mid",
-            "top_styles": [
-              "gegenpressing",
-              "high_press"
-            ]
-          },
-          "unavailable_players": null,
-          "venue": {
-            "id": 269,
-            "name": "Sports Illustrated Stadium",
-            "city": "Harrison",
-            "country": "USA",
-            "capacity": 25000,
-            "latitude": 40.7368,
-            "longitude": -74.1502,
-            "pitch_x": 105,
-            "pitch_y": 68,
-            "built_year": 2010
-          },
-          "incidents": null,
-          "live_stats": null,
-          "lineups": null,
-          "shotmap": null,
-          "momentum": null,
-          "xg_per_minute": null,
-          "average_positions": null,
-          "jerseys": {
-            "away": {
-              "GK": {
-                "base": "00d584",
-                "real": true,
-                "type": "long_sleeves",
-                "number": "ffffff",
-                "sleeve": "080808"
-              },
-              "player": {
-                "base": "c3b8a4",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "0d0d0d",
-                "sleeve": "cb4c57"
-              }
-            },
-            "home": {
-              "GK": {
-                "base": "e69b94",
-                "real": true,
-                "type": "long_sleeves",
-                "number": "050505",
-                "sleeve": "810f0f"
-              },
-              "player": {
-                "base": "83b6b5",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "0a0a0a",
-                "sleevelong": "0d0d0d"
-              }
-            }
-          },
-          "funfacts": [
-            {
-              "type_id": 24,
-              "sentence": "Gotham's home record this season: 5-3-1."
-            },
-            {
-              "type_id": 24,
-              "sentence": "San Diego's away record this season: 6-2-1."
-            },
-            {
-              "type_id": 25,
-              "sentence": "Esther Gonzalez is Gotham's top scorer with 6 goals. Triniry Byars has scored 6 times for San Diego."
-            }
-          ],
-          "sr_stats": null,
-          "ai_preview": {
-            "text": "**Gotham's been on a roll, but Wave just loves punching above their weight in this matchup** 🔥 NJ/NY look sharp heading into round 1, but San Diego's head-to-head record against them is genuinely nasty — this isn't your typical underdog spot.\n\nGotham rolled through their last stretch with four wins and a draw, grinding out road victories. Wave mixed results but grabbed their own statement win at home and showed they can nick points anywhere. The H2H tells the real story though: Wave have won six of the last nine between these two.\n\nKey storylines:\n\n- **Gotham's attack vs Wave's backline** — R. Lavelle and G. Reiten pulling strings against a defense that's been leaky\n- **Wave's counter-threat** — T. Wynalda and G. Corley on the break could catch Gotham's fullbacks out\n- **Home advantage** — First-time hosting at Sports Illustrated Stadium adds energy, but Gotham need their form to show up\n\nExpected lineups:\n\n- **NJ/NY Gotham FC**: A. Berger, T. Davidson, J. Carter, E. Sonnett, G. Reiten, J. Howell, M. Purce, R. Lavelle, E. González\n- **San Diego Wave FC**: D. Haracic, K. Wesley, K. McNabb, P. Morroni, K. Dali, K. Ascanio, T. Wynalda, T. P. Byars\n\nPrediction: **Gotham 2-1 Wave**\n\nLean Gotham on form, but Wave's H2H edge keeps this tight.",
-            "generated_at": "2026-08-07T04:41:25.689532+00:00"
-          },
-          "live_websocket": true
-        },
-        "created_at": "2026-08-01T02:15:11.196616+00:00",
-        "prob_home_win": 42.6,
-        "prob_draw": 28.8,
-        "prob_away_win": 28.6,
-        "predicted_result": "H",
-        "expected_home_goals": 1.508,
-        "expected_away_goals": 0.921,
-        "prob_over_15": 69.2,
-        "prob_over_25": 45.6,
-        "prob_over_35": 25.8,
-        "prob_btts_yes": 50.9,
-        "confidence": 0.4259,
-        "model_version": "dc-blend-v1",
-        "most_likely_score": "1-0",
-        "favorite": "H",
-        "favorite_prob": 42.6,
-        "favorite_recommend": false,
-        "over_15_recommend": false,
-        "over_25_recommend": false,
-        "over_35_recommend": false,
-        "btts_recommend": false,
-        "winner_recommend": false
-      },
-      "event_detail": {
-        "id": 216399,
-        "league": {
-          "id": 72,
-          "name": "NWSL",
-          "country": "USA",
-          "is_women": true,
-          "current_season": {
-            "id": 1540,
-            "name": "National Womens Soccer League 2026",
-            "year": 2026,
-            "start_date": "2026-01-01",
-            "end_date": "2026-12-31"
-          }
-        },
-        "season": {
-          "id": 1540,
-          "name": "National Womens Soccer League 2026",
-          "year": 2026
-        },
-        "home_team": "NJ/NY Gotham FC",
-        "away_team": "San Diego Wave FC",
-        "home_team_obj": {
-          "id": 3929,
-          "name": "NJ/NY Gotham FC",
-          "short_name": "Gotham",
-          "country": "USA",
-          "coach": {
-            "name": "Juan Carlos Amorós",
-            "shortName": "J. C. Amorós"
-          },
-          "venue": null
-        },
-        "away_team_obj": {
-          "id": 3936,
-          "name": "San Diego Wave FC",
-          "short_name": "San Diego Wave",
-          "country": "USA",
-          "coach": {
-            "name": "Jonas Eidevall",
-            "shortName": "J. Eidevall"
-          },
-          "venue": null
-        },
-        "event_date": "2026-08-08T03:00:00+03:00",
-        "round_number": 1,
-        "round_name": "",
-        "group_name": null,
-        "status": "notstarted",
-        "home_score": null,
-        "away_score": null,
-        "home_score_ht": null,
-        "away_score_ht": null,
-        "current_minute": null,
-        "period": "",
-        "odds_home": 2.1,
-        "odds_draw": 3.16,
-        "odds_away": 3.18,
-        "odds_over_15": 1.32,
-        "odds_over_25": 2.02,
-        "odds_over_35": 3.54,
-        "odds_under_15": 3.01,
-        "odds_under_25": 1.69,
-        "odds_under_35": 1.24,
-        "odds_btts_yes": 1.8,
-        "odds_btts_no": 1.87,
-        "actual_home_xg": null,
-        "actual_away_xg": null,
-        "home_xg_live": null,
-        "away_xg_live": null,
-        "penalty_shootout": null,
-        "extra_time_score": null,
-        "is_local_derby": false,
-        "is_neutral_ground": null,
-        "travel_distance_km": 3897,
-        "weather_code": 3,
-        "wind_speed": 14.8,
-        "temperature_c": 28,
-        "pitch_condition": null,
-        "attendance": null,
-        "referee": null,
-        "home_coach": {
-          "id": 2052,
-          "name": "Juan Carlos Amorós",
-          "short_name": "J. C. Amorós",
-          "country": "Spain",
-          "profile": "defensive",
-          "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.7854397241332969,
-          "defensive_line": "mid",
-          "top_styles": [
-            "gegenpressing",
-            "high_press"
-          ]
-        },
-        "away_coach": {
-          "id": 2059,
-          "name": "Jonas Eidevall",
-          "short_name": "J. Eidevall",
-          "country": "Sweden",
-          "profile": "balanced",
-          "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.7137410687952593,
-          "defensive_line": "mid",
-          "top_styles": [
-            "gegenpressing",
-            "high_press"
-          ]
-        },
-        "unavailable_players": null,
-        "venue": {
-          "id": 269,
-          "name": "Sports Illustrated Stadium",
-          "city": "Harrison",
-          "country": "USA",
-          "capacity": 25000,
-          "latitude": 40.7368,
-          "longitude": -74.1502,
-          "pitch_x": 105,
-          "pitch_y": 68,
-          "built_year": 2010
-        },
-        "live_stats": null,
-        "jerseys": {
-          "away": {
-            "GK": {
-              "base": "00d584",
-              "real": true,
-              "type": "long_sleeves",
-              "number": "ffffff",
-              "sleeve": "080808"
-            },
-            "player": {
-              "base": "c3b8a4",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "0d0d0d",
-              "sleeve": "cb4c57"
-            }
-          },
-          "home": {
-            "GK": {
-              "base": "e69b94",
-              "real": true,
-              "type": "long_sleeves",
-              "number": "050505",
-              "sleeve": "810f0f"
-            },
-            "player": {
-              "base": "83b6b5",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "0a0a0a",
-              "sleevelong": "0d0d0d"
-            }
-          }
-        },
-        "funfacts": [
-          {
-            "type_id": 24,
-            "sentence": "Gotham's home record this season: 5-3-1."
-          },
-          {
-            "type_id": 24,
-            "sentence": "San Diego's away record this season: 6-2-1."
-          },
-          {
-            "type_id": 25,
-            "sentence": "Esther Gonzalez is Gotham's top scorer with 6 goals. Triniry Byars has scored 6 times for San Diego."
-          }
-        ],
-        "sr_stats": null,
-        "ai_preview": {
-          "text": "**Gotham's been on a roll, but Wave just loves punching above their weight in this matchup** 🔥 NJ/NY look sharp heading into round 1, but San Diego's head-to-head record against them is genuinely nasty — this isn't your typical underdog spot.\n\nGotham rolled through their last stretch with four wins and a draw, grinding out road victories. Wave mixed results but grabbed their own statement win at home and showed they can nick points anywhere. The H2H tells the real story though: Wave have won six of the last nine between these two.\n\nKey storylines:\n\n- **Gotham's attack vs Wave's backline** — R. Lavelle and G. Reiten pulling strings against a defense that's been leaky\n- **Wave's counter-threat** — T. Wynalda and G. Corley on the break could catch Gotham's fullbacks out\n- **Home advantage** — First-time hosting at Sports Illustrated Stadium adds energy, but Gotham need their form to show up\n\nExpected lineups:\n\n- **NJ/NY Gotham FC**: A. Berger, T. Davidson, J. Carter, E. Sonnett, G. Reiten, J. Howell, M. Purce, R. Lavelle, E. González\n- **San Diego Wave FC**: D. Haracic, K. Wesley, K. McNabb, P. Morroni, K. Dali, K. Ascanio, T. Wynalda, T. P. Byars\n\nPrediction: **Gotham 2-1 Wave**\n\nLean Gotham on form, but Wave's H2H edge keeps this tight.",
-          "generated_at": "2026-08-07T04:41:25.689532+00:00"
-        },
-        "live_websocket": true,
-        "home_form": {
-          "calculated_at": "2026-08-07",
-          "matches_played": 5,
-          "form_string": "WWDWW",
-          "wins": 4,
-          "draws": 1,
-          "losses": 0,
-          "points_last_n": 13,
-          "goals_scored_last_n": 8,
-          "goals_conceded_last_n": 4,
-          "avg_xg": 1.6,
-          "avg_xg_conceded": 0.8,
-          "avg_shots": 12.6,
-          "avg_shots_on_target": 5.8,
-          "avg_key_passes": 10.2,
-          "goal_conversion_rate": 0,
-          "defensive_efficiency": 0,
-          "clean_sheets": 3,
-          "avg_pass_accuracy": 82.97786764225162,
-          "duel_win_rate": 0.5343680709534369,
-          "aerial_win_rate": 0.5869565217391305,
-          "avg_fouls": 12.2,
-          "avg_yellow_cards": 1,
-          "home_ppg": 2.6,
-          "away_ppg": 2,
-          "home_goals_scored": 7,
-          "home_goals_conceded": 3,
-          "away_goals_scored": 7,
-          "away_goals_conceded": 5,
-          "avg_team_rating": 7.043583333333333
-        },
-        "away_form": {
-          "calculated_at": "2026-08-07",
-          "matches_played": 5,
-          "form_string": "WLDLW",
-          "wins": 2,
-          "draws": 1,
-          "losses": 2,
-          "points_last_n": 7,
-          "goals_scored_last_n": 5,
-          "goals_conceded_last_n": 6,
-          "avg_xg": 1,
-          "avg_xg_conceded": 1.2,
-          "avg_shots": 16.4,
-          "avg_shots_on_target": 7,
-          "avg_key_passes": 12.2,
-          "goal_conversion_rate": 0,
-          "defensive_efficiency": 0,
-          "clean_sheets": 2,
-          "avg_pass_accuracy": 82.73948549491806,
-          "duel_win_rate": 0.47058823529411764,
-          "aerial_win_rate": 0.4666666666666667,
-          "avg_fouls": 8.8,
-          "avg_yellow_cards": 1.6,
-          "home_ppg": 1.2,
-          "away_ppg": 2.2,
-          "home_goals_scored": 4,
-          "home_goals_conceded": 6,
-          "away_goals_scored": 9,
-          "away_goals_conceded": 5,
-          "avg_team_rating": 6.77175
-        },
-        "head_to_head": {
-          "total_matches": 9,
-          "home_wins": 2,
-          "draws": 1,
-          "away_wins": 6,
-          "home_goals": 6,
-          "away_goals": 15,
-          "avg_total_goals": 2.3333333333333335,
-          "home_win_rate": 0.2222222222222222,
-          "away_win_rate": 0.6666666666666666,
-          "recent_matches": [
-            {
-              "away": "NJ/NY Gotham FC",
-              "date": "2026-07-05T00:45:00+00:00",
-              "home": "San Diego Wave FC",
-              "score": "2-0"
-            },
-            {
-              "away": "NJ/NY Gotham FC",
-              "date": "2025-09-13T02:00:00+00:00",
-              "home": "San Diego Wave FC",
-              "score": "0-2"
-            },
-            {
-              "away": "San Diego Wave FC",
-              "date": "2025-05-16T23:30:00+00:00",
-              "home": "NJ/NY Gotham FC",
-              "score": "0-1"
-            },
-            {
-              "away": "San Diego Wave FC",
-              "date": "2024-06-19T23:00:00+00:00",
-              "home": "NJ/NY Gotham FC",
-              "score": "2-1"
-            },
-            {
-              "away": "NJ/NY Gotham FC",
-              "date": "2024-05-12T23:30:00+00:00",
-              "home": "San Diego Wave FC",
-              "score": "1-1"
-            },
-            {
-              "away": "NJ/NY Gotham FC",
-              "date": "2023-08-20T00:00:00+00:00",
-              "home": "San Diego Wave FC",
-              "score": "2-1"
-            },
-            {
-              "away": "San Diego Wave FC",
-              "date": "2023-06-04T22:00:00+00:00",
-              "home": "NJ/NY Gotham FC",
-              "score": "0-1"
-            },
-            {
-              "away": "San Diego Wave FC",
-              "date": "2022-06-19T20:00:00+00:00",
-              "home": "NJ/NY Gotham FC",
-              "score": "0-3"
-            },
-            {
-              "away": "NJ/NY Gotham FC",
-              "date": "2022-05-08T02:00:00+00:00",
-              "home": "San Diego Wave FC",
-              "score": "4-0"
-            }
-          ]
-        },
-        "lineups": null,
-        "social": []
-      },
-      "managers": {
-        "home": {
-          "id": 3205,
-          "name": "Juan Carlos Amoros",
-          "short_name": "J. C. Amoros",
-          "country": "Spain",
-          "current_team": {
-            "id": 3929,
-            "name": "NJ/NY Gotham FC"
-          },
-          "preferred_formation": "",
-          "formations_used": null,
-          "profile": "",
-          "team_style": "",
-          "pressing_intensity": null,
-          "defensive_line": "",
-          "tactical_styles": [],
-          "matches_total": 0,
-          "wins": 0,
-          "draws": 0,
-          "losses": 0,
-          "win_pct": null,
-          "avg_goals_scored": null,
-          "avg_goals_conceded": null,
-          "avg_possession": null,
-          "avg_shots": null,
-          "avg_shots_on_target": null,
-          "avg_xg_for": null,
-          "avg_xg_against": null,
-          "avg_corners": null,
-          "avg_yellow_cards": null,
-          "avg_red_cards": null,
-          "avg_fouls": null,
-          "clean_sheet_pct": null,
-          "btts_pct": null,
-          "over_25_pct": null,
-          "over_15_pct": null,
-          "fail_to_score_pct": null,
-          "avg_goals_scored_1h": null,
-          "avg_goals_conceded_1h": null
-        },
-        "away": {
-          "id": 2059,
-          "name": "Jonas Eidevall",
-          "short_name": "J. Eidevall",
-          "country": "Sweden",
-          "current_team": {
-            "id": 3936,
-            "name": "San Diego Wave FC"
-          },
-          "preferred_formation": "4-2-3-1",
-          "formations_used": {
-            "4-3-3": 7,
-            "4-2-3-1": 10,
-            "4-4-1-1": 1
-          },
-          "profile": "balanced",
-          "team_style": "soft",
-          "pressing_intensity": 0.7137410687952593,
-          "defensive_line": "mid",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "gegenpressing",
-              "name": "Gegenpressing",
-              "category": "pressing",
-              "emoji": "💨",
-              "description": "Immediate press after losing the ball",
-              "score": 0.1
-            },
-            {
-              "rank": 2,
-              "code": "high_press",
-              "name": "High Press",
-              "category": "pressing",
-              "emoji": "🔥",
-              "description": "Press defenders and keeper aggressively high up",
-              "score": 0.077
-            },
-            {
-              "rank": 3,
-              "code": "tiki_taka",
-              "name": "Tiki-Taka",
-              "category": "possession",
-              "emoji": "🎨",
-              "description": "Short passing, domination via possession",
-              "score": 0.07
-            },
-            {
-              "rank": 4,
-              "code": "inverted_fb",
-              "name": "Inverted Fullbacks",
-              "category": "possession",
-              "emoji": "↩",
-              "description": "Fullbacks step into midfield to overload centre",
-              "score": 0.068
-            }
-          ],
-          "matches_total": 18,
-          "wins": 10,
-          "draws": 2,
-          "losses": 6,
-          "win_pct": 55.6,
-          "avg_goals_scored": 1.33,
-          "avg_goals_conceded": 1.06,
-          "avg_possession": 56.44,
-          "avg_shots": 14.56,
-          "avg_shots_on_target": 6.22,
-          "avg_xg_for": 1.93,
-          "avg_xg_against": 0.95,
-          "avg_corners": 4.94,
-          "avg_yellow_cards": 1.28,
-          "avg_red_cards": 0.06,
-          "avg_fouls": 10.5,
-          "clean_sheet_pct": 27.8,
-          "btts_pct": 38.9,
-          "over_25_pct": 38.9,
-          "over_15_pct": 72.2,
-          "fail_to_score_pct": 33.3,
-          "avg_goals_scored_1h": 0.44,
-          "avg_goals_conceded_1h": 0.67
-        }
-      }
-    },
-    {
-      "event_id": 223545,
-      "prediction": {
-        "id": 653,
-        "event": {
-          "id": 223545,
-          "league": {
-            "id": 85,
-            "name": "Liga Profesional de Fútbol",
-            "country": "Argentina",
-            "is_women": false,
-            "current_season": {
-              "id": 1635,
-              "name": "Primera LPF 2026",
-              "year": 2026,
-              "start_date": "2026-01-01",
-              "end_date": "2026-12-31"
-            }
-          },
-          "season": {
-            "id": 1635,
-            "name": "Primera LPF 2026",
-            "year": 2026
-          },
-          "home_team": "Independiente Rivadavia",
-          "away_team": "Estudiantes de Río Cuarto",
-          "home_team_obj": {
-            "id": 774,
-            "name": "Independiente Rivadavia",
-            "short_name": "Ind. Rivadavia",
-            "country": "Argentina",
-            "coach": {
-              "name": "Alfredo Berti",
-              "shortName": "A. Berti"
-            },
-            "venue": {
-              "id": 575,
-              "name": "Estadio Bautista Gargantini",
-              "city": "Mendoza",
-              "country": "Argentina",
-              "capacity": 24000
-            }
-          },
-          "away_team_obj": {
-            "id": 5000,
-            "name": "Estudiantes de Río Cuarto",
-            "short_name": "Estudiantes R.C.",
-            "country": "Argentina",
-            "coach": {
-              "name": "Ruben Dario Forestello",
-              "shortName": "R. D. Forestello"
-            },
-            "venue": null
-          },
-          "event_date": "2026-08-08T00:45:00Z",
-          "round_number": 4,
-          "round_name": "",
-          "group_name": "Group B",
-          "status": "notstarted",
-          "home_score": null,
-          "away_score": null,
-          "home_score_ht": null,
-          "away_score_ht": null,
-          "current_minute": null,
-          "period": "",
-          "odds_home": 1.47,
-          "odds_draw": 3.88,
-          "odds_away": 7.5,
-          "odds_over_15": 1.39,
-          "odds_over_25": 2.23,
-          "odds_over_35": 4.1,
-          "odds_under_15": 2.82,
-          "odds_under_25": 1.61,
-          "odds_under_35": 1.21,
-          "odds_btts_yes": 2.4,
-          "odds_btts_no": 1.52,
-          "actual_home_xg": null,
-          "actual_away_xg": null,
-          "home_xg_live": null,
-          "away_xg_live": null,
-          "penalty_shootout": null,
-          "extra_time_score": null,
-          "is_local_derby": false,
-          "is_neutral_ground": null,
-          "travel_distance_km": 423,
-          "weather_code": 1,
-          "wind_speed": 18.5,
-          "temperature_c": 17,
-          "pitch_condition": null,
-          "attendance": null,
-          "referee": {
-            "id": 2825,
-            "name": "Gonzalo Pereira",
-            "country": "Argentina",
-            "nationality_a3": "",
-            "birthdate": null,
-            "yellowCards": 4,
-            "redCards": 1,
-            "career_games": 1,
-            "career_yellow_cards": 4,
-            "career_red_cards": 1
-          },
-          "home_coach": {
-            "id": 489,
-            "name": "Alfredo Berti",
-            "short_name": "A. Berti",
-            "country": "Argentina",
-            "profile": "attacking",
-            "preferred_formation": "5-3-2",
-            "pressing_intensity": 0.6657897936144683,
-            "defensive_line": "mid",
-            "top_styles": [
-              "gegenpressing",
-              "high_press"
-            ]
-          },
-          "away_coach": {
-            "id": 3200,
-            "name": "Ruben Dario Forestello",
-            "short_name": "R. D. Forestello",
-            "country": "Argentina",
-            "profile": "defensive",
-            "preferred_formation": "4-4-2",
-            "pressing_intensity": 0.6772170562419987,
-            "defensive_line": "mid",
-            "top_styles": [
-              "cross_pray",
-              "gegenpressing"
-            ]
-          },
-          "unavailable_players": null,
-          "venue": {
-            "id": 575,
-            "name": "Estadio Bautista Gargantini",
-            "city": "Mendoza",
-            "country": "Argentina",
-            "capacity": 24000,
-            "latitude": -32.890786,
-            "longitude": -68.862777,
-            "pitch_x": 105,
-            "pitch_y": 68,
-            "built_year": null
-          },
-          "incidents": null,
-          "live_stats": null,
-          "lineups": {
-            "away": {
-              "players": [
-                {
-                  "name": "L. Bruera",
-                  "goals": 0,
-                  "api_id": 857487,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "G",
-                  "red_card": false,
-                  "player_id": 18830,
-                  "yellow_card": false,
-                  "jersey_number": "1",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "GK",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "G. Maffini",
-                  "goals": 0,
-                  "api_id": 992968,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 90441,
-                  "yellow_card": false,
-                  "jersey_number": "2",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "S. Ojeda",
-                  "goals": 0,
-                  "api_id": 313250,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 90442,
-                  "yellow_card": false,
-                  "jersey_number": "30",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "A. Quiroga",
-                  "goals": 0,
-                  "api_id": 1484795,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 90443,
-                  "yellow_card": false,
-                  "jersey_number": "29",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "G. Gonzalez",
-                  "goals": 0,
-                  "api_id": 1381878,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 90445,
-                  "yellow_card": false,
-                  "jersey_number": "14",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "F. Romero",
-                  "goals": 0,
-                  "api_id": 871849,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 90444,
-                  "yellow_card": false,
-                  "jersey_number": "13",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "N. Talpone",
-                  "goals": 0,
-                  "api_id": 838402,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 90446,
-                  "yellow_card": false,
-                  "jersey_number": "19",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "G. Alanis",
-                  "goals": 0,
-                  "api_id": 609736,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 90448,
-                  "yellow_card": false,
-                  "jersey_number": "17",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "J. Garro",
-                  "goals": 0,
-                  "api_id": 250339,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 90450,
-                  "yellow_card": false,
-                  "jersey_number": "27",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "T. González",
-                  "goals": 0,
-                  "api_id": 1650474,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 90447,
-                  "yellow_card": false,
-                  "jersey_number": "10",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "Y. Moreno",
-                  "goals": 0,
-                  "api_id": 2036024,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "F",
-                  "red_card": false,
-                  "player_id": 90449,
-                  "yellow_card": false,
-                  "jersey_number": "16",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "FWD",
-                  "positions_detailed": []
-                }
-              ],
-              "formation": "3-4-2-1",
-              "substitutes": []
-            },
-            "home": {
-              "players": [
-                {
-                  "name": "N. Bolcato",
-                  "goals": 0,
-                  "api_id": 2338281,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "G",
-                  "red_card": false,
-                  "player_id": 22752,
-                  "yellow_card": false,
-                  "jersey_number": "30",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "GK",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "L. Costa",
-                  "goals": 0,
-                  "api_id": 1177545,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 22757,
-                  "yellow_card": false,
-                  "jersey_number": "2",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "S. Studer",
-                  "goals": 0,
-                  "api_id": 1018464,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 22755,
-                  "yellow_card": false,
-                  "jersey_number": "42",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "I. Villalba",
-                  "goals": 0,
-                  "api_id": 875088,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 22754,
-                  "yellow_card": false,
-                  "jersey_number": "40",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "J. M. Elordi",
-                  "goals": 0,
-                  "api_id": 993481,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "D",
-                  "red_card": false,
-                  "player_id": 22766,
-                  "yellow_card": false,
-                  "jersey_number": "3",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "DEF",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "T. Bottari",
-                  "goals": 0,
-                  "api_id": 1092337,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 22762,
-                  "yellow_card": false,
-                  "jersey_number": "5",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "G. Ríos",
-                  "goals": 0,
-                  "api_id": 1160545,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 22763,
-                  "yellow_card": false,
-                  "jersey_number": "11",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "J. Florentín",
-                  "goals": 0,
-                  "api_id": 988619,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 22758,
-                  "yellow_card": false,
-                  "jersey_number": "25",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "M. Fernández",
-                  "goals": 0,
-                  "api_id": 1020500,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "M",
-                  "red_card": false,
-                  "player_id": 22759,
-                  "yellow_card": false,
-                  "jersey_number": "10",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "MID",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "F. Sartori",
-                  "goals": 0,
-                  "api_id": 2123031,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "F",
-                  "red_card": false,
-                  "player_id": 22760,
-                  "yellow_card": false,
-                  "jersey_number": "43",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "FWD",
-                  "positions_detailed": []
-                },
-                {
-                  "name": "A. Arce",
-                  "goals": 0,
-                  "api_id": 1167312,
-                  "rating": null,
-                  "sub_in": null,
-                  "captain": false,
-                  "sub_out": null,
-                  "position": "F",
-                  "red_card": false,
-                  "player_id": 16914,
-                  "yellow_card": false,
-                  "jersey_number": "9",
-                  "replaces_player_id": null,
-                  "replaced_by_player_id": null,
-                  "specific_position": "FWD",
-                  "positions_detailed": []
-                }
-              ],
-              "formation": "4-3-1-2",
-              "substitutes": []
-            },
-            "confirmed": false
-          },
-          "shotmap": null,
-          "momentum": null,
-          "xg_per_minute": null,
-          "average_positions": null,
-          "jerseys": {
-            "away": {
-              "GK": {
-                "base": "efc131",
-                "real": false,
-                "type": "short_sleeves",
-                "number": "000000",
-                "sleeve": "333333"
-              },
-              "player": {
-                "base": "77b8f2",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "ffffff",
-                "sleevelong": "fefbfb"
-              }
-            },
-            "home": {
-              "GK": {
-                "base": "58f558",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "ffffff"
-              },
-              "player": {
-                "base": "14163f",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "ffffff"
-              }
-            }
-          },
-          "funfacts": [
-            {
-              "type_id": 1,
-              "sentence": "Rio Cuarto haven't won any of their last 12 away matches."
-            }
-          ],
-          "sr_stats": null,
-          "ai_preview": {
-            "text": "**Rivadavia's rolling, Río Cuarto's stumbling — this should be a comfortable home win.** 🔴\n\nIndependiente Rivadavia are clicking with three wins in their last five, including a solid 2-1 over Huracán. Estudiantes de Río Cuarto, meanwhile, have dropped three of five and just got hammered 0-3 by Argentinos. The form gap is real.\n\nKey storylines:\n\n- **Independiente Rivadavia** need to keep momentum rolling and maintain their home advantage at the Bautista Gargantini\n- **Estudiantes de Río Cuarto**'s defense has been leaky; they've conceded heavily in recent weeks and travel to face a sharper outfit\n- **S. Villa** and **F. Sartori** are key creative outlets for the hosts and should have space to operate\n\nExpected lineups:\n\n- **Independiente Rivadavia**: N. Bolcato, S. Studer, L. Gómez, I. Villalba, L. Costa, M. Fernández, T. Bottari, F. Sartori, L. Bucca, A. Arce, S. Villa\n- **Estudiantes de Río Cuarto**: A. Lastra, S. Ojeda, F. Cobos, G. Maffini, J. Antonini, T. González, A. Cabrera, F. Romero, N. Talpone, M. Garnerone, J. Ferreira\n\nPrediction:\n\n**Independiente Rivadavia 2–0 Estudiantes de Río Cuarto**\n\nRivadavia's form and home edge give them a clear lean here. 📍",
-            "generated_at": "2026-08-07T05:43:11.829757+00:00"
-          },
-          "live_websocket": true
-        },
-        "created_at": "2026-08-03T02:15:10.301137+00:00",
-        "prob_home_win": 63.8,
-        "prob_draw": 23.9,
-        "prob_away_win": 12.3,
-        "predicted_result": "H",
-        "expected_home_goals": 1.981,
-        "expected_away_goals": 0.422,
-        "prob_over_15": 67.1,
-        "prob_over_25": 42.3,
-        "prob_over_35": 22.8,
-        "prob_btts_yes": 38.9,
-        "confidence": 0.6382,
-        "model_version": "dc-blend-v1",
-        "most_likely_score": "1-0",
-        "favorite": "H",
-        "favorite_prob": 63.8,
-        "favorite_recommend": false,
-        "over_15_recommend": false,
-        "over_25_recommend": false,
-        "over_35_recommend": false,
-        "btts_recommend": false,
-        "winner_recommend": false
-      },
-      "event_detail": {
-        "id": 223545,
-        "league": {
-          "id": 85,
-          "name": "Liga Profesional de Fútbol",
-          "country": "Argentina",
-          "is_women": false,
-          "current_season": {
-            "id": 1635,
-            "name": "Primera LPF 2026",
-            "year": 2026,
-            "start_date": "2026-01-01",
-            "end_date": "2026-12-31"
-          }
-        },
-        "season": {
-          "id": 1635,
-          "name": "Primera LPF 2026",
-          "year": 2026
-        },
-        "home_team": "Independiente Rivadavia",
-        "away_team": "Estudiantes de Río Cuarto",
-        "home_team_obj": {
-          "id": 774,
-          "name": "Independiente Rivadavia",
-          "short_name": "Ind. Rivadavia",
-          "country": "Argentina",
-          "coach": {
-            "name": "Alfredo Berti",
-            "shortName": "A. Berti"
-          },
-          "venue": {
-            "id": 575,
-            "name": "Estadio Bautista Gargantini",
-            "city": "Mendoza",
-            "country": "Argentina",
-            "capacity": 24000
-          }
-        },
-        "away_team_obj": {
-          "id": 5000,
-          "name": "Estudiantes de Río Cuarto",
-          "short_name": "Estudiantes R.C.",
-          "country": "Argentina",
-          "coach": {
-            "name": "Ruben Dario Forestello",
-            "shortName": "R. D. Forestello"
-          },
-          "venue": null
-        },
-        "event_date": "2026-08-08T03:45:00+03:00",
-        "round_number": 4,
-        "round_name": "",
-        "group_name": "Group B",
-        "status": "notstarted",
-        "home_score": null,
-        "away_score": null,
-        "home_score_ht": null,
-        "away_score_ht": null,
-        "current_minute": null,
-        "period": "",
-        "odds_home": 1.47,
-        "odds_draw": 3.88,
-        "odds_away": 7.5,
-        "odds_over_15": 1.39,
-        "odds_over_25": 2.23,
-        "odds_over_35": 4.1,
-        "odds_under_15": 2.82,
-        "odds_under_25": 1.61,
-        "odds_under_35": 1.21,
-        "odds_btts_yes": 2.4,
-        "odds_btts_no": 1.52,
-        "actual_home_xg": null,
-        "actual_away_xg": null,
-        "home_xg_live": null,
-        "away_xg_live": null,
-        "penalty_shootout": null,
-        "extra_time_score": null,
-        "is_local_derby": false,
-        "is_neutral_ground": null,
-        "travel_distance_km": 423,
-        "weather_code": 1,
-        "wind_speed": 18.5,
-        "temperature_c": 17,
-        "pitch_condition": null,
-        "attendance": null,
-        "referee": {
-          "id": 2825,
-          "name": "Gonzalo Pereira",
-          "country": "Argentina",
-          "nationality_a3": "",
-          "birthdate": null,
-          "yellowCards": 4,
-          "redCards": 1,
-          "career_games": 1,
-          "career_yellow_cards": 4,
-          "career_red_cards": 1
-        },
-        "home_coach": {
-          "id": 489,
-          "name": "Alfredo Berti",
-          "short_name": "A. Berti",
-          "country": "Argentina",
-          "profile": "attacking",
-          "preferred_formation": "5-3-2",
-          "pressing_intensity": 0.6657897936144683,
-          "defensive_line": "mid",
-          "top_styles": [
-            "gegenpressing",
-            "high_press"
-          ]
-        },
-        "away_coach": {
-          "id": 3200,
-          "name": "Ruben Dario Forestello",
-          "short_name": "R. D. Forestello",
-          "country": "Argentina",
-          "profile": "defensive",
-          "preferred_formation": "4-4-2",
-          "pressing_intensity": 0.6772170562419987,
-          "defensive_line": "mid",
-          "top_styles": [
-            "cross_pray",
-            "gegenpressing"
-          ]
-        },
-        "unavailable_players": null,
-        "venue": {
-          "id": 575,
-          "name": "Estadio Bautista Gargantini",
-          "city": "Mendoza",
-          "country": "Argentina",
-          "capacity": 24000,
-          "latitude": -32.890786,
-          "longitude": -68.862777,
-          "pitch_x": 105,
-          "pitch_y": 68,
-          "built_year": null
-        },
-        "live_stats": null,
-        "jerseys": {
-          "away": {
-            "GK": {
-              "base": "efc131",
-              "real": false,
-              "type": "short_sleeves",
-              "number": "000000",
-              "sleeve": "333333"
-            },
-            "player": {
-              "base": "77b8f2",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "ffffff",
-              "sleevelong": "fefbfb"
-            }
-          },
-          "home": {
-            "GK": {
-              "base": "58f558",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "ffffff"
-            },
-            "player": {
-              "base": "14163f",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "ffffff"
-            }
-          }
-        },
-        "funfacts": [
-          {
-            "type_id": 1,
-            "sentence": "Rio Cuarto haven't won any of their last 12 away matches."
-          }
-        ],
-        "sr_stats": null,
-        "ai_preview": {
-          "text": "**Rivadavia's rolling, Río Cuarto's stumbling — this should be a comfortable home win.** 🔴\n\nIndependiente Rivadavia are clicking with three wins in their last five, including a solid 2-1 over Huracán. Estudiantes de Río Cuarto, meanwhile, have dropped three of five and just got hammered 0-3 by Argentinos. The form gap is real.\n\nKey storylines:\n\n- **Independiente Rivadavia** need to keep momentum rolling and maintain their home advantage at the Bautista Gargantini\n- **Estudiantes de Río Cuarto**'s defense has been leaky; they've conceded heavily in recent weeks and travel to face a sharper outfit\n- **S. Villa** and **F. Sartori** are key creative outlets for the hosts and should have space to operate\n\nExpected lineups:\n\n- **Independiente Rivadavia**: N. Bolcato, S. Studer, L. Gómez, I. Villalba, L. Costa, M. Fernández, T. Bottari, F. Sartori, L. Bucca, A. Arce, S. Villa\n- **Estudiantes de Río Cuarto**: A. Lastra, S. Ojeda, F. Cobos, G. Maffini, J. Antonini, T. González, A. Cabrera, F. Romero, N. Talpone, M. Garnerone, J. Ferreira\n\nPrediction:\n\n**Independiente Rivadavia 2–0 Estudiantes de Río Cuarto**\n\nRivadavia's form and home edge give them a clear lean here. 📍",
-          "generated_at": "2026-08-07T05:43:11.829757+00:00"
-        },
-        "live_websocket": true,
-        "home_form": {
-          "calculated_at": "2026-08-07",
-          "matches_played": 5,
-          "form_string": "LWDLD",
-          "wins": 1,
-          "draws": 2,
-          "losses": 2,
-          "points_last_n": 5,
-          "goals_scored_last_n": 5,
-          "goals_conceded_last_n": 6,
-          "avg_xg": 1.2029,
-          "avg_xg_conceded": 0.7818,
-          "avg_shots": 16.4,
-          "avg_shots_on_target": 5,
-          "avg_key_passes": 11.2,
-          "goal_conversion_rate": 0.8313242996092776,
-          "defensive_efficiency": -0.5349194167306215,
-          "clean_sheets": 1,
-          "avg_pass_accuracy": 77.17126826372971,
-          "duel_win_rate": 0.49469964664310956,
-          "aerial_win_rate": 0.502262443438914,
-          "avg_fouls": 9.8,
-          "avg_yellow_cards": 1.4,
-          "home_ppg": 2.4,
-          "away_ppg": 1.2,
-          "home_goals_scored": 13,
-          "home_goals_conceded": 5,
-          "away_goals_scored": 4,
-          "away_goals_conceded": 3,
-          "avg_team_rating": 6.815666666666667
-        },
-        "away_form": {
-          "calculated_at": "2026-08-07",
-          "matches_played": 5,
-          "form_string": "DLWLL",
-          "wins": 1,
-          "draws": 1,
-          "losses": 3,
-          "points_last_n": 4,
-          "goals_scored_last_n": 2,
-          "goals_conceded_last_n": 7,
-          "avg_xg": 0.48290000000000005,
-          "avg_xg_conceded": 1.4158,
-          "avg_shots": 10.2,
-          "avg_shots_on_target": 2,
-          "avg_key_passes": 8.4,
-          "goal_conversion_rate": 0.828328846552081,
-          "defensive_efficiency": 0.01115976832886001,
-          "clean_sheets": 2,
-          "avg_pass_accuracy": 72.15019827359087,
-          "duel_win_rate": 0.491588785046729,
-          "aerial_win_rate": 0.46060606060606063,
-          "avg_fouls": 12,
-          "avg_yellow_cards": 1.4,
-          "home_ppg": 0.8,
-          "away_ppg": 0.2,
-          "home_goals_scored": 3,
-          "home_goals_conceded": 6,
-          "away_goals_scored": 0,
-          "away_goals_conceded": 7,
-          "avg_team_rating": 6.691416666666667
-        },
-        "head_to_head": {
-          "total_matches": 1,
-          "home_wins": 1,
-          "draws": 0,
-          "away_wins": 0,
-          "home_goals": 1,
-          "away_goals": 0,
-          "avg_total_goals": 1,
-          "home_win_rate": 1,
-          "away_win_rate": 0,
-          "recent_matches": [
-            {
-              "away": "Independiente Rivadavia",
-              "date": "2026-02-10T00:30:00+00:00",
-              "home": "Estudiantes de Río Cuarto",
-              "score": "0-1"
-            }
-          ]
-        },
-        "lineups": {
-          "away": {
-            "players": [
-              {
-                "name": "L. Bruera",
-                "goals": 0,
-                "api_id": 857487,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "G",
-                "red_card": false,
-                "player_id": 18830,
-                "yellow_card": false,
-                "jersey_number": "1",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "GK",
-                "positions_detailed": []
-              },
-              {
-                "name": "G. Maffini",
-                "goals": 0,
-                "api_id": 992968,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 90441,
-                "yellow_card": false,
-                "jersey_number": "2",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "S. Ojeda",
-                "goals": 0,
-                "api_id": 313250,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 90442,
-                "yellow_card": false,
-                "jersey_number": "30",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "A. Quiroga",
-                "goals": 0,
-                "api_id": 1484795,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 90443,
-                "yellow_card": false,
-                "jersey_number": "29",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "G. Gonzalez",
-                "goals": 0,
-                "api_id": 1381878,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 90445,
-                "yellow_card": false,
-                "jersey_number": "14",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "F. Romero",
-                "goals": 0,
-                "api_id": 871849,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 90444,
-                "yellow_card": false,
-                "jersey_number": "13",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "N. Talpone",
-                "goals": 0,
-                "api_id": 838402,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 90446,
-                "yellow_card": false,
-                "jersey_number": "19",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "G. Alanis",
-                "goals": 0,
-                "api_id": 609736,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 90448,
-                "yellow_card": false,
-                "jersey_number": "17",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "J. Garro",
-                "goals": 0,
-                "api_id": 250339,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 90450,
-                "yellow_card": false,
-                "jersey_number": "27",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "T. González",
-                "goals": 0,
-                "api_id": 1650474,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 90447,
-                "yellow_card": false,
-                "jersey_number": "10",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "Y. Moreno",
-                "goals": 0,
-                "api_id": 2036024,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "F",
-                "red_card": false,
-                "player_id": 90449,
-                "yellow_card": false,
-                "jersey_number": "16",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "FWD",
-                "positions_detailed": []
-              }
-            ],
-            "formation": "3-4-2-1",
-            "substitutes": []
-          },
-          "home": {
-            "players": [
-              {
-                "name": "N. Bolcato",
-                "goals": 0,
-                "api_id": 2338281,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "G",
-                "red_card": false,
-                "player_id": 22752,
-                "yellow_card": false,
-                "jersey_number": "30",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "GK",
-                "positions_detailed": []
-              },
-              {
-                "name": "L. Costa",
-                "goals": 0,
-                "api_id": 1177545,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 22757,
-                "yellow_card": false,
-                "jersey_number": "2",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "S. Studer",
-                "goals": 0,
-                "api_id": 1018464,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 22755,
-                "yellow_card": false,
-                "jersey_number": "42",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "I. Villalba",
-                "goals": 0,
-                "api_id": 875088,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 22754,
-                "yellow_card": false,
-                "jersey_number": "40",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "J. M. Elordi",
-                "goals": 0,
-                "api_id": 993481,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "D",
-                "red_card": false,
-                "player_id": 22766,
-                "yellow_card": false,
-                "jersey_number": "3",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "DEF",
-                "positions_detailed": []
-              },
-              {
-                "name": "T. Bottari",
-                "goals": 0,
-                "api_id": 1092337,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 22762,
-                "yellow_card": false,
-                "jersey_number": "5",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "G. Ríos",
-                "goals": 0,
-                "api_id": 1160545,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 22763,
-                "yellow_card": false,
-                "jersey_number": "11",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "J. Florentín",
-                "goals": 0,
-                "api_id": 988619,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 22758,
-                "yellow_card": false,
-                "jersey_number": "25",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "M. Fernández",
-                "goals": 0,
-                "api_id": 1020500,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "M",
-                "red_card": false,
-                "player_id": 22759,
-                "yellow_card": false,
-                "jersey_number": "10",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "MID",
-                "positions_detailed": []
-              },
-              {
-                "name": "F. Sartori",
-                "goals": 0,
-                "api_id": 2123031,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "F",
-                "red_card": false,
-                "player_id": 22760,
-                "yellow_card": false,
-                "jersey_number": "43",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "FWD",
-                "positions_detailed": []
-              },
-              {
-                "name": "A. Arce",
-                "goals": 0,
-                "api_id": 1167312,
-                "rating": null,
-                "sub_in": null,
-                "captain": false,
-                "sub_out": null,
-                "position": "F",
-                "red_card": false,
-                "player_id": 16914,
-                "yellow_card": false,
-                "jersey_number": "9",
-                "replaces_player_id": null,
-                "replaced_by_player_id": null,
-                "specific_position": "FWD",
-                "positions_detailed": []
-              }
-            ],
-            "formation": "4-3-1-2",
-            "substitutes": []
-          },
-          "confirmed": false
-        },
-        "social": []
-      },
-      "managers": {
-        "home": {
-          "id": 489,
-          "name": "Alfredo Berti",
-          "short_name": "A. Berti",
-          "country": "Argentina",
-          "current_team": {
-            "id": 774,
-            "name": "Independiente Rivadavia"
-          },
-          "preferred_formation": "5-3-2",
-          "formations_used": {
-            "3-4-3": 2,
-            "4-3-3": 1,
-            "4-4-2": 3,
-            "5-3-2": 8,
-            "3-1-4-2": 1,
-            "4-1-3-2": 2,
-            "4-2-3-1": 6,
-            "4-3-1-2": 3
-          },
-          "profile": "attacking",
-          "team_style": "neutral",
-          "pressing_intensity": 0.6657897936144683,
-          "defensive_line": "mid",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "gegenpressing",
-              "name": "Gegenpressing",
-              "category": "pressing",
-              "emoji": "💨",
-              "description": "Immediate press after losing the ball",
-              "score": 0.076
-            },
-            {
-              "rank": 2,
-              "code": "high_press",
-              "name": "High Press",
-              "category": "pressing",
-              "emoji": "🔥",
-              "description": "Press defenders and keeper aggressively high up",
-              "score": 0.076
-            },
-            {
-              "rank": 3,
-              "code": "set_piece",
-              "name": "Set-Piece Reliant",
-              "category": "defensive",
-              "emoji": "🎯",
-              "description": "Goals mainly from corners and free kicks",
-              "score": 0.072
-            },
-            {
-              "rank": 4,
-              "code": "cross_pray",
-              "name": "Cross & Pray",
-              "category": "wide",
-              "emoji": "🙏",
-              "description": "High-volume hopeful crosses into the box",
-              "score": 0.072
-            }
-          ],
-          "matches_total": 26,
-          "wins": 16,
-          "draws": 6,
-          "losses": 4,
-          "win_pct": 61.5,
-          "avg_goals_scored": 1.85,
-          "avg_goals_conceded": 1,
-          "avg_possession": 46.77,
-          "avg_shots": 14.27,
-          "avg_shots_on_target": 5.12,
-          "avg_xg_for": 1.74,
-          "avg_xg_against": 0.84,
-          "avg_corners": 4.35,
-          "avg_yellow_cards": 2,
-          "avg_red_cards": 0,
-          "avg_fouls": 11.58,
-          "clean_sheet_pct": 23.1,
-          "btts_pct": 73.1,
-          "over_25_pct": 57.7,
-          "over_15_pct": 80.8,
-          "fail_to_score_pct": 11.5,
-          "avg_goals_scored_1h": 0.92,
-          "avg_goals_conceded_1h": 0.65
-        },
-        "away": {
-          "id": 3200,
-          "name": "Ruben Dario Forestello",
-          "short_name": "R. D. Forestello",
-          "country": "Argentina",
-          "current_team": {
-            "id": 5000,
-            "name": "Estudiantes de Río Cuarto"
-          },
-          "preferred_formation": "4-4-2",
-          "formations_used": {
-            "4-3-3": 1,
-            "4-4-2": 6,
-            "5-3-2": 2,
-            "3-1-4-2": 1,
-            "3-4-2-1": 2,
-            "4-1-4-1": 1,
-            "4-2-3-1": 3,
-            "4-4-1-1": 3
-          },
-          "profile": "defensive",
-          "team_style": "neutral",
-          "pressing_intensity": 0.6772170562419987,
-          "defensive_line": "mid",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "cross_pray",
-              "name": "Cross & Pray",
-              "category": "wide",
-              "emoji": "🙏",
-              "description": "High-volume hopeful crosses into the box",
-              "score": 0.139
-            },
-            {
-              "rank": 2,
-              "code": "gegenpressing",
-              "name": "Gegenpressing",
-              "category": "pressing",
-              "emoji": "💨",
-              "description": "Immediate press after losing the ball",
-              "score": 0.109
-            },
-            {
-              "rank": 3,
-              "code": "high_press",
-              "name": "High Press",
-              "category": "pressing",
-              "emoji": "🔥",
-              "description": "Press defenders and keeper aggressively high up",
-              "score": 0.104
-            },
-            {
-              "rank": 4,
-              "code": "wing_play",
-              "name": "Wing Play",
-              "category": "wide",
-              "emoji": "🪽",
-              "description": "Attacks focused through wide areas",
-              "score": 0.06
-            }
-          ],
-          "matches_total": 19,
-          "wins": 2,
-          "draws": 3,
-          "losses": 14,
-          "win_pct": 10.5,
-          "avg_goals_scored": 0.32,
-          "avg_goals_conceded": 1.42,
-          "avg_possession": 47.16,
-          "avg_shots": 10.89,
-          "avg_shots_on_target": 2.21,
-          "avg_xg_for": 0.6,
-          "avg_xg_against": 1.71,
-          "avg_corners": 4.53,
-          "avg_yellow_cards": 2.21,
-          "avg_red_cards": 0.16,
-          "avg_fouls": 11.63,
-          "clean_sheet_pct": 26.3,
-          "btts_pct": 15.8,
-          "over_25_pct": 26.3,
-          "over_15_pct": 57.9,
-          "fail_to_score_pct": 73.7,
-          "avg_goals_scored_1h": 0.16,
-          "avg_goals_conceded_1h": 0.53
-        }
-      }
-    },
     {
       "event_id": 210046,
       "prediction": {
@@ -16849,7 +14716,14 @@
                 "expected_return": "2026-08-08"
               }
             ],
-            "away": []
+            "away": [
+              {
+                "name": "Jarosław Kubicki",
+                "status": "injured",
+                "reason": "Broken Hand",
+                "expected_return": "2026-09-20"
+              }
+            ]
           },
           "venue": {
             "id": 413,
@@ -17082,7 +14956,14 @@
               "expected_return": "2026-08-08"
             }
           ],
-          "away": []
+          "away": [
+            {
+              "name": "Jarosław Kubicki",
+              "status": "injured",
+              "reason": "Broken Hand",
+              "expected_return": "2026-09-20"
+            }
+          ]
         },
         "venue": {
           "id": 413,
@@ -18238,9 +16119,21 @@
                 "expected_return": "2026-08-20"
               },
               {
+                "name": "Axel Kouame",
+                "status": "injured",
+                "reason": "Thigh Injury",
+                "expected_return": "2026-08-20"
+              },
+              {
                 "name": "Eskil Edh",
                 "status": "injured",
                 "reason": "Hamstring Injury",
+                "expected_return": "2026-08-20"
+              },
+              {
+                "name": "Ibrahim Cissé",
+                "status": "injured",
+                "reason": "Ankle Injury",
                 "expected_return": "2026-08-20"
               },
               {
@@ -18256,15 +16149,21 @@
                 "expected_return": "2026-08-31"
               },
               {
-                "name": "Taha Ayari",
+                "name": "Sotirios Papagiannopoulos",
                 "status": "injured",
-                "reason": "Calf Injury",
+                "reason": "Knee Injury",
+                "expected_return": "2026-09-10"
+              },
+              {
+                "name": "Stanley Wilson",
+                "status": "injured",
+                "reason": "Groin Injury",
                 "expected_return": "2026-08-20"
               },
               {
-                "name": "Zadok Yohanna",
+                "name": "Taha Ayari",
                 "status": "injured",
-                "reason": "Thigh Injury",
+                "reason": "Calf Injury",
                 "expected_return": "2026-08-20"
               }
             ]
@@ -18547,9 +16446,21 @@
               "expected_return": "2026-08-20"
             },
             {
+              "name": "Axel Kouame",
+              "status": "injured",
+              "reason": "Thigh Injury",
+              "expected_return": "2026-08-20"
+            },
+            {
               "name": "Eskil Edh",
               "status": "injured",
               "reason": "Hamstring Injury",
+              "expected_return": "2026-08-20"
+            },
+            {
+              "name": "Ibrahim Cissé",
+              "status": "injured",
+              "reason": "Ankle Injury",
               "expected_return": "2026-08-20"
             },
             {
@@ -18565,15 +16476,21 @@
               "expected_return": "2026-08-31"
             },
             {
-              "name": "Taha Ayari",
+              "name": "Sotirios Papagiannopoulos",
               "status": "injured",
-              "reason": "Calf Injury",
+              "reason": "Knee Injury",
+              "expected_return": "2026-09-10"
+            },
+            {
+              "name": "Stanley Wilson",
+              "status": "injured",
+              "reason": "Groin Injury",
               "expected_return": "2026-08-20"
             },
             {
-              "name": "Zadok Yohanna",
+              "name": "Taha Ayari",
               "status": "injured",
-              "reason": "Thigh Injury",
+              "reason": "Calf Injury",
               "expected_return": "2026-08-20"
             }
           ]
@@ -19050,12 +16967,6 @@
             "home": [],
             "away": [
               {
-                "name": "Joe Bryan",
-                "status": "injured",
-                "reason": "",
-                "expected_return": null
-              },
-              {
                 "name": "Lukas Jensen",
                 "status": "injured",
                 "reason": "",
@@ -19243,12 +17154,6 @@
         "unavailable_players": {
           "home": [],
           "away": [
-            {
-              "name": "Joe Bryan",
-              "status": "injured",
-              "reason": "",
-              "expected_return": null
-            },
             {
               "name": "Lukas Jensen",
               "status": "injured",
@@ -19713,19 +17618,18 @@
             ]
           },
           "unavailable_players": {
-            "home": [
-              {
-                "name": "Jordan McGhee",
-                "status": "injured",
-                "reason": "Hamstring Injury",
-                "expected_return": "2026-08-20"
-              }
-            ],
+            "home": [],
             "away": [
               {
                 "name": "Kristers Tobers",
                 "status": "injured",
                 "reason": "Knee Injury",
+                "expected_return": "2026-08-31"
+              },
+              {
+                "name": "Kusini Yengi",
+                "status": "injured",
+                "reason": "Thigh Injury",
                 "expected_return": "2026-08-31"
               }
             ]
@@ -19952,19 +17856,18 @@
           ]
         },
         "unavailable_players": {
-          "home": [
-            {
-              "name": "Jordan McGhee",
-              "status": "injured",
-              "reason": "Hamstring Injury",
-              "expected_return": "2026-08-20"
-            }
-          ],
+          "home": [],
           "away": [
             {
               "name": "Kristers Tobers",
               "status": "injured",
               "reason": "Knee Injury",
+              "expected_return": "2026-08-31"
+            },
+            {
+              "name": "Kusini Yengi",
+              "status": "injured",
+              "reason": "Thigh Injury",
               "expected_return": "2026-08-31"
             }
           ]
@@ -20510,6 +18413,12 @@
                 "status": "suspended",
                 "reason": "yellow_card_accumulation_suspension",
                 "expected_return": "2026-08-08"
+              },
+              {
+                "name": "Veton Berisha",
+                "status": "injured",
+                "reason": "Thigh Injury",
+                "expected_return": "2026-08-31"
               }
             ],
             "away": [
@@ -20789,6 +18698,12 @@
               "status": "suspended",
               "reason": "yellow_card_accumulation_suspension",
               "expected_return": "2026-08-08"
+            },
+            {
+              "name": "Veton Berisha",
+              "status": "injured",
+              "reason": "Thigh Injury",
+              "expected_return": "2026-08-31"
             }
           ],
           "away": [
@@ -23242,14 +21157,7 @@
             "top_styles": []
           },
           "unavailable_players": {
-            "home": [
-              {
-                "name": "Moussa Sissoko",
-                "status": "injured",
-                "reason": "",
-                "expected_return": null
-              }
-            ],
+            "home": [],
             "away": [
               {
                 "name": "Louie Copley",
@@ -23460,14 +21368,7 @@
           "top_styles": []
         },
         "unavailable_players": {
-          "home": [
-            {
-              "name": "Moussa Sissoko",
-              "status": "injured",
-              "reason": "",
-              "expected_return": null
-            }
-          ],
+          "home": [],
           "away": [
             {
               "name": "Louie Copley",
@@ -24472,7 +22373,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Bradford's looking sharp heading into cup action, and Rochdale's stuck in a rut.** This could get ugly at Valley Parade. 🔴\n\nBradford have won 3 of their last 5 with some tidy attacking performances — that 3-2 over Preston was *chef's kiss* form. Rochdale, meanwhile, are drawing everything and losing the rest. They've picked up just one win in five and look fragile defensively.\n\nKey storylines:\n\n- **Bradford's attacking thrust** through Sarcevic and Wright should find space against a Rochdale side that's been leaky all preseason\n- **Set-piece danger** looms large for both sides in a cup tie where one moment can shift momentum\n- **Rochdale's lack of momentum** — four draws from five is fine on paper but screams vulnerability under pressure\n\nExpected lineups:\n\n- **Bradford City**: S. Walker, A. Baldwin, C. Kelly, O. Hewitt, O. Lunn, M. Power, L. Gomes, H. Cartwright, G. Lapslie, A. Sarcevic, T. Wright\n- **Rochdale**: N. Ramming, E. Ebanks-Landell, D. Moss, S. Beckwith, C. Pettit, T. Adebayo-Rowling, R. East, D. Rodney, H. Gilmour, I. Henderson, E. Dieseruvwe\n\nPrediction:\n\n**Bradford 2-0 Rochdale** — the hosts have genuine menace in attack and should coast past a sluggish Rochdale outfit. 🎯",
+            "generated_at": "2026-08-07T23:41:40.279229+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-08-05T16:05:24.925741+00:00",
@@ -24683,7 +22587,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Bradford's looking sharp heading into cup action, and Rochdale's stuck in a rut.** This could get ugly at Valley Parade. 🔴\n\nBradford have won 3 of their last 5 with some tidy attacking performances — that 3-2 over Preston was *chef's kiss* form. Rochdale, meanwhile, are drawing everything and losing the rest. They've picked up just one win in five and look fragile defensively.\n\nKey storylines:\n\n- **Bradford's attacking thrust** through Sarcevic and Wright should find space against a Rochdale side that's been leaky all preseason\n- **Set-piece danger** looms large for both sides in a cup tie where one moment can shift momentum\n- **Rochdale's lack of momentum** — four draws from five is fine on paper but screams vulnerability under pressure\n\nExpected lineups:\n\n- **Bradford City**: S. Walker, A. Baldwin, C. Kelly, O. Hewitt, O. Lunn, M. Power, L. Gomes, H. Cartwright, G. Lapslie, A. Sarcevic, T. Wright\n- **Rochdale**: N. Ramming, E. Ebanks-Landell, D. Moss, S. Beckwith, C. Pettit, T. Adebayo-Rowling, R. East, D. Rodney, H. Gilmour, I. Henderson, E. Dieseruvwe\n\nPrediction:\n\n**Bradford 2-0 Rochdale** — the hosts have genuine menace in attack and should coast past a sluggish Rochdale outfit. 🎯",
+          "generated_at": "2026-08-07T23:41:40.279229+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-07",
@@ -25809,6 +23716,12 @@
                 "expected_return": "2026-08-20"
               },
               {
+                "name": "Keanu Baccus",
+                "status": "injured",
+                "reason": "Achilles Tendon Injury",
+                "expected_return": "2026-08-31"
+              },
+              {
                 "name": "Ryan Mullen",
                 "status": "injured",
                 "reason": "Thigh Injury",
@@ -26033,6 +23946,12 @@
               "status": "injured",
               "reason": "Hamstring Injury",
               "expected_return": "2026-08-20"
+            },
+            {
+              "name": "Keanu Baccus",
+              "status": "injured",
+              "reason": "Achilles Tendon Injury",
+              "expected_return": "2026-08-31"
             },
             {
               "name": "Ryan Mullen",
@@ -26492,17 +24411,7 @@
             "defensive_line": "",
             "top_styles": []
           },
-          "unavailable_players": {
-            "home": [],
-            "away": [
-              {
-                "name": "Amari'i Bell",
-                "status": "injured",
-                "reason": "Knee Injury",
-                "expected_return": null
-              }
-            ]
-          },
+          "unavailable_players": null,
           "venue": {
             "id": 883,
             "name": "Priestfield Stadium",
@@ -26718,17 +24627,7 @@
           "defensive_line": "",
           "top_styles": []
         },
-        "unavailable_players": {
-          "home": [],
-          "away": [
-            {
-              "name": "Amari'i Bell",
-              "status": "injured",
-              "reason": "Knee Injury",
-              "expected_return": null
-            }
-          ]
-        },
+        "unavailable_players": null,
         "venue": {
           "id": 883,
           "name": "Priestfield Stadium",
@@ -30352,17 +28251,7 @@
               "set_piece"
             ]
           },
-          "unavailable_players": {
-            "home": [],
-            "away": [
-              {
-                "name": "Kusini Yengi",
-                "status": "injured",
-                "reason": "Thigh Injury",
-                "expected_return": "2026-08-31"
-              }
-            ]
-          },
+          "unavailable_players": null,
           "venue": {
             "id": 8,
             "name": "London Stadium",
@@ -30587,17 +28476,7 @@
             "set_piece"
           ]
         },
-        "unavailable_players": {
-          "home": [],
-          "away": [
-            {
-              "name": "Kusini Yengi",
-              "status": "injured",
-              "reason": "Thigh Injury",
-              "expected_return": "2026-08-31"
-            }
-          ]
-        },
+        "unavailable_players": null,
         "venue": {
           "id": 8,
           "name": "London Stadium",
@@ -33579,6 +31458,1278 @@
           "fail_to_score_pct": 20,
           "avg_goals_scored_1h": 0.7,
           "avg_goals_conceded_1h": 0.1
+        }
+      }
+    },
+    {
+      "event_id": 212772,
+      "prediction": {
+        "id": 758,
+        "event": {
+          "id": 212772,
+          "league": {
+            "id": 40,
+            "name": "Carabao Cup",
+            "country": "England",
+            "is_women": false,
+            "current_season": {
+              "id": 1092,
+              "name": "EFL Cup 26/27",
+              "year": 2026,
+              "start_date": "2026-07-01",
+              "end_date": "2027-06-30"
+            }
+          },
+          "season": {
+            "id": 1092,
+            "name": "EFL Cup 26/27",
+            "year": 2026
+          },
+          "home_team": "Crewe Alexandra",
+          "away_team": "Accrington Stanley",
+          "home_team_obj": {
+            "id": 1448,
+            "name": "Crewe Alexandra",
+            "short_name": "Crewe",
+            "country": "England",
+            "coach": {
+              "name": "Lee Bell",
+              "shortName": "L. Bell"
+            },
+            "venue": {
+              "id": 898,
+              "name": "Alexandra Stadium",
+              "city": "Crewe",
+              "country": "England",
+              "capacity": 10153
+            }
+          },
+          "away_team_obj": {
+            "id": 1422,
+            "name": "Accrington Stanley",
+            "short_name": "Accrington",
+            "country": "England",
+            "coach": {
+              "name": "John Doolan",
+              "shortName": "J. Doolan"
+            },
+            "venue": {
+              "id": 872,
+              "name": "The Crown Ground",
+              "city": "Accrington",
+              "country": "England",
+              "capacity": 5057
+            }
+          },
+          "event_date": "2026-08-08T14:00:00Z",
+          "round_number": 1,
+          "round_name": "Round 1",
+          "group_name": null,
+          "status": "notstarted",
+          "home_score": null,
+          "away_score": null,
+          "home_score_ht": null,
+          "away_score_ht": null,
+          "current_minute": null,
+          "period": "",
+          "odds_home": 1.76,
+          "odds_draw": 3.47,
+          "odds_away": 3.84,
+          "odds_over_15": 1.24,
+          "odds_over_25": 1.77,
+          "odds_over_35": 2.89,
+          "odds_under_15": 3.77,
+          "odds_under_25": 1.97,
+          "odds_under_35": 1.38,
+          "odds_btts_yes": 1.7,
+          "odds_btts_no": 2.05,
+          "actual_home_xg": null,
+          "actual_away_xg": null,
+          "home_xg_live": null,
+          "away_xg_live": null,
+          "penalty_shootout": null,
+          "extra_time_score": null,
+          "is_local_derby": false,
+          "is_neutral_ground": null,
+          "travel_distance_km": 76,
+          "weather_code": 3,
+          "wind_speed": 14.4,
+          "temperature_c": 27,
+          "pitch_condition": null,
+          "attendance": null,
+          "referee": null,
+          "home_coach": {
+            "id": 1944,
+            "name": "Lee Bell",
+            "short_name": "L. Bell",
+            "country": "England",
+            "profile": "balanced",
+            "preferred_formation": "4-2-3-1",
+            "pressing_intensity": null,
+            "defensive_line": "",
+            "top_styles": []
+          },
+          "away_coach": {
+            "id": 1939,
+            "name": "John Doolan",
+            "short_name": "J. Doolan",
+            "country": "England",
+            "profile": "defensive",
+            "preferred_formation": "3-4-1-2",
+            "pressing_intensity": 0.5126063323856814,
+            "defensive_line": "mid",
+            "top_styles": [
+              "territory",
+              "high_press"
+            ]
+          },
+          "unavailable_players": null,
+          "venue": {
+            "id": 898,
+            "name": "Alexandra Stadium",
+            "city": "Crewe",
+            "country": "England",
+            "capacity": 10153,
+            "latitude": 53.087419,
+            "longitude": -2.435747,
+            "pitch_x": 102,
+            "pitch_y": 67,
+            "built_year": 1906
+          },
+          "incidents": null,
+          "live_stats": null,
+          "lineups": null,
+          "shotmap": null,
+          "momentum": null,
+          "xg_per_minute": null,
+          "average_positions": null,
+          "jerseys": {
+            "away": {
+              "GK": {
+                "base": "66cc00",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "000000",
+                "sleeve": "66cc00"
+              },
+              "player": {
+                "base": "ff0000",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "ffffff",
+                "sleeve": "ffffff",
+                "sleevelong": "ff0000"
+              }
+            },
+            "home": {
+              "GK": {
+                "base": "3eb3e1",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "ffffff",
+                "sleeve": "3eb3e1",
+                "sleevelong": "3eb3e1"
+              },
+              "player": {
+                "base": "660d0b",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "ffffff",
+                "sleeve": "121111"
+              }
+            }
+          },
+          "funfacts": [
+            {
+              "type_id": 1,
+              "sentence": "Accrington haven't lost in their last 5 games."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Crewe have played 4 home matches in a row without winning."
+            },
+            {
+              "type_id": 6,
+              "sentence": "During the last 11 meetings with Crewe playing at home, Crewe have won 5 times, there have been 2 draws while Accrington have won 4 times. The goal difference is 15-9 in favour of Crewe."
+            }
+          ],
+          "sr_stats": null,
+          "ai_preview": {
+            "text": "**Cup chaos incoming** — Crewe and Accrington collide in a first-round Carabao Cup clash where neither side can afford to blink. 🏆 Accrington's unbeaten run gives them the edge, but the hosts have already shown they can dismantle lower-league sides.\n\nCrewe hit **3-0 vs Telford United** just recently and look sharp at home. Accrington come in hot with three wins in five, fresh off a **3-0 demolition of Chorley**, but cup competitions can be a lottery for the smaller clubs.\n\nKey storylines:\n\n- **O. Bogle and S. Tracey** lead Crewe's attack at home turf — they'll fancy cutting through Accrington's back three\n- **Accrington's unbeaten streak** has them believing, but a trip to Alexandra Stadium in August is tricky; **J. Woods and T. Walton** need to stay disciplined\n- **M. Holíček and J. Powell** anchor Crewe's midfield — controlling possession could be the key to wearing down the visitors\n\nExpected lineups:\n\n- **Crewe Alexandra**: T. Booth, M. Demetriou, L. Billington, R. Hutchinson, J. Connolly, M. Holíček, J. Powell, A. Thibaut, M. Sanders, S. Tracey, O. Bogle\n- **Accrington Stanley**: O. Wright, D. Matthews, F. Rawson, D. Love, F. Sass, L. Coyle, C. O'Brien, I. Sinclair, S. Whalley, J. Woods, T. Walton\n\nPrediction:\n\n**Crewe 2-1 Accrington**. Home advantage and cup momentum tip it Crewe's way, though Accrington won't roll over. 🔴",
+            "generated_at": "2026-08-07T23:41:29.637839+00:00"
+          },
+          "live_websocket": true
+        },
+        "created_at": "2026-08-05T16:05:24.860122+00:00",
+        "prob_home_win": 50.9,
+        "prob_draw": 25.8,
+        "prob_away_win": 23.3,
+        "predicted_result": "H",
+        "expected_home_goals": 1.812,
+        "expected_away_goals": 1.41,
+        "prob_over_15": 75.5,
+        "prob_over_25": 53.2,
+        "prob_over_35": 32.5,
+        "prob_btts_yes": 54.7,
+        "confidence": 0.5088,
+        "model_version": "dc-blend-v1",
+        "most_likely_score": "1-1",
+        "favorite": "H",
+        "favorite_prob": 50.9,
+        "favorite_recommend": false,
+        "over_15_recommend": false,
+        "over_25_recommend": false,
+        "over_35_recommend": false,
+        "btts_recommend": false,
+        "winner_recommend": false
+      },
+      "event_detail": {
+        "id": 212772,
+        "league": {
+          "id": 40,
+          "name": "Carabao Cup",
+          "country": "England",
+          "is_women": false,
+          "current_season": {
+            "id": 1092,
+            "name": "EFL Cup 26/27",
+            "year": 2026,
+            "start_date": "2026-07-01",
+            "end_date": "2027-06-30"
+          }
+        },
+        "season": {
+          "id": 1092,
+          "name": "EFL Cup 26/27",
+          "year": 2026
+        },
+        "home_team": "Crewe Alexandra",
+        "away_team": "Accrington Stanley",
+        "home_team_obj": {
+          "id": 1448,
+          "name": "Crewe Alexandra",
+          "short_name": "Crewe",
+          "country": "England",
+          "coach": {
+            "name": "Lee Bell",
+            "shortName": "L. Bell"
+          },
+          "venue": {
+            "id": 898,
+            "name": "Alexandra Stadium",
+            "city": "Crewe",
+            "country": "England",
+            "capacity": 10153
+          }
+        },
+        "away_team_obj": {
+          "id": 1422,
+          "name": "Accrington Stanley",
+          "short_name": "Accrington",
+          "country": "England",
+          "coach": {
+            "name": "John Doolan",
+            "shortName": "J. Doolan"
+          },
+          "venue": {
+            "id": 872,
+            "name": "The Crown Ground",
+            "city": "Accrington",
+            "country": "England",
+            "capacity": 5057
+          }
+        },
+        "event_date": "2026-08-08T17:00:00+03:00",
+        "round_number": 1,
+        "round_name": "Round 1",
+        "group_name": null,
+        "status": "notstarted",
+        "home_score": null,
+        "away_score": null,
+        "home_score_ht": null,
+        "away_score_ht": null,
+        "current_minute": null,
+        "period": "",
+        "odds_home": 1.76,
+        "odds_draw": 3.47,
+        "odds_away": 3.84,
+        "odds_over_15": 1.24,
+        "odds_over_25": 1.77,
+        "odds_over_35": 2.89,
+        "odds_under_15": 3.77,
+        "odds_under_25": 1.97,
+        "odds_under_35": 1.38,
+        "odds_btts_yes": 1.7,
+        "odds_btts_no": 2.05,
+        "actual_home_xg": null,
+        "actual_away_xg": null,
+        "home_xg_live": null,
+        "away_xg_live": null,
+        "penalty_shootout": null,
+        "extra_time_score": null,
+        "is_local_derby": false,
+        "is_neutral_ground": null,
+        "travel_distance_km": 76,
+        "weather_code": 3,
+        "wind_speed": 14.4,
+        "temperature_c": 27,
+        "pitch_condition": null,
+        "attendance": null,
+        "referee": null,
+        "home_coach": {
+          "id": 1944,
+          "name": "Lee Bell",
+          "short_name": "L. Bell",
+          "country": "England",
+          "profile": "balanced",
+          "preferred_formation": "4-2-3-1",
+          "pressing_intensity": null,
+          "defensive_line": "",
+          "top_styles": []
+        },
+        "away_coach": {
+          "id": 1939,
+          "name": "John Doolan",
+          "short_name": "J. Doolan",
+          "country": "England",
+          "profile": "defensive",
+          "preferred_formation": "3-4-1-2",
+          "pressing_intensity": 0.5126063323856814,
+          "defensive_line": "mid",
+          "top_styles": [
+            "territory",
+            "high_press"
+          ]
+        },
+        "unavailable_players": null,
+        "venue": {
+          "id": 898,
+          "name": "Alexandra Stadium",
+          "city": "Crewe",
+          "country": "England",
+          "capacity": 10153,
+          "latitude": 53.087419,
+          "longitude": -2.435747,
+          "pitch_x": 102,
+          "pitch_y": 67,
+          "built_year": 1906
+        },
+        "live_stats": null,
+        "jerseys": {
+          "away": {
+            "GK": {
+              "base": "66cc00",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "000000",
+              "sleeve": "66cc00"
+            },
+            "player": {
+              "base": "ff0000",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "ffffff",
+              "sleeve": "ffffff",
+              "sleevelong": "ff0000"
+            }
+          },
+          "home": {
+            "GK": {
+              "base": "3eb3e1",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "ffffff",
+              "sleeve": "3eb3e1",
+              "sleevelong": "3eb3e1"
+            },
+            "player": {
+              "base": "660d0b",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "ffffff",
+              "sleeve": "121111"
+            }
+          }
+        },
+        "funfacts": [
+          {
+            "type_id": 1,
+            "sentence": "Accrington haven't lost in their last 5 games."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Crewe have played 4 home matches in a row without winning."
+          },
+          {
+            "type_id": 6,
+            "sentence": "During the last 11 meetings with Crewe playing at home, Crewe have won 5 times, there have been 2 draws while Accrington have won 4 times. The goal difference is 15-9 in favour of Crewe."
+          }
+        ],
+        "sr_stats": null,
+        "ai_preview": {
+          "text": "**Cup chaos incoming** — Crewe and Accrington collide in a first-round Carabao Cup clash where neither side can afford to blink. 🏆 Accrington's unbeaten run gives them the edge, but the hosts have already shown they can dismantle lower-league sides.\n\nCrewe hit **3-0 vs Telford United** just recently and look sharp at home. Accrington come in hot with three wins in five, fresh off a **3-0 demolition of Chorley**, but cup competitions can be a lottery for the smaller clubs.\n\nKey storylines:\n\n- **O. Bogle and S. Tracey** lead Crewe's attack at home turf — they'll fancy cutting through Accrington's back three\n- **Accrington's unbeaten streak** has them believing, but a trip to Alexandra Stadium in August is tricky; **J. Woods and T. Walton** need to stay disciplined\n- **M. Holíček and J. Powell** anchor Crewe's midfield — controlling possession could be the key to wearing down the visitors\n\nExpected lineups:\n\n- **Crewe Alexandra**: T. Booth, M. Demetriou, L. Billington, R. Hutchinson, J. Connolly, M. Holíček, J. Powell, A. Thibaut, M. Sanders, S. Tracey, O. Bogle\n- **Accrington Stanley**: O. Wright, D. Matthews, F. Rawson, D. Love, F. Sass, L. Coyle, C. O'Brien, I. Sinclair, S. Whalley, J. Woods, T. Walton\n\nPrediction:\n\n**Crewe 2-1 Accrington**. Home advantage and cup momentum tip it Crewe's way, though Accrington won't roll over. 🔴",
+          "generated_at": "2026-08-07T23:41:29.637839+00:00"
+        },
+        "live_websocket": true,
+        "home_form": {
+          "calculated_at": "2026-08-07",
+          "matches_played": 5,
+          "form_string": "LLDDL",
+          "wins": 0,
+          "draws": 2,
+          "losses": 3,
+          "points_last_n": 2,
+          "goals_scored_last_n": 3,
+          "goals_conceded_last_n": 10,
+          "avg_xg": 1.3437999999999999,
+          "avg_xg_conceded": 2.0824,
+          "avg_shots": 12,
+          "avg_shots_on_target": 4,
+          "avg_key_passes": 8,
+          "goal_conversion_rate": 2.232475070695044,
+          "defensive_efficiency": -3.802151363810988,
+          "clean_sheets": 1,
+          "avg_pass_accuracy": 80,
+          "duel_win_rate": 0.41964285714285715,
+          "aerial_win_rate": 0.3333333333333333,
+          "avg_fouls": 15,
+          "avg_yellow_cards": 0,
+          "home_ppg": 0.2,
+          "away_ppg": 0.4,
+          "home_goals_scored": 5,
+          "home_goals_conceded": 14,
+          "away_goals_scored": 3,
+          "away_goals_conceded": 10,
+          "avg_team_rating": 6.6125
+        },
+        "away_form": {
+          "calculated_at": "2026-08-07",
+          "matches_played": 5,
+          "form_string": "LWWLD",
+          "wins": 2,
+          "draws": 1,
+          "losses": 2,
+          "points_last_n": 7,
+          "goals_scored_last_n": 6,
+          "goals_conceded_last_n": 8,
+          "avg_xg": 1.1409333333333331,
+          "avg_xg_conceded": 1.0083,
+          "avg_shots": 9,
+          "avg_shots_on_target": 4.666666666666667,
+          "avg_key_passes": 5.666666666666667,
+          "goal_conversion_rate": 1.7529508005141992,
+          "defensive_efficiency": -1.6447155277860426,
+          "clean_sheets": 0,
+          "avg_pass_accuracy": 64.87815671382238,
+          "duel_win_rate": 0.5261780104712042,
+          "aerial_win_rate": 0.5465116279069767,
+          "avg_fouls": 12,
+          "avg_yellow_cards": 3.3333333333333335,
+          "home_ppg": 1.6,
+          "away_ppg": 1,
+          "home_goals_scored": 8,
+          "home_goals_conceded": 7,
+          "away_goals_scored": 4,
+          "away_goals_conceded": 11,
+          "avg_team_rating": 6.813988095238095
+        },
+        "head_to_head": {
+          "total_matches": 16,
+          "home_wins": 2,
+          "draws": 2,
+          "away_wins": 6,
+          "home_goals": 8,
+          "away_goals": 13,
+          "avg_total_goals": 1.3125,
+          "home_win_rate": 0.125,
+          "away_win_rate": 0.375,
+          "recent_matches": [
+            {
+              "away": "Crewe Alexandra",
+              "date": "2026-04-03T14:00:00+00:00",
+              "home": "Accrington Stanley",
+              "score": "2-0"
+            },
+            {
+              "away": "Accrington Stanley",
+              "date": "2025-08-09T14:00:00+00:00",
+              "home": "Crewe Alexandra",
+              "score": "2-0"
+            },
+            {
+              "away": "Accrington Stanley",
+              "date": "2025-01-25T15:00:00+00:00",
+              "home": "Crewe Alexandra",
+              "score": "0-1"
+            },
+            {
+              "away": "Crewe Alexandra",
+              "date": "2024-09-14T14:00:00+00:00",
+              "home": "Accrington Stanley",
+              "score": "0-1"
+            },
+            {
+              "away": "Crewe Alexandra",
+              "date": "2024-04-06T14:00:00+00:00",
+              "home": "Accrington Stanley",
+              "score": "0-0"
+            },
+            {
+              "away": "Accrington Stanley",
+              "date": "2023-12-16T15:00:00+00:00",
+              "home": "Crewe Alexandra",
+              "score": "3-3"
+            },
+            {
+              "away": "Crewe Alexandra",
+              "date": "2018-02-13T19:45:00+00:00",
+              "home": "Accrington Stanley",
+              "score": "1-0"
+            },
+            {
+              "away": "Accrington Stanley",
+              "date": "2017-10-21T14:00:00+00:00",
+              "home": "Crewe Alexandra",
+              "score": "0-2"
+            },
+            {
+              "away": "Crewe Alexandra",
+              "date": "2017-04-08T14:00:00+00:00",
+              "home": "Accrington Stanley",
+              "score": "3-2"
+            },
+            {
+              "away": "Accrington Stanley",
+              "date": "2016-12-31T15:00:00+00:00",
+              "home": "Crewe Alexandra",
+              "score": "0-1"
+            }
+          ]
+        },
+        "lineups": null,
+        "social": []
+      },
+      "managers": {
+        "home": {
+          "id": 898,
+          "name": "Lee Bell",
+          "short_name": "L. Bell",
+          "country": "England",
+          "current_team": {
+            "id": 1448,
+            "name": "Crewe Alexandra"
+          },
+          "preferred_formation": "",
+          "formations_used": null,
+          "profile": "",
+          "team_style": "",
+          "pressing_intensity": null,
+          "defensive_line": "",
+          "tactical_styles": [],
+          "matches_total": 0,
+          "wins": 0,
+          "draws": 0,
+          "losses": 0,
+          "win_pct": null,
+          "avg_goals_scored": null,
+          "avg_goals_conceded": null,
+          "avg_possession": null,
+          "avg_shots": null,
+          "avg_shots_on_target": null,
+          "avg_xg_for": null,
+          "avg_xg_against": null,
+          "avg_corners": null,
+          "avg_yellow_cards": null,
+          "avg_red_cards": null,
+          "avg_fouls": null,
+          "clean_sheet_pct": null,
+          "btts_pct": null,
+          "over_25_pct": null,
+          "over_15_pct": null,
+          "fail_to_score_pct": null,
+          "avg_goals_scored_1h": null,
+          "avg_goals_conceded_1h": null
+        },
+        "away": {
+          "id": 867,
+          "name": "John Doolan",
+          "short_name": "J. Doolan",
+          "country": "England",
+          "current_team": {
+            "id": 1422,
+            "name": "Accrington Stanley"
+          },
+          "preferred_formation": "3-4-1-2",
+          "formations_used": {
+            "3-4-1-2": 3
+          },
+          "profile": "balanced",
+          "team_style": "hard",
+          "pressing_intensity": null,
+          "defensive_line": "",
+          "tactical_styles": [],
+          "matches_total": 3,
+          "wins": 2,
+          "draws": 0,
+          "losses": 1,
+          "win_pct": 66.7,
+          "avg_goals_scored": 1.67,
+          "avg_goals_conceded": 1.33,
+          "avg_possession": 35,
+          "avg_shots": 9,
+          "avg_shots_on_target": 4.67,
+          "avg_xg_for": 1.14,
+          "avg_xg_against": 1.01,
+          "avg_corners": 1.67,
+          "avg_yellow_cards": 3,
+          "avg_red_cards": 0,
+          "avg_fouls": 12,
+          "clean_sheet_pct": 0,
+          "btts_pct": 66.7,
+          "over_25_pct": 66.7,
+          "over_15_pct": 100,
+          "fail_to_score_pct": 33.3,
+          "avg_goals_scored_1h": 1.67,
+          "avg_goals_conceded_1h": 0
+        }
+      }
+    },
+    {
+      "event_id": 212763,
+      "prediction": {
+        "id": 589,
+        "event": {
+          "id": 212763,
+          "league": {
+            "id": 40,
+            "name": "Carabao Cup",
+            "country": "England",
+            "is_women": false,
+            "current_season": {
+              "id": 1092,
+              "name": "EFL Cup 26/27",
+              "year": 2026,
+              "start_date": "2026-07-01",
+              "end_date": "2027-06-30"
+            }
+          },
+          "season": {
+            "id": 1092,
+            "name": "EFL Cup 26/27",
+            "year": 2026
+          },
+          "home_team": "Stockport County",
+          "away_team": "Doncaster Rovers",
+          "home_team_obj": {
+            "id": 1423,
+            "name": "Stockport County",
+            "short_name": "Stockport County",
+            "country": "England",
+            "coach": {
+              "name": "Jimmy McNulty",
+              "shortName": "J. McNulty"
+            },
+            "venue": {
+              "id": 873,
+              "name": "Edgeley Park",
+              "city": "Stockport",
+              "country": "England",
+              "capacity": 10841
+            }
+          },
+          "away_team_obj": {
+            "id": 1253,
+            "name": "Doncaster Rovers",
+            "short_name": "Doncaster",
+            "country": "England",
+            "coach": {
+              "name": "Grant McCann",
+              "shortName": "G. McCann"
+            },
+            "venue": {
+              "id": 720,
+              "name": "Eco-Power Stadium",
+              "city": "Doncaster",
+              "country": "England",
+              "capacity": 15231
+            }
+          },
+          "event_date": "2026-08-08T14:00:00Z",
+          "round_number": 1,
+          "round_name": "Round 1",
+          "group_name": null,
+          "status": "notstarted",
+          "home_score": null,
+          "away_score": null,
+          "home_score_ht": null,
+          "away_score_ht": null,
+          "current_minute": null,
+          "period": "",
+          "odds_home": 1.67,
+          "odds_draw": 3.92,
+          "odds_away": 4.52,
+          "odds_over_15": 1.2,
+          "odds_over_25": 1.67,
+          "odds_over_35": 2.64,
+          "odds_under_15": 4.1,
+          "odds_under_25": 2.11,
+          "odds_under_35": 1.43,
+          "odds_btts_yes": 1.67,
+          "odds_btts_no": 2.1,
+          "actual_home_xg": null,
+          "actual_away_xg": null,
+          "home_xg_live": null,
+          "away_xg_live": null,
+          "penalty_shootout": null,
+          "extra_time_score": null,
+          "is_local_derby": false,
+          "is_neutral_ground": null,
+          "travel_distance_km": 71,
+          "weather_code": 1,
+          "wind_speed": 12.2,
+          "temperature_c": 26,
+          "pitch_condition": null,
+          "attendance": null,
+          "referee": null,
+          "home_coach": {
+            "id": 1868,
+            "name": "Jimmy McNulty",
+            "short_name": "J. McNulty",
+            "country": "Scotland",
+            "profile": "defensive",
+            "preferred_formation": "4-1-4-1",
+            "pressing_intensity": null,
+            "defensive_line": "",
+            "top_styles": []
+          },
+          "away_coach": {
+            "id": 859,
+            "name": "Grant McCann",
+            "short_name": "G. McCann",
+            "country": "Northern Ireland",
+            "profile": "attacking",
+            "preferred_formation": "4-2-3-1",
+            "pressing_intensity": 0.3572602226144614,
+            "defensive_line": "mid",
+            "top_styles": [
+              "cross_pray",
+              "wing_play"
+            ]
+          },
+          "unavailable_players": null,
+          "venue": {
+            "id": 873,
+            "name": "Edgeley Park",
+            "city": "Stockport",
+            "country": "England",
+            "capacity": 10841,
+            "latitude": 53.399722,
+            "longitude": -2.166389,
+            "pitch_x": null,
+            "pitch_y": null,
+            "built_year": 1901
+          },
+          "incidents": null,
+          "live_stats": null,
+          "lineups": null,
+          "shotmap": null,
+          "momentum": null,
+          "xg_per_minute": null,
+          "average_positions": null,
+          "jerseys": {
+            "away": {
+              "GK": {
+                "base": "33cc33",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "000000",
+                "sleeve": "33cc33"
+              },
+              "player": {
+                "base": "a81212",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "000000",
+                "sleeve": "ffffff",
+                "sleevelong": "ffffff"
+              }
+            },
+            "home": {
+              "GK": {
+                "base": "96c690",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "354032",
+                "sleeve": "96c690"
+              },
+              "player": {
+                "base": "184f90",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "ffffff",
+                "sleeve": "e6e8ea"
+              }
+            }
+          },
+          "funfacts": [
+            {
+              "type_id": 1,
+              "sentence": "Doncaster haven't won in their last 4 games."
+            },
+            {
+              "type_id": 2,
+              "sentence": "Doncaster haven't won any of their last 5 games against Stockport."
+            },
+            {
+              "type_id": 2,
+              "sentence": "When playing at home, Stockport have not lost to Doncaster in their last 3 encounters."
+            }
+          ],
+          "sr_stats": null,
+          "ai_preview": {
+            "text": "**Stockport's early-season momentum is about to face a Doncaster side that's been pretty leaky.** The hosts are purring at home with four wins in five, while Rovers haven't found their footing yet—just one win in their last five is a rough start. 🔴\n\nStockport's defensive solidity (clean sheets in three of their last four) looks primed to punish Doncaster's brittle backline. Meanwhile, Doncaster will need to tighten up fast if they want to avoid an early cup exit at Edgeley Park.\n\nKey storylines:\n\n- **Stockport's home form** is genuinely scary right now—three straight clean sheet wins set the tone for a cup run\n- **Doncaster's attack**, led by **B. Sharp**, has to find a way through a stingy County defence or face a difficult night\n- **O. Norwood** and the Stockport midfield will likely dominate possession and tempo\n\nExpected lineups:\n\n- **Stockport County**: C. Addai, E. Pye, K. Knoyle, C. Connolly, K. Gordon, O. Norwood, O. Bailey, K. Wootton, C. Gardner, J. Diamond, I. Olaofe\n- **Doncaster Rovers**: J. Oram, J. Senior, S. Grehan, J. Sterry, J. McGrath, O. Bailey, G. Broadbent, H. Clifton, B. Sharp, R. Street, L. Ayinde\n\nPrediction:\n\n**Stockport 2–0 Doncaster.** Home edge too strong; Stockport's form is the real deal. 📍",
+            "generated_at": "2026-08-07T18:41:41.485394+00:00"
+          },
+          "live_websocket": true
+        },
+        "created_at": "2026-08-02T02:15:26.658165+00:00",
+        "prob_home_win": 55.7,
+        "prob_draw": 23.7,
+        "prob_away_win": 20.6,
+        "predicted_result": "H",
+        "expected_home_goals": 1.994,
+        "expected_away_goals": 1.427,
+        "prob_over_15": 77.6,
+        "prob_over_25": 56.4,
+        "prob_over_35": 35.4,
+        "prob_btts_yes": 55.7,
+        "confidence": 0.557,
+        "model_version": "dc-blend-v1",
+        "most_likely_score": "1-1",
+        "favorite": "H",
+        "favorite_prob": 55.7,
+        "favorite_recommend": false,
+        "over_15_recommend": false,
+        "over_25_recommend": false,
+        "over_35_recommend": false,
+        "btts_recommend": false,
+        "winner_recommend": false
+      },
+      "event_detail": {
+        "id": 212763,
+        "league": {
+          "id": 40,
+          "name": "Carabao Cup",
+          "country": "England",
+          "is_women": false,
+          "current_season": {
+            "id": 1092,
+            "name": "EFL Cup 26/27",
+            "year": 2026,
+            "start_date": "2026-07-01",
+            "end_date": "2027-06-30"
+          }
+        },
+        "season": {
+          "id": 1092,
+          "name": "EFL Cup 26/27",
+          "year": 2026
+        },
+        "home_team": "Stockport County",
+        "away_team": "Doncaster Rovers",
+        "home_team_obj": {
+          "id": 1423,
+          "name": "Stockport County",
+          "short_name": "Stockport County",
+          "country": "England",
+          "coach": {
+            "name": "Jimmy McNulty",
+            "shortName": "J. McNulty"
+          },
+          "venue": {
+            "id": 873,
+            "name": "Edgeley Park",
+            "city": "Stockport",
+            "country": "England",
+            "capacity": 10841
+          }
+        },
+        "away_team_obj": {
+          "id": 1253,
+          "name": "Doncaster Rovers",
+          "short_name": "Doncaster",
+          "country": "England",
+          "coach": {
+            "name": "Grant McCann",
+            "shortName": "G. McCann"
+          },
+          "venue": {
+            "id": 720,
+            "name": "Eco-Power Stadium",
+            "city": "Doncaster",
+            "country": "England",
+            "capacity": 15231
+          }
+        },
+        "event_date": "2026-08-08T17:00:00+03:00",
+        "round_number": 1,
+        "round_name": "Round 1",
+        "group_name": null,
+        "status": "notstarted",
+        "home_score": null,
+        "away_score": null,
+        "home_score_ht": null,
+        "away_score_ht": null,
+        "current_minute": null,
+        "period": "",
+        "odds_home": 1.67,
+        "odds_draw": 3.92,
+        "odds_away": 4.52,
+        "odds_over_15": 1.2,
+        "odds_over_25": 1.67,
+        "odds_over_35": 2.64,
+        "odds_under_15": 4.1,
+        "odds_under_25": 2.11,
+        "odds_under_35": 1.43,
+        "odds_btts_yes": 1.67,
+        "odds_btts_no": 2.1,
+        "actual_home_xg": null,
+        "actual_away_xg": null,
+        "home_xg_live": null,
+        "away_xg_live": null,
+        "penalty_shootout": null,
+        "extra_time_score": null,
+        "is_local_derby": false,
+        "is_neutral_ground": null,
+        "travel_distance_km": 71,
+        "weather_code": 1,
+        "wind_speed": 12.2,
+        "temperature_c": 26,
+        "pitch_condition": null,
+        "attendance": null,
+        "referee": null,
+        "home_coach": {
+          "id": 1868,
+          "name": "Jimmy McNulty",
+          "short_name": "J. McNulty",
+          "country": "Scotland",
+          "profile": "defensive",
+          "preferred_formation": "4-1-4-1",
+          "pressing_intensity": null,
+          "defensive_line": "",
+          "top_styles": []
+        },
+        "away_coach": {
+          "id": 859,
+          "name": "Grant McCann",
+          "short_name": "G. McCann",
+          "country": "Northern Ireland",
+          "profile": "attacking",
+          "preferred_formation": "4-2-3-1",
+          "pressing_intensity": 0.3572602226144614,
+          "defensive_line": "mid",
+          "top_styles": [
+            "cross_pray",
+            "wing_play"
+          ]
+        },
+        "unavailable_players": null,
+        "venue": {
+          "id": 873,
+          "name": "Edgeley Park",
+          "city": "Stockport",
+          "country": "England",
+          "capacity": 10841,
+          "latitude": 53.399722,
+          "longitude": -2.166389,
+          "pitch_x": null,
+          "pitch_y": null,
+          "built_year": 1901
+        },
+        "live_stats": null,
+        "jerseys": {
+          "away": {
+            "GK": {
+              "base": "33cc33",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "000000",
+              "sleeve": "33cc33"
+            },
+            "player": {
+              "base": "a81212",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "000000",
+              "sleeve": "ffffff",
+              "sleevelong": "ffffff"
+            }
+          },
+          "home": {
+            "GK": {
+              "base": "96c690",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "354032",
+              "sleeve": "96c690"
+            },
+            "player": {
+              "base": "184f90",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "ffffff",
+              "sleeve": "e6e8ea"
+            }
+          }
+        },
+        "funfacts": [
+          {
+            "type_id": 1,
+            "sentence": "Doncaster haven't won in their last 4 games."
+          },
+          {
+            "type_id": 2,
+            "sentence": "Doncaster haven't won any of their last 5 games against Stockport."
+          },
+          {
+            "type_id": 2,
+            "sentence": "When playing at home, Stockport have not lost to Doncaster in their last 3 encounters."
+          }
+        ],
+        "sr_stats": null,
+        "ai_preview": {
+          "text": "**Stockport's early-season momentum is about to face a Doncaster side that's been pretty leaky.** The hosts are purring at home with four wins in five, while Rovers haven't found their footing yet—just one win in their last five is a rough start. 🔴\n\nStockport's defensive solidity (clean sheets in three of their last four) looks primed to punish Doncaster's brittle backline. Meanwhile, Doncaster will need to tighten up fast if they want to avoid an early cup exit at Edgeley Park.\n\nKey storylines:\n\n- **Stockport's home form** is genuinely scary right now—three straight clean sheet wins set the tone for a cup run\n- **Doncaster's attack**, led by **B. Sharp**, has to find a way through a stingy County defence or face a difficult night\n- **O. Norwood** and the Stockport midfield will likely dominate possession and tempo\n\nExpected lineups:\n\n- **Stockport County**: C. Addai, E. Pye, K. Knoyle, C. Connolly, K. Gordon, O. Norwood, O. Bailey, K. Wootton, C. Gardner, J. Diamond, I. Olaofe\n- **Doncaster Rovers**: J. Oram, J. Senior, S. Grehan, J. Sterry, J. McGrath, O. Bailey, G. Broadbent, H. Clifton, B. Sharp, R. Street, L. Ayinde\n\nPrediction:\n\n**Stockport 2–0 Doncaster.** Home edge too strong; Stockport's form is the real deal. 📍",
+          "generated_at": "2026-08-07T18:41:41.485394+00:00"
+        },
+        "live_websocket": true,
+        "home_form": {
+          "calculated_at": "2026-08-07",
+          "matches_played": 5,
+          "form_string": "LWLDD",
+          "wins": 1,
+          "draws": 2,
+          "losses": 2,
+          "points_last_n": 5,
+          "goals_scored_last_n": 5,
+          "goals_conceded_last_n": 9,
+          "avg_xg": 1.3481999999999998,
+          "avg_xg_conceded": 1.09035,
+          "avg_shots": 15.5,
+          "avg_shots_on_target": 5.5,
+          "avg_key_passes": 10.5,
+          "goal_conversion_rate": 1.8543242842308265,
+          "defensive_efficiency": -3.1271151465125877,
+          "clean_sheets": 1,
+          "avg_pass_accuracy": 84.56866252857363,
+          "duel_win_rate": 0.57,
+          "aerial_win_rate": 0.65625,
+          "avg_fouls": 11.5,
+          "avg_yellow_cards": 2,
+          "home_ppg": 1,
+          "away_ppg": 0.8,
+          "home_goals_scored": 4,
+          "home_goals_conceded": 12,
+          "away_goals_scored": 3,
+          "away_goals_conceded": 6,
+          "avg_team_rating": 6.990833333333335
+        },
+        "away_form": {
+          "calculated_at": "2026-08-07",
+          "matches_played": 5,
+          "form_string": "LWWLW",
+          "wins": 3,
+          "draws": 0,
+          "losses": 2,
+          "points_last_n": 9,
+          "goals_scored_last_n": 8,
+          "goals_conceded_last_n": 6,
+          "avg_xg": 1.6646333333333334,
+          "avg_xg_conceded": 1.0366666666666666,
+          "avg_shots": 14,
+          "avg_shots_on_target": 4,
+          "avg_key_passes": 11,
+          "goal_conversion_rate": 1.6019543843489057,
+          "defensive_efficiency": -0.9292604501607717,
+          "clean_sheets": 3,
+          "avg_pass_accuracy": 78.6598303794035,
+          "duel_win_rate": 0.4827586206896552,
+          "aerial_win_rate": 0.5089285714285714,
+          "avg_fouls": 10.333333333333334,
+          "avg_yellow_cards": 1.3333333333333333,
+          "home_ppg": 0.6,
+          "away_ppg": 1.8,
+          "home_goals_scored": 5,
+          "home_goals_conceded": 9,
+          "away_goals_scored": 8,
+          "away_goals_conceded": 6,
+          "avg_team_rating": 6.91875
+        },
+        "head_to_head": {
+          "total_matches": 4,
+          "home_wins": 2,
+          "draws": 1,
+          "away_wins": 1,
+          "home_goals": 7,
+          "away_goals": 3,
+          "avg_total_goals": 2.5,
+          "home_win_rate": 0.5,
+          "away_win_rate": 0.25,
+          "recent_matches": [
+            {
+              "away": "Stockport County",
+              "date": "2024-01-27T15:00:00+00:00",
+              "home": "Doncaster Rovers",
+              "score": "1-5"
+            },
+            {
+              "away": "Doncaster Rovers",
+              "date": "2023-10-07T14:00:00+00:00",
+              "home": "Stockport County",
+              "score": "1-0"
+            },
+            {
+              "away": "Doncaster Rovers",
+              "date": "2023-03-04T15:00:00+00:00",
+              "home": "Stockport County",
+              "score": "0-0"
+            },
+            {
+              "away": "Stockport County",
+              "date": "2022-08-16T18:45:00+00:00",
+              "home": "Doncaster Rovers",
+              "score": "2-1"
+            }
+          ]
+        },
+        "lineups": null,
+        "social": []
+      },
+      "managers": {
+        "home": {
+          "id": 868,
+          "name": "David Challinor",
+          "short_name": "D. Challinor",
+          "country": "England",
+          "current_team": {
+            "id": 1423,
+            "name": "Stockport County"
+          },
+          "preferred_formation": "3-1-4-2",
+          "formations_used": {
+            "3-4-3": 1,
+            "3-5-2": 1,
+            "3-1-4-2": 1,
+            "3-4-2-1": 1
+          },
+          "profile": "balanced",
+          "team_style": "soft",
+          "pressing_intensity": null,
+          "defensive_line": "",
+          "tactical_styles": [],
+          "matches_total": 4,
+          "wins": 2,
+          "draws": 1,
+          "losses": 1,
+          "win_pct": 50,
+          "avg_goals_scored": 1.5,
+          "avg_goals_conceded": 0.75,
+          "avg_possession": 55,
+          "avg_shots": 15.5,
+          "avg_shots_on_target": 5.5,
+          "avg_xg_for": 1.34,
+          "avg_xg_against": 1.18,
+          "avg_corners": 6,
+          "avg_yellow_cards": 1.5,
+          "avg_red_cards": 0,
+          "avg_fouls": 11.5,
+          "clean_sheet_pct": 25,
+          "btts_pct": 50,
+          "over_25_pct": 50,
+          "over_15_pct": 50,
+          "fail_to_score_pct": 50,
+          "avg_goals_scored_1h": 0,
+          "avg_goals_conceded_1h": 0
+        },
+        "away": {
+          "id": 859,
+          "name": "Grant McCann",
+          "short_name": "G. McCann",
+          "country": "Northern Ireland",
+          "current_team": {
+            "id": 1253,
+            "name": "Doncaster Rovers"
+          },
+          "preferred_formation": "4-2-3-1",
+          "formations_used": {
+            "4-3-3": 3,
+            "4-1-4-1": 2,
+            "4-2-3-1": 4
+          },
+          "profile": "attacking",
+          "team_style": "soft",
+          "pressing_intensity": 0.3572602226144614,
+          "defensive_line": "mid",
+          "tactical_styles": [
+            {
+              "rank": 1,
+              "code": "cross_pray",
+              "name": "Cross & Pray",
+              "category": "wide",
+              "emoji": "🙏",
+              "description": "High-volume hopeful crosses into the box",
+              "score": 0.181
+            },
+            {
+              "rank": 2,
+              "code": "wing_play",
+              "name": "Wing Play",
+              "category": "wide",
+              "emoji": "🪽",
+              "description": "Attacks focused through wide areas",
+              "score": 0.115
+            },
+            {
+              "rank": 3,
+              "code": "set_piece",
+              "name": "Set-Piece Reliant",
+              "category": "defensive",
+              "emoji": "🎯",
+              "description": "Goals mainly from corners and free kicks",
+              "score": 0.073
+            },
+            {
+              "rank": 4,
+              "code": "chaos_ball",
+              "name": "Chaos Ball",
+              "category": "fan",
+              "emoji": "🎲",
+              "description": "Embrace pure randomness, anything can happen",
+              "score": 0.07
+            }
+          ],
+          "matches_total": 13,
+          "wins": 7,
+          "draws": 2,
+          "losses": 4,
+          "win_pct": 53.8,
+          "avg_goals_scored": 1.92,
+          "avg_goals_conceded": 1.15,
+          "avg_possession": 50.33,
+          "avg_shots": 13.6,
+          "avg_shots_on_target": 4.8,
+          "avg_xg_for": 1.47,
+          "avg_xg_against": 1.29,
+          "avg_corners": 6,
+          "avg_yellow_cards": 0.92,
+          "avg_red_cards": 0,
+          "avg_fouls": 11,
+          "clean_sheet_pct": 38.5,
+          "btts_pct": 38.5,
+          "over_25_pct": 61.5,
+          "over_15_pct": 84.6,
+          "fail_to_score_pct": 30.8,
+          "avg_goals_scored_1h": 0.92,
+          "avg_goals_conceded_1h": 0.69
         }
       }
     }
