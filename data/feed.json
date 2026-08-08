@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-08T05:51:15.390Z",
+  "generated_at": "2026-08-08T06:57:53.492Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -3069,7 +3069,20 @@
           ]
         },
         "lineups": null,
-        "social": []
+        "social": [
+          {
+            "id": 683438,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQTUlPMHZxSWZFbVVJeWsyOTNZTnpJUmJPUjVWN1RWYzB2U1BSOGtVNjN0eVlQVERrTW5aZ3JmX21wNXI3RVJibGloVzByNl9VU1RFY0ZDOGVUNGtkaFlrNVppRVByaDVCRzk0MkR0TUlpdzlJMmVVQk1lcmt6SEx6QUgtdV9wZUk3bXMwQ2M3V2RIU3FoY0dMUHFJTFcxRExuTy02ZVU1bnVwdjRkb3ZuX01udnk?oc=5",
+            "title": "FC Tokyo vs Machida Zelvia Prediction, Betting Tips, Lineups & Odds | 08 Aug 2026",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "sportsgambler",
+            "account_name": "Sportsgambler",
+            "account_verified": false,
+            "published_at": "2026-08-08T05:38:55+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
@@ -4409,7 +4422,20 @@
           ]
         },
         "lineups": null,
-        "social": []
+        "social": [
+          {
+            "id": 683439,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxORFVZLVdibU1EVVc4TjNybVJrYkY5bUhnSF8xWWNJRVJkUDJQUG16MnRDbkgwbzQzMk4xNkh4MTlLVFdGamJIWXd5aC1hSkExcGlNdUxic0l6aFdTb00yaWJicWhiZDN1SHJxa0dYODluRjVMNlMtWVJndmJXU3EwbUIxOF9MQVU3eHlEVENoMlNjS0k0OGt4c2xMNURrY3VqR01md1ZiV3FhekFlSHlDWFA1OFVZQ1JKdEZZ?oc=5",
+            "title": "Cerezo Osaka vs Fagiano Okayama Prediction, Betting Tips, Lineups & Odds | 08 Aug 2026",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "sportsgambler",
+            "account_name": "Sportsgambler",
+            "account_verified": false,
+            "published_at": "2026-08-08T05:38:53+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
@@ -5674,7 +5700,20 @@
           ]
         },
         "lineups": null,
-        "social": []
+        "social": [
+          {
+            "id": 683593,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdnlaS0xDN05pZmtEUHM2R2JWejBhc3lNSnI0T2w4ay1Vc2pxNXZDVVI2UEhjQTdRY2RnQ2I4U0VTTTFOUTA1MkxPanpKSUlQRzJnNW40Wmk5ZmI4eEpEVWFXRUhqaG9NTmtDS2RReDRGTERFenZxQ1dCcHJKN3pJQlAwWW5SWm5tRHFIWDl3MW1tb1JqVVZhcXlBVGtrZ1gyVjdRZmcxR1NMd2pLN0lPNERZRW0zbzdRU19NUUxaUUNKb1RZNGxxeldsUmdfenNmSUdzSXdKdHVldHUtWVByNm92OUU5VWdMZU5QYmdhdDdfZFNuTUtRMw?oc=5",
+            "title": "Behind every number is a life: Why Chaves County must talk about overdose",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "roswell daily record",
+            "account_name": "Roswell Daily Record",
+            "account_verified": false,
+            "published_at": "2026-08-08T06:00:00+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
@@ -6326,7 +6365,20 @@
           ]
         },
         "lineups": null,
-        "social": []
+        "social": [
+          {
+            "id": 682639,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPMmI2MHZZM2VCVkhGd1VaRV95Zm1nSVZSdXRMQ2ZUSlJINTk0ZU1id2tqQnBQd0ozSWdsbm5rc3hTeGtNVk5YVGJuOWdrTFRFS1BpWFUyUUdxdmxldFd5WE5QNUpfVVhEbmNRR2tRQWdJa3d3QU40akcwUU83Zm0zTHA3ZEdfUDdzU2JHZjBLNVV0M2ZqRFlOOXp2dk52U0JUZ0VWQTROOEdqeTk5RHMtMVRjRDM1Qjh2TmZPNGJ3?oc=5",
+            "title": "Nagoya Grampus vs Shimizu S-Pulse Prediction, Betting Tips, Lineups & Odds | 08 Aug 2026",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "sportsgambler",
+            "account_name": "Sportsgambler",
+            "account_verified": false,
+            "published_at": "2026-08-08T06:08:09+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
