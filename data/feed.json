@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-10T22:40:11.246Z",
+  "generated_at": "2026-08-10T23:37:29.480Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -10,7 +10,7 @@
   "summary": {
     "total_matches": 50,
     "total_leagues": 10,
-    "average_confidence": 0.546662,
+    "average_confidence": 0.5500039999999999,
     "favorite_recommend": 0,
     "over_15_recommend": 0,
     "over_25_recommend": 0,
@@ -19,754 +19,6 @@
     "winner_recommend": 0
   },
   "items": [
-    {
-      "event_id": 220022,
-      "prediction": {
-        "id": 739,
-        "event": {
-          "id": 220022,
-          "league": {
-            "id": 80,
-            "name": "Categoría Primera A",
-            "country": "Colombia",
-            "is_women": false,
-            "current_season": {
-              "id": 1570,
-              "name": "Liga DIMAYOR 2026",
-              "year": 2026,
-              "start_date": "2026-01-01",
-              "end_date": "2026-12-31"
-            }
-          },
-          "season": {
-            "id": 1570,
-            "name": "Liga DIMAYOR 2026",
-            "year": 2026
-          },
-          "home_team": "Independiente Medellín",
-          "away_team": "Millonarios",
-          "home_team_obj": {
-            "id": 786,
-            "name": "Independiente Medellín",
-            "short_name": "Ind. Medellín",
-            "country": "Colombia",
-            "coach": {
-              "name": "Luis Perea",
-              "shortName": "L. Perea"
-            },
-            "venue": null
-          },
-          "away_team_obj": {
-            "id": 736,
-            "name": "Millonarios",
-            "short_name": "Millonarios",
-            "country": "Colombia",
-            "coach": {
-              "name": "Fabian Bustos",
-              "shortName": "F. Bustos"
-            },
-            "venue": {
-              "id": 542,
-              "name": "Estadio Nemesio Camacho El Campin",
-              "city": "Bogota",
-              "country": "Colombia",
-              "capacity": 36343
-            }
-          },
-          "event_date": "2026-08-10T23:00:00Z",
-          "round_number": 4,
-          "round_name": "",
-          "group_name": null,
-          "status": "cancelled",
-          "home_score": null,
-          "away_score": null,
-          "home_score_ht": null,
-          "away_score_ht": null,
-          "current_minute": null,
-          "period": "",
-          "odds_home": 2.5,
-          "odds_draw": 2.83,
-          "odds_away": 2.6,
-          "odds_over_15": 1.34,
-          "odds_over_25": 2.09,
-          "odds_over_35": 3.64,
-          "odds_under_15": 3.01,
-          "odds_under_25": 1.69,
-          "odds_under_35": 1.24,
-          "odds_btts_yes": 1.8,
-          "odds_btts_no": 1.91,
-          "actual_home_xg": null,
-          "actual_away_xg": null,
-          "home_xg_live": null,
-          "away_xg_live": null,
-          "penalty_shootout": null,
-          "extra_time_score": null,
-          "is_local_derby": false,
-          "is_neutral_ground": null,
-          "travel_distance_km": 246,
-          "weather_code": 2,
-          "wind_speed": 9.7,
-          "temperature_c": 20,
-          "pitch_condition": null,
-          "attendance": null,
-          "referee": {
-            "id": 2724,
-            "name": "Jairo Londono",
-            "country": "Colombia",
-            "nationality_a3": "",
-            "birthdate": null,
-            "yellowCards": 265,
-            "redCards": 8,
-            "career_games": 42,
-            "career_yellow_cards": 265,
-            "career_red_cards": 8
-          },
-          "home_coach": {
-            "id": 1738,
-            "name": "Luis Perea",
-            "short_name": "L. Perea",
-            "country": "Colombia",
-            "profile": "balanced",
-            "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.3724557278946291,
-            "defensive_line": "mid",
-            "top_styles": [
-              "positional",
-              "territory"
-            ]
-          },
-          "away_coach": {
-            "id": 499,
-            "name": "Fabian Bustos",
-            "short_name": "F. Bustos",
-            "country": "Argentina",
-            "profile": "balanced",
-            "preferred_formation": "5-3-2",
-            "pressing_intensity": 0.40963772326290954,
-            "defensive_line": "mid",
-            "top_styles": [
-              "wing_play",
-              "cross_pray"
-            ]
-          },
-          "unavailable_players": {
-            "home": [
-              {
-                "name": "Daniel Cataño",
-                "status": "injured",
-                "reason": "Knock Injury",
-                "expected_return": "2026-08-31"
-              }
-            ],
-            "away": [
-              {
-                "name": "James Aguirre",
-                "status": "injured",
-                "reason": "Muscle Injury",
-                "expected_return": "2026-08-31"
-              },
-              {
-                "name": "Radamel Falcao",
-                "status": "injured",
-                "reason": "Broken Jaw",
-                "expected_return": "2026-08-20"
-              }
-            ]
-          },
-          "venue": {
-            "id": 568,
-            "name": "Estadio Atanasio Girardot",
-            "city": "Medellin",
-            "country": "Colombia",
-            "capacity": 44739,
-            "latitude": 6.2569066597142,
-            "longitude": -75.59025874601483,
-            "pitch_x": 102,
-            "pitch_y": 74,
-            "built_year": 1953
-          },
-          "incidents": null,
-          "live_stats": null,
-          "lineups": null,
-          "shotmap": null,
-          "momentum": null,
-          "xg_per_minute": null,
-          "average_positions": null,
-          "jerseys": {
-            "away": {
-              "GK": {
-                "base": "414648",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "f9f8f8",
-                "sleeve": "1a1a1a",
-                "sleevelong": "1f1f1f"
-              },
-              "player": {
-                "base": "1a3459",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "1a3459"
-              }
-            },
-            "home": {
-              "GK": {
-                "base": "facb50",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "ffffff"
-              },
-              "player": {
-                "base": "cc0000",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "cc0000",
-                "sleevelong": "cc0000"
-              }
-            }
-          },
-          "funfacts": [
-            {
-              "type_id": 2,
-              "sentence": "When playing at home, Ind. Medellin have not lost to Millonarios in their last 5 encounters."
-            },
-            {
-              "type_id": 25,
-              "sentence": "John Montano is Ind. Medellin's top scorer with 4 goals. Rodrigo Contreras has scored 9 times for Millonarios."
-            },
-            {
-              "type_id": 25,
-              "sentence": "Francisco Chaverra has more yellow cards (6) than any other player at Ind. Medellin. Rodrigo Urena has collected 8 for Millonarios."
-            }
-          ],
-          "sr_stats": null,
-          "ai_preview": {
-            "text": "**Medellín's on a roll at home, and Millonarios are limping in missing their biggest guns** — this feels like a statement night for the hosts. 🔴\n\nIndependiente Medellín are flying (3W in their last five), while Millonarios are in rough shape with three losses already this season and both **R. Falcao** and **J. Aguirre** sidelined. That's a huge blow to any team's attacking depth.\n\nKey storylines:\n\n- **Independiente Medellín** riding momentum at the Atanasio, but they'll need to replace **D. Cataño** in midfield without dropping tempo\n- **Millonarios** desperate to find wins with their talismanic stars unavailable — **L. Castro** and **F. Chaverra** have to carry the load upfront\n- Home advantage in Medellín is real; expect the hosts to press early and test **J. Burrai** from minute one\n\nExpected lineups:\n\n- **Independiente Medellín**: E. Chaux, J. Mena, K. Mantilla, F. Fabra, D. Moreno, E. Mena, J. E. Montaño, Y. González, J. Medina, G. Mancilla\n- **Millonarios**: J. Burrai, S. Valencia, J. Arias, A. Llinás, M. García, R. Ureña, S. Vega, F. Chaverra, L. Castro\n\nPrediction:\n\n**Independiente Medellín 2–0 Millonarios** — home form and fresh legs trump Millonarios' makeshift lineup. 🎯",
-            "generated_at": "2026-08-10T04:41:26.226410+00:00"
-          },
-          "live_websocket": true
-        },
-        "created_at": "2026-08-05T02:15:08.471716+00:00",
-        "prob_home_win": 33.9,
-        "prob_draw": 30.3,
-        "prob_away_win": 35.7,
-        "predicted_result": "A",
-        "expected_home_goals": 1.261,
-        "expected_away_goals": 1.12,
-        "prob_over_15": 68.8,
-        "prob_over_25": 44.4,
-        "prob_over_35": 24.6,
-        "prob_btts_yes": 51.6,
-        "confidence": 0.3574,
-        "model_version": "dc-blend-v1",
-        "most_likely_score": "1-1",
-        "favorite": "A",
-        "favorite_prob": 35.7,
-        "favorite_recommend": false,
-        "over_15_recommend": false,
-        "over_25_recommend": false,
-        "over_35_recommend": false,
-        "btts_recommend": false,
-        "winner_recommend": false
-      },
-      "event_detail": {
-        "id": 220022,
-        "league": {
-          "id": 80,
-          "name": "Categoría Primera A",
-          "country": "Colombia",
-          "is_women": false,
-          "current_season": {
-            "id": 1570,
-            "name": "Liga DIMAYOR 2026",
-            "year": 2026,
-            "start_date": "2026-01-01",
-            "end_date": "2026-12-31"
-          }
-        },
-        "season": {
-          "id": 1570,
-          "name": "Liga DIMAYOR 2026",
-          "year": 2026
-        },
-        "home_team": "Independiente Medellín",
-        "away_team": "Millonarios",
-        "home_team_obj": {
-          "id": 786,
-          "name": "Independiente Medellín",
-          "short_name": "Ind. Medellín",
-          "country": "Colombia",
-          "coach": {
-            "name": "Luis Perea",
-            "shortName": "L. Perea"
-          },
-          "venue": null
-        },
-        "away_team_obj": {
-          "id": 736,
-          "name": "Millonarios",
-          "short_name": "Millonarios",
-          "country": "Colombia",
-          "coach": {
-            "name": "Fabian Bustos",
-            "shortName": "F. Bustos"
-          },
-          "venue": {
-            "id": 542,
-            "name": "Estadio Nemesio Camacho El Campin",
-            "city": "Bogota",
-            "country": "Colombia",
-            "capacity": 36343
-          }
-        },
-        "event_date": "2026-08-11T02:00:00+03:00",
-        "round_number": 4,
-        "round_name": "",
-        "group_name": null,
-        "status": "cancelled",
-        "home_score": null,
-        "away_score": null,
-        "home_score_ht": null,
-        "away_score_ht": null,
-        "current_minute": null,
-        "period": "",
-        "odds_home": 2.5,
-        "odds_draw": 2.83,
-        "odds_away": 2.6,
-        "odds_over_15": 1.34,
-        "odds_over_25": 2.09,
-        "odds_over_35": 3.64,
-        "odds_under_15": 3.01,
-        "odds_under_25": 1.69,
-        "odds_under_35": 1.24,
-        "odds_btts_yes": 1.8,
-        "odds_btts_no": 1.91,
-        "actual_home_xg": null,
-        "actual_away_xg": null,
-        "home_xg_live": null,
-        "away_xg_live": null,
-        "penalty_shootout": null,
-        "extra_time_score": null,
-        "is_local_derby": false,
-        "is_neutral_ground": null,
-        "travel_distance_km": 246,
-        "weather_code": 2,
-        "wind_speed": 9.7,
-        "temperature_c": 20,
-        "pitch_condition": null,
-        "attendance": null,
-        "referee": {
-          "id": 2724,
-          "name": "Jairo Londono",
-          "country": "Colombia",
-          "nationality_a3": "",
-          "birthdate": null,
-          "yellowCards": 265,
-          "redCards": 8,
-          "career_games": 42,
-          "career_yellow_cards": 265,
-          "career_red_cards": 8
-        },
-        "home_coach": {
-          "id": 1738,
-          "name": "Luis Perea",
-          "short_name": "L. Perea",
-          "country": "Colombia",
-          "profile": "balanced",
-          "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.3724557278946291,
-          "defensive_line": "mid",
-          "top_styles": [
-            "positional",
-            "territory"
-          ]
-        },
-        "away_coach": {
-          "id": 499,
-          "name": "Fabian Bustos",
-          "short_name": "F. Bustos",
-          "country": "Argentina",
-          "profile": "balanced",
-          "preferred_formation": "5-3-2",
-          "pressing_intensity": 0.40963772326290954,
-          "defensive_line": "mid",
-          "top_styles": [
-            "wing_play",
-            "cross_pray"
-          ]
-        },
-        "unavailable_players": {
-          "home": [
-            {
-              "name": "Daniel Cataño",
-              "status": "injured",
-              "reason": "Knock Injury",
-              "expected_return": "2026-08-31"
-            }
-          ],
-          "away": [
-            {
-              "name": "James Aguirre",
-              "status": "injured",
-              "reason": "Muscle Injury",
-              "expected_return": "2026-08-31"
-            },
-            {
-              "name": "Radamel Falcao",
-              "status": "injured",
-              "reason": "Broken Jaw",
-              "expected_return": "2026-08-20"
-            }
-          ]
-        },
-        "venue": {
-          "id": 568,
-          "name": "Estadio Atanasio Girardot",
-          "city": "Medellin",
-          "country": "Colombia",
-          "capacity": 44739,
-          "latitude": 6.2569066597142,
-          "longitude": -75.59025874601483,
-          "pitch_x": 102,
-          "pitch_y": 74,
-          "built_year": 1953
-        },
-        "live_stats": null,
-        "jerseys": {
-          "away": {
-            "GK": {
-              "base": "414648",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "f9f8f8",
-              "sleeve": "1a1a1a",
-              "sleevelong": "1f1f1f"
-            },
-            "player": {
-              "base": "1a3459",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "1a3459"
-            }
-          },
-          "home": {
-            "GK": {
-              "base": "facb50",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "ffffff"
-            },
-            "player": {
-              "base": "cc0000",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "cc0000",
-              "sleevelong": "cc0000"
-            }
-          }
-        },
-        "funfacts": [
-          {
-            "type_id": 2,
-            "sentence": "When playing at home, Ind. Medellin have not lost to Millonarios in their last 5 encounters."
-          },
-          {
-            "type_id": 25,
-            "sentence": "John Montano is Ind. Medellin's top scorer with 4 goals. Rodrigo Contreras has scored 9 times for Millonarios."
-          },
-          {
-            "type_id": 25,
-            "sentence": "Francisco Chaverra has more yellow cards (6) than any other player at Ind. Medellin. Rodrigo Urena has collected 8 for Millonarios."
-          }
-        ],
-        "sr_stats": null,
-        "ai_preview": {
-          "text": "**Medellín's on a roll at home, and Millonarios are limping in missing their biggest guns** — this feels like a statement night for the hosts. 🔴\n\nIndependiente Medellín are flying (3W in their last five), while Millonarios are in rough shape with three losses already this season and both **R. Falcao** and **J. Aguirre** sidelined. That's a huge blow to any team's attacking depth.\n\nKey storylines:\n\n- **Independiente Medellín** riding momentum at the Atanasio, but they'll need to replace **D. Cataño** in midfield without dropping tempo\n- **Millonarios** desperate to find wins with their talismanic stars unavailable — **L. Castro** and **F. Chaverra** have to carry the load upfront\n- Home advantage in Medellín is real; expect the hosts to press early and test **J. Burrai** from minute one\n\nExpected lineups:\n\n- **Independiente Medellín**: E. Chaux, J. Mena, K. Mantilla, F. Fabra, D. Moreno, E. Mena, J. E. Montaño, Y. González, J. Medina, G. Mancilla\n- **Millonarios**: J. Burrai, S. Valencia, J. Arias, A. Llinás, M. García, R. Ureña, S. Vega, F. Chaverra, L. Castro\n\nPrediction:\n\n**Independiente Medellín 2–0 Millonarios** — home form and fresh legs trump Millonarios' makeshift lineup. 🎯",
-          "generated_at": "2026-08-10T04:41:26.226410+00:00"
-        },
-        "live_websocket": true,
-        "home_form": {
-          "calculated_at": "2026-08-10",
-          "matches_played": 5,
-          "form_string": "WWWLW",
-          "wins": 4,
-          "draws": 0,
-          "losses": 1,
-          "points_last_n": 12,
-          "goals_scored_last_n": 9,
-          "goals_conceded_last_n": 6,
-          "avg_xg": 1.2023,
-          "avg_xg_conceded": 0.79456,
-          "avg_shots": 13.8,
-          "avg_shots_on_target": 4.2,
-          "avg_key_passes": 9.8,
-          "goal_conversion_rate": 1.4971304998752393,
-          "defensive_efficiency": -0.5102698348771646,
-          "clean_sheets": 2,
-          "avg_pass_accuracy": 81.85716760330368,
-          "duel_win_rate": 0.49303621169916434,
-          "aerial_win_rate": 0.48,
-          "avg_fouls": 11.8,
-          "avg_yellow_cards": 2.8,
-          "home_ppg": 2.4,
-          "away_ppg": 2,
-          "home_goals_scored": 8,
-          "home_goals_conceded": 4,
-          "away_goals_scored": 8,
-          "away_goals_conceded": 6,
-          "avg_team_rating": 6.8426309523809525
-        },
-        "away_form": {
-          "calculated_at": "2026-08-10",
-          "matches_played": 5,
-          "form_string": "WWLDW",
-          "wins": 3,
-          "draws": 1,
-          "losses": 1,
-          "points_last_n": 10,
-          "goals_scored_last_n": 7,
-          "goals_conceded_last_n": 3,
-          "avg_xg": 1.2074799999999999,
-          "avg_xg_conceded": 0.47885999999999995,
-          "avg_shots": 15.6,
-          "avg_shots_on_target": 6.4,
-          "avg_key_passes": 11.2,
-          "goal_conversion_rate": 1.159439493821844,
-          "defensive_efficiency": -0.25297581756672094,
-          "clean_sheets": 3,
-          "avg_pass_accuracy": 79.14475483124546,
-          "duel_win_rate": 0.4900990099009901,
-          "aerial_win_rate": 0.5147058823529411,
-          "avg_fouls": 12.8,
-          "avg_yellow_cards": 3,
-          "home_ppg": 1.6,
-          "away_ppg": 1.4,
-          "home_goals_scored": 7,
-          "home_goals_conceded": 4,
-          "away_goals_scored": 8,
-          "away_goals_conceded": 7,
-          "avg_team_rating": 6.870083333333332
-        },
-        "head_to_head": {
-          "total_matches": 4,
-          "home_wins": 1,
-          "draws": 2,
-          "away_wins": 1,
-          "home_goals": 6,
-          "away_goals": 7,
-          "avg_total_goals": 3.25,
-          "home_win_rate": 0.25,
-          "away_win_rate": 0.25,
-          "recent_matches": [
-            {
-              "away": "Independiente Medellín",
-              "date": "2022-09-08T01:00:00+00:00",
-              "home": "Millonarios",
-              "score": "2-2"
-            },
-            {
-              "away": "Millonarios",
-              "date": "2022-08-25T01:05:00+00:00",
-              "home": "Independiente Medellín",
-              "score": "0-2"
-            },
-            {
-              "away": "Independiente Medellín",
-              "date": "2019-08-15T01:00:00+00:00",
-              "home": "Millonarios",
-              "score": "2-2"
-            },
-            {
-              "away": "Millonarios",
-              "date": "2019-08-08T00:30:00+00:00",
-              "home": "Independiente Medellín",
-              "score": "2-1"
-            }
-          ]
-        },
-        "lineups": null,
-        "social": []
-      },
-      "managers": {
-        "home": {
-          "id": 1738,
-          "name": "Luis Perea",
-          "short_name": "L. Perea",
-          "country": "Colombia",
-          "current_team": {
-            "id": 786,
-            "name": "Independiente Medellín"
-          },
-          "preferred_formation": "4-2-3-1",
-          "formations_used": {
-            "3-5-2": 3,
-            "4-3-3": 3,
-            "4-4-2": 5,
-            "5-3-2": 1,
-            "3-1-4-2": 1,
-            "3-4-1-2": 3,
-            "3-4-2-1": 1,
-            "4-2-3-1": 10
-          },
-          "profile": "balanced",
-          "team_style": "hard",
-          "pressing_intensity": 0.3724557278946291,
-          "defensive_line": "mid",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "positional",
-              "name": "Positional Play",
-              "category": "possession",
-              "emoji": "♟",
-              "description": "Zone occupation and overloads",
-              "score": 0.06
-            },
-            {
-              "rank": 2,
-              "code": "territory",
-              "name": "Territory Control",
-              "category": "possession",
-              "emoji": "🗺",
-              "description": "Pin opponent deep rather than shoot often",
-              "score": 0.055
-            },
-            {
-              "rank": 3,
-              "code": "tiki_taka",
-              "name": "Tiki-Taka",
-              "category": "possession",
-              "emoji": "🎨",
-              "description": "Short passing, domination via possession",
-              "score": 0.055
-            },
-            {
-              "rank": 4,
-              "code": "false_9",
-              "name": "False 9 System",
-              "category": "possession",
-              "emoji": "🎩",
-              "description": "No fixed striker — central creator drops deep",
-              "score": 0.052
-            }
-          ],
-          "matches_total": 29,
-          "wins": 12,
-          "draws": 8,
-          "losses": 9,
-          "win_pct": 41.4,
-          "avg_goals_scored": 1.41,
-          "avg_goals_conceded": 1.21,
-          "avg_possession": 52.59,
-          "avg_shots": 13.63,
-          "avg_shots_on_target": 4.37,
-          "avg_xg_for": 1.12,
-          "avg_xg_against": 0.98,
-          "avg_corners": 5.59,
-          "avg_yellow_cards": 2.61,
-          "avg_red_cards": 0.14,
-          "avg_fouls": 12.22,
-          "clean_sheet_pct": 24.1,
-          "btts_pct": 69,
-          "over_25_pct": 55.2,
-          "over_15_pct": 75.9,
-          "fail_to_score_pct": 10.3,
-          "avg_goals_scored_1h": 0.57,
-          "avg_goals_conceded_1h": 0.71
-        },
-        "away": {
-          "id": 499,
-          "name": "Fabian Bustos",
-          "short_name": "F. Bustos",
-          "country": "Argentina",
-          "current_team": {
-            "id": 736,
-            "name": "Millonarios"
-          },
-          "preferred_formation": "5-3-2",
-          "formations_used": {
-            "4-4-2": 9,
-            "5-3-2": 20,
-            "5-4-1": 1,
-            "3-1-4-2": 1,
-            "4-2-3-1": 3,
-            "4-3-2-1": 1,
-            "4-4-1-1": 1
-          },
-          "profile": "balanced",
-          "team_style": "hard",
-          "pressing_intensity": 0.40963772326290954,
-          "defensive_line": "mid",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "wing_play",
-              "name": "Wing Play",
-              "category": "wide",
-              "emoji": "🪽",
-              "description": "Attacks focused through wide areas",
-              "score": 0.075
-            },
-            {
-              "rank": 2,
-              "code": "cross_pray",
-              "name": "Cross & Pray",
-              "category": "wide",
-              "emoji": "🙏",
-              "description": "High-volume hopeful crosses into the box",
-              "score": 0.064
-            },
-            {
-              "rank": 3,
-              "code": "overload_isolate",
-              "name": "Overload-to-Isolate",
-              "category": "possession",
-              "emoji": "⚖",
-              "description": "Crowd one side to free the other wing",
-              "score": 0.056
-            },
-            {
-              "rank": 4,
-              "code": "half_space",
-              "name": "Half-Space",
-              "category": "wide",
-              "emoji": "◐",
-              "description": "Attacks through channels beside the penalty box",
-              "score": 0.051
-            }
-          ],
-          "matches_total": 36,
-          "wins": 14,
-          "draws": 9,
-          "losses": 13,
-          "win_pct": 38.9,
-          "avg_goals_scored": 1.56,
-          "avg_goals_conceded": 1.14,
-          "avg_possession": 48.26,
-          "avg_shots": 16,
-          "avg_shots_on_target": 5.36,
-          "avg_xg_for": 1.61,
-          "avg_xg_against": 0.97,
-          "avg_corners": 5.88,
-          "avg_yellow_cards": 2.83,
-          "avg_red_cards": 0.08,
-          "avg_fouls": 11.61,
-          "clean_sheet_pct": 30.6,
-          "btts_pct": 52.8,
-          "over_25_pct": 50,
-          "over_15_pct": 66.7,
-          "fail_to_score_pct": 27.8,
-          "avg_goals_scored_1h": 0.61,
-          "avg_goals_conceded_1h": 0.47
-        }
-      }
-    },
     {
       "event_id": 223541,
       "prediction": {
@@ -826,14 +78,14 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.55,
-          "odds_draw": 3.82,
-          "odds_away": 6.35,
-          "odds_over_15": 1.34,
-          "odds_over_25": 2.07,
-          "odds_over_35": 3.67,
-          "odds_under_15": 3.04,
-          "odds_under_25": 1.72,
+          "odds_home": 1.56,
+          "odds_draw": 3.79,
+          "odds_away": 6.3,
+          "odds_over_15": 1.35,
+          "odds_over_25": 2.08,
+          "odds_over_35": 3.69,
+          "odds_under_15": 3.03,
+          "odds_under_25": 1.71,
           "odds_under_35": 1.25,
           "odds_btts_yes": 2.12,
           "odds_btts_no": 1.66,
@@ -870,8 +122,8 @@
             "country": "Argentina",
             "profile": "balanced",
             "preferred_formation": "4-4-2",
-            "pressing_intensity": 0.5763657553392677,
-            "defensive_line": "high",
+            "pressing_intensity": 0.5702924512927467,
+            "defensive_line": "mid",
             "top_styles": [
               "cross_pray",
               "wing_play"
@@ -884,7 +136,7 @@
             "country": "Argentina",
             "profile": "defensive",
             "preferred_formation": "4-4-2",
-            "pressing_intensity": 0.676979857999778,
+            "pressing_intensity": 0.6647689520568347,
             "defensive_line": "low",
             "top_styles": [
               "park_the_bus",
@@ -916,7 +168,439 @@
           },
           "incidents": null,
           "live_stats": null,
-          "lineups": null,
+          "lineups": {
+            "away": {
+              "players": [
+                {
+                  "name": "Javier Vallejos",
+                  "goals": 0,
+                  "api_id": 1511103,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "G",
+                  "red_card": false,
+                  "player_id": 90528,
+                  "yellow_card": false,
+                  "jersey_number": "25",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "J. Vallejos",
+                  "specific_position": "GK",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Santiago Moyano",
+                  "goals": 0,
+                  "api_id": 884931,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 90529,
+                  "yellow_card": false,
+                  "jersey_number": "33",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "S. Moyano",
+                  "specific_position": "DEF",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Alejandro Maciel",
+                  "goals": 0,
+                  "api_id": 895336,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 90530,
+                  "yellow_card": false,
+                  "jersey_number": "2",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "A. Maciel",
+                  "specific_position": "DEF",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Facundo Mansilla",
+                  "goals": 0,
+                  "api_id": 1087335,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 90531,
+                  "yellow_card": false,
+                  "jersey_number": "6",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "F. Mansilla",
+                  "specific_position": "DEF",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Fernando Martínez",
+                  "goals": 0,
+                  "api_id": 1112782,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 90532,
+                  "yellow_card": false,
+                  "jersey_number": "20",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "F. Martínez",
+                  "specific_position": "DEF",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Lucas González",
+                  "goals": 0,
+                  "api_id": 985019,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 90536,
+                  "yellow_card": false,
+                  "jersey_number": "18",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "L. González",
+                  "specific_position": "MID",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Matías Vera",
+                  "goals": 0,
+                  "api_id": 793850,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 90533,
+                  "yellow_card": false,
+                  "jersey_number": "22",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "M. Vera",
+                  "specific_position": "MID",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Marco Iacobellis",
+                  "goals": 0,
+                  "api_id": 992100,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 90535,
+                  "yellow_card": false,
+                  "jersey_number": "10",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "M. Iacobellis",
+                  "specific_position": "MID",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Horacio Tijanovich",
+                  "goals": 0,
+                  "api_id": 798553,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 90534,
+                  "yellow_card": false,
+                  "jersey_number": "11",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "H. Tijanovich",
+                  "specific_position": "MID",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Diego Barrera",
+                  "goals": 0,
+                  "api_id": 1462243,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 90537,
+                  "yellow_card": false,
+                  "jersey_number": "7",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "D. Barrera",
+                  "specific_position": "FWD",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Michael Santos",
+                  "goals": 0,
+                  "api_id": 339115,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 90550,
+                  "yellow_card": false,
+                  "jersey_number": "27",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "M. Santos",
+                  "specific_position": "FWD",
+                  "positions_detailed": []
+                }
+              ],
+              "formation": "4-2-3-1",
+              "substitutes": []
+            },
+            "home": {
+              "players": [
+                {
+                  "name": "Matías Mansilla",
+                  "goals": 0,
+                  "api_id": 1099481,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "G",
+                  "red_card": false,
+                  "player_id": 89287,
+                  "yellow_card": false,
+                  "jersey_number": "21",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "M. Mansilla",
+                  "specific_position": "GK",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Lautaro Vargas",
+                  "goals": 0,
+                  "api_id": 1485084,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 89278,
+                  "yellow_card": false,
+                  "jersey_number": "35",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "L. Vargas",
+                  "specific_position": "DEF",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Maizon Rodriguez",
+                  "goals": 0,
+                  "api_id": 2039907,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 89279,
+                  "yellow_card": false,
+                  "jersey_number": "2",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "M. Rodriguez",
+                  "specific_position": "DEF",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Juan Pablo Ludueña",
+                  "goals": 0,
+                  "api_id": 1392241,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 89280,
+                  "yellow_card": false,
+                  "jersey_number": "26",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "J. Luduena",
+                  "specific_position": "DEF",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Lucas Ayala",
+                  "goals": 0,
+                  "api_id": 2445396,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 89282,
+                  "yellow_card": false,
+                  "jersey_number": "18",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "L. Ayala",
+                  "specific_position": "DEF",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Julián Palacios",
+                  "goals": 0,
+                  "api_id": 1005177,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 89267,
+                  "yellow_card": false,
+                  "jersey_number": "20",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "J. Palacios",
+                  "specific_position": "MID",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Lucas Menossi",
+                  "goals": 0,
+                  "api_id": 249429,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 89269,
+                  "yellow_card": false,
+                  "jersey_number": "5",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "L. Menossi",
+                  "specific_position": "MID",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Joaquin Mosqueira",
+                  "goals": 0,
+                  "api_id": 1464852,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 22801,
+                  "yellow_card": false,
+                  "jersey_number": "17",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "J. Mosqueira",
+                  "specific_position": "MID",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Ignacio Malcorra",
+                  "goals": 0,
+                  "api_id": 789427,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 89265,
+                  "yellow_card": false,
+                  "jersey_number": "10",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "I. Malcorra",
+                  "specific_position": "MID",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Cristian Tarragona",
+                  "goals": 0,
+                  "api_id": 830717,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 89255,
+                  "yellow_card": false,
+                  "jersey_number": "25",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "C. Tarragona",
+                  "specific_position": "FWD",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Misael Aguirre",
+                  "goals": 0,
+                  "api_id": 2294279,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 89260,
+                  "yellow_card": false,
+                  "jersey_number": "31",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "M. Aguirre",
+                  "specific_position": "FWD",
+                  "positions_detailed": []
+                }
+              ],
+              "formation": "4-4-2",
+              "substitutes": []
+            },
+            "confirmed": false
+          },
           "shotmap": null,
           "momentum": null,
           "xg_per_minute": null,
@@ -1057,14 +741,14 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.55,
-        "odds_draw": 3.82,
-        "odds_away": 6.35,
-        "odds_over_15": 1.34,
-        "odds_over_25": 2.07,
-        "odds_over_35": 3.67,
-        "odds_under_15": 3.04,
-        "odds_under_25": 1.72,
+        "odds_home": 1.56,
+        "odds_draw": 3.79,
+        "odds_away": 6.3,
+        "odds_over_15": 1.35,
+        "odds_over_25": 2.08,
+        "odds_over_35": 3.69,
+        "odds_under_15": 3.03,
+        "odds_under_25": 1.71,
         "odds_under_35": 1.25,
         "odds_btts_yes": 2.12,
         "odds_btts_no": 1.66,
@@ -1101,8 +785,8 @@
           "country": "Argentina",
           "profile": "balanced",
           "preferred_formation": "4-4-2",
-          "pressing_intensity": 0.5763657553392677,
-          "defensive_line": "high",
+          "pressing_intensity": 0.5702924512927467,
+          "defensive_line": "mid",
           "top_styles": [
             "cross_pray",
             "wing_play"
@@ -1115,7 +799,7 @@
           "country": "Argentina",
           "profile": "defensive",
           "preferred_formation": "4-4-2",
-          "pressing_intensity": 0.676979857999778,
+          "pressing_intensity": 0.6647689520568347,
           "defensive_line": "low",
           "top_styles": [
             "park_the_bus",
@@ -1326,8 +1010,452 @@
             }
           ]
         },
-        "lineups": null,
+        "lineups": {
+          "away": {
+            "players": [
+              {
+                "name": "Javier Vallejos",
+                "goals": 0,
+                "api_id": 1511103,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "G",
+                "red_card": false,
+                "player_id": 90528,
+                "yellow_card": false,
+                "jersey_number": "25",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "J. Vallejos",
+                "specific_position": "GK",
+                "positions_detailed": []
+              },
+              {
+                "name": "Santiago Moyano",
+                "goals": 0,
+                "api_id": 884931,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 90529,
+                "yellow_card": false,
+                "jersey_number": "33",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "S. Moyano",
+                "specific_position": "DEF",
+                "positions_detailed": []
+              },
+              {
+                "name": "Alejandro Maciel",
+                "goals": 0,
+                "api_id": 895336,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 90530,
+                "yellow_card": false,
+                "jersey_number": "2",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "A. Maciel",
+                "specific_position": "DEF",
+                "positions_detailed": []
+              },
+              {
+                "name": "Facundo Mansilla",
+                "goals": 0,
+                "api_id": 1087335,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 90531,
+                "yellow_card": false,
+                "jersey_number": "6",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "F. Mansilla",
+                "specific_position": "DEF",
+                "positions_detailed": []
+              },
+              {
+                "name": "Fernando Martínez",
+                "goals": 0,
+                "api_id": 1112782,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 90532,
+                "yellow_card": false,
+                "jersey_number": "20",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "F. Martínez",
+                "specific_position": "DEF",
+                "positions_detailed": []
+              },
+              {
+                "name": "Lucas González",
+                "goals": 0,
+                "api_id": 985019,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 90536,
+                "yellow_card": false,
+                "jersey_number": "18",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "L. González",
+                "specific_position": "MID",
+                "positions_detailed": []
+              },
+              {
+                "name": "Matías Vera",
+                "goals": 0,
+                "api_id": 793850,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 90533,
+                "yellow_card": false,
+                "jersey_number": "22",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "M. Vera",
+                "specific_position": "MID",
+                "positions_detailed": []
+              },
+              {
+                "name": "Marco Iacobellis",
+                "goals": 0,
+                "api_id": 992100,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 90535,
+                "yellow_card": false,
+                "jersey_number": "10",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "M. Iacobellis",
+                "specific_position": "MID",
+                "positions_detailed": []
+              },
+              {
+                "name": "Horacio Tijanovich",
+                "goals": 0,
+                "api_id": 798553,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 90534,
+                "yellow_card": false,
+                "jersey_number": "11",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "H. Tijanovich",
+                "specific_position": "MID",
+                "positions_detailed": []
+              },
+              {
+                "name": "Diego Barrera",
+                "goals": 0,
+                "api_id": 1462243,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 90537,
+                "yellow_card": false,
+                "jersey_number": "7",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "D. Barrera",
+                "specific_position": "FWD",
+                "positions_detailed": []
+              },
+              {
+                "name": "Michael Santos",
+                "goals": 0,
+                "api_id": 339115,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 90550,
+                "yellow_card": false,
+                "jersey_number": "27",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "M. Santos",
+                "specific_position": "FWD",
+                "positions_detailed": []
+              }
+            ],
+            "formation": "4-2-3-1",
+            "substitutes": []
+          },
+          "home": {
+            "players": [
+              {
+                "name": "Matías Mansilla",
+                "goals": 0,
+                "api_id": 1099481,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "G",
+                "red_card": false,
+                "player_id": 89287,
+                "yellow_card": false,
+                "jersey_number": "21",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "M. Mansilla",
+                "specific_position": "GK",
+                "positions_detailed": []
+              },
+              {
+                "name": "Lautaro Vargas",
+                "goals": 0,
+                "api_id": 1485084,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 89278,
+                "yellow_card": false,
+                "jersey_number": "35",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "L. Vargas",
+                "specific_position": "DEF",
+                "positions_detailed": []
+              },
+              {
+                "name": "Maizon Rodriguez",
+                "goals": 0,
+                "api_id": 2039907,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 89279,
+                "yellow_card": false,
+                "jersey_number": "2",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "M. Rodriguez",
+                "specific_position": "DEF",
+                "positions_detailed": []
+              },
+              {
+                "name": "Juan Pablo Ludueña",
+                "goals": 0,
+                "api_id": 1392241,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 89280,
+                "yellow_card": false,
+                "jersey_number": "26",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "J. Luduena",
+                "specific_position": "DEF",
+                "positions_detailed": []
+              },
+              {
+                "name": "Lucas Ayala",
+                "goals": 0,
+                "api_id": 2445396,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 89282,
+                "yellow_card": false,
+                "jersey_number": "18",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "L. Ayala",
+                "specific_position": "DEF",
+                "positions_detailed": []
+              },
+              {
+                "name": "Julián Palacios",
+                "goals": 0,
+                "api_id": 1005177,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 89267,
+                "yellow_card": false,
+                "jersey_number": "20",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "J. Palacios",
+                "specific_position": "MID",
+                "positions_detailed": []
+              },
+              {
+                "name": "Lucas Menossi",
+                "goals": 0,
+                "api_id": 249429,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 89269,
+                "yellow_card": false,
+                "jersey_number": "5",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "L. Menossi",
+                "specific_position": "MID",
+                "positions_detailed": []
+              },
+              {
+                "name": "Joaquin Mosqueira",
+                "goals": 0,
+                "api_id": 1464852,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 22801,
+                "yellow_card": false,
+                "jersey_number": "17",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "J. Mosqueira",
+                "specific_position": "MID",
+                "positions_detailed": []
+              },
+              {
+                "name": "Ignacio Malcorra",
+                "goals": 0,
+                "api_id": 789427,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 89265,
+                "yellow_card": false,
+                "jersey_number": "10",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "I. Malcorra",
+                "specific_position": "MID",
+                "positions_detailed": []
+              },
+              {
+                "name": "Cristian Tarragona",
+                "goals": 0,
+                "api_id": 830717,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 89255,
+                "yellow_card": false,
+                "jersey_number": "25",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "C. Tarragona",
+                "specific_position": "FWD",
+                "positions_detailed": []
+              },
+              {
+                "name": "Misael Aguirre",
+                "goals": 0,
+                "api_id": 2294279,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 89260,
+                "yellow_card": false,
+                "jersey_number": "31",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "M. Aguirre",
+                "specific_position": "FWD",
+                "positions_detailed": []
+              }
+            ],
+            "formation": "4-4-2",
+            "substitutes": []
+          },
+          "confirmed": false
+        },
         "social": [
+          {
+            "id": 697259,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcS1EcXFQYTBUclN2RGhuWWtjdnFoVGxnSWFHZjNBSmhqZHozZy1HTnRWaWVnUmtsejRmSlh3bkdMekN4Z1JXS2pyNVRKRE12YllaSHRwclVyRC1pY3o0TFhFVGk4VVQ0R3pfLXo2WFV6OTRMYy15VlVKNGVvd1JxNld3bjJ5TXNZelM1NWhXWEsxRS1SdEctVTJ4TmlHampfRzdQZ2c5NEJEWE1TYWM2VA?oc=5",
+            "title": "No same old side: Lucas Ayala set to miss tonight's XI v Central Córdoba",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "onefootball",
+            "account_name": "OneFootball",
+            "account_verified": false,
+            "published_at": "2026-08-10T22:39:04+00:00"
+          },
           {
             "id": 693284,
             "type": "news",
@@ -1566,7 +1694,7 @@
           "round_number": 4,
           "round_name": "",
           "group_name": null,
-          "status": "notstarted",
+          "status": "cancelled",
           "home_score": null,
           "away_score": null,
           "home_score_ht": null,
@@ -1617,7 +1745,7 @@
             "country": "Uruguay",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.5123957901035591,
+            "pressing_intensity": 0.5049819299338199,
             "defensive_line": "mid",
             "top_styles": [
               "inverted_fb",
@@ -1631,7 +1759,7 @@
             "country": "Colombia",
             "profile": "defensive",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.2646610697680585,
+            "pressing_intensity": 0.27344331458096116,
             "defensive_line": "mid",
             "top_styles": [
               "park_the_bus",
@@ -1794,7 +1922,7 @@
         "round_number": 4,
         "round_name": "",
         "group_name": null,
-        "status": "notstarted",
+        "status": "cancelled",
         "home_score": null,
         "away_score": null,
         "home_score_ht": null,
@@ -1845,7 +1973,7 @@
           "country": "Uruguay",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.5123957901035591,
+          "pressing_intensity": 0.5049819299338199,
           "defensive_line": "mid",
           "top_styles": [
             "inverted_fb",
@@ -1859,7 +1987,7 @@
           "country": "Colombia",
           "profile": "defensive",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.2646610697680585,
+          "pressing_intensity": 0.27344331458096116,
           "defensive_line": "mid",
           "top_styles": [
             "park_the_bus",
@@ -2026,7 +2154,20 @@
           ]
         },
         "lineups": null,
-        "social": []
+        "social": [
+          {
+            "id": 695523,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPeEtpRGI5ZWkycFFINUFrOTdvNXljbVpRZnZVMmFCVlZXbjdMUWI4NllWV1VMbEMwZlBDSGhBMDBIcUQtanFsN2IzVk0xTkc0aVRKNmpIR3FBM3hoSkpOMjVOSlFVQ205V1p5Y1NHeEJfRTFaaU13bXBvcFRKbzl3R1JRLWhLd2RmVDZ6V2cxb3h4MFNLLW9CaU5TdlVhZE0xQUtXVVI1OXFBNGtqQkROZ0tJRVhhZw?oc=5",
+            "title": "Junior vs Deportivo Pereira Prediction, Betting Tips & Odds | 10 Aug 2026",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "sportsgambler",
+            "account_name": "Sportsgambler",
+            "account_verified": false,
+            "published_at": "2026-08-10T23:03:38+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
@@ -2270,7 +2411,7 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.52,
+          "odds_home": 2.53,
           "odds_draw": 3.21,
           "odds_away": 2.77,
           "odds_over_15": 1.42,
@@ -2314,7 +2455,7 @@
             "country": "Kazakhstan",
             "profile": "defensive",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.4962093124642365,
+            "pressing_intensity": 0.49320231238966084,
             "defensive_line": "mid",
             "top_styles": [
               "park_the_bus",
@@ -2328,7 +2469,7 @@
             "country": "Spain",
             "profile": "attacking",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.3426427999327817,
+            "pressing_intensity": 0.3445076230104497,
             "defensive_line": "mid",
             "top_styles": [
               "tiki_taka",
@@ -2501,7 +2642,7 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.52,
+        "odds_home": 2.53,
         "odds_draw": 3.21,
         "odds_away": 2.77,
         "odds_over_15": 1.42,
@@ -2545,7 +2686,7 @@
           "country": "Kazakhstan",
           "profile": "defensive",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.4962093124642365,
+          "pressing_intensity": 0.49320231238966084,
           "defensive_line": "mid",
           "top_styles": [
             "park_the_bus",
@@ -2559,7 +2700,7 @@
           "country": "Spain",
           "profile": "attacking",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.3426427999327817,
+          "pressing_intensity": 0.3445076230104497,
           "defensive_line": "mid",
           "top_styles": [
             "tiki_taka",
@@ -2960,16 +3101,16 @@
           "current_minute": null,
           "period": "",
           "odds_home": 1.62,
-          "odds_draw": 4.55,
-          "odds_away": 4.43,
+          "odds_draw": 4.56,
+          "odds_away": 4.41,
           "odds_over_15": 1.12,
           "odds_over_25": 1.42,
           "odds_over_35": 2.06,
-          "odds_under_15": 5.71,
+          "odds_under_15": 5.76,
           "odds_under_25": 2.75,
           "odds_under_35": 1.72,
           "odds_btts_yes": 1.49,
-          "odds_btts_no": 2.48,
+          "odds_btts_no": 2.49,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -3002,8 +3143,8 @@
             "short_name": "K. Knutsen",
             "country": "Norway",
             "profile": "attacking",
-            "preferred_formation": "4-4-2",
-            "pressing_intensity": 0.5691115465588585,
+            "preferred_formation": "4-3-3",
+            "pressing_intensity": 0.5577865647488807,
             "defensive_line": "mid",
             "top_styles": [
               "chaos_ball",
@@ -3015,9 +3156,9 @@
             "name": "David Hubert",
             "short_name": "D. Hubert",
             "country": "Belgium",
-            "profile": "balanced",
+            "profile": "attacking",
             "preferred_formation": "3-4-2-1",
-            "pressing_intensity": 0.6766159979029689,
+            "pressing_intensity": 0.6610253310242126,
             "defensive_line": "mid",
             "top_styles": [
               "gegenpressing",
@@ -3206,16 +3347,16 @@
         "current_minute": null,
         "period": "",
         "odds_home": 1.62,
-        "odds_draw": 4.55,
-        "odds_away": 4.43,
+        "odds_draw": 4.56,
+        "odds_away": 4.41,
         "odds_over_15": 1.12,
         "odds_over_25": 1.42,
         "odds_over_35": 2.06,
-        "odds_under_15": 5.71,
+        "odds_under_15": 5.76,
         "odds_under_25": 2.75,
         "odds_under_35": 1.72,
         "odds_btts_yes": 1.49,
-        "odds_btts_no": 2.48,
+        "odds_btts_no": 2.49,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -3248,8 +3389,8 @@
           "short_name": "K. Knutsen",
           "country": "Norway",
           "profile": "attacking",
-          "preferred_formation": "4-4-2",
-          "pressing_intensity": 0.5691115465588585,
+          "preferred_formation": "4-3-3",
+          "pressing_intensity": 0.5577865647488807,
           "defensive_line": "mid",
           "top_styles": [
             "chaos_ball",
@@ -3261,9 +3402,9 @@
           "name": "David Hubert",
           "short_name": "D. Hubert",
           "country": "Belgium",
-          "profile": "balanced",
+          "profile": "attacking",
           "preferred_formation": "3-4-2-1",
-          "pressing_intensity": 0.6766159979029689,
+          "pressing_intensity": 0.6610253310242126,
           "defensive_line": "mid",
           "top_styles": [
             "gegenpressing",
@@ -4243,16 +4384,16 @@
           "current_minute": null,
           "period": "",
           "odds_home": 2.02,
-          "odds_draw": 3.5,
+          "odds_draw": 3.49,
           "odds_away": 3.63,
           "odds_over_15": 1.24,
           "odds_over_25": 1.76,
-          "odds_over_35": 2.85,
+          "odds_over_35": 2.82,
           "odds_under_15": 3.95,
           "odds_under_25": 2.03,
           "odds_under_35": 1.4,
-          "odds_btts_yes": 1.65,
-          "odds_btts_no": 2.16,
+          "odds_btts_yes": 1.64,
+          "odds_btts_no": 2.17,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -4284,7 +4425,7 @@
             "name": "Valdas Dambrauskas",
             "short_name": "V. Dambrauskas",
             "country": "Lithuania",
-            "profile": "attacking",
+            "profile": "balanced",
             "preferred_formation": "4-2-3-1",
             "pressing_intensity": null,
             "defensive_line": "",
@@ -4297,7 +4438,7 @@
             "country": "Denmark",
             "profile": "balanced",
             "preferred_formation": "3-4-2-1",
-            "pressing_intensity": 0.5631924529969456,
+            "pressing_intensity": 0.5369776108575307,
             "defensive_line": "mid",
             "top_styles": [
               "cross_pray",
@@ -4470,16 +4611,16 @@
         "current_minute": null,
         "period": "",
         "odds_home": 2.02,
-        "odds_draw": 3.5,
+        "odds_draw": 3.49,
         "odds_away": 3.63,
         "odds_over_15": 1.24,
         "odds_over_25": 1.76,
-        "odds_over_35": 2.85,
+        "odds_over_35": 2.82,
         "odds_under_15": 3.95,
         "odds_under_25": 2.03,
         "odds_under_35": 1.4,
-        "odds_btts_yes": 1.65,
-        "odds_btts_no": 2.16,
+        "odds_btts_yes": 1.64,
+        "odds_btts_no": 2.17,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -4511,7 +4652,7 @@
           "name": "Valdas Dambrauskas",
           "short_name": "V. Dambrauskas",
           "country": "Lithuania",
-          "profile": "attacking",
+          "profile": "balanced",
           "preferred_formation": "4-2-3-1",
           "pressing_intensity": null,
           "defensive_line": "",
@@ -4524,7 +4665,7 @@
           "country": "Denmark",
           "profile": "balanced",
           "preferred_formation": "3-4-2-1",
-          "pressing_intensity": 0.5631924529969456,
+          "pressing_intensity": 0.5369776108575307,
           "defensive_line": "mid",
           "top_styles": [
             "cross_pray",
@@ -4896,8 +5037,8 @@
             "short_name": "M. Kovačević",
             "country": "Croatia",
             "profile": "attacking",
-            "preferred_formation": "4-1-4-1",
-            "pressing_intensity": 0.5034054303962303,
+            "preferred_formation": "4-3-3",
+            "pressing_intensity": 0.500032041030371,
             "defensive_line": "mid",
             "top_styles": [
               "chaos_ball",
@@ -5127,8 +5268,8 @@
           "short_name": "M. Kovačević",
           "country": "Croatia",
           "profile": "attacking",
-          "preferred_formation": "4-1-4-1",
-          "pressing_intensity": 0.5034054303962303,
+          "preferred_formation": "4-3-3",
+          "pressing_intensity": 0.500032041030371,
           "defensive_line": "mid",
           "top_styles": [
             "chaos_ball",
@@ -5529,7 +5670,7 @@
             "short_name": "H. Losada",
             "country": "Argentina",
             "profile": "attacking",
-            "preferred_formation": "4-3-3",
+            "preferred_formation": "4-2-3-1",
             "pressing_intensity": null,
             "defensive_line": "",
             "top_styles": []
@@ -5541,9 +5682,12 @@
             "country": "Norway",
             "profile": "attacking",
             "preferred_formation": "4-3-3",
-            "pressing_intensity": null,
-            "defensive_line": "",
-            "top_styles": []
+            "pressing_intensity": 0.8840121825179472,
+            "defensive_line": "mid",
+            "top_styles": [
+              "gegenpressing",
+              "high_press"
+            ]
           },
           "unavailable_players": {
             "home": [],
@@ -5771,7 +5915,7 @@
           "short_name": "H. Losada",
           "country": "Argentina",
           "profile": "attacking",
-          "preferred_formation": "4-3-3",
+          "preferred_formation": "4-2-3-1",
           "pressing_intensity": null,
           "defensive_line": "",
           "top_styles": []
@@ -5783,9 +5927,12 @@
           "country": "Norway",
           "profile": "attacking",
           "preferred_formation": "4-3-3",
-          "pressing_intensity": null,
-          "defensive_line": "",
-          "top_styles": []
+          "pressing_intensity": 0.8840121825179472,
+          "defensive_line": "mid",
+          "top_styles": [
+            "gegenpressing",
+            "high_press"
+          ]
         },
         "unavailable_players": {
           "home": [],
@@ -6123,10 +6270,10 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.67,
-          "odds_draw": 3.26,
+          "odds_home": 2.69,
+          "odds_draw": 3.24,
           "odds_away": 2.57,
-          "odds_over_15": 1.32,
+          "odds_over_15": 1.33,
           "odds_over_25": 2.02,
           "odds_over_35": 3.51,
           "odds_under_15": 3.17,
@@ -6167,7 +6314,7 @@
             "country": "Netherlands",
             "profile": "attacking",
             "preferred_formation": "3-4-1-2",
-            "pressing_intensity": 0.6570021154798541,
+            "pressing_intensity": 0.6666590457772915,
             "defensive_line": "mid",
             "top_styles": [
               "gegenpressing",
@@ -6181,7 +6328,7 @@
             "country": "Spain",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.7042360315660318,
+            "pressing_intensity": 0.6881777875325927,
             "defensive_line": "mid",
             "top_styles": [
               "cross_pray",
@@ -6353,10 +6500,10 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.67,
-        "odds_draw": 3.26,
+        "odds_home": 2.69,
+        "odds_draw": 3.24,
         "odds_away": 2.57,
-        "odds_over_15": 1.32,
+        "odds_over_15": 1.33,
         "odds_over_25": 2.02,
         "odds_over_35": 3.51,
         "odds_under_15": 3.17,
@@ -6397,7 +6544,7 @@
           "country": "Netherlands",
           "profile": "attacking",
           "preferred_formation": "3-4-1-2",
-          "pressing_intensity": 0.6570021154798541,
+          "pressing_intensity": 0.6666590457772915,
           "defensive_line": "mid",
           "top_styles": [
             "gegenpressing",
@@ -6411,7 +6558,7 @@
           "country": "Spain",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.7042360315660318,
+          "pressing_intensity": 0.6881777875325927,
           "defensive_line": "mid",
           "top_styles": [
             "cross_pray",
@@ -6852,11 +6999,11 @@
             "country": "Bulgaria",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.289165167470656,
+            "pressing_intensity": 0.29618533278469894,
             "defensive_line": "mid",
             "top_styles": [
-              "moments_fc",
-              "tiki_taka"
+              "park_the_bus",
+              "low_block"
             ]
           },
           "away_coach": {
@@ -6875,12 +7022,6 @@
             "away": [
               {
                 "name": "Erik Palmer Brown",
-                "status": "injured",
-                "reason": "",
-                "expected_return": null
-              },
-              {
-                "name": "Filip Đuričić",
                 "status": "injured",
                 "reason": "",
                 "expected_return": null
@@ -7114,11 +7255,11 @@
           "country": "Bulgaria",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.289165167470656,
+          "pressing_intensity": 0.29618533278469894,
           "defensive_line": "mid",
           "top_styles": [
-            "moments_fc",
-            "tiki_taka"
+            "park_the_bus",
+            "low_block"
           ]
         },
         "away_coach": {
@@ -7137,12 +7278,6 @@
           "away": [
             {
               "name": "Erik Palmer Brown",
-              "status": "injured",
-              "reason": "",
-              "expected_return": null
-            },
-            {
-              "name": "Filip Đuričić",
               "status": "injured",
               "reason": "",
               "expected_return": null
@@ -7521,8 +7656,8 @@
           "current_minute": null,
           "period": "",
           "odds_home": 1.26,
-          "odds_draw": 5.84,
-          "odds_away": 9.81,
+          "odds_draw": 5.85,
+          "odds_away": 9.84,
           "odds_over_15": 1.12,
           "odds_over_25": 1.43,
           "odds_over_35": 2.08,
@@ -7564,7 +7699,7 @@
             "country": "Serbia",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.4677824305412093,
+            "pressing_intensity": 0.46622278099918657,
             "defensive_line": "mid",
             "top_styles": [
               "cross_pray",
@@ -7576,7 +7711,7 @@
             "name": "Ran Kozuk",
             "short_name": "R. Kozuk",
             "country": "Israel",
-            "profile": "defensive",
+            "profile": "balanced",
             "preferred_formation": "4-3-3",
             "pressing_intensity": null,
             "defensive_line": "",
@@ -7596,6 +7731,12 @@
                 "status": "injured",
                 "reason": "Hamstring Injury",
                 "expected_return": "2026-08-31"
+              },
+              {
+                "name": "Pedro Amador",
+                "status": "injured",
+                "reason": "Achilles Tendon Injury",
+                "expected_return": "2026-10-20"
               }
             ]
           },
@@ -7767,8 +7908,8 @@
         "current_minute": null,
         "period": "",
         "odds_home": 1.26,
-        "odds_draw": 5.84,
-        "odds_away": 9.81,
+        "odds_draw": 5.85,
+        "odds_away": 9.84,
         "odds_over_15": 1.12,
         "odds_over_25": 1.43,
         "odds_over_35": 2.08,
@@ -7810,7 +7951,7 @@
           "country": "Serbia",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.4677824305412093,
+          "pressing_intensity": 0.46622278099918657,
           "defensive_line": "mid",
           "top_styles": [
             "cross_pray",
@@ -7822,7 +7963,7 @@
           "name": "Ran Kozuk",
           "short_name": "R. Kozuk",
           "country": "Israel",
-          "profile": "defensive",
+          "profile": "balanced",
           "preferred_formation": "4-3-3",
           "pressing_intensity": null,
           "defensive_line": "",
@@ -7842,6 +7983,12 @@
               "status": "injured",
               "reason": "Hamstring Injury",
               "expected_return": "2026-08-31"
+            },
+            {
+              "name": "Pedro Amador",
+              "status": "injured",
+              "reason": "Achilles Tendon Injury",
+              "expected_return": "2026-10-20"
             }
           ]
         },
@@ -8193,16 +8340,16 @@
           "current_minute": null,
           "period": "",
           "odds_home": 1.43,
-          "odds_draw": 4.48,
-          "odds_away": 6.8,
+          "odds_draw": 4.46,
+          "odds_away": 6.87,
           "odds_over_15": 1.21,
           "odds_over_25": 1.7,
           "odds_over_35": 2.71,
-          "odds_under_15": 4.06,
+          "odds_under_15": 4.05,
           "odds_under_25": 2.09,
           "odds_under_35": 1.42,
           "odds_btts_yes": 1.87,
-          "odds_btts_no": 1.85,
+          "odds_btts_no": 1.84,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -8245,7 +8392,7 @@
             "name": "Manuel Tulipa",
             "short_name": "Tulipa",
             "country": "Portugal",
-            "profile": "attacking",
+            "profile": "balanced",
             "preferred_formation": "4-3-3",
             "pressing_intensity": null,
             "defensive_line": "",
@@ -8412,16 +8559,16 @@
         "current_minute": null,
         "period": "",
         "odds_home": 1.43,
-        "odds_draw": 4.48,
-        "odds_away": 6.8,
+        "odds_draw": 4.46,
+        "odds_away": 6.87,
         "odds_over_15": 1.21,
         "odds_over_25": 1.7,
         "odds_over_35": 2.71,
-        "odds_under_15": 4.06,
+        "odds_under_15": 4.05,
         "odds_under_25": 2.09,
         "odds_under_35": 1.42,
         "odds_btts_yes": 1.87,
-        "odds_btts_no": 1.85,
+        "odds_btts_no": 1.84,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -8464,7 +8611,7 @@
           "name": "Manuel Tulipa",
           "short_name": "Tulipa",
           "country": "Portugal",
-          "profile": "attacking",
+          "profile": "balanced",
           "preferred_formation": "4-3-3",
           "pressing_intensity": null,
           "defensive_line": "",
@@ -8781,9 +8928,9 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.79,
+          "odds_home": 1.78,
           "odds_draw": 3.66,
-          "odds_away": 4.25,
+          "odds_away": 4.26,
           "odds_over_15": 1.28,
           "odds_over_25": 1.9,
           "odds_over_35": 3.21,
@@ -8791,7 +8938,7 @@
           "odds_under_25": 1.87,
           "odds_under_35": 1.32,
           "odds_btts_yes": 1.8,
-          "odds_btts_no": 1.9,
+          "odds_btts_no": 1.91,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -8836,7 +8983,7 @@
             "country": "Norway",
             "profile": "attacking",
             "preferred_formation": "3-4-3",
-            "pressing_intensity": 0.5675127385086236,
+            "pressing_intensity": 0.5545957657955651,
             "defensive_line": "mid",
             "top_styles": [
               "tiki_taka",
@@ -9019,9 +9166,9 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.79,
+        "odds_home": 1.78,
         "odds_draw": 3.66,
-        "odds_away": 4.25,
+        "odds_away": 4.26,
         "odds_over_15": 1.28,
         "odds_over_25": 1.9,
         "odds_over_35": 3.21,
@@ -9029,7 +9176,7 @@
         "odds_under_25": 1.87,
         "odds_under_35": 1.32,
         "odds_btts_yes": 1.8,
-        "odds_btts_no": 1.9,
+        "odds_btts_no": 1.91,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -9074,7 +9221,7 @@
           "country": "Norway",
           "profile": "attacking",
           "preferred_formation": "3-4-3",
-          "pressing_intensity": 0.5675127385086236,
+          "pressing_intensity": 0.5545957657955651,
           "defensive_line": "mid",
           "top_styles": [
             "tiki_taka",
@@ -9447,13 +9594,13 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 3.78,
+          "odds_home": 3.77,
           "odds_draw": 3.77,
-          "odds_away": 1.86,
+          "odds_away": 1.87,
           "odds_over_15": 1.2,
           "odds_over_25": 1.67,
           "odds_over_35": 2.64,
-          "odds_under_15": 4.22,
+          "odds_under_15": 4.21,
           "odds_under_25": 2.13,
           "odds_under_35": 1.44,
           "odds_btts_yes": 1.62,
@@ -9489,9 +9636,9 @@
             "name": "Fabio Ingolitsch",
             "short_name": "F. Ingolitsch",
             "country": "Austria",
-            "profile": "attacking",
+            "profile": "balanced",
             "preferred_formation": "4-3-1-2",
-            "pressing_intensity": 0.5440180759069784,
+            "pressing_intensity": 0.5131089269903324,
             "defensive_line": "mid",
             "top_styles": [
               "terrorist_fb",
@@ -9505,7 +9652,7 @@
             "country": "Türkiye",
             "profile": "attacking",
             "preferred_formation": "4-1-4-1",
-            "pressing_intensity": 0.9930648330942897,
+            "pressing_intensity": 1,
             "defensive_line": "high",
             "top_styles": [
               "tiki_taka",
@@ -9527,7 +9674,14 @@
                 "expected_return": "2026-08-21"
               }
             ],
-            "away": []
+            "away": [
+              {
+                "name": "Vedat Muriqi",
+                "status": "injured",
+                "reason": "Hamstring Injury",
+                "expected_return": "2026-08-10"
+              }
+            ]
           },
           "venue": {
             "id": 126,
@@ -9694,13 +9848,13 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 3.78,
+        "odds_home": 3.77,
         "odds_draw": 3.77,
-        "odds_away": 1.86,
+        "odds_away": 1.87,
         "odds_over_15": 1.2,
         "odds_over_25": 1.67,
         "odds_over_35": 2.64,
-        "odds_under_15": 4.22,
+        "odds_under_15": 4.21,
         "odds_under_25": 2.13,
         "odds_under_35": 1.44,
         "odds_btts_yes": 1.62,
@@ -9736,9 +9890,9 @@
           "name": "Fabio Ingolitsch",
           "short_name": "F. Ingolitsch",
           "country": "Austria",
-          "profile": "attacking",
+          "profile": "balanced",
           "preferred_formation": "4-3-1-2",
-          "pressing_intensity": 0.5440180759069784,
+          "pressing_intensity": 0.5131089269903324,
           "defensive_line": "mid",
           "top_styles": [
             "terrorist_fb",
@@ -9752,7 +9906,7 @@
           "country": "Türkiye",
           "profile": "attacking",
           "preferred_formation": "4-1-4-1",
-          "pressing_intensity": 0.9930648330942897,
+          "pressing_intensity": 1,
           "defensive_line": "high",
           "top_styles": [
             "tiki_taka",
@@ -9774,7 +9928,14 @@
               "expected_return": "2026-08-21"
             }
           ],
-          "away": []
+          "away": [
+            {
+              "name": "Vedat Muriqi",
+              "status": "injured",
+              "reason": "Hamstring Injury",
+              "expected_return": "2026-08-10"
+            }
+          ]
         },
         "venue": {
           "id": 126,
@@ -10173,12 +10334,12 @@
           "current_minute": null,
           "period": "",
           "odds_home": 1.42,
-          "odds_draw": 4.78,
+          "odds_draw": 4.8,
           "odds_away": 6.71,
           "odds_over_15": 1.17,
           "odds_over_25": 1.58,
-          "odds_over_35": 2.44,
-          "odds_under_15": 4.65,
+          "odds_over_35": 2.43,
+          "odds_under_15": 4.66,
           "odds_under_25": 2.32,
           "odds_under_35": 1.52,
           "odds_btts_yes": 1.77,
@@ -10216,7 +10377,7 @@
             "country": "Portugal",
             "profile": "attacking",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.5294668245693758,
+            "pressing_intensity": 0.5198929590036638,
             "defensive_line": "mid",
             "top_styles": [
               "tiki_taka",
@@ -10229,7 +10390,7 @@
             "short_name": "B. Priske",
             "country": "Denmark",
             "profile": "attacking",
-            "preferred_formation": "4-3-3",
+            "preferred_formation": "4-2-3-1",
             "pressing_intensity": null,
             "defensive_line": "",
             "top_styles": []
@@ -10437,12 +10598,12 @@
         "current_minute": null,
         "period": "",
         "odds_home": 1.42,
-        "odds_draw": 4.78,
+        "odds_draw": 4.8,
         "odds_away": 6.71,
         "odds_over_15": 1.17,
         "odds_over_25": 1.58,
-        "odds_over_35": 2.44,
-        "odds_under_15": 4.65,
+        "odds_over_35": 2.43,
+        "odds_under_15": 4.66,
         "odds_under_25": 2.32,
         "odds_under_35": 1.52,
         "odds_btts_yes": 1.77,
@@ -10480,7 +10641,7 @@
           "country": "Portugal",
           "profile": "attacking",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.5294668245693758,
+          "pressing_intensity": 0.5198929590036638,
           "defensive_line": "mid",
           "top_styles": [
             "tiki_taka",
@@ -10493,7 +10654,7 @@
           "short_name": "B. Priske",
           "country": "Denmark",
           "profile": "attacking",
-          "preferred_formation": "4-3-3",
+          "preferred_formation": "4-2-3-1",
           "pressing_intensity": null,
           "defensive_line": "",
           "top_styles": []
@@ -10911,7 +11072,7 @@
           "period": "",
           "odds_home": 1.7,
           "odds_draw": 3.64,
-          "odds_away": 4.92,
+          "odds_away": 4.96,
           "odds_over_15": 1.36,
           "odds_over_25": 2.12,
           "odds_over_35": 3.86,
@@ -10919,7 +11080,7 @@
           "odds_under_25": 1.68,
           "odds_under_35": 1.23,
           "odds_btts_yes": 2.04,
-          "odds_btts_no": 1.71,
+          "odds_btts_no": 1.7,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -10942,7 +11103,7 @@
             "country": "Argentina",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.4512765229678182,
+            "pressing_intensity": 0.46998767302755773,
             "defensive_line": "mid",
             "top_styles": [
               "false_9",
@@ -10956,7 +11117,7 @@
             "country": "Argentina",
             "profile": "attacking",
             "preferred_formation": "5-3-2",
-            "pressing_intensity": 0.6657897936144683,
+            "pressing_intensity": 0.6604340272639581,
             "defensive_line": "mid",
             "top_styles": [
               "gegenpressing",
@@ -11097,7 +11258,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Fluminense are limping into this Copa Libertadores clash**, but at the Maracanã they should have enough to edge a visiting Argentine side fighting form inconsistency. 🔵\n\nFlu's been drawing everything lately — four stalemates in five — and that's rough for attacking momentum. Rivadavia, though, have won three of their last five and come in sharper, but they're missing key defender J. Florentín to suspension and need to bank points on the road against a giant.\n\nKey storylines:\n\n- **Hulk and R. Castillo** need to finally break through for Fluminense after a barren run of attacking displays\n- **Independiente Rivadavia's road record** will be tested at one of South America's most intimidating stadiums\n- Fluminense's injury woes — **John Kennedy, J. Freytes, and J. Millán all sidelined** — force heavier reliance on bench depth\n\nExpected lineups:\n\n- **Fluminense**: Fábio, Guga, Ignácio, Renê, Martinelli, L. Acosta, Hulk, Hércules, G. Cano, R. Castillo\n- **Independiente Rivadavia**: N. Bolcato, S. Studer, J. M. Elordi, L. Costa, I. Villalba, M. Fernández, T. Bottari, A. Arce, L. Bucca, F. Sartori\n\nPrediction:\n\n**Fluminense 2–1 Independiente Rivadavia**\n\nHome turf and squad depth edge out a Rivadavia side that travels without suspended Florentín.",
+            "generated_at": "2026-08-10T22:41:12.748719+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-08-05T02:15:08.520454+00:00",
@@ -11192,7 +11356,7 @@
         "period": "",
         "odds_home": 1.7,
         "odds_draw": 3.64,
-        "odds_away": 4.92,
+        "odds_away": 4.96,
         "odds_over_15": 1.36,
         "odds_over_25": 2.12,
         "odds_over_35": 3.86,
@@ -11200,7 +11364,7 @@
         "odds_under_25": 1.68,
         "odds_under_35": 1.23,
         "odds_btts_yes": 2.04,
-        "odds_btts_no": 1.71,
+        "odds_btts_no": 1.7,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -11223,7 +11387,7 @@
           "country": "Argentina",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.4512765229678182,
+          "pressing_intensity": 0.46998767302755773,
           "defensive_line": "mid",
           "top_styles": [
             "false_9",
@@ -11237,7 +11401,7 @@
           "country": "Argentina",
           "profile": "attacking",
           "preferred_formation": "5-3-2",
-          "pressing_intensity": 0.6657897936144683,
+          "pressing_intensity": 0.6604340272639581,
           "defensive_line": "mid",
           "top_styles": [
             "gegenpressing",
@@ -11372,7 +11536,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Fluminense are limping into this Copa Libertadores clash**, but at the Maracanã they should have enough to edge a visiting Argentine side fighting form inconsistency. 🔵\n\nFlu's been drawing everything lately — four stalemates in five — and that's rough for attacking momentum. Rivadavia, though, have won three of their last five and come in sharper, but they're missing key defender J. Florentín to suspension and need to bank points on the road against a giant.\n\nKey storylines:\n\n- **Hulk and R. Castillo** need to finally break through for Fluminense after a barren run of attacking displays\n- **Independiente Rivadavia's road record** will be tested at one of South America's most intimidating stadiums\n- Fluminense's injury woes — **John Kennedy, J. Freytes, and J. Millán all sidelined** — force heavier reliance on bench depth\n\nExpected lineups:\n\n- **Fluminense**: Fábio, Guga, Ignácio, Renê, Martinelli, L. Acosta, Hulk, Hércules, G. Cano, R. Castillo\n- **Independiente Rivadavia**: N. Bolcato, S. Studer, J. M. Elordi, L. Costa, I. Villalba, M. Fernández, T. Bottari, A. Arce, L. Bucca, F. Sartori\n\nPrediction:\n\n**Fluminense 2–1 Independiente Rivadavia**\n\nHome turf and squad depth edge out a Rivadavia side that travels without suspended Florentín.",
+          "generated_at": "2026-08-10T22:41:12.748719+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-10",
@@ -11711,7 +11878,7 @@
           "period": "",
           "odds_home": 1.23,
           "odds_draw": 5.75,
-          "odds_away": 12.89,
+          "odds_away": 12.88,
           "odds_over_15": 1.22,
           "odds_over_25": 1.73,
           "odds_over_35": 2.78,
@@ -11742,7 +11909,7 @@
             "country": "Argentina",
             "profile": "defensive",
             "preferred_formation": "4-3-3",
-            "pressing_intensity": 0.9430754592844885,
+            "pressing_intensity": 0.9013765936911282,
             "defensive_line": "mid",
             "top_styles": [
               "gegenpressing",
@@ -11756,7 +11923,7 @@
             "country": "Paraguay",
             "profile": "balanced",
             "preferred_formation": "4-4-2",
-            "pressing_intensity": 0.4586527199631449,
+            "pressing_intensity": 0.45755790829897997,
             "defensive_line": "mid",
             "top_styles": [
               "terrorist_fb",
@@ -11842,7 +12009,10 @@
           },
           "funfacts": null,
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Boca's in the Sudamericana driver's seat, but Recoleta's been a stubborn draw machine** — this should be a comfortable cruise for the home side, yet the visitors won't roll over easy. 🏟️\n\nBoca's been sloppy lately (1W, 2D, 2L), but they're at the Bombonera and have tournament pedigree. Recoleta, meanwhile, have drawn four of their last five — they're compact, tough to break down, and dangerous on the counter.\n\nKey storylines:\n\n- **Boca's attacking depth vs Recoleta's wall** — Without A. Bareiro and R. Battaglia sidelined, the hosts lean on M. Merentiel and L. Flores to carry the load\n- **Set-piece vulnerability** — Boca conceded in draws to Vélez and Newell's; Recoleta will look to exploit that\n- **Away draw trend** — Recoleta's 1W, 4D record screams stalemate; expect them to soak pressure and hit on breaks\n\nExpected lineups:\n\n- **Boca Juniors**: Á. Montero, L. Blanco, A. Costa, M. Pellegrino, L. Paredes, T. Aranda, M. Delgado, S. Ascacíbar, M. Merentiel, L. Flores\n- **Recoleta FC**: N. Ferreira, P. Ríos, L. Monzón, M. Pereira, H. López, J. Franco, J. Espinola, W. Baez, N. Marotta, K. Parzajuk\n\nPrediction:\n\n**Boca 2-0 Recoleta**. Home advantage and cup ambition edge out a stubborn visiting side. 👊",
+            "generated_at": "2026-08-10T22:41:17.840557+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-08-05T02:15:08.531142+00:00",
@@ -11937,7 +12107,7 @@
         "period": "",
         "odds_home": 1.23,
         "odds_draw": 5.75,
-        "odds_away": 12.89,
+        "odds_away": 12.88,
         "odds_over_15": 1.22,
         "odds_over_25": 1.73,
         "odds_over_35": 2.78,
@@ -11968,7 +12138,7 @@
           "country": "Argentina",
           "profile": "defensive",
           "preferred_formation": "4-3-3",
-          "pressing_intensity": 0.9430754592844885,
+          "pressing_intensity": 0.9013765936911282,
           "defensive_line": "mid",
           "top_styles": [
             "gegenpressing",
@@ -11982,7 +12152,7 @@
           "country": "Paraguay",
           "profile": "balanced",
           "preferred_formation": "4-4-2",
-          "pressing_intensity": 0.4586527199631449,
+          "pressing_intensity": 0.45755790829897997,
           "defensive_line": "mid",
           "top_styles": [
             "terrorist_fb",
@@ -12062,7 +12232,10 @@
         },
         "funfacts": null,
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Boca's in the Sudamericana driver's seat, but Recoleta's been a stubborn draw machine** — this should be a comfortable cruise for the home side, yet the visitors won't roll over easy. 🏟️\n\nBoca's been sloppy lately (1W, 2D, 2L), but they're at the Bombonera and have tournament pedigree. Recoleta, meanwhile, have drawn four of their last five — they're compact, tough to break down, and dangerous on the counter.\n\nKey storylines:\n\n- **Boca's attacking depth vs Recoleta's wall** — Without A. Bareiro and R. Battaglia sidelined, the hosts lean on M. Merentiel and L. Flores to carry the load\n- **Set-piece vulnerability** — Boca conceded in draws to Vélez and Newell's; Recoleta will look to exploit that\n- **Away draw trend** — Recoleta's 1W, 4D record screams stalemate; expect them to soak pressure and hit on breaks\n\nExpected lineups:\n\n- **Boca Juniors**: Á. Montero, L. Blanco, A. Costa, M. Pellegrino, L. Paredes, T. Aranda, M. Delgado, S. Ascacíbar, M. Merentiel, L. Flores\n- **Recoleta FC**: N. Ferreira, P. Ríos, L. Monzón, M. Pereira, H. López, J. Franco, J. Espinola, W. Baez, N. Marotta, K. Parzajuk\n\nPrediction:\n\n**Boca 2-0 Recoleta**. Home advantage and cup ambition edge out a stubborn visiting side. 👊",
+          "generated_at": "2026-08-10T22:41:17.840557+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-10",
@@ -12398,7 +12571,7 @@
             "country": "Brazil",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.3998782169257498,
+            "pressing_intensity": 0.40177590048149847,
             "defensive_line": "high",
             "top_styles": [
               "terrorist_fb",
@@ -12412,7 +12585,7 @@
             "country": "Brazil",
             "profile": "balanced",
             "preferred_formation": "4-3-3",
-            "pressing_intensity": 0.26831508303164897,
+            "pressing_intensity": 0.27691128429403733,
             "defensive_line": "mid",
             "top_styles": [
               "anti_football",
@@ -12501,7 +12674,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Avaí's fortress at home meets a hot Clube De Regatas Brasil side — but history says the Ressacada is no joke.** This is a classic David-vs-Goliath energy where the underdog's form might just flip the script. 🔥\n\nAvaí have been streaky (2W-1D-2L), but they've got the ground advantage and a 6-2 edge in the all-time head-to-head. Clube De Regatas Brasil, though, are rolling with three wins in their last five and just took down Ceará on the road — momentum is real.\n\nKey storylines:\n\n- **Avaí's attack** needs J. Lucas and L. Henrique to deliver in the final third after some inconsistent finishing\n- **Clube De Regatas Brasil's depth** gets tested without Matheus Albino; Crystopher and Thiaguinho hold the midfield together\n- Home form vs. away form — **Avaí** typically cash in at the Ressacada, but visitors arrive unbeaten in three\n\nExpected lineups:\n\n- **Avaí**: Igor, Allyson, Wallison, D. Teixeira, J. Maciel, T. Roberth, J. Lucas, L. Gamalho, L. Henrique, W. d. S. França, J. S. R. Leandro\n- **Clube De Regatas Brasil**: V. Caetano, F. Alemão, L. Lovat, H. Santos, D. Hereda, Crystopher, Thiaguinho, P. Castro, Mikael, D. Belmonte, D. Baggio\n\nPrediction:\n\n**Avaí 2–1 Clube De Regatas Brasil.** Home edge tips it, but it's a sweat — visitors have genuine quality right now.",
+            "generated_at": "2026-08-10T22:41:22.979233+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-08-05T02:15:08.505251+00:00",
@@ -12627,7 +12803,7 @@
           "country": "Brazil",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.3998782169257498,
+          "pressing_intensity": 0.40177590048149847,
           "defensive_line": "high",
           "top_styles": [
             "terrorist_fb",
@@ -12641,7 +12817,7 @@
           "country": "Brazil",
           "profile": "balanced",
           "preferred_formation": "4-3-3",
-          "pressing_intensity": 0.26831508303164897,
+          "pressing_intensity": 0.27691128429403733,
           "defensive_line": "mid",
           "top_styles": [
             "anti_football",
@@ -12724,7 +12900,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Avaí's fortress at home meets a hot Clube De Regatas Brasil side — but history says the Ressacada is no joke.** This is a classic David-vs-Goliath energy where the underdog's form might just flip the script. 🔥\n\nAvaí have been streaky (2W-1D-2L), but they've got the ground advantage and a 6-2 edge in the all-time head-to-head. Clube De Regatas Brasil, though, are rolling with three wins in their last five and just took down Ceará on the road — momentum is real.\n\nKey storylines:\n\n- **Avaí's attack** needs J. Lucas and L. Henrique to deliver in the final third after some inconsistent finishing\n- **Clube De Regatas Brasil's depth** gets tested without Matheus Albino; Crystopher and Thiaguinho hold the midfield together\n- Home form vs. away form — **Avaí** typically cash in at the Ressacada, but visitors arrive unbeaten in three\n\nExpected lineups:\n\n- **Avaí**: Igor, Allyson, Wallison, D. Teixeira, J. Maciel, T. Roberth, J. Lucas, L. Gamalho, L. Henrique, W. d. S. França, J. S. R. Leandro\n- **Clube De Regatas Brasil**: V. Caetano, F. Alemão, L. Lovat, H. Santos, D. Hereda, Crystopher, Thiaguinho, P. Castro, Mikael, D. Belmonte, D. Baggio\n\nPrediction:\n\n**Avaí 2–1 Clube De Regatas Brasil.** Home edge tips it, but it's a sweat — visitors have genuine quality right now.",
+          "generated_at": "2026-08-10T22:41:22.979233+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-10",
@@ -13137,9 +13316,9 @@
             "name": "Jorge Sampaoli",
             "short_name": "J. Sampaoli",
             "country": "Argentina",
-            "profile": "defensive",
+            "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.7120134165353412,
+            "pressing_intensity": 0.6911772268861013,
             "defensive_line": "mid",
             "top_styles": [
               "gegenpressing",
@@ -13153,11 +13332,11 @@
             "country": "Argentina",
             "profile": "defensive",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.6050342272948254,
+            "pressing_intensity": 0.5988030201366706,
             "defensive_line": "mid",
             "top_styles": [
               "territory",
-              "set_piece"
+              "gegenpressing"
             ]
           },
           "unavailable_players": {
@@ -13399,9 +13578,9 @@
           "name": "Jorge Sampaoli",
           "short_name": "J. Sampaoli",
           "country": "Argentina",
-          "profile": "defensive",
+          "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.7120134165353412,
+          "pressing_intensity": 0.6911772268861013,
           "defensive_line": "mid",
           "top_styles": [
             "gegenpressing",
@@ -13415,11 +13594,11 @@
           "country": "Argentina",
           "profile": "defensive",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.6050342272948254,
+          "pressing_intensity": 0.5988030201366706,
           "defensive_line": "mid",
           "top_styles": [
             "territory",
-            "set_piece"
+            "gegenpressing"
           ]
         },
         "unavailable_players": {
@@ -13944,7 +14123,7 @@
             "country": "Brazil",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.5545300672716439,
+            "pressing_intensity": 0.5410796145538366,
             "defensive_line": "high",
             "top_styles": [
               "ball_dominant",
@@ -14121,7 +14300,7 @@
           "country": "Brazil",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.5545300672716439,
+          "pressing_intensity": 0.5410796145538366,
           "defensive_line": "high",
           "top_styles": [
             "ball_dominant",
@@ -14495,7 +14674,7 @@
             "country": "Uruguay",
             "profile": "defensive",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.6744254048770105,
+            "pressing_intensity": 0.6756878494602971,
             "defensive_line": "mid",
             "top_styles": [
               "gegenpressing",
@@ -14509,7 +14688,7 @@
             "country": "Argentina",
             "profile": "defensive",
             "preferred_formation": "4-1-4-1",
-            "pressing_intensity": 0.5951851883270951,
+            "pressing_intensity": 0.5871388460190698,
             "defensive_line": "mid",
             "top_styles": [
               "cross_pray",
@@ -14700,7 +14879,7 @@
           "country": "Uruguay",
           "profile": "defensive",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.6744254048770105,
+          "pressing_intensity": 0.6756878494602971,
           "defensive_line": "mid",
           "top_styles": [
             "gegenpressing",
@@ -14714,7 +14893,7 @@
           "country": "Argentina",
           "profile": "defensive",
           "preferred_formation": "4-1-4-1",
-          "pressing_intensity": 0.5951851883270951,
+          "pressing_intensity": 0.5871388460190698,
           "defensive_line": "mid",
           "top_styles": [
             "cross_pray",
@@ -15108,7 +15287,7 @@
             "country": "Colombia",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.46290616849155963,
+            "pressing_intensity": 0.46748434411086204,
             "defensive_line": "mid",
             "top_styles": [
               "inverted_fb",
@@ -15122,7 +15301,7 @@
             "country": "Uruguay",
             "profile": "attacking",
             "preferred_formation": "4-1-4-1",
-            "pressing_intensity": 0.4890087113198903,
+            "pressing_intensity": 0.48636832879869923,
             "defensive_line": "mid",
             "top_styles": [
               "wing_play",
@@ -15278,7 +15457,7 @@
           "country": "Colombia",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.46290616849155963,
+          "pressing_intensity": 0.46748434411086204,
           "defensive_line": "mid",
           "top_styles": [
             "inverted_fb",
@@ -15292,7 +15471,7 @@
           "country": "Uruguay",
           "profile": "attacking",
           "preferred_formation": "4-1-4-1",
-          "pressing_intensity": 0.4890087113198903,
+          "pressing_intensity": 0.48636832879869923,
           "defensive_line": "mid",
           "top_styles": [
             "wing_play",
@@ -16221,7 +16400,7 @@
             "country": "Denmark",
             "profile": "attacking",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.4914244575504602,
+            "pressing_intensity": 0.5068631267591571,
             "defensive_line": "mid",
             "top_styles": [
               "chaos_ball",
@@ -16415,7 +16594,7 @@
           "country": "Denmark",
           "profile": "attacking",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.4914244575504602,
+          "pressing_intensity": 0.5068631267591571,
           "defensive_line": "mid",
           "top_styles": [
             "chaos_ball",
@@ -16797,7 +16976,7 @@
             "country": "Poland",
             "profile": "attacking",
             "preferred_formation": "3-4-3",
-            "pressing_intensity": 0.37500537932839334,
+            "pressing_intensity": 0.37816945977002325,
             "defensive_line": "low",
             "top_styles": [
               "park_the_bus",
@@ -16809,7 +16988,7 @@
             "name": "Elyaniv Barda",
             "short_name": "E. Barda",
             "country": "Israel",
-            "profile": "balanced",
+            "profile": "attacking",
             "preferred_formation": "4-2-3-1",
             "pressing_intensity": null,
             "defensive_line": "",
@@ -16985,7 +17164,7 @@
           "country": "Poland",
           "profile": "attacking",
           "preferred_formation": "3-4-3",
-          "pressing_intensity": 0.37500537932839334,
+          "pressing_intensity": 0.37816945977002325,
           "defensive_line": "low",
           "top_styles": [
             "park_the_bus",
@@ -16997,7 +17176,7 @@
           "name": "Elyaniv Barda",
           "short_name": "E. Barda",
           "country": "Israel",
-          "profile": "balanced",
+          "profile": "attacking",
           "preferred_formation": "4-2-3-1",
           "pressing_intensity": null,
           "defensive_line": "",
@@ -17364,7 +17543,7 @@
             "country": "Argentina",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.9178338680777145,
+            "pressing_intensity": 0.8933599154630427,
             "defensive_line": "mid",
             "top_styles": [
               "cross_pray",
@@ -17553,7 +17732,7 @@
           "country": "Argentina",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.9178338680777145,
+          "pressing_intensity": 0.8933599154630427,
           "defensive_line": "mid",
           "top_styles": [
             "cross_pray",
@@ -17893,11 +18072,11 @@
             "country": "Argentina",
             "profile": "balanced",
             "preferred_formation": "4-4-2",
-            "pressing_intensity": 0.6824524991756299,
+            "pressing_intensity": 0.6510629628121474,
             "defensive_line": "mid",
             "top_styles": [
               "gegenpressing",
-              "high_press"
+              "set_piece"
             ]
           },
           "away_coach": {
@@ -17907,7 +18086,7 @@
             "country": "Uruguay",
             "profile": "balanced",
             "preferred_formation": "4-3-3",
-            "pressing_intensity": 0.56743785915949,
+            "pressing_intensity": 0.5608042680549346,
             "defensive_line": "mid",
             "top_styles": [
               "high_press",
@@ -18085,11 +18264,11 @@
           "country": "Argentina",
           "profile": "balanced",
           "preferred_formation": "4-4-2",
-          "pressing_intensity": 0.6824524991756299,
+          "pressing_intensity": 0.6510629628121474,
           "defensive_line": "mid",
           "top_styles": [
             "gegenpressing",
-            "high_press"
+            "set_piece"
           ]
         },
         "away_coach": {
@@ -18099,7 +18278,7 @@
           "country": "Uruguay",
           "profile": "balanced",
           "preferred_formation": "4-3-3",
-          "pressing_intensity": 0.56743785915949,
+          "pressing_intensity": 0.5608042680549346,
           "defensive_line": "mid",
           "top_styles": [
             "high_press",
@@ -18485,7 +18664,7 @@
             "country": "Brazil",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.5378418562253755,
+            "pressing_intensity": 0.5330593239283196,
             "defensive_line": "mid",
             "top_styles": [
               "anti_football",
@@ -18498,9 +18677,9 @@
             "short_name": "E. Dominguez",
             "country": "Argentina",
             "profile": "balanced",
-            "preferred_formation": "3-4-2-1",
-            "pressing_intensity": 0.5397382556348466,
-            "defensive_line": "mid",
+            "preferred_formation": "4-2-3-1",
+            "pressing_intensity": 0.5315552821976621,
+            "defensive_line": "high",
             "top_styles": [
               "heritage",
               "no_midfield"
@@ -18708,7 +18887,7 @@
           "country": "Brazil",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.5378418562253755,
+          "pressing_intensity": 0.5330593239283196,
           "defensive_line": "mid",
           "top_styles": [
             "anti_football",
@@ -18721,9 +18900,9 @@
           "short_name": "E. Dominguez",
           "country": "Argentina",
           "profile": "balanced",
-          "preferred_formation": "3-4-2-1",
-          "pressing_intensity": 0.5397382556348466,
-          "defensive_line": "mid",
+          "preferred_formation": "4-2-3-1",
+          "pressing_intensity": 0.5315552821976621,
+          "defensive_line": "high",
           "top_styles": [
             "heritage",
             "no_midfield"
@@ -19217,7 +19396,7 @@
             "country": "Portugal",
             "profile": "attacking",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.5678698858373605,
+            "pressing_intensity": 0.5681529930318336,
             "defensive_line": "mid",
             "top_styles": [
               "tiki_taka",
@@ -19231,7 +19410,7 @@
             "country": "Argentina",
             "profile": "defensive",
             "preferred_formation": "4-3-3",
-            "pressing_intensity": 0.7118423988873732,
+            "pressing_intensity": 0.697856471777619,
             "defensive_line": "mid",
             "top_styles": [
               "terrorist_fb",
@@ -19427,7 +19606,7 @@
           "country": "Portugal",
           "profile": "attacking",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.5678698858373605,
+          "pressing_intensity": 0.5681529930318336,
           "defensive_line": "mid",
           "top_styles": [
             "tiki_taka",
@@ -19441,7 +19620,7 @@
           "country": "Argentina",
           "profile": "defensive",
           "preferred_formation": "4-3-3",
-          "pressing_intensity": 0.7118423988873732,
+          "pressing_intensity": 0.697856471777619,
           "defensive_line": "mid",
           "top_styles": [
             "terrorist_fb",
@@ -19911,7 +20090,7 @@
             "country": "Uruguay",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.3557230650371269,
+            "pressing_intensity": 0.3532631759738333,
             "defensive_line": "mid",
             "top_styles": [
               "low_counter",
@@ -20109,7 +20288,7 @@
           "country": "Uruguay",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.3557230650371269,
+          "pressing_intensity": 0.3532631759738333,
           "defensive_line": "mid",
           "top_styles": [
             "low_counter",
@@ -20518,7 +20697,7 @@
             "country": "Portugal",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.5819361038460305,
+            "pressing_intensity": 0.5700599602235958,
             "defensive_line": "mid",
             "top_styles": [
               "anti_football",
@@ -20532,7 +20711,7 @@
             "country": "Portugal",
             "profile": "attacking",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.5372734150491713,
+            "pressing_intensity": 0.5299846696748243,
             "defensive_line": "mid",
             "top_styles": [
               "heritage",
@@ -20753,7 +20932,7 @@
           "country": "Portugal",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.5819361038460305,
+          "pressing_intensity": 0.5700599602235958,
           "defensive_line": "mid",
           "top_styles": [
             "anti_football",
@@ -20767,7 +20946,7 @@
           "country": "Portugal",
           "profile": "attacking",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.5372734150491713,
+          "pressing_intensity": 0.5299846696748243,
           "defensive_line": "mid",
           "top_styles": [
             "heritage",
@@ -21177,7 +21356,7 @@
             "country": "Venezuela",
             "profile": "defensive",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.4752146608744593,
+            "pressing_intensity": 0.47271172921855015,
             "defensive_line": "mid",
             "top_styles": [
               "anti_football",
@@ -21191,7 +21370,7 @@
             "country": "Colombia",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.515552134437966,
+            "pressing_intensity": 0.5143771058633639,
             "defensive_line": "mid",
             "top_styles": [
               "tiki_taka",
@@ -21346,7 +21525,7 @@
           "country": "Venezuela",
           "profile": "defensive",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.4752146608744593,
+          "pressing_intensity": 0.47271172921855015,
           "defensive_line": "mid",
           "top_styles": [
             "anti_football",
@@ -21360,7 +21539,7 @@
           "country": "Colombia",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.515552134437966,
+          "pressing_intensity": 0.5143771058633639,
           "defensive_line": "mid",
           "top_styles": [
             "tiki_taka",
@@ -22270,7 +22449,7 @@
             "country": "Azerbaijan",
             "profile": "attacking",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.4219821145502781,
+            "pressing_intensity": 0.42275438139360005,
             "defensive_line": "mid",
             "top_styles": [
               "chaos_ball",
@@ -22282,7 +22461,7 @@
             "name": "Igor Kostyuk",
             "short_name": "I. Kostyuk",
             "country": "Ukraine",
-            "profile": "attacking",
+            "profile": "balanced",
             "preferred_formation": "4-3-3",
             "pressing_intensity": null,
             "defensive_line": "",
@@ -22497,7 +22676,7 @@
           "country": "Azerbaijan",
           "profile": "attacking",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.4219821145502781,
+          "pressing_intensity": 0.42275438139360005,
           "defensive_line": "mid",
           "top_styles": [
             "chaos_ball",
@@ -22509,7 +22688,7 @@
           "name": "Igor Kostyuk",
           "short_name": "I. Kostyuk",
           "country": "Ukraine",
-          "profile": "attacking",
+          "profile": "balanced",
           "preferred_formation": "4-3-3",
           "pressing_intensity": null,
           "defensive_line": "",
@@ -23434,11 +23613,11 @@
             "country": "Spain",
             "profile": "attacking",
             "preferred_formation": "3-4-2-1",
-            "pressing_intensity": 0.0963349814648033,
+            "pressing_intensity": 0.11368752442746238,
             "defensive_line": "mid",
             "top_styles": [
-              "inverted_fb",
-              "tiki_taka"
+              "set_piece",
+              "inverted_fb"
             ]
           },
           "away_coach": {
@@ -23612,11 +23791,11 @@
           "country": "Spain",
           "profile": "attacking",
           "preferred_formation": "3-4-2-1",
-          "pressing_intensity": 0.0963349814648033,
+          "pressing_intensity": 0.11368752442746238,
           "defensive_line": "mid",
           "top_styles": [
-            "inverted_fb",
-            "tiki_taka"
+            "set_piece",
+            "inverted_fb"
           ]
         },
         "away_coach": {
@@ -23970,7 +24149,7 @@
             "country": "Tunisia",
             "profile": "balanced",
             "preferred_formation": "4-3-3",
-            "pressing_intensity": 0.5590309546208108,
+            "pressing_intensity": 0.5528253998304078,
             "defensive_line": "mid",
             "top_styles": [
               "park_the_bus",
@@ -24131,7 +24310,7 @@
           "country": "Tunisia",
           "profile": "balanced",
           "preferred_formation": "4-3-3",
-          "pressing_intensity": 0.5590309546208108,
+          "pressing_intensity": 0.5528253998304078,
           "defensive_line": "mid",
           "top_styles": [
             "park_the_bus",
@@ -24510,7 +24689,10 @@
             "preferred_formation": "4-2-3-1",
             "pressing_intensity": null,
             "defensive_line": "",
-            "top_styles": []
+            "top_styles": [
+              "chaos_ball",
+              "chaos_football"
+            ]
           },
           "away_coach": {
             "id": 2166,
@@ -24689,7 +24871,10 @@
           "preferred_formation": "4-2-3-1",
           "pressing_intensity": null,
           "defensive_line": "",
-          "top_styles": []
+          "top_styles": [
+            "chaos_ball",
+            "chaos_football"
+          ]
         },
         "away_coach": {
           "id": 2166,
@@ -25012,11 +25197,11 @@
             "country": "Portugal",
             "profile": "attacking",
             "preferred_formation": "3-4-3",
-            "pressing_intensity": 0.7276376131762862,
+            "pressing_intensity": 0.7246668520066506,
             "defensive_line": "mid",
             "top_styles": [
               "gegenpressing",
-              "tiki_taka"
+              "high_press"
             ]
           },
           "away_coach": {
@@ -25026,8 +25211,8 @@
             "country": "Finland",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.17401307416054485,
-            "defensive_line": "low",
+            "pressing_intensity": 0.18741064840256477,
+            "defensive_line": "mid",
             "top_styles": [
               "tiki_taka",
               "false_9"
@@ -25182,11 +25367,11 @@
           "country": "Portugal",
           "profile": "attacking",
           "preferred_formation": "3-4-3",
-          "pressing_intensity": 0.7276376131762862,
+          "pressing_intensity": 0.7246668520066506,
           "defensive_line": "mid",
           "top_styles": [
             "gegenpressing",
-            "tiki_taka"
+            "high_press"
           ]
         },
         "away_coach": {
@@ -25196,8 +25381,8 @@
           "country": "Finland",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.17401307416054485,
-          "defensive_line": "low",
+          "pressing_intensity": 0.18741064840256477,
+          "defensive_line": "mid",
           "top_styles": [
             "tiki_taka",
             "false_9"
@@ -26048,11 +26233,11 @@
             "country": "Slovakia",
             "profile": "balanced",
             "preferred_formation": "4-3-3",
-            "pressing_intensity": 0.5000602376747614,
+            "pressing_intensity": 0.5070754521555032,
             "defensive_line": "mid",
             "top_styles": [
               "low_block",
-              "wing_play"
+              "park_the_bus"
             ]
           },
           "away_coach": {
@@ -26062,11 +26247,11 @@
             "country": "Slovakia",
             "profile": "balanced",
             "preferred_formation": "4-3-3",
-            "pressing_intensity": null,
-            "defensive_line": "",
+            "pressing_intensity": 0.3932251069070412,
+            "defensive_line": "low",
             "top_styles": [
-              "terrorist_fb",
-              "anti_football"
+              "park_the_bus",
+              "terrorist_fb"
             ]
           },
           "unavailable_players": {
@@ -26228,11 +26413,11 @@
           "country": "Slovakia",
           "profile": "balanced",
           "preferred_formation": "4-3-3",
-          "pressing_intensity": 0.5000602376747614,
+          "pressing_intensity": 0.5070754521555032,
           "defensive_line": "mid",
           "top_styles": [
             "low_block",
-            "wing_play"
+            "park_the_bus"
           ]
         },
         "away_coach": {
@@ -26242,11 +26427,11 @@
           "country": "Slovakia",
           "profile": "balanced",
           "preferred_formation": "4-3-3",
-          "pressing_intensity": null,
-          "defensive_line": "",
+          "pressing_intensity": 0.3932251069070412,
+          "defensive_line": "low",
           "top_styles": [
-            "terrorist_fb",
-            "anti_football"
+            "park_the_bus",
+            "terrorist_fb"
           ]
         },
         "unavailable_players": {
@@ -26637,7 +26822,7 @@
             "country": "Portugal",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.2535188258882586,
+            "pressing_intensity": 0.2628683764175227,
             "defensive_line": "mid",
             "top_styles": [
               "terrorist_fb",
@@ -26651,11 +26836,11 @@
             "country": "Germany",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.657735292394767,
+            "pressing_intensity": 0.6361141960137597,
             "defensive_line": "mid",
             "top_styles": [
               "tiki_taka",
-              "gegenpressing"
+              "wing_play"
             ]
           },
           "unavailable_players": {
@@ -26853,7 +27038,7 @@
           "country": "Portugal",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.2535188258882586,
+          "pressing_intensity": 0.2628683764175227,
           "defensive_line": "mid",
           "top_styles": [
             "terrorist_fb",
@@ -26867,11 +27052,11 @@
           "country": "Germany",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.657735292394767,
+          "pressing_intensity": 0.6361141960137597,
           "defensive_line": "mid",
           "top_styles": [
             "tiki_taka",
-            "gegenpressing"
+            "wing_play"
           ]
         },
         "unavailable_players": {
@@ -27290,7 +27475,7 @@
             "country": "Italy",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.5418918224691641,
+            "pressing_intensity": 0.5355317037932978,
             "defensive_line": "mid",
             "top_styles": [
               "wing_play",
@@ -27461,7 +27646,7 @@
           "country": "Italy",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.5418918224691641,
+          "pressing_intensity": 0.5355317037932978,
           "defensive_line": "mid",
           "top_styles": [
             "wing_play",
@@ -27825,7 +28010,7 @@
             "name": "Robert Klauss",
             "short_name": "R. Klauss",
             "country": "Germany",
-            "profile": "defensive",
+            "profile": "balanced",
             "preferred_formation": "4-2-3-1",
             "pressing_intensity": null,
             "defensive_line": "",
@@ -27838,11 +28023,11 @@
             "country": "Netherlands",
             "profile": "attacking",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.5638591303889177,
+            "pressing_intensity": 0.5607721488829519,
             "defensive_line": "mid",
             "top_styles": [
-              "false_9",
-              "gegenpressing"
+              "chaos_football",
+              "false_9"
             ]
           },
           "unavailable_players": null,
@@ -27997,7 +28182,7 @@
           "name": "Robert Klauss",
           "short_name": "R. Klauss",
           "country": "Germany",
-          "profile": "defensive",
+          "profile": "balanced",
           "preferred_formation": "4-2-3-1",
           "pressing_intensity": null,
           "defensive_line": "",
@@ -28010,11 +28195,11 @@
           "country": "Netherlands",
           "profile": "attacking",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.5638591303889177,
+          "pressing_intensity": 0.5607721488829519,
           "defensive_line": "mid",
           "top_styles": [
-            "false_9",
-            "gegenpressing"
+            "chaos_football",
+            "false_9"
           ]
         },
         "unavailable_players": null,
@@ -28346,9 +28531,9 @@
             "short_name": "M. Tullberg",
             "country": "Denmark",
             "profile": "attacking",
-            "preferred_formation": "3-4-2-1",
-            "pressing_intensity": 0.768242639206373,
-            "defensive_line": "low",
+            "preferred_formation": "4-4-2",
+            "pressing_intensity": 0.7483617214251257,
+            "defensive_line": "mid",
             "top_styles": [
               "gegenpressing",
               "man_press"
@@ -28359,7 +28544,7 @@
             "name": "Alan Reynolds",
             "short_name": "A. Reynolds",
             "country": "Ireland",
-            "profile": "attacking",
+            "profile": "balanced",
             "preferred_formation": "4-3-3",
             "pressing_intensity": null,
             "defensive_line": "",
@@ -28547,9 +28732,9 @@
           "short_name": "M. Tullberg",
           "country": "Denmark",
           "profile": "attacking",
-          "preferred_formation": "3-4-2-1",
-          "pressing_intensity": 0.768242639206373,
-          "defensive_line": "low",
+          "preferred_formation": "4-4-2",
+          "pressing_intensity": 0.7483617214251257,
+          "defensive_line": "mid",
           "top_styles": [
             "gegenpressing",
             "man_press"
@@ -28560,7 +28745,7 @@
           "name": "Alan Reynolds",
           "short_name": "A. Reynolds",
           "country": "Ireland",
-          "profile": "attacking",
+          "profile": "balanced",
           "preferred_formation": "4-3-3",
           "pressing_intensity": null,
           "defensive_line": "",
@@ -28975,7 +29160,7 @@
             "country": "Spain",
             "profile": "attacking",
             "preferred_formation": "3-4-2-1",
-            "pressing_intensity": 0.4973726260048101,
+            "pressing_intensity": 0.5056930587276782,
             "defensive_line": "low",
             "top_styles": [
               "tiki_taka",
@@ -29153,7 +29338,7 @@
           "country": "Spain",
           "profile": "attacking",
           "preferred_formation": "3-4-2-1",
-          "pressing_intensity": 0.4973726260048101,
+          "pressing_intensity": 0.5056930587276782,
           "defensive_line": "low",
           "top_styles": [
             "tiki_taka",
@@ -29505,8 +29690,8 @@
             "country": "Denmark",
             "profile": "balanced",
             "preferred_formation": "4-3-3",
-            "pressing_intensity": 0.5377364648782121,
-            "defensive_line": "low",
+            "pressing_intensity": 0.5171458245405304,
+            "defensive_line": "mid",
             "top_styles": [
               "tiki_taka",
               "inverted_fb"
@@ -29517,8 +29702,8 @@
             "name": "Christopher Brazell",
             "short_name": "C. Brazell",
             "country": "England",
-            "profile": "",
-            "preferred_formation": "",
+            "profile": "balanced",
+            "preferred_formation": "4-2-3-1",
             "pressing_intensity": null,
             "defensive_line": "",
             "top_styles": []
@@ -29677,8 +29862,8 @@
           "country": "Denmark",
           "profile": "balanced",
           "preferred_formation": "4-3-3",
-          "pressing_intensity": 0.5377364648782121,
-          "defensive_line": "low",
+          "pressing_intensity": 0.5171458245405304,
+          "defensive_line": "mid",
           "top_styles": [
             "tiki_taka",
             "inverted_fb"
@@ -29689,8 +29874,8 @@
           "name": "Christopher Brazell",
           "short_name": "C. Brazell",
           "country": "England",
-          "profile": "",
-          "preferred_formation": "",
+          "profile": "balanced",
+          "preferred_formation": "4-2-3-1",
           "pressing_intensity": null,
           "defensive_line": "",
           "top_styles": []
@@ -29810,7 +29995,7 @@
           },
           "preferred_formation": "4-3-3",
           "formations_used": {
-            "3-4-3": 7,
+            "3-4-3": 8,
             "3-5-2": 4,
             "4-3-3": 118,
             "5-3-2": 2,
@@ -29822,8 +30007,8 @@
           },
           "profile": "balanced",
           "team_style": "neutral",
-          "pressing_intensity": 0.5377364648782121,
-          "defensive_line": "low",
+          "pressing_intensity": 0.5171458245405304,
+          "defensive_line": "mid",
           "tactical_styles": [
             {
               "rank": 1,
@@ -29832,7 +30017,7 @@
               "category": "possession",
               "emoji": "🎨",
               "description": "Short passing, domination via possession",
-              "score": 0.123
+              "score": 0.108
             },
             {
               "rank": 2,
@@ -29841,50 +30026,50 @@
               "category": "possession",
               "emoji": "↩",
               "description": "Fullbacks step into midfield to overload centre",
-              "score": 0.121
+              "score": 0.101
             },
             {
               "rank": 3,
+              "code": "chaos_ball",
+              "name": "Chaos Ball",
+              "category": "fan",
+              "emoji": "🎲",
+              "description": "Embrace pure randomness, anything can happen",
+              "score": 0.101
+            },
+            {
+              "rank": 4,
               "code": "false_9",
               "name": "False 9 System",
               "category": "possession",
               "emoji": "🎩",
               "description": "No fixed striker — central creator drops deep",
-              "score": 0.095
-            },
-            {
-              "rank": 4,
-              "code": "positional",
-              "name": "Positional Play",
-              "category": "possession",
-              "emoji": "♟",
-              "description": "Zone occupation and overloads",
-              "score": 0.067
+              "score": 0.081
             }
           ],
-          "matches_total": 175,
-          "wins": 72,
+          "matches_total": 176,
+          "wins": 73,
           "draws": 49,
           "losses": 54,
-          "win_pct": 41.1,
-          "avg_goals_scored": 1.58,
-          "avg_goals_conceded": 1.36,
-          "avg_possession": 58.56,
-          "avg_shots": 15.06,
-          "avg_shots_on_target": 5.56,
-          "avg_xg_for": 1.87,
-          "avg_xg_against": 1.49,
-          "avg_corners": 5.1,
+          "win_pct": 41.5,
+          "avg_goals_scored": 1.59,
+          "avg_goals_conceded": 1.35,
+          "avg_possession": 58.29,
+          "avg_shots": 14.95,
+          "avg_shots_on_target": 5.52,
+          "avg_xg_for": 1.75,
+          "avg_xg_against": 1.46,
+          "avg_corners": 5.17,
           "avg_yellow_cards": 1.64,
           "avg_red_cards": 0.05,
-          "avg_fouls": 12.78,
-          "clean_sheet_pct": 22.9,
-          "btts_pct": 59.4,
-          "over_25_pct": 52,
-          "over_15_pct": 79.4,
-          "fail_to_score_pct": 24.6,
+          "avg_fouls": 12.76,
+          "clean_sheet_pct": 23.3,
+          "btts_pct": 59.1,
+          "over_25_pct": 51.7,
+          "over_15_pct": 79.5,
+          "fail_to_score_pct": 24.4,
           "avg_goals_scored_1h": 0.76,
-          "avg_goals_conceded_1h": 0.62
+          "avg_goals_conceded_1h": 0.61
         },
         "away": {
           "id": 2969,
@@ -29895,36 +30080,40 @@
             "id": 4844,
             "name": "Valur Reykjavík"
           },
-          "preferred_formation": "",
-          "formations_used": null,
-          "profile": "",
-          "team_style": "",
+          "preferred_formation": "4-2-3-1",
+          "formations_used": {
+            "5-4-1": 1,
+            "4-2-3-1": 1,
+            "4-4-1-1": 1
+          },
+          "profile": "balanced",
+          "team_style": "soft",
           "pressing_intensity": null,
           "defensive_line": "",
           "tactical_styles": [],
-          "matches_total": 0,
-          "wins": 0,
-          "draws": 0,
-          "losses": 0,
-          "win_pct": null,
-          "avg_goals_scored": null,
-          "avg_goals_conceded": null,
-          "avg_possession": null,
-          "avg_shots": null,
-          "avg_shots_on_target": null,
-          "avg_xg_for": null,
-          "avg_xg_against": null,
-          "avg_corners": null,
-          "avg_yellow_cards": null,
-          "avg_red_cards": null,
-          "avg_fouls": null,
-          "clean_sheet_pct": null,
-          "btts_pct": null,
-          "over_25_pct": null,
-          "over_15_pct": null,
-          "fail_to_score_pct": null,
-          "avg_goals_scored_1h": null,
-          "avg_goals_conceded_1h": null
+          "matches_total": 3,
+          "wins": 1,
+          "draws": 1,
+          "losses": 1,
+          "win_pct": 33.3,
+          "avg_goals_scored": 1,
+          "avg_goals_conceded": 1.33,
+          "avg_possession": 35,
+          "avg_shots": 6,
+          "avg_shots_on_target": 2,
+          "avg_xg_for": 0,
+          "avg_xg_against": 0,
+          "avg_corners": 3,
+          "avg_yellow_cards": 1.33,
+          "avg_red_cards": 0,
+          "avg_fouls": 6,
+          "clean_sheet_pct": 33.3,
+          "btts_pct": 33.3,
+          "over_25_pct": 33.3,
+          "over_15_pct": 66.7,
+          "fail_to_score_pct": 33.3,
+          "avg_goals_scored_1h": 0.67,
+          "avg_goals_conceded_1h": 0.67
         }
       }
     },
@@ -30511,7 +30700,7 @@
             "country": "Norway",
             "profile": "attacking",
             "preferred_formation": "5-3-2",
-            "pressing_intensity": 0.34755704294740297,
+            "pressing_intensity": 0.3521186514185329,
             "defensive_line": "mid",
             "top_styles": [
               "chaos_ball",
@@ -30523,11 +30712,14 @@
             "name": "Antonio Folha",
             "short_name": "A. Folha",
             "country": "Portugal",
-            "profile": "attacking",
+            "profile": "balanced",
             "preferred_formation": "4-3-3",
-            "pressing_intensity": null,
-            "defensive_line": "",
-            "top_styles": []
+            "pressing_intensity": 0.4844107429159141,
+            "defensive_line": "high",
+            "top_styles": [
+              "chaos_ball",
+              "chaos_football"
+            ]
           },
           "unavailable_players": {
             "home": [
@@ -30536,18 +30728,6 @@
                 "status": "injured",
                 "reason": "Unknown",
                 "expected_return": "2026-08-10"
-              },
-              {
-                "name": "Jens Hjertø-Dahl",
-                "status": "doubtful",
-                "reason": "Groin Injury",
-                "expected_return": "2026-08-23"
-              },
-              {
-                "name": "Leo Cornic",
-                "status": "injured",
-                "reason": "Thigh Injury",
-                "expected_return": "2026-08-31"
               }
             ],
             "away": []
@@ -30705,7 +30885,7 @@
           "country": "Norway",
           "profile": "attacking",
           "preferred_formation": "5-3-2",
-          "pressing_intensity": 0.34755704294740297,
+          "pressing_intensity": 0.3521186514185329,
           "defensive_line": "mid",
           "top_styles": [
             "chaos_ball",
@@ -30717,11 +30897,14 @@
           "name": "Antonio Folha",
           "short_name": "A. Folha",
           "country": "Portugal",
-          "profile": "attacking",
+          "profile": "balanced",
           "preferred_formation": "4-3-3",
-          "pressing_intensity": null,
-          "defensive_line": "",
-          "top_styles": []
+          "pressing_intensity": 0.4844107429159141,
+          "defensive_line": "high",
+          "top_styles": [
+            "chaos_ball",
+            "chaos_football"
+          ]
         },
         "unavailable_players": {
           "home": [
@@ -30730,18 +30913,6 @@
               "status": "injured",
               "reason": "Unknown",
               "expected_return": "2026-08-10"
-            },
-            {
-              "name": "Jens Hjertø-Dahl",
-              "status": "doubtful",
-              "reason": "Groin Injury",
-              "expected_return": "2026-08-23"
-            },
-            {
-              "name": "Leo Cornic",
-              "status": "injured",
-              "reason": "Thigh Injury",
-              "expected_return": "2026-08-31"
             }
           ],
           "away": []
@@ -30973,6 +31144,622 @@
           "fail_to_score_pct": 15.4,
           "avg_goals_scored_1h": 0.58,
           "avg_goals_conceded_1h": 0.83
+        }
+      }
+    },
+    {
+      "event_id": 223410,
+      "prediction": {
+        "id": 828,
+        "event": {
+          "id": 223410,
+          "league": {
+            "id": 83,
+            "name": "Conference League",
+            "country": "Europe",
+            "is_women": false,
+            "current_season": {
+              "id": 1606,
+              "name": "UEFA Conference League 26/27",
+              "year": 2026,
+              "start_date": "2026-07-01",
+              "end_date": "2027-06-30"
+            }
+          },
+          "season": {
+            "id": 1606,
+            "name": "UEFA Conference League 26/27",
+            "year": 2026
+          },
+          "home_team": "Hammarby IF",
+          "away_team": "Raków Częstochowa",
+          "home_team_obj": {
+            "id": 438,
+            "name": "Hammarby IF",
+            "short_name": "Hammarby",
+            "country": "Sweden",
+            "coach": {
+              "name": "Henrik Rydstrom",
+              "shortName": "H. Rydstrom"
+            },
+            "venue": null
+          },
+          "away_team_obj": {
+            "id": 428,
+            "name": "Raków Częstochowa",
+            "short_name": "Raków",
+            "country": "Poland",
+            "coach": {
+              "name": "Dawid Kroczek",
+              "shortName": "D. Kroczek"
+            },
+            "venue": {
+              "id": 409,
+              "name": "Miejski Stadion Piłkarski Raków w Częstochowie",
+              "city": "Czestochowa",
+              "country": "Poland",
+              "capacity": 5500
+            }
+          },
+          "event_date": "2026-08-13T17:00:00Z",
+          "round_number": 3,
+          "round_name": "Qualification Round 3",
+          "group_name": null,
+          "status": "notstarted",
+          "home_score": null,
+          "away_score": null,
+          "home_score_ht": null,
+          "away_score_ht": null,
+          "current_minute": null,
+          "period": "",
+          "odds_home": 1.76,
+          "odds_draw": 3.48,
+          "odds_away": 4.39,
+          "odds_over_15": 1.26,
+          "odds_over_25": 1.85,
+          "odds_over_35": 3.02,
+          "odds_under_15": 3.55,
+          "odds_under_25": 1.89,
+          "odds_under_35": 1.34,
+          "odds_btts_yes": 1.75,
+          "odds_btts_no": 1.96,
+          "actual_home_xg": null,
+          "actual_away_xg": null,
+          "home_xg_live": null,
+          "away_xg_live": null,
+          "penalty_shootout": null,
+          "extra_time_score": null,
+          "is_local_derby": null,
+          "is_neutral_ground": null,
+          "travel_distance_km": null,
+          "weather_code": 0,
+          "wind_speed": 15.4,
+          "temperature_c": 23,
+          "pitch_condition": null,
+          "attendance": null,
+          "referee": null,
+          "home_coach": {
+            "id": 334,
+            "name": "Henrik Rydstrom",
+            "short_name": "H. Rydstrom",
+            "country": "Sweden",
+            "profile": "attacking",
+            "preferred_formation": "4-2-3-1",
+            "pressing_intensity": 0.4204555577338444,
+            "defensive_line": "mid",
+            "top_styles": [
+              "positional",
+              "inverted_fb"
+            ]
+          },
+          "away_coach": {
+            "id": 1443,
+            "name": "Dawid Kroczek",
+            "short_name": "D. Kroczek",
+            "country": "Poland",
+            "profile": "attacking",
+            "preferred_formation": "3-4-3",
+            "pressing_intensity": 0.4428483291197363,
+            "defensive_line": "mid",
+            "top_styles": [
+              "park_the_bus",
+              "low_block"
+            ]
+          },
+          "unavailable_players": {
+            "home": [
+              {
+                "name": "Amin Boudri",
+                "status": "injured",
+                "reason": "Leg Injury",
+                "expected_return": "2026-08-20"
+              },
+              {
+                "name": "Sourou Koné",
+                "status": "injured",
+                "reason": "Knee Injury",
+                "expected_return": "2026-09-10"
+              }
+            ],
+            "away": [
+              {
+                "name": "Karol Struski",
+                "status": "injured",
+                "reason": "Ligament Injury",
+                "expected_return": "2026-08-20"
+              },
+              {
+                "name": "Stratos Svarnas",
+                "status": "doubtful",
+                "reason": "Muscle Injury",
+                "expected_return": "2026-08-11"
+              }
+            ]
+          },
+          "venue": {
+            "id": 416,
+            "name": "3Arena",
+            "city": "Stockholm",
+            "country": "Sweden",
+            "capacity": 32000,
+            "latitude": 59.29323,
+            "longitude": 18.083299,
+            "pitch_x": 105,
+            "pitch_y": 68,
+            "built_year": 2013
+          },
+          "incidents": null,
+          "live_stats": null,
+          "lineups": null,
+          "shotmap": null,
+          "momentum": null,
+          "xg_per_minute": null,
+          "average_positions": null,
+          "jerseys": null,
+          "funfacts": null,
+          "sr_stats": null,
+          "ai_preview": null,
+          "live_websocket": false
+        },
+        "created_at": "2026-08-07T02:15:20.840651+00:00",
+        "prob_home_win": 52.4,
+        "prob_draw": 26.5,
+        "prob_away_win": 21,
+        "predicted_result": "H",
+        "expected_home_goals": 1.645,
+        "expected_away_goals": 1.093,
+        "prob_over_15": 73.9,
+        "prob_over_25": 50.6,
+        "prob_over_35": 30.3,
+        "prob_btts_yes": 52.8,
+        "confidence": 0.5245,
+        "model_version": "dc-blend-v1",
+        "most_likely_score": "1-1",
+        "favorite": "H",
+        "favorite_prob": 52.4,
+        "favorite_recommend": false,
+        "over_15_recommend": false,
+        "over_25_recommend": false,
+        "over_35_recommend": false,
+        "btts_recommend": false,
+        "winner_recommend": false
+      },
+      "event_detail": {
+        "id": 223410,
+        "league": {
+          "id": 83,
+          "name": "Conference League",
+          "country": "Europe",
+          "is_women": false,
+          "current_season": {
+            "id": 1606,
+            "name": "UEFA Conference League 26/27",
+            "year": 2026,
+            "start_date": "2026-07-01",
+            "end_date": "2027-06-30"
+          }
+        },
+        "season": {
+          "id": 1606,
+          "name": "UEFA Conference League 26/27",
+          "year": 2026
+        },
+        "home_team": "Hammarby IF",
+        "away_team": "Raków Częstochowa",
+        "home_team_obj": {
+          "id": 438,
+          "name": "Hammarby IF",
+          "short_name": "Hammarby",
+          "country": "Sweden",
+          "coach": {
+            "name": "Henrik Rydstrom",
+            "shortName": "H. Rydstrom"
+          },
+          "venue": null
+        },
+        "away_team_obj": {
+          "id": 428,
+          "name": "Raków Częstochowa",
+          "short_name": "Raków",
+          "country": "Poland",
+          "coach": {
+            "name": "Dawid Kroczek",
+            "shortName": "D. Kroczek"
+          },
+          "venue": {
+            "id": 409,
+            "name": "Miejski Stadion Piłkarski Raków w Częstochowie",
+            "city": "Czestochowa",
+            "country": "Poland",
+            "capacity": 5500
+          }
+        },
+        "event_date": "2026-08-13T20:00:00+03:00",
+        "round_number": 3,
+        "round_name": "Qualification Round 3",
+        "group_name": null,
+        "status": "notstarted",
+        "home_score": null,
+        "away_score": null,
+        "home_score_ht": null,
+        "away_score_ht": null,
+        "current_minute": null,
+        "period": "",
+        "odds_home": 1.76,
+        "odds_draw": 3.48,
+        "odds_away": 4.39,
+        "odds_over_15": 1.26,
+        "odds_over_25": 1.85,
+        "odds_over_35": 3.02,
+        "odds_under_15": 3.55,
+        "odds_under_25": 1.89,
+        "odds_under_35": 1.34,
+        "odds_btts_yes": 1.75,
+        "odds_btts_no": 1.96,
+        "actual_home_xg": null,
+        "actual_away_xg": null,
+        "home_xg_live": null,
+        "away_xg_live": null,
+        "penalty_shootout": null,
+        "extra_time_score": null,
+        "is_local_derby": null,
+        "is_neutral_ground": null,
+        "travel_distance_km": null,
+        "weather_code": 0,
+        "wind_speed": 15.4,
+        "temperature_c": 23,
+        "pitch_condition": null,
+        "attendance": null,
+        "referee": null,
+        "home_coach": {
+          "id": 334,
+          "name": "Henrik Rydstrom",
+          "short_name": "H. Rydstrom",
+          "country": "Sweden",
+          "profile": "attacking",
+          "preferred_formation": "4-2-3-1",
+          "pressing_intensity": 0.4204555577338444,
+          "defensive_line": "mid",
+          "top_styles": [
+            "positional",
+            "inverted_fb"
+          ]
+        },
+        "away_coach": {
+          "id": 1443,
+          "name": "Dawid Kroczek",
+          "short_name": "D. Kroczek",
+          "country": "Poland",
+          "profile": "attacking",
+          "preferred_formation": "3-4-3",
+          "pressing_intensity": 0.4428483291197363,
+          "defensive_line": "mid",
+          "top_styles": [
+            "park_the_bus",
+            "low_block"
+          ]
+        },
+        "unavailable_players": {
+          "home": [
+            {
+              "name": "Amin Boudri",
+              "status": "injured",
+              "reason": "Leg Injury",
+              "expected_return": "2026-08-20"
+            },
+            {
+              "name": "Sourou Koné",
+              "status": "injured",
+              "reason": "Knee Injury",
+              "expected_return": "2026-09-10"
+            }
+          ],
+          "away": [
+            {
+              "name": "Karol Struski",
+              "status": "injured",
+              "reason": "Ligament Injury",
+              "expected_return": "2026-08-20"
+            },
+            {
+              "name": "Stratos Svarnas",
+              "status": "doubtful",
+              "reason": "Muscle Injury",
+              "expected_return": "2026-08-11"
+            }
+          ]
+        },
+        "venue": {
+          "id": 416,
+          "name": "3Arena",
+          "city": "Stockholm",
+          "country": "Sweden",
+          "capacity": 32000,
+          "latitude": 59.29323,
+          "longitude": 18.083299,
+          "pitch_x": 105,
+          "pitch_y": 68,
+          "built_year": 2013
+        },
+        "live_stats": null,
+        "jerseys": null,
+        "funfacts": null,
+        "sr_stats": null,
+        "ai_preview": null,
+        "live_websocket": false,
+        "home_form": {
+          "calculated_at": "2026-08-10",
+          "matches_played": 5,
+          "form_string": "DLDWD",
+          "wins": 1,
+          "draws": 3,
+          "losses": 1,
+          "points_last_n": 6,
+          "goals_scored_last_n": 2,
+          "goals_conceded_last_n": 2,
+          "avg_xg": 0.4,
+          "avg_xg_conceded": 0.4,
+          "avg_shots": 0,
+          "avg_shots_on_target": 0,
+          "avg_key_passes": 0,
+          "goal_conversion_rate": 0,
+          "defensive_efficiency": 0,
+          "clean_sheets": 3,
+          "avg_pass_accuracy": 0,
+          "duel_win_rate": 0,
+          "aerial_win_rate": 0,
+          "avg_fouls": 0,
+          "avg_yellow_cards": 2.6,
+          "home_ppg": 1.6,
+          "away_ppg": 1,
+          "home_goals_scored": 9,
+          "home_goals_conceded": 4,
+          "away_goals_scored": 3,
+          "away_goals_conceded": 5,
+          "avg_team_rating": 0
+        },
+        "away_form": {
+          "calculated_at": "2026-08-10",
+          "matches_played": 5,
+          "form_string": "DWWLL",
+          "wins": 2,
+          "draws": 1,
+          "losses": 2,
+          "points_last_n": 7,
+          "goals_scored_last_n": 9,
+          "goals_conceded_last_n": 5,
+          "avg_xg": 0.27328,
+          "avg_xg_conceded": 0.82244,
+          "avg_shots": 4.2,
+          "avg_shots_on_target": 1,
+          "avg_key_passes": 3.2,
+          "goal_conversion_rate": 6.586651053864168,
+          "defensive_efficiency": -0.21589416857156762,
+          "clean_sheets": 2,
+          "avg_pass_accuracy": 79.38783553622454,
+          "duel_win_rate": 0.45410628019323673,
+          "aerial_win_rate": 0.45121951219512196,
+          "avg_fouls": 4.8,
+          "avg_yellow_cards": 1.6,
+          "home_ppg": 2,
+          "away_ppg": 1.6,
+          "home_goals_scored": 9,
+          "home_goals_conceded": 4,
+          "away_goals_scored": 7,
+          "away_goals_conceded": 3,
+          "avg_team_rating": 6.710416666666666
+        },
+        "head_to_head": {
+          "total_matches": 1,
+          "home_wins": 0,
+          "draws": 1,
+          "away_wins": 0,
+          "home_goals": 0,
+          "away_goals": 0,
+          "avg_total_goals": 0,
+          "home_win_rate": 0,
+          "away_win_rate": 0,
+          "recent_matches": [
+            {
+              "away": "Hammarby IF",
+              "date": "2026-08-06T17:00:00+00:00",
+              "home": "Raków Częstochowa",
+              "score": "0-0"
+            }
+          ]
+        },
+        "lineups": null,
+        "social": []
+      },
+      "managers": {
+        "home": {
+          "id": 334,
+          "name": "Henrik Rydstrom",
+          "short_name": "H. Rydstrom",
+          "country": "Sweden",
+          "current_team": {
+            "id": 438,
+            "name": "Hammarby IF"
+          },
+          "preferred_formation": "4-2-3-1",
+          "formations_used": {
+            "3-4-3": 3,
+            "4-3-3": 3,
+            "5-3-2": 1,
+            "5-4-1": 1,
+            "3-1-4-2": 1,
+            "3-4-1-2": 1,
+            "3-4-2-1": 10,
+            "3-5-1-1": 2,
+            "4-2-3-1": 11
+          },
+          "profile": "attacking",
+          "team_style": "soft",
+          "pressing_intensity": 0.4204555577338444,
+          "defensive_line": "mid",
+          "tactical_styles": [
+            {
+              "rank": 1,
+              "code": "positional",
+              "name": "Positional Play",
+              "category": "possession",
+              "emoji": "♟",
+              "description": "Zone occupation and overloads",
+              "score": 0.116
+            },
+            {
+              "rank": 2,
+              "code": "inverted_fb",
+              "name": "Inverted Fullbacks",
+              "category": "possession",
+              "emoji": "↩",
+              "description": "Fullbacks step into midfield to overload centre",
+              "score": 0.097
+            },
+            {
+              "rank": 3,
+              "code": "tiki_taka",
+              "name": "Tiki-Taka",
+              "category": "possession",
+              "emoji": "🎨",
+              "description": "Short passing, domination via possession",
+              "score": 0.091
+            },
+            {
+              "rank": 4,
+              "code": "false_9",
+              "name": "False 9 System",
+              "category": "possession",
+              "emoji": "🎩",
+              "description": "No fixed striker — central creator drops deep",
+              "score": 0.085
+            }
+          ],
+          "matches_total": 33,
+          "wins": 16,
+          "draws": 12,
+          "losses": 5,
+          "win_pct": 48.5,
+          "avg_goals_scored": 1.76,
+          "avg_goals_conceded": 1.21,
+          "avg_possession": 57.42,
+          "avg_shots": 13.28,
+          "avg_shots_on_target": 5.04,
+          "avg_xg_for": 1.48,
+          "avg_xg_against": 1.19,
+          "avg_corners": 5.11,
+          "avg_yellow_cards": 1.18,
+          "avg_red_cards": 0,
+          "avg_fouls": 10.63,
+          "clean_sheet_pct": 27.3,
+          "btts_pct": 66.7,
+          "over_25_pct": 54.5,
+          "over_15_pct": 78.8,
+          "fail_to_score_pct": 18.2,
+          "avg_goals_scored_1h": 0.94,
+          "avg_goals_conceded_1h": 0.61
+        },
+        "away": {
+          "id": 1443,
+          "name": "Dawid Kroczek",
+          "short_name": "D. Kroczek",
+          "country": "Poland",
+          "current_team": {
+            "id": 428,
+            "name": "Raków Częstochowa"
+          },
+          "preferred_formation": "3-4-3",
+          "formations_used": {
+            "3-4-3": 36,
+            "3-5-2": 1,
+            "3-4-1-2": 2,
+            "3-4-2-1": 14
+          },
+          "profile": "attacking",
+          "team_style": "soft",
+          "pressing_intensity": 0.4428483291197363,
+          "defensive_line": "mid",
+          "tactical_styles": [
+            {
+              "rank": 1,
+              "code": "park_the_bus",
+              "name": "Park the Bus",
+              "category": "defensive",
+              "emoji": "🚌",
+              "description": "Ultra-deep defense, minimal attacking intent",
+              "score": 0.056
+            },
+            {
+              "rank": 2,
+              "code": "low_block",
+              "name": "Low Block",
+              "category": "defensive",
+              "emoji": "🛡",
+              "description": "Compact defensive shape near own box",
+              "score": 0.055
+            },
+            {
+              "rank": 3,
+              "code": "low_counter",
+              "name": "Low Block Counter",
+              "category": "counter",
+              "emoji": "🏹",
+              "description": "Deep defense with rapid forward outlets",
+              "score": 0.054
+            },
+            {
+              "rank": 4,
+              "code": "wing_play",
+              "name": "Wing Play",
+              "category": "wide",
+              "emoji": "🪽",
+              "description": "Attacks focused through wide areas",
+              "score": 0.054
+            }
+          ],
+          "matches_total": 56,
+          "wins": 26,
+          "draws": 14,
+          "losses": 16,
+          "win_pct": 46.4,
+          "avg_goals_scored": 1.71,
+          "avg_goals_conceded": 1.23,
+          "avg_possession": 46.11,
+          "avg_shots": 13.84,
+          "avg_shots_on_target": 4.77,
+          "avg_xg_for": 1.6,
+          "avg_xg_against": 1.25,
+          "avg_corners": 3.98,
+          "avg_yellow_cards": 1.34,
+          "avg_red_cards": 0.05,
+          "avg_fouls": 11.09,
+          "clean_sheet_pct": 26.8,
+          "btts_pct": 62.5,
+          "over_25_pct": 55.4,
+          "over_15_pct": 83.9,
+          "fail_to_score_pct": 16.1,
+          "avg_goals_scored_1h": 0.77,
+          "avg_goals_conceded_1h": 0.52
         }
       }
     }
