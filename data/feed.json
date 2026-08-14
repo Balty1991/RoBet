@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T05:56:45.563Z",
+  "generated_at": "2026-08-14T07:41:41.452Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -10,7 +10,7 @@
   "summary": {
     "total_matches": 50,
     "total_leagues": 26,
-    "average_confidence": 0.5228119999999999,
+    "average_confidence": 0.522798,
     "favorite_recommend": 0,
     "over_15_recommend": 0,
     "over_25_recommend": 0,
@@ -81,14 +81,14 @@
           "odds_home": 2.27,
           "odds_draw": 3.56,
           "odds_away": 2.56,
-          "odds_over_15": 1.09,
+          "odds_over_15": 1.08,
           "odds_over_25": 1.35,
-          "odds_over_35": 1.88,
-          "odds_under_15": 6.02,
-          "odds_under_25": 2.86,
-          "odds_under_35": 1.79,
+          "odds_over_35": 1.89,
+          "odds_under_15": 6.03,
+          "odds_under_25": 2.83,
+          "odds_under_35": 1.78,
           "odds_btts_yes": 1.33,
-          "odds_btts_no": 2.94,
+          "odds_btts_no": 2.93,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -156,7 +156,7 @@
         "prob_away_win": 35.1,
         "predicted_result": "H",
         "expected_home_goals": 2.045,
-        "expected_away_goals": 1.382,
+        "expected_away_goals": 1.38,
         "prob_over_15": 84.6,
         "prob_over_25": 67.6,
         "prob_over_35": 47.5,
@@ -231,14 +231,14 @@
         "odds_home": 2.27,
         "odds_draw": 3.56,
         "odds_away": 2.56,
-        "odds_over_15": 1.09,
+        "odds_over_15": 1.08,
         "odds_over_25": 1.35,
-        "odds_over_35": 1.88,
-        "odds_under_15": 6.02,
-        "odds_under_25": 2.86,
-        "odds_under_35": 1.79,
+        "odds_over_35": 1.89,
+        "odds_under_15": 6.03,
+        "odds_under_25": 2.83,
+        "odds_under_35": 1.78,
         "odds_btts_yes": 1.33,
-        "odds_btts_no": 2.94,
+        "odds_btts_no": 2.93,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -623,17 +623,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.63,
-          "odds_draw": 4.18,
-          "odds_away": 3.94,
+          "odds_home": 1.74,
+          "odds_draw": 4,
+          "odds_away": 3.56,
           "odds_over_15": 1.06,
-          "odds_over_25": 1.27,
-          "odds_over_35": 1.72,
-          "odds_under_15": 7.13,
-          "odds_under_25": 3.25,
+          "odds_over_25": 1.28,
+          "odds_over_35": 1.73,
+          "odds_under_15": 7.09,
+          "odds_under_25": 3.23,
           "odds_under_35": 1.96,
-          "odds_btts_yes": 1.32,
-          "odds_btts_no": 2.99,
+          "odds_btts_yes": 1.31,
+          "odds_btts_no": 3.09,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -757,17 +757,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.63,
-        "odds_draw": 4.18,
-        "odds_away": 3.94,
+        "odds_home": 1.74,
+        "odds_draw": 4,
+        "odds_away": 3.56,
         "odds_over_15": 1.06,
-        "odds_over_25": 1.27,
-        "odds_over_35": 1.72,
-        "odds_under_15": 7.13,
-        "odds_under_25": 3.25,
+        "odds_over_25": 1.28,
+        "odds_over_35": 1.73,
+        "odds_under_15": 7.09,
+        "odds_under_25": 3.23,
         "odds_under_35": 1.96,
-        "odds_btts_yes": 1.32,
-        "odds_btts_no": 2.99,
+        "odds_btts_yes": 1.31,
+        "odds_btts_no": 3.09,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -982,6 +982,476 @@
       }
     },
     {
+      "event_id": 210051,
+      "prediction": {
+        "id": 892,
+        "event": {
+          "id": 210051,
+          "league": {
+            "id": 70,
+            "name": "NPL Queensland",
+            "country": "Australia",
+            "is_women": false,
+            "current_season": {
+              "id": 1312,
+              "name": "Queensland NPL 2026",
+              "year": 2026,
+              "start_date": "2026-01-01",
+              "end_date": "2026-12-31"
+            }
+          },
+          "season": {
+            "id": 1312,
+            "name": "Queensland NPL 2026",
+            "year": 2026
+          },
+          "home_team": "Brisbane Roar Youth",
+          "away_team": "Gold Coast Knights",
+          "home_team_obj": {
+            "id": 3835,
+            "name": "Brisbane Roar Youth",
+            "short_name": "Brisbane Roar Youth",
+            "country": "Australia",
+            "coach": null,
+            "venue": null
+          },
+          "away_team_obj": {
+            "id": 3108,
+            "name": "Gold Coast Knights",
+            "short_name": "",
+            "country": "Australia",
+            "coach": {
+              "name": "David Abela",
+              "shortName": "D. Abela"
+            },
+            "venue": null
+          },
+          "event_date": "2026-08-14T09:30:00Z",
+          "round_number": 22,
+          "round_name": "",
+          "group_name": null,
+          "status": "notstarted",
+          "home_score": null,
+          "away_score": null,
+          "home_score_ht": null,
+          "away_score_ht": null,
+          "current_minute": null,
+          "period": "",
+          "odds_home": 3.34,
+          "odds_draw": 3.95,
+          "odds_away": 1.81,
+          "odds_over_15": 1.08,
+          "odds_over_25": 1.34,
+          "odds_over_35": 1.88,
+          "odds_under_15": 6.12,
+          "odds_under_25": 2.91,
+          "odds_under_35": 1.82,
+          "odds_btts_yes": 1.36,
+          "odds_btts_no": 2.83,
+          "actual_home_xg": null,
+          "actual_away_xg": null,
+          "home_xg_live": null,
+          "away_xg_live": null,
+          "penalty_shootout": null,
+          "extra_time_score": null,
+          "is_local_derby": null,
+          "is_neutral_ground": null,
+          "travel_distance_km": null,
+          "weather_code": null,
+          "wind_speed": null,
+          "temperature_c": null,
+          "pitch_condition": null,
+          "attendance": null,
+          "referee": null,
+          "home_coach": null,
+          "away_coach": {
+            "id": 1826,
+            "name": "David Abela",
+            "short_name": "D. Abela",
+            "country": "Australia",
+            "profile": "attacking",
+            "preferred_formation": "4-2-3-1",
+            "pressing_intensity": 0.3719018045514172,
+            "defensive_line": "mid",
+            "top_styles": [
+              "chaos_ball",
+              "chaos_football"
+            ]
+          },
+          "unavailable_players": null,
+          "venue": null,
+          "incidents": null,
+          "live_stats": null,
+          "lineups": null,
+          "shotmap": null,
+          "momentum": null,
+          "xg_per_minute": null,
+          "average_positions": null,
+          "jerseys": null,
+          "funfacts": null,
+          "sr_stats": null,
+          "ai_preview": {
+            "text": "**Brisbane's got the form edge, but Gold Coast's defensive solidity could spoil the party** 🏆 Youth vs experience clash in round 22 — Roar are chasing consistency while the Knights prove frustratingly hard to break down.\n\nBrisbane's 2W-1D-2L streak shows promise, yet they've shipped goals freely (conceded 7 across last three). Gold Coast sit in draw-heavy purgatory — 3D in their last five screams a team that won't roll over, just won't push for the jugular either.\n\nKey storylines:\n\n- **Brisbane's attacking prowess** has flashed (2-0 vs Moreton, but also 1-3 and 2-4 losses) — they need **K. Abdulkarim** and **Z. Harrison** humming in midfield to unlock Gold Coast's back line\n- **Gold Coast Knights' fortress mentality**: 3 draws in five games suggests defensive discipline; **I. Sharp** marshalling a backline featuring **K. Ikeda** and **L. Atterwell** will be crucial\n- H2H tells the story — Knights dominate this fixture (7W in 10) but recent form favors Brisbane slightly\n\nExpected lineups:\n\n- **Brisbane Roar Youth**: G. Plusnin, J. O'Reilly, N. N. Deng, R. Canosa, M. Evagotou-Alao, J. Durrington, K. Abdulkarim, Z. Harrison\n- **Gold Coast Knights**: I. Sharp, A. Ludwik, K. Ikeda, L. Atterwell, A. D. Mcgregor, B. Inman, C. Nancarrow, A. Poljak\n\nPrediction:\n\n**2-1 Brisbane** — Youth's attacking form edges Gold Coast's stubborn draw-prone streak, but it'll be tight. 📍",
+            "generated_at": "2026-08-13T09:41:28.405653+00:00"
+          },
+          "live_websocket": false
+        },
+        "created_at": "2026-08-08T02:15:21.415403+00:00",
+        "prob_home_win": 24.9,
+        "prob_draw": 22.3,
+        "prob_away_win": 52.8,
+        "predicted_result": "A",
+        "expected_home_goals": 1.307,
+        "expected_away_goals": 2.039,
+        "prob_over_15": 85.1,
+        "prob_over_25": 68.5,
+        "prob_over_35": 48.1,
+        "prob_btts_yes": 67.3,
+        "confidence": 0.5282,
+        "model_version": "dc-blend-v1",
+        "most_likely_score": "1-1",
+        "favorite": "A",
+        "favorite_prob": 52.8,
+        "favorite_recommend": false,
+        "over_15_recommend": false,
+        "over_25_recommend": false,
+        "over_35_recommend": false,
+        "btts_recommend": false,
+        "winner_recommend": false
+      },
+      "event_detail": {
+        "id": 210051,
+        "league": {
+          "id": 70,
+          "name": "NPL Queensland",
+          "country": "Australia",
+          "is_women": false,
+          "current_season": {
+            "id": 1312,
+            "name": "Queensland NPL 2026",
+            "year": 2026,
+            "start_date": "2026-01-01",
+            "end_date": "2026-12-31"
+          }
+        },
+        "season": {
+          "id": 1312,
+          "name": "Queensland NPL 2026",
+          "year": 2026
+        },
+        "home_team": "Brisbane Roar Youth",
+        "away_team": "Gold Coast Knights",
+        "home_team_obj": {
+          "id": 3835,
+          "name": "Brisbane Roar Youth",
+          "short_name": "Brisbane Roar Youth",
+          "country": "Australia",
+          "coach": null,
+          "venue": null
+        },
+        "away_team_obj": {
+          "id": 3108,
+          "name": "Gold Coast Knights",
+          "short_name": "",
+          "country": "Australia",
+          "coach": {
+            "name": "David Abela",
+            "shortName": "D. Abela"
+          },
+          "venue": null
+        },
+        "event_date": "2026-08-14T12:30:00+03:00",
+        "round_number": 22,
+        "round_name": "",
+        "group_name": null,
+        "status": "notstarted",
+        "home_score": null,
+        "away_score": null,
+        "home_score_ht": null,
+        "away_score_ht": null,
+        "current_minute": null,
+        "period": "",
+        "odds_home": 3.34,
+        "odds_draw": 3.95,
+        "odds_away": 1.81,
+        "odds_over_15": 1.08,
+        "odds_over_25": 1.34,
+        "odds_over_35": 1.88,
+        "odds_under_15": 6.12,
+        "odds_under_25": 2.91,
+        "odds_under_35": 1.82,
+        "odds_btts_yes": 1.36,
+        "odds_btts_no": 2.83,
+        "actual_home_xg": null,
+        "actual_away_xg": null,
+        "home_xg_live": null,
+        "away_xg_live": null,
+        "penalty_shootout": null,
+        "extra_time_score": null,
+        "is_local_derby": null,
+        "is_neutral_ground": null,
+        "travel_distance_km": null,
+        "weather_code": null,
+        "wind_speed": null,
+        "temperature_c": null,
+        "pitch_condition": null,
+        "attendance": null,
+        "referee": null,
+        "home_coach": null,
+        "away_coach": {
+          "id": 1826,
+          "name": "David Abela",
+          "short_name": "D. Abela",
+          "country": "Australia",
+          "profile": "attacking",
+          "preferred_formation": "4-2-3-1",
+          "pressing_intensity": 0.3719018045514172,
+          "defensive_line": "mid",
+          "top_styles": [
+            "chaos_ball",
+            "chaos_football"
+          ]
+        },
+        "unavailable_players": null,
+        "venue": null,
+        "live_stats": null,
+        "jerseys": null,
+        "funfacts": null,
+        "sr_stats": null,
+        "ai_preview": {
+          "text": "**Brisbane's got the form edge, but Gold Coast's defensive solidity could spoil the party** 🏆 Youth vs experience clash in round 22 — Roar are chasing consistency while the Knights prove frustratingly hard to break down.\n\nBrisbane's 2W-1D-2L streak shows promise, yet they've shipped goals freely (conceded 7 across last three). Gold Coast sit in draw-heavy purgatory — 3D in their last five screams a team that won't roll over, just won't push for the jugular either.\n\nKey storylines:\n\n- **Brisbane's attacking prowess** has flashed (2-0 vs Moreton, but also 1-3 and 2-4 losses) — they need **K. Abdulkarim** and **Z. Harrison** humming in midfield to unlock Gold Coast's back line\n- **Gold Coast Knights' fortress mentality**: 3 draws in five games suggests defensive discipline; **I. Sharp** marshalling a backline featuring **K. Ikeda** and **L. Atterwell** will be crucial\n- H2H tells the story — Knights dominate this fixture (7W in 10) but recent form favors Brisbane slightly\n\nExpected lineups:\n\n- **Brisbane Roar Youth**: G. Plusnin, J. O'Reilly, N. N. Deng, R. Canosa, M. Evagotou-Alao, J. Durrington, K. Abdulkarim, Z. Harrison\n- **Gold Coast Knights**: I. Sharp, A. Ludwik, K. Ikeda, L. Atterwell, A. D. Mcgregor, B. Inman, C. Nancarrow, A. Poljak\n\nPrediction:\n\n**2-1 Brisbane** — Youth's attacking form edges Gold Coast's stubborn draw-prone streak, but it'll be tight. 📍",
+          "generated_at": "2026-08-13T09:41:28.405653+00:00"
+        },
+        "live_websocket": false,
+        "home_form": {
+          "calculated_at": "2026-08-14",
+          "matches_played": 5,
+          "form_string": "LWLWD",
+          "wins": 2,
+          "draws": 1,
+          "losses": 2,
+          "points_last_n": 7,
+          "goals_scored_last_n": 10,
+          "goals_conceded_last_n": 9,
+          "avg_xg": 2,
+          "avg_xg_conceded": 1.8,
+          "avg_shots": 0,
+          "avg_shots_on_target": 0,
+          "avg_key_passes": 0,
+          "goal_conversion_rate": 0,
+          "defensive_efficiency": 0,
+          "clean_sheets": 1,
+          "avg_pass_accuracy": 0,
+          "duel_win_rate": 0,
+          "aerial_win_rate": 0,
+          "avg_fouls": 0,
+          "avg_yellow_cards": 0,
+          "home_ppg": 1.2,
+          "away_ppg": 0.8,
+          "home_goals_scored": 9,
+          "home_goals_conceded": 12,
+          "away_goals_scored": 9,
+          "away_goals_conceded": 12,
+          "avg_team_rating": 0
+        },
+        "away_form": {
+          "calculated_at": "2026-08-14",
+          "matches_played": 5,
+          "form_string": "DLDLD",
+          "wins": 0,
+          "draws": 3,
+          "losses": 2,
+          "points_last_n": 3,
+          "goals_scored_last_n": 4,
+          "goals_conceded_last_n": 6,
+          "avg_xg": 0.8,
+          "avg_xg_conceded": 1.2,
+          "avg_shots": 0,
+          "avg_shots_on_target": 0,
+          "avg_key_passes": 0,
+          "goal_conversion_rate": 0,
+          "defensive_efficiency": 0,
+          "clean_sheets": 1,
+          "avg_pass_accuracy": 0,
+          "duel_win_rate": 0,
+          "aerial_win_rate": 0,
+          "avg_fouls": 0,
+          "avg_yellow_cards": 0,
+          "home_ppg": 1.2,
+          "away_ppg": 0.6,
+          "home_goals_scored": 6,
+          "home_goals_conceded": 6,
+          "away_goals_scored": 5,
+          "away_goals_conceded": 8,
+          "avg_team_rating": 0
+        },
+        "head_to_head": {
+          "total_matches": 15,
+          "home_wins": 1,
+          "draws": 2,
+          "away_wins": 7,
+          "home_goals": 10,
+          "away_goals": 20,
+          "avg_total_goals": 2,
+          "home_win_rate": 0.06666666666666667,
+          "away_win_rate": 0.4666666666666667,
+          "recent_matches": [
+            {
+              "away": "Brisbane Roar Youth",
+              "date": "2026-05-10T06:15:00+00:00",
+              "home": "Gold Coast Knights",
+              "score": "3-2"
+            },
+            {
+              "away": "Gold Coast Knights",
+              "date": "2025-07-19T04:30:00+00:00",
+              "home": "Brisbane Roar Youth",
+              "score": "1-1"
+            },
+            {
+              "away": "Brisbane Roar Youth",
+              "date": "2025-07-09T09:30:00+00:00",
+              "home": "Gold Coast Knights",
+              "score": "0-1"
+            },
+            {
+              "away": "Gold Coast Knights",
+              "date": "2024-07-27T04:00:00+00:00",
+              "home": "Brisbane Roar Youth",
+              "score": "0-1"
+            },
+            {
+              "away": "Brisbane Roar Youth",
+              "date": "2024-04-05T10:30:00+00:00",
+              "home": "Gold Coast Knights",
+              "score": "4-2"
+            },
+            {
+              "away": "Gold Coast Knights",
+              "date": "2023-07-21T10:30:00+00:00",
+              "home": "Brisbane Roar Youth",
+              "score": "2-3"
+            },
+            {
+              "away": "Brisbane Roar Youth",
+              "date": "2023-04-22T07:15:00+00:00",
+              "home": "Gold Coast Knights",
+              "score": "2-1"
+            },
+            {
+              "away": "Gold Coast Knights",
+              "date": "2022-08-17T09:30:00+00:00",
+              "home": "Brisbane Roar Youth",
+              "score": "1-3"
+            },
+            {
+              "away": "Brisbane Roar Youth",
+              "date": "2022-07-29T09:30:00+00:00",
+              "home": "Gold Coast Knights",
+              "score": "0-0"
+            },
+            {
+              "away": "Gold Coast Knights",
+              "date": "2021-07-23T09:30:00+00:00",
+              "home": "Brisbane Roar Youth",
+              "score": "0-3"
+            }
+          ]
+        },
+        "lineups": null,
+        "social": []
+      },
+      "managers": {
+        "home": null,
+        "away": {
+          "id": 1826,
+          "name": "David Abela",
+          "short_name": "D. Abela",
+          "country": "Australia",
+          "current_team": {
+            "id": 3108,
+            "name": "Gold Coast Knights"
+          },
+          "preferred_formation": "4-2-3-1",
+          "formations_used": {
+            "4-3-3": 1,
+            "4-4-2": 4,
+            "4-5-1": 3,
+            "5-3-2": 1,
+            "4-1-3-2": 1,
+            "4-1-4-1": 2,
+            "4-2-3-1": 7,
+            "4-4-1-1": 1
+          },
+          "profile": "attacking",
+          "team_style": "soft",
+          "pressing_intensity": 0.3719018045514172,
+          "defensive_line": "mid",
+          "tactical_styles": [
+            {
+              "rank": 1,
+              "code": "chaos_ball",
+              "name": "Chaos Ball",
+              "category": "fan",
+              "emoji": "🎲",
+              "description": "Embrace pure randomness, anything can happen",
+              "score": 0.176
+            },
+            {
+              "rank": 2,
+              "code": "chaos_football",
+              "name": "Chaos Football",
+              "category": "pressing",
+              "emoji": "🌪",
+              "description": "High tempo, risk-heavy, disorganised by design",
+              "score": 0.09
+            },
+            {
+              "rank": 3,
+              "code": "counter",
+              "name": "Counter-Attack",
+              "category": "counter",
+              "emoji": "⚡",
+              "description": "Absorb pressure, strike fast on the break",
+              "score": 0.06
+            },
+            {
+              "rank": 4,
+              "code": "vibes_fc",
+              "name": "Vibes FC",
+              "category": "fan",
+              "emoji": "✨",
+              "description": "Minimal structure, individual freedom",
+              "score": 0.06
+            }
+          ],
+          "matches_total": 24,
+          "wins": 11,
+          "draws": 6,
+          "losses": 7,
+          "win_pct": 45.8,
+          "avg_goals_scored": 2.04,
+          "avg_goals_conceded": 1.58,
+          "avg_possession": 46.95,
+          "avg_shots": 14.55,
+          "avg_shots_on_target": 6.25,
+          "avg_xg_for": 2.17,
+          "avg_xg_against": 1.53,
+          "avg_corners": 6.57,
+          "avg_yellow_cards": 1,
+          "avg_red_cards": 0.04,
+          "avg_fouls": 9.8,
+          "clean_sheet_pct": 12.5,
+          "btts_pct": 75,
+          "over_25_pct": 70.8,
+          "over_15_pct": 87.5,
+          "fail_to_score_pct": 16.7,
+          "avg_goals_scored_1h": 0.83,
+          "avg_goals_conceded_1h": 0.75
+        }
+      }
+    },
+    {
       "event_id": 210055,
       "prediction": {
         "id": 888,
@@ -1041,16 +1511,16 @@
           "current_minute": null,
           "period": "",
           "odds_home": 1.62,
-          "odds_draw": 4.24,
-          "odds_away": 3.92,
-          "odds_over_15": 1.08,
-          "odds_over_25": 1.32,
-          "odds_over_35": 1.84,
-          "odds_under_15": 6.36,
-          "odds_under_25": 2.97,
-          "odds_under_35": 1.84,
-          "odds_btts_yes": 1.38,
-          "odds_btts_no": 2.74,
+          "odds_draw": 4.29,
+          "odds_away": 3.94,
+          "odds_over_15": 1.07,
+          "odds_over_25": 1.31,
+          "odds_over_35": 1.8,
+          "odds_under_15": 6.71,
+          "odds_under_25": 3.1,
+          "odds_under_35": 1.9,
+          "odds_btts_yes": 1.36,
+          "odds_btts_no": 2.83,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -1118,7 +1588,7 @@
         "prob_away_win": 23,
         "predicted_result": "H",
         "expected_home_goals": 2.21,
-        "expected_away_goals": 1.375,
+        "expected_away_goals": 1.376,
         "prob_over_15": 85.5,
         "prob_over_25": 69,
         "prob_over_35": 49.1,
@@ -1191,16 +1661,16 @@
         "current_minute": null,
         "period": "",
         "odds_home": 1.62,
-        "odds_draw": 4.24,
-        "odds_away": 3.92,
-        "odds_over_15": 1.08,
-        "odds_over_25": 1.32,
-        "odds_over_35": 1.84,
-        "odds_under_15": 6.36,
-        "odds_under_25": 2.97,
-        "odds_under_35": 1.84,
-        "odds_btts_yes": 1.38,
-        "odds_btts_no": 2.74,
+        "odds_draw": 4.29,
+        "odds_away": 3.94,
+        "odds_over_15": 1.07,
+        "odds_over_25": 1.31,
+        "odds_over_35": 1.8,
+        "odds_under_15": 6.71,
+        "odds_under_25": 3.1,
+        "odds_under_35": 1.9,
+        "odds_btts_yes": 1.36,
+        "odds_btts_no": 2.83,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -1570,476 +2040,6 @@
       }
     },
     {
-      "event_id": 210051,
-      "prediction": {
-        "id": 892,
-        "event": {
-          "id": 210051,
-          "league": {
-            "id": 70,
-            "name": "NPL Queensland",
-            "country": "Australia",
-            "is_women": false,
-            "current_season": {
-              "id": 1312,
-              "name": "Queensland NPL 2026",
-              "year": 2026,
-              "start_date": "2026-01-01",
-              "end_date": "2026-12-31"
-            }
-          },
-          "season": {
-            "id": 1312,
-            "name": "Queensland NPL 2026",
-            "year": 2026
-          },
-          "home_team": "Brisbane Roar Youth",
-          "away_team": "Gold Coast Knights",
-          "home_team_obj": {
-            "id": 3835,
-            "name": "Brisbane Roar Youth",
-            "short_name": "Brisbane Roar Youth",
-            "country": "Australia",
-            "coach": null,
-            "venue": null
-          },
-          "away_team_obj": {
-            "id": 3108,
-            "name": "Gold Coast Knights",
-            "short_name": "",
-            "country": "Australia",
-            "coach": {
-              "name": "David Abela",
-              "shortName": "D. Abela"
-            },
-            "venue": null
-          },
-          "event_date": "2026-08-14T09:30:00Z",
-          "round_number": 22,
-          "round_name": "",
-          "group_name": null,
-          "status": "notstarted",
-          "home_score": null,
-          "away_score": null,
-          "home_score_ht": null,
-          "away_score_ht": null,
-          "current_minute": null,
-          "period": "",
-          "odds_home": 3.63,
-          "odds_draw": 4.05,
-          "odds_away": 1.71,
-          "odds_over_15": 1.08,
-          "odds_over_25": 1.32,
-          "odds_over_35": 1.84,
-          "odds_under_15": 6.27,
-          "odds_under_25": 2.95,
-          "odds_under_35": 1.84,
-          "odds_btts_yes": 1.36,
-          "odds_btts_no": 2.8,
-          "actual_home_xg": null,
-          "actual_away_xg": null,
-          "home_xg_live": null,
-          "away_xg_live": null,
-          "penalty_shootout": null,
-          "extra_time_score": null,
-          "is_local_derby": null,
-          "is_neutral_ground": null,
-          "travel_distance_km": null,
-          "weather_code": null,
-          "wind_speed": null,
-          "temperature_c": null,
-          "pitch_condition": null,
-          "attendance": null,
-          "referee": null,
-          "home_coach": null,
-          "away_coach": {
-            "id": 1826,
-            "name": "David Abela",
-            "short_name": "D. Abela",
-            "country": "Australia",
-            "profile": "attacking",
-            "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.3719018045514172,
-            "defensive_line": "mid",
-            "top_styles": [
-              "chaos_ball",
-              "chaos_football"
-            ]
-          },
-          "unavailable_players": null,
-          "venue": null,
-          "incidents": null,
-          "live_stats": null,
-          "lineups": null,
-          "shotmap": null,
-          "momentum": null,
-          "xg_per_minute": null,
-          "average_positions": null,
-          "jerseys": null,
-          "funfacts": null,
-          "sr_stats": null,
-          "ai_preview": {
-            "text": "**Brisbane's got the form edge, but Gold Coast's defensive solidity could spoil the party** 🏆 Youth vs experience clash in round 22 — Roar are chasing consistency while the Knights prove frustratingly hard to break down.\n\nBrisbane's 2W-1D-2L streak shows promise, yet they've shipped goals freely (conceded 7 across last three). Gold Coast sit in draw-heavy purgatory — 3D in their last five screams a team that won't roll over, just won't push for the jugular either.\n\nKey storylines:\n\n- **Brisbane's attacking prowess** has flashed (2-0 vs Moreton, but also 1-3 and 2-4 losses) — they need **K. Abdulkarim** and **Z. Harrison** humming in midfield to unlock Gold Coast's back line\n- **Gold Coast Knights' fortress mentality**: 3 draws in five games suggests defensive discipline; **I. Sharp** marshalling a backline featuring **K. Ikeda** and **L. Atterwell** will be crucial\n- H2H tells the story — Knights dominate this fixture (7W in 10) but recent form favors Brisbane slightly\n\nExpected lineups:\n\n- **Brisbane Roar Youth**: G. Plusnin, J. O'Reilly, N. N. Deng, R. Canosa, M. Evagotou-Alao, J. Durrington, K. Abdulkarim, Z. Harrison\n- **Gold Coast Knights**: I. Sharp, A. Ludwik, K. Ikeda, L. Atterwell, A. D. Mcgregor, B. Inman, C. Nancarrow, A. Poljak\n\nPrediction:\n\n**2-1 Brisbane** — Youth's attacking form edges Gold Coast's stubborn draw-prone streak, but it'll be tight. 📍",
-            "generated_at": "2026-08-13T09:41:28.405653+00:00"
-          },
-          "live_websocket": false
-        },
-        "created_at": "2026-08-08T02:15:21.415403+00:00",
-        "prob_home_win": 24.9,
-        "prob_draw": 22.3,
-        "prob_away_win": 52.8,
-        "predicted_result": "A",
-        "expected_home_goals": 1.307,
-        "expected_away_goals": 2.039,
-        "prob_over_15": 85.1,
-        "prob_over_25": 68.5,
-        "prob_over_35": 48.1,
-        "prob_btts_yes": 67.3,
-        "confidence": 0.5282,
-        "model_version": "dc-blend-v1",
-        "most_likely_score": "1-1",
-        "favorite": "A",
-        "favorite_prob": 52.8,
-        "favorite_recommend": false,
-        "over_15_recommend": false,
-        "over_25_recommend": false,
-        "over_35_recommend": false,
-        "btts_recommend": false,
-        "winner_recommend": false
-      },
-      "event_detail": {
-        "id": 210051,
-        "league": {
-          "id": 70,
-          "name": "NPL Queensland",
-          "country": "Australia",
-          "is_women": false,
-          "current_season": {
-            "id": 1312,
-            "name": "Queensland NPL 2026",
-            "year": 2026,
-            "start_date": "2026-01-01",
-            "end_date": "2026-12-31"
-          }
-        },
-        "season": {
-          "id": 1312,
-          "name": "Queensland NPL 2026",
-          "year": 2026
-        },
-        "home_team": "Brisbane Roar Youth",
-        "away_team": "Gold Coast Knights",
-        "home_team_obj": {
-          "id": 3835,
-          "name": "Brisbane Roar Youth",
-          "short_name": "Brisbane Roar Youth",
-          "country": "Australia",
-          "coach": null,
-          "venue": null
-        },
-        "away_team_obj": {
-          "id": 3108,
-          "name": "Gold Coast Knights",
-          "short_name": "",
-          "country": "Australia",
-          "coach": {
-            "name": "David Abela",
-            "shortName": "D. Abela"
-          },
-          "venue": null
-        },
-        "event_date": "2026-08-14T12:30:00+03:00",
-        "round_number": 22,
-        "round_name": "",
-        "group_name": null,
-        "status": "notstarted",
-        "home_score": null,
-        "away_score": null,
-        "home_score_ht": null,
-        "away_score_ht": null,
-        "current_minute": null,
-        "period": "",
-        "odds_home": 3.63,
-        "odds_draw": 4.05,
-        "odds_away": 1.71,
-        "odds_over_15": 1.08,
-        "odds_over_25": 1.32,
-        "odds_over_35": 1.84,
-        "odds_under_15": 6.27,
-        "odds_under_25": 2.95,
-        "odds_under_35": 1.84,
-        "odds_btts_yes": 1.36,
-        "odds_btts_no": 2.8,
-        "actual_home_xg": null,
-        "actual_away_xg": null,
-        "home_xg_live": null,
-        "away_xg_live": null,
-        "penalty_shootout": null,
-        "extra_time_score": null,
-        "is_local_derby": null,
-        "is_neutral_ground": null,
-        "travel_distance_km": null,
-        "weather_code": null,
-        "wind_speed": null,
-        "temperature_c": null,
-        "pitch_condition": null,
-        "attendance": null,
-        "referee": null,
-        "home_coach": null,
-        "away_coach": {
-          "id": 1826,
-          "name": "David Abela",
-          "short_name": "D. Abela",
-          "country": "Australia",
-          "profile": "attacking",
-          "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.3719018045514172,
-          "defensive_line": "mid",
-          "top_styles": [
-            "chaos_ball",
-            "chaos_football"
-          ]
-        },
-        "unavailable_players": null,
-        "venue": null,
-        "live_stats": null,
-        "jerseys": null,
-        "funfacts": null,
-        "sr_stats": null,
-        "ai_preview": {
-          "text": "**Brisbane's got the form edge, but Gold Coast's defensive solidity could spoil the party** 🏆 Youth vs experience clash in round 22 — Roar are chasing consistency while the Knights prove frustratingly hard to break down.\n\nBrisbane's 2W-1D-2L streak shows promise, yet they've shipped goals freely (conceded 7 across last three). Gold Coast sit in draw-heavy purgatory — 3D in their last five screams a team that won't roll over, just won't push for the jugular either.\n\nKey storylines:\n\n- **Brisbane's attacking prowess** has flashed (2-0 vs Moreton, but also 1-3 and 2-4 losses) — they need **K. Abdulkarim** and **Z. Harrison** humming in midfield to unlock Gold Coast's back line\n- **Gold Coast Knights' fortress mentality**: 3 draws in five games suggests defensive discipline; **I. Sharp** marshalling a backline featuring **K. Ikeda** and **L. Atterwell** will be crucial\n- H2H tells the story — Knights dominate this fixture (7W in 10) but recent form favors Brisbane slightly\n\nExpected lineups:\n\n- **Brisbane Roar Youth**: G. Plusnin, J. O'Reilly, N. N. Deng, R. Canosa, M. Evagotou-Alao, J. Durrington, K. Abdulkarim, Z. Harrison\n- **Gold Coast Knights**: I. Sharp, A. Ludwik, K. Ikeda, L. Atterwell, A. D. Mcgregor, B. Inman, C. Nancarrow, A. Poljak\n\nPrediction:\n\n**2-1 Brisbane** — Youth's attacking form edges Gold Coast's stubborn draw-prone streak, but it'll be tight. 📍",
-          "generated_at": "2026-08-13T09:41:28.405653+00:00"
-        },
-        "live_websocket": false,
-        "home_form": {
-          "calculated_at": "2026-08-14",
-          "matches_played": 5,
-          "form_string": "LWLWD",
-          "wins": 2,
-          "draws": 1,
-          "losses": 2,
-          "points_last_n": 7,
-          "goals_scored_last_n": 10,
-          "goals_conceded_last_n": 9,
-          "avg_xg": 2,
-          "avg_xg_conceded": 1.8,
-          "avg_shots": 0,
-          "avg_shots_on_target": 0,
-          "avg_key_passes": 0,
-          "goal_conversion_rate": 0,
-          "defensive_efficiency": 0,
-          "clean_sheets": 1,
-          "avg_pass_accuracy": 0,
-          "duel_win_rate": 0,
-          "aerial_win_rate": 0,
-          "avg_fouls": 0,
-          "avg_yellow_cards": 0,
-          "home_ppg": 1.2,
-          "away_ppg": 0.8,
-          "home_goals_scored": 9,
-          "home_goals_conceded": 12,
-          "away_goals_scored": 9,
-          "away_goals_conceded": 12,
-          "avg_team_rating": 0
-        },
-        "away_form": {
-          "calculated_at": "2026-08-14",
-          "matches_played": 5,
-          "form_string": "DLDLD",
-          "wins": 0,
-          "draws": 3,
-          "losses": 2,
-          "points_last_n": 3,
-          "goals_scored_last_n": 4,
-          "goals_conceded_last_n": 6,
-          "avg_xg": 0.8,
-          "avg_xg_conceded": 1.2,
-          "avg_shots": 0,
-          "avg_shots_on_target": 0,
-          "avg_key_passes": 0,
-          "goal_conversion_rate": 0,
-          "defensive_efficiency": 0,
-          "clean_sheets": 1,
-          "avg_pass_accuracy": 0,
-          "duel_win_rate": 0,
-          "aerial_win_rate": 0,
-          "avg_fouls": 0,
-          "avg_yellow_cards": 0,
-          "home_ppg": 1.2,
-          "away_ppg": 0.6,
-          "home_goals_scored": 6,
-          "home_goals_conceded": 6,
-          "away_goals_scored": 5,
-          "away_goals_conceded": 8,
-          "avg_team_rating": 0
-        },
-        "head_to_head": {
-          "total_matches": 15,
-          "home_wins": 1,
-          "draws": 2,
-          "away_wins": 7,
-          "home_goals": 10,
-          "away_goals": 20,
-          "avg_total_goals": 2,
-          "home_win_rate": 0.06666666666666667,
-          "away_win_rate": 0.4666666666666667,
-          "recent_matches": [
-            {
-              "away": "Brisbane Roar Youth",
-              "date": "2026-05-10T06:15:00+00:00",
-              "home": "Gold Coast Knights",
-              "score": "3-2"
-            },
-            {
-              "away": "Gold Coast Knights",
-              "date": "2025-07-19T04:30:00+00:00",
-              "home": "Brisbane Roar Youth",
-              "score": "1-1"
-            },
-            {
-              "away": "Brisbane Roar Youth",
-              "date": "2025-07-09T09:30:00+00:00",
-              "home": "Gold Coast Knights",
-              "score": "0-1"
-            },
-            {
-              "away": "Gold Coast Knights",
-              "date": "2024-07-27T04:00:00+00:00",
-              "home": "Brisbane Roar Youth",
-              "score": "0-1"
-            },
-            {
-              "away": "Brisbane Roar Youth",
-              "date": "2024-04-05T10:30:00+00:00",
-              "home": "Gold Coast Knights",
-              "score": "4-2"
-            },
-            {
-              "away": "Gold Coast Knights",
-              "date": "2023-07-21T10:30:00+00:00",
-              "home": "Brisbane Roar Youth",
-              "score": "2-3"
-            },
-            {
-              "away": "Brisbane Roar Youth",
-              "date": "2023-04-22T07:15:00+00:00",
-              "home": "Gold Coast Knights",
-              "score": "2-1"
-            },
-            {
-              "away": "Gold Coast Knights",
-              "date": "2022-08-17T09:30:00+00:00",
-              "home": "Brisbane Roar Youth",
-              "score": "1-3"
-            },
-            {
-              "away": "Brisbane Roar Youth",
-              "date": "2022-07-29T09:30:00+00:00",
-              "home": "Gold Coast Knights",
-              "score": "0-0"
-            },
-            {
-              "away": "Gold Coast Knights",
-              "date": "2021-07-23T09:30:00+00:00",
-              "home": "Brisbane Roar Youth",
-              "score": "0-3"
-            }
-          ]
-        },
-        "lineups": null,
-        "social": []
-      },
-      "managers": {
-        "home": null,
-        "away": {
-          "id": 1826,
-          "name": "David Abela",
-          "short_name": "D. Abela",
-          "country": "Australia",
-          "current_team": {
-            "id": 3108,
-            "name": "Gold Coast Knights"
-          },
-          "preferred_formation": "4-2-3-1",
-          "formations_used": {
-            "4-3-3": 1,
-            "4-4-2": 4,
-            "4-5-1": 3,
-            "5-3-2": 1,
-            "4-1-3-2": 1,
-            "4-1-4-1": 2,
-            "4-2-3-1": 7,
-            "4-4-1-1": 1
-          },
-          "profile": "attacking",
-          "team_style": "soft",
-          "pressing_intensity": 0.3719018045514172,
-          "defensive_line": "mid",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "chaos_ball",
-              "name": "Chaos Ball",
-              "category": "fan",
-              "emoji": "🎲",
-              "description": "Embrace pure randomness, anything can happen",
-              "score": 0.176
-            },
-            {
-              "rank": 2,
-              "code": "chaos_football",
-              "name": "Chaos Football",
-              "category": "pressing",
-              "emoji": "🌪",
-              "description": "High tempo, risk-heavy, disorganised by design",
-              "score": 0.09
-            },
-            {
-              "rank": 3,
-              "code": "counter",
-              "name": "Counter-Attack",
-              "category": "counter",
-              "emoji": "⚡",
-              "description": "Absorb pressure, strike fast on the break",
-              "score": 0.06
-            },
-            {
-              "rank": 4,
-              "code": "vibes_fc",
-              "name": "Vibes FC",
-              "category": "fan",
-              "emoji": "✨",
-              "description": "Minimal structure, individual freedom",
-              "score": 0.06
-            }
-          ],
-          "matches_total": 24,
-          "wins": 11,
-          "draws": 6,
-          "losses": 7,
-          "win_pct": 45.8,
-          "avg_goals_scored": 2.04,
-          "avg_goals_conceded": 1.58,
-          "avg_possession": 46.95,
-          "avg_shots": 14.55,
-          "avg_shots_on_target": 6.25,
-          "avg_xg_for": 2.17,
-          "avg_xg_against": 1.53,
-          "avg_corners": 6.57,
-          "avg_yellow_cards": 1,
-          "avg_red_cards": 0.04,
-          "avg_fouls": 9.8,
-          "clean_sheet_pct": 12.5,
-          "btts_pct": 75,
-          "over_25_pct": 70.8,
-          "over_15_pct": 87.5,
-          "fail_to_score_pct": 16.7,
-          "avg_goals_scored_1h": 0.83,
-          "avg_goals_conceded_1h": 0.75
-        }
-      }
-    },
-    {
       "event_id": 210053,
       "prediction": {
         "id": 890,
@@ -2098,17 +2098,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.47,
-          "odds_draw": 3.66,
-          "odds_away": 2.33,
+          "odds_home": 2.62,
+          "odds_draw": 3.65,
+          "odds_away": 2.22,
           "odds_over_15": 1.08,
-          "odds_over_25": 1.34,
-          "odds_over_35": 1.85,
-          "odds_under_15": 6.34,
-          "odds_under_25": 2.92,
-          "odds_under_35": 1.83,
-          "odds_btts_yes": 1.31,
-          "odds_btts_no": 3.06,
+          "odds_over_25": 1.35,
+          "odds_over_35": 1.88,
+          "odds_under_15": 6.18,
+          "odds_under_25": 2.87,
+          "odds_under_35": 1.81,
+          "odds_btts_yes": 1.33,
+          "odds_btts_no": 2.99,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -2248,17 +2248,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.47,
-        "odds_draw": 3.66,
-        "odds_away": 2.33,
+        "odds_home": 2.62,
+        "odds_draw": 3.65,
+        "odds_away": 2.22,
         "odds_over_15": 1.08,
-        "odds_over_25": 1.34,
-        "odds_over_35": 1.85,
-        "odds_under_15": 6.34,
-        "odds_under_25": 2.92,
-        "odds_under_35": 1.83,
-        "odds_btts_yes": 1.31,
-        "odds_btts_no": 3.06,
+        "odds_over_25": 1.35,
+        "odds_over_35": 1.88,
+        "odds_under_15": 6.18,
+        "odds_under_25": 2.87,
+        "odds_under_35": 1.81,
+        "odds_btts_yes": 1.33,
+        "odds_btts_no": 2.99,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -2667,11 +2667,11 @@
           "odds_away": 2.33,
           "odds_over_15": 1.14,
           "odds_over_25": 1.5,
-          "odds_over_35": 2.25,
-          "odds_under_15": 4.73,
-          "odds_under_25": 2.36,
-          "odds_under_35": 1.54,
-          "odds_btts_yes": 1.46,
+          "odds_over_35": 2.24,
+          "odds_under_15": 4.76,
+          "odds_under_25": 2.37,
+          "odds_under_35": 1.55,
+          "odds_btts_yes": 1.45,
           "odds_btts_no": 2.49,
           "actual_home_xg": null,
           "actual_away_xg": null,
@@ -2801,11 +2801,11 @@
         "odds_away": 2.33,
         "odds_over_15": 1.14,
         "odds_over_25": 1.5,
-        "odds_over_35": 2.25,
-        "odds_under_15": 4.73,
-        "odds_under_25": 2.36,
-        "odds_under_35": 1.54,
-        "odds_btts_yes": 1.46,
+        "odds_over_35": 2.24,
+        "odds_under_15": 4.76,
+        "odds_under_25": 2.37,
+        "odds_under_35": 1.55,
+        "odds_btts_yes": 1.45,
         "odds_btts_no": 2.49,
         "actual_home_xg": null,
         "actual_away_xg": null,
@@ -3133,17 +3133,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 4.01,
-          "odds_draw": 3.23,
-          "odds_away": 1.94,
-          "odds_over_15": 1.4,
-          "odds_over_25": 2.27,
-          "odds_over_35": 4.19,
-          "odds_under_15": 2.72,
-          "odds_under_25": 1.58,
-          "odds_under_35": 1.19,
+          "odds_home": 4.3,
+          "odds_draw": 3.35,
+          "odds_away": 1.84,
+          "odds_over_15": 1.38,
+          "odds_over_25": 2.21,
+          "odds_over_35": 4.03,
+          "odds_under_15": 2.82,
+          "odds_under_25": 1.62,
+          "odds_under_35": 1.21,
           "odds_btts_yes": 2.01,
-          "odds_btts_no": 1.71,
+          "odds_btts_no": 1.73,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -3336,17 +3336,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 4.01,
-        "odds_draw": 3.23,
-        "odds_away": 1.94,
-        "odds_over_15": 1.4,
-        "odds_over_25": 2.27,
-        "odds_over_35": 4.19,
-        "odds_under_15": 2.72,
-        "odds_under_25": 1.58,
-        "odds_under_35": 1.19,
+        "odds_home": 4.3,
+        "odds_draw": 3.35,
+        "odds_away": 1.84,
+        "odds_over_15": 1.38,
+        "odds_over_25": 2.21,
+        "odds_over_35": 4.03,
+        "odds_under_15": 2.82,
+        "odds_under_25": 1.62,
+        "odds_under_35": 1.21,
         "odds_btts_yes": 2.01,
-        "odds_btts_no": 1.71,
+        "odds_btts_no": 1.73,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -3817,17 +3817,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 3.29,
-          "odds_draw": 3.64,
-          "odds_away": 2,
+          "odds_home": 2.93,
+          "odds_draw": 3.65,
+          "odds_away": 2.15,
           "odds_over_15": 1.15,
-          "odds_over_25": 1.54,
-          "odds_over_35": 2.33,
-          "odds_under_15": 4.73,
-          "odds_under_25": 2.33,
-          "odds_under_35": 1.54,
-          "odds_btts_yes": 1.49,
-          "odds_btts_no": 2.45,
+          "odds_over_25": 1.52,
+          "odds_over_35": 2.3,
+          "odds_under_15": 4.87,
+          "odds_under_25": 2.38,
+          "odds_under_35": 1.56,
+          "odds_btts_yes": 1.47,
+          "odds_btts_no": 2.54,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -3956,7 +3956,7 @@
         "predicted_result": "A",
         "expected_home_goals": 1.361,
         "expected_away_goals": 1.717,
-        "prob_over_15": 80.4,
+        "prob_over_15": 80.3,
         "prob_over_25": 60,
         "prob_over_35": 38.9,
         "prob_btts_yes": 62.2,
@@ -4027,17 +4027,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 3.29,
-        "odds_draw": 3.64,
-        "odds_away": 2,
+        "odds_home": 2.93,
+        "odds_draw": 3.65,
+        "odds_away": 2.15,
         "odds_over_15": 1.15,
-        "odds_over_25": 1.54,
-        "odds_over_35": 2.33,
-        "odds_under_15": 4.73,
-        "odds_under_25": 2.33,
-        "odds_under_35": 1.54,
-        "odds_btts_yes": 1.49,
-        "odds_btts_no": 2.45,
+        "odds_over_25": 1.52,
+        "odds_over_35": 2.3,
+        "odds_under_15": 4.87,
+        "odds_under_25": 2.38,
+        "odds_under_35": 1.56,
+        "odds_btts_yes": 1.47,
+        "odds_btts_no": 2.54,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -4525,17 +4525,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.4,
-          "odds_draw": 5.05,
-          "odds_away": 5.98,
+          "odds_home": 1.36,
+          "odds_draw": 5.22,
+          "odds_away": 6.43,
           "odds_over_15": 1.09,
-          "odds_over_25": 1.34,
-          "odds_over_35": 1.9,
-          "odds_under_15": 6.35,
-          "odds_under_25": 2.98,
+          "odds_over_25": 1.35,
+          "odds_over_35": 1.91,
+          "odds_under_15": 6.38,
+          "odds_under_25": 2.99,
           "odds_under_35": 1.83,
-          "odds_btts_yes": 1.51,
-          "odds_btts_no": 2.38,
+          "odds_btts_yes": 1.55,
+          "odds_btts_no": 2.32,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -4732,17 +4732,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.4,
-        "odds_draw": 5.05,
-        "odds_away": 5.98,
+        "odds_home": 1.36,
+        "odds_draw": 5.22,
+        "odds_away": 6.43,
         "odds_over_15": 1.09,
-        "odds_over_25": 1.34,
-        "odds_over_35": 1.9,
-        "odds_under_15": 6.35,
-        "odds_under_25": 2.98,
+        "odds_over_25": 1.35,
+        "odds_over_35": 1.91,
+        "odds_under_15": 6.38,
+        "odds_under_25": 2.99,
         "odds_under_35": 1.83,
-        "odds_btts_yes": 1.51,
-        "odds_btts_no": 2.38,
+        "odds_btts_yes": 1.55,
+        "odds_btts_no": 2.32,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -5367,7 +5367,7 @@
         "prob_draw": 27.8,
         "prob_away_win": 26.9,
         "predicted_result": "H",
-        "expected_home_goals": 1.412,
+        "expected_home_goals": 1.413,
         "expected_away_goals": 1.001,
         "prob_over_15": 71.7,
         "prob_over_25": 47.8,
@@ -5922,12 +5922,12 @@
         "prob_away_win": 22.3,
         "predicted_result": "H",
         "expected_home_goals": 1.612,
-        "expected_away_goals": 1.021,
+        "expected_away_goals": 1.02,
         "prob_over_15": 73,
         "prob_over_25": 48.6,
         "prob_over_35": 26.3,
         "prob_btts_yes": 50.9,
-        "confidence": 0.5192,
+        "confidence": 0.5193,
         "model_version": "dc-blend-v1",
         "most_likely_score": "1-1",
         "favorite": "H",
@@ -9278,7 +9278,7 @@
         "prob_away_win": 27.7,
         "predicted_result": "H",
         "expected_home_goals": 1.582,
-        "expected_away_goals": 1.529,
+        "expected_away_goals": 1.528,
         "prob_over_15": 78.9,
         "prob_over_25": 57.8,
         "prob_over_35": 36.6,
@@ -9763,620 +9763,6 @@
           "fail_to_score_pct": 0,
           "avg_goals_scored_1h": 0.88,
           "avg_goals_conceded_1h": 0.25
-        }
-      }
-    },
-    {
-      "event_id": 374739,
-      "prediction": {
-        "id": 878,
-        "event": {
-          "id": 374739,
-          "league": {
-            "id": 88,
-            "name": "Liga Portugal 2",
-            "country": "Portugal",
-            "is_women": false,
-            "current_season": {
-              "id": 1693,
-              "name": "Liga Portugal 2 26/27",
-              "year": 2026,
-              "start_date": "2026-07-01",
-              "end_date": "2027-06-30"
-            }
-          },
-          "season": {
-            "id": 1693,
-            "name": "Liga Portugal 2 26/27",
-            "year": 2026
-          },
-          "home_team": "Académica Coimbra",
-          "away_team": "Feirense",
-          "home_team_obj": {
-            "id": 4028,
-            "name": "Académica Coimbra",
-            "short_name": "Académica",
-            "country": "Portugal",
-            "coach": {
-              "name": "Antonio Barbosa",
-              "shortName": "A. Barbosa"
-            },
-            "venue": null
-          },
-          "away_team_obj": {
-            "id": 1312,
-            "name": "Feirense",
-            "short_name": "Feirense",
-            "country": "Portugal",
-            "coach": {
-              "name": "Mario Nunes",
-              "shortName": "M. Nunes"
-            },
-            "venue": {
-              "id": 775,
-              "name": "Estádio Marcolino de Castro",
-              "city": "Santa Maria da Feira",
-              "country": "Portugal",
-              "capacity": 5401
-            }
-          },
-          "event_date": "2026-08-14T17:00:00Z",
-          "round_number": 2,
-          "round_name": "",
-          "group_name": null,
-          "status": "notstarted",
-          "home_score": null,
-          "away_score": null,
-          "home_score_ht": null,
-          "away_score_ht": null,
-          "current_minute": null,
-          "period": "",
-          "odds_home": 2.12,
-          "odds_draw": 3.14,
-          "odds_away": 3.33,
-          "odds_over_15": 1.38,
-          "odds_over_25": 2.19,
-          "odds_over_35": 4,
-          "odds_under_15": 2.79,
-          "odds_under_25": 1.61,
-          "odds_under_35": 1.2,
-          "odds_btts_yes": 1.91,
-          "odds_btts_no": 1.78,
-          "actual_home_xg": null,
-          "actual_away_xg": null,
-          "home_xg_live": null,
-          "away_xg_live": null,
-          "penalty_shootout": null,
-          "extra_time_score": null,
-          "is_local_derby": false,
-          "is_neutral_ground": null,
-          "travel_distance_km": 81,
-          "weather_code": 2,
-          "wind_speed": 15.8,
-          "temperature_c": 26,
-          "pitch_condition": null,
-          "attendance": null,
-          "referee": null,
-          "home_coach": {
-            "id": 2109,
-            "name": "Antonio Barbosa",
-            "short_name": "A. Barbosa",
-            "country": "Portugal",
-            "profile": "balanced",
-            "preferred_formation": "4-3-3",
-            "pressing_intensity": null,
-            "defensive_line": "",
-            "top_styles": [
-              "anti_football",
-              "terrorist_fb"
-            ]
-          },
-          "away_coach": {
-            "id": 2740,
-            "name": "Mario Nunes",
-            "short_name": "M. Nunes",
-            "country": "Portugal",
-            "profile": "defensive",
-            "preferred_formation": "4-2-3-1",
-            "pressing_intensity": null,
-            "defensive_line": "",
-            "top_styles": []
-          },
-          "unavailable_players": null,
-          "venue": {
-            "id": 1777,
-            "name": "Estádio Cidade de Coimbra",
-            "city": "Coimbra",
-            "country": "Portugal",
-            "capacity": 29622,
-            "latitude": 40.203335,
-            "longitude": -8.407639,
-            "pitch_x": null,
-            "pitch_y": null,
-            "built_year": null
-          },
-          "incidents": null,
-          "live_stats": null,
-          "lineups": null,
-          "shotmap": null,
-          "momentum": null,
-          "xg_per_minute": null,
-          "average_positions": null,
-          "jerseys": {
-            "away": {
-              "GK": {
-                "base": "007337",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "000000",
-                "sleeve": "66cc00"
-              },
-              "player": {
-                "base": "0000ff",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "ffffff",
-                "sleevelong": "0000ff"
-              }
-            },
-            "home": {
-              "GK": {
-                "base": "009900",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "009900"
-              },
-              "player": {
-                "base": "000000",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "000000"
-              }
-            }
-          },
-          "funfacts": [
-            {
-              "type_id": 2,
-              "sentence": "Coimbra haven't won any of their last 5 games against Feirense."
-            },
-            {
-              "type_id": 1,
-              "sentence": "Coimbra haven't lost in their last 8 games."
-            },
-            {
-              "type_id": 1,
-              "sentence": "Coimbra haven't lost in any of their last 12 home matches."
-            }
-          ],
-          "sr_stats": null,
-          "ai_preview": {
-            "text": "**Académica's flying into Liga Portugal 2 while Feirense can't seem to find the back of the net** — this clash at Estádio Cidade de Coimbra has a clear favorite energy. 🔴\n\nAcadémica are buzzing with wins and goals (that 4-1 demolition of Chaves is a vibe), while **Feirense have drawn their last three straight** and look blunt in attack. The hosts should have the edge here.\n\nKey storylines:\n\n- **Académica's attacking threat** led by I. Hassaine and M. Rebelo against a Feirense defense that's struggled to create momentum\n- **Feirense's draw tendency** — they've found the net just once in five games, a red flag on the road\n- Home advantage at Estádio Cidade de Coimbra favors **Académica's D. Candeias** and midfield control\n\nExpected lineups:\n\n- **Académica Coimbra**: C. Alves, Kaka, E. Farias, R. Teixeira, G. Silva, L. Silva, M. Paulo, D. Candeias, M. Rebelo, I. Hassaine, A. Rodrigues\n- **Feirense**: F. Meixedo, A. Lopes, Gustavo, A. Leal, J. Oliveira, Guilherme Meira, S. Popoola, L. Santos, Pedrinho, D. Nketia, T. Castro\n\nPrediction:\n\n**Académica 2-0 Feirense** — the hosts lean on their early-season form and Feirense's toothless streak to secure a comfortable win. ⚪",
-            "generated_at": "2026-08-13T17:41:42.742444+00:00"
-          },
-          "live_websocket": true
-        },
-        "created_at": "2026-08-08T02:15:21.269737+00:00",
-        "prob_home_win": 43.3,
-        "prob_draw": 29.2,
-        "prob_away_win": 27.5,
-        "predicted_result": "H",
-        "expected_home_goals": 1.662,
-        "expected_away_goals": 0.908,
-        "prob_over_15": 67.4,
-        "prob_over_25": 42.8,
-        "prob_over_35": 23.5,
-        "prob_btts_yes": 48.2,
-        "confidence": 0.4326,
-        "model_version": "dc-blend-v1",
-        "most_likely_score": "1-0",
-        "favorite": "H",
-        "favorite_prob": 43.3,
-        "favorite_recommend": false,
-        "over_15_recommend": false,
-        "over_25_recommend": false,
-        "over_35_recommend": false,
-        "btts_recommend": false,
-        "winner_recommend": false
-      },
-      "event_detail": {
-        "id": 374739,
-        "league": {
-          "id": 88,
-          "name": "Liga Portugal 2",
-          "country": "Portugal",
-          "is_women": false,
-          "current_season": {
-            "id": 1693,
-            "name": "Liga Portugal 2 26/27",
-            "year": 2026,
-            "start_date": "2026-07-01",
-            "end_date": "2027-06-30"
-          }
-        },
-        "season": {
-          "id": 1693,
-          "name": "Liga Portugal 2 26/27",
-          "year": 2026
-        },
-        "home_team": "Académica Coimbra",
-        "away_team": "Feirense",
-        "home_team_obj": {
-          "id": 4028,
-          "name": "Académica Coimbra",
-          "short_name": "Académica",
-          "country": "Portugal",
-          "coach": {
-            "name": "Antonio Barbosa",
-            "shortName": "A. Barbosa"
-          },
-          "venue": null
-        },
-        "away_team_obj": {
-          "id": 1312,
-          "name": "Feirense",
-          "short_name": "Feirense",
-          "country": "Portugal",
-          "coach": {
-            "name": "Mario Nunes",
-            "shortName": "M. Nunes"
-          },
-          "venue": {
-            "id": 775,
-            "name": "Estádio Marcolino de Castro",
-            "city": "Santa Maria da Feira",
-            "country": "Portugal",
-            "capacity": 5401
-          }
-        },
-        "event_date": "2026-08-14T20:00:00+03:00",
-        "round_number": 2,
-        "round_name": "",
-        "group_name": null,
-        "status": "notstarted",
-        "home_score": null,
-        "away_score": null,
-        "home_score_ht": null,
-        "away_score_ht": null,
-        "current_minute": null,
-        "period": "",
-        "odds_home": 2.12,
-        "odds_draw": 3.14,
-        "odds_away": 3.33,
-        "odds_over_15": 1.38,
-        "odds_over_25": 2.19,
-        "odds_over_35": 4,
-        "odds_under_15": 2.79,
-        "odds_under_25": 1.61,
-        "odds_under_35": 1.2,
-        "odds_btts_yes": 1.91,
-        "odds_btts_no": 1.78,
-        "actual_home_xg": null,
-        "actual_away_xg": null,
-        "home_xg_live": null,
-        "away_xg_live": null,
-        "penalty_shootout": null,
-        "extra_time_score": null,
-        "is_local_derby": false,
-        "is_neutral_ground": null,
-        "travel_distance_km": 81,
-        "weather_code": 2,
-        "wind_speed": 15.8,
-        "temperature_c": 26,
-        "pitch_condition": null,
-        "attendance": null,
-        "referee": null,
-        "home_coach": {
-          "id": 2109,
-          "name": "Antonio Barbosa",
-          "short_name": "A. Barbosa",
-          "country": "Portugal",
-          "profile": "balanced",
-          "preferred_formation": "4-3-3",
-          "pressing_intensity": null,
-          "defensive_line": "",
-          "top_styles": [
-            "anti_football",
-            "terrorist_fb"
-          ]
-        },
-        "away_coach": {
-          "id": 2740,
-          "name": "Mario Nunes",
-          "short_name": "M. Nunes",
-          "country": "Portugal",
-          "profile": "defensive",
-          "preferred_formation": "4-2-3-1",
-          "pressing_intensity": null,
-          "defensive_line": "",
-          "top_styles": []
-        },
-        "unavailable_players": null,
-        "venue": {
-          "id": 1777,
-          "name": "Estádio Cidade de Coimbra",
-          "city": "Coimbra",
-          "country": "Portugal",
-          "capacity": 29622,
-          "latitude": 40.203335,
-          "longitude": -8.407639,
-          "pitch_x": null,
-          "pitch_y": null,
-          "built_year": null
-        },
-        "live_stats": null,
-        "jerseys": {
-          "away": {
-            "GK": {
-              "base": "007337",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "000000",
-              "sleeve": "66cc00"
-            },
-            "player": {
-              "base": "0000ff",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "ffffff",
-              "sleevelong": "0000ff"
-            }
-          },
-          "home": {
-            "GK": {
-              "base": "009900",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "009900"
-            },
-            "player": {
-              "base": "000000",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "000000"
-            }
-          }
-        },
-        "funfacts": [
-          {
-            "type_id": 2,
-            "sentence": "Coimbra haven't won any of their last 5 games against Feirense."
-          },
-          {
-            "type_id": 1,
-            "sentence": "Coimbra haven't lost in their last 8 games."
-          },
-          {
-            "type_id": 1,
-            "sentence": "Coimbra haven't lost in any of their last 12 home matches."
-          }
-        ],
-        "sr_stats": null,
-        "ai_preview": {
-          "text": "**Académica's flying into Liga Portugal 2 while Feirense can't seem to find the back of the net** — this clash at Estádio Cidade de Coimbra has a clear favorite energy. 🔴\n\nAcadémica are buzzing with wins and goals (that 4-1 demolition of Chaves is a vibe), while **Feirense have drawn their last three straight** and look blunt in attack. The hosts should have the edge here.\n\nKey storylines:\n\n- **Académica's attacking threat** led by I. Hassaine and M. Rebelo against a Feirense defense that's struggled to create momentum\n- **Feirense's draw tendency** — they've found the net just once in five games, a red flag on the road\n- Home advantage at Estádio Cidade de Coimbra favors **Académica's D. Candeias** and midfield control\n\nExpected lineups:\n\n- **Académica Coimbra**: C. Alves, Kaka, E. Farias, R. Teixeira, G. Silva, L. Silva, M. Paulo, D. Candeias, M. Rebelo, I. Hassaine, A. Rodrigues\n- **Feirense**: F. Meixedo, A. Lopes, Gustavo, A. Leal, J. Oliveira, Guilherme Meira, S. Popoola, L. Santos, Pedrinho, D. Nketia, T. Castro\n\nPrediction:\n\n**Académica 2-0 Feirense** — the hosts lean on their early-season form and Feirense's toothless streak to secure a comfortable win. ⚪",
-          "generated_at": "2026-08-13T17:41:42.742444+00:00"
-        },
-        "live_websocket": true,
-        "home_form": {
-          "calculated_at": "2026-08-14",
-          "matches_played": 5,
-          "form_string": "WDLLL",
-          "wins": 1,
-          "draws": 1,
-          "losses": 3,
-          "points_last_n": 4,
-          "goals_scored_last_n": 7,
-          "goals_conceded_last_n": 8,
-          "avg_xg": 1.4,
-          "avg_xg_conceded": 1.6,
-          "avg_shots": 0,
-          "avg_shots_on_target": 0,
-          "avg_key_passes": 0,
-          "goal_conversion_rate": 0,
-          "defensive_efficiency": 0,
-          "clean_sheets": 1,
-          "avg_pass_accuracy": 0,
-          "duel_win_rate": 0,
-          "aerial_win_rate": 0,
-          "avg_fouls": 0,
-          "avg_yellow_cards": 2.2,
-          "home_ppg": 0.4,
-          "away_ppg": 0.6,
-          "home_goals_scored": 3,
-          "home_goals_conceded": 8,
-          "away_goals_scored": 8,
-          "away_goals_conceded": 11,
-          "avg_team_rating": 0
-        },
-        "away_form": {
-          "calculated_at": "2026-08-14",
-          "matches_played": 5,
-          "form_string": "DDLWD",
-          "wins": 1,
-          "draws": 3,
-          "losses": 1,
-          "points_last_n": 6,
-          "goals_scored_last_n": 5,
-          "goals_conceded_last_n": 5,
-          "avg_xg": 1,
-          "avg_xg_conceded": 1,
-          "avg_shots": 10.6,
-          "avg_shots_on_target": 2.8,
-          "avg_key_passes": 7.2,
-          "goal_conversion_rate": 0,
-          "defensive_efficiency": 0,
-          "clean_sheets": 2,
-          "avg_pass_accuracy": 73.37992844637347,
-          "duel_win_rate": 0.46954314720812185,
-          "aerial_win_rate": 0.4796747967479675,
-          "avg_fouls": 12.6,
-          "avg_yellow_cards": 3.8,
-          "home_ppg": 1,
-          "away_ppg": 1.4,
-          "home_goals_scored": 3,
-          "home_goals_conceded": 4,
-          "away_goals_scored": 5,
-          "away_goals_conceded": 9,
-          "avg_team_rating": 6.736830357142858
-        },
-        "head_to_head": {
-          "total_matches": 2,
-          "home_wins": 1,
-          "draws": 1,
-          "away_wins": 0,
-          "home_goals": 5,
-          "away_goals": 1,
-          "avg_total_goals": 3,
-          "home_win_rate": 0.5,
-          "away_win_rate": 0,
-          "recent_matches": [
-            {
-              "away": "Académica Coimbra",
-              "date": "2012-03-04T16:00:00+00:00",
-              "home": "Feirense",
-              "score": "1-1"
-            },
-            {
-              "away": "Feirense",
-              "date": "2011-09-26T19:15:00+00:00",
-              "home": "Académica Coimbra",
-              "score": "4-0"
-            }
-          ]
-        },
-        "lineups": null,
-        "social": []
-      },
-      "managers": {
-        "home": {
-          "id": 2109,
-          "name": "Antonio Barbosa",
-          "short_name": "A. Barbosa",
-          "country": "Portugal",
-          "current_team": {
-            "id": 4028,
-            "name": "Académica Coimbra"
-          },
-          "preferred_formation": "4-3-3",
-          "formations_used": {
-            "4-3-3": 19,
-            "4-5-1": 4,
-            "4-1-2-3": 4,
-            "4-1-3-2": 3,
-            "4-2-3-1": 3
-          },
-          "profile": "balanced",
-          "team_style": "neutral",
-          "pressing_intensity": null,
-          "defensive_line": "",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "anti_football",
-              "name": "Anti-Football",
-              "category": "defensive",
-              "emoji": "⏱",
-              "description": "Time-wasting, fouling, disrupting rhythm",
-              "score": 0.123
-            },
-            {
-              "rank": 2,
-              "code": "terrorist_fb",
-              "name": "Terrorist Football",
-              "category": "fan",
-              "emoji": "💣",
-              "description": "Ultra-negative setup — destroy the game",
-              "score": 0.102
-            },
-            {
-              "rank": 3,
-              "code": "man_press",
-              "name": "Man-Oriented Press",
-              "category": "pressing",
-              "emoji": "🎯",
-              "description": "Players follow their direct opponents everywhere",
-              "score": 0.075
-            },
-            {
-              "rank": 4,
-              "code": "heritage",
-              "name": "Heritage Football",
-              "category": "fan",
-              "emoji": "🪨",
-              "description": "Old-school physical, long balls and grit",
-              "score": 0.075
-            }
-          ],
-          "matches_total": 39,
-          "wins": 17,
-          "draws": 13,
-          "losses": 9,
-          "win_pct": 43.6,
-          "avg_goals_scored": 1.59,
-          "avg_goals_conceded": 1.13,
-          "avg_possession": 49.59,
-          "avg_shots": null,
-          "avg_shots_on_target": 4.35,
-          "avg_xg_for": null,
-          "avg_xg_against": null,
-          "avg_corners": 4.64,
-          "avg_yellow_cards": 1.74,
-          "avg_red_cards": 0.05,
-          "avg_fouls": 16.12,
-          "clean_sheet_pct": 28.2,
-          "btts_pct": 56.4,
-          "over_25_pct": 43.6,
-          "over_15_pct": 74.4,
-          "fail_to_score_pct": 20.5,
-          "avg_goals_scored_1h": 0.76,
-          "avg_goals_conceded_1h": 0.53
-        },
-        "away": {
-          "id": 2740,
-          "name": "Mario Nunes",
-          "short_name": "M. Nunes",
-          "country": "Portugal",
-          "current_team": {
-            "id": 1312,
-            "name": "Feirense"
-          },
-          "preferred_formation": "4-2-3-1",
-          "formations_used": {
-            "4-2-3-1": 1
-          },
-          "profile": "defensive",
-          "team_style": "soft",
-          "pressing_intensity": null,
-          "defensive_line": "",
-          "tactical_styles": [],
-          "matches_total": 3,
-          "wins": 0,
-          "draws": 3,
-          "losses": 0,
-          "win_pct": 0,
-          "avg_goals_scored": 0.67,
-          "avg_goals_conceded": 0.67,
-          "avg_possession": null,
-          "avg_shots": null,
-          "avg_shots_on_target": null,
-          "avg_xg_for": null,
-          "avg_xg_against": null,
-          "avg_corners": null,
-          "avg_yellow_cards": 0.67,
-          "avg_red_cards": 0,
-          "avg_fouls": null,
-          "clean_sheet_pct": 66.7,
-          "btts_pct": 33.3,
-          "over_25_pct": 33.3,
-          "over_15_pct": 33.3,
-          "fail_to_score_pct": 66.7,
-          "avg_goals_scored_1h": 0.67,
-          "avg_goals_conceded_1h": 0.67
         }
       }
     },
@@ -11092,6 +10478,620 @@
           "fail_to_score_pct": 28,
           "avg_goals_scored_1h": 0.96,
           "avg_goals_conceded_1h": 0.76
+        }
+      }
+    },
+    {
+      "event_id": 374739,
+      "prediction": {
+        "id": 878,
+        "event": {
+          "id": 374739,
+          "league": {
+            "id": 88,
+            "name": "Liga Portugal 2",
+            "country": "Portugal",
+            "is_women": false,
+            "current_season": {
+              "id": 1693,
+              "name": "Liga Portugal 2 26/27",
+              "year": 2026,
+              "start_date": "2026-07-01",
+              "end_date": "2027-06-30"
+            }
+          },
+          "season": {
+            "id": 1693,
+            "name": "Liga Portugal 2 26/27",
+            "year": 2026
+          },
+          "home_team": "Académica Coimbra",
+          "away_team": "Feirense",
+          "home_team_obj": {
+            "id": 4028,
+            "name": "Académica Coimbra",
+            "short_name": "Académica",
+            "country": "Portugal",
+            "coach": {
+              "name": "Antonio Barbosa",
+              "shortName": "A. Barbosa"
+            },
+            "venue": null
+          },
+          "away_team_obj": {
+            "id": 1312,
+            "name": "Feirense",
+            "short_name": "Feirense",
+            "country": "Portugal",
+            "coach": {
+              "name": "Mario Nunes",
+              "shortName": "M. Nunes"
+            },
+            "venue": {
+              "id": 775,
+              "name": "Estádio Marcolino de Castro",
+              "city": "Santa Maria da Feira",
+              "country": "Portugal",
+              "capacity": 5401
+            }
+          },
+          "event_date": "2026-08-14T17:00:00Z",
+          "round_number": 2,
+          "round_name": "",
+          "group_name": null,
+          "status": "notstarted",
+          "home_score": null,
+          "away_score": null,
+          "home_score_ht": null,
+          "away_score_ht": null,
+          "current_minute": null,
+          "period": "",
+          "odds_home": 2.12,
+          "odds_draw": 3.14,
+          "odds_away": 3.33,
+          "odds_over_15": 1.38,
+          "odds_over_25": 2.19,
+          "odds_over_35": 4,
+          "odds_under_15": 2.79,
+          "odds_under_25": 1.61,
+          "odds_under_35": 1.2,
+          "odds_btts_yes": 1.91,
+          "odds_btts_no": 1.78,
+          "actual_home_xg": null,
+          "actual_away_xg": null,
+          "home_xg_live": null,
+          "away_xg_live": null,
+          "penalty_shootout": null,
+          "extra_time_score": null,
+          "is_local_derby": false,
+          "is_neutral_ground": null,
+          "travel_distance_km": 81,
+          "weather_code": 2,
+          "wind_speed": 15.8,
+          "temperature_c": 26,
+          "pitch_condition": null,
+          "attendance": null,
+          "referee": null,
+          "home_coach": {
+            "id": 2109,
+            "name": "Antonio Barbosa",
+            "short_name": "A. Barbosa",
+            "country": "Portugal",
+            "profile": "balanced",
+            "preferred_formation": "4-3-3",
+            "pressing_intensity": null,
+            "defensive_line": "",
+            "top_styles": [
+              "anti_football",
+              "terrorist_fb"
+            ]
+          },
+          "away_coach": {
+            "id": 2740,
+            "name": "Mario Nunes",
+            "short_name": "M. Nunes",
+            "country": "Portugal",
+            "profile": "defensive",
+            "preferred_formation": "4-2-3-1",
+            "pressing_intensity": null,
+            "defensive_line": "",
+            "top_styles": []
+          },
+          "unavailable_players": null,
+          "venue": {
+            "id": 1777,
+            "name": "Estádio Cidade de Coimbra",
+            "city": "Coimbra",
+            "country": "Portugal",
+            "capacity": 29622,
+            "latitude": 40.203335,
+            "longitude": -8.407639,
+            "pitch_x": null,
+            "pitch_y": null,
+            "built_year": null
+          },
+          "incidents": null,
+          "live_stats": null,
+          "lineups": null,
+          "shotmap": null,
+          "momentum": null,
+          "xg_per_minute": null,
+          "average_positions": null,
+          "jerseys": {
+            "away": {
+              "GK": {
+                "base": "007337",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "000000",
+                "sleeve": "66cc00"
+              },
+              "player": {
+                "base": "0000ff",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "ffffff",
+                "sleeve": "ffffff",
+                "sleevelong": "0000ff"
+              }
+            },
+            "home": {
+              "GK": {
+                "base": "009900",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "ffffff",
+                "sleeve": "009900"
+              },
+              "player": {
+                "base": "000000",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "ffffff",
+                "sleeve": "000000"
+              }
+            }
+          },
+          "funfacts": [
+            {
+              "type_id": 2,
+              "sentence": "Coimbra haven't won any of their last 5 games against Feirense."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Coimbra haven't lost in their last 8 games."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Coimbra haven't lost in any of their last 12 home matches."
+            }
+          ],
+          "sr_stats": null,
+          "ai_preview": {
+            "text": "**Académica's flying into Liga Portugal 2 while Feirense can't seem to find the back of the net** — this clash at Estádio Cidade de Coimbra has a clear favorite energy. 🔴\n\nAcadémica are buzzing with wins and goals (that 4-1 demolition of Chaves is a vibe), while **Feirense have drawn their last three straight** and look blunt in attack. The hosts should have the edge here.\n\nKey storylines:\n\n- **Académica's attacking threat** led by I. Hassaine and M. Rebelo against a Feirense defense that's struggled to create momentum\n- **Feirense's draw tendency** — they've found the net just once in five games, a red flag on the road\n- Home advantage at Estádio Cidade de Coimbra favors **Académica's D. Candeias** and midfield control\n\nExpected lineups:\n\n- **Académica Coimbra**: C. Alves, Kaka, E. Farias, R. Teixeira, G. Silva, L. Silva, M. Paulo, D. Candeias, M. Rebelo, I. Hassaine, A. Rodrigues\n- **Feirense**: F. Meixedo, A. Lopes, Gustavo, A. Leal, J. Oliveira, Guilherme Meira, S. Popoola, L. Santos, Pedrinho, D. Nketia, T. Castro\n\nPrediction:\n\n**Académica 2-0 Feirense** — the hosts lean on their early-season form and Feirense's toothless streak to secure a comfortable win. ⚪",
+            "generated_at": "2026-08-13T17:41:42.742444+00:00"
+          },
+          "live_websocket": true
+        },
+        "created_at": "2026-08-08T02:15:21.269737+00:00",
+        "prob_home_win": 43.3,
+        "prob_draw": 29.2,
+        "prob_away_win": 27.5,
+        "predicted_result": "H",
+        "expected_home_goals": 1.662,
+        "expected_away_goals": 0.908,
+        "prob_over_15": 67.4,
+        "prob_over_25": 42.8,
+        "prob_over_35": 23.5,
+        "prob_btts_yes": 48.2,
+        "confidence": 0.4326,
+        "model_version": "dc-blend-v1",
+        "most_likely_score": "1-0",
+        "favorite": "H",
+        "favorite_prob": 43.3,
+        "favorite_recommend": false,
+        "over_15_recommend": false,
+        "over_25_recommend": false,
+        "over_35_recommend": false,
+        "btts_recommend": false,
+        "winner_recommend": false
+      },
+      "event_detail": {
+        "id": 374739,
+        "league": {
+          "id": 88,
+          "name": "Liga Portugal 2",
+          "country": "Portugal",
+          "is_women": false,
+          "current_season": {
+            "id": 1693,
+            "name": "Liga Portugal 2 26/27",
+            "year": 2026,
+            "start_date": "2026-07-01",
+            "end_date": "2027-06-30"
+          }
+        },
+        "season": {
+          "id": 1693,
+          "name": "Liga Portugal 2 26/27",
+          "year": 2026
+        },
+        "home_team": "Académica Coimbra",
+        "away_team": "Feirense",
+        "home_team_obj": {
+          "id": 4028,
+          "name": "Académica Coimbra",
+          "short_name": "Académica",
+          "country": "Portugal",
+          "coach": {
+            "name": "Antonio Barbosa",
+            "shortName": "A. Barbosa"
+          },
+          "venue": null
+        },
+        "away_team_obj": {
+          "id": 1312,
+          "name": "Feirense",
+          "short_name": "Feirense",
+          "country": "Portugal",
+          "coach": {
+            "name": "Mario Nunes",
+            "shortName": "M. Nunes"
+          },
+          "venue": {
+            "id": 775,
+            "name": "Estádio Marcolino de Castro",
+            "city": "Santa Maria da Feira",
+            "country": "Portugal",
+            "capacity": 5401
+          }
+        },
+        "event_date": "2026-08-14T20:00:00+03:00",
+        "round_number": 2,
+        "round_name": "",
+        "group_name": null,
+        "status": "notstarted",
+        "home_score": null,
+        "away_score": null,
+        "home_score_ht": null,
+        "away_score_ht": null,
+        "current_minute": null,
+        "period": "",
+        "odds_home": 2.12,
+        "odds_draw": 3.14,
+        "odds_away": 3.33,
+        "odds_over_15": 1.38,
+        "odds_over_25": 2.19,
+        "odds_over_35": 4,
+        "odds_under_15": 2.79,
+        "odds_under_25": 1.61,
+        "odds_under_35": 1.2,
+        "odds_btts_yes": 1.91,
+        "odds_btts_no": 1.78,
+        "actual_home_xg": null,
+        "actual_away_xg": null,
+        "home_xg_live": null,
+        "away_xg_live": null,
+        "penalty_shootout": null,
+        "extra_time_score": null,
+        "is_local_derby": false,
+        "is_neutral_ground": null,
+        "travel_distance_km": 81,
+        "weather_code": 2,
+        "wind_speed": 15.8,
+        "temperature_c": 26,
+        "pitch_condition": null,
+        "attendance": null,
+        "referee": null,
+        "home_coach": {
+          "id": 2109,
+          "name": "Antonio Barbosa",
+          "short_name": "A. Barbosa",
+          "country": "Portugal",
+          "profile": "balanced",
+          "preferred_formation": "4-3-3",
+          "pressing_intensity": null,
+          "defensive_line": "",
+          "top_styles": [
+            "anti_football",
+            "terrorist_fb"
+          ]
+        },
+        "away_coach": {
+          "id": 2740,
+          "name": "Mario Nunes",
+          "short_name": "M. Nunes",
+          "country": "Portugal",
+          "profile": "defensive",
+          "preferred_formation": "4-2-3-1",
+          "pressing_intensity": null,
+          "defensive_line": "",
+          "top_styles": []
+        },
+        "unavailable_players": null,
+        "venue": {
+          "id": 1777,
+          "name": "Estádio Cidade de Coimbra",
+          "city": "Coimbra",
+          "country": "Portugal",
+          "capacity": 29622,
+          "latitude": 40.203335,
+          "longitude": -8.407639,
+          "pitch_x": null,
+          "pitch_y": null,
+          "built_year": null
+        },
+        "live_stats": null,
+        "jerseys": {
+          "away": {
+            "GK": {
+              "base": "007337",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "000000",
+              "sleeve": "66cc00"
+            },
+            "player": {
+              "base": "0000ff",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "ffffff",
+              "sleeve": "ffffff",
+              "sleevelong": "0000ff"
+            }
+          },
+          "home": {
+            "GK": {
+              "base": "009900",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "ffffff",
+              "sleeve": "009900"
+            },
+            "player": {
+              "base": "000000",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "ffffff",
+              "sleeve": "000000"
+            }
+          }
+        },
+        "funfacts": [
+          {
+            "type_id": 2,
+            "sentence": "Coimbra haven't won any of their last 5 games against Feirense."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Coimbra haven't lost in their last 8 games."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Coimbra haven't lost in any of their last 12 home matches."
+          }
+        ],
+        "sr_stats": null,
+        "ai_preview": {
+          "text": "**Académica's flying into Liga Portugal 2 while Feirense can't seem to find the back of the net** — this clash at Estádio Cidade de Coimbra has a clear favorite energy. 🔴\n\nAcadémica are buzzing with wins and goals (that 4-1 demolition of Chaves is a vibe), while **Feirense have drawn their last three straight** and look blunt in attack. The hosts should have the edge here.\n\nKey storylines:\n\n- **Académica's attacking threat** led by I. Hassaine and M. Rebelo against a Feirense defense that's struggled to create momentum\n- **Feirense's draw tendency** — they've found the net just once in five games, a red flag on the road\n- Home advantage at Estádio Cidade de Coimbra favors **Académica's D. Candeias** and midfield control\n\nExpected lineups:\n\n- **Académica Coimbra**: C. Alves, Kaka, E. Farias, R. Teixeira, G. Silva, L. Silva, M. Paulo, D. Candeias, M. Rebelo, I. Hassaine, A. Rodrigues\n- **Feirense**: F. Meixedo, A. Lopes, Gustavo, A. Leal, J. Oliveira, Guilherme Meira, S. Popoola, L. Santos, Pedrinho, D. Nketia, T. Castro\n\nPrediction:\n\n**Académica 2-0 Feirense** — the hosts lean on their early-season form and Feirense's toothless streak to secure a comfortable win. ⚪",
+          "generated_at": "2026-08-13T17:41:42.742444+00:00"
+        },
+        "live_websocket": true,
+        "home_form": {
+          "calculated_at": "2026-08-14",
+          "matches_played": 5,
+          "form_string": "WDLLL",
+          "wins": 1,
+          "draws": 1,
+          "losses": 3,
+          "points_last_n": 4,
+          "goals_scored_last_n": 7,
+          "goals_conceded_last_n": 8,
+          "avg_xg": 1.4,
+          "avg_xg_conceded": 1.6,
+          "avg_shots": 0,
+          "avg_shots_on_target": 0,
+          "avg_key_passes": 0,
+          "goal_conversion_rate": 0,
+          "defensive_efficiency": 0,
+          "clean_sheets": 1,
+          "avg_pass_accuracy": 0,
+          "duel_win_rate": 0,
+          "aerial_win_rate": 0,
+          "avg_fouls": 0,
+          "avg_yellow_cards": 2.2,
+          "home_ppg": 0.4,
+          "away_ppg": 0.6,
+          "home_goals_scored": 3,
+          "home_goals_conceded": 8,
+          "away_goals_scored": 8,
+          "away_goals_conceded": 11,
+          "avg_team_rating": 0
+        },
+        "away_form": {
+          "calculated_at": "2026-08-14",
+          "matches_played": 5,
+          "form_string": "DDLWD",
+          "wins": 1,
+          "draws": 3,
+          "losses": 1,
+          "points_last_n": 6,
+          "goals_scored_last_n": 5,
+          "goals_conceded_last_n": 5,
+          "avg_xg": 1,
+          "avg_xg_conceded": 1,
+          "avg_shots": 10.6,
+          "avg_shots_on_target": 2.8,
+          "avg_key_passes": 7.2,
+          "goal_conversion_rate": 0,
+          "defensive_efficiency": 0,
+          "clean_sheets": 2,
+          "avg_pass_accuracy": 73.37992844637347,
+          "duel_win_rate": 0.46954314720812185,
+          "aerial_win_rate": 0.4796747967479675,
+          "avg_fouls": 12.6,
+          "avg_yellow_cards": 3.8,
+          "home_ppg": 1,
+          "away_ppg": 1.4,
+          "home_goals_scored": 3,
+          "home_goals_conceded": 4,
+          "away_goals_scored": 5,
+          "away_goals_conceded": 9,
+          "avg_team_rating": 6.736830357142858
+        },
+        "head_to_head": {
+          "total_matches": 2,
+          "home_wins": 1,
+          "draws": 1,
+          "away_wins": 0,
+          "home_goals": 5,
+          "away_goals": 1,
+          "avg_total_goals": 3,
+          "home_win_rate": 0.5,
+          "away_win_rate": 0,
+          "recent_matches": [
+            {
+              "away": "Académica Coimbra",
+              "date": "2012-03-04T16:00:00+00:00",
+              "home": "Feirense",
+              "score": "1-1"
+            },
+            {
+              "away": "Feirense",
+              "date": "2011-09-26T19:15:00+00:00",
+              "home": "Académica Coimbra",
+              "score": "4-0"
+            }
+          ]
+        },
+        "lineups": null,
+        "social": []
+      },
+      "managers": {
+        "home": {
+          "id": 2109,
+          "name": "Antonio Barbosa",
+          "short_name": "A. Barbosa",
+          "country": "Portugal",
+          "current_team": {
+            "id": 4028,
+            "name": "Académica Coimbra"
+          },
+          "preferred_formation": "4-3-3",
+          "formations_used": {
+            "4-3-3": 19,
+            "4-5-1": 4,
+            "4-1-2-3": 4,
+            "4-1-3-2": 3,
+            "4-2-3-1": 3
+          },
+          "profile": "balanced",
+          "team_style": "neutral",
+          "pressing_intensity": null,
+          "defensive_line": "",
+          "tactical_styles": [
+            {
+              "rank": 1,
+              "code": "anti_football",
+              "name": "Anti-Football",
+              "category": "defensive",
+              "emoji": "⏱",
+              "description": "Time-wasting, fouling, disrupting rhythm",
+              "score": 0.123
+            },
+            {
+              "rank": 2,
+              "code": "terrorist_fb",
+              "name": "Terrorist Football",
+              "category": "fan",
+              "emoji": "💣",
+              "description": "Ultra-negative setup — destroy the game",
+              "score": 0.102
+            },
+            {
+              "rank": 3,
+              "code": "man_press",
+              "name": "Man-Oriented Press",
+              "category": "pressing",
+              "emoji": "🎯",
+              "description": "Players follow their direct opponents everywhere",
+              "score": 0.075
+            },
+            {
+              "rank": 4,
+              "code": "heritage",
+              "name": "Heritage Football",
+              "category": "fan",
+              "emoji": "🪨",
+              "description": "Old-school physical, long balls and grit",
+              "score": 0.075
+            }
+          ],
+          "matches_total": 39,
+          "wins": 17,
+          "draws": 13,
+          "losses": 9,
+          "win_pct": 43.6,
+          "avg_goals_scored": 1.59,
+          "avg_goals_conceded": 1.13,
+          "avg_possession": 49.59,
+          "avg_shots": null,
+          "avg_shots_on_target": 4.35,
+          "avg_xg_for": null,
+          "avg_xg_against": null,
+          "avg_corners": 4.64,
+          "avg_yellow_cards": 1.74,
+          "avg_red_cards": 0.05,
+          "avg_fouls": 16.12,
+          "clean_sheet_pct": 28.2,
+          "btts_pct": 56.4,
+          "over_25_pct": 43.6,
+          "over_15_pct": 74.4,
+          "fail_to_score_pct": 20.5,
+          "avg_goals_scored_1h": 0.76,
+          "avg_goals_conceded_1h": 0.53
+        },
+        "away": {
+          "id": 2740,
+          "name": "Mario Nunes",
+          "short_name": "M. Nunes",
+          "country": "Portugal",
+          "current_team": {
+            "id": 1312,
+            "name": "Feirense"
+          },
+          "preferred_formation": "4-2-3-1",
+          "formations_used": {
+            "4-2-3-1": 1
+          },
+          "profile": "defensive",
+          "team_style": "soft",
+          "pressing_intensity": null,
+          "defensive_line": "",
+          "tactical_styles": [],
+          "matches_total": 3,
+          "wins": 0,
+          "draws": 3,
+          "losses": 0,
+          "win_pct": 0,
+          "avg_goals_scored": 0.67,
+          "avg_goals_conceded": 0.67,
+          "avg_possession": null,
+          "avg_shots": null,
+          "avg_shots_on_target": null,
+          "avg_xg_for": null,
+          "avg_xg_against": null,
+          "avg_corners": null,
+          "avg_yellow_cards": 0.67,
+          "avg_red_cards": 0,
+          "avg_fouls": null,
+          "clean_sheet_pct": 66.7,
+          "btts_pct": 33.3,
+          "over_25_pct": 33.3,
+          "over_15_pct": 33.3,
+          "fail_to_score_pct": 66.7,
+          "avg_goals_scored_1h": 0.67,
+          "avg_goals_conceded_1h": 0.67
         }
       }
     },
@@ -16002,7 +16002,7 @@
         "prob_draw": 22.4,
         "prob_away_win": 17.8,
         "predicted_result": "H",
-        "expected_home_goals": 2.02,
+        "expected_home_goals": 2.019,
         "expected_away_goals": 0.981,
         "prob_over_15": 78.4,
         "prob_over_25": 57.5,
@@ -17106,6 +17106,1412 @@
       }
     },
     {
+      "event_id": 580481,
+      "prediction": {
+        "id": 866,
+        "event": {
+          "id": 580481,
+          "league": {
+            "id": 89,
+            "name": "Ligue 2",
+            "country": "France",
+            "is_women": false,
+            "current_season": {
+              "id": 1848,
+              "name": "Ligue 2 26/27",
+              "year": 2026,
+              "start_date": "2026-07-01",
+              "end_date": "2027-06-30"
+            }
+          },
+          "season": {
+            "id": 1848,
+            "name": "Ligue 2 26/27",
+            "year": 2026
+          },
+          "home_team": "Grenoble Foot 38",
+          "away_team": "Metz",
+          "home_team_obj": {
+            "id": 1635,
+            "name": "Grenoble Foot 38",
+            "short_name": "Grenoble",
+            "country": "France",
+            "coach": {
+              "name": "Olivier Frapolli",
+              "shortName": "O. Frapolli"
+            },
+            "venue": null
+          },
+          "away_team_obj": {
+            "id": 111,
+            "name": "Metz",
+            "short_name": "Metz",
+            "country": "France",
+            "coach": {
+              "name": "Luc Holtz",
+              "shortName": "L. Holtz"
+            },
+            "venue": {
+              "id": 109,
+              "name": "Stade Saint Symphorien",
+              "city": "Metz",
+              "country": "France",
+              "capacity": 28786
+            }
+          },
+          "event_date": "2026-08-14T18:45:00Z",
+          "round_number": 2,
+          "round_name": "",
+          "group_name": null,
+          "status": "notstarted",
+          "home_score": null,
+          "away_score": null,
+          "home_score_ht": null,
+          "away_score_ht": null,
+          "current_minute": null,
+          "period": "",
+          "odds_home": 3.53,
+          "odds_draw": 3.36,
+          "odds_away": 2,
+          "odds_over_15": 1.29,
+          "odds_over_25": 1.93,
+          "odds_over_35": 3.29,
+          "odds_under_15": 3.3,
+          "odds_under_25": 1.8,
+          "odds_under_35": 1.29,
+          "odds_btts_yes": 1.76,
+          "odds_btts_no": 1.94,
+          "actual_home_xg": null,
+          "actual_away_xg": null,
+          "home_xg_live": null,
+          "away_xg_live": null,
+          "penalty_shootout": null,
+          "extra_time_score": null,
+          "is_local_derby": false,
+          "is_neutral_ground": null,
+          "travel_distance_km": 438,
+          "weather_code": 3,
+          "wind_speed": 15,
+          "temperature_c": 29,
+          "pitch_condition": null,
+          "attendance": null,
+          "referee": {
+            "id": 1930,
+            "name": "Faouzi Benchabane",
+            "country": "France",
+            "nationality_a3": "",
+            "birthdate": null,
+            "yellowCards": 479,
+            "redCards": 20,
+            "career_games": 121,
+            "career_yellow_cards": 479,
+            "career_red_cards": 20
+          },
+          "home_coach": {
+            "id": 1050,
+            "name": "Olivier Frapolli",
+            "short_name": "O. Frapolli",
+            "country": "France",
+            "profile": "balanced",
+            "preferred_formation": "4-5-1",
+            "pressing_intensity": 0.41689404946988556,
+            "defensive_line": "high",
+            "top_styles": [
+              "terrorist_fb",
+              "park_the_bus"
+            ]
+          },
+          "away_coach": {
+            "id": 1883,
+            "name": "Luc Holtz",
+            "short_name": "L. Holtz",
+            "country": "Luxembourg",
+            "profile": "attacking",
+            "preferred_formation": "4-2-3-1",
+            "pressing_intensity": null,
+            "defensive_line": "",
+            "top_styles": []
+          },
+          "unavailable_players": null,
+          "venue": {
+            "id": 1039,
+            "name": "Stade des Alpes",
+            "city": "Grenoble",
+            "country": "France",
+            "capacity": 20068,
+            "latitude": 45.187428,
+            "longitude": 5.740099,
+            "pitch_x": null,
+            "pitch_y": null,
+            "built_year": 2008
+          },
+          "incidents": null,
+          "live_stats": null,
+          "lineups": null,
+          "shotmap": null,
+          "momentum": null,
+          "xg_per_minute": null,
+          "average_positions": null,
+          "jerseys": {
+            "away": {
+              "GK": {
+                "base": "c33b8a",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "dbe821",
+                "sleeve": "bc418a"
+              },
+              "player": {
+                "base": "932232",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "ba9047",
+                "sleeve": "7f3034",
+                "sleevelong": "d29f46"
+              }
+            },
+            "home": {
+              "GK": {
+                "base": "b53334",
+                "real": true,
+                "type": "long_sleeves",
+                "number": "f5f2f2",
+                "sleeve": "a31d22"
+              },
+              "player": {
+                "base": "083d9a",
+                "real": true,
+                "type": "short_sleeves",
+                "split": "2b3663",
+                "number": "fafafa",
+                "sleeve": "0b367f"
+              }
+            }
+          },
+          "funfacts": [
+            {
+              "type_id": 1,
+              "sentence": "Grenoble haven't won in their last 5 games."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Metz haven't lost in their last 7 games."
+            },
+            {
+              "type_id": 1,
+              "sentence": "Grenoble haven't lost in any of their last 7 home matches."
+            }
+          ],
+          "sr_stats": null,
+          "ai_preview": {
+            "text": "**Metz are absolutely rolling, and Grenoble are in freefall — this feels like a statement performance brewing.** 🔥 The visitors arrive in Ligue 2 round 2 with five straight wins, while the hosts have won once in their last five and look genuinely shaky defensively.\n\nGrenoble's backline has conceded 9 goals in just three friendlies and barely held on for a 1-1 draw midweek. Metz, by contrast, have been clinical and ruthless at the Stade Saint-Symphorien — 9 goals in three outings. The momentum gap is *massive*.\n\nKey storylines:\n\n- **Metz's attacking confidence** against a leaky **Grenoble** defense should be the main event here.\n- **N. Mbala** and **P. M. Fall** leading the charge for the visitors after a string of multi-goal performances.\n- **U. Bonnet** will need to be sharp for Grenoble, but the pressure on their back four looks relentless.\n\nExpected lineups:\n\n- **Grenoble Foot 38**: A. Olliero, M. Xantippe, L. Bernadou, E. Sarıkaya, C. Vidal, M. Corboz, S. Diba, E. F. Maurin, B. Mouazan, U. Bonnet, Y. Diaby\n\n- **Metz**: J. Fischer, M. Colin, I. Mohamed, U. Mboula, B. Sarr, B. Munongo, A. Touré, G. Abuashvili, J. Deminguet, N. Mbala, P. M. Fall\n\nPrediction:\n\n**Metz 3–1 Grenoble.** Metz have a clear edge in form and should cruise to three points away from home.",
+            "generated_at": "2026-08-13T19:41:35.992482+00:00"
+          },
+          "live_websocket": true
+        },
+        "created_at": "2026-08-08T02:15:21.177556+00:00",
+        "prob_home_win": 26.2,
+        "prob_draw": 27.5,
+        "prob_away_win": 46.3,
+        "predicted_result": "A",
+        "expected_home_goals": 1.498,
+        "expected_away_goals": 1.116,
+        "prob_over_15": 72,
+        "prob_over_25": 48.2,
+        "prob_over_35": 27.7,
+        "prob_btts_yes": 52.4,
+        "confidence": 0.4626,
+        "model_version": "dc-blend-v1",
+        "most_likely_score": "1-1",
+        "favorite": "A",
+        "favorite_prob": 46.3,
+        "favorite_recommend": false,
+        "over_15_recommend": false,
+        "over_25_recommend": false,
+        "over_35_recommend": false,
+        "btts_recommend": false,
+        "winner_recommend": false
+      },
+      "event_detail": {
+        "id": 580481,
+        "league": {
+          "id": 89,
+          "name": "Ligue 2",
+          "country": "France",
+          "is_women": false,
+          "current_season": {
+            "id": 1848,
+            "name": "Ligue 2 26/27",
+            "year": 2026,
+            "start_date": "2026-07-01",
+            "end_date": "2027-06-30"
+          }
+        },
+        "season": {
+          "id": 1848,
+          "name": "Ligue 2 26/27",
+          "year": 2026
+        },
+        "home_team": "Grenoble Foot 38",
+        "away_team": "Metz",
+        "home_team_obj": {
+          "id": 1635,
+          "name": "Grenoble Foot 38",
+          "short_name": "Grenoble",
+          "country": "France",
+          "coach": {
+            "name": "Olivier Frapolli",
+            "shortName": "O. Frapolli"
+          },
+          "venue": null
+        },
+        "away_team_obj": {
+          "id": 111,
+          "name": "Metz",
+          "short_name": "Metz",
+          "country": "France",
+          "coach": {
+            "name": "Luc Holtz",
+            "shortName": "L. Holtz"
+          },
+          "venue": {
+            "id": 109,
+            "name": "Stade Saint Symphorien",
+            "city": "Metz",
+            "country": "France",
+            "capacity": 28786
+          }
+        },
+        "event_date": "2026-08-14T21:45:00+03:00",
+        "round_number": 2,
+        "round_name": "",
+        "group_name": null,
+        "status": "notstarted",
+        "home_score": null,
+        "away_score": null,
+        "home_score_ht": null,
+        "away_score_ht": null,
+        "current_minute": null,
+        "period": "",
+        "odds_home": 3.53,
+        "odds_draw": 3.36,
+        "odds_away": 2,
+        "odds_over_15": 1.29,
+        "odds_over_25": 1.93,
+        "odds_over_35": 3.29,
+        "odds_under_15": 3.3,
+        "odds_under_25": 1.8,
+        "odds_under_35": 1.29,
+        "odds_btts_yes": 1.76,
+        "odds_btts_no": 1.94,
+        "actual_home_xg": null,
+        "actual_away_xg": null,
+        "home_xg_live": null,
+        "away_xg_live": null,
+        "penalty_shootout": null,
+        "extra_time_score": null,
+        "is_local_derby": false,
+        "is_neutral_ground": null,
+        "travel_distance_km": 438,
+        "weather_code": 3,
+        "wind_speed": 15,
+        "temperature_c": 29,
+        "pitch_condition": null,
+        "attendance": null,
+        "referee": {
+          "id": 1930,
+          "name": "Faouzi Benchabane",
+          "country": "France",
+          "nationality_a3": "",
+          "birthdate": null,
+          "yellowCards": 479,
+          "redCards": 20,
+          "career_games": 121,
+          "career_yellow_cards": 479,
+          "career_red_cards": 20
+        },
+        "home_coach": {
+          "id": 1050,
+          "name": "Olivier Frapolli",
+          "short_name": "O. Frapolli",
+          "country": "France",
+          "profile": "balanced",
+          "preferred_formation": "4-5-1",
+          "pressing_intensity": 0.41689404946988556,
+          "defensive_line": "high",
+          "top_styles": [
+            "terrorist_fb",
+            "park_the_bus"
+          ]
+        },
+        "away_coach": {
+          "id": 1883,
+          "name": "Luc Holtz",
+          "short_name": "L. Holtz",
+          "country": "Luxembourg",
+          "profile": "attacking",
+          "preferred_formation": "4-2-3-1",
+          "pressing_intensity": null,
+          "defensive_line": "",
+          "top_styles": []
+        },
+        "unavailable_players": null,
+        "venue": {
+          "id": 1039,
+          "name": "Stade des Alpes",
+          "city": "Grenoble",
+          "country": "France",
+          "capacity": 20068,
+          "latitude": 45.187428,
+          "longitude": 5.740099,
+          "pitch_x": null,
+          "pitch_y": null,
+          "built_year": 2008
+        },
+        "live_stats": null,
+        "jerseys": {
+          "away": {
+            "GK": {
+              "base": "c33b8a",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "dbe821",
+              "sleeve": "bc418a"
+            },
+            "player": {
+              "base": "932232",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "ba9047",
+              "sleeve": "7f3034",
+              "sleevelong": "d29f46"
+            }
+          },
+          "home": {
+            "GK": {
+              "base": "b53334",
+              "real": true,
+              "type": "long_sleeves",
+              "number": "f5f2f2",
+              "sleeve": "a31d22"
+            },
+            "player": {
+              "base": "083d9a",
+              "real": true,
+              "type": "short_sleeves",
+              "split": "2b3663",
+              "number": "fafafa",
+              "sleeve": "0b367f"
+            }
+          }
+        },
+        "funfacts": [
+          {
+            "type_id": 1,
+            "sentence": "Grenoble haven't won in their last 5 games."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Metz haven't lost in their last 7 games."
+          },
+          {
+            "type_id": 1,
+            "sentence": "Grenoble haven't lost in any of their last 7 home matches."
+          }
+        ],
+        "sr_stats": null,
+        "ai_preview": {
+          "text": "**Metz are absolutely rolling, and Grenoble are in freefall — this feels like a statement performance brewing.** 🔥 The visitors arrive in Ligue 2 round 2 with five straight wins, while the hosts have won once in their last five and look genuinely shaky defensively.\n\nGrenoble's backline has conceded 9 goals in just three friendlies and barely held on for a 1-1 draw midweek. Metz, by contrast, have been clinical and ruthless at the Stade Saint-Symphorien — 9 goals in three outings. The momentum gap is *massive*.\n\nKey storylines:\n\n- **Metz's attacking confidence** against a leaky **Grenoble** defense should be the main event here.\n- **N. Mbala** and **P. M. Fall** leading the charge for the visitors after a string of multi-goal performances.\n- **U. Bonnet** will need to be sharp for Grenoble, but the pressure on their back four looks relentless.\n\nExpected lineups:\n\n- **Grenoble Foot 38**: A. Olliero, M. Xantippe, L. Bernadou, E. Sarıkaya, C. Vidal, M. Corboz, S. Diba, E. F. Maurin, B. Mouazan, U. Bonnet, Y. Diaby\n\n- **Metz**: J. Fischer, M. Colin, I. Mohamed, U. Mboula, B. Sarr, B. Munongo, A. Touré, G. Abuashvili, J. Deminguet, N. Mbala, P. M. Fall\n\nPrediction:\n\n**Metz 3–1 Grenoble.** Metz have a clear edge in form and should cruise to three points away from home.",
+          "generated_at": "2026-08-13T19:41:35.992482+00:00"
+        },
+        "live_websocket": true,
+        "home_form": {
+          "calculated_at": "2026-08-14",
+          "matches_played": 5,
+          "form_string": "LWWDL",
+          "wins": 2,
+          "draws": 1,
+          "losses": 2,
+          "points_last_n": 7,
+          "goals_scored_last_n": 6,
+          "goals_conceded_last_n": 7,
+          "avg_xg": 1.2,
+          "avg_xg_conceded": 1.4,
+          "avg_shots": 7.8,
+          "avg_shots_on_target": 2.6,
+          "avg_key_passes": 6.2,
+          "goal_conversion_rate": 0,
+          "defensive_efficiency": 0,
+          "clean_sheets": 2,
+          "avg_pass_accuracy": 76.48630306991015,
+          "duel_win_rate": 0.5076586433260394,
+          "aerial_win_rate": 0.5133333333333333,
+          "avg_fouls": 10.8,
+          "avg_yellow_cards": 2,
+          "home_ppg": 1.4,
+          "away_ppg": 0.8,
+          "home_goals_scored": 4,
+          "home_goals_conceded": 3,
+          "away_goals_scored": 7,
+          "away_goals_conceded": 10,
+          "avg_team_rating": 6.733833333333334
+        },
+        "away_form": {
+          "calculated_at": "2026-08-14",
+          "matches_played": 5,
+          "form_string": "WWDLD",
+          "wins": 2,
+          "draws": 2,
+          "losses": 1,
+          "points_last_n": 8,
+          "goals_scored_last_n": 11,
+          "goals_conceded_last_n": 10,
+          "avg_xg": 2.2,
+          "avg_xg_conceded": 2,
+          "avg_shots": 14.6,
+          "avg_shots_on_target": 6.4,
+          "avg_key_passes": 11,
+          "goal_conversion_rate": 0,
+          "defensive_efficiency": 0,
+          "clean_sheets": 0,
+          "avg_pass_accuracy": 87.11365799595391,
+          "duel_win_rate": 0.5153664302600472,
+          "aerial_win_rate": 0.528,
+          "avg_fouls": 10.2,
+          "avg_yellow_cards": 2.4,
+          "home_ppg": 2.2,
+          "away_ppg": 2,
+          "home_goals_scored": 14,
+          "home_goals_conceded": 8,
+          "away_goals_scored": 13,
+          "away_goals_conceded": 9,
+          "avg_team_rating": 6.925059523809523
+        },
+        "head_to_head": {
+          "total_matches": 8,
+          "home_wins": 3,
+          "draws": 2,
+          "away_wins": 3,
+          "home_goals": 6,
+          "away_goals": 7,
+          "avg_total_goals": 1.625,
+          "home_win_rate": 0.375,
+          "away_win_rate": 0.375,
+          "recent_matches": [
+            {
+              "away": "Grenoble Foot 38",
+              "date": "2025-01-24T19:00:00+00:00",
+              "home": "Metz",
+              "score": "3-0"
+            },
+            {
+              "away": "Metz",
+              "date": "2024-10-18T18:00:00+00:00",
+              "home": "Grenoble Foot 38",
+              "score": "2-0"
+            },
+            {
+              "away": "Grenoble Foot 38",
+              "date": "2023-05-13T17:00:00+00:00",
+              "home": "Metz",
+              "score": "1-0"
+            },
+            {
+              "away": "Metz",
+              "date": "2022-12-30T20:00:00+00:00",
+              "home": "Grenoble Foot 38",
+              "score": "0-1"
+            },
+            {
+              "away": "Grenoble Foot 38",
+              "date": "2019-04-23T18:00:00+00:00",
+              "home": "Metz",
+              "score": "1-1"
+            },
+            {
+              "away": "Metz",
+              "date": "2018-12-01T13:00:00+00:00",
+              "home": "Grenoble Foot 38",
+              "score": "1-1"
+            },
+            {
+              "away": "Grenoble Foot 38",
+              "date": "2011-04-01T18:00:00+00:00",
+              "home": "Metz",
+              "score": "0-1"
+            },
+            {
+              "away": "Metz",
+              "date": "2010-10-19T18:00:00+00:00",
+              "home": "Grenoble Foot 38",
+              "score": "1-0"
+            }
+          ]
+        },
+        "lineups": null,
+        "social": []
+      },
+      "managers": {
+        "home": {
+          "id": 1072,
+          "name": "Franck Rizzetto",
+          "short_name": "F. Rizzetto",
+          "country": "France",
+          "current_team": {
+            "id": 1635,
+            "name": "Grenoble Foot 38"
+          },
+          "preferred_formation": "",
+          "formations_used": {},
+          "profile": "attacking",
+          "team_style": "soft",
+          "pressing_intensity": null,
+          "defensive_line": "",
+          "tactical_styles": [],
+          "matches_total": 3,
+          "wins": 2,
+          "draws": 1,
+          "losses": 0,
+          "win_pct": 66.7,
+          "avg_goals_scored": 2,
+          "avg_goals_conceded": 0.67,
+          "avg_possession": 48,
+          "avg_shots": 11,
+          "avg_shots_on_target": 5,
+          "avg_xg_for": null,
+          "avg_xg_against": null,
+          "avg_corners": 5,
+          "avg_yellow_cards": 0.33,
+          "avg_red_cards": 0,
+          "avg_fouls": 12,
+          "clean_sheet_pct": 33.3,
+          "btts_pct": 66.7,
+          "over_25_pct": 66.7,
+          "over_15_pct": 100,
+          "fail_to_score_pct": 0,
+          "avg_goals_scored_1h": 0.67,
+          "avg_goals_conceded_1h": 0.33
+        },
+        "away": {
+          "id": 408,
+          "name": "Benoit Tavenot",
+          "short_name": "B. Tavenot",
+          "country": "France",
+          "current_team": {
+            "id": 111,
+            "name": "Metz"
+          },
+          "preferred_formation": "4-2-3-1",
+          "formations_used": {
+            "3-5-2": 1,
+            "4-3-3": 4,
+            "5-3-2": 2,
+            "3-4-2-1": 5,
+            "4-1-4-1": 3,
+            "4-2-3-1": 20
+          },
+          "profile": "defensive",
+          "team_style": "neutral",
+          "pressing_intensity": 0.44525168374402,
+          "defensive_line": "mid",
+          "tactical_styles": [
+            {
+              "rank": 1,
+              "code": "park_the_bus",
+              "name": "Park the Bus",
+              "category": "defensive",
+              "emoji": "🚌",
+              "description": "Ultra-deep defense, minimal attacking intent",
+              "score": 0.118
+            },
+            {
+              "rank": 2,
+              "code": "tiki_taka",
+              "name": "Tiki-Taka",
+              "category": "possession",
+              "emoji": "🎨",
+              "description": "Short passing, domination via possession",
+              "score": 0.061
+            },
+            {
+              "rank": 3,
+              "code": "low_block",
+              "name": "Low Block",
+              "category": "defensive",
+              "emoji": "🛡",
+              "description": "Compact defensive shape near own box",
+              "score": 0.055
+            },
+            {
+              "rank": 4,
+              "code": "terrorist_fb",
+              "name": "Terrorist Football",
+              "category": "fan",
+              "emoji": "💣",
+              "description": "Ultra-negative setup — destroy the game",
+              "score": 0.05
+            }
+          ],
+          "matches_total": 35,
+          "wins": 3,
+          "draws": 8,
+          "losses": 24,
+          "win_pct": 8.6,
+          "avg_goals_scored": 0.91,
+          "avg_goals_conceded": 2.29,
+          "avg_possession": 49.51,
+          "avg_shots": 10.14,
+          "avg_shots_on_target": 3.23,
+          "avg_xg_for": 1.01,
+          "avg_xg_against": 1.84,
+          "avg_corners": 4.2,
+          "avg_yellow_cards": 1.6,
+          "avg_red_cards": 0.09,
+          "avg_fouls": 11.26,
+          "clean_sheet_pct": 20,
+          "btts_pct": 48.6,
+          "over_25_pct": 62.9,
+          "over_15_pct": 74.3,
+          "fail_to_score_pct": 45.7,
+          "avg_goals_scored_1h": 0.4,
+          "avg_goals_conceded_1h": 1.03
+        }
+      }
+    },
+    {
+      "event_id": 211312,
+      "prediction": {
+        "id": 867,
+        "event": {
+          "id": 211312,
+          "league": {
+            "id": 14,
+            "name": "Pro League",
+            "country": "Belgium",
+            "is_women": false,
+            "current_season": {
+              "id": 1327,
+              "name": "Pro League 26/27",
+              "year": 2026,
+              "start_date": "2026-07-01",
+              "end_date": "2027-06-30"
+            }
+          },
+          "season": {
+            "id": 1327,
+            "name": "Pro League 26/27",
+            "year": 2026
+          },
+          "home_team": "Cercle Brugge",
+          "away_team": "Sint-Truidense VV",
+          "home_team_obj": {
+            "id": 235,
+            "name": "Cercle Brugge",
+            "short_name": "Cercle Brugge",
+            "country": "Belgium",
+            "coach": {
+              "name": "Lars Friis",
+              "shortName": "L. Friis"
+            },
+            "venue": null
+          },
+          "away_team_obj": {
+            "id": 244,
+            "name": "Sint-Truidense VV",
+            "short_name": "St. Truidense",
+            "country": "Belgium",
+            "coach": {
+              "name": "Frédéric De Meyer",
+              "shortName": "F. D. Meyer"
+            },
+            "venue": {
+              "id": 235,
+              "name": "Stayen",
+              "city": "Sint- Truiden",
+              "country": "Belgium",
+              "capacity": 14600
+            }
+          },
+          "event_date": "2026-08-14T18:45:00Z",
+          "round_number": 2,
+          "round_name": "",
+          "group_name": null,
+          "status": "notstarted",
+          "home_score": null,
+          "away_score": null,
+          "home_score_ht": null,
+          "away_score_ht": null,
+          "current_minute": null,
+          "period": "",
+          "odds_home": 2.28,
+          "odds_draw": 3.5,
+          "odds_away": 2.89,
+          "odds_over_15": 1.21,
+          "odds_over_25": 1.69,
+          "odds_over_35": 2.7,
+          "odds_under_15": 4.07,
+          "odds_under_25": 2.09,
+          "odds_under_35": 1.42,
+          "odds_btts_yes": 1.57,
+          "odds_btts_no": 2.26,
+          "actual_home_xg": null,
+          "actual_away_xg": null,
+          "home_xg_live": null,
+          "away_xg_live": null,
+          "penalty_shootout": null,
+          "extra_time_score": null,
+          "is_local_derby": false,
+          "is_neutral_ground": null,
+          "travel_distance_km": 146,
+          "weather_code": 3,
+          "wind_speed": 7.2,
+          "temperature_c": 21,
+          "pitch_condition": null,
+          "attendance": null,
+          "referee": {
+            "id": 1842,
+            "name": "Jan Boterberg",
+            "country": "Belgium",
+            "nationality_a3": "",
+            "birthdate": null,
+            "yellowCards": 763,
+            "redCards": 24,
+            "career_games": 200,
+            "career_yellow_cards": 763,
+            "career_red_cards": 24
+          },
+          "home_coach": {
+            "id": 250,
+            "name": "Lars Friis",
+            "short_name": "L. Friis",
+            "country": "Denmark",
+            "profile": "balanced",
+            "preferred_formation": "4-4-2",
+            "pressing_intensity": 0.74724388360226,
+            "defensive_line": "mid",
+            "top_styles": [
+              "cross_pray",
+              "gegenpressing"
+            ]
+          },
+          "away_coach": {
+            "id": 1924,
+            "name": "Frédéric De Meyer",
+            "short_name": "F. D. Meyer",
+            "country": "Belgium",
+            "profile": "attacking",
+            "preferred_formation": "4-2-3-1",
+            "pressing_intensity": 0.8171521581715688,
+            "defensive_line": "mid",
+            "top_styles": [
+              "wing_play",
+              "cross_pray"
+            ]
+          },
+          "unavailable_players": null,
+          "venue": {
+            "id": 121,
+            "name": "Jan Breydel Stadium",
+            "city": "Bruges",
+            "country": "Belgium",
+            "capacity": 29975,
+            "latitude": 51.193272,
+            "longitude": 3.180583,
+            "pitch_x": 105,
+            "pitch_y": 68,
+            "built_year": 1975
+          },
+          "incidents": null,
+          "live_stats": null,
+          "lineups": null,
+          "shotmap": null,
+          "momentum": null,
+          "xg_per_minute": null,
+          "average_positions": null,
+          "jerseys": {
+            "away": {
+              "GK": {
+                "base": "6ea3d4",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "121212",
+                "sleeve": "7db1e1"
+              },
+              "player": {
+                "base": "ffea00",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "121212",
+                "sleeve": "006acb"
+              }
+            },
+            "home": {
+              "GK": {
+                "base": "8c78fe",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "ffffff",
+                "sleeve": "fbe17a"
+              },
+              "player": {
+                "base": "8cdd43",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "ffffff",
+                "sleeve": "0a0a0a",
+                "stripes": "000000",
+                "sleevelong": "8cdd43"
+              }
+            }
+          },
+          "funfacts": [
+            {
+              "type_id": 1,
+              "sentence": "Cercle Brugge haven't won in their last 7 games."
+            },
+            {
+              "type_id": 6,
+              "sentence": "During the last 22 meetings with Cercle Brugge playing at home, Cercle Brugge have won 13 times, there have been 4 draws while St. Truidense have won 5 times. The goal difference is 45-23 in favour of Cercle Brugge."
+            },
+            {
+              "type_id": 23,
+              "sentence": "Last season's matches: 1-1 (Cercle Brugge at home) and 2-1 (St. Truidense at home)."
+            }
+          ],
+          "sr_stats": null,
+          "ai_preview": {
+            "text": "**Cercle Brugge are heavy favorites at home**, but Sint-Truidense won't roll over without a fight — both sides are riding shaky form heading into round 2. 🔴⚪\n\nCercle have drawn twice in their last five but also got tonked 3-0 by Reims, while Sint-Truidense are just 1W in five themselves. The hosts' superior home record and head-to-head edge (5 wins in 10) should tell the story, though this Belgian derby rarely settles neatly.\n\nKey storylines:\n\n- **Cercle Brugge's** defensive setup in a 3-5-2 will lean on G. Kondo and E. Kakou to hold the line against Sint-Truidense's compact 4-2-3-1.\n- **D. Vanzeir** and **S. Ngoura** are tasked with breaking through a Sint-Truidense backline that's conceded 3 goals in their last outing.\n- **Sint-Truidense's** midfield duo of **A. Sissako** and **R. Yamamoto** will need to disrupt Cercle's build-up play to stay in this one.\n\nExpected lineups:\n\n- **Cercle Brugge**: G. Coucke, G. Kondo, E. Kakou, C. Ravych, V. Konaté, I. Diakité, H. V. D. Bruggen, M. I. Diaby, L. Agyekum, D. Vanzeir, S. Ngoura\n- **Sint-Truidense VV**: M. Lendfers, T. Hata, R. Merlen, J. Pupe, R. Vanwesemael, A. Sissako, R. Yamamoto, I. Sebaoui, K. Matsuzawa, K. Goto, F. S. Soelle\n\nPrediction:\n\n**Cercle Brugge 2–1 Sint-Truidense VV**. Home comfort and the head-to-head record give Cercle a clear edge. 🎯",
+            "generated_at": "2026-08-13T19:41:41.213238+00:00"
+          },
+          "live_websocket": true
+        },
+        "created_at": "2026-08-08T02:15:21.188525+00:00",
+        "prob_home_win": 41,
+        "prob_draw": 26.7,
+        "prob_away_win": 32.3,
+        "predicted_result": "H",
+        "expected_home_goals": 1.585,
+        "expected_away_goals": 1.434,
+        "prob_over_15": 77.2,
+        "prob_over_25": 55.4,
+        "prob_over_35": 34.4,
+        "prob_btts_yes": 59,
+        "confidence": 0.4098,
+        "model_version": "dc-blend-v1",
+        "most_likely_score": "1-1",
+        "favorite": "H",
+        "favorite_prob": 41,
+        "favorite_recommend": false,
+        "over_15_recommend": false,
+        "over_25_recommend": false,
+        "over_35_recommend": false,
+        "btts_recommend": false,
+        "winner_recommend": false
+      },
+      "event_detail": {
+        "id": 211312,
+        "league": {
+          "id": 14,
+          "name": "Pro League",
+          "country": "Belgium",
+          "is_women": false,
+          "current_season": {
+            "id": 1327,
+            "name": "Pro League 26/27",
+            "year": 2026,
+            "start_date": "2026-07-01",
+            "end_date": "2027-06-30"
+          }
+        },
+        "season": {
+          "id": 1327,
+          "name": "Pro League 26/27",
+          "year": 2026
+        },
+        "home_team": "Cercle Brugge",
+        "away_team": "Sint-Truidense VV",
+        "home_team_obj": {
+          "id": 235,
+          "name": "Cercle Brugge",
+          "short_name": "Cercle Brugge",
+          "country": "Belgium",
+          "coach": {
+            "name": "Lars Friis",
+            "shortName": "L. Friis"
+          },
+          "venue": null
+        },
+        "away_team_obj": {
+          "id": 244,
+          "name": "Sint-Truidense VV",
+          "short_name": "St. Truidense",
+          "country": "Belgium",
+          "coach": {
+            "name": "Frédéric De Meyer",
+            "shortName": "F. D. Meyer"
+          },
+          "venue": {
+            "id": 235,
+            "name": "Stayen",
+            "city": "Sint- Truiden",
+            "country": "Belgium",
+            "capacity": 14600
+          }
+        },
+        "event_date": "2026-08-14T21:45:00+03:00",
+        "round_number": 2,
+        "round_name": "",
+        "group_name": null,
+        "status": "notstarted",
+        "home_score": null,
+        "away_score": null,
+        "home_score_ht": null,
+        "away_score_ht": null,
+        "current_minute": null,
+        "period": "",
+        "odds_home": 2.28,
+        "odds_draw": 3.5,
+        "odds_away": 2.89,
+        "odds_over_15": 1.21,
+        "odds_over_25": 1.69,
+        "odds_over_35": 2.7,
+        "odds_under_15": 4.07,
+        "odds_under_25": 2.09,
+        "odds_under_35": 1.42,
+        "odds_btts_yes": 1.57,
+        "odds_btts_no": 2.26,
+        "actual_home_xg": null,
+        "actual_away_xg": null,
+        "home_xg_live": null,
+        "away_xg_live": null,
+        "penalty_shootout": null,
+        "extra_time_score": null,
+        "is_local_derby": false,
+        "is_neutral_ground": null,
+        "travel_distance_km": 146,
+        "weather_code": 3,
+        "wind_speed": 7.2,
+        "temperature_c": 21,
+        "pitch_condition": null,
+        "attendance": null,
+        "referee": {
+          "id": 1842,
+          "name": "Jan Boterberg",
+          "country": "Belgium",
+          "nationality_a3": "",
+          "birthdate": null,
+          "yellowCards": 763,
+          "redCards": 24,
+          "career_games": 200,
+          "career_yellow_cards": 763,
+          "career_red_cards": 24
+        },
+        "home_coach": {
+          "id": 250,
+          "name": "Lars Friis",
+          "short_name": "L. Friis",
+          "country": "Denmark",
+          "profile": "balanced",
+          "preferred_formation": "4-4-2",
+          "pressing_intensity": 0.74724388360226,
+          "defensive_line": "mid",
+          "top_styles": [
+            "cross_pray",
+            "gegenpressing"
+          ]
+        },
+        "away_coach": {
+          "id": 1924,
+          "name": "Frédéric De Meyer",
+          "short_name": "F. D. Meyer",
+          "country": "Belgium",
+          "profile": "attacking",
+          "preferred_formation": "4-2-3-1",
+          "pressing_intensity": 0.8171521581715688,
+          "defensive_line": "mid",
+          "top_styles": [
+            "wing_play",
+            "cross_pray"
+          ]
+        },
+        "unavailable_players": null,
+        "venue": {
+          "id": 121,
+          "name": "Jan Breydel Stadium",
+          "city": "Bruges",
+          "country": "Belgium",
+          "capacity": 29975,
+          "latitude": 51.193272,
+          "longitude": 3.180583,
+          "pitch_x": 105,
+          "pitch_y": 68,
+          "built_year": 1975
+        },
+        "live_stats": null,
+        "jerseys": {
+          "away": {
+            "GK": {
+              "base": "6ea3d4",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "121212",
+              "sleeve": "7db1e1"
+            },
+            "player": {
+              "base": "ffea00",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "121212",
+              "sleeve": "006acb"
+            }
+          },
+          "home": {
+            "GK": {
+              "base": "8c78fe",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "ffffff",
+              "sleeve": "fbe17a"
+            },
+            "player": {
+              "base": "8cdd43",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "ffffff",
+              "sleeve": "0a0a0a",
+              "stripes": "000000",
+              "sleevelong": "8cdd43"
+            }
+          }
+        },
+        "funfacts": [
+          {
+            "type_id": 1,
+            "sentence": "Cercle Brugge haven't won in their last 7 games."
+          },
+          {
+            "type_id": 6,
+            "sentence": "During the last 22 meetings with Cercle Brugge playing at home, Cercle Brugge have won 13 times, there have been 4 draws while St. Truidense have won 5 times. The goal difference is 45-23 in favour of Cercle Brugge."
+          },
+          {
+            "type_id": 23,
+            "sentence": "Last season's matches: 1-1 (Cercle Brugge at home) and 2-1 (St. Truidense at home)."
+          }
+        ],
+        "sr_stats": null,
+        "ai_preview": {
+          "text": "**Cercle Brugge are heavy favorites at home**, but Sint-Truidense won't roll over without a fight — both sides are riding shaky form heading into round 2. 🔴⚪\n\nCercle have drawn twice in their last five but also got tonked 3-0 by Reims, while Sint-Truidense are just 1W in five themselves. The hosts' superior home record and head-to-head edge (5 wins in 10) should tell the story, though this Belgian derby rarely settles neatly.\n\nKey storylines:\n\n- **Cercle Brugge's** defensive setup in a 3-5-2 will lean on G. Kondo and E. Kakou to hold the line against Sint-Truidense's compact 4-2-3-1.\n- **D. Vanzeir** and **S. Ngoura** are tasked with breaking through a Sint-Truidense backline that's conceded 3 goals in their last outing.\n- **Sint-Truidense's** midfield duo of **A. Sissako** and **R. Yamamoto** will need to disrupt Cercle's build-up play to stay in this one.\n\nExpected lineups:\n\n- **Cercle Brugge**: G. Coucke, G. Kondo, E. Kakou, C. Ravych, V. Konaté, I. Diakité, H. V. D. Bruggen, M. I. Diaby, L. Agyekum, D. Vanzeir, S. Ngoura\n- **Sint-Truidense VV**: M. Lendfers, T. Hata, R. Merlen, J. Pupe, R. Vanwesemael, A. Sissako, R. Yamamoto, I. Sebaoui, K. Matsuzawa, K. Goto, F. S. Soelle\n\nPrediction:\n\n**Cercle Brugge 2–1 Sint-Truidense VV**. Home comfort and the head-to-head record give Cercle a clear edge. 🎯",
+          "generated_at": "2026-08-13T19:41:41.213238+00:00"
+        },
+        "live_websocket": true,
+        "home_form": {
+          "calculated_at": "2026-08-14",
+          "matches_played": 5,
+          "form_string": "DLLWW",
+          "wins": 2,
+          "draws": 1,
+          "losses": 2,
+          "points_last_n": 7,
+          "goals_scored_last_n": 11,
+          "goals_conceded_last_n": 11,
+          "avg_xg": 1.90788,
+          "avg_xg_conceded": 1.4038,
+          "avg_shots": 15,
+          "avg_shots_on_target": 6.4,
+          "avg_key_passes": 10.8,
+          "goal_conversion_rate": 1.1531123550747426,
+          "defensive_efficiency": -0.5671748112266706,
+          "clean_sheets": 0,
+          "avg_pass_accuracy": 78.78850875390062,
+          "duel_win_rate": 0.518450184501845,
+          "aerial_win_rate": 0.5316455696202531,
+          "avg_fouls": 11.2,
+          "avg_yellow_cards": 0.6,
+          "home_ppg": 1.4,
+          "away_ppg": 1.6,
+          "home_goals_scored": 8,
+          "home_goals_conceded": 7,
+          "away_goals_scored": 12,
+          "away_goals_conceded": 11,
+          "avg_team_rating": 6.8637500000000005
+        },
+        "away_form": {
+          "calculated_at": "2026-08-14",
+          "matches_played": 5,
+          "form_string": "DWLDL",
+          "wins": 1,
+          "draws": 2,
+          "losses": 2,
+          "points_last_n": 5,
+          "goals_scored_last_n": 6,
+          "goals_conceded_last_n": 7,
+          "avg_xg": 1.5399,
+          "avg_xg_conceded": 1.6642599999999999,
+          "avg_shots": 15.6,
+          "avg_shots_on_target": 3.2,
+          "avg_key_passes": 11.4,
+          "goal_conversion_rate": 0.7792713812585232,
+          "defensive_efficiency": 0.15878528595291597,
+          "clean_sheets": 1,
+          "avg_pass_accuracy": 85.23059642139079,
+          "duel_win_rate": 0.5221445221445221,
+          "aerial_win_rate": 0.5669291338582677,
+          "avg_fouls": 9.2,
+          "avg_yellow_cards": 1.2,
+          "home_ppg": 2.2,
+          "away_ppg": 0.8,
+          "home_goals_scored": 9,
+          "home_goals_conceded": 3,
+          "away_goals_scored": 5,
+          "away_goals_conceded": 7,
+          "avg_team_rating": 6.8830219780219775
+        },
+        "head_to_head": {
+          "total_matches": 48,
+          "home_wins": 5,
+          "draws": 3,
+          "away_wins": 2,
+          "home_goals": 18,
+          "away_goals": 11,
+          "avg_total_goals": 0.6041666666666666,
+          "home_win_rate": 0.10416666666666667,
+          "away_win_rate": 0.041666666666666664,
+          "recent_matches": [
+            {
+              "away": "Cercle Brugge",
+              "date": "2026-03-08T18:15:00+00:00",
+              "home": "Sint-Truidense VV",
+              "score": "2-1"
+            },
+            {
+              "away": "Sint-Truidense VV",
+              "date": "2025-08-29T18:45:00+00:00",
+              "home": "Cercle Brugge",
+              "score": "1-1"
+            },
+            {
+              "away": "Sint-Truidense VV",
+              "date": "2025-04-26T18:45:00+00:00",
+              "home": "Cercle Brugge",
+              "score": "3-1"
+            },
+            {
+              "away": "Cercle Brugge",
+              "date": "2025-04-12T16:15:00+00:00",
+              "home": "Sint-Truidense VV",
+              "score": "3-1"
+            },
+            {
+              "away": "Cercle Brugge",
+              "date": "2024-12-27T19:45:00+00:00",
+              "home": "Sint-Truidense VV",
+              "score": "1-1"
+            },
+            {
+              "away": "Sint-Truidense VV",
+              "date": "2024-09-29T17:15:00+00:00",
+              "home": "Cercle Brugge",
+              "score": "1-1"
+            },
+            {
+              "away": "Sint-Truidense VV",
+              "date": "2024-02-04T18:15:00+00:00",
+              "home": "Cercle Brugge",
+              "score": "4-1"
+            },
+            {
+              "away": "Cercle Brugge",
+              "date": "2023-08-27T14:00:00+00:00",
+              "home": "Sint-Truidense VV",
+              "score": "0-2"
+            },
+            {
+              "away": "Sint-Truidense VV",
+              "date": "2023-04-15T16:15:00+00:00",
+              "home": "Cercle Brugge",
+              "score": "3-1"
+            },
+            {
+              "away": "Cercle Brugge",
+              "date": "2022-11-12T17:15:00+00:00",
+              "home": "Sint-Truidense VV",
+              "score": "0-1"
+            }
+          ]
+        },
+        "lineups": null,
+        "social": []
+      },
+      "managers": {
+        "home": {
+          "id": 250,
+          "name": "Lars Friis",
+          "short_name": "L. Friis",
+          "country": "Denmark",
+          "current_team": {
+            "id": 235,
+            "name": "Cercle Brugge"
+          },
+          "preferred_formation": "4-4-2",
+          "formations_used": {
+            "3-5-2": 5,
+            "4-4-2": 15,
+            "5-4-1": 1,
+            "3-4-1-2": 3,
+            "3-4-2-1": 3,
+            "4-1-3-2": 8,
+            "4-2-2-2": 2,
+            "4-2-3-1": 2,
+            "4-3-1-2": 1
+          },
+          "profile": "balanced",
+          "team_style": "neutral",
+          "pressing_intensity": 0.74724388360226,
+          "defensive_line": "mid",
+          "tactical_styles": [
+            {
+              "rank": 1,
+              "code": "cross_pray",
+              "name": "Cross & Pray",
+              "category": "wide",
+              "emoji": "🙏",
+              "description": "High-volume hopeful crosses into the box",
+              "score": 0.132
+            },
+            {
+              "rank": 2,
+              "code": "gegenpressing",
+              "name": "Gegenpressing",
+              "category": "pressing",
+              "emoji": "💨",
+              "description": "Immediate press after losing the ball",
+              "score": 0.127
+            },
+            {
+              "rank": 3,
+              "code": "high_press",
+              "name": "High Press",
+              "category": "pressing",
+              "emoji": "🔥",
+              "description": "Press defenders and keeper aggressively high up",
+              "score": 0.096
+            },
+            {
+              "rank": 4,
+              "code": "wing_play",
+              "name": "Wing Play",
+              "category": "wide",
+              "emoji": "🪽",
+              "description": "Attacks focused through wide areas",
+              "score": 0.088
+            }
+          ],
+          "matches_total": 41,
+          "wins": 10,
+          "draws": 14,
+          "losses": 17,
+          "win_pct": 24.4,
+          "avg_goals_scored": 1.46,
+          "avg_goals_conceded": 1.68,
+          "avg_possession": 47.66,
+          "avg_shots": 14.3,
+          "avg_shots_on_target": 4.84,
+          "avg_xg_for": 1.64,
+          "avg_xg_against": 1.56,
+          "avg_corners": 5.05,
+          "avg_yellow_cards": 1.73,
+          "avg_red_cards": 0.07,
+          "avg_fouls": 10.7,
+          "clean_sheet_pct": 19.5,
+          "btts_pct": 68.3,
+          "over_25_pct": 61,
+          "over_15_pct": 90.2,
+          "fail_to_score_pct": 19.5,
+          "avg_goals_scored_1h": 0.88,
+          "avg_goals_conceded_1h": 0.76
+        },
+        "away": {
+          "id": 1924,
+          "name": "Frédéric De Meyer",
+          "short_name": "F. D. Meyer",
+          "country": "Belgium",
+          "current_team": {
+            "id": 244,
+            "name": "Sint-Truidense VV"
+          },
+          "preferred_formation": "4-2-3-1",
+          "formations_used": {
+            "4-2-3-1": 2
+          },
+          "profile": "attacking",
+          "team_style": "soft",
+          "pressing_intensity": 0.8171521581715688,
+          "defensive_line": "mid",
+          "tactical_styles": [
+            {
+              "rank": 1,
+              "code": "wing_play",
+              "name": "Wing Play",
+              "category": "wide",
+              "emoji": "🪽",
+              "description": "Attacks focused through wide areas",
+              "score": 0.568
+            },
+            {
+              "rank": 2,
+              "code": "cross_pray",
+              "name": "Cross & Pray",
+              "category": "wide",
+              "emoji": "🙏",
+              "description": "High-volume hopeful crosses into the box",
+              "score": 0.388
+            },
+            {
+              "rank": 3,
+              "code": "overload_isolate",
+              "name": "Overload-to-Isolate",
+              "category": "possession",
+              "emoji": "⚖",
+              "description": "Crowd one side to free the other wing",
+              "score": 0.031
+            },
+            {
+              "rank": 4,
+              "code": "half_space",
+              "name": "Half-Space",
+              "category": "wide",
+              "emoji": "◐",
+              "description": "Attacks through channels beside the penalty box",
+              "score": 0.005
+            }
+          ],
+          "matches_total": 9,
+          "wins": 5,
+          "draws": 2,
+          "losses": 2,
+          "win_pct": 55.6,
+          "avg_goals_scored": 1.78,
+          "avg_goals_conceded": 0.78,
+          "avg_possession": 43.4,
+          "avg_shots": 32,
+          "avg_shots_on_target": 3,
+          "avg_xg_for": 1.98,
+          "avg_xg_against": 1.49,
+          "avg_corners": 4.8,
+          "avg_yellow_cards": 0.11,
+          "avg_red_cards": 0,
+          "avg_fouls": 14,
+          "clean_sheet_pct": 44.4,
+          "btts_pct": 33.3,
+          "over_25_pct": 55.6,
+          "over_15_pct": 66.7,
+          "fail_to_score_pct": 33.3,
+          "avg_goals_scored_1h": 0.89,
+          "avg_goals_conceded_1h": 0.67
+        }
+      }
+    },
+    {
       "event_id": 580487,
       "prediction": {
         "id": 858,
@@ -17320,7 +18726,7 @@
         "prob_draw": 25.4,
         "prob_away_win": 21.2,
         "predicted_result": "H",
-        "expected_home_goals": 1.451,
+        "expected_home_goals": 1.452,
         "expected_away_goals": 1.235,
         "prob_over_15": 74.4,
         "prob_over_25": 51.3,
@@ -18481,679 +19887,6 @@
       }
     },
     {
-      "event_id": 580481,
-      "prediction": {
-        "id": 866,
-        "event": {
-          "id": 580481,
-          "league": {
-            "id": 89,
-            "name": "Ligue 2",
-            "country": "France",
-            "is_women": false,
-            "current_season": {
-              "id": 1848,
-              "name": "Ligue 2 26/27",
-              "year": 2026,
-              "start_date": "2026-07-01",
-              "end_date": "2027-06-30"
-            }
-          },
-          "season": {
-            "id": 1848,
-            "name": "Ligue 2 26/27",
-            "year": 2026
-          },
-          "home_team": "Grenoble Foot 38",
-          "away_team": "Metz",
-          "home_team_obj": {
-            "id": 1635,
-            "name": "Grenoble Foot 38",
-            "short_name": "Grenoble",
-            "country": "France",
-            "coach": {
-              "name": "Olivier Frapolli",
-              "shortName": "O. Frapolli"
-            },
-            "venue": null
-          },
-          "away_team_obj": {
-            "id": 111,
-            "name": "Metz",
-            "short_name": "Metz",
-            "country": "France",
-            "coach": {
-              "name": "Luc Holtz",
-              "shortName": "L. Holtz"
-            },
-            "venue": {
-              "id": 109,
-              "name": "Stade Saint Symphorien",
-              "city": "Metz",
-              "country": "France",
-              "capacity": 28786
-            }
-          },
-          "event_date": "2026-08-14T18:45:00Z",
-          "round_number": 2,
-          "round_name": "",
-          "group_name": null,
-          "status": "notstarted",
-          "home_score": null,
-          "away_score": null,
-          "home_score_ht": null,
-          "away_score_ht": null,
-          "current_minute": null,
-          "period": "",
-          "odds_home": 3.53,
-          "odds_draw": 3.36,
-          "odds_away": 2,
-          "odds_over_15": 1.29,
-          "odds_over_25": 1.93,
-          "odds_over_35": 3.29,
-          "odds_under_15": 3.3,
-          "odds_under_25": 1.8,
-          "odds_under_35": 1.29,
-          "odds_btts_yes": 1.76,
-          "odds_btts_no": 1.94,
-          "actual_home_xg": null,
-          "actual_away_xg": null,
-          "home_xg_live": null,
-          "away_xg_live": null,
-          "penalty_shootout": null,
-          "extra_time_score": null,
-          "is_local_derby": false,
-          "is_neutral_ground": null,
-          "travel_distance_km": 438,
-          "weather_code": 3,
-          "wind_speed": 15,
-          "temperature_c": 29,
-          "pitch_condition": null,
-          "attendance": null,
-          "referee": {
-            "id": 1930,
-            "name": "Faouzi Benchabane",
-            "country": "France",
-            "nationality_a3": "",
-            "birthdate": null,
-            "yellowCards": 479,
-            "redCards": 20,
-            "career_games": 121,
-            "career_yellow_cards": 479,
-            "career_red_cards": 20
-          },
-          "home_coach": {
-            "id": 1050,
-            "name": "Olivier Frapolli",
-            "short_name": "O. Frapolli",
-            "country": "France",
-            "profile": "balanced",
-            "preferred_formation": "4-5-1",
-            "pressing_intensity": 0.41689404946988556,
-            "defensive_line": "high",
-            "top_styles": [
-              "terrorist_fb",
-              "park_the_bus"
-            ]
-          },
-          "away_coach": {
-            "id": 1883,
-            "name": "Luc Holtz",
-            "short_name": "L. Holtz",
-            "country": "Luxembourg",
-            "profile": "attacking",
-            "preferred_formation": "4-2-3-1",
-            "pressing_intensity": null,
-            "defensive_line": "",
-            "top_styles": []
-          },
-          "unavailable_players": null,
-          "venue": {
-            "id": 1039,
-            "name": "Stade des Alpes",
-            "city": "Grenoble",
-            "country": "France",
-            "capacity": 20068,
-            "latitude": 45.187428,
-            "longitude": 5.740099,
-            "pitch_x": null,
-            "pitch_y": null,
-            "built_year": 2008
-          },
-          "incidents": null,
-          "live_stats": null,
-          "lineups": null,
-          "shotmap": null,
-          "momentum": null,
-          "xg_per_minute": null,
-          "average_positions": null,
-          "jerseys": {
-            "away": {
-              "GK": {
-                "base": "c33b8a",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "dbe821",
-                "sleeve": "bc418a"
-              },
-              "player": {
-                "base": "932232",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ba9047",
-                "sleeve": "7f3034",
-                "sleevelong": "d29f46"
-              }
-            },
-            "home": {
-              "GK": {
-                "base": "b53334",
-                "real": true,
-                "type": "long_sleeves",
-                "number": "f5f2f2",
-                "sleeve": "a31d22"
-              },
-              "player": {
-                "base": "083d9a",
-                "real": true,
-                "type": "short_sleeves",
-                "split": "2b3663",
-                "number": "fafafa",
-                "sleeve": "0b367f"
-              }
-            }
-          },
-          "funfacts": [
-            {
-              "type_id": 1,
-              "sentence": "Grenoble haven't won in their last 5 games."
-            },
-            {
-              "type_id": 1,
-              "sentence": "Metz haven't lost in their last 7 games."
-            },
-            {
-              "type_id": 1,
-              "sentence": "Grenoble haven't lost in any of their last 7 home matches."
-            }
-          ],
-          "sr_stats": null,
-          "ai_preview": {
-            "text": "**Metz are absolutely rolling, and Grenoble are in freefall — this feels like a statement performance brewing.** 🔥 The visitors arrive in Ligue 2 round 2 with five straight wins, while the hosts have won once in their last five and look genuinely shaky defensively.\n\nGrenoble's backline has conceded 9 goals in just three friendlies and barely held on for a 1-1 draw midweek. Metz, by contrast, have been clinical and ruthless at the Stade Saint-Symphorien — 9 goals in three outings. The momentum gap is *massive*.\n\nKey storylines:\n\n- **Metz's attacking confidence** against a leaky **Grenoble** defense should be the main event here.\n- **N. Mbala** and **P. M. Fall** leading the charge for the visitors after a string of multi-goal performances.\n- **U. Bonnet** will need to be sharp for Grenoble, but the pressure on their back four looks relentless.\n\nExpected lineups:\n\n- **Grenoble Foot 38**: A. Olliero, M. Xantippe, L. Bernadou, E. Sarıkaya, C. Vidal, M. Corboz, S. Diba, E. F. Maurin, B. Mouazan, U. Bonnet, Y. Diaby\n\n- **Metz**: J. Fischer, M. Colin, I. Mohamed, U. Mboula, B. Sarr, B. Munongo, A. Touré, G. Abuashvili, J. Deminguet, N. Mbala, P. M. Fall\n\nPrediction:\n\n**Metz 3–1 Grenoble.** Metz have a clear edge in form and should cruise to three points away from home.",
-            "generated_at": "2026-08-13T19:41:35.992482+00:00"
-          },
-          "live_websocket": true
-        },
-        "created_at": "2026-08-08T02:15:21.177556+00:00",
-        "prob_home_win": 26.2,
-        "prob_draw": 27.5,
-        "prob_away_win": 46.3,
-        "predicted_result": "A",
-        "expected_home_goals": 1.498,
-        "expected_away_goals": 1.116,
-        "prob_over_15": 72,
-        "prob_over_25": 48.2,
-        "prob_over_35": 27.7,
-        "prob_btts_yes": 52.4,
-        "confidence": 0.4626,
-        "model_version": "dc-blend-v1",
-        "most_likely_score": "1-1",
-        "favorite": "A",
-        "favorite_prob": 46.3,
-        "favorite_recommend": false,
-        "over_15_recommend": false,
-        "over_25_recommend": false,
-        "over_35_recommend": false,
-        "btts_recommend": false,
-        "winner_recommend": false
-      },
-      "event_detail": {
-        "id": 580481,
-        "league": {
-          "id": 89,
-          "name": "Ligue 2",
-          "country": "France",
-          "is_women": false,
-          "current_season": {
-            "id": 1848,
-            "name": "Ligue 2 26/27",
-            "year": 2026,
-            "start_date": "2026-07-01",
-            "end_date": "2027-06-30"
-          }
-        },
-        "season": {
-          "id": 1848,
-          "name": "Ligue 2 26/27",
-          "year": 2026
-        },
-        "home_team": "Grenoble Foot 38",
-        "away_team": "Metz",
-        "home_team_obj": {
-          "id": 1635,
-          "name": "Grenoble Foot 38",
-          "short_name": "Grenoble",
-          "country": "France",
-          "coach": {
-            "name": "Olivier Frapolli",
-            "shortName": "O. Frapolli"
-          },
-          "venue": null
-        },
-        "away_team_obj": {
-          "id": 111,
-          "name": "Metz",
-          "short_name": "Metz",
-          "country": "France",
-          "coach": {
-            "name": "Luc Holtz",
-            "shortName": "L. Holtz"
-          },
-          "venue": {
-            "id": 109,
-            "name": "Stade Saint Symphorien",
-            "city": "Metz",
-            "country": "France",
-            "capacity": 28786
-          }
-        },
-        "event_date": "2026-08-14T21:45:00+03:00",
-        "round_number": 2,
-        "round_name": "",
-        "group_name": null,
-        "status": "notstarted",
-        "home_score": null,
-        "away_score": null,
-        "home_score_ht": null,
-        "away_score_ht": null,
-        "current_minute": null,
-        "period": "",
-        "odds_home": 3.53,
-        "odds_draw": 3.36,
-        "odds_away": 2,
-        "odds_over_15": 1.29,
-        "odds_over_25": 1.93,
-        "odds_over_35": 3.29,
-        "odds_under_15": 3.3,
-        "odds_under_25": 1.8,
-        "odds_under_35": 1.29,
-        "odds_btts_yes": 1.76,
-        "odds_btts_no": 1.94,
-        "actual_home_xg": null,
-        "actual_away_xg": null,
-        "home_xg_live": null,
-        "away_xg_live": null,
-        "penalty_shootout": null,
-        "extra_time_score": null,
-        "is_local_derby": false,
-        "is_neutral_ground": null,
-        "travel_distance_km": 438,
-        "weather_code": 3,
-        "wind_speed": 15,
-        "temperature_c": 29,
-        "pitch_condition": null,
-        "attendance": null,
-        "referee": {
-          "id": 1930,
-          "name": "Faouzi Benchabane",
-          "country": "France",
-          "nationality_a3": "",
-          "birthdate": null,
-          "yellowCards": 479,
-          "redCards": 20,
-          "career_games": 121,
-          "career_yellow_cards": 479,
-          "career_red_cards": 20
-        },
-        "home_coach": {
-          "id": 1050,
-          "name": "Olivier Frapolli",
-          "short_name": "O. Frapolli",
-          "country": "France",
-          "profile": "balanced",
-          "preferred_formation": "4-5-1",
-          "pressing_intensity": 0.41689404946988556,
-          "defensive_line": "high",
-          "top_styles": [
-            "terrorist_fb",
-            "park_the_bus"
-          ]
-        },
-        "away_coach": {
-          "id": 1883,
-          "name": "Luc Holtz",
-          "short_name": "L. Holtz",
-          "country": "Luxembourg",
-          "profile": "attacking",
-          "preferred_formation": "4-2-3-1",
-          "pressing_intensity": null,
-          "defensive_line": "",
-          "top_styles": []
-        },
-        "unavailable_players": null,
-        "venue": {
-          "id": 1039,
-          "name": "Stade des Alpes",
-          "city": "Grenoble",
-          "country": "France",
-          "capacity": 20068,
-          "latitude": 45.187428,
-          "longitude": 5.740099,
-          "pitch_x": null,
-          "pitch_y": null,
-          "built_year": 2008
-        },
-        "live_stats": null,
-        "jerseys": {
-          "away": {
-            "GK": {
-              "base": "c33b8a",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "dbe821",
-              "sleeve": "bc418a"
-            },
-            "player": {
-              "base": "932232",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ba9047",
-              "sleeve": "7f3034",
-              "sleevelong": "d29f46"
-            }
-          },
-          "home": {
-            "GK": {
-              "base": "b53334",
-              "real": true,
-              "type": "long_sleeves",
-              "number": "f5f2f2",
-              "sleeve": "a31d22"
-            },
-            "player": {
-              "base": "083d9a",
-              "real": true,
-              "type": "short_sleeves",
-              "split": "2b3663",
-              "number": "fafafa",
-              "sleeve": "0b367f"
-            }
-          }
-        },
-        "funfacts": [
-          {
-            "type_id": 1,
-            "sentence": "Grenoble haven't won in their last 5 games."
-          },
-          {
-            "type_id": 1,
-            "sentence": "Metz haven't lost in their last 7 games."
-          },
-          {
-            "type_id": 1,
-            "sentence": "Grenoble haven't lost in any of their last 7 home matches."
-          }
-        ],
-        "sr_stats": null,
-        "ai_preview": {
-          "text": "**Metz are absolutely rolling, and Grenoble are in freefall — this feels like a statement performance brewing.** 🔥 The visitors arrive in Ligue 2 round 2 with five straight wins, while the hosts have won once in their last five and look genuinely shaky defensively.\n\nGrenoble's backline has conceded 9 goals in just three friendlies and barely held on for a 1-1 draw midweek. Metz, by contrast, have been clinical and ruthless at the Stade Saint-Symphorien — 9 goals in three outings. The momentum gap is *massive*.\n\nKey storylines:\n\n- **Metz's attacking confidence** against a leaky **Grenoble** defense should be the main event here.\n- **N. Mbala** and **P. M. Fall** leading the charge for the visitors after a string of multi-goal performances.\n- **U. Bonnet** will need to be sharp for Grenoble, but the pressure on their back four looks relentless.\n\nExpected lineups:\n\n- **Grenoble Foot 38**: A. Olliero, M. Xantippe, L. Bernadou, E. Sarıkaya, C. Vidal, M. Corboz, S. Diba, E. F. Maurin, B. Mouazan, U. Bonnet, Y. Diaby\n\n- **Metz**: J. Fischer, M. Colin, I. Mohamed, U. Mboula, B. Sarr, B. Munongo, A. Touré, G. Abuashvili, J. Deminguet, N. Mbala, P. M. Fall\n\nPrediction:\n\n**Metz 3–1 Grenoble.** Metz have a clear edge in form and should cruise to three points away from home.",
-          "generated_at": "2026-08-13T19:41:35.992482+00:00"
-        },
-        "live_websocket": true,
-        "home_form": {
-          "calculated_at": "2026-08-14",
-          "matches_played": 5,
-          "form_string": "LWWDL",
-          "wins": 2,
-          "draws": 1,
-          "losses": 2,
-          "points_last_n": 7,
-          "goals_scored_last_n": 6,
-          "goals_conceded_last_n": 7,
-          "avg_xg": 1.2,
-          "avg_xg_conceded": 1.4,
-          "avg_shots": 7.8,
-          "avg_shots_on_target": 2.6,
-          "avg_key_passes": 6.2,
-          "goal_conversion_rate": 0,
-          "defensive_efficiency": 0,
-          "clean_sheets": 2,
-          "avg_pass_accuracy": 76.48630306991015,
-          "duel_win_rate": 0.5076586433260394,
-          "aerial_win_rate": 0.5133333333333333,
-          "avg_fouls": 10.8,
-          "avg_yellow_cards": 2,
-          "home_ppg": 1.4,
-          "away_ppg": 0.8,
-          "home_goals_scored": 4,
-          "home_goals_conceded": 3,
-          "away_goals_scored": 7,
-          "away_goals_conceded": 10,
-          "avg_team_rating": 6.733833333333334
-        },
-        "away_form": {
-          "calculated_at": "2026-08-14",
-          "matches_played": 5,
-          "form_string": "WWDLD",
-          "wins": 2,
-          "draws": 2,
-          "losses": 1,
-          "points_last_n": 8,
-          "goals_scored_last_n": 11,
-          "goals_conceded_last_n": 10,
-          "avg_xg": 2.2,
-          "avg_xg_conceded": 2,
-          "avg_shots": 14.6,
-          "avg_shots_on_target": 6.4,
-          "avg_key_passes": 11,
-          "goal_conversion_rate": 0,
-          "defensive_efficiency": 0,
-          "clean_sheets": 0,
-          "avg_pass_accuracy": 87.11365799595391,
-          "duel_win_rate": 0.5153664302600472,
-          "aerial_win_rate": 0.528,
-          "avg_fouls": 10.2,
-          "avg_yellow_cards": 2.4,
-          "home_ppg": 2.2,
-          "away_ppg": 2,
-          "home_goals_scored": 14,
-          "home_goals_conceded": 8,
-          "away_goals_scored": 13,
-          "away_goals_conceded": 9,
-          "avg_team_rating": 6.925059523809523
-        },
-        "head_to_head": {
-          "total_matches": 8,
-          "home_wins": 3,
-          "draws": 2,
-          "away_wins": 3,
-          "home_goals": 6,
-          "away_goals": 7,
-          "avg_total_goals": 1.625,
-          "home_win_rate": 0.375,
-          "away_win_rate": 0.375,
-          "recent_matches": [
-            {
-              "away": "Grenoble Foot 38",
-              "date": "2025-01-24T19:00:00+00:00",
-              "home": "Metz",
-              "score": "3-0"
-            },
-            {
-              "away": "Metz",
-              "date": "2024-10-18T18:00:00+00:00",
-              "home": "Grenoble Foot 38",
-              "score": "2-0"
-            },
-            {
-              "away": "Grenoble Foot 38",
-              "date": "2023-05-13T17:00:00+00:00",
-              "home": "Metz",
-              "score": "1-0"
-            },
-            {
-              "away": "Metz",
-              "date": "2022-12-30T20:00:00+00:00",
-              "home": "Grenoble Foot 38",
-              "score": "0-1"
-            },
-            {
-              "away": "Grenoble Foot 38",
-              "date": "2019-04-23T18:00:00+00:00",
-              "home": "Metz",
-              "score": "1-1"
-            },
-            {
-              "away": "Metz",
-              "date": "2018-12-01T13:00:00+00:00",
-              "home": "Grenoble Foot 38",
-              "score": "1-1"
-            },
-            {
-              "away": "Grenoble Foot 38",
-              "date": "2011-04-01T18:00:00+00:00",
-              "home": "Metz",
-              "score": "0-1"
-            },
-            {
-              "away": "Metz",
-              "date": "2010-10-19T18:00:00+00:00",
-              "home": "Grenoble Foot 38",
-              "score": "1-0"
-            }
-          ]
-        },
-        "lineups": null,
-        "social": []
-      },
-      "managers": {
-        "home": {
-          "id": 1072,
-          "name": "Franck Rizzetto",
-          "short_name": "F. Rizzetto",
-          "country": "France",
-          "current_team": {
-            "id": 1635,
-            "name": "Grenoble Foot 38"
-          },
-          "preferred_formation": "",
-          "formations_used": {},
-          "profile": "attacking",
-          "team_style": "soft",
-          "pressing_intensity": null,
-          "defensive_line": "",
-          "tactical_styles": [],
-          "matches_total": 3,
-          "wins": 2,
-          "draws": 1,
-          "losses": 0,
-          "win_pct": 66.7,
-          "avg_goals_scored": 2,
-          "avg_goals_conceded": 0.67,
-          "avg_possession": 48,
-          "avg_shots": 11,
-          "avg_shots_on_target": 5,
-          "avg_xg_for": null,
-          "avg_xg_against": null,
-          "avg_corners": 5,
-          "avg_yellow_cards": 0.33,
-          "avg_red_cards": 0,
-          "avg_fouls": 12,
-          "clean_sheet_pct": 33.3,
-          "btts_pct": 66.7,
-          "over_25_pct": 66.7,
-          "over_15_pct": 100,
-          "fail_to_score_pct": 0,
-          "avg_goals_scored_1h": 0.67,
-          "avg_goals_conceded_1h": 0.33
-        },
-        "away": {
-          "id": 408,
-          "name": "Benoit Tavenot",
-          "short_name": "B. Tavenot",
-          "country": "France",
-          "current_team": {
-            "id": 111,
-            "name": "Metz"
-          },
-          "preferred_formation": "4-2-3-1",
-          "formations_used": {
-            "3-5-2": 1,
-            "4-3-3": 4,
-            "5-3-2": 2,
-            "3-4-2-1": 5,
-            "4-1-4-1": 3,
-            "4-2-3-1": 20
-          },
-          "profile": "defensive",
-          "team_style": "neutral",
-          "pressing_intensity": 0.44525168374402,
-          "defensive_line": "mid",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "park_the_bus",
-              "name": "Park the Bus",
-              "category": "defensive",
-              "emoji": "🚌",
-              "description": "Ultra-deep defense, minimal attacking intent",
-              "score": 0.118
-            },
-            {
-              "rank": 2,
-              "code": "tiki_taka",
-              "name": "Tiki-Taka",
-              "category": "possession",
-              "emoji": "🎨",
-              "description": "Short passing, domination via possession",
-              "score": 0.061
-            },
-            {
-              "rank": 3,
-              "code": "low_block",
-              "name": "Low Block",
-              "category": "defensive",
-              "emoji": "🛡",
-              "description": "Compact defensive shape near own box",
-              "score": 0.055
-            },
-            {
-              "rank": 4,
-              "code": "terrorist_fb",
-              "name": "Terrorist Football",
-              "category": "fan",
-              "emoji": "💣",
-              "description": "Ultra-negative setup — destroy the game",
-              "score": 0.05
-            }
-          ],
-          "matches_total": 35,
-          "wins": 3,
-          "draws": 8,
-          "losses": 24,
-          "win_pct": 8.6,
-          "avg_goals_scored": 0.91,
-          "avg_goals_conceded": 2.29,
-          "avg_possession": 49.51,
-          "avg_shots": 10.14,
-          "avg_shots_on_target": 3.23,
-          "avg_xg_for": 1.01,
-          "avg_xg_against": 1.84,
-          "avg_corners": 4.2,
-          "avg_yellow_cards": 1.6,
-          "avg_red_cards": 0.09,
-          "avg_fouls": 11.26,
-          "clean_sheet_pct": 20,
-          "btts_pct": 48.6,
-          "over_25_pct": 62.9,
-          "over_15_pct": 74.3,
-          "fail_to_score_pct": 45.7,
-          "avg_goals_scored_1h": 0.4,
-          "avg_goals_conceded_1h": 1.03
-        }
-      }
-    },
-    {
       "event_id": 580482,
       "prediction": {
         "id": 861,
@@ -19357,8 +20090,8 @@
         "prob_draw": 26.2,
         "prob_away_win": 20.4,
         "predicted_result": "H",
-        "expected_home_goals": 1.566,
-        "expected_away_goals": 1.064,
+        "expected_home_goals": 1.565,
+        "expected_away_goals": 1.065,
         "prob_over_15": 71.5,
         "prob_over_25": 47.7,
         "prob_over_35": 27.3,
@@ -19766,739 +20499,6 @@
       }
     },
     {
-      "event_id": 211312,
-      "prediction": {
-        "id": 867,
-        "event": {
-          "id": 211312,
-          "league": {
-            "id": 14,
-            "name": "Pro League",
-            "country": "Belgium",
-            "is_women": false,
-            "current_season": {
-              "id": 1327,
-              "name": "Pro League 26/27",
-              "year": 2026,
-              "start_date": "2026-07-01",
-              "end_date": "2027-06-30"
-            }
-          },
-          "season": {
-            "id": 1327,
-            "name": "Pro League 26/27",
-            "year": 2026
-          },
-          "home_team": "Cercle Brugge",
-          "away_team": "Sint-Truidense VV",
-          "home_team_obj": {
-            "id": 235,
-            "name": "Cercle Brugge",
-            "short_name": "Cercle Brugge",
-            "country": "Belgium",
-            "coach": {
-              "name": "Lars Friis",
-              "shortName": "L. Friis"
-            },
-            "venue": null
-          },
-          "away_team_obj": {
-            "id": 244,
-            "name": "Sint-Truidense VV",
-            "short_name": "St. Truidense",
-            "country": "Belgium",
-            "coach": {
-              "name": "Frédéric De Meyer",
-              "shortName": "F. D. Meyer"
-            },
-            "venue": {
-              "id": 235,
-              "name": "Stayen",
-              "city": "Sint- Truiden",
-              "country": "Belgium",
-              "capacity": 14600
-            }
-          },
-          "event_date": "2026-08-14T18:45:00Z",
-          "round_number": 2,
-          "round_name": "",
-          "group_name": null,
-          "status": "notstarted",
-          "home_score": null,
-          "away_score": null,
-          "home_score_ht": null,
-          "away_score_ht": null,
-          "current_minute": null,
-          "period": "",
-          "odds_home": 2.28,
-          "odds_draw": 3.5,
-          "odds_away": 2.89,
-          "odds_over_15": 1.21,
-          "odds_over_25": 1.69,
-          "odds_over_35": 2.7,
-          "odds_under_15": 4.07,
-          "odds_under_25": 2.09,
-          "odds_under_35": 1.42,
-          "odds_btts_yes": 1.57,
-          "odds_btts_no": 2.26,
-          "actual_home_xg": null,
-          "actual_away_xg": null,
-          "home_xg_live": null,
-          "away_xg_live": null,
-          "penalty_shootout": null,
-          "extra_time_score": null,
-          "is_local_derby": false,
-          "is_neutral_ground": null,
-          "travel_distance_km": 146,
-          "weather_code": 3,
-          "wind_speed": 7.2,
-          "temperature_c": 21,
-          "pitch_condition": null,
-          "attendance": null,
-          "referee": {
-            "id": 1842,
-            "name": "Jan Boterberg",
-            "country": "Belgium",
-            "nationality_a3": "",
-            "birthdate": null,
-            "yellowCards": 763,
-            "redCards": 24,
-            "career_games": 200,
-            "career_yellow_cards": 763,
-            "career_red_cards": 24
-          },
-          "home_coach": {
-            "id": 250,
-            "name": "Lars Friis",
-            "short_name": "L. Friis",
-            "country": "Denmark",
-            "profile": "balanced",
-            "preferred_formation": "4-4-2",
-            "pressing_intensity": 0.74724388360226,
-            "defensive_line": "mid",
-            "top_styles": [
-              "cross_pray",
-              "gegenpressing"
-            ]
-          },
-          "away_coach": {
-            "id": 1924,
-            "name": "Frédéric De Meyer",
-            "short_name": "F. D. Meyer",
-            "country": "Belgium",
-            "profile": "attacking",
-            "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.8171521581715688,
-            "defensive_line": "mid",
-            "top_styles": [
-              "wing_play",
-              "cross_pray"
-            ]
-          },
-          "unavailable_players": null,
-          "venue": {
-            "id": 121,
-            "name": "Jan Breydel Stadium",
-            "city": "Bruges",
-            "country": "Belgium",
-            "capacity": 29975,
-            "latitude": 51.193272,
-            "longitude": 3.180583,
-            "pitch_x": 105,
-            "pitch_y": 68,
-            "built_year": 1975
-          },
-          "incidents": null,
-          "live_stats": null,
-          "lineups": null,
-          "shotmap": null,
-          "momentum": null,
-          "xg_per_minute": null,
-          "average_positions": null,
-          "jerseys": {
-            "away": {
-              "GK": {
-                "base": "6ea3d4",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "121212",
-                "sleeve": "7db1e1"
-              },
-              "player": {
-                "base": "ffea00",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "121212",
-                "sleeve": "006acb"
-              }
-            },
-            "home": {
-              "GK": {
-                "base": "8c78fe",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "fbe17a"
-              },
-              "player": {
-                "base": "8cdd43",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "0a0a0a",
-                "stripes": "000000",
-                "sleevelong": "8cdd43"
-              }
-            }
-          },
-          "funfacts": [
-            {
-              "type_id": 1,
-              "sentence": "Cercle Brugge haven't won in their last 7 games."
-            },
-            {
-              "type_id": 6,
-              "sentence": "During the last 22 meetings with Cercle Brugge playing at home, Cercle Brugge have won 13 times, there have been 4 draws while St. Truidense have won 5 times. The goal difference is 45-23 in favour of Cercle Brugge."
-            },
-            {
-              "type_id": 23,
-              "sentence": "Last season's matches: 1-1 (Cercle Brugge at home) and 2-1 (St. Truidense at home)."
-            }
-          ],
-          "sr_stats": null,
-          "ai_preview": {
-            "text": "**Cercle Brugge are heavy favorites at home**, but Sint-Truidense won't roll over without a fight — both sides are riding shaky form heading into round 2. 🔴⚪\n\nCercle have drawn twice in their last five but also got tonked 3-0 by Reims, while Sint-Truidense are just 1W in five themselves. The hosts' superior home record and head-to-head edge (5 wins in 10) should tell the story, though this Belgian derby rarely settles neatly.\n\nKey storylines:\n\n- **Cercle Brugge's** defensive setup in a 3-5-2 will lean on G. Kondo and E. Kakou to hold the line against Sint-Truidense's compact 4-2-3-1.\n- **D. Vanzeir** and **S. Ngoura** are tasked with breaking through a Sint-Truidense backline that's conceded 3 goals in their last outing.\n- **Sint-Truidense's** midfield duo of **A. Sissako** and **R. Yamamoto** will need to disrupt Cercle's build-up play to stay in this one.\n\nExpected lineups:\n\n- **Cercle Brugge**: G. Coucke, G. Kondo, E. Kakou, C. Ravych, V. Konaté, I. Diakité, H. V. D. Bruggen, M. I. Diaby, L. Agyekum, D. Vanzeir, S. Ngoura\n- **Sint-Truidense VV**: M. Lendfers, T. Hata, R. Merlen, J. Pupe, R. Vanwesemael, A. Sissako, R. Yamamoto, I. Sebaoui, K. Matsuzawa, K. Goto, F. S. Soelle\n\nPrediction:\n\n**Cercle Brugge 2–1 Sint-Truidense VV**. Home comfort and the head-to-head record give Cercle a clear edge. 🎯",
-            "generated_at": "2026-08-13T19:41:41.213238+00:00"
-          },
-          "live_websocket": true
-        },
-        "created_at": "2026-08-08T02:15:21.188525+00:00",
-        "prob_home_win": 41,
-        "prob_draw": 26.7,
-        "prob_away_win": 32.3,
-        "predicted_result": "H",
-        "expected_home_goals": 1.585,
-        "expected_away_goals": 1.434,
-        "prob_over_15": 77.2,
-        "prob_over_25": 55.4,
-        "prob_over_35": 34.4,
-        "prob_btts_yes": 59,
-        "confidence": 0.4098,
-        "model_version": "dc-blend-v1",
-        "most_likely_score": "1-1",
-        "favorite": "H",
-        "favorite_prob": 41,
-        "favorite_recommend": false,
-        "over_15_recommend": false,
-        "over_25_recommend": false,
-        "over_35_recommend": false,
-        "btts_recommend": false,
-        "winner_recommend": false
-      },
-      "event_detail": {
-        "id": 211312,
-        "league": {
-          "id": 14,
-          "name": "Pro League",
-          "country": "Belgium",
-          "is_women": false,
-          "current_season": {
-            "id": 1327,
-            "name": "Pro League 26/27",
-            "year": 2026,
-            "start_date": "2026-07-01",
-            "end_date": "2027-06-30"
-          }
-        },
-        "season": {
-          "id": 1327,
-          "name": "Pro League 26/27",
-          "year": 2026
-        },
-        "home_team": "Cercle Brugge",
-        "away_team": "Sint-Truidense VV",
-        "home_team_obj": {
-          "id": 235,
-          "name": "Cercle Brugge",
-          "short_name": "Cercle Brugge",
-          "country": "Belgium",
-          "coach": {
-            "name": "Lars Friis",
-            "shortName": "L. Friis"
-          },
-          "venue": null
-        },
-        "away_team_obj": {
-          "id": 244,
-          "name": "Sint-Truidense VV",
-          "short_name": "St. Truidense",
-          "country": "Belgium",
-          "coach": {
-            "name": "Frédéric De Meyer",
-            "shortName": "F. D. Meyer"
-          },
-          "venue": {
-            "id": 235,
-            "name": "Stayen",
-            "city": "Sint- Truiden",
-            "country": "Belgium",
-            "capacity": 14600
-          }
-        },
-        "event_date": "2026-08-14T21:45:00+03:00",
-        "round_number": 2,
-        "round_name": "",
-        "group_name": null,
-        "status": "notstarted",
-        "home_score": null,
-        "away_score": null,
-        "home_score_ht": null,
-        "away_score_ht": null,
-        "current_minute": null,
-        "period": "",
-        "odds_home": 2.28,
-        "odds_draw": 3.5,
-        "odds_away": 2.89,
-        "odds_over_15": 1.21,
-        "odds_over_25": 1.69,
-        "odds_over_35": 2.7,
-        "odds_under_15": 4.07,
-        "odds_under_25": 2.09,
-        "odds_under_35": 1.42,
-        "odds_btts_yes": 1.57,
-        "odds_btts_no": 2.26,
-        "actual_home_xg": null,
-        "actual_away_xg": null,
-        "home_xg_live": null,
-        "away_xg_live": null,
-        "penalty_shootout": null,
-        "extra_time_score": null,
-        "is_local_derby": false,
-        "is_neutral_ground": null,
-        "travel_distance_km": 146,
-        "weather_code": 3,
-        "wind_speed": 7.2,
-        "temperature_c": 21,
-        "pitch_condition": null,
-        "attendance": null,
-        "referee": {
-          "id": 1842,
-          "name": "Jan Boterberg",
-          "country": "Belgium",
-          "nationality_a3": "",
-          "birthdate": null,
-          "yellowCards": 763,
-          "redCards": 24,
-          "career_games": 200,
-          "career_yellow_cards": 763,
-          "career_red_cards": 24
-        },
-        "home_coach": {
-          "id": 250,
-          "name": "Lars Friis",
-          "short_name": "L. Friis",
-          "country": "Denmark",
-          "profile": "balanced",
-          "preferred_formation": "4-4-2",
-          "pressing_intensity": 0.74724388360226,
-          "defensive_line": "mid",
-          "top_styles": [
-            "cross_pray",
-            "gegenpressing"
-          ]
-        },
-        "away_coach": {
-          "id": 1924,
-          "name": "Frédéric De Meyer",
-          "short_name": "F. D. Meyer",
-          "country": "Belgium",
-          "profile": "attacking",
-          "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.8171521581715688,
-          "defensive_line": "mid",
-          "top_styles": [
-            "wing_play",
-            "cross_pray"
-          ]
-        },
-        "unavailable_players": null,
-        "venue": {
-          "id": 121,
-          "name": "Jan Breydel Stadium",
-          "city": "Bruges",
-          "country": "Belgium",
-          "capacity": 29975,
-          "latitude": 51.193272,
-          "longitude": 3.180583,
-          "pitch_x": 105,
-          "pitch_y": 68,
-          "built_year": 1975
-        },
-        "live_stats": null,
-        "jerseys": {
-          "away": {
-            "GK": {
-              "base": "6ea3d4",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "121212",
-              "sleeve": "7db1e1"
-            },
-            "player": {
-              "base": "ffea00",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "121212",
-              "sleeve": "006acb"
-            }
-          },
-          "home": {
-            "GK": {
-              "base": "8c78fe",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "fbe17a"
-            },
-            "player": {
-              "base": "8cdd43",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "0a0a0a",
-              "stripes": "000000",
-              "sleevelong": "8cdd43"
-            }
-          }
-        },
-        "funfacts": [
-          {
-            "type_id": 1,
-            "sentence": "Cercle Brugge haven't won in their last 7 games."
-          },
-          {
-            "type_id": 6,
-            "sentence": "During the last 22 meetings with Cercle Brugge playing at home, Cercle Brugge have won 13 times, there have been 4 draws while St. Truidense have won 5 times. The goal difference is 45-23 in favour of Cercle Brugge."
-          },
-          {
-            "type_id": 23,
-            "sentence": "Last season's matches: 1-1 (Cercle Brugge at home) and 2-1 (St. Truidense at home)."
-          }
-        ],
-        "sr_stats": null,
-        "ai_preview": {
-          "text": "**Cercle Brugge are heavy favorites at home**, but Sint-Truidense won't roll over without a fight — both sides are riding shaky form heading into round 2. 🔴⚪\n\nCercle have drawn twice in their last five but also got tonked 3-0 by Reims, while Sint-Truidense are just 1W in five themselves. The hosts' superior home record and head-to-head edge (5 wins in 10) should tell the story, though this Belgian derby rarely settles neatly.\n\nKey storylines:\n\n- **Cercle Brugge's** defensive setup in a 3-5-2 will lean on G. Kondo and E. Kakou to hold the line against Sint-Truidense's compact 4-2-3-1.\n- **D. Vanzeir** and **S. Ngoura** are tasked with breaking through a Sint-Truidense backline that's conceded 3 goals in their last outing.\n- **Sint-Truidense's** midfield duo of **A. Sissako** and **R. Yamamoto** will need to disrupt Cercle's build-up play to stay in this one.\n\nExpected lineups:\n\n- **Cercle Brugge**: G. Coucke, G. Kondo, E. Kakou, C. Ravych, V. Konaté, I. Diakité, H. V. D. Bruggen, M. I. Diaby, L. Agyekum, D. Vanzeir, S. Ngoura\n- **Sint-Truidense VV**: M. Lendfers, T. Hata, R. Merlen, J. Pupe, R. Vanwesemael, A. Sissako, R. Yamamoto, I. Sebaoui, K. Matsuzawa, K. Goto, F. S. Soelle\n\nPrediction:\n\n**Cercle Brugge 2–1 Sint-Truidense VV**. Home comfort and the head-to-head record give Cercle a clear edge. 🎯",
-          "generated_at": "2026-08-13T19:41:41.213238+00:00"
-        },
-        "live_websocket": true,
-        "home_form": {
-          "calculated_at": "2026-08-14",
-          "matches_played": 5,
-          "form_string": "DLLWW",
-          "wins": 2,
-          "draws": 1,
-          "losses": 2,
-          "points_last_n": 7,
-          "goals_scored_last_n": 11,
-          "goals_conceded_last_n": 11,
-          "avg_xg": 1.90788,
-          "avg_xg_conceded": 1.4038,
-          "avg_shots": 15,
-          "avg_shots_on_target": 6.4,
-          "avg_key_passes": 10.8,
-          "goal_conversion_rate": 1.1531123550747426,
-          "defensive_efficiency": -0.5671748112266706,
-          "clean_sheets": 0,
-          "avg_pass_accuracy": 78.78850875390062,
-          "duel_win_rate": 0.518450184501845,
-          "aerial_win_rate": 0.5316455696202531,
-          "avg_fouls": 11.2,
-          "avg_yellow_cards": 0.6,
-          "home_ppg": 1.4,
-          "away_ppg": 1.6,
-          "home_goals_scored": 8,
-          "home_goals_conceded": 7,
-          "away_goals_scored": 12,
-          "away_goals_conceded": 11,
-          "avg_team_rating": 6.8637500000000005
-        },
-        "away_form": {
-          "calculated_at": "2026-08-14",
-          "matches_played": 5,
-          "form_string": "DWLDL",
-          "wins": 1,
-          "draws": 2,
-          "losses": 2,
-          "points_last_n": 5,
-          "goals_scored_last_n": 6,
-          "goals_conceded_last_n": 7,
-          "avg_xg": 1.5399,
-          "avg_xg_conceded": 1.6642599999999999,
-          "avg_shots": 15.6,
-          "avg_shots_on_target": 3.2,
-          "avg_key_passes": 11.4,
-          "goal_conversion_rate": 0.7792713812585232,
-          "defensive_efficiency": 0.15878528595291597,
-          "clean_sheets": 1,
-          "avg_pass_accuracy": 85.23059642139079,
-          "duel_win_rate": 0.5221445221445221,
-          "aerial_win_rate": 0.5669291338582677,
-          "avg_fouls": 9.2,
-          "avg_yellow_cards": 1.2,
-          "home_ppg": 2.2,
-          "away_ppg": 0.8,
-          "home_goals_scored": 9,
-          "home_goals_conceded": 3,
-          "away_goals_scored": 5,
-          "away_goals_conceded": 7,
-          "avg_team_rating": 6.8830219780219775
-        },
-        "head_to_head": {
-          "total_matches": 48,
-          "home_wins": 5,
-          "draws": 3,
-          "away_wins": 2,
-          "home_goals": 18,
-          "away_goals": 11,
-          "avg_total_goals": 0.6041666666666666,
-          "home_win_rate": 0.10416666666666667,
-          "away_win_rate": 0.041666666666666664,
-          "recent_matches": [
-            {
-              "away": "Cercle Brugge",
-              "date": "2026-03-08T18:15:00+00:00",
-              "home": "Sint-Truidense VV",
-              "score": "2-1"
-            },
-            {
-              "away": "Sint-Truidense VV",
-              "date": "2025-08-29T18:45:00+00:00",
-              "home": "Cercle Brugge",
-              "score": "1-1"
-            },
-            {
-              "away": "Sint-Truidense VV",
-              "date": "2025-04-26T18:45:00+00:00",
-              "home": "Cercle Brugge",
-              "score": "3-1"
-            },
-            {
-              "away": "Cercle Brugge",
-              "date": "2025-04-12T16:15:00+00:00",
-              "home": "Sint-Truidense VV",
-              "score": "3-1"
-            },
-            {
-              "away": "Cercle Brugge",
-              "date": "2024-12-27T19:45:00+00:00",
-              "home": "Sint-Truidense VV",
-              "score": "1-1"
-            },
-            {
-              "away": "Sint-Truidense VV",
-              "date": "2024-09-29T17:15:00+00:00",
-              "home": "Cercle Brugge",
-              "score": "1-1"
-            },
-            {
-              "away": "Sint-Truidense VV",
-              "date": "2024-02-04T18:15:00+00:00",
-              "home": "Cercle Brugge",
-              "score": "4-1"
-            },
-            {
-              "away": "Cercle Brugge",
-              "date": "2023-08-27T14:00:00+00:00",
-              "home": "Sint-Truidense VV",
-              "score": "0-2"
-            },
-            {
-              "away": "Sint-Truidense VV",
-              "date": "2023-04-15T16:15:00+00:00",
-              "home": "Cercle Brugge",
-              "score": "3-1"
-            },
-            {
-              "away": "Cercle Brugge",
-              "date": "2022-11-12T17:15:00+00:00",
-              "home": "Sint-Truidense VV",
-              "score": "0-1"
-            }
-          ]
-        },
-        "lineups": null,
-        "social": []
-      },
-      "managers": {
-        "home": {
-          "id": 250,
-          "name": "Lars Friis",
-          "short_name": "L. Friis",
-          "country": "Denmark",
-          "current_team": {
-            "id": 235,
-            "name": "Cercle Brugge"
-          },
-          "preferred_formation": "4-4-2",
-          "formations_used": {
-            "3-5-2": 5,
-            "4-4-2": 15,
-            "5-4-1": 1,
-            "3-4-1-2": 3,
-            "3-4-2-1": 3,
-            "4-1-3-2": 8,
-            "4-2-2-2": 2,
-            "4-2-3-1": 2,
-            "4-3-1-2": 1
-          },
-          "profile": "balanced",
-          "team_style": "neutral",
-          "pressing_intensity": 0.74724388360226,
-          "defensive_line": "mid",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "cross_pray",
-              "name": "Cross & Pray",
-              "category": "wide",
-              "emoji": "🙏",
-              "description": "High-volume hopeful crosses into the box",
-              "score": 0.132
-            },
-            {
-              "rank": 2,
-              "code": "gegenpressing",
-              "name": "Gegenpressing",
-              "category": "pressing",
-              "emoji": "💨",
-              "description": "Immediate press after losing the ball",
-              "score": 0.127
-            },
-            {
-              "rank": 3,
-              "code": "high_press",
-              "name": "High Press",
-              "category": "pressing",
-              "emoji": "🔥",
-              "description": "Press defenders and keeper aggressively high up",
-              "score": 0.096
-            },
-            {
-              "rank": 4,
-              "code": "wing_play",
-              "name": "Wing Play",
-              "category": "wide",
-              "emoji": "🪽",
-              "description": "Attacks focused through wide areas",
-              "score": 0.088
-            }
-          ],
-          "matches_total": 41,
-          "wins": 10,
-          "draws": 14,
-          "losses": 17,
-          "win_pct": 24.4,
-          "avg_goals_scored": 1.46,
-          "avg_goals_conceded": 1.68,
-          "avg_possession": 47.66,
-          "avg_shots": 14.3,
-          "avg_shots_on_target": 4.84,
-          "avg_xg_for": 1.64,
-          "avg_xg_against": 1.56,
-          "avg_corners": 5.05,
-          "avg_yellow_cards": 1.73,
-          "avg_red_cards": 0.07,
-          "avg_fouls": 10.7,
-          "clean_sheet_pct": 19.5,
-          "btts_pct": 68.3,
-          "over_25_pct": 61,
-          "over_15_pct": 90.2,
-          "fail_to_score_pct": 19.5,
-          "avg_goals_scored_1h": 0.88,
-          "avg_goals_conceded_1h": 0.76
-        },
-        "away": {
-          "id": 1924,
-          "name": "Frédéric De Meyer",
-          "short_name": "F. D. Meyer",
-          "country": "Belgium",
-          "current_team": {
-            "id": 244,
-            "name": "Sint-Truidense VV"
-          },
-          "preferred_formation": "4-2-3-1",
-          "formations_used": {
-            "4-2-3-1": 2
-          },
-          "profile": "attacking",
-          "team_style": "soft",
-          "pressing_intensity": 0.8171521581715688,
-          "defensive_line": "mid",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "wing_play",
-              "name": "Wing Play",
-              "category": "wide",
-              "emoji": "🪽",
-              "description": "Attacks focused through wide areas",
-              "score": 0.568
-            },
-            {
-              "rank": 2,
-              "code": "cross_pray",
-              "name": "Cross & Pray",
-              "category": "wide",
-              "emoji": "🙏",
-              "description": "High-volume hopeful crosses into the box",
-              "score": 0.388
-            },
-            {
-              "rank": 3,
-              "code": "overload_isolate",
-              "name": "Overload-to-Isolate",
-              "category": "possession",
-              "emoji": "⚖",
-              "description": "Crowd one side to free the other wing",
-              "score": 0.031
-            },
-            {
-              "rank": 4,
-              "code": "half_space",
-              "name": "Half-Space",
-              "category": "wide",
-              "emoji": "◐",
-              "description": "Attacks through channels beside the penalty box",
-              "score": 0.005
-            }
-          ],
-          "matches_total": 9,
-          "wins": 5,
-          "draws": 2,
-          "losses": 2,
-          "win_pct": 55.6,
-          "avg_goals_scored": 1.78,
-          "avg_goals_conceded": 0.78,
-          "avg_possession": 43.4,
-          "avg_shots": 32,
-          "avg_shots_on_target": 3,
-          "avg_xg_for": 1.98,
-          "avg_xg_against": 1.49,
-          "avg_corners": 4.8,
-          "avg_yellow_cards": 0.11,
-          "avg_red_cards": 0,
-          "avg_fouls": 14,
-          "clean_sheet_pct": 44.4,
-          "btts_pct": 33.3,
-          "over_25_pct": 55.6,
-          "over_15_pct": 66.7,
-          "fail_to_score_pct": 33.3,
-          "avg_goals_scored_1h": 0.89,
-          "avg_goals_conceded_1h": 0.67
-        }
-      }
-    },
-    {
       "event_id": 580479,
       "prediction": {
         "id": 863,
@@ -20688,7 +20688,7 @@
         "prob_draw": 27.7,
         "prob_away_win": 28.8,
         "predicted_result": "H",
-        "expected_home_goals": 1.485,
+        "expected_home_goals": 1.486,
         "expected_away_goals": 1.348,
         "prob_over_15": 74.8,
         "prob_over_25": 51.6,
@@ -24410,7 +24410,7 @@
         "prob_away_win": 15.7,
         "predicted_result": "H",
         "expected_home_goals": 1.123,
-        "expected_away_goals": 1.16,
+        "expected_away_goals": 1.161,
         "prob_over_15": 75.3,
         "prob_over_25": 52.6,
         "prob_over_35": 29.8,
@@ -31482,16 +31482,16 @@
           "current_minute": null,
           "period": "",
           "odds_home": 1.38,
-          "odds_draw": 4.5,
-          "odds_away": 5.99,
+          "odds_draw": 4.47,
+          "odds_away": 5.89,
           "odds_over_15": 1.16,
           "odds_over_25": 1.54,
-          "odds_over_35": 2.35,
-          "odds_under_15": 4.67,
+          "odds_over_35": 2.37,
+          "odds_under_15": 4.57,
           "odds_under_25": 2.3,
-          "odds_under_35": 1.53,
-          "odds_btts_yes": 1.74,
-          "odds_btts_no": 1.94,
+          "odds_under_35": 1.51,
+          "odds_btts_yes": 1.75,
+          "odds_btts_no": 1.95,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -31615,16 +31615,16 @@
         },
         "created_at": "2026-08-08T02:15:20.957530+00:00",
         "prob_home_win": 65.1,
-        "prob_draw": 19.8,
-        "prob_away_win": 15.1,
+        "prob_draw": 20,
+        "prob_away_win": 15,
         "predicted_result": "H",
         "expected_home_goals": 1.94,
         "expected_away_goals": 0.882,
-        "prob_over_15": 79.9,
-        "prob_over_25": 59.6,
-        "prob_over_35": 38,
-        "prob_btts_yes": 53.1,
-        "confidence": 0.6514,
+        "prob_over_15": 79.7,
+        "prob_over_25": 59.2,
+        "prob_over_35": 37.5,
+        "prob_btts_yes": 52.7,
+        "confidence": 0.6506,
         "model_version": "dc-blend-v1",
         "most_likely_score": "1-0",
         "favorite": "H",
@@ -31692,16 +31692,16 @@
         "current_minute": null,
         "period": "",
         "odds_home": 1.38,
-        "odds_draw": 4.5,
-        "odds_away": 5.99,
+        "odds_draw": 4.47,
+        "odds_away": 5.89,
         "odds_over_15": 1.16,
         "odds_over_25": 1.54,
-        "odds_over_35": 2.35,
-        "odds_under_15": 4.67,
+        "odds_over_35": 2.37,
+        "odds_under_15": 4.57,
         "odds_under_25": 2.3,
-        "odds_under_35": 1.53,
-        "odds_btts_yes": 1.74,
-        "odds_btts_no": 1.94,
+        "odds_under_35": 1.51,
+        "odds_btts_yes": 1.75,
+        "odds_btts_no": 1.95,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
