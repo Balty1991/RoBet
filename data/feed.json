@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-14T02:09:41.964Z",
+  "generated_at": "2026-08-14T04:22:32.942Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -10,7 +10,7 @@
   "summary": {
     "total_matches": 50,
     "total_leagues": 26,
-    "average_confidence": 0.520404,
+    "average_confidence": 0.5228119999999999,
     "favorite_recommend": 0,
     "over_15_recommend": 0,
     "over_25_recommend": 0,
@@ -19,6 +19,554 @@
     "winner_recommend": 0
   },
   "items": [
+    {
+      "event_id": 210054,
+      "prediction": {
+        "id": 889,
+        "event": {
+          "id": 210054,
+          "league": {
+            "id": 70,
+            "name": "NPL Queensland",
+            "country": "Australia",
+            "is_women": false,
+            "current_season": {
+              "id": 1312,
+              "name": "Queensland NPL 2026",
+              "year": 2026,
+              "start_date": "2026-01-01",
+              "end_date": "2026-12-31"
+            }
+          },
+          "season": {
+            "id": 1312,
+            "name": "Queensland NPL 2026",
+            "year": 2026
+          },
+          "home_team": "Olympic FC",
+          "away_team": "Rochedale Rovers",
+          "home_team_obj": {
+            "id": 3834,
+            "name": "Olympic FC",
+            "short_name": "Olympic FC",
+            "country": "Australia",
+            "coach": {
+              "name": "Chris Grossman",
+              "shortName": "C. Grossman"
+            },
+            "venue": null
+          },
+          "away_team_obj": {
+            "id": 3831,
+            "name": "Rochedale Rovers",
+            "short_name": "Rochedale",
+            "country": "Australia",
+            "coach": {
+              "name": "Scott MacNicol",
+              "shortName": "S. MacNicol"
+            },
+            "venue": null
+          },
+          "event_date": "2026-08-14T09:30:00Z",
+          "round_number": 22,
+          "round_name": "",
+          "group_name": null,
+          "status": "notstarted",
+          "home_score": null,
+          "away_score": null,
+          "home_score_ht": null,
+          "away_score_ht": null,
+          "current_minute": null,
+          "period": "",
+          "odds_home": 2.27,
+          "odds_draw": 3.56,
+          "odds_away": 2.56,
+          "odds_over_15": 1.09,
+          "odds_over_25": 1.35,
+          "odds_over_35": 1.88,
+          "odds_under_15": 6.02,
+          "odds_under_25": 2.86,
+          "odds_under_35": 1.79,
+          "odds_btts_yes": 1.33,
+          "odds_btts_no": 2.94,
+          "actual_home_xg": null,
+          "actual_away_xg": null,
+          "home_xg_live": null,
+          "away_xg_live": null,
+          "penalty_shootout": null,
+          "extra_time_score": null,
+          "is_local_derby": null,
+          "is_neutral_ground": null,
+          "travel_distance_km": null,
+          "weather_code": null,
+          "wind_speed": null,
+          "temperature_c": null,
+          "pitch_condition": null,
+          "attendance": null,
+          "referee": null,
+          "home_coach": {
+            "id": 1831,
+            "name": "Chris Grossman",
+            "short_name": "C. Grossman",
+            "country": "Australia",
+            "profile": "attacking",
+            "preferred_formation": "4-4-2",
+            "pressing_intensity": 0.21697831465619372,
+            "defensive_line": "mid",
+            "top_styles": [
+              "chaos_ball",
+              "low_counter"
+            ]
+          },
+          "away_coach": {
+            "id": 2070,
+            "name": "Scott MacNicol",
+            "short_name": "S. MacNicol",
+            "country": "Australia",
+            "profile": "balanced",
+            "preferred_formation": "4-4-2",
+            "pressing_intensity": 0.29626708052852047,
+            "defensive_line": "mid",
+            "top_styles": [
+              "chaos_ball",
+              "park_the_bus"
+            ]
+          },
+          "unavailable_players": null,
+          "venue": null,
+          "incidents": null,
+          "live_stats": null,
+          "lineups": null,
+          "shotmap": null,
+          "momentum": null,
+          "xg_per_minute": null,
+          "average_positions": null,
+          "jerseys": null,
+          "funfacts": null,
+          "sr_stats": null,
+          "ai_preview": {
+            "text": "**Olympic FC have owned this matchup, and they'll be looking to keep that groove going** — Rochedale's form is shaky enough that the hosts should fancy this one. 🔥\n\nOlympic's got momentum on their side: two wins in the last five and back-to-back clean sheets against Magic United and Brisbane Roar Youth. Rochedale, meanwhile, are stuck in the mud with just one win in five and conceding goals at will (three losses, all multi-goal defeats).\n\nKey storylines:\n\n- **Olympic's attacking trio** of T. Cobb, H. Yoo, and D. Warnes should have space to work with against a leaky Rochedale backline\n- **Head-to-head history** strongly favors Olympic (3 wins to 2 in recent clashes), and home advantage only tilts that further\n- **Rochedale's inconsistency** — they've nabbed one win but sandwiched it between losses; defensive stability is the problem\n\nExpected lineups:\n\n- **Olympic FC**: L. Hunter, J. Simpkin, S. Keogan, R. Scott, L. Greenwood, J. Parrott, D. Gorrel, T. Cobb, H. Yoo, D. Warnes, J. Hansen\n- **Rochedale Rovers**: N. Cowley, A. Courtney, T. Emblen, M. Roberts, D. Vollenhoven, H. Talbot, E. Ashton, J. Moreland, O. Kljajić, F. D'Agostini\n\nPrediction:\n\n**Olympic FC 2–0 Rochedale Rovers**. Olympic are the clear edge — superior form, home field, and a proven track record in this fixture.",
+            "generated_at": "2026-08-13T09:41:38.842422+00:00"
+          },
+          "live_websocket": false
+        },
+        "created_at": "2026-08-08T02:15:21.390216+00:00",
+        "prob_home_win": 39.6,
+        "prob_draw": 25.3,
+        "prob_away_win": 35.1,
+        "predicted_result": "H",
+        "expected_home_goals": 2.045,
+        "expected_away_goals": 1.382,
+        "prob_over_15": 84.6,
+        "prob_over_25": 67.6,
+        "prob_over_35": 47.5,
+        "prob_btts_yes": 68.8,
+        "confidence": 0.3961,
+        "model_version": "dc-blend-v1",
+        "most_likely_score": "2-1",
+        "favorite": "H",
+        "favorite_prob": 39.6,
+        "favorite_recommend": false,
+        "over_15_recommend": false,
+        "over_25_recommend": false,
+        "over_35_recommend": false,
+        "btts_recommend": false,
+        "winner_recommend": false
+      },
+      "event_detail": {
+        "id": 210054,
+        "league": {
+          "id": 70,
+          "name": "NPL Queensland",
+          "country": "Australia",
+          "is_women": false,
+          "current_season": {
+            "id": 1312,
+            "name": "Queensland NPL 2026",
+            "year": 2026,
+            "start_date": "2026-01-01",
+            "end_date": "2026-12-31"
+          }
+        },
+        "season": {
+          "id": 1312,
+          "name": "Queensland NPL 2026",
+          "year": 2026
+        },
+        "home_team": "Olympic FC",
+        "away_team": "Rochedale Rovers",
+        "home_team_obj": {
+          "id": 3834,
+          "name": "Olympic FC",
+          "short_name": "Olympic FC",
+          "country": "Australia",
+          "coach": {
+            "name": "Chris Grossman",
+            "shortName": "C. Grossman"
+          },
+          "venue": null
+        },
+        "away_team_obj": {
+          "id": 3831,
+          "name": "Rochedale Rovers",
+          "short_name": "Rochedale",
+          "country": "Australia",
+          "coach": {
+            "name": "Scott MacNicol",
+            "shortName": "S. MacNicol"
+          },
+          "venue": null
+        },
+        "event_date": "2026-08-14T12:30:00+03:00",
+        "round_number": 22,
+        "round_name": "",
+        "group_name": null,
+        "status": "notstarted",
+        "home_score": null,
+        "away_score": null,
+        "home_score_ht": null,
+        "away_score_ht": null,
+        "current_minute": null,
+        "period": "",
+        "odds_home": 2.27,
+        "odds_draw": 3.56,
+        "odds_away": 2.56,
+        "odds_over_15": 1.09,
+        "odds_over_25": 1.35,
+        "odds_over_35": 1.88,
+        "odds_under_15": 6.02,
+        "odds_under_25": 2.86,
+        "odds_under_35": 1.79,
+        "odds_btts_yes": 1.33,
+        "odds_btts_no": 2.94,
+        "actual_home_xg": null,
+        "actual_away_xg": null,
+        "home_xg_live": null,
+        "away_xg_live": null,
+        "penalty_shootout": null,
+        "extra_time_score": null,
+        "is_local_derby": null,
+        "is_neutral_ground": null,
+        "travel_distance_km": null,
+        "weather_code": null,
+        "wind_speed": null,
+        "temperature_c": null,
+        "pitch_condition": null,
+        "attendance": null,
+        "referee": null,
+        "home_coach": {
+          "id": 1831,
+          "name": "Chris Grossman",
+          "short_name": "C. Grossman",
+          "country": "Australia",
+          "profile": "attacking",
+          "preferred_formation": "4-4-2",
+          "pressing_intensity": 0.21697831465619372,
+          "defensive_line": "mid",
+          "top_styles": [
+            "chaos_ball",
+            "low_counter"
+          ]
+        },
+        "away_coach": {
+          "id": 2070,
+          "name": "Scott MacNicol",
+          "short_name": "S. MacNicol",
+          "country": "Australia",
+          "profile": "balanced",
+          "preferred_formation": "4-4-2",
+          "pressing_intensity": 0.29626708052852047,
+          "defensive_line": "mid",
+          "top_styles": [
+            "chaos_ball",
+            "park_the_bus"
+          ]
+        },
+        "unavailable_players": null,
+        "venue": null,
+        "live_stats": null,
+        "jerseys": null,
+        "funfacts": null,
+        "sr_stats": null,
+        "ai_preview": {
+          "text": "**Olympic FC have owned this matchup, and they'll be looking to keep that groove going** — Rochedale's form is shaky enough that the hosts should fancy this one. 🔥\n\nOlympic's got momentum on their side: two wins in the last five and back-to-back clean sheets against Magic United and Brisbane Roar Youth. Rochedale, meanwhile, are stuck in the mud with just one win in five and conceding goals at will (three losses, all multi-goal defeats).\n\nKey storylines:\n\n- **Olympic's attacking trio** of T. Cobb, H. Yoo, and D. Warnes should have space to work with against a leaky Rochedale backline\n- **Head-to-head history** strongly favors Olympic (3 wins to 2 in recent clashes), and home advantage only tilts that further\n- **Rochedale's inconsistency** — they've nabbed one win but sandwiched it between losses; defensive stability is the problem\n\nExpected lineups:\n\n- **Olympic FC**: L. Hunter, J. Simpkin, S. Keogan, R. Scott, L. Greenwood, J. Parrott, D. Gorrel, T. Cobb, H. Yoo, D. Warnes, J. Hansen\n- **Rochedale Rovers**: N. Cowley, A. Courtney, T. Emblen, M. Roberts, D. Vollenhoven, H. Talbot, E. Ashton, J. Moreland, O. Kljajić, F. D'Agostini\n\nPrediction:\n\n**Olympic FC 2–0 Rochedale Rovers**. Olympic are the clear edge — superior form, home field, and a proven track record in this fixture.",
+          "generated_at": "2026-08-13T09:41:38.842422+00:00"
+        },
+        "live_websocket": false,
+        "home_form": {
+          "calculated_at": "2026-08-14",
+          "matches_played": 5,
+          "form_string": "LWWLL",
+          "wins": 2,
+          "draws": 0,
+          "losses": 3,
+          "points_last_n": 6,
+          "goals_scored_last_n": 7,
+          "goals_conceded_last_n": 8,
+          "avg_xg": 1.4,
+          "avg_xg_conceded": 1.6,
+          "avg_shots": 0,
+          "avg_shots_on_target": 0,
+          "avg_key_passes": 0,
+          "goal_conversion_rate": 0,
+          "defensive_efficiency": 0,
+          "clean_sheets": 1,
+          "avg_pass_accuracy": 0,
+          "duel_win_rate": 0,
+          "aerial_win_rate": 0,
+          "avg_fouls": 0,
+          "avg_yellow_cards": 0,
+          "home_ppg": 1.2,
+          "away_ppg": 1.2,
+          "home_goals_scored": 9,
+          "home_goals_conceded": 9,
+          "away_goals_scored": 7,
+          "away_goals_conceded": 11,
+          "avg_team_rating": 0
+        },
+        "away_form": {
+          "calculated_at": "2026-08-14",
+          "matches_played": 5,
+          "form_string": "LWLLD",
+          "wins": 1,
+          "draws": 1,
+          "losses": 3,
+          "points_last_n": 4,
+          "goals_scored_last_n": 7,
+          "goals_conceded_last_n": 11,
+          "avg_xg": 1.4,
+          "avg_xg_conceded": 2.2,
+          "avg_shots": 0,
+          "avg_shots_on_target": 0,
+          "avg_key_passes": 0,
+          "goal_conversion_rate": 0,
+          "defensive_efficiency": 0,
+          "clean_sheets": 0,
+          "avg_pass_accuracy": 0,
+          "duel_win_rate": 0,
+          "aerial_win_rate": 0,
+          "avg_fouls": 0,
+          "avg_yellow_cards": 0,
+          "home_ppg": 1.2,
+          "away_ppg": 0.2,
+          "home_goals_scored": 10,
+          "home_goals_conceded": 12,
+          "away_goals_scored": 4,
+          "away_goals_conceded": 13,
+          "avg_team_rating": 0
+        },
+        "head_to_head": {
+          "total_matches": 5,
+          "home_wins": 3,
+          "draws": 0,
+          "away_wins": 2,
+          "home_goals": 6,
+          "away_goals": 5,
+          "avg_total_goals": 2.2,
+          "home_win_rate": 0.6,
+          "away_win_rate": 0.4,
+          "recent_matches": [
+            {
+              "away": "Olympic FC",
+              "date": "2026-05-10T07:00:00+00:00",
+              "home": "Rochedale Rovers",
+              "score": "3-1"
+            },
+            {
+              "away": "Olympic FC",
+              "date": "2024-07-13T08:15:00+00:00",
+              "home": "Rochedale Rovers",
+              "score": "0-1"
+            },
+            {
+              "away": "Rochedale Rovers",
+              "date": "2024-04-14T06:30:00+00:00",
+              "home": "Olympic FC",
+              "score": "2-0"
+            },
+            {
+              "away": "Rochedale Rovers",
+              "date": "2023-08-13T09:00:00+00:00",
+              "home": "Olympic FC",
+              "score": "1-0"
+            },
+            {
+              "away": "Olympic FC",
+              "date": "2023-05-05T10:30:00+00:00",
+              "home": "Rochedale Rovers",
+              "score": "2-1"
+            }
+          ]
+        },
+        "lineups": null,
+        "social": []
+      },
+      "managers": {
+        "home": {
+          "id": 1831,
+          "name": "Chris Grossman",
+          "short_name": "C. Grossman",
+          "country": "Australia",
+          "current_team": {
+            "id": 3834,
+            "name": "Olympic FC"
+          },
+          "preferred_formation": "4-4-2",
+          "formations_used": {
+            "3-4-3": 1,
+            "4-3-3": 2,
+            "4-4-2": 8,
+            "4-1-4-1": 2,
+            "4-2-3-1": 8
+          },
+          "profile": "attacking",
+          "team_style": "soft",
+          "pressing_intensity": 0.21697831465619372,
+          "defensive_line": "mid",
+          "tactical_styles": [
+            {
+              "rank": 1,
+              "code": "chaos_ball",
+              "name": "Chaos Ball",
+              "category": "fan",
+              "emoji": "🎲",
+              "description": "Embrace pure randomness, anything can happen",
+              "score": 0.08
+            },
+            {
+              "rank": 2,
+              "code": "low_counter",
+              "name": "Low Block Counter",
+              "category": "counter",
+              "emoji": "🏹",
+              "description": "Deep defense with rapid forward outlets",
+              "score": 0.071
+            },
+            {
+              "rank": 3,
+              "code": "counter",
+              "name": "Counter-Attack",
+              "category": "counter",
+              "emoji": "⚡",
+              "description": "Absorb pressure, strike fast on the break",
+              "score": 0.069
+            },
+            {
+              "rank": 4,
+              "code": "park_the_bus",
+              "name": "Park the Bus",
+              "category": "defensive",
+              "emoji": "🚌",
+              "description": "Ultra-deep defense, minimal attacking intent",
+              "score": 0.065
+            }
+          ],
+          "matches_total": 22,
+          "wins": 9,
+          "draws": 2,
+          "losses": 11,
+          "win_pct": 40.9,
+          "avg_goals_scored": 1.86,
+          "avg_goals_conceded": 1.86,
+          "avg_possession": 45.81,
+          "avg_shots": 11.95,
+          "avg_shots_on_target": 4.62,
+          "avg_xg_for": 1.5,
+          "avg_xg_against": 1.74,
+          "avg_corners": 5,
+          "avg_yellow_cards": 1.23,
+          "avg_red_cards": 0.05,
+          "avg_fouls": 9.86,
+          "clean_sheet_pct": 22.7,
+          "btts_pct": 68.2,
+          "over_25_pct": 77.3,
+          "over_15_pct": 95.5,
+          "fail_to_score_pct": 9.1,
+          "avg_goals_scored_1h": 0.86,
+          "avg_goals_conceded_1h": 0.73
+        },
+        "away": {
+          "id": 1828,
+          "name": "Daniel Varma",
+          "short_name": "D. Varma",
+          "country": "Australia",
+          "current_team": {
+            "id": 3831,
+            "name": "Rochedale Rovers"
+          },
+          "preferred_formation": "4-2-3-1",
+          "formations_used": {
+            "4-4-2": 8,
+            "4-2-3-1": 9
+          },
+          "profile": "balanced",
+          "team_style": "soft",
+          "pressing_intensity": 0.23478596078065522,
+          "defensive_line": "mid",
+          "tactical_styles": [
+            {
+              "rank": 1,
+              "code": "chaos_ball",
+              "name": "Chaos Ball",
+              "category": "fan",
+              "emoji": "🎲",
+              "description": "Embrace pure randomness, anything can happen",
+              "score": 0.145
+            },
+            {
+              "rank": 2,
+              "code": "park_the_bus",
+              "name": "Park the Bus",
+              "category": "defensive",
+              "emoji": "🚌",
+              "description": "Ultra-deep defense, minimal attacking intent",
+              "score": 0.106
+            },
+            {
+              "rank": 3,
+              "code": "no_midfield",
+              "name": "No Midfield Just Vibes",
+              "category": "fan",
+              "emoji": "🚀",
+              "description": "Bypass midfield entirely, defend and attack direct",
+              "score": 0.075
+            },
+            {
+              "rank": 4,
+              "code": "vibes_fc",
+              "name": "Vibes FC",
+              "category": "fan",
+              "emoji": "✨",
+              "description": "Minimal structure, individual freedom",
+              "score": 0.075
+            }
+          ],
+          "matches_total": 17,
+          "wins": 3,
+          "draws": 3,
+          "losses": 11,
+          "win_pct": 17.6,
+          "avg_goals_scored": 1.35,
+          "avg_goals_conceded": 2.65,
+          "avg_possession": 40.47,
+          "avg_shots": 10.59,
+          "avg_shots_on_target": 3.53,
+          "avg_xg_for": 1.19,
+          "avg_xg_against": 2.06,
+          "avg_corners": 4.59,
+          "avg_yellow_cards": 1.06,
+          "avg_red_cards": 0,
+          "avg_fouls": 8.76,
+          "clean_sheet_pct": 5.9,
+          "btts_pct": 76.5,
+          "over_25_pct": 76.5,
+          "over_15_pct": 94.1,
+          "fail_to_score_pct": 17.6,
+          "avg_goals_scored_1h": 0.47,
+          "avg_goals_conceded_1h": 1
+        }
+      }
+    },
     {
       "event_id": 210056,
       "prediction": {
@@ -262,7 +810,7 @@
         },
         "live_websocket": false,
         "home_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "DWWDD",
           "wins": 2,
@@ -293,7 +841,7 @@
           "avg_team_rating": 0
         },
         "away_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "WLWLW",
           "wins": 3,
@@ -570,7 +1118,7 @@
         "prob_away_win": 23,
         "predicted_result": "H",
         "expected_home_goals": 2.21,
-        "expected_away_goals": 1.376,
+        "expected_away_goals": 1.375,
         "prob_over_15": 85.5,
         "prob_over_25": 69,
         "prob_over_35": 49.1,
@@ -708,7 +1256,7 @@
         },
         "live_websocket": false,
         "home_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "DLDDW",
           "wins": 1,
@@ -739,7 +1287,7 @@
           "avg_team_rating": 0
         },
         "away_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "WLWDD",
           "wins": 2,
@@ -1144,7 +1692,7 @@
         "expected_home_goals": 1.307,
         "expected_away_goals": 2.039,
         "prob_over_15": 85.1,
-        "prob_over_25": 68.4,
+        "prob_over_25": 68.5,
         "prob_over_35": 48.1,
         "prob_btts_yes": 67.3,
         "confidence": 0.5282,
@@ -1264,7 +1812,7 @@
         },
         "live_websocket": false,
         "home_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "LWLWD",
           "wins": 2,
@@ -1295,7 +1843,7 @@
           "avg_team_rating": 0
         },
         "away_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "DLDLD",
           "wins": 0,
@@ -1766,7 +2314,7 @@
         },
         "live_websocket": false,
         "home_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "WLDWL",
           "wins": 2,
@@ -1797,7 +2345,7 @@
           "avg_team_rating": 0
         },
         "away_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "WWWWL",
           "wins": 4,
@@ -2059,554 +2607,6 @@
       }
     },
     {
-      "event_id": 210054,
-      "prediction": {
-        "id": 889,
-        "event": {
-          "id": 210054,
-          "league": {
-            "id": 70,
-            "name": "NPL Queensland",
-            "country": "Australia",
-            "is_women": false,
-            "current_season": {
-              "id": 1312,
-              "name": "Queensland NPL 2026",
-              "year": 2026,
-              "start_date": "2026-01-01",
-              "end_date": "2026-12-31"
-            }
-          },
-          "season": {
-            "id": 1312,
-            "name": "Queensland NPL 2026",
-            "year": 2026
-          },
-          "home_team": "Olympic FC",
-          "away_team": "Rochedale Rovers",
-          "home_team_obj": {
-            "id": 3834,
-            "name": "Olympic FC",
-            "short_name": "Olympic FC",
-            "country": "Australia",
-            "coach": {
-              "name": "Chris Grossman",
-              "shortName": "C. Grossman"
-            },
-            "venue": null
-          },
-          "away_team_obj": {
-            "id": 3831,
-            "name": "Rochedale Rovers",
-            "short_name": "Rochedale",
-            "country": "Australia",
-            "coach": {
-              "name": "Scott MacNicol",
-              "shortName": "S. MacNicol"
-            },
-            "venue": null
-          },
-          "event_date": "2026-08-14T09:30:00Z",
-          "round_number": 22,
-          "round_name": "",
-          "group_name": null,
-          "status": "notstarted",
-          "home_score": null,
-          "away_score": null,
-          "home_score_ht": null,
-          "away_score_ht": null,
-          "current_minute": null,
-          "period": "",
-          "odds_home": 2.27,
-          "odds_draw": 3.56,
-          "odds_away": 2.56,
-          "odds_over_15": 1.09,
-          "odds_over_25": 1.35,
-          "odds_over_35": 1.88,
-          "odds_under_15": 6.02,
-          "odds_under_25": 2.86,
-          "odds_under_35": 1.79,
-          "odds_btts_yes": 1.33,
-          "odds_btts_no": 2.94,
-          "actual_home_xg": null,
-          "actual_away_xg": null,
-          "home_xg_live": null,
-          "away_xg_live": null,
-          "penalty_shootout": null,
-          "extra_time_score": null,
-          "is_local_derby": null,
-          "is_neutral_ground": null,
-          "travel_distance_km": null,
-          "weather_code": null,
-          "wind_speed": null,
-          "temperature_c": null,
-          "pitch_condition": null,
-          "attendance": null,
-          "referee": null,
-          "home_coach": {
-            "id": 1831,
-            "name": "Chris Grossman",
-            "short_name": "C. Grossman",
-            "country": "Australia",
-            "profile": "attacking",
-            "preferred_formation": "4-4-2",
-            "pressing_intensity": 0.21697831465619372,
-            "defensive_line": "mid",
-            "top_styles": [
-              "chaos_ball",
-              "low_counter"
-            ]
-          },
-          "away_coach": {
-            "id": 2070,
-            "name": "Scott MacNicol",
-            "short_name": "S. MacNicol",
-            "country": "Australia",
-            "profile": "balanced",
-            "preferred_formation": "4-4-2",
-            "pressing_intensity": 0.29626708052852047,
-            "defensive_line": "mid",
-            "top_styles": [
-              "chaos_ball",
-              "park_the_bus"
-            ]
-          },
-          "unavailable_players": null,
-          "venue": null,
-          "incidents": null,
-          "live_stats": null,
-          "lineups": null,
-          "shotmap": null,
-          "momentum": null,
-          "xg_per_minute": null,
-          "average_positions": null,
-          "jerseys": null,
-          "funfacts": null,
-          "sr_stats": null,
-          "ai_preview": {
-            "text": "**Olympic FC have owned this matchup, and they'll be looking to keep that groove going** — Rochedale's form is shaky enough that the hosts should fancy this one. 🔥\n\nOlympic's got momentum on their side: two wins in the last five and back-to-back clean sheets against Magic United and Brisbane Roar Youth. Rochedale, meanwhile, are stuck in the mud with just one win in five and conceding goals at will (three losses, all multi-goal defeats).\n\nKey storylines:\n\n- **Olympic's attacking trio** of T. Cobb, H. Yoo, and D. Warnes should have space to work with against a leaky Rochedale backline\n- **Head-to-head history** strongly favors Olympic (3 wins to 2 in recent clashes), and home advantage only tilts that further\n- **Rochedale's inconsistency** — they've nabbed one win but sandwiched it between losses; defensive stability is the problem\n\nExpected lineups:\n\n- **Olympic FC**: L. Hunter, J. Simpkin, S. Keogan, R. Scott, L. Greenwood, J. Parrott, D. Gorrel, T. Cobb, H. Yoo, D. Warnes, J. Hansen\n- **Rochedale Rovers**: N. Cowley, A. Courtney, T. Emblen, M. Roberts, D. Vollenhoven, H. Talbot, E. Ashton, J. Moreland, O. Kljajić, F. D'Agostini\n\nPrediction:\n\n**Olympic FC 2–0 Rochedale Rovers**. Olympic are the clear edge — superior form, home field, and a proven track record in this fixture.",
-            "generated_at": "2026-08-13T09:41:38.842422+00:00"
-          },
-          "live_websocket": false
-        },
-        "created_at": "2026-08-08T02:15:21.390216+00:00",
-        "prob_home_win": 39.6,
-        "prob_draw": 25.3,
-        "prob_away_win": 35.1,
-        "predicted_result": "H",
-        "expected_home_goals": 2.046,
-        "expected_away_goals": 1.382,
-        "prob_over_15": 84.6,
-        "prob_over_25": 67.6,
-        "prob_over_35": 47.5,
-        "prob_btts_yes": 68.8,
-        "confidence": 0.3961,
-        "model_version": "dc-blend-v1",
-        "most_likely_score": "2-1",
-        "favorite": "H",
-        "favorite_prob": 39.6,
-        "favorite_recommend": false,
-        "over_15_recommend": false,
-        "over_25_recommend": false,
-        "over_35_recommend": false,
-        "btts_recommend": false,
-        "winner_recommend": false
-      },
-      "event_detail": {
-        "id": 210054,
-        "league": {
-          "id": 70,
-          "name": "NPL Queensland",
-          "country": "Australia",
-          "is_women": false,
-          "current_season": {
-            "id": 1312,
-            "name": "Queensland NPL 2026",
-            "year": 2026,
-            "start_date": "2026-01-01",
-            "end_date": "2026-12-31"
-          }
-        },
-        "season": {
-          "id": 1312,
-          "name": "Queensland NPL 2026",
-          "year": 2026
-        },
-        "home_team": "Olympic FC",
-        "away_team": "Rochedale Rovers",
-        "home_team_obj": {
-          "id": 3834,
-          "name": "Olympic FC",
-          "short_name": "Olympic FC",
-          "country": "Australia",
-          "coach": {
-            "name": "Chris Grossman",
-            "shortName": "C. Grossman"
-          },
-          "venue": null
-        },
-        "away_team_obj": {
-          "id": 3831,
-          "name": "Rochedale Rovers",
-          "short_name": "Rochedale",
-          "country": "Australia",
-          "coach": {
-            "name": "Scott MacNicol",
-            "shortName": "S. MacNicol"
-          },
-          "venue": null
-        },
-        "event_date": "2026-08-14T12:30:00+03:00",
-        "round_number": 22,
-        "round_name": "",
-        "group_name": null,
-        "status": "notstarted",
-        "home_score": null,
-        "away_score": null,
-        "home_score_ht": null,
-        "away_score_ht": null,
-        "current_minute": null,
-        "period": "",
-        "odds_home": 2.27,
-        "odds_draw": 3.56,
-        "odds_away": 2.56,
-        "odds_over_15": 1.09,
-        "odds_over_25": 1.35,
-        "odds_over_35": 1.88,
-        "odds_under_15": 6.02,
-        "odds_under_25": 2.86,
-        "odds_under_35": 1.79,
-        "odds_btts_yes": 1.33,
-        "odds_btts_no": 2.94,
-        "actual_home_xg": null,
-        "actual_away_xg": null,
-        "home_xg_live": null,
-        "away_xg_live": null,
-        "penalty_shootout": null,
-        "extra_time_score": null,
-        "is_local_derby": null,
-        "is_neutral_ground": null,
-        "travel_distance_km": null,
-        "weather_code": null,
-        "wind_speed": null,
-        "temperature_c": null,
-        "pitch_condition": null,
-        "attendance": null,
-        "referee": null,
-        "home_coach": {
-          "id": 1831,
-          "name": "Chris Grossman",
-          "short_name": "C. Grossman",
-          "country": "Australia",
-          "profile": "attacking",
-          "preferred_formation": "4-4-2",
-          "pressing_intensity": 0.21697831465619372,
-          "defensive_line": "mid",
-          "top_styles": [
-            "chaos_ball",
-            "low_counter"
-          ]
-        },
-        "away_coach": {
-          "id": 2070,
-          "name": "Scott MacNicol",
-          "short_name": "S. MacNicol",
-          "country": "Australia",
-          "profile": "balanced",
-          "preferred_formation": "4-4-2",
-          "pressing_intensity": 0.29626708052852047,
-          "defensive_line": "mid",
-          "top_styles": [
-            "chaos_ball",
-            "park_the_bus"
-          ]
-        },
-        "unavailable_players": null,
-        "venue": null,
-        "live_stats": null,
-        "jerseys": null,
-        "funfacts": null,
-        "sr_stats": null,
-        "ai_preview": {
-          "text": "**Olympic FC have owned this matchup, and they'll be looking to keep that groove going** — Rochedale's form is shaky enough that the hosts should fancy this one. 🔥\n\nOlympic's got momentum on their side: two wins in the last five and back-to-back clean sheets against Magic United and Brisbane Roar Youth. Rochedale, meanwhile, are stuck in the mud with just one win in five and conceding goals at will (three losses, all multi-goal defeats).\n\nKey storylines:\n\n- **Olympic's attacking trio** of T. Cobb, H. Yoo, and D. Warnes should have space to work with against a leaky Rochedale backline\n- **Head-to-head history** strongly favors Olympic (3 wins to 2 in recent clashes), and home advantage only tilts that further\n- **Rochedale's inconsistency** — they've nabbed one win but sandwiched it between losses; defensive stability is the problem\n\nExpected lineups:\n\n- **Olympic FC**: L. Hunter, J. Simpkin, S. Keogan, R. Scott, L. Greenwood, J. Parrott, D. Gorrel, T. Cobb, H. Yoo, D. Warnes, J. Hansen\n- **Rochedale Rovers**: N. Cowley, A. Courtney, T. Emblen, M. Roberts, D. Vollenhoven, H. Talbot, E. Ashton, J. Moreland, O. Kljajić, F. D'Agostini\n\nPrediction:\n\n**Olympic FC 2–0 Rochedale Rovers**. Olympic are the clear edge — superior form, home field, and a proven track record in this fixture.",
-          "generated_at": "2026-08-13T09:41:38.842422+00:00"
-        },
-        "live_websocket": false,
-        "home_form": {
-          "calculated_at": "2026-08-13",
-          "matches_played": 5,
-          "form_string": "LWWLL",
-          "wins": 2,
-          "draws": 0,
-          "losses": 3,
-          "points_last_n": 6,
-          "goals_scored_last_n": 7,
-          "goals_conceded_last_n": 8,
-          "avg_xg": 1.4,
-          "avg_xg_conceded": 1.6,
-          "avg_shots": 0,
-          "avg_shots_on_target": 0,
-          "avg_key_passes": 0,
-          "goal_conversion_rate": 0,
-          "defensive_efficiency": 0,
-          "clean_sheets": 1,
-          "avg_pass_accuracy": 0,
-          "duel_win_rate": 0,
-          "aerial_win_rate": 0,
-          "avg_fouls": 0,
-          "avg_yellow_cards": 0,
-          "home_ppg": 1.2,
-          "away_ppg": 1.2,
-          "home_goals_scored": 9,
-          "home_goals_conceded": 9,
-          "away_goals_scored": 7,
-          "away_goals_conceded": 11,
-          "avg_team_rating": 0
-        },
-        "away_form": {
-          "calculated_at": "2026-08-13",
-          "matches_played": 5,
-          "form_string": "LWLLD",
-          "wins": 1,
-          "draws": 1,
-          "losses": 3,
-          "points_last_n": 4,
-          "goals_scored_last_n": 7,
-          "goals_conceded_last_n": 11,
-          "avg_xg": 1.4,
-          "avg_xg_conceded": 2.2,
-          "avg_shots": 0,
-          "avg_shots_on_target": 0,
-          "avg_key_passes": 0,
-          "goal_conversion_rate": 0,
-          "defensive_efficiency": 0,
-          "clean_sheets": 0,
-          "avg_pass_accuracy": 0,
-          "duel_win_rate": 0,
-          "aerial_win_rate": 0,
-          "avg_fouls": 0,
-          "avg_yellow_cards": 0,
-          "home_ppg": 1.2,
-          "away_ppg": 0.2,
-          "home_goals_scored": 10,
-          "home_goals_conceded": 12,
-          "away_goals_scored": 4,
-          "away_goals_conceded": 13,
-          "avg_team_rating": 0
-        },
-        "head_to_head": {
-          "total_matches": 5,
-          "home_wins": 3,
-          "draws": 0,
-          "away_wins": 2,
-          "home_goals": 6,
-          "away_goals": 5,
-          "avg_total_goals": 2.2,
-          "home_win_rate": 0.6,
-          "away_win_rate": 0.4,
-          "recent_matches": [
-            {
-              "away": "Olympic FC",
-              "date": "2026-05-10T07:00:00+00:00",
-              "home": "Rochedale Rovers",
-              "score": "3-1"
-            },
-            {
-              "away": "Olympic FC",
-              "date": "2024-07-13T08:15:00+00:00",
-              "home": "Rochedale Rovers",
-              "score": "0-1"
-            },
-            {
-              "away": "Rochedale Rovers",
-              "date": "2024-04-14T06:30:00+00:00",
-              "home": "Olympic FC",
-              "score": "2-0"
-            },
-            {
-              "away": "Rochedale Rovers",
-              "date": "2023-08-13T09:00:00+00:00",
-              "home": "Olympic FC",
-              "score": "1-0"
-            },
-            {
-              "away": "Olympic FC",
-              "date": "2023-05-05T10:30:00+00:00",
-              "home": "Rochedale Rovers",
-              "score": "2-1"
-            }
-          ]
-        },
-        "lineups": null,
-        "social": []
-      },
-      "managers": {
-        "home": {
-          "id": 1831,
-          "name": "Chris Grossman",
-          "short_name": "C. Grossman",
-          "country": "Australia",
-          "current_team": {
-            "id": 3834,
-            "name": "Olympic FC"
-          },
-          "preferred_formation": "4-4-2",
-          "formations_used": {
-            "3-4-3": 1,
-            "4-3-3": 2,
-            "4-4-2": 8,
-            "4-1-4-1": 2,
-            "4-2-3-1": 8
-          },
-          "profile": "attacking",
-          "team_style": "soft",
-          "pressing_intensity": 0.21697831465619372,
-          "defensive_line": "mid",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "chaos_ball",
-              "name": "Chaos Ball",
-              "category": "fan",
-              "emoji": "🎲",
-              "description": "Embrace pure randomness, anything can happen",
-              "score": 0.08
-            },
-            {
-              "rank": 2,
-              "code": "low_counter",
-              "name": "Low Block Counter",
-              "category": "counter",
-              "emoji": "🏹",
-              "description": "Deep defense with rapid forward outlets",
-              "score": 0.071
-            },
-            {
-              "rank": 3,
-              "code": "counter",
-              "name": "Counter-Attack",
-              "category": "counter",
-              "emoji": "⚡",
-              "description": "Absorb pressure, strike fast on the break",
-              "score": 0.069
-            },
-            {
-              "rank": 4,
-              "code": "park_the_bus",
-              "name": "Park the Bus",
-              "category": "defensive",
-              "emoji": "🚌",
-              "description": "Ultra-deep defense, minimal attacking intent",
-              "score": 0.065
-            }
-          ],
-          "matches_total": 22,
-          "wins": 9,
-          "draws": 2,
-          "losses": 11,
-          "win_pct": 40.9,
-          "avg_goals_scored": 1.86,
-          "avg_goals_conceded": 1.86,
-          "avg_possession": 45.81,
-          "avg_shots": 11.95,
-          "avg_shots_on_target": 4.62,
-          "avg_xg_for": 1.5,
-          "avg_xg_against": 1.74,
-          "avg_corners": 5,
-          "avg_yellow_cards": 1.23,
-          "avg_red_cards": 0.05,
-          "avg_fouls": 9.86,
-          "clean_sheet_pct": 22.7,
-          "btts_pct": 68.2,
-          "over_25_pct": 77.3,
-          "over_15_pct": 95.5,
-          "fail_to_score_pct": 9.1,
-          "avg_goals_scored_1h": 0.86,
-          "avg_goals_conceded_1h": 0.73
-        },
-        "away": {
-          "id": 1828,
-          "name": "Daniel Varma",
-          "short_name": "D. Varma",
-          "country": "Australia",
-          "current_team": {
-            "id": 3831,
-            "name": "Rochedale Rovers"
-          },
-          "preferred_formation": "4-2-3-1",
-          "formations_used": {
-            "4-4-2": 8,
-            "4-2-3-1": 9
-          },
-          "profile": "balanced",
-          "team_style": "soft",
-          "pressing_intensity": 0.23478596078065522,
-          "defensive_line": "mid",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "chaos_ball",
-              "name": "Chaos Ball",
-              "category": "fan",
-              "emoji": "🎲",
-              "description": "Embrace pure randomness, anything can happen",
-              "score": 0.145
-            },
-            {
-              "rank": 2,
-              "code": "park_the_bus",
-              "name": "Park the Bus",
-              "category": "defensive",
-              "emoji": "🚌",
-              "description": "Ultra-deep defense, minimal attacking intent",
-              "score": 0.106
-            },
-            {
-              "rank": 3,
-              "code": "no_midfield",
-              "name": "No Midfield Just Vibes",
-              "category": "fan",
-              "emoji": "🚀",
-              "description": "Bypass midfield entirely, defend and attack direct",
-              "score": 0.075
-            },
-            {
-              "rank": 4,
-              "code": "vibes_fc",
-              "name": "Vibes FC",
-              "category": "fan",
-              "emoji": "✨",
-              "description": "Minimal structure, individual freedom",
-              "score": 0.075
-            }
-          ],
-          "matches_total": 17,
-          "wins": 3,
-          "draws": 3,
-          "losses": 11,
-          "win_pct": 17.6,
-          "avg_goals_scored": 1.35,
-          "avg_goals_conceded": 2.65,
-          "avg_possession": 40.47,
-          "avg_shots": 10.59,
-          "avg_shots_on_target": 3.53,
-          "avg_xg_for": 1.19,
-          "avg_xg_against": 2.06,
-          "avg_corners": 4.59,
-          "avg_yellow_cards": 1.06,
-          "avg_red_cards": 0,
-          "avg_fouls": 8.76,
-          "clean_sheet_pct": 5.9,
-          "btts_pct": 76.5,
-          "over_25_pct": 76.5,
-          "over_15_pct": 94.1,
-          "fail_to_score_pct": 17.6,
-          "avg_goals_scored_1h": 0.47,
-          "avg_goals_conceded_1h": 1
-        }
-      }
-    },
-    {
       "event_id": 210052,
       "prediction": {
         "id": 891,
@@ -2849,7 +2849,7 @@
         },
         "live_websocket": false,
         "home_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "LWDLW",
           "wins": 2,
@@ -2880,7 +2880,7 @@
           "avg_team_rating": 0
         },
         "away_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "DLLLL",
           "wins": 0,
@@ -3264,7 +3264,7 @@
         "prob_away_win": 48,
         "predicted_result": "A",
         "expected_home_goals": 1.18,
-        "expected_away_goals": 1.689,
+        "expected_away_goals": 1.69,
         "prob_over_15": 67.2,
         "prob_over_25": 42.2,
         "prob_over_35": 23.8,
@@ -3455,7 +3455,7 @@
         },
         "live_websocket": true,
         "home_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "DLDLW",
           "wins": 1,
@@ -3486,7 +3486,7 @@
           "avg_team_rating": 6.608214285714285
         },
         "away_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "WLWWW",
           "wins": 4,
@@ -3956,7 +3956,7 @@
         "predicted_result": "A",
         "expected_home_goals": 1.361,
         "expected_away_goals": 1.717,
-        "prob_over_15": 80.3,
+        "prob_over_15": 80.4,
         "prob_over_25": 60,
         "prob_over_35": 38.9,
         "prob_btts_yes": 62.2,
@@ -5922,12 +5922,12 @@
         "prob_away_win": 22.3,
         "predicted_result": "H",
         "expected_home_goals": 1.612,
-        "expected_away_goals": 1.019,
+        "expected_away_goals": 1.021,
         "prob_over_15": 73,
         "prob_over_25": 48.6,
-        "prob_over_35": 26.2,
-        "prob_btts_yes": 50.8,
-        "confidence": 0.5195,
+        "prob_over_35": 26.3,
+        "prob_btts_yes": 50.9,
+        "confidence": 0.5192,
         "model_version": "dc-blend-v1",
         "most_likely_score": "1-1",
         "favorite": "H",
@@ -6071,7 +6071,7 @@
         },
         "live_websocket": false,
         "home_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "WLLLW",
           "wins": 2,
@@ -6102,7 +6102,7 @@
           "avg_team_rating": 0
         },
         "away_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "DWLLW",
           "wins": 2,
@@ -6133,21 +6133,75 @@
           "avg_team_rating": 0
         },
         "head_to_head": {
-          "total_matches": 1,
-          "home_wins": 0,
-          "draws": 0,
-          "away_wins": 1,
-          "home_goals": 0,
-          "away_goals": 1,
-          "avg_total_goals": 1,
-          "home_win_rate": 0,
-          "away_win_rate": 1,
+          "total_matches": 22,
+          "home_wins": 4,
+          "draws": 3,
+          "away_wins": 3,
+          "home_goals": 7,
+          "away_goals": 7,
+          "avg_total_goals": 0.6363636363636364,
+          "home_win_rate": 0.18181818181818182,
+          "away_win_rate": 0.13636363636363635,
           "recent_matches": [
             {
               "away": "VPS",
-              "date": "2026-03-14T15:10:00+00:00",
+              "date": "2026-05-30T14:00:00+00:00",
               "home": "Turun Palloseura",
               "score": "1-0"
+            },
+            {
+              "away": "VPS",
+              "date": "2018-08-17T15:30:00+00:00",
+              "home": "Turun Palloseura",
+              "score": "4-1"
+            },
+            {
+              "away": "Turun Palloseura",
+              "date": "2018-07-04T15:30:00+00:00",
+              "home": "VPS",
+              "score": "2-0"
+            },
+            {
+              "away": "VPS",
+              "date": "2018-05-07T15:30:00+00:00",
+              "home": "Turun Palloseura",
+              "score": "0-1"
+            },
+            {
+              "away": "Turun Palloseura",
+              "date": "2014-08-25T15:30:00+00:00",
+              "home": "VPS",
+              "score": "0-0"
+            },
+            {
+              "away": "VPS",
+              "date": "2014-07-20T15:30:00+00:00",
+              "home": "Turun Palloseura",
+              "score": "0-0"
+            },
+            {
+              "away": "Turun Palloseura",
+              "date": "2014-04-19T13:00:00+00:00",
+              "home": "VPS",
+              "score": "1-0"
+            },
+            {
+              "away": "VPS",
+              "date": "2013-08-18T15:30:00+00:00",
+              "home": "Turun Palloseura",
+              "score": "2-1"
+            },
+            {
+              "away": "Turun Palloseura",
+              "date": "2013-06-16T15:30:00+00:00",
+              "home": "VPS",
+              "score": "0-0"
+            },
+            {
+              "away": "VPS",
+              "date": "2013-04-20T13:00:00+00:00",
+              "home": "Turun Palloseura",
+              "score": "0-1"
             }
           ]
         },
@@ -6723,7 +6777,7 @@
         },
         "live_websocket": true,
         "home_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "LWLDW",
           "wins": 2,
@@ -6754,7 +6808,7 @@
           "avg_team_rating": 6.4625
         },
         "away_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "WLLWL",
           "wins": 2,
@@ -7503,26 +7557,74 @@
           "avg_team_rating": 0
         },
         "head_to_head": {
-          "total_matches": 2,
-          "home_wins": 0,
-          "draws": 1,
-          "away_wins": 1,
-          "home_goals": 2,
-          "away_goals": 3,
-          "avg_total_goals": 2.5,
-          "home_win_rate": 0,
-          "away_win_rate": 0.5,
+          "total_matches": 14,
+          "home_wins": 2,
+          "draws": 4,
+          "away_wins": 4,
+          "home_goals": 10,
+          "away_goals": 14,
+          "avg_total_goals": 1.7142857142857142,
+          "home_win_rate": 0.14285714285714285,
+          "away_win_rate": 0.2857142857142857,
           "recent_matches": [
             {
               "away": "Catania",
-              "date": "2012-12-12T16:30:00+00:00",
+              "date": "2014-02-09T14:00:00+00:00",
               "home": "Parma",
-              "score": "1-1"
+              "score": "0-0"
             },
             {
               "away": "Parma",
-              "date": "2008-08-23T18:30:00+00:00",
+              "date": "2013-09-22T13:00:00+00:00",
               "home": "Catania",
+              "score": "0-0"
+            },
+            {
+              "away": "Catania",
+              "date": "2013-02-24T14:00:00+00:00",
+              "home": "Parma",
+              "score": "1-2"
+            },
+            {
+              "away": "Parma",
+              "date": "2012-10-07T13:00:00+00:00",
+              "home": "Catania",
+              "score": "2-0"
+            },
+            {
+              "away": "Parma",
+              "date": "2012-01-28T17:00:00+00:00",
+              "home": "Catania",
+              "score": "1-1"
+            },
+            {
+              "away": "Catania",
+              "date": "2011-12-21T19:45:00+00:00",
+              "home": "Parma",
+              "score": "3-3"
+            },
+            {
+              "away": "Catania",
+              "date": "2011-01-22T17:00:00+00:00",
+              "home": "Parma",
+              "score": "2-0"
+            },
+            {
+              "away": "Parma",
+              "date": "2010-09-12T13:00:00+00:00",
+              "home": "Catania",
+              "score": "2-1"
+            },
+            {
+              "away": "Parma",
+              "date": "2010-01-23T17:00:00+00:00",
+              "home": "Catania",
+              "score": "3-0"
+            },
+            {
+              "away": "Catania",
+              "date": "2009-08-30T18:45:00+00:00",
+              "home": "Parma",
               "score": "2-1"
             }
           ]
@@ -8477,8 +8579,8 @@
         "prob_draw": 24.1,
         "prob_away_win": 19,
         "predicted_result": "H",
-        "expected_home_goals": 1.569,
-        "expected_away_goals": 1.053,
+        "expected_home_goals": 1.568,
+        "expected_away_goals": 1.054,
         "prob_over_15": 74.1,
         "prob_over_25": 51.3,
         "prob_over_35": 29.9,
@@ -8696,7 +8798,7 @@
         },
         "live_websocket": true,
         "home_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "DLWDD",
           "wins": 1,
@@ -8727,7 +8829,7 @@
           "avg_team_rating": 6.873857142857143
         },
         "away_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "LLLWD",
           "wins": 1,
@@ -9177,10 +9279,10 @@
         "predicted_result": "H",
         "expected_home_goals": 1.582,
         "expected_away_goals": 1.529,
-        "prob_over_15": 78.8,
-        "prob_over_25": 57.5,
+        "prob_over_15": 78.9,
+        "prob_over_25": 57.8,
         "prob_over_35": 36.6,
-        "prob_btts_yes": 60.1,
+        "prob_btts_yes": 60.2,
         "confidence": 0.4642,
         "model_version": "dc-blend-v1",
         "most_likely_score": "1-1",
@@ -9396,7 +9498,7 @@
         },
         "live_websocket": false,
         "home_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "DLWLL",
           "wins": 1,
@@ -9427,7 +9529,7 @@
           "avg_team_rating": 6.777916666666667
         },
         "away_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "DDWWW",
           "wins": 3,
@@ -9458,21 +9560,75 @@
           "avg_team_rating": 7.031083333333333
         },
         "head_to_head": {
-          "total_matches": 1,
-          "home_wins": 0,
-          "draws": 1,
-          "away_wins": 0,
-          "home_goals": 1,
-          "away_goals": 1,
-          "avg_total_goals": 2,
-          "home_win_rate": 0,
-          "away_win_rate": 0,
+          "total_matches": 28,
+          "home_wins": 1,
+          "draws": 2,
+          "away_wins": 7,
+          "home_goals": 10,
+          "away_goals": 24,
+          "avg_total_goals": 1.2142857142857142,
+          "home_win_rate": 0.03571428571428571,
+          "away_win_rate": 0.25,
           "recent_matches": [
             {
               "away": "Viborg FF",
-              "date": "2026-06-27T11:00:00+00:00",
+              "date": "2026-05-17T16:00:00+00:00",
+              "home": "AGF",
+              "score": "6-2"
+            },
+            {
+              "away": "AGF",
+              "date": "2026-04-06T16:00:00+00:00",
+              "home": "Viborg FF",
+              "score": "1-2"
+            },
+            {
+              "away": "Viborg FF",
+              "date": "2026-02-22T17:00:00+00:00",
+              "home": "AGF",
+              "score": "5-2"
+            },
+            {
+              "away": "AGF",
+              "date": "2025-09-14T12:00:00+00:00",
+              "home": "Viborg FF",
+              "score": "1-2"
+            },
+            {
+              "away": "Viborg FF",
+              "date": "2025-03-09T15:00:00+00:00",
               "home": "AGF",
               "score": "1-1"
+            },
+            {
+              "away": "AGF",
+              "date": "2024-10-06T14:00:00+00:00",
+              "home": "Viborg FF",
+              "score": "1-1"
+            },
+            {
+              "away": "Viborg FF",
+              "date": "2023-11-12T19:00:00+00:00",
+              "home": "AGF",
+              "score": "2-0"
+            },
+            {
+              "away": "AGF",
+              "date": "2023-10-01T16:00:00+00:00",
+              "home": "Viborg FF",
+              "score": "2-1"
+            },
+            {
+              "away": "Viborg FF",
+              "date": "2023-05-07T16:00:00+00:00",
+              "home": "AGF",
+              "score": "3-0"
+            },
+            {
+              "away": "AGF",
+              "date": "2023-04-09T14:00:00+00:00",
+              "home": "Viborg FF",
+              "score": "0-1"
             }
           ]
         },
@@ -10007,7 +10163,7 @@
         },
         "live_websocket": true,
         "home_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "WDLLL",
           "wins": 1,
@@ -10038,7 +10194,7 @@
           "avg_team_rating": 0
         },
         "away_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "DDLWD",
           "wins": 1,
@@ -10448,8 +10604,8 @@
         "prob_draw": 25.3,
         "prob_away_win": 23.4,
         "predicted_result": "H",
-        "expected_home_goals": 1.83,
-        "expected_away_goals": 1.168,
+        "expected_home_goals": 1.832,
+        "expected_away_goals": 1.169,
         "prob_over_15": 76.9,
         "prob_over_25": 55,
         "prob_over_35": 34.2,
@@ -11182,8 +11338,8 @@
         "prob_draw": 24.6,
         "prob_away_win": 37.8,
         "predicted_result": "A",
-        "expected_home_goals": 1.477,
-        "expected_away_goals": 1.71,
+        "expected_home_goals": 1.476,
+        "expected_away_goals": 1.709,
         "prob_over_15": 82.2,
         "prob_over_25": 63.2,
         "prob_over_35": 42,
@@ -11428,7 +11584,7 @@
         },
         "live_websocket": true,
         "home_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "WLWWW",
           "wins": 4,
@@ -11459,7 +11615,7 @@
           "avg_team_rating": 7.059666666666667
         },
         "away_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "WWDWW",
           "wins": 4,
@@ -11897,7 +12053,7 @@
         "prob_away_win": 27.4,
         "predicted_result": "H",
         "expected_home_goals": 1.751,
-        "expected_away_goals": 1.208,
+        "expected_away_goals": 1.209,
         "prob_over_15": 79.9,
         "prob_over_25": 59.7,
         "prob_over_35": 38.2,
@@ -12103,7 +12259,7 @@
         },
         "live_websocket": true,
         "home_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "DLWDW",
           "wins": 2,
@@ -12134,7 +12290,7 @@
           "avg_team_rating": 7.089615384615385
         },
         "away_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "WDWLL",
           "wins": 2,
@@ -12744,7 +12900,7 @@
         },
         "live_websocket": true,
         "home_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "WWWDW",
           "wins": 4,
@@ -12775,7 +12931,7 @@
           "avg_team_rating": 6.965061840120663
         },
         "away_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "LLLDL",
           "wins": 0,
@@ -12806,19 +12962,25 @@
           "avg_team_rating": 6.795480769230769
         },
         "head_to_head": {
-          "total_matches": 1,
-          "home_wins": 0,
+          "total_matches": 2,
+          "home_wins": 1,
           "draws": 0,
           "away_wins": 1,
-          "home_goals": 0,
-          "away_goals": 1,
-          "avg_total_goals": 1,
-          "home_win_rate": 0,
-          "away_win_rate": 1,
+          "home_goals": 4,
+          "away_goals": 2,
+          "avg_total_goals": 3,
+          "home_win_rate": 0.5,
+          "away_win_rate": 0.5,
           "recent_matches": [
             {
+              "away": "Sparta Rotterdam",
+              "date": "2026-04-22T18:00:00+00:00",
+              "home": "SC Telstar",
+              "score": "4-1"
+            },
+            {
               "away": "SC Telstar",
-              "date": "2026-07-11T12:00:00+00:00",
+              "date": "2025-10-25T16:45:00+00:00",
               "home": "Sparta Rotterdam",
               "score": "1-0"
             }
@@ -13375,7 +13537,7 @@
         },
         "live_websocket": true,
         "home_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "WWDWW",
           "wins": 4,
@@ -13406,7 +13568,7 @@
           "avg_team_rating": 6.944711538461538
         },
         "away_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "LWDLD",
           "wins": 1,
@@ -14056,7 +14218,7 @@
         },
         "live_websocket": true,
         "home_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "WWWDD",
           "wins": 3,
@@ -14087,7 +14249,7 @@
           "avg_team_rating": 0
         },
         "away_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "LLLDL",
           "wins": 0,
@@ -14679,7 +14841,7 @@
         },
         "live_websocket": false,
         "home_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "WWWLD",
           "wins": 3,
@@ -14710,7 +14872,7 @@
           "avg_team_rating": 6.762321428571428
         },
         "away_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "WDWLD",
           "wins": 2,
@@ -14991,567 +15153,6 @@
           "fail_to_score_pct": 26.8,
           "avg_goals_scored_1h": 0.59,
           "avg_goals_conceded_1h": 0.61
-        }
-      }
-    },
-    {
-      "event_id": 215955,
-      "prediction": {
-        "id": 1144,
-        "event": {
-          "id": 215955,
-          "league": {
-            "id": 11,
-            "name": "Trendyol Super Lig",
-            "country": "Turkey",
-            "is_women": false,
-            "current_season": {
-              "id": 1539,
-              "name": "Super Lig 26/27",
-              "year": 2026,
-              "start_date": "2026-07-01",
-              "end_date": "2027-06-30"
-            }
-          },
-          "season": {
-            "id": 1539,
-            "name": "Super Lig 26/27",
-            "year": 2026
-          },
-          "home_team": "Galatasaray",
-          "away_team": "Çorum FK",
-          "home_team_obj": {
-            "id": 125,
-            "name": "Galatasaray",
-            "short_name": "Galatasaray",
-            "country": "Türkiye",
-            "coach": {
-              "name": "Okan Buruk",
-              "shortName": "O. Buruk"
-            },
-            "venue": {
-              "id": 123,
-              "name": "Rams Park Stadyumu",
-              "city": "Istanbul",
-              "country": "Türkiye",
-              "capacity": 53978
-            }
-          },
-          "away_team_obj": {
-            "id": 3295,
-            "name": "Çorum FK",
-            "short_name": "Çorum",
-            "country": "Türkiye",
-            "coach": {
-              "name": "Ugur Uçar",
-              "shortName": "U. Uçar"
-            },
-            "venue": null
-          },
-          "event_date": "2026-08-14T18:30:00Z",
-          "round_number": 1,
-          "round_name": "",
-          "group_name": null,
-          "status": "notstarted",
-          "home_score": null,
-          "away_score": null,
-          "home_score_ht": null,
-          "away_score_ht": null,
-          "current_minute": null,
-          "period": "",
-          "odds_home": 1.18,
-          "odds_draw": 6.9,
-          "odds_away": 13.14,
-          "odds_over_15": 1.13,
-          "odds_over_25": 1.45,
-          "odds_over_35": 2.15,
-          "odds_under_15": 5.31,
-          "odds_under_25": 2.61,
-          "odds_under_35": 1.65,
-          "odds_btts_yes": 2.09,
-          "odds_btts_no": 1.67,
-          "actual_home_xg": null,
-          "actual_away_xg": null,
-          "home_xg_live": null,
-          "away_xg_live": null,
-          "penalty_shootout": null,
-          "extra_time_score": null,
-          "is_local_derby": false,
-          "is_neutral_ground": null,
-          "travel_distance_km": null,
-          "weather_code": 0,
-          "wind_speed": 21.8,
-          "temperature_c": 25,
-          "pitch_condition": null,
-          "attendance": null,
-          "referee": null,
-          "home_coach": {
-            "id": 304,
-            "name": "Okan Buruk",
-            "short_name": "O. Buruk",
-            "country": "Türkiye",
-            "profile": "attacking",
-            "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.6374059575794319,
-            "defensive_line": "mid",
-            "top_styles": [
-              "tiki_taka",
-              "ball_dominant"
-            ]
-          },
-          "away_coach": {
-            "id": 2042,
-            "name": "Ugur Uçar",
-            "short_name": "U. Uçar",
-            "country": "Türkiye",
-            "profile": "",
-            "preferred_formation": "",
-            "pressing_intensity": null,
-            "defensive_line": "",
-            "top_styles": []
-          },
-          "unavailable_players": {
-            "home": [
-              {
-                "name": "Wilfried Singo",
-                "status": "injured",
-                "reason": "Thigh Injury",
-                "expected_return": "2026-08-31"
-              }
-            ],
-            "away": []
-          },
-          "venue": {
-            "id": 123,
-            "name": "Rams Park Stadyumu",
-            "city": "Istanbul",
-            "country": "Türkiye",
-            "capacity": 53978,
-            "latitude": 41.102869,
-            "longitude": 28.990419,
-            "pitch_x": 105,
-            "pitch_y": 68,
-            "built_year": 2011
-          },
-          "incidents": null,
-          "live_stats": null,
-          "lineups": null,
-          "shotmap": null,
-          "momentum": null,
-          "xg_per_minute": null,
-          "average_positions": null,
-          "jerseys": {
-            "away": {
-              "GK": {
-                "base": "a3182d",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "0e0e0e",
-                "sleeve": "2cafa7"
-              },
-              "player": {
-                "base": "242424",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "ffffff",
-                "sleeve": "ca0518"
-              }
-            },
-            "home": {
-              "GK": {
-                "base": "0c5c33",
-                "real": true,
-                "type": "long_sleeves",
-                "number": "f8fcfb",
-                "sleeve": "0d663c"
-              },
-              "player": {
-                "base": "fc8c1a",
-                "real": true,
-                "type": "short_sleeves",
-                "split": "771717",
-                "number": "a52b40",
-                "sleeve": "151515"
-              }
-            }
-          },
-          "funfacts": [
-            {
-              "type_id": 1,
-              "sentence": "Galatasaray haven't won in their last 4 games."
-            }
-          ],
-          "sr_stats": null,
-          "ai_preview": {
-            "text": "**Galatasaray open their Super Lig campaign with a fresh squad and serious title ambitions — but preseason form has been shaky.** Çorum FK arrive as visitors to one of Turkish football's most intimidating fortresses, needing to pull off a classic David-versus-Goliath job. 🔴\n\nGala's last five reads like a mixed bag: one win, a draw, and three losses in friendlies. That's the kind of form that gets fans nervous before the real thing starts. Çorum, meanwhile, are primed to be spoilers if they can stay compact and catch the hosts on the break.\n\nKey storylines:\n\n- **V. Osimhen** up front will be tasty to watch—Galatasaray's big summer statement in attack against a Çorum defense that'll need to be watertight.\n- **L. Torreira** anchoring midfield security; Gala's spine holds the key to controlling possession at home.\n- Çorum's **H. Abdulkareem** and **J. Ramírez** leading the counter — if the visitors can stay patient, they've got pace to punish sloppiness.\n\nExpected lineups:\n\n- **Galatasaray**: U. Çakır, R. Sallai, A. Bardakcı, A. Ünyay, Y. Akgün, L. Torreira, M. B. Luş, V. Osimhen\n- **Çorum FK**: A. Şimşir, A. Sengul, A. Cangöz, B. Çoban, A. Ildız, H. Abdulkareem, J. Ramírez\n\nPrediction:\n\n**Galatasaray 2–0 Çorum FK** — Gala's class and home advantage should settle it, even if preseason jitters linger. Lean Gala to win and keep it tight.",
-            "generated_at": "2026-08-13T18:42:00.001506+00:00"
-          },
-          "live_websocket": true
-        },
-        "created_at": "2026-08-11T20:05:08.890602+00:00",
-        "prob_home_win": 79.3,
-        "prob_draw": 13.6,
-        "prob_away_win": 7.1,
-        "predicted_result": "H",
-        "expected_home_goals": null,
-        "expected_away_goals": null,
-        "prob_over_15": 82.5,
-        "prob_over_25": 64.3,
-        "prob_over_35": 43.4,
-        "prob_btts_yes": 44.4,
-        "confidence": 0.7931,
-        "model_version": "dc-blend-v1",
-        "most_likely_score": null,
-        "favorite": "H",
-        "favorite_prob": 79.3,
-        "favorite_recommend": false,
-        "over_15_recommend": false,
-        "over_25_recommend": false,
-        "over_35_recommend": false,
-        "btts_recommend": false,
-        "winner_recommend": false
-      },
-      "event_detail": {
-        "id": 215955,
-        "league": {
-          "id": 11,
-          "name": "Trendyol Super Lig",
-          "country": "Turkey",
-          "is_women": false,
-          "current_season": {
-            "id": 1539,
-            "name": "Super Lig 26/27",
-            "year": 2026,
-            "start_date": "2026-07-01",
-            "end_date": "2027-06-30"
-          }
-        },
-        "season": {
-          "id": 1539,
-          "name": "Super Lig 26/27",
-          "year": 2026
-        },
-        "home_team": "Galatasaray",
-        "away_team": "Çorum FK",
-        "home_team_obj": {
-          "id": 125,
-          "name": "Galatasaray",
-          "short_name": "Galatasaray",
-          "country": "Türkiye",
-          "coach": {
-            "name": "Okan Buruk",
-            "shortName": "O. Buruk"
-          },
-          "venue": {
-            "id": 123,
-            "name": "Rams Park Stadyumu",
-            "city": "Istanbul",
-            "country": "Türkiye",
-            "capacity": 53978
-          }
-        },
-        "away_team_obj": {
-          "id": 3295,
-          "name": "Çorum FK",
-          "short_name": "Çorum",
-          "country": "Türkiye",
-          "coach": {
-            "name": "Ugur Uçar",
-            "shortName": "U. Uçar"
-          },
-          "venue": null
-        },
-        "event_date": "2026-08-14T21:30:00+03:00",
-        "round_number": 1,
-        "round_name": "",
-        "group_name": null,
-        "status": "notstarted",
-        "home_score": null,
-        "away_score": null,
-        "home_score_ht": null,
-        "away_score_ht": null,
-        "current_minute": null,
-        "period": "",
-        "odds_home": 1.18,
-        "odds_draw": 6.9,
-        "odds_away": 13.14,
-        "odds_over_15": 1.13,
-        "odds_over_25": 1.45,
-        "odds_over_35": 2.15,
-        "odds_under_15": 5.31,
-        "odds_under_25": 2.61,
-        "odds_under_35": 1.65,
-        "odds_btts_yes": 2.09,
-        "odds_btts_no": 1.67,
-        "actual_home_xg": null,
-        "actual_away_xg": null,
-        "home_xg_live": null,
-        "away_xg_live": null,
-        "penalty_shootout": null,
-        "extra_time_score": null,
-        "is_local_derby": false,
-        "is_neutral_ground": null,
-        "travel_distance_km": null,
-        "weather_code": 0,
-        "wind_speed": 21.8,
-        "temperature_c": 25,
-        "pitch_condition": null,
-        "attendance": null,
-        "referee": null,
-        "home_coach": {
-          "id": 304,
-          "name": "Okan Buruk",
-          "short_name": "O. Buruk",
-          "country": "Türkiye",
-          "profile": "attacking",
-          "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.6374059575794319,
-          "defensive_line": "mid",
-          "top_styles": [
-            "tiki_taka",
-            "ball_dominant"
-          ]
-        },
-        "away_coach": {
-          "id": 2042,
-          "name": "Ugur Uçar",
-          "short_name": "U. Uçar",
-          "country": "Türkiye",
-          "profile": "",
-          "preferred_formation": "",
-          "pressing_intensity": null,
-          "defensive_line": "",
-          "top_styles": []
-        },
-        "unavailable_players": {
-          "home": [
-            {
-              "name": "Wilfried Singo",
-              "status": "injured",
-              "reason": "Thigh Injury",
-              "expected_return": "2026-08-31"
-            }
-          ],
-          "away": []
-        },
-        "venue": {
-          "id": 123,
-          "name": "Rams Park Stadyumu",
-          "city": "Istanbul",
-          "country": "Türkiye",
-          "capacity": 53978,
-          "latitude": 41.102869,
-          "longitude": 28.990419,
-          "pitch_x": 105,
-          "pitch_y": 68,
-          "built_year": 2011
-        },
-        "live_stats": null,
-        "jerseys": {
-          "away": {
-            "GK": {
-              "base": "a3182d",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "0e0e0e",
-              "sleeve": "2cafa7"
-            },
-            "player": {
-              "base": "242424",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "ffffff",
-              "sleeve": "ca0518"
-            }
-          },
-          "home": {
-            "GK": {
-              "base": "0c5c33",
-              "real": true,
-              "type": "long_sleeves",
-              "number": "f8fcfb",
-              "sleeve": "0d663c"
-            },
-            "player": {
-              "base": "fc8c1a",
-              "real": true,
-              "type": "short_sleeves",
-              "split": "771717",
-              "number": "a52b40",
-              "sleeve": "151515"
-            }
-          }
-        },
-        "funfacts": [
-          {
-            "type_id": 1,
-            "sentence": "Galatasaray haven't won in their last 4 games."
-          }
-        ],
-        "sr_stats": null,
-        "ai_preview": {
-          "text": "**Galatasaray open their Super Lig campaign with a fresh squad and serious title ambitions — but preseason form has been shaky.** Çorum FK arrive as visitors to one of Turkish football's most intimidating fortresses, needing to pull off a classic David-versus-Goliath job. 🔴\n\nGala's last five reads like a mixed bag: one win, a draw, and three losses in friendlies. That's the kind of form that gets fans nervous before the real thing starts. Çorum, meanwhile, are primed to be spoilers if they can stay compact and catch the hosts on the break.\n\nKey storylines:\n\n- **V. Osimhen** up front will be tasty to watch—Galatasaray's big summer statement in attack against a Çorum defense that'll need to be watertight.\n- **L. Torreira** anchoring midfield security; Gala's spine holds the key to controlling possession at home.\n- Çorum's **H. Abdulkareem** and **J. Ramírez** leading the counter — if the visitors can stay patient, they've got pace to punish sloppiness.\n\nExpected lineups:\n\n- **Galatasaray**: U. Çakır, R. Sallai, A. Bardakcı, A. Ünyay, Y. Akgün, L. Torreira, M. B. Luş, V. Osimhen\n- **Çorum FK**: A. Şimşir, A. Sengul, A. Cangöz, B. Çoban, A. Ildız, H. Abdulkareem, J. Ramírez\n\nPrediction:\n\n**Galatasaray 2–0 Çorum FK** — Gala's class and home advantage should settle it, even if preseason jitters linger. Lean Gala to win and keep it tight.",
-          "generated_at": "2026-08-13T18:42:00.001506+00:00"
-        },
-        "live_websocket": true,
-        "home_form": {
-          "calculated_at": "2026-08-13",
-          "matches_played": 5,
-          "form_string": "LWLWW",
-          "wins": 3,
-          "draws": 0,
-          "losses": 2,
-          "points_last_n": 9,
-          "goals_scored_last_n": 10,
-          "goals_conceded_last_n": 8,
-          "avg_xg": 2.10344,
-          "avg_xg_conceded": 0.8348800000000001,
-          "avg_shots": 15.6,
-          "avg_shots_on_target": 5.4,
-          "avg_key_passes": 12.4,
-          "goal_conversion_rate": 0.9508234130757237,
-          "defensive_efficiency": -0.9164430816404752,
-          "clean_sheets": 1,
-          "avg_pass_accuracy": 85.2501098371209,
-          "duel_win_rate": 0.515970515970516,
-          "aerial_win_rate": 0.6052631578947368,
-          "avg_fouls": 12,
-          "avg_yellow_cards": 2.2,
-          "home_ppg": 2.6,
-          "away_ppg": 1.2,
-          "home_goals_scored": 14,
-          "home_goals_conceded": 4,
-          "away_goals_scored": 7,
-          "away_goals_conceded": 9,
-          "avg_team_rating": 6.791833333333334
-        },
-        "away_form": null,
-        "head_to_head": null,
-        "lineups": null,
-        "social": []
-      },
-      "managers": {
-        "home": {
-          "id": 304,
-          "name": "Okan Buruk",
-          "short_name": "O. Buruk",
-          "country": "Türkiye",
-          "current_team": {
-            "id": 125,
-            "name": "Galatasaray"
-          },
-          "preferred_formation": "4-2-3-1",
-          "formations_used": {
-            "4-3-3": 2,
-            "4-4-2": 2,
-            "3-4-2-1": 1,
-            "4-2-3-1": 46
-          },
-          "profile": "attacking",
-          "team_style": "neutral",
-          "pressing_intensity": 0.6374059575794319,
-          "defensive_line": "mid",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "tiki_taka",
-              "name": "Tiki-Taka",
-              "category": "possession",
-              "emoji": "🎨",
-              "description": "Short passing, domination via possession",
-              "score": 0.089
-            },
-            {
-              "rank": 2,
-              "code": "ball_dominant",
-              "name": "Ball Dominant",
-              "category": "possession",
-              "emoji": "⚽",
-              "description": "Keep the ball to control tempo and energy",
-              "score": 0.076
-            },
-            {
-              "rank": 3,
-              "code": "false_9",
-              "name": "False 9 System",
-              "category": "possession",
-              "emoji": "🎩",
-              "description": "No fixed striker — central creator drops deep",
-              "score": 0.07
-            },
-            {
-              "rank": 4,
-              "code": "total_football",
-              "name": "Total Football",
-              "category": "possession",
-              "emoji": "🌀",
-              "description": "Fluid rotations, every player attacks and defends",
-              "score": 0.063
-            }
-          ],
-          "matches_total": 51,
-          "wins": 30,
-          "draws": 7,
-          "losses": 14,
-          "win_pct": 58.8,
-          "avg_goals_scored": 2.02,
-          "avg_goals_conceded": 1.2,
-          "avg_possession": 58.55,
-          "avg_shots": 15.43,
-          "avg_shots_on_target": 5.59,
-          "avg_xg_for": 1.87,
-          "avg_xg_against": 1.28,
-          "avg_corners": 5.02,
-          "avg_yellow_cards": 1.94,
-          "avg_red_cards": 0.08,
-          "avg_fouls": 11.76,
-          "clean_sheet_pct": 29.4,
-          "btts_pct": 52.9,
-          "over_25_pct": 64.7,
-          "over_15_pct": 82.4,
-          "fail_to_score_pct": 19.6,
-          "avg_goals_scored_1h": 0.84,
-          "avg_goals_conceded_1h": 0.47
-        },
-        "away": {
-          "id": 2042,
-          "name": "Ugur Uçar",
-          "short_name": "U. Uçar",
-          "country": "Türkiye",
-          "current_team": {
-            "id": 3295,
-            "name": "Çorum FK"
-          },
-          "preferred_formation": "",
-          "formations_used": null,
-          "profile": "",
-          "team_style": "",
-          "pressing_intensity": null,
-          "defensive_line": "",
-          "tactical_styles": [],
-          "matches_total": 0,
-          "wins": 0,
-          "draws": 0,
-          "losses": 0,
-          "win_pct": null,
-          "avg_goals_scored": null,
-          "avg_goals_conceded": null,
-          "avg_possession": null,
-          "avg_shots": null,
-          "avg_shots_on_target": null,
-          "avg_xg_for": null,
-          "avg_xg_against": null,
-          "avg_corners": null,
-          "avg_yellow_cards": null,
-          "avg_red_cards": null,
-          "avg_fouls": null,
-          "clean_sheet_pct": null,
-          "btts_pct": null,
-          "over_25_pct": null,
-          "over_15_pct": null,
-          "fail_to_score_pct": null,
-          "avg_goals_scored_1h": null,
-          "avg_goals_conceded_1h": null
         }
       }
     },
@@ -15952,7 +15553,7 @@
         },
         "live_websocket": true,
         "home_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "DLDWD",
           "wins": 1,
@@ -15983,7 +15584,7 @@
           "avg_team_rating": 6.77075
         },
         "away_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "LDWWD",
           "wins": 2,
@@ -16401,8 +16002,8 @@
         "prob_draw": 22.4,
         "prob_away_win": 17.8,
         "predicted_result": "H",
-        "expected_home_goals": 2.019,
-        "expected_away_goals": 0.98,
+        "expected_home_goals": 2.02,
+        "expected_away_goals": 0.981,
         "prob_over_15": 78.4,
         "prob_over_25": 57.5,
         "prob_over_35": 36.1,
@@ -16631,7 +16232,7 @@
         },
         "live_websocket": true,
         "home_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "DWWWW",
           "wins": 4,
@@ -16662,7 +16263,7 @@
           "avg_team_rating": 6.958833333333334
         },
         "away_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "LLWLL",
           "wins": 1,
@@ -16693,20 +16294,74 @@
           "avg_team_rating": 6.589833333333333
         },
         "head_to_head": {
-          "total_matches": 1,
-          "home_wins": 1,
-          "draws": 0,
-          "away_wins": 0,
-          "home_goals": 3,
-          "away_goals": 1,
-          "avg_total_goals": 4,
-          "home_win_rate": 1,
-          "away_win_rate": 0,
+          "total_matches": 10,
+          "home_wins": 5,
+          "draws": 1,
+          "away_wins": 4,
+          "home_goals": 15,
+          "away_goals": 15,
+          "avg_total_goals": 3,
+          "home_win_rate": 0.5,
+          "away_win_rate": 0.4,
           "recent_matches": [
             {
+              "away": "Legia Warszawa",
+              "date": "2026-03-13T19:30:00+00:00",
+              "home": "Radomiak Radom",
+              "score": "1-1"
+            },
+            {
               "away": "Radomiak Radom",
-              "date": "2026-07-14T10:00:00+00:00",
+              "date": "2025-09-14T12:45:00+00:00",
               "home": "Legia Warszawa",
+              "score": "4-1"
+            },
+            {
+              "away": "Legia Warszawa",
+              "date": "2025-02-22T19:15:00+00:00",
+              "home": "Radomiak Radom",
+              "score": "3-1"
+            },
+            {
+              "away": "Radomiak Radom",
+              "date": "2024-08-18T15:30:00+00:00",
+              "home": "Legia Warszawa",
+              "score": "4-1"
+            },
+            {
+              "away": "Radomiak Radom",
+              "date": "2024-05-05T15:30:00+00:00",
+              "home": "Legia Warszawa",
+              "score": "0-3"
+            },
+            {
+              "away": "Legia Warszawa",
+              "date": "2023-11-05T16:30:00+00:00",
+              "home": "Radomiak Radom",
+              "score": "0-1"
+            },
+            {
+              "away": "Legia Warszawa",
+              "date": "2023-03-17T19:30:00+00:00",
+              "home": "Radomiak Radom",
+              "score": "0-2"
+            },
+            {
+              "away": "Radomiak Radom",
+              "date": "2022-09-02T18:30:00+00:00",
+              "home": "Legia Warszawa",
+              "score": "1-0"
+            },
+            {
+              "away": "Radomiak Radom",
+              "date": "2021-12-19T16:30:00+00:00",
+              "home": "Legia Warszawa",
+              "score": "0-3"
+            },
+            {
+              "away": "Legia Warszawa",
+              "date": "2021-07-31T18:00:00+00:00",
+              "home": "Radomiak Radom",
               "score": "3-1"
             }
           ]
@@ -16886,6 +16541,567 @@
           "fail_to_score_pct": 20,
           "avg_goals_scored_1h": 0.54,
           "avg_goals_conceded_1h": 0.8
+        }
+      }
+    },
+    {
+      "event_id": 215955,
+      "prediction": {
+        "id": 1144,
+        "event": {
+          "id": 215955,
+          "league": {
+            "id": 11,
+            "name": "Trendyol Super Lig",
+            "country": "Turkey",
+            "is_women": false,
+            "current_season": {
+              "id": 1539,
+              "name": "Super Lig 26/27",
+              "year": 2026,
+              "start_date": "2026-07-01",
+              "end_date": "2027-06-30"
+            }
+          },
+          "season": {
+            "id": 1539,
+            "name": "Super Lig 26/27",
+            "year": 2026
+          },
+          "home_team": "Galatasaray",
+          "away_team": "Çorum FK",
+          "home_team_obj": {
+            "id": 125,
+            "name": "Galatasaray",
+            "short_name": "Galatasaray",
+            "country": "Türkiye",
+            "coach": {
+              "name": "Okan Buruk",
+              "shortName": "O. Buruk"
+            },
+            "venue": {
+              "id": 123,
+              "name": "Rams Park Stadyumu",
+              "city": "Istanbul",
+              "country": "Türkiye",
+              "capacity": 53978
+            }
+          },
+          "away_team_obj": {
+            "id": 3295,
+            "name": "Çorum FK",
+            "short_name": "Çorum",
+            "country": "Türkiye",
+            "coach": {
+              "name": "Ugur Uçar",
+              "shortName": "U. Uçar"
+            },
+            "venue": null
+          },
+          "event_date": "2026-08-14T18:30:00Z",
+          "round_number": 1,
+          "round_name": "",
+          "group_name": null,
+          "status": "notstarted",
+          "home_score": null,
+          "away_score": null,
+          "home_score_ht": null,
+          "away_score_ht": null,
+          "current_minute": null,
+          "period": "",
+          "odds_home": 1.18,
+          "odds_draw": 6.9,
+          "odds_away": 13.14,
+          "odds_over_15": 1.13,
+          "odds_over_25": 1.45,
+          "odds_over_35": 2.15,
+          "odds_under_15": 5.31,
+          "odds_under_25": 2.61,
+          "odds_under_35": 1.65,
+          "odds_btts_yes": 2.09,
+          "odds_btts_no": 1.67,
+          "actual_home_xg": null,
+          "actual_away_xg": null,
+          "home_xg_live": null,
+          "away_xg_live": null,
+          "penalty_shootout": null,
+          "extra_time_score": null,
+          "is_local_derby": false,
+          "is_neutral_ground": null,
+          "travel_distance_km": null,
+          "weather_code": 0,
+          "wind_speed": 21.8,
+          "temperature_c": 25,
+          "pitch_condition": null,
+          "attendance": null,
+          "referee": null,
+          "home_coach": {
+            "id": 304,
+            "name": "Okan Buruk",
+            "short_name": "O. Buruk",
+            "country": "Türkiye",
+            "profile": "attacking",
+            "preferred_formation": "4-2-3-1",
+            "pressing_intensity": 0.6374059575794319,
+            "defensive_line": "mid",
+            "top_styles": [
+              "tiki_taka",
+              "ball_dominant"
+            ]
+          },
+          "away_coach": {
+            "id": 2042,
+            "name": "Ugur Uçar",
+            "short_name": "U. Uçar",
+            "country": "Türkiye",
+            "profile": "",
+            "preferred_formation": "",
+            "pressing_intensity": null,
+            "defensive_line": "",
+            "top_styles": []
+          },
+          "unavailable_players": {
+            "home": [
+              {
+                "name": "Wilfried Singo",
+                "status": "injured",
+                "reason": "Thigh Injury",
+                "expected_return": "2026-08-31"
+              }
+            ],
+            "away": []
+          },
+          "venue": {
+            "id": 123,
+            "name": "Rams Park Stadyumu",
+            "city": "Istanbul",
+            "country": "Türkiye",
+            "capacity": 53978,
+            "latitude": 41.102869,
+            "longitude": 28.990419,
+            "pitch_x": 105,
+            "pitch_y": 68,
+            "built_year": 2011
+          },
+          "incidents": null,
+          "live_stats": null,
+          "lineups": null,
+          "shotmap": null,
+          "momentum": null,
+          "xg_per_minute": null,
+          "average_positions": null,
+          "jerseys": {
+            "away": {
+              "GK": {
+                "base": "a3182d",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "0e0e0e",
+                "sleeve": "2cafa7"
+              },
+              "player": {
+                "base": "242424",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "ffffff",
+                "sleeve": "ca0518"
+              }
+            },
+            "home": {
+              "GK": {
+                "base": "0c5c33",
+                "real": true,
+                "type": "long_sleeves",
+                "number": "f8fcfb",
+                "sleeve": "0d663c"
+              },
+              "player": {
+                "base": "fc8c1a",
+                "real": true,
+                "type": "short_sleeves",
+                "split": "771717",
+                "number": "a52b40",
+                "sleeve": "151515"
+              }
+            }
+          },
+          "funfacts": [
+            {
+              "type_id": 1,
+              "sentence": "Galatasaray haven't won in their last 4 games."
+            }
+          ],
+          "sr_stats": null,
+          "ai_preview": {
+            "text": "**Galatasaray open their Super Lig campaign with a fresh squad and serious title ambitions — but preseason form has been shaky.** Çorum FK arrive as visitors to one of Turkish football's most intimidating fortresses, needing to pull off a classic David-versus-Goliath job. 🔴\n\nGala's last five reads like a mixed bag: one win, a draw, and three losses in friendlies. That's the kind of form that gets fans nervous before the real thing starts. Çorum, meanwhile, are primed to be spoilers if they can stay compact and catch the hosts on the break.\n\nKey storylines:\n\n- **V. Osimhen** up front will be tasty to watch—Galatasaray's big summer statement in attack against a Çorum defense that'll need to be watertight.\n- **L. Torreira** anchoring midfield security; Gala's spine holds the key to controlling possession at home.\n- Çorum's **H. Abdulkareem** and **J. Ramírez** leading the counter — if the visitors can stay patient, they've got pace to punish sloppiness.\n\nExpected lineups:\n\n- **Galatasaray**: U. Çakır, R. Sallai, A. Bardakcı, A. Ünyay, Y. Akgün, L. Torreira, M. B. Luş, V. Osimhen\n- **Çorum FK**: A. Şimşir, A. Sengul, A. Cangöz, B. Çoban, A. Ildız, H. Abdulkareem, J. Ramírez\n\nPrediction:\n\n**Galatasaray 2–0 Çorum FK** — Gala's class and home advantage should settle it, even if preseason jitters linger. Lean Gala to win and keep it tight.",
+            "generated_at": "2026-08-13T18:42:00.001506+00:00"
+          },
+          "live_websocket": true
+        },
+        "created_at": "2026-08-11T20:05:08.890602+00:00",
+        "prob_home_win": 79.3,
+        "prob_draw": 13.6,
+        "prob_away_win": 7.1,
+        "predicted_result": "H",
+        "expected_home_goals": null,
+        "expected_away_goals": null,
+        "prob_over_15": 82.5,
+        "prob_over_25": 64.3,
+        "prob_over_35": 43.4,
+        "prob_btts_yes": 44.4,
+        "confidence": 0.7931,
+        "model_version": "dc-blend-v1",
+        "most_likely_score": null,
+        "favorite": "H",
+        "favorite_prob": 79.3,
+        "favorite_recommend": false,
+        "over_15_recommend": false,
+        "over_25_recommend": false,
+        "over_35_recommend": false,
+        "btts_recommend": false,
+        "winner_recommend": false
+      },
+      "event_detail": {
+        "id": 215955,
+        "league": {
+          "id": 11,
+          "name": "Trendyol Super Lig",
+          "country": "Turkey",
+          "is_women": false,
+          "current_season": {
+            "id": 1539,
+            "name": "Super Lig 26/27",
+            "year": 2026,
+            "start_date": "2026-07-01",
+            "end_date": "2027-06-30"
+          }
+        },
+        "season": {
+          "id": 1539,
+          "name": "Super Lig 26/27",
+          "year": 2026
+        },
+        "home_team": "Galatasaray",
+        "away_team": "Çorum FK",
+        "home_team_obj": {
+          "id": 125,
+          "name": "Galatasaray",
+          "short_name": "Galatasaray",
+          "country": "Türkiye",
+          "coach": {
+            "name": "Okan Buruk",
+            "shortName": "O. Buruk"
+          },
+          "venue": {
+            "id": 123,
+            "name": "Rams Park Stadyumu",
+            "city": "Istanbul",
+            "country": "Türkiye",
+            "capacity": 53978
+          }
+        },
+        "away_team_obj": {
+          "id": 3295,
+          "name": "Çorum FK",
+          "short_name": "Çorum",
+          "country": "Türkiye",
+          "coach": {
+            "name": "Ugur Uçar",
+            "shortName": "U. Uçar"
+          },
+          "venue": null
+        },
+        "event_date": "2026-08-14T21:30:00+03:00",
+        "round_number": 1,
+        "round_name": "",
+        "group_name": null,
+        "status": "notstarted",
+        "home_score": null,
+        "away_score": null,
+        "home_score_ht": null,
+        "away_score_ht": null,
+        "current_minute": null,
+        "period": "",
+        "odds_home": 1.18,
+        "odds_draw": 6.9,
+        "odds_away": 13.14,
+        "odds_over_15": 1.13,
+        "odds_over_25": 1.45,
+        "odds_over_35": 2.15,
+        "odds_under_15": 5.31,
+        "odds_under_25": 2.61,
+        "odds_under_35": 1.65,
+        "odds_btts_yes": 2.09,
+        "odds_btts_no": 1.67,
+        "actual_home_xg": null,
+        "actual_away_xg": null,
+        "home_xg_live": null,
+        "away_xg_live": null,
+        "penalty_shootout": null,
+        "extra_time_score": null,
+        "is_local_derby": false,
+        "is_neutral_ground": null,
+        "travel_distance_km": null,
+        "weather_code": 0,
+        "wind_speed": 21.8,
+        "temperature_c": 25,
+        "pitch_condition": null,
+        "attendance": null,
+        "referee": null,
+        "home_coach": {
+          "id": 304,
+          "name": "Okan Buruk",
+          "short_name": "O. Buruk",
+          "country": "Türkiye",
+          "profile": "attacking",
+          "preferred_formation": "4-2-3-1",
+          "pressing_intensity": 0.6374059575794319,
+          "defensive_line": "mid",
+          "top_styles": [
+            "tiki_taka",
+            "ball_dominant"
+          ]
+        },
+        "away_coach": {
+          "id": 2042,
+          "name": "Ugur Uçar",
+          "short_name": "U. Uçar",
+          "country": "Türkiye",
+          "profile": "",
+          "preferred_formation": "",
+          "pressing_intensity": null,
+          "defensive_line": "",
+          "top_styles": []
+        },
+        "unavailable_players": {
+          "home": [
+            {
+              "name": "Wilfried Singo",
+              "status": "injured",
+              "reason": "Thigh Injury",
+              "expected_return": "2026-08-31"
+            }
+          ],
+          "away": []
+        },
+        "venue": {
+          "id": 123,
+          "name": "Rams Park Stadyumu",
+          "city": "Istanbul",
+          "country": "Türkiye",
+          "capacity": 53978,
+          "latitude": 41.102869,
+          "longitude": 28.990419,
+          "pitch_x": 105,
+          "pitch_y": 68,
+          "built_year": 2011
+        },
+        "live_stats": null,
+        "jerseys": {
+          "away": {
+            "GK": {
+              "base": "a3182d",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "0e0e0e",
+              "sleeve": "2cafa7"
+            },
+            "player": {
+              "base": "242424",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "ffffff",
+              "sleeve": "ca0518"
+            }
+          },
+          "home": {
+            "GK": {
+              "base": "0c5c33",
+              "real": true,
+              "type": "long_sleeves",
+              "number": "f8fcfb",
+              "sleeve": "0d663c"
+            },
+            "player": {
+              "base": "fc8c1a",
+              "real": true,
+              "type": "short_sleeves",
+              "split": "771717",
+              "number": "a52b40",
+              "sleeve": "151515"
+            }
+          }
+        },
+        "funfacts": [
+          {
+            "type_id": 1,
+            "sentence": "Galatasaray haven't won in their last 4 games."
+          }
+        ],
+        "sr_stats": null,
+        "ai_preview": {
+          "text": "**Galatasaray open their Super Lig campaign with a fresh squad and serious title ambitions — but preseason form has been shaky.** Çorum FK arrive as visitors to one of Turkish football's most intimidating fortresses, needing to pull off a classic David-versus-Goliath job. 🔴\n\nGala's last five reads like a mixed bag: one win, a draw, and three losses in friendlies. That's the kind of form that gets fans nervous before the real thing starts. Çorum, meanwhile, are primed to be spoilers if they can stay compact and catch the hosts on the break.\n\nKey storylines:\n\n- **V. Osimhen** up front will be tasty to watch—Galatasaray's big summer statement in attack against a Çorum defense that'll need to be watertight.\n- **L. Torreira** anchoring midfield security; Gala's spine holds the key to controlling possession at home.\n- Çorum's **H. Abdulkareem** and **J. Ramírez** leading the counter — if the visitors can stay patient, they've got pace to punish sloppiness.\n\nExpected lineups:\n\n- **Galatasaray**: U. Çakır, R. Sallai, A. Bardakcı, A. Ünyay, Y. Akgün, L. Torreira, M. B. Luş, V. Osimhen\n- **Çorum FK**: A. Şimşir, A. Sengul, A. Cangöz, B. Çoban, A. Ildız, H. Abdulkareem, J. Ramírez\n\nPrediction:\n\n**Galatasaray 2–0 Çorum FK** — Gala's class and home advantage should settle it, even if preseason jitters linger. Lean Gala to win and keep it tight.",
+          "generated_at": "2026-08-13T18:42:00.001506+00:00"
+        },
+        "live_websocket": true,
+        "home_form": {
+          "calculated_at": "2026-08-14",
+          "matches_played": 5,
+          "form_string": "LWLWW",
+          "wins": 3,
+          "draws": 0,
+          "losses": 2,
+          "points_last_n": 9,
+          "goals_scored_last_n": 10,
+          "goals_conceded_last_n": 8,
+          "avg_xg": 2.10344,
+          "avg_xg_conceded": 0.8348800000000001,
+          "avg_shots": 15.6,
+          "avg_shots_on_target": 5.4,
+          "avg_key_passes": 12.4,
+          "goal_conversion_rate": 0.9508234130757237,
+          "defensive_efficiency": -0.9164430816404752,
+          "clean_sheets": 1,
+          "avg_pass_accuracy": 85.2501098371209,
+          "duel_win_rate": 0.515970515970516,
+          "aerial_win_rate": 0.6052631578947368,
+          "avg_fouls": 12,
+          "avg_yellow_cards": 2.2,
+          "home_ppg": 2.6,
+          "away_ppg": 1.2,
+          "home_goals_scored": 14,
+          "home_goals_conceded": 4,
+          "away_goals_scored": 7,
+          "away_goals_conceded": 9,
+          "avg_team_rating": 6.791833333333334
+        },
+        "away_form": null,
+        "head_to_head": null,
+        "lineups": null,
+        "social": []
+      },
+      "managers": {
+        "home": {
+          "id": 304,
+          "name": "Okan Buruk",
+          "short_name": "O. Buruk",
+          "country": "Türkiye",
+          "current_team": {
+            "id": 125,
+            "name": "Galatasaray"
+          },
+          "preferred_formation": "4-2-3-1",
+          "formations_used": {
+            "4-3-3": 2,
+            "4-4-2": 2,
+            "3-4-2-1": 1,
+            "4-2-3-1": 46
+          },
+          "profile": "attacking",
+          "team_style": "neutral",
+          "pressing_intensity": 0.6374059575794319,
+          "defensive_line": "mid",
+          "tactical_styles": [
+            {
+              "rank": 1,
+              "code": "tiki_taka",
+              "name": "Tiki-Taka",
+              "category": "possession",
+              "emoji": "🎨",
+              "description": "Short passing, domination via possession",
+              "score": 0.089
+            },
+            {
+              "rank": 2,
+              "code": "ball_dominant",
+              "name": "Ball Dominant",
+              "category": "possession",
+              "emoji": "⚽",
+              "description": "Keep the ball to control tempo and energy",
+              "score": 0.076
+            },
+            {
+              "rank": 3,
+              "code": "false_9",
+              "name": "False 9 System",
+              "category": "possession",
+              "emoji": "🎩",
+              "description": "No fixed striker — central creator drops deep",
+              "score": 0.07
+            },
+            {
+              "rank": 4,
+              "code": "total_football",
+              "name": "Total Football",
+              "category": "possession",
+              "emoji": "🌀",
+              "description": "Fluid rotations, every player attacks and defends",
+              "score": 0.063
+            }
+          ],
+          "matches_total": 51,
+          "wins": 30,
+          "draws": 7,
+          "losses": 14,
+          "win_pct": 58.8,
+          "avg_goals_scored": 2.02,
+          "avg_goals_conceded": 1.2,
+          "avg_possession": 58.55,
+          "avg_shots": 15.43,
+          "avg_shots_on_target": 5.59,
+          "avg_xg_for": 1.87,
+          "avg_xg_against": 1.28,
+          "avg_corners": 5.02,
+          "avg_yellow_cards": 1.94,
+          "avg_red_cards": 0.08,
+          "avg_fouls": 11.76,
+          "clean_sheet_pct": 29.4,
+          "btts_pct": 52.9,
+          "over_25_pct": 64.7,
+          "over_15_pct": 82.4,
+          "fail_to_score_pct": 19.6,
+          "avg_goals_scored_1h": 0.84,
+          "avg_goals_conceded_1h": 0.47
+        },
+        "away": {
+          "id": 2042,
+          "name": "Ugur Uçar",
+          "short_name": "U. Uçar",
+          "country": "Türkiye",
+          "current_team": {
+            "id": 3295,
+            "name": "Çorum FK"
+          },
+          "preferred_formation": "",
+          "formations_used": null,
+          "profile": "",
+          "team_style": "",
+          "pressing_intensity": null,
+          "defensive_line": "",
+          "tactical_styles": [],
+          "matches_total": 0,
+          "wins": 0,
+          "draws": 0,
+          "losses": 0,
+          "win_pct": null,
+          "avg_goals_scored": null,
+          "avg_goals_conceded": null,
+          "avg_possession": null,
+          "avg_shots": null,
+          "avg_shots_on_target": null,
+          "avg_xg_for": null,
+          "avg_xg_against": null,
+          "avg_corners": null,
+          "avg_yellow_cards": null,
+          "avg_red_cards": null,
+          "avg_fouls": null,
+          "clean_sheet_pct": null,
+          "btts_pct": null,
+          "over_25_pct": null,
+          "over_15_pct": null,
+          "fail_to_score_pct": null,
+          "avg_goals_scored_1h": null,
+          "avg_goals_conceded_1h": null
         }
       }
     },
@@ -17104,8 +17320,8 @@
         "prob_draw": 25.4,
         "prob_away_win": 21.2,
         "predicted_result": "H",
-        "expected_home_goals": 1.452,
-        "expected_away_goals": 1.234,
+        "expected_home_goals": 1.451,
+        "expected_away_goals": 1.235,
         "prob_over_15": 74.4,
         "prob_over_25": 51.3,
         "prob_over_35": 30.3,
@@ -17322,7 +17538,7 @@
         },
         "live_websocket": true,
         "home_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "DWDDW",
           "wins": 2,
@@ -17353,7 +17569,7 @@
           "avg_team_rating": 6.9000119047619055
         },
         "away_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "WLLWL",
           "wins": 2,
@@ -17774,8 +17990,8 @@
         "prob_draw": 29,
         "prob_away_win": 45.1,
         "predicted_result": "A",
-        "expected_home_goals": 1.336,
-        "expected_away_goals": 1.015,
+        "expected_home_goals": 1.337,
+        "expected_away_goals": 1.014,
         "prob_over_15": 68.3,
         "prob_over_25": 43.8,
         "prob_over_35": 23.7,
@@ -18013,7 +18229,7 @@
         },
         "live_websocket": true,
         "home_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "LWDWL",
           "wins": 2,
@@ -18044,7 +18260,7 @@
           "avg_team_rating": 6.653269230769231
         },
         "away_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "LDWWL",
           "wins": 2,
@@ -18265,603 +18481,6 @@
       }
     },
     {
-      "event_id": 580484,
-      "prediction": {
-        "id": 865,
-        "event": {
-          "id": 580484,
-          "league": {
-            "id": 89,
-            "name": "Ligue 2",
-            "country": "France",
-            "is_women": false,
-            "current_season": {
-              "id": 1848,
-              "name": "Ligue 2 26/27",
-              "year": 2026,
-              "start_date": "2026-07-01",
-              "end_date": "2027-06-30"
-            }
-          },
-          "season": {
-            "id": 1848,
-            "name": "Ligue 2 26/27",
-            "year": 2026
-          },
-          "home_team": "Red Star FC",
-          "away_team": "Sochaux",
-          "home_team_obj": {
-            "id": 1686,
-            "name": "Red Star FC",
-            "short_name": "Red Star",
-            "country": "France",
-            "coach": {
-              "name": "Damien Perrinelle",
-              "shortName": "D. Perrinelle"
-            },
-            "venue": null
-          },
-          "away_team_obj": {
-            "id": 1618,
-            "name": "Sochaux",
-            "short_name": "",
-            "country": "France",
-            "coach": {
-              "name": "Vincent Hognon",
-              "shortName": "V. Hognon"
-            },
-            "venue": null
-          },
-          "event_date": "2026-08-14T18:45:00Z",
-          "round_number": 2,
-          "round_name": "",
-          "group_name": null,
-          "status": "notstarted",
-          "home_score": null,
-          "away_score": null,
-          "home_score_ht": null,
-          "away_score_ht": null,
-          "current_minute": null,
-          "period": "",
-          "odds_home": 1.84,
-          "odds_draw": 3.35,
-          "odds_away": 4.17,
-          "odds_over_15": 1.32,
-          "odds_over_25": 2.03,
-          "odds_over_35": 3.55,
-          "odds_under_15": 3.09,
-          "odds_under_25": 1.72,
-          "odds_under_35": 1.25,
-          "odds_btts_yes": 1.87,
-          "odds_btts_no": 1.83,
-          "actual_home_xg": null,
-          "actual_away_xg": null,
-          "home_xg_live": null,
-          "away_xg_live": null,
-          "penalty_shootout": null,
-          "extra_time_score": null,
-          "is_local_derby": false,
-          "is_neutral_ground": null,
-          "travel_distance_km": 408,
-          "weather_code": 1,
-          "wind_speed": 5.1,
-          "temperature_c": 37,
-          "pitch_condition": null,
-          "attendance": null,
-          "referee": {
-            "id": 2837,
-            "name": "Pierre Retail",
-            "country": "France",
-            "nationality_a3": "",
-            "birthdate": null,
-            "yellowCards": 0,
-            "redCards": 0,
-            "career_games": 1,
-            "career_yellow_cards": 0,
-            "career_red_cards": 0
-          },
-          "home_coach": {
-            "id": 3258,
-            "name": "Damien Perrinelle",
-            "short_name": "D. Perrinelle",
-            "country": "France",
-            "profile": "attacking",
-            "preferred_formation": "4-2-3-1",
-            "pressing_intensity": null,
-            "defensive_line": "",
-            "top_styles": []
-          },
-          "away_coach": {
-            "id": 1055,
-            "name": "Vincent Hognon",
-            "short_name": "V. Hognon",
-            "country": "France",
-            "profile": "attacking",
-            "preferred_formation": "4-2-3-1",
-            "pressing_intensity": null,
-            "defensive_line": "",
-            "top_styles": []
-          },
-          "unavailable_players": null,
-          "venue": {
-            "id": 1293,
-            "name": "Stade de Paris",
-            "city": "Saint-Ouen",
-            "country": "France",
-            "capacity": 10000,
-            "latitude": 48.905833,
-            "longitude": 2.340833,
-            "pitch_x": null,
-            "pitch_y": null,
-            "built_year": null
-          },
-          "incidents": null,
-          "live_stats": null,
-          "lineups": null,
-          "shotmap": null,
-          "momentum": null,
-          "xg_per_minute": null,
-          "average_positions": null,
-          "jerseys": {
-            "away": {
-              "GK": {
-                "base": "050505",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "a9adb9",
-                "sleeve": "a9adb9"
-              },
-              "player": {
-                "base": "ffff00",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "2c55a2",
-                "sleeve": "2c55a2",
-                "sleevelong": "2c55a2"
-              }
-            },
-            "home": {
-              "GK": {
-                "base": "dde126",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "0f0f0f",
-                "sleeve": "568c15"
-              },
-              "player": {
-                "base": "116f5c",
-                "real": true,
-                "type": "short_sleeves",
-                "number": "181a25",
-                "sleeve": "00423d",
-                "stripes": "8591bd"
-              }
-            }
-          },
-          "funfacts": [
-            {
-              "type_id": 1,
-              "sentence": "Sochaux-Montbeliard haven't won in their last 4 games."
-            },
-            {
-              "type_id": 2,
-              "sentence": "When playing at home, Red Star have not lost to Sochaux-Montbeliard in their last 4 encounters."
-            }
-          ],
-          "sr_stats": null,
-          "ai_preview": {
-            "text": "**Red Star rolling, Sochaux stumbling** — the Parisians are off to a flyer in Ligue 2 while their visitors are yet to find their footing. 🔴⭐\n\nRed Star's **3W from 5** is the real deal; they've beaten Nantes away and torched UNFP Selection at home. Sochaux, meanwhile, are **1W-3L** and got hammered 0-3 twice already — confidence is brittle. The **head-to-head leans Red Star's way too** with three wins in the last six.\n\nKey storylines:\n\n- **Red Star's front two** — **K. Cabral** and **J. Ikanga** have that sharpness; Sochaux's back line looks porous\n- **B. Fofana's midfield battle** — Sochaux's only real creative spark faces **B. Danger** and **I. Halifa** in a lopsided contest\n- **Red Star's home fortress** — unbeaten at Stade de Paris so far, and Sochaux travel badly\n\nExpected lineups:\n\n- **Red Star FC**: G. Poussin, D. Durivaux, J. Escartin, E. Zidane, D. Durand, B. Danger, I. Halifa, R. Hachem, B. Pierret, K. Cabral, J. Ikanga\n- **Sochaux**: M. Jeannin, D. Gomis, B. Youssouf, A. Vitelli, É. N'Gatta, J. Masson, J. Mexique, B. Gomel, B. Fofana, M. Clairicia, K. Djoco\n\nPrediction:\n\n**Red Star 2-0 Sochaux** — Red Star have the form, the home edge, and a soft opponent. Lean Red Star. 🎯",
-            "generated_at": "2026-08-13T19:41:24.827722+00:00"
-          },
-          "live_websocket": true
-        },
-        "created_at": "2026-08-08T02:15:21.164338+00:00",
-        "prob_home_win": 50.2,
-        "prob_draw": 27.6,
-        "prob_away_win": 22.2,
-        "predicted_result": "H",
-        "expected_home_goals": 1.671,
-        "expected_away_goals": 1.183,
-        "prob_over_15": 70.7,
-        "prob_over_25": 46.6,
-        "prob_over_35": 26.9,
-        "prob_btts_yes": 49.5,
-        "confidence": 0.5024,
-        "model_version": "dc-blend-v1",
-        "most_likely_score": "1-1",
-        "favorite": "H",
-        "favorite_prob": 50.2,
-        "favorite_recommend": false,
-        "over_15_recommend": false,
-        "over_25_recommend": false,
-        "over_35_recommend": false,
-        "btts_recommend": false,
-        "winner_recommend": false
-      },
-      "event_detail": {
-        "id": 580484,
-        "league": {
-          "id": 89,
-          "name": "Ligue 2",
-          "country": "France",
-          "is_women": false,
-          "current_season": {
-            "id": 1848,
-            "name": "Ligue 2 26/27",
-            "year": 2026,
-            "start_date": "2026-07-01",
-            "end_date": "2027-06-30"
-          }
-        },
-        "season": {
-          "id": 1848,
-          "name": "Ligue 2 26/27",
-          "year": 2026
-        },
-        "home_team": "Red Star FC",
-        "away_team": "Sochaux",
-        "home_team_obj": {
-          "id": 1686,
-          "name": "Red Star FC",
-          "short_name": "Red Star",
-          "country": "France",
-          "coach": {
-            "name": "Damien Perrinelle",
-            "shortName": "D. Perrinelle"
-          },
-          "venue": null
-        },
-        "away_team_obj": {
-          "id": 1618,
-          "name": "Sochaux",
-          "short_name": "",
-          "country": "France",
-          "coach": {
-            "name": "Vincent Hognon",
-            "shortName": "V. Hognon"
-          },
-          "venue": null
-        },
-        "event_date": "2026-08-14T21:45:00+03:00",
-        "round_number": 2,
-        "round_name": "",
-        "group_name": null,
-        "status": "notstarted",
-        "home_score": null,
-        "away_score": null,
-        "home_score_ht": null,
-        "away_score_ht": null,
-        "current_minute": null,
-        "period": "",
-        "odds_home": 1.84,
-        "odds_draw": 3.35,
-        "odds_away": 4.17,
-        "odds_over_15": 1.32,
-        "odds_over_25": 2.03,
-        "odds_over_35": 3.55,
-        "odds_under_15": 3.09,
-        "odds_under_25": 1.72,
-        "odds_under_35": 1.25,
-        "odds_btts_yes": 1.87,
-        "odds_btts_no": 1.83,
-        "actual_home_xg": null,
-        "actual_away_xg": null,
-        "home_xg_live": null,
-        "away_xg_live": null,
-        "penalty_shootout": null,
-        "extra_time_score": null,
-        "is_local_derby": false,
-        "is_neutral_ground": null,
-        "travel_distance_km": 408,
-        "weather_code": 1,
-        "wind_speed": 5.1,
-        "temperature_c": 37,
-        "pitch_condition": null,
-        "attendance": null,
-        "referee": {
-          "id": 2837,
-          "name": "Pierre Retail",
-          "country": "France",
-          "nationality_a3": "",
-          "birthdate": null,
-          "yellowCards": 0,
-          "redCards": 0,
-          "career_games": 1,
-          "career_yellow_cards": 0,
-          "career_red_cards": 0
-        },
-        "home_coach": {
-          "id": 3258,
-          "name": "Damien Perrinelle",
-          "short_name": "D. Perrinelle",
-          "country": "France",
-          "profile": "attacking",
-          "preferred_formation": "4-2-3-1",
-          "pressing_intensity": null,
-          "defensive_line": "",
-          "top_styles": []
-        },
-        "away_coach": {
-          "id": 1055,
-          "name": "Vincent Hognon",
-          "short_name": "V. Hognon",
-          "country": "France",
-          "profile": "attacking",
-          "preferred_formation": "4-2-3-1",
-          "pressing_intensity": null,
-          "defensive_line": "",
-          "top_styles": []
-        },
-        "unavailable_players": null,
-        "venue": {
-          "id": 1293,
-          "name": "Stade de Paris",
-          "city": "Saint-Ouen",
-          "country": "France",
-          "capacity": 10000,
-          "latitude": 48.905833,
-          "longitude": 2.340833,
-          "pitch_x": null,
-          "pitch_y": null,
-          "built_year": null
-        },
-        "live_stats": null,
-        "jerseys": {
-          "away": {
-            "GK": {
-              "base": "050505",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "a9adb9",
-              "sleeve": "a9adb9"
-            },
-            "player": {
-              "base": "ffff00",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "2c55a2",
-              "sleeve": "2c55a2",
-              "sleevelong": "2c55a2"
-            }
-          },
-          "home": {
-            "GK": {
-              "base": "dde126",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "0f0f0f",
-              "sleeve": "568c15"
-            },
-            "player": {
-              "base": "116f5c",
-              "real": true,
-              "type": "short_sleeves",
-              "number": "181a25",
-              "sleeve": "00423d",
-              "stripes": "8591bd"
-            }
-          }
-        },
-        "funfacts": [
-          {
-            "type_id": 1,
-            "sentence": "Sochaux-Montbeliard haven't won in their last 4 games."
-          },
-          {
-            "type_id": 2,
-            "sentence": "When playing at home, Red Star have not lost to Sochaux-Montbeliard in their last 4 encounters."
-          }
-        ],
-        "sr_stats": null,
-        "ai_preview": {
-          "text": "**Red Star rolling, Sochaux stumbling** — the Parisians are off to a flyer in Ligue 2 while their visitors are yet to find their footing. 🔴⭐\n\nRed Star's **3W from 5** is the real deal; they've beaten Nantes away and torched UNFP Selection at home. Sochaux, meanwhile, are **1W-3L** and got hammered 0-3 twice already — confidence is brittle. The **head-to-head leans Red Star's way too** with three wins in the last six.\n\nKey storylines:\n\n- **Red Star's front two** — **K. Cabral** and **J. Ikanga** have that sharpness; Sochaux's back line looks porous\n- **B. Fofana's midfield battle** — Sochaux's only real creative spark faces **B. Danger** and **I. Halifa** in a lopsided contest\n- **Red Star's home fortress** — unbeaten at Stade de Paris so far, and Sochaux travel badly\n\nExpected lineups:\n\n- **Red Star FC**: G. Poussin, D. Durivaux, J. Escartin, E. Zidane, D. Durand, B. Danger, I. Halifa, R. Hachem, B. Pierret, K. Cabral, J. Ikanga\n- **Sochaux**: M. Jeannin, D. Gomis, B. Youssouf, A. Vitelli, É. N'Gatta, J. Masson, J. Mexique, B. Gomel, B. Fofana, M. Clairicia, K. Djoco\n\nPrediction:\n\n**Red Star 2-0 Sochaux** — Red Star have the form, the home edge, and a soft opponent. Lean Red Star. 🎯",
-          "generated_at": "2026-08-13T19:41:24.827722+00:00"
-        },
-        "live_websocket": true,
-        "home_form": {
-          "calculated_at": "2026-08-13",
-          "matches_played": 5,
-          "form_string": "WDWWL",
-          "wins": 3,
-          "draws": 1,
-          "losses": 1,
-          "points_last_n": 10,
-          "goals_scored_last_n": 10,
-          "goals_conceded_last_n": 7,
-          "avg_xg": 2,
-          "avg_xg_conceded": 1.4,
-          "avg_shots": 13.2,
-          "avg_shots_on_target": 5,
-          "avg_key_passes": 9.8,
-          "goal_conversion_rate": 0,
-          "defensive_efficiency": 0,
-          "clean_sheets": 1,
-          "avg_pass_accuracy": 78.06682825290741,
-          "duel_win_rate": 0.4970178926441352,
-          "aerial_win_rate": 0.4484848484848485,
-          "avg_fouls": 13.8,
-          "avg_yellow_cards": 2,
-          "home_ppg": 2.2,
-          "away_ppg": 1.8,
-          "home_goals_scored": 9,
-          "home_goals_conceded": 6,
-          "away_goals_scored": 7,
-          "away_goals_conceded": 6,
-          "avg_team_rating": 6.8
-        },
-        "away_form": {
-          "calculated_at": "2026-08-13",
-          "matches_played": 5,
-          "form_string": "LLLLL",
-          "wins": 0,
-          "draws": 0,
-          "losses": 5,
-          "points_last_n": 0,
-          "goals_scored_last_n": 2,
-          "goals_conceded_last_n": 10,
-          "avg_xg": 0.4,
-          "avg_xg_conceded": 2,
-          "avg_shots": 11,
-          "avg_shots_on_target": 4.2,
-          "avg_key_passes": 7.2,
-          "goal_conversion_rate": 0,
-          "defensive_efficiency": 0,
-          "clean_sheets": 0,
-          "avg_pass_accuracy": 86.32279234496886,
-          "duel_win_rate": 0.5048543689320388,
-          "aerial_win_rate": 0.4943820224719101,
-          "avg_fouls": 13.8,
-          "avg_yellow_cards": 1.4,
-          "home_ppg": 0,
-          "away_ppg": 0.6,
-          "home_goals_scored": 2,
-          "home_goals_conceded": 10,
-          "away_goals_scored": 6,
-          "away_goals_conceded": 8,
-          "avg_team_rating": 6.653829670329671
-        },
-        "head_to_head": {
-          "total_matches": 6,
-          "home_wins": 3,
-          "draws": 2,
-          "away_wins": 1,
-          "home_goals": 8,
-          "away_goals": 5,
-          "avg_total_goals": 2.1666666666666665,
-          "home_win_rate": 0.5,
-          "away_win_rate": 0.16666666666666666,
-          "recent_matches": [
-            {
-              "away": "Red Star FC",
-              "date": "2019-05-03T18:00:00+00:00",
-              "home": "Sochaux",
-              "score": "1-2"
-            },
-            {
-              "away": "Sochaux",
-              "date": "2018-12-14T19:00:00+00:00",
-              "home": "Red Star FC",
-              "score": "3-0"
-            },
-            {
-              "away": "Sochaux",
-              "date": "2017-05-12T18:30:00+00:00",
-              "home": "Red Star FC",
-              "score": "1-1"
-            },
-            {
-              "away": "Red Star FC",
-              "date": "2016-12-16T19:00:00+00:00",
-              "home": "Sochaux",
-              "score": "2-0"
-            },
-            {
-              "away": "Red Star FC",
-              "date": "2016-02-05T19:00:00+00:00",
-              "home": "Sochaux",
-              "score": "1-2"
-            },
-            {
-              "away": "Sochaux",
-              "date": "2015-09-18T18:00:00+00:00",
-              "home": "Red Star FC",
-              "score": "0-0"
-            }
-          ]
-        },
-        "lineups": null,
-        "social": []
-      },
-      "managers": {
-        "home": {
-          "id": 3258,
-          "name": "Damien Perrinelle",
-          "short_name": "D. Perrinelle",
-          "country": "France",
-          "current_team": {
-            "id": 1686,
-            "name": "Red Star FC"
-          },
-          "preferred_formation": "4-2-3-1",
-          "formations_used": {
-            "4-1-3-2": 1,
-            "4-2-3-1": 1
-          },
-          "profile": "attacking",
-          "team_style": "soft",
-          "pressing_intensity": null,
-          "defensive_line": "",
-          "tactical_styles": [],
-          "matches_total": 7,
-          "wins": 4,
-          "draws": 1,
-          "losses": 2,
-          "win_pct": 57.1,
-          "avg_goals_scored": 1.71,
-          "avg_goals_conceded": 1,
-          "avg_possession": 49,
-          "avg_shots": 12,
-          "avg_shots_on_target": 3,
-          "avg_xg_for": 0,
-          "avg_xg_against": 0,
-          "avg_corners": 8,
-          "avg_yellow_cards": 0.43,
-          "avg_red_cards": 0,
-          "avg_fouls": 13,
-          "clean_sheet_pct": 28.6,
-          "btts_pct": 57.1,
-          "over_25_pct": 42.9,
-          "over_15_pct": 71.4,
-          "fail_to_score_pct": 14.3,
-          "avg_goals_scored_1h": 0.29,
-          "avg_goals_conceded_1h": 0.29
-        },
-        "away": {
-          "id": 1055,
-          "name": "Vincent Hognon",
-          "short_name": "V. Hognon",
-          "country": "France",
-          "current_team": {
-            "id": 1618,
-            "name": "Sochaux"
-          },
-          "preferred_formation": "4-2-3-1",
-          "formations_used": {
-            "4-3-3": 1,
-            "4-2-3-1": 5
-          },
-          "profile": "attacking",
-          "team_style": "soft",
-          "pressing_intensity": null,
-          "defensive_line": "",
-          "tactical_styles": [],
-          "matches_total": 10,
-          "wins": 4,
-          "draws": 2,
-          "losses": 4,
-          "win_pct": 40,
-          "avg_goals_scored": 1.7,
-          "avg_goals_conceded": 1.9,
-          "avg_possession": 50.25,
-          "avg_shots": 9.67,
-          "avg_shots_on_target": 2,
-          "avg_xg_for": 0.72,
-          "avg_xg_against": 1.86,
-          "avg_corners": 4.5,
-          "avg_yellow_cards": 0.5,
-          "avg_red_cards": 0,
-          "avg_fouls": 11.67,
-          "clean_sheet_pct": 20,
-          "btts_pct": 50,
-          "over_25_pct": 80,
-          "over_15_pct": 90,
-          "fail_to_score_pct": 30,
-          "avg_goals_scored_1h": 0.4,
-          "avg_goals_conceded_1h": 1
-        }
-      }
-    },
-    {
       "event_id": 580481,
       "prediction": {
         "id": 866,
@@ -19070,8 +18689,8 @@
         "prob_draw": 27.5,
         "prob_away_win": 46.3,
         "predicted_result": "A",
-        "expected_home_goals": 1.499,
-        "expected_away_goals": 1.115,
+        "expected_home_goals": 1.498,
+        "expected_away_goals": 1.116,
         "prob_over_15": 72,
         "prob_over_25": 48.2,
         "prob_over_35": 27.7,
@@ -19282,7 +18901,7 @@
         },
         "live_websocket": true,
         "home_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "LWWDL",
           "wins": 2,
@@ -19313,7 +18932,7 @@
           "avg_team_rating": 6.733833333333334
         },
         "away_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "WWDLD",
           "wins": 2,
@@ -19738,8 +19357,8 @@
         "prob_draw": 26.2,
         "prob_away_win": 20.4,
         "predicted_result": "H",
-        "expected_home_goals": 1.565,
-        "expected_away_goals": 1.065,
+        "expected_home_goals": 1.566,
+        "expected_away_goals": 1.064,
         "prob_over_15": 71.5,
         "prob_over_25": 47.7,
         "prob_over_35": 27.3,
@@ -19945,7 +19564,7 @@
         },
         "live_websocket": true,
         "home_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "LLLLL",
           "wins": 0,
@@ -19976,7 +19595,7 @@
           "avg_team_rating": 6.722416666666666
         },
         "away_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "DLLLL",
           "wins": 0,
@@ -20358,7 +19977,7 @@
         "prob_draw": 26.7,
         "prob_away_win": 32.3,
         "predicted_result": "H",
-        "expected_home_goals": 1.584,
+        "expected_home_goals": 1.585,
         "expected_away_goals": 1.434,
         "prob_over_15": 77.2,
         "prob_over_25": 55.4,
@@ -20573,7 +20192,7 @@
         },
         "live_websocket": true,
         "home_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "DLLWW",
           "wins": 2,
@@ -20604,7 +20223,7 @@
           "avg_team_rating": 6.8637500000000005
         },
         "away_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "DWLDL",
           "wins": 1,
@@ -21069,8 +20688,8 @@
         "prob_draw": 27.7,
         "prob_away_win": 28.8,
         "predicted_result": "H",
-        "expected_home_goals": 1.486,
-        "expected_away_goals": 1.347,
+        "expected_home_goals": 1.485,
+        "expected_away_goals": 1.348,
         "prob_over_15": 74.8,
         "prob_over_25": 51.6,
         "prob_over_35": 31.2,
@@ -21262,7 +20881,7 @@
         },
         "live_websocket": true,
         "home_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "WLWWW",
           "wins": 4,
@@ -21293,7 +20912,7 @@
           "avg_team_rating": 6.873666666666667
         },
         "away_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "WWWDW",
           "wins": 4,
@@ -21935,7 +21554,7 @@
         },
         "live_websocket": true,
         "home_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "WWLLL",
           "wins": 2,
@@ -21966,7 +21585,7 @@
           "avg_team_rating": 6.856446886446887
         },
         "away_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "DWWDL",
           "wins": 2,
@@ -22397,8 +22016,8 @@
         "prob_draw": 28.8,
         "prob_away_win": 30.2,
         "predicted_result": "H",
-        "expected_home_goals": 1.748,
-        "expected_away_goals": 1.149,
+        "expected_home_goals": 1.747,
+        "expected_away_goals": 1.148,
         "prob_over_15": 69.5,
         "prob_over_25": 45,
         "prob_over_35": 25.9,
@@ -22601,7 +22220,7 @@
         },
         "live_websocket": true,
         "home_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "DLDWW",
           "wins": 2,
@@ -22632,7 +22251,7 @@
           "avg_team_rating": 6.821249999999999
         },
         "away_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "LLLLW",
           "wins": 1,
@@ -22787,6 +22406,603 @@
           "fail_to_score_pct": 33.3,
           "avg_goals_scored_1h": 0.33,
           "avg_goals_conceded_1h": 0.67
+        }
+      }
+    },
+    {
+      "event_id": 580484,
+      "prediction": {
+        "id": 865,
+        "event": {
+          "id": 580484,
+          "league": {
+            "id": 89,
+            "name": "Ligue 2",
+            "country": "France",
+            "is_women": false,
+            "current_season": {
+              "id": 1848,
+              "name": "Ligue 2 26/27",
+              "year": 2026,
+              "start_date": "2026-07-01",
+              "end_date": "2027-06-30"
+            }
+          },
+          "season": {
+            "id": 1848,
+            "name": "Ligue 2 26/27",
+            "year": 2026
+          },
+          "home_team": "Red Star FC",
+          "away_team": "Sochaux",
+          "home_team_obj": {
+            "id": 1686,
+            "name": "Red Star FC",
+            "short_name": "Red Star",
+            "country": "France",
+            "coach": {
+              "name": "Damien Perrinelle",
+              "shortName": "D. Perrinelle"
+            },
+            "venue": null
+          },
+          "away_team_obj": {
+            "id": 1618,
+            "name": "Sochaux",
+            "short_name": "",
+            "country": "France",
+            "coach": {
+              "name": "Vincent Hognon",
+              "shortName": "V. Hognon"
+            },
+            "venue": null
+          },
+          "event_date": "2026-08-14T18:45:00Z",
+          "round_number": 2,
+          "round_name": "",
+          "group_name": null,
+          "status": "notstarted",
+          "home_score": null,
+          "away_score": null,
+          "home_score_ht": null,
+          "away_score_ht": null,
+          "current_minute": null,
+          "period": "",
+          "odds_home": 1.84,
+          "odds_draw": 3.35,
+          "odds_away": 4.17,
+          "odds_over_15": 1.32,
+          "odds_over_25": 2.03,
+          "odds_over_35": 3.55,
+          "odds_under_15": 3.09,
+          "odds_under_25": 1.72,
+          "odds_under_35": 1.25,
+          "odds_btts_yes": 1.87,
+          "odds_btts_no": 1.83,
+          "actual_home_xg": null,
+          "actual_away_xg": null,
+          "home_xg_live": null,
+          "away_xg_live": null,
+          "penalty_shootout": null,
+          "extra_time_score": null,
+          "is_local_derby": false,
+          "is_neutral_ground": null,
+          "travel_distance_km": 408,
+          "weather_code": 1,
+          "wind_speed": 5.1,
+          "temperature_c": 37,
+          "pitch_condition": null,
+          "attendance": null,
+          "referee": {
+            "id": 2837,
+            "name": "Pierre Retail",
+            "country": "France",
+            "nationality_a3": "",
+            "birthdate": null,
+            "yellowCards": 0,
+            "redCards": 0,
+            "career_games": 1,
+            "career_yellow_cards": 0,
+            "career_red_cards": 0
+          },
+          "home_coach": {
+            "id": 3258,
+            "name": "Damien Perrinelle",
+            "short_name": "D. Perrinelle",
+            "country": "France",
+            "profile": "attacking",
+            "preferred_formation": "4-2-3-1",
+            "pressing_intensity": null,
+            "defensive_line": "",
+            "top_styles": []
+          },
+          "away_coach": {
+            "id": 1055,
+            "name": "Vincent Hognon",
+            "short_name": "V. Hognon",
+            "country": "France",
+            "profile": "attacking",
+            "preferred_formation": "4-2-3-1",
+            "pressing_intensity": null,
+            "defensive_line": "",
+            "top_styles": []
+          },
+          "unavailable_players": null,
+          "venue": {
+            "id": 1293,
+            "name": "Stade de Paris",
+            "city": "Saint-Ouen",
+            "country": "France",
+            "capacity": 10000,
+            "latitude": 48.905833,
+            "longitude": 2.340833,
+            "pitch_x": null,
+            "pitch_y": null,
+            "built_year": null
+          },
+          "incidents": null,
+          "live_stats": null,
+          "lineups": null,
+          "shotmap": null,
+          "momentum": null,
+          "xg_per_minute": null,
+          "average_positions": null,
+          "jerseys": {
+            "away": {
+              "GK": {
+                "base": "050505",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "a9adb9",
+                "sleeve": "a9adb9"
+              },
+              "player": {
+                "base": "ffff00",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "2c55a2",
+                "sleeve": "2c55a2",
+                "sleevelong": "2c55a2"
+              }
+            },
+            "home": {
+              "GK": {
+                "base": "dde126",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "0f0f0f",
+                "sleeve": "568c15"
+              },
+              "player": {
+                "base": "116f5c",
+                "real": true,
+                "type": "short_sleeves",
+                "number": "181a25",
+                "sleeve": "00423d",
+                "stripes": "8591bd"
+              }
+            }
+          },
+          "funfacts": [
+            {
+              "type_id": 1,
+              "sentence": "Sochaux-Montbeliard haven't won in their last 4 games."
+            },
+            {
+              "type_id": 2,
+              "sentence": "When playing at home, Red Star have not lost to Sochaux-Montbeliard in their last 4 encounters."
+            }
+          ],
+          "sr_stats": null,
+          "ai_preview": {
+            "text": "**Red Star rolling, Sochaux stumbling** — the Parisians are off to a flyer in Ligue 2 while their visitors are yet to find their footing. 🔴⭐\n\nRed Star's **3W from 5** is the real deal; they've beaten Nantes away and torched UNFP Selection at home. Sochaux, meanwhile, are **1W-3L** and got hammered 0-3 twice already — confidence is brittle. The **head-to-head leans Red Star's way too** with three wins in the last six.\n\nKey storylines:\n\n- **Red Star's front two** — **K. Cabral** and **J. Ikanga** have that sharpness; Sochaux's back line looks porous\n- **B. Fofana's midfield battle** — Sochaux's only real creative spark faces **B. Danger** and **I. Halifa** in a lopsided contest\n- **Red Star's home fortress** — unbeaten at Stade de Paris so far, and Sochaux travel badly\n\nExpected lineups:\n\n- **Red Star FC**: G. Poussin, D. Durivaux, J. Escartin, E. Zidane, D. Durand, B. Danger, I. Halifa, R. Hachem, B. Pierret, K. Cabral, J. Ikanga\n- **Sochaux**: M. Jeannin, D. Gomis, B. Youssouf, A. Vitelli, É. N'Gatta, J. Masson, J. Mexique, B. Gomel, B. Fofana, M. Clairicia, K. Djoco\n\nPrediction:\n\n**Red Star 2-0 Sochaux** — Red Star have the form, the home edge, and a soft opponent. Lean Red Star. 🎯",
+            "generated_at": "2026-08-13T19:41:24.827722+00:00"
+          },
+          "live_websocket": true
+        },
+        "created_at": "2026-08-08T02:15:21.164338+00:00",
+        "prob_home_win": 50.2,
+        "prob_draw": 27.6,
+        "prob_away_win": 22.2,
+        "predicted_result": "H",
+        "expected_home_goals": 1.673,
+        "expected_away_goals": 1.183,
+        "prob_over_15": 70.7,
+        "prob_over_25": 46.6,
+        "prob_over_35": 27,
+        "prob_btts_yes": 49.5,
+        "confidence": 0.5024,
+        "model_version": "dc-blend-v1",
+        "most_likely_score": "1-1",
+        "favorite": "H",
+        "favorite_prob": 50.2,
+        "favorite_recommend": false,
+        "over_15_recommend": false,
+        "over_25_recommend": false,
+        "over_35_recommend": false,
+        "btts_recommend": false,
+        "winner_recommend": false
+      },
+      "event_detail": {
+        "id": 580484,
+        "league": {
+          "id": 89,
+          "name": "Ligue 2",
+          "country": "France",
+          "is_women": false,
+          "current_season": {
+            "id": 1848,
+            "name": "Ligue 2 26/27",
+            "year": 2026,
+            "start_date": "2026-07-01",
+            "end_date": "2027-06-30"
+          }
+        },
+        "season": {
+          "id": 1848,
+          "name": "Ligue 2 26/27",
+          "year": 2026
+        },
+        "home_team": "Red Star FC",
+        "away_team": "Sochaux",
+        "home_team_obj": {
+          "id": 1686,
+          "name": "Red Star FC",
+          "short_name": "Red Star",
+          "country": "France",
+          "coach": {
+            "name": "Damien Perrinelle",
+            "shortName": "D. Perrinelle"
+          },
+          "venue": null
+        },
+        "away_team_obj": {
+          "id": 1618,
+          "name": "Sochaux",
+          "short_name": "",
+          "country": "France",
+          "coach": {
+            "name": "Vincent Hognon",
+            "shortName": "V. Hognon"
+          },
+          "venue": null
+        },
+        "event_date": "2026-08-14T21:45:00+03:00",
+        "round_number": 2,
+        "round_name": "",
+        "group_name": null,
+        "status": "notstarted",
+        "home_score": null,
+        "away_score": null,
+        "home_score_ht": null,
+        "away_score_ht": null,
+        "current_minute": null,
+        "period": "",
+        "odds_home": 1.84,
+        "odds_draw": 3.35,
+        "odds_away": 4.17,
+        "odds_over_15": 1.32,
+        "odds_over_25": 2.03,
+        "odds_over_35": 3.55,
+        "odds_under_15": 3.09,
+        "odds_under_25": 1.72,
+        "odds_under_35": 1.25,
+        "odds_btts_yes": 1.87,
+        "odds_btts_no": 1.83,
+        "actual_home_xg": null,
+        "actual_away_xg": null,
+        "home_xg_live": null,
+        "away_xg_live": null,
+        "penalty_shootout": null,
+        "extra_time_score": null,
+        "is_local_derby": false,
+        "is_neutral_ground": null,
+        "travel_distance_km": 408,
+        "weather_code": 1,
+        "wind_speed": 5.1,
+        "temperature_c": 37,
+        "pitch_condition": null,
+        "attendance": null,
+        "referee": {
+          "id": 2837,
+          "name": "Pierre Retail",
+          "country": "France",
+          "nationality_a3": "",
+          "birthdate": null,
+          "yellowCards": 0,
+          "redCards": 0,
+          "career_games": 1,
+          "career_yellow_cards": 0,
+          "career_red_cards": 0
+        },
+        "home_coach": {
+          "id": 3258,
+          "name": "Damien Perrinelle",
+          "short_name": "D. Perrinelle",
+          "country": "France",
+          "profile": "attacking",
+          "preferred_formation": "4-2-3-1",
+          "pressing_intensity": null,
+          "defensive_line": "",
+          "top_styles": []
+        },
+        "away_coach": {
+          "id": 1055,
+          "name": "Vincent Hognon",
+          "short_name": "V. Hognon",
+          "country": "France",
+          "profile": "attacking",
+          "preferred_formation": "4-2-3-1",
+          "pressing_intensity": null,
+          "defensive_line": "",
+          "top_styles": []
+        },
+        "unavailable_players": null,
+        "venue": {
+          "id": 1293,
+          "name": "Stade de Paris",
+          "city": "Saint-Ouen",
+          "country": "France",
+          "capacity": 10000,
+          "latitude": 48.905833,
+          "longitude": 2.340833,
+          "pitch_x": null,
+          "pitch_y": null,
+          "built_year": null
+        },
+        "live_stats": null,
+        "jerseys": {
+          "away": {
+            "GK": {
+              "base": "050505",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "a9adb9",
+              "sleeve": "a9adb9"
+            },
+            "player": {
+              "base": "ffff00",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "2c55a2",
+              "sleeve": "2c55a2",
+              "sleevelong": "2c55a2"
+            }
+          },
+          "home": {
+            "GK": {
+              "base": "dde126",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "0f0f0f",
+              "sleeve": "568c15"
+            },
+            "player": {
+              "base": "116f5c",
+              "real": true,
+              "type": "short_sleeves",
+              "number": "181a25",
+              "sleeve": "00423d",
+              "stripes": "8591bd"
+            }
+          }
+        },
+        "funfacts": [
+          {
+            "type_id": 1,
+            "sentence": "Sochaux-Montbeliard haven't won in their last 4 games."
+          },
+          {
+            "type_id": 2,
+            "sentence": "When playing at home, Red Star have not lost to Sochaux-Montbeliard in their last 4 encounters."
+          }
+        ],
+        "sr_stats": null,
+        "ai_preview": {
+          "text": "**Red Star rolling, Sochaux stumbling** — the Parisians are off to a flyer in Ligue 2 while their visitors are yet to find their footing. 🔴⭐\n\nRed Star's **3W from 5** is the real deal; they've beaten Nantes away and torched UNFP Selection at home. Sochaux, meanwhile, are **1W-3L** and got hammered 0-3 twice already — confidence is brittle. The **head-to-head leans Red Star's way too** with three wins in the last six.\n\nKey storylines:\n\n- **Red Star's front two** — **K. Cabral** and **J. Ikanga** have that sharpness; Sochaux's back line looks porous\n- **B. Fofana's midfield battle** — Sochaux's only real creative spark faces **B. Danger** and **I. Halifa** in a lopsided contest\n- **Red Star's home fortress** — unbeaten at Stade de Paris so far, and Sochaux travel badly\n\nExpected lineups:\n\n- **Red Star FC**: G. Poussin, D. Durivaux, J. Escartin, E. Zidane, D. Durand, B. Danger, I. Halifa, R. Hachem, B. Pierret, K. Cabral, J. Ikanga\n- **Sochaux**: M. Jeannin, D. Gomis, B. Youssouf, A. Vitelli, É. N'Gatta, J. Masson, J. Mexique, B. Gomel, B. Fofana, M. Clairicia, K. Djoco\n\nPrediction:\n\n**Red Star 2-0 Sochaux** — Red Star have the form, the home edge, and a soft opponent. Lean Red Star. 🎯",
+          "generated_at": "2026-08-13T19:41:24.827722+00:00"
+        },
+        "live_websocket": true,
+        "home_form": {
+          "calculated_at": "2026-08-14",
+          "matches_played": 5,
+          "form_string": "WDWWL",
+          "wins": 3,
+          "draws": 1,
+          "losses": 1,
+          "points_last_n": 10,
+          "goals_scored_last_n": 10,
+          "goals_conceded_last_n": 7,
+          "avg_xg": 2,
+          "avg_xg_conceded": 1.4,
+          "avg_shots": 13.2,
+          "avg_shots_on_target": 5,
+          "avg_key_passes": 9.8,
+          "goal_conversion_rate": 0,
+          "defensive_efficiency": 0,
+          "clean_sheets": 1,
+          "avg_pass_accuracy": 78.06682825290741,
+          "duel_win_rate": 0.4970178926441352,
+          "aerial_win_rate": 0.4484848484848485,
+          "avg_fouls": 13.8,
+          "avg_yellow_cards": 2,
+          "home_ppg": 2.2,
+          "away_ppg": 1.8,
+          "home_goals_scored": 9,
+          "home_goals_conceded": 6,
+          "away_goals_scored": 7,
+          "away_goals_conceded": 6,
+          "avg_team_rating": 6.8
+        },
+        "away_form": {
+          "calculated_at": "2026-08-14",
+          "matches_played": 5,
+          "form_string": "LLLLL",
+          "wins": 0,
+          "draws": 0,
+          "losses": 5,
+          "points_last_n": 0,
+          "goals_scored_last_n": 2,
+          "goals_conceded_last_n": 10,
+          "avg_xg": 0.4,
+          "avg_xg_conceded": 2,
+          "avg_shots": 11,
+          "avg_shots_on_target": 4.2,
+          "avg_key_passes": 7.2,
+          "goal_conversion_rate": 0,
+          "defensive_efficiency": 0,
+          "clean_sheets": 0,
+          "avg_pass_accuracy": 86.32279234496886,
+          "duel_win_rate": 0.5048543689320388,
+          "aerial_win_rate": 0.4943820224719101,
+          "avg_fouls": 13.8,
+          "avg_yellow_cards": 1.4,
+          "home_ppg": 0,
+          "away_ppg": 0.6,
+          "home_goals_scored": 2,
+          "home_goals_conceded": 10,
+          "away_goals_scored": 6,
+          "away_goals_conceded": 8,
+          "avg_team_rating": 6.653829670329671
+        },
+        "head_to_head": {
+          "total_matches": 6,
+          "home_wins": 3,
+          "draws": 2,
+          "away_wins": 1,
+          "home_goals": 8,
+          "away_goals": 5,
+          "avg_total_goals": 2.1666666666666665,
+          "home_win_rate": 0.5,
+          "away_win_rate": 0.16666666666666666,
+          "recent_matches": [
+            {
+              "away": "Red Star FC",
+              "date": "2019-05-03T18:00:00+00:00",
+              "home": "Sochaux",
+              "score": "1-2"
+            },
+            {
+              "away": "Sochaux",
+              "date": "2018-12-14T19:00:00+00:00",
+              "home": "Red Star FC",
+              "score": "3-0"
+            },
+            {
+              "away": "Sochaux",
+              "date": "2017-05-12T18:30:00+00:00",
+              "home": "Red Star FC",
+              "score": "1-1"
+            },
+            {
+              "away": "Red Star FC",
+              "date": "2016-12-16T19:00:00+00:00",
+              "home": "Sochaux",
+              "score": "2-0"
+            },
+            {
+              "away": "Red Star FC",
+              "date": "2016-02-05T19:00:00+00:00",
+              "home": "Sochaux",
+              "score": "1-2"
+            },
+            {
+              "away": "Sochaux",
+              "date": "2015-09-18T18:00:00+00:00",
+              "home": "Red Star FC",
+              "score": "0-0"
+            }
+          ]
+        },
+        "lineups": null,
+        "social": []
+      },
+      "managers": {
+        "home": {
+          "id": 3258,
+          "name": "Damien Perrinelle",
+          "short_name": "D. Perrinelle",
+          "country": "France",
+          "current_team": {
+            "id": 1686,
+            "name": "Red Star FC"
+          },
+          "preferred_formation": "4-2-3-1",
+          "formations_used": {
+            "4-1-3-2": 1,
+            "4-2-3-1": 1
+          },
+          "profile": "attacking",
+          "team_style": "soft",
+          "pressing_intensity": null,
+          "defensive_line": "",
+          "tactical_styles": [],
+          "matches_total": 7,
+          "wins": 4,
+          "draws": 1,
+          "losses": 2,
+          "win_pct": 57.1,
+          "avg_goals_scored": 1.71,
+          "avg_goals_conceded": 1,
+          "avg_possession": 49,
+          "avg_shots": 12,
+          "avg_shots_on_target": 3,
+          "avg_xg_for": 0,
+          "avg_xg_against": 0,
+          "avg_corners": 8,
+          "avg_yellow_cards": 0.43,
+          "avg_red_cards": 0,
+          "avg_fouls": 13,
+          "clean_sheet_pct": 28.6,
+          "btts_pct": 57.1,
+          "over_25_pct": 42.9,
+          "over_15_pct": 71.4,
+          "fail_to_score_pct": 14.3,
+          "avg_goals_scored_1h": 0.29,
+          "avg_goals_conceded_1h": 0.29
+        },
+        "away": {
+          "id": 1055,
+          "name": "Vincent Hognon",
+          "short_name": "V. Hognon",
+          "country": "France",
+          "current_team": {
+            "id": 1618,
+            "name": "Sochaux"
+          },
+          "preferred_formation": "4-2-3-1",
+          "formations_used": {
+            "4-3-3": 1,
+            "4-2-3-1": 5
+          },
+          "profile": "attacking",
+          "team_style": "soft",
+          "pressing_intensity": null,
+          "defensive_line": "",
+          "tactical_styles": [],
+          "matches_total": 10,
+          "wins": 4,
+          "draws": 2,
+          "losses": 4,
+          "win_pct": 40,
+          "avg_goals_scored": 1.7,
+          "avg_goals_conceded": 1.9,
+          "avg_possession": 50.25,
+          "avg_shots": 9.67,
+          "avg_shots_on_target": 2,
+          "avg_xg_for": 0.72,
+          "avg_xg_against": 1.86,
+          "avg_corners": 4.5,
+          "avg_yellow_cards": 0.5,
+          "avg_red_cards": 0,
+          "avg_fouls": 11.67,
+          "clean_sheet_pct": 20,
+          "btts_pct": 50,
+          "over_25_pct": 80,
+          "over_15_pct": 90,
+          "fail_to_score_pct": 30,
+          "avg_goals_scored_1h": 0.4,
+          "avg_goals_conceded_1h": 1
         }
       }
     },
@@ -23007,9 +23223,9 @@
         "prob_draw": 27.8,
         "prob_away_win": 37.1,
         "predicted_result": "A",
-        "expected_home_goals": 1.279,
+        "expected_home_goals": 1.278,
         "expected_away_goals": 1.32,
-        "prob_over_15": 72.3,
+        "prob_over_15": 72.2,
         "prob_over_25": 48.7,
         "prob_over_35": 27.8,
         "prob_btts_yes": 53.9,
@@ -23227,7 +23443,7 @@
         },
         "live_websocket": true,
         "home_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "DWWDL",
           "wins": 2,
@@ -23258,7 +23474,7 @@
           "avg_team_rating": 6.689807692307691
         },
         "away_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "DDLWW",
           "wins": 2,
@@ -24193,13 +24409,13 @@
         "prob_draw": 22.2,
         "prob_away_win": 15.7,
         "predicted_result": "H",
-        "expected_home_goals": 1.122,
+        "expected_home_goals": 1.123,
         "expected_away_goals": 1.16,
         "prob_over_15": 75.3,
-        "prob_over_25": 52.4,
-        "prob_over_35": 29.7,
+        "prob_over_25": 52.6,
+        "prob_over_35": 29.8,
         "prob_btts_yes": 50.4,
-        "confidence": 0.6207,
+        "confidence": 0.6208,
         "model_version": "dc-blend-v1",
         "most_likely_score": "1-1",
         "favorite": "H",
@@ -24474,62 +24690,62 @@
         },
         "head_to_head": {
           "total_matches": 8,
-          "home_wins": 4,
-          "draws": 4,
-          "away_wins": 0,
+          "home_wins": 1,
+          "draws": 2,
+          "away_wins": 5,
           "home_goals": 9,
-          "away_goals": 4,
-          "avg_total_goals": 1.625,
-          "home_win_rate": 0.5,
-          "away_win_rate": 0,
+          "away_goals": 20,
+          "avg_total_goals": 3.625,
+          "home_win_rate": 0.125,
+          "away_win_rate": 0.625,
           "recent_matches": [
             {
               "away": "Blackburn Rovers",
-              "date": "2017-04-22T14:00:00+00:00",
+              "date": "2012-03-10T15:00:00+00:00",
               "home": "Wolverhampton",
-              "score": "0-0"
+              "score": "0-2"
             },
             {
               "away": "Wolverhampton",
-              "date": "2016-10-29T16:30:00+00:00",
-              "home": "Blackburn Rovers",
-              "score": "1-1"
-            },
-            {
-              "away": "Blackburn Rovers",
-              "date": "2016-04-09T14:00:00+00:00",
-              "home": "Wolverhampton",
-              "score": "0-0"
-            },
-            {
-              "away": "Wolverhampton",
-              "date": "2015-08-08T14:00:00+00:00",
+              "date": "2011-08-13T14:00:00+00:00",
               "home": "Blackburn Rovers",
               "score": "1-2"
             },
             {
-              "away": "Wolverhampton",
-              "date": "2015-01-11T14:00:00+00:00",
-              "home": "Blackburn Rovers",
-              "score": "0-1"
-            },
-            {
               "away": "Blackburn Rovers",
-              "date": "2014-08-30T14:00:00+00:00",
+              "date": "2011-05-22T15:00:00+00:00",
               "home": "Wolverhampton",
-              "score": "3-1"
+              "score": "2-3"
+            },
+            {
+              "away": "Wolverhampton",
+              "date": "2010-12-04T15:00:00+00:00",
+              "home": "Blackburn Rovers",
+              "score": "3-0"
             },
             {
               "away": "Blackburn Rovers",
-              "date": "2013-01-11T19:45:00+00:00",
+              "date": "2010-04-24T14:00:00+00:00",
               "home": "Wolverhampton",
               "score": "1-1"
             },
             {
               "away": "Wolverhampton",
-              "date": "2012-10-06T14:00:00+00:00",
+              "date": "2009-09-12T14:00:00+00:00",
               "home": "Blackburn Rovers",
-              "score": "0-1"
+              "score": "3-1"
+            },
+            {
+              "away": "Blackburn Rovers",
+              "date": "2004-01-07T19:45:00+00:00",
+              "home": "Wolverhampton",
+              "score": "2-2"
+            },
+            {
+              "away": "Wolverhampton",
+              "date": "2003-08-16T14:00:00+00:00",
+              "home": "Blackburn Rovers",
+              "score": "5-1"
             }
           ]
         },
@@ -24830,7 +25046,7 @@
         "expected_away_goals": 0.776,
         "prob_over_15": 82.2,
         "prob_over_25": 63.4,
-        "prob_over_35": 40.8,
+        "prob_over_35": 40.9,
         "prob_btts_yes": 48.3,
         "confidence": 0.7611,
         "model_version": "dc-blend-v1",
@@ -24988,7 +25204,7 @@
         },
         "live_websocket": false,
         "home_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "DWWWD",
           "wins": 3,
@@ -25019,7 +25235,7 @@
           "avg_team_rating": 7.035202380952382
         },
         "away_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "LLLLW",
           "wins": 1,
@@ -25783,21 +25999,39 @@
           "avg_team_rating": 6.771691176470589
         },
         "head_to_head": {
-          "total_matches": 1,
-          "home_wins": 1,
+          "total_matches": 4,
+          "home_wins": 3,
           "draws": 0,
-          "away_wins": 0,
-          "home_goals": 2,
-          "away_goals": 1,
-          "avg_total_goals": 3,
-          "home_win_rate": 1,
-          "away_win_rate": 0,
+          "away_wins": 1,
+          "home_goals": 8,
+          "away_goals": 2,
+          "avg_total_goals": 2.5,
+          "home_win_rate": 0.75,
+          "away_win_rate": 0.25,
           "recent_matches": [
             {
+              "away": "Fiorentina",
+              "date": "2021-03-13T17:00:00+00:00",
+              "home": "Benevento",
+              "score": "1-4"
+            },
+            {
               "away": "Benevento",
-              "date": "2021-12-15T20:00:00+00:00",
+              "date": "2020-11-22T11:30:00+00:00",
               "home": "Fiorentina",
-              "score": "2-1"
+              "score": "0-1"
+            },
+            {
+              "away": "Benevento",
+              "date": "2018-03-11T11:30:00+00:00",
+              "home": "Fiorentina",
+              "score": "1-0"
+            },
+            {
+              "away": "Fiorentina",
+              "date": "2017-10-22T13:00:00+00:00",
+              "home": "Benevento",
+              "score": "0-3"
             }
           ]
         },
@@ -26096,7 +26330,7 @@
         "prob_draw": 30.5,
         "prob_away_win": 31.9,
         "predicted_result": "H",
-        "expected_home_goals": 1.387,
+        "expected_home_goals": 1.386,
         "expected_away_goals": 0.858,
         "prob_over_15": 66,
         "prob_over_25": 41.1,
@@ -26262,7 +26496,7 @@
         },
         "live_websocket": true,
         "home_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "LDLDD",
           "wins": 0,
@@ -26293,7 +26527,7 @@
           "avg_team_rating": 0
         },
         "away_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "DDDWW",
           "wins": 2,
@@ -29708,7 +29942,7 @@
         },
         "live_websocket": true,
         "home_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "LLDWL",
           "wins": 1,
@@ -29739,7 +29973,7 @@
           "avg_team_rating": 6.700117647058823
         },
         "away_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "LDWLW",
           "wins": 2,
@@ -30406,7 +30640,7 @@
         },
         "live_websocket": true,
         "home_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "WWWDW",
           "wins": 4,
@@ -30437,7 +30671,7 @@
           "avg_team_rating": 7.034641025641025
         },
         "away_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
           "form_string": "DDWLD",
           "wins": 1,
@@ -31189,11 +31423,11 @@
       }
     },
     {
-      "event_id": 216409,
+      "event_id": 216408,
       "prediction": {
-        "id": 847,
+        "id": 849,
         "event": {
-          "id": 216409,
+          "id": 216408,
           "league": {
             "id": 72,
             "name": "NWSL",
@@ -31212,27 +31446,27 @@
             "name": "National Womens Soccer League 2026",
             "year": 2026
           },
-          "home_team": "Utah Royals FC",
-          "away_team": "Bay FC",
+          "home_team": "Seattle Reign FC",
+          "away_team": "Chicago Stars FC",
           "home_team_obj": {
-            "id": 3931,
-            "name": "Utah Royals FC",
-            "short_name": "Utah",
+            "id": 3939,
+            "name": "Seattle Reign FC",
+            "short_name": "Reign",
             "country": "USA",
             "coach": {
-              "name": "Jimmy Coenraets",
-              "shortName": "J. Coenraets"
+              "name": "Laura Harvey",
+              "shortName": "L. Harvey"
             },
             "venue": null
           },
           "away_team_obj": {
-            "id": 3932,
-            "name": "Bay FC",
-            "short_name": "",
+            "id": 3941,
+            "name": "Chicago Stars FC",
+            "short_name": "Chicago",
             "country": "USA",
             "coach": {
-              "name": "Emma Coates",
-              "shortName": "E. Coates"
+              "name": "Martin Sjøgren",
+              "shortName": "M. Sjøgren"
             },
             "venue": null
           },
@@ -31247,17 +31481,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.71,
-          "odds_draw": 3.82,
-          "odds_away": 3.92,
-          "odds_over_15": 1.18,
-          "odds_over_25": 1.62,
-          "odds_over_35": 2.52,
-          "odds_under_15": 4.14,
-          "odds_under_25": 2.15,
-          "odds_under_35": 1.45,
-          "odds_btts_yes": 1.61,
-          "odds_btts_no": 2.13,
+          "odds_home": 1.38,
+          "odds_draw": 4.54,
+          "odds_away": 5.97,
+          "odds_over_15": 1.15,
+          "odds_over_25": 1.53,
+          "odds_over_35": 2.31,
+          "odds_under_15": 4.7,
+          "odds_under_25": 2.33,
+          "odds_under_35": 1.55,
+          "odds_btts_yes": 1.73,
+          "odds_btts_no": 1.96,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -31266,53 +31500,53 @@
           "extra_time_score": null,
           "is_local_derby": false,
           "is_neutral_ground": null,
-          "travel_distance_km": null,
-          "weather_code": 3,
-          "wind_speed": 12.1,
-          "temperature_c": 26,
+          "travel_distance_km": 2787,
+          "weather_code": 0,
+          "wind_speed": 11.6,
+          "temperature_c": 21,
           "pitch_condition": null,
           "attendance": null,
           "referee": null,
           "home_coach": {
-            "id": 2054,
-            "name": "Jimmy Coenraets",
-            "short_name": "J. Coenraets",
-            "country": "Belgium",
-            "profile": "balanced",
-            "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.9613068074015723,
-            "defensive_line": "high",
-            "top_styles": [
-              "gegenpressing",
-              "high_press"
-            ]
-          },
-          "away_coach": {
-            "id": 2055,
-            "name": "Emma Coates",
-            "short_name": "E. Coates",
+            "id": 2062,
+            "name": "Laura Harvey",
+            "short_name": "L. Harvey",
             "country": "England",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.7378739825923609,
+            "pressing_intensity": 0.6982188289476597,
             "defensive_line": "mid",
             "top_styles": [
               "gegenpressing",
               "high_press"
             ]
           },
+          "away_coach": {
+            "id": 2064,
+            "name": "Martin Sjøgren",
+            "short_name": "M. Sjøgren",
+            "country": "Sweden",
+            "profile": "defensive",
+            "preferred_formation": "4-1-4-1",
+            "pressing_intensity": 0.6679931580329184,
+            "defensive_line": "low",
+            "top_styles": [
+              "park_the_bus",
+              "low_block"
+            ]
+          },
           "unavailable_players": null,
           "venue": {
-            "id": 267,
-            "name": "America First Field",
-            "city": "Sandy",
+            "id": 290,
+            "name": "Lumen Field",
+            "city": "Seattle",
             "country": "USA",
-            "capacity": 20213,
-            "latitude": 40.582905,
-            "longitude": -111.893349,
-            "pitch_x": 110,
-            "pitch_y": 69,
-            "built_year": 2008
+            "capacity": 68740,
+            "latitude": 47.595165,
+            "longitude": -122.33165,
+            "pitch_x": 106,
+            "pitch_y": 68,
+            "built_year": 2002
           },
           "incidents": null,
           "live_stats": null,
@@ -31324,72 +31558,77 @@
           "jerseys": {
             "away": {
               "GK": {
-                "base": "e7341e",
+                "base": "45d229",
                 "real": true,
                 "type": "long_sleeves",
-                "number": "050505",
-                "sleeve": "ee0e06"
+                "number": "000000",
+                "sleeve": "104d19"
               },
               "player": {
-                "base": "ffffff",
+                "base": "3a7be4",
                 "real": true,
                 "type": "short_sleeves",
-                "number": "23293e",
-                "sleeve": "e56e5c"
+                "number": "0b2346",
+                "sleeve": "051338",
+                "stripes": "fdfcfc",
+                "sleevelong": "3a7be4"
               }
             },
             "home": {
               "GK": {
-                "base": "f5bcb3",
+                "base": "3fd022",
                 "real": true,
                 "type": "long_sleeves",
-                "number": "050505",
-                "sleeve": "d23332"
+                "number": "030303",
+                "sleeve": "196a26"
               },
               "player": {
-                "base": "17107f",
+                "base": "171a5e",
                 "real": true,
                 "type": "short_sleeves",
                 "number": "ffffff",
                 "sleeve": "ffffff",
-                "sleevelong": "0d107f"
+                "sleevelong": "000000"
               }
             }
           },
           "funfacts": [
             {
               "type_id": 1,
-              "sentence": "Bay haven't won in their last 4 games."
+              "sentence": "Chicago haven't won in their last 5 games."
             },
             {
               "type_id": 24,
-              "sentence": "Utah's home record this season: 6-0-3."
+              "sentence": "Chicago's away record this season: 1-0-8."
             },
             {
               "type_id": 25,
-              "sentence": "Cloe Lacasse is Utah's top scorer with 6 goals. Karlie Lema has scored 4 times for Bay."
+              "sentence": "Maddie Mercado is Seattle's top scorer with 5 goals. Jordyn Huitema has scored 4 times for Chicago."
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Seattle rolls into round 1 as the clear favorite**, fresh off a 3W-1D-1L streak while Chicago limps in on the back of four losses in five. This is a mismatch waiting to happen. ⚽\n\nSeattle's clicking right now with wins over Bay and San Diego, while Chicago's still searching for its first W after a brutal stretch. The home crowd at Lumen Field won't hurt either.\n\nKey storylines:\n\n- **C. Dickey** and the Reign backline face a Chicago offense that's been misfiring all season — expect a controlled performance\n- **S. Huerta** and the Reign midfield should dominate possession against **B. Pinto** and a Stars side that's struggled to create\n- **M. Mercado** leading the line for Seattle with **J. Huitema** trying to salvage something for Chicago\n\nExpected lineups:\n\n- **Seattle Reign FC**: C. Dickey, M. Curry, P. McClernon, E. Mason, R. Brown, S. Meza, S. M. Menti, M. Fishel, A. McCammon, S. Huerta, M. Mercado\n- **Chicago Stars FC**: K. Lund, T. Wood, A. Farmer, E. Evans, S. Staab, B. Pinto, M. López, J. Grosso, T. Dellarose, J. Bike, J. Huitema\n\nPrediction:\n\n**Seattle 2-0 Chicago** — the Reign have the edge in form, fitness, and home advantage. Chicago needs a miracle. 🏟️",
+            "generated_at": "2026-08-14T02:41:31.823655+00:00"
+          },
           "live_websocket": true
         },
-        "created_at": "2026-08-08T02:15:20.930164+00:00",
-        "prob_home_win": 53.1,
-        "prob_draw": 23.8,
-        "prob_away_win": 23.2,
+        "created_at": "2026-08-08T02:15:20.957530+00:00",
+        "prob_home_win": 65.1,
+        "prob_draw": 19.8,
+        "prob_away_win": 15.1,
         "predicted_result": "H",
-        "expected_home_goals": 1.766,
-        "expected_away_goals": 0.999,
-        "prob_over_15": 77.6,
-        "prob_over_25": 56.5,
-        "prob_over_35": 34.9,
-        "prob_btts_yes": 57,
-        "confidence": 0.5308,
+        "expected_home_goals": 1.94,
+        "expected_away_goals": 0.882,
+        "prob_over_15": 79.9,
+        "prob_over_25": 59.6,
+        "prob_over_35": 38,
+        "prob_btts_yes": 53.1,
+        "confidence": 0.6514,
         "model_version": "dc-blend-v1",
-        "most_likely_score": "1-1",
+        "most_likely_score": "1-0",
         "favorite": "H",
-        "favorite_prob": 53.1,
+        "favorite_prob": 65.1,
         "favorite_recommend": false,
         "over_15_recommend": false,
         "over_25_recommend": false,
@@ -31398,7 +31637,7 @@
         "winner_recommend": false
       },
       "event_detail": {
-        "id": 216409,
+        "id": 216408,
         "league": {
           "id": 72,
           "name": "NWSL",
@@ -31417,27 +31656,27 @@
           "name": "National Womens Soccer League 2026",
           "year": 2026
         },
-        "home_team": "Utah Royals FC",
-        "away_team": "Bay FC",
+        "home_team": "Seattle Reign FC",
+        "away_team": "Chicago Stars FC",
         "home_team_obj": {
-          "id": 3931,
-          "name": "Utah Royals FC",
-          "short_name": "Utah",
+          "id": 3939,
+          "name": "Seattle Reign FC",
+          "short_name": "Reign",
           "country": "USA",
           "coach": {
-            "name": "Jimmy Coenraets",
-            "shortName": "J. Coenraets"
+            "name": "Laura Harvey",
+            "shortName": "L. Harvey"
           },
           "venue": null
         },
         "away_team_obj": {
-          "id": 3932,
-          "name": "Bay FC",
-          "short_name": "",
+          "id": 3941,
+          "name": "Chicago Stars FC",
+          "short_name": "Chicago",
           "country": "USA",
           "coach": {
-            "name": "Emma Coates",
-            "shortName": "E. Coates"
+            "name": "Martin Sjøgren",
+            "shortName": "M. Sjøgren"
           },
           "venue": null
         },
@@ -31452,17 +31691,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.71,
-        "odds_draw": 3.82,
-        "odds_away": 3.92,
-        "odds_over_15": 1.18,
-        "odds_over_25": 1.62,
-        "odds_over_35": 2.52,
-        "odds_under_15": 4.14,
-        "odds_under_25": 2.15,
-        "odds_under_35": 1.45,
-        "odds_btts_yes": 1.61,
-        "odds_btts_no": 2.13,
+        "odds_home": 1.38,
+        "odds_draw": 4.54,
+        "odds_away": 5.97,
+        "odds_over_15": 1.15,
+        "odds_over_25": 1.53,
+        "odds_over_35": 2.31,
+        "odds_under_15": 4.7,
+        "odds_under_25": 2.33,
+        "odds_under_35": 1.55,
+        "odds_btts_yes": 1.73,
+        "odds_btts_no": 1.96,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -31471,209 +31710,244 @@
         "extra_time_score": null,
         "is_local_derby": false,
         "is_neutral_ground": null,
-        "travel_distance_km": null,
-        "weather_code": 3,
-        "wind_speed": 12.1,
-        "temperature_c": 26,
+        "travel_distance_km": 2787,
+        "weather_code": 0,
+        "wind_speed": 11.6,
+        "temperature_c": 21,
         "pitch_condition": null,
         "attendance": null,
         "referee": null,
         "home_coach": {
-          "id": 2054,
-          "name": "Jimmy Coenraets",
-          "short_name": "J. Coenraets",
-          "country": "Belgium",
-          "profile": "balanced",
-          "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.9613068074015723,
-          "defensive_line": "high",
-          "top_styles": [
-            "gegenpressing",
-            "high_press"
-          ]
-        },
-        "away_coach": {
-          "id": 2055,
-          "name": "Emma Coates",
-          "short_name": "E. Coates",
+          "id": 2062,
+          "name": "Laura Harvey",
+          "short_name": "L. Harvey",
           "country": "England",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.7378739825923609,
+          "pressing_intensity": 0.6982188289476597,
           "defensive_line": "mid",
           "top_styles": [
             "gegenpressing",
             "high_press"
           ]
         },
+        "away_coach": {
+          "id": 2064,
+          "name": "Martin Sjøgren",
+          "short_name": "M. Sjøgren",
+          "country": "Sweden",
+          "profile": "defensive",
+          "preferred_formation": "4-1-4-1",
+          "pressing_intensity": 0.6679931580329184,
+          "defensive_line": "low",
+          "top_styles": [
+            "park_the_bus",
+            "low_block"
+          ]
+        },
         "unavailable_players": null,
         "venue": {
-          "id": 267,
-          "name": "America First Field",
-          "city": "Sandy",
+          "id": 290,
+          "name": "Lumen Field",
+          "city": "Seattle",
           "country": "USA",
-          "capacity": 20213,
-          "latitude": 40.582905,
-          "longitude": -111.893349,
-          "pitch_x": 110,
-          "pitch_y": 69,
-          "built_year": 2008
+          "capacity": 68740,
+          "latitude": 47.595165,
+          "longitude": -122.33165,
+          "pitch_x": 106,
+          "pitch_y": 68,
+          "built_year": 2002
         },
         "live_stats": null,
         "jerseys": {
           "away": {
             "GK": {
-              "base": "e7341e",
+              "base": "45d229",
               "real": true,
               "type": "long_sleeves",
-              "number": "050505",
-              "sleeve": "ee0e06"
+              "number": "000000",
+              "sleeve": "104d19"
             },
             "player": {
-              "base": "ffffff",
+              "base": "3a7be4",
               "real": true,
               "type": "short_sleeves",
-              "number": "23293e",
-              "sleeve": "e56e5c"
+              "number": "0b2346",
+              "sleeve": "051338",
+              "stripes": "fdfcfc",
+              "sleevelong": "3a7be4"
             }
           },
           "home": {
             "GK": {
-              "base": "f5bcb3",
+              "base": "3fd022",
               "real": true,
               "type": "long_sleeves",
-              "number": "050505",
-              "sleeve": "d23332"
+              "number": "030303",
+              "sleeve": "196a26"
             },
             "player": {
-              "base": "17107f",
+              "base": "171a5e",
               "real": true,
               "type": "short_sleeves",
               "number": "ffffff",
               "sleeve": "ffffff",
-              "sleevelong": "0d107f"
+              "sleevelong": "000000"
             }
           }
         },
         "funfacts": [
           {
             "type_id": 1,
-            "sentence": "Bay haven't won in their last 4 games."
+            "sentence": "Chicago haven't won in their last 5 games."
           },
           {
             "type_id": 24,
-            "sentence": "Utah's home record this season: 6-0-3."
+            "sentence": "Chicago's away record this season: 1-0-8."
           },
           {
             "type_id": 25,
-            "sentence": "Cloe Lacasse is Utah's top scorer with 6 goals. Karlie Lema has scored 4 times for Bay."
+            "sentence": "Maddie Mercado is Seattle's top scorer with 5 goals. Jordyn Huitema has scored 4 times for Chicago."
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Seattle rolls into round 1 as the clear favorite**, fresh off a 3W-1D-1L streak while Chicago limps in on the back of four losses in five. This is a mismatch waiting to happen. ⚽\n\nSeattle's clicking right now with wins over Bay and San Diego, while Chicago's still searching for its first W after a brutal stretch. The home crowd at Lumen Field won't hurt either.\n\nKey storylines:\n\n- **C. Dickey** and the Reign backline face a Chicago offense that's been misfiring all season — expect a controlled performance\n- **S. Huerta** and the Reign midfield should dominate possession against **B. Pinto** and a Stars side that's struggled to create\n- **M. Mercado** leading the line for Seattle with **J. Huitema** trying to salvage something for Chicago\n\nExpected lineups:\n\n- **Seattle Reign FC**: C. Dickey, M. Curry, P. McClernon, E. Mason, R. Brown, S. Meza, S. M. Menti, M. Fishel, A. McCammon, S. Huerta, M. Mercado\n- **Chicago Stars FC**: K. Lund, T. Wood, A. Farmer, E. Evans, S. Staab, B. Pinto, M. López, J. Grosso, T. Dellarose, J. Bike, J. Huitema\n\nPrediction:\n\n**Seattle 2-0 Chicago** — the Reign have the edge in form, fitness, and home advantage. Chicago needs a miracle. 🏟️",
+          "generated_at": "2026-08-14T02:41:31.823655+00:00"
+        },
         "live_websocket": true,
         "home_form": {
-          "calculated_at": "2026-08-13",
+          "calculated_at": "2026-08-14",
           "matches_played": 5,
-          "form_string": "LWLWW",
+          "form_string": "DWWLW",
           "wins": 3,
-          "draws": 0,
-          "losses": 2,
-          "points_last_n": 9,
-          "goals_scored_last_n": 11,
-          "goals_conceded_last_n": 5,
-          "avg_xg": 2.2,
-          "avg_xg_conceded": 1,
-          "avg_shots": 14.6,
-          "avg_shots_on_target": 4.4,
-          "avg_key_passes": 11,
-          "goal_conversion_rate": 0,
-          "defensive_efficiency": 0,
-          "clean_sheets": 1,
-          "avg_pass_accuracy": 74.5168382041788,
-          "duel_win_rate": 0.4855769230769231,
-          "aerial_win_rate": 0.4942528735632184,
-          "avg_fouls": 13.6,
-          "avg_yellow_cards": 1,
-          "home_ppg": 1.8,
-          "away_ppg": 1,
-          "home_goals_scored": 9,
-          "home_goals_conceded": 6,
-          "away_goals_scored": 9,
-          "away_goals_conceded": 8,
-          "avg_team_rating": 6.890083333333334
-        },
-        "away_form": {
-          "calculated_at": "2026-08-13",
-          "matches_played": 5,
-          "form_string": "DLLLW",
-          "wins": 1,
           "draws": 1,
-          "losses": 3,
-          "points_last_n": 4,
-          "goals_scored_last_n": 5,
-          "goals_conceded_last_n": 5,
-          "avg_xg": 1,
-          "avg_xg_conceded": 1,
-          "avg_shots": 13.2,
-          "avg_shots_on_target": 4.8,
-          "avg_key_passes": 8.6,
+          "losses": 1,
+          "points_last_n": 10,
+          "goals_scored_last_n": 11,
+          "goals_conceded_last_n": 7,
+          "avg_xg": 2.2,
+          "avg_xg_conceded": 1.4,
+          "avg_shots": 12.2,
+          "avg_shots_on_target": 5.4,
+          "avg_key_passes": 8,
           "goal_conversion_rate": 0,
           "defensive_efficiency": 0,
           "clean_sheets": 2,
-          "avg_pass_accuracy": 77.50751985534593,
-          "duel_win_rate": 0.49875311720698257,
-          "aerial_win_rate": 0.45569620253164556,
-          "avg_fouls": 10.2,
-          "avg_yellow_cards": 1.2,
+          "avg_pass_accuracy": 72.58796626335666,
+          "duel_win_rate": 0.5170842824601367,
+          "aerial_win_rate": 0.53,
+          "avg_fouls": 10.8,
+          "avg_yellow_cards": 1.6,
           "home_ppg": 0.8,
-          "away_ppg": 1,
-          "home_goals_scored": 6,
-          "home_goals_conceded": 6,
-          "away_goals_scored": 5,
-          "away_goals_conceded": 6,
-          "avg_team_rating": 6.822047619047619
+          "away_ppg": 1.2,
+          "home_goals_scored": 4,
+          "home_goals_conceded": 8,
+          "away_goals_scored": 9,
+          "away_goals_conceded": 10,
+          "avg_team_rating": 6.954000000000001
+        },
+        "away_form": {
+          "calculated_at": "2026-08-14",
+          "matches_played": 5,
+          "form_string": "DLLLL",
+          "wins": 0,
+          "draws": 1,
+          "losses": 4,
+          "points_last_n": 1,
+          "goals_scored_last_n": 1,
+          "goals_conceded_last_n": 7,
+          "avg_xg": 0.2,
+          "avg_xg_conceded": 1.4,
+          "avg_shots": 9.2,
+          "avg_shots_on_target": 2.6,
+          "avg_key_passes": 7,
+          "goal_conversion_rate": 0,
+          "defensive_efficiency": 0,
+          "clean_sheets": 1,
+          "avg_pass_accuracy": 76.12497138862575,
+          "duel_win_rate": 0.48267898383371827,
+          "aerial_win_rate": 0.4482758620689655,
+          "avg_fouls": 10.2,
+          "avg_yellow_cards": 0.8,
+          "home_ppg": 0.8,
+          "away_ppg": 0.6,
+          "home_goals_scored": 3,
+          "home_goals_conceded": 8,
+          "away_goals_scored": 2,
+          "away_goals_conceded": 9,
+          "avg_team_rating": 6.664464285714286
         },
         "head_to_head": {
-          "total_matches": 5,
+          "total_matches": 27,
           "home_wins": 3,
-          "draws": 2,
-          "away_wins": 0,
-          "home_goals": 6,
-          "away_goals": 2,
-          "avg_total_goals": 1.6,
-          "home_win_rate": 0.6,
-          "away_win_rate": 0,
+          "draws": 3,
+          "away_wins": 4,
+          "home_goals": 21,
+          "away_goals": 19,
+          "avg_total_goals": 1.4814814814814814,
+          "home_win_rate": 0.1111111111111111,
+          "away_win_rate": 0.14814814814814814,
           "recent_matches": [
             {
-              "away": "Utah Royals FC",
-              "date": "2026-05-10T20:00:00+00:00",
-              "home": "Bay FC",
-              "score": "0-0"
+              "away": "Chicago Stars FC",
+              "date": "2025-08-19T02:00:00+00:00",
+              "home": "Seattle Reign FC",
+              "score": "3-3"
             },
             {
-              "away": "Utah Royals FC",
-              "date": "2025-09-28T02:00:00+00:00",
-              "home": "Bay FC",
-              "score": "0-2"
+              "away": "Seattle Reign FC",
+              "date": "2025-06-14T21:00:00+00:00",
+              "home": "Chicago Stars FC",
+              "score": "2-2"
             },
             {
-              "away": "Bay FC",
-              "date": "2025-03-15T23:30:00+00:00",
-              "home": "Utah Royals FC",
-              "score": "1-1"
+              "away": "Chicago Stars FC",
+              "date": "2024-04-21T22:00:00+00:00",
+              "home": "Seattle Reign FC",
+              "score": "1-2"
             },
             {
-              "away": "Bay FC",
-              "date": "2024-08-24T01:30:00+00:00",
-              "home": "Utah Royals FC",
+              "away": "Seattle Reign FC",
+              "date": "2024-03-23T20:00:00+00:00",
+              "home": "Chicago Stars FC",
               "score": "2-1"
             },
             {
-              "away": "Utah Royals FC",
-              "date": "2024-06-17T02:00:00+00:00",
-              "home": "Bay FC",
-              "score": "0-1"
+              "away": "Seattle Reign FC",
+              "date": "2023-10-15T21:00:00+00:00",
+              "home": "Chicago Stars FC",
+              "score": "0-3"
+            },
+            {
+              "away": "Chicago Stars FC",
+              "date": "2023-04-22T19:30:00+00:00",
+              "home": "Seattle Reign FC",
+              "score": "5-2"
+            },
+            {
+              "away": "Chicago Stars FC",
+              "date": "2022-09-10T02:00:00+00:00",
+              "home": "Seattle Reign FC",
+              "score": "2-2"
+            },
+            {
+              "away": "Seattle Reign FC",
+              "date": "2022-06-04T19:00:00+00:00",
+              "home": "Chicago Stars FC",
+              "score": "1-0"
+            },
+            {
+              "away": "Chicago Stars FC",
+              "date": "2021-10-10T23:00:00+00:00",
+              "home": "Seattle Reign FC",
+              "score": "3-2"
+            },
+            {
+              "away": "Seattle Reign FC",
+              "date": "2021-07-18T22:00:00+00:00",
+              "home": "Chicago Stars FC",
+              "score": "3-1"
             }
           ]
         },
@@ -31682,103 +31956,22 @@
       },
       "managers": {
         "home": {
-          "id": 2054,
-          "name": "Jimmy Coenraets",
-          "short_name": "J. Coenraets",
-          "country": "Belgium",
-          "current_team": {
-            "id": 3931,
-            "name": "Utah Royals FC"
-          },
-          "preferred_formation": "4-2-3-1",
-          "formations_used": {
-            "4-3-3": 4,
-            "4-2-3-1": 15
-          },
-          "profile": "balanced",
-          "team_style": "neutral",
-          "pressing_intensity": 0.9613068074015723,
-          "defensive_line": "high",
-          "tactical_styles": [
-            {
-              "rank": 1,
-              "code": "gegenpressing",
-              "name": "Gegenpressing",
-              "category": "pressing",
-              "emoji": "💨",
-              "description": "Immediate press after losing the ball",
-              "score": 0.328
-            },
-            {
-              "rank": 2,
-              "code": "high_press",
-              "name": "High Press",
-              "category": "pressing",
-              "emoji": "🔥",
-              "description": "Press defenders and keeper aggressively high up",
-              "score": 0.235
-            },
-            {
-              "rank": 3,
-              "code": "man_press",
-              "name": "Man-Oriented Press",
-              "category": "pressing",
-              "emoji": "🎯",
-              "description": "Players follow their direct opponents everywhere",
-              "score": 0.074
-            },
-            {
-              "rank": 4,
-              "code": "set_piece",
-              "name": "Set-Piece Reliant",
-              "category": "defensive",
-              "emoji": "🎯",
-              "description": "Goals mainly from corners and free kicks",
-              "score": 0.036
-            }
-          ],
-          "matches_total": 19,
-          "wins": 10,
-          "draws": 3,
-          "losses": 6,
-          "win_pct": 52.6,
-          "avg_goals_scored": 1.68,
-          "avg_goals_conceded": 1.11,
-          "avg_possession": 52.21,
-          "avg_shots": 13.89,
-          "avg_shots_on_target": 4.74,
-          "avg_xg_for": 1.78,
-          "avg_xg_against": 1.38,
-          "avg_corners": 5.74,
-          "avg_yellow_cards": 1.63,
-          "avg_red_cards": 0,
-          "avg_fouls": 12.26,
-          "clean_sheet_pct": 31.6,
-          "btts_pct": 63.2,
-          "over_25_pct": 63.2,
-          "over_15_pct": 73.7,
-          "fail_to_score_pct": 10.5,
-          "avg_goals_scored_1h": 0.84,
-          "avg_goals_conceded_1h": 0.47
-        },
-        "away": {
-          "id": 2055,
-          "name": "Emma Coates",
-          "short_name": "E. Coates",
+          "id": 2062,
+          "name": "Laura Harvey",
+          "short_name": "L. Harvey",
           "country": "England",
           "current_team": {
-            "id": 3932,
-            "name": "Bay FC"
+            "id": 3939,
+            "name": "Seattle Reign FC"
           },
           "preferred_formation": "4-2-3-1",
           "formations_used": {
-            "4-3-3": 1,
-            "4-2-3-1": 14,
-            "4-4-1-1": 3
+            "4-1-4-1": 1,
+            "4-2-3-1": 16
           },
           "profile": "balanced",
           "team_style": "neutral",
-          "pressing_intensity": 0.7378739825923609,
+          "pressing_intensity": 0.6982188289476597,
           "defensive_line": "mid",
           "tactical_styles": [
             {
@@ -31788,7 +31981,7 @@
               "category": "pressing",
               "emoji": "💨",
               "description": "Immediate press after losing the ball",
-              "score": 0.128
+              "score": 0.086
             },
             {
               "rank": 2,
@@ -31797,50 +31990,132 @@
               "category": "pressing",
               "emoji": "🔥",
               "description": "Press defenders and keeper aggressively high up",
-              "score": 0.104
+              "score": 0.068
             },
             {
               "rank": 3,
-              "code": "total_football",
-              "name": "Total Football",
-              "category": "possession",
-              "emoji": "🌀",
-              "description": "Fluid rotations, every player attacks and defends",
-              "score": 0.045
+              "code": "park_the_bus",
+              "name": "Park the Bus",
+              "category": "defensive",
+              "emoji": "🚌",
+              "description": "Ultra-deep defense, minimal attacking intent",
+              "score": 0.058
             },
             {
               "rank": 4,
-              "code": "man_press",
-              "name": "Man-Oriented Press",
-              "category": "pressing",
-              "emoji": "🎯",
-              "description": "Players follow their direct opponents everywhere",
-              "score": 0.045
+              "code": "low_block",
+              "name": "Low Block",
+              "category": "defensive",
+              "emoji": "🛡",
+              "description": "Compact defensive shape near own box",
+              "score": 0.049
+            }
+          ],
+          "matches_total": 17,
+          "wins": 7,
+          "draws": 3,
+          "losses": 7,
+          "win_pct": 41.2,
+          "avg_goals_scored": 1.29,
+          "avg_goals_conceded": 1.35,
+          "avg_possession": 48.47,
+          "avg_shots": 12,
+          "avg_shots_on_target": 4.24,
+          "avg_xg_for": 1.22,
+          "avg_xg_against": 1.5,
+          "avg_corners": 3.94,
+          "avg_yellow_cards": 1.59,
+          "avg_red_cards": 0,
+          "avg_fouls": 10.76,
+          "clean_sheet_pct": 29.4,
+          "btts_pct": 47.1,
+          "over_25_pct": 58.8,
+          "over_15_pct": 82.4,
+          "fail_to_score_pct": 35.3,
+          "avg_goals_scored_1h": 1,
+          "avg_goals_conceded_1h": 0.59
+        },
+        "away": {
+          "id": 2064,
+          "name": "Martin Sjøgren",
+          "short_name": "M. Sjøgren",
+          "country": "Sweden",
+          "current_team": {
+            "id": 3941,
+            "name": "Chicago Stars FC"
+          },
+          "preferred_formation": "4-1-4-1",
+          "formations_used": {
+            "3-5-2": 1,
+            "4-3-3": 2,
+            "4-1-4-1": 7,
+            "4-2-3-1": 8
+          },
+          "profile": "defensive",
+          "team_style": "soft",
+          "pressing_intensity": 0.6679931580329184,
+          "defensive_line": "low",
+          "tactical_styles": [
+            {
+              "rank": 1,
+              "code": "park_the_bus",
+              "name": "Park the Bus",
+              "category": "defensive",
+              "emoji": "🚌",
+              "description": "Ultra-deep defense, minimal attacking intent",
+              "score": 0.247
+            },
+            {
+              "rank": 2,
+              "code": "low_block",
+              "name": "Low Block",
+              "category": "defensive",
+              "emoji": "🛡",
+              "description": "Compact defensive shape near own box",
+              "score": 0.076
+            },
+            {
+              "rank": 3,
+              "code": "low_counter",
+              "name": "Low Block Counter",
+              "category": "counter",
+              "emoji": "🏹",
+              "description": "Deep defense with rapid forward outlets",
+              "score": 0.053
+            },
+            {
+              "rank": 4,
+              "code": "terrorist_fb",
+              "name": "Terrorist Football",
+              "category": "fan",
+              "emoji": "💣",
+              "description": "Ultra-negative setup — destroy the game",
+              "score": 0.051
             }
           ],
           "matches_total": 18,
-          "wins": 5,
-          "draws": 4,
-          "losses": 9,
-          "win_pct": 27.8,
-          "avg_goals_scored": 1,
-          "avg_goals_conceded": 1.33,
-          "avg_possession": 50.06,
-          "avg_shots": 12.56,
-          "avg_shots_on_target": 4.44,
-          "avg_xg_for": 1.3,
-          "avg_xg_against": 1.88,
-          "avg_corners": 4.5,
-          "avg_yellow_cards": 1.61,
-          "avg_red_cards": 0.11,
-          "avg_fouls": 10.33,
-          "clean_sheet_pct": 27.8,
-          "btts_pct": 38.9,
-          "over_25_pct": 44.4,
-          "over_15_pct": 66.7,
-          "fail_to_score_pct": 44.4,
-          "avg_goals_scored_1h": 0.72,
-          "avg_goals_conceded_1h": 0.67
+          "wins": 4,
+          "draws": 1,
+          "losses": 13,
+          "win_pct": 22.2,
+          "avg_goals_scored": 0.5,
+          "avg_goals_conceded": 1.83,
+          "avg_possession": 47.56,
+          "avg_shots": 8.83,
+          "avg_shots_on_target": 2.89,
+          "avg_xg_for": 0.82,
+          "avg_xg_against": 2.21,
+          "avg_corners": 3.22,
+          "avg_yellow_cards": 0.94,
+          "avg_red_cards": 0,
+          "avg_fouls": 10.56,
+          "clean_sheet_pct": 16.7,
+          "btts_pct": 16.7,
+          "over_25_pct": 38.9,
+          "over_15_pct": 77.8,
+          "fail_to_score_pct": 72.2,
+          "avg_goals_scored_1h": 0.17,
+          "avg_goals_conceded_1h": 0.61
         }
       }
     }
