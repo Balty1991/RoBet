@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T02:34:50.392Z",
+  "generated_at": "2026-08-15T03:41:19.669Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -84,10 +84,10 @@
           "odds_over_15": 1.32,
           "odds_over_25": 2.03,
           "odds_over_35": 3.54,
-          "odds_under_15": 3.13,
+          "odds_under_15": 3.14,
           "odds_under_25": 1.73,
           "odds_under_35": 1.26,
-          "odds_btts_yes": 1.78,
+          "odds_btts_yes": 1.77,
           "odds_btts_no": 1.94,
           "actual_home_xg": null,
           "actual_away_xg": null,
@@ -291,10 +291,10 @@
         "odds_over_15": 1.32,
         "odds_over_25": 2.03,
         "odds_over_35": 3.54,
-        "odds_under_15": 3.13,
+        "odds_under_15": 3.14,
         "odds_under_25": 1.73,
         "odds_under_35": 1.26,
-        "odds_btts_yes": 1.78,
+        "odds_btts_yes": 1.77,
         "odds_btts_no": 1.94,
         "actual_home_xg": null,
         "actual_away_xg": null,
@@ -2710,7 +2710,7 @@
           "odds_over_15": 1.35,
           "odds_over_25": 2.12,
           "odds_over_35": 3.76,
-          "odds_under_15": 2.97,
+          "odds_under_15": 2.96,
           "odds_under_25": 1.67,
           "odds_under_35": 1.23,
           "odds_btts_yes": 1.85,
@@ -2917,7 +2917,7 @@
         "odds_over_15": 1.35,
         "odds_over_25": 2.12,
         "odds_over_35": 3.76,
-        "odds_under_15": 2.97,
+        "odds_under_15": 2.96,
         "odds_under_25": 1.67,
         "odds_under_35": 1.23,
         "odds_btts_yes": 1.85,
@@ -4083,9 +4083,9 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 4.02,
-          "odds_draw": 3.34,
-          "odds_away": 1.89,
+          "odds_home": 4.05,
+          "odds_draw": 3.35,
+          "odds_away": 1.88,
           "odds_over_15": 1.34,
           "odds_over_25": 2.1,
           "odds_over_35": 3.73,
@@ -4290,9 +4290,9 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 4.02,
-        "odds_draw": 3.34,
-        "odds_away": 1.89,
+        "odds_home": 4.05,
+        "odds_draw": 3.35,
+        "odds_away": 1.88,
         "odds_over_15": 1.34,
         "odds_over_25": 2.1,
         "odds_over_35": 3.73,
@@ -11322,7 +11322,7 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 3.67,
+          "odds_home": 3.68,
           "odds_draw": 3.42,
           "odds_away": 1.95,
           "odds_over_15": 1.29,
@@ -11535,7 +11535,7 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 3.67,
+        "odds_home": 3.68,
         "odds_draw": 3.42,
         "odds_away": 1.95,
         "odds_over_15": 1.29,
@@ -12056,7 +12056,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Bolton's in fine preseason form, but Preston's a wounded beast with a terrible run.** This Championship opener has all the makings of a home banker — the Wanderers have momentum, Preston is limping in with four losses in five. 🔥\n\nBolton hit 2W-2D from their last three and look sharp. Preston drew one and lost four straight, now missing Gibson to suspension on top of an injury-ravaged squad. The gap in recent form is a chasm.\n\nKey storylines:\n\n- **Bolton's preseason sharpness vs Preston's defensive fragility** — the Lilywhites have shipped goals in bunches lately, and Bolton's attacking options should feast\n- **Home advantage at Toughsheet** — Bolton seldom slip up here when they've got their feet under them\n- **Preston's 5-3-2 shape** — an adventurous setup that could backfire if they fall behind early\n\nExpected lineups:\n\n- **Bolton Wanderers**: J. Bonham, M. Conway, C. Forino, E. Toal, L. Stephenson, J. Sheehan, D. Watson, T. Gale, R. Rodrigues, K. Dong, S. Dalby\n- **Preston North End**: D. Iversen, L. Lindsay, A. Hughes, O. Offiah, P. Valentín, A. Vukčević, A. Devine, J. Thompson, A. Moran, M. Osmajić, J. Erabi\n\nPrediction:\n\n**Bolton 2–0 Preston.** Bolton's the clear lean here — they're sharp, Preston's in freefall, and home turf should seal it.",
+            "generated_at": "2026-08-15T02:41:16.091323+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.657772+00:00",
@@ -12285,7 +12288,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Bolton's in fine preseason form, but Preston's a wounded beast with a terrible run.** This Championship opener has all the makings of a home banker — the Wanderers have momentum, Preston is limping in with four losses in five. 🔥\n\nBolton hit 2W-2D from their last three and look sharp. Preston drew one and lost four straight, now missing Gibson to suspension on top of an injury-ravaged squad. The gap in recent form is a chasm.\n\nKey storylines:\n\n- **Bolton's preseason sharpness vs Preston's defensive fragility** — the Lilywhites have shipped goals in bunches lately, and Bolton's attacking options should feast\n- **Home advantage at Toughsheet** — Bolton seldom slip up here when they've got their feet under them\n- **Preston's 5-3-2 shape** — an adventurous setup that could backfire if they fall behind early\n\nExpected lineups:\n\n- **Bolton Wanderers**: J. Bonham, M. Conway, C. Forino, E. Toal, L. Stephenson, J. Sheehan, D. Watson, T. Gale, R. Rodrigues, K. Dong, S. Dalby\n- **Preston North End**: D. Iversen, L. Lindsay, A. Hughes, O. Offiah, P. Valentín, A. Vukčević, A. Devine, J. Thompson, A. Moran, M. Osmajić, J. Erabi\n\nPrediction:\n\n**Bolton 2–0 Preston.** Bolton's the clear lean here — they're sharp, Preston's in freefall, and home turf should seal it.",
+          "generated_at": "2026-08-15T02:41:16.091323+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -12648,7 +12654,7 @@
           "odds_over_15": 1.25,
           "odds_over_25": 1.83,
           "odds_over_35": 3.03,
-          "odds_under_15": 3.56,
+          "odds_under_15": 3.57,
           "odds_under_25": 1.9,
           "odds_under_35": 1.33,
           "odds_btts_yes": 1.67,
@@ -12868,7 +12874,7 @@
         "odds_over_15": 1.25,
         "odds_over_25": 1.83,
         "odds_over_35": 3.03,
-        "odds_under_15": 3.56,
+        "odds_under_15": 3.57,
         "odds_under_25": 1.9,
         "odds_under_35": 1.33,
         "odds_btts_yes": 1.67,
@@ -16035,7 +16041,18 @@
           "temperature_c": 34,
           "pitch_condition": null,
           "attendance": null,
-          "referee": null,
+          "referee": {
+            "id": 2026,
+            "name": "Mateusz Piszczelok",
+            "country": "Poland",
+            "nationality_a3": "",
+            "birthdate": null,
+            "yellowCards": 208,
+            "redCards": 5,
+            "career_games": 47,
+            "career_yellow_cards": 208,
+            "career_red_cards": 5
+          },
           "home_coach": {
             "id": 487,
             "name": "Leszek Ojrzynski",
@@ -16148,10 +16165,7 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": {
-            "text": "**Zagłębie host Śląsk in a heavyweight Ekstraklasa clash where recent form tells two very different stories.** Lubin's hot-and-cold start (3 losses in the last 5) meets Wrocław's steadier hand—though neither team is exactly flying high. 🔥\n\nZagłębie's win streak at home (back-to-back victories vs Piast and Chrobry) gives them the edge on their own pitch, but **Śląsk arrive with better consistency**, losing just once in five. The visitor's defensive solidity (three clean sheets in recent games) could be the key to a tight affair.\n\nKey storylines:\n\n- **J. Burić** and the Lubin backline need to contain **E. Shabani** and **P. Banaszak**, who've shown teeth in Wrocław's attack\n- **M. Regula** anchoring the Lubin midfield against **J. Yriarte** and **G. Tomasiewicz**'s possession game\n- **Śląsk missing D. Warchoł and L. Ba**—injury and suspension bite into their depth; Lubin exploit the gaps\n\nExpected lineups:\n\n- **Zagłębie Lubin**: J. Burić, J. Ćorluka, D. Michalski, I. Orlikowski, M. Nalepa, K. Nowogonski, F. Kocaba, J. Kolan, M. Regula, M. Mlinarić\n- **Śląsk Wrocław**: K. Niemczycki, I. Christodoulou, Y. Matsenko, M. Llinares, L. Marjanac, P. Samiec-Talar, J. Yriarte, G. Tomasiewicz, E. Shabani, P. Banaszak\n\nPrediction:\n\n**1-1 draw.** Home advantage edges Lubin, but Śląsk's balance and absentee-list adjustments suggest neither side breaks through cleanly. 📊",
-            "generated_at": "2026-08-14T15:41:31.649909+00:00"
-          },
+          "ai_preview": null,
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.620841+00:00",
@@ -16269,7 +16283,18 @@
         "temperature_c": 34,
         "pitch_condition": null,
         "attendance": null,
-        "referee": null,
+        "referee": {
+          "id": 2026,
+          "name": "Mateusz Piszczelok",
+          "country": "Poland",
+          "nationality_a3": "",
+          "birthdate": null,
+          "yellowCards": 208,
+          "redCards": 5,
+          "career_games": 47,
+          "career_yellow_cards": 208,
+          "career_red_cards": 5
+        },
         "home_coach": {
           "id": 487,
           "name": "Leszek Ojrzynski",
@@ -16376,10 +16401,7 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": {
-          "text": "**Zagłębie host Śląsk in a heavyweight Ekstraklasa clash where recent form tells two very different stories.** Lubin's hot-and-cold start (3 losses in the last 5) meets Wrocław's steadier hand—though neither team is exactly flying high. 🔥\n\nZagłębie's win streak at home (back-to-back victories vs Piast and Chrobry) gives them the edge on their own pitch, but **Śląsk arrive with better consistency**, losing just once in five. The visitor's defensive solidity (three clean sheets in recent games) could be the key to a tight affair.\n\nKey storylines:\n\n- **J. Burić** and the Lubin backline need to contain **E. Shabani** and **P. Banaszak**, who've shown teeth in Wrocław's attack\n- **M. Regula** anchoring the Lubin midfield against **J. Yriarte** and **G. Tomasiewicz**'s possession game\n- **Śląsk missing D. Warchoł and L. Ba**—injury and suspension bite into their depth; Lubin exploit the gaps\n\nExpected lineups:\n\n- **Zagłębie Lubin**: J. Burić, J. Ćorluka, D. Michalski, I. Orlikowski, M. Nalepa, K. Nowogonski, F. Kocaba, J. Kolan, M. Regula, M. Mlinarić\n- **Śląsk Wrocław**: K. Niemczycki, I. Christodoulou, Y. Matsenko, M. Llinares, L. Marjanac, P. Samiec-Talar, J. Yriarte, G. Tomasiewicz, E. Shabani, P. Banaszak\n\nPrediction:\n\n**1-1 draw.** Home advantage edges Lubin, but Śląsk's balance and absentee-list adjustments suggest neither side breaks through cleanly. 📊",
-          "generated_at": "2026-08-14T15:41:31.649909+00:00"
-        },
+        "ai_preview": null,
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -17364,7 +17386,18 @@
           "temperature_c": 27,
           "pitch_condition": null,
           "attendance": null,
-          "referee": null,
+          "referee": {
+            "id": 1791,
+            "name": "Adam Ladeback",
+            "country": "Sweden",
+            "nationality_a3": "",
+            "birthdate": null,
+            "yellowCards": 813,
+            "redCards": 11,
+            "career_games": 228,
+            "career_yellow_cards": 813,
+            "career_red_cards": 11
+          },
           "home_coach": {
             "id": 591,
             "name": "Karl Marius Aksum",
@@ -17480,10 +17513,7 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": {
-            "text": "**Mjällby's got a nightmare matchup here** — they're spiraling while Sirius is absolutely humming right now. 🔥\n\nMjällby are winless in five and bleeding goals, but they've historically owned this fixture (7 wins in the last 10 H2H). Problem: that form advantage means zero when you can't string a result together. Sirius just put four past IFK Göteborg and are running hot.\n\nKey storylines:\n\n- **Mjällby's defensive fragility** vs a Sirius attack that's firing on all cylinders — R. Wallinder and A. Iqbal will have their hands full\n- **Home-ground resilience test** — Mjällby need to lean on their Strandvallen record, but form suggests that won't be enough\n- **Sirius' momentum machine** — D. Celic and the back line have conceded just once in five, M. Heier and R. Ure orchestrating a slick midfield\n\nExpected lineups:\n\n- **Mjällby AIF**: R. Wallinder, A. Norén, A. Iqbal, L. Svanberg, T. Miettinen, V. Granath, J. Gustavsson, A. Manneh\n- **IK Sirius**: D. Celic, O. Krusnell, M. Soumah, T. Anker, V. Ekström, V. Svensson, M. Lindberg, I. Bjerkebo\n\nPrediction:\n\n**Sirius 2-0** — Form is king here, and Mjällby just can't stop the bleeding right now. Sirius rolls. 📊",
-            "generated_at": "2026-08-14T15:41:42.613136+00:00"
-          },
+          "ai_preview": null,
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.614034+00:00",
@@ -17601,7 +17631,18 @@
         "temperature_c": 27,
         "pitch_condition": null,
         "attendance": null,
-        "referee": null,
+        "referee": {
+          "id": 1791,
+          "name": "Adam Ladeback",
+          "country": "Sweden",
+          "nationality_a3": "",
+          "birthdate": null,
+          "yellowCards": 813,
+          "redCards": 11,
+          "career_games": 228,
+          "career_yellow_cards": 813,
+          "career_red_cards": 11
+        },
         "home_coach": {
           "id": 591,
           "name": "Karl Marius Aksum",
@@ -17711,10 +17752,7 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": {
-          "text": "**Mjällby's got a nightmare matchup here** — they're spiraling while Sirius is absolutely humming right now. 🔥\n\nMjällby are winless in five and bleeding goals, but they've historically owned this fixture (7 wins in the last 10 H2H). Problem: that form advantage means zero when you can't string a result together. Sirius just put four past IFK Göteborg and are running hot.\n\nKey storylines:\n\n- **Mjällby's defensive fragility** vs a Sirius attack that's firing on all cylinders — R. Wallinder and A. Iqbal will have their hands full\n- **Home-ground resilience test** — Mjällby need to lean on their Strandvallen record, but form suggests that won't be enough\n- **Sirius' momentum machine** — D. Celic and the back line have conceded just once in five, M. Heier and R. Ure orchestrating a slick midfield\n\nExpected lineups:\n\n- **Mjällby AIF**: R. Wallinder, A. Norén, A. Iqbal, L. Svanberg, T. Miettinen, V. Granath, J. Gustavsson, A. Manneh\n- **IK Sirius**: D. Celic, O. Krusnell, M. Soumah, T. Anker, V. Ekström, V. Svensson, M. Lindberg, I. Bjerkebo\n\nPrediction:\n\n**Sirius 2-0** — Form is king here, and Mjällby just can't stop the bleeding right now. Sirius rolls. 📊",
-          "generated_at": "2026-08-14T15:41:42.613136+00:00"
-        },
+        "ai_preview": null,
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -26940,12 +26978,12 @@
           "current_minute": null,
           "period": "",
           "odds_home": 2.54,
-          "odds_draw": 3.24,
+          "odds_draw": 3.25,
           "odds_away": 2.65,
           "odds_over_15": 1.28,
           "odds_over_25": 1.9,
           "odds_over_35": 3.22,
-          "odds_under_15": 3.37,
+          "odds_under_15": 3.38,
           "odds_under_25": 1.82,
           "odds_under_35": 1.3,
           "odds_btts_yes": 1.69,
@@ -27161,12 +27199,12 @@
         "current_minute": null,
         "period": "",
         "odds_home": 2.54,
-        "odds_draw": 3.24,
+        "odds_draw": 3.25,
         "odds_away": 2.65,
         "odds_over_15": 1.28,
         "odds_over_25": 1.9,
         "odds_over_35": 3.22,
-        "odds_under_15": 3.37,
+        "odds_under_15": 3.38,
         "odds_under_25": 1.82,
         "odds_under_35": 1.3,
         "odds_btts_yes": 1.69,
@@ -28293,8 +28331,8 @@
           "current_minute": null,
           "period": "",
           "odds_home": 1.65,
-          "odds_draw": 3.81,
-          "odds_away": 4.75,
+          "odds_draw": 3.82,
+          "odds_away": 4.76,
           "odds_over_15": 1.24,
           "odds_over_25": 1.77,
           "odds_over_35": 2.89,
@@ -28515,8 +28553,8 @@
         "current_minute": null,
         "period": "",
         "odds_home": 1.65,
-        "odds_draw": 3.81,
-        "odds_away": 4.75,
+        "odds_draw": 3.82,
+        "odds_away": 4.76,
         "odds_over_15": 1.24,
         "odds_over_25": 1.77,
         "odds_over_35": 2.89,
@@ -29704,7 +29742,7 @@
           "odds_under_15": 3.48,
           "odds_under_25": 1.87,
           "odds_under_35": 1.32,
-          "odds_btts_yes": 1.69,
+          "odds_btts_yes": 1.7,
           "odds_btts_no": 2.04,
           "actual_home_xg": null,
           "actual_away_xg": null,
@@ -29921,7 +29959,7 @@
         "odds_under_15": 3.48,
         "odds_under_25": 1.87,
         "odds_under_35": 1.32,
-        "odds_btts_yes": 1.69,
+        "odds_btts_yes": 1.7,
         "odds_btts_no": 2.04,
         "actual_home_xg": null,
         "actual_away_xg": null,
@@ -30459,7 +30497,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Norwich's opening test comes against a West Brom side that looks absolutely unstoppable in pre-season.** The Canaries have the home advantage at Carrow Road, but Carlo Ancelotti's setup will face a Baggies team that's won five straight with clinical precision. 🏆\n\nNorwich showed some rust in a friendly loss to Osasuna but otherwise mixed wins with a solid draw. West Brom, meanwhile, has been ruthless—beating everyone by at least two goals in their last three run-outs. The real question: is this Albion momentum sustainable, or just pre-season gloss?\n\nKey storylines:\n\n- **West Brom's attacking threat** has been relentless, with five consecutive wins and an average of over three goals per outing—Norwich's defense will get tested early\n- **Norwich's home crowd** at Carrow Road could be the difference-maker if the Canaries can settle into the game and capitalize on set pieces through **K. McLean** and co.\n- Missing **M. Topić** through injury, Norwich will lean on their midfield engine and defensive stability—**P. Mattsson** and **J. Córdoba** need a clean sheet to build confidence\n\nExpected lineups:\n\n- **Norwich City**: V. Kovačević, J. Córdoba, P. Mattsson, R. McConville, K. McLean, A. B. Slimane, O. Schwartau, P. Maghoma, A. Brooks, M. Touré\n- **West Bromwich Albion**: M. O'Leary, C. Styles, G. Campbell, A. Gilchrist, I. Price, O. Diakité, H. Whitwell, A. Mowatt, J. Morgan\n\nPrediction:\n\n**1-1 draw.** West Brom edges the underlying play, but Norwich's home fortress keeps them honest. 📍",
+            "generated_at": "2026-08-15T02:41:58.000110+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.413945+00:00",
@@ -30699,7 +30740,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Norwich's opening test comes against a West Brom side that looks absolutely unstoppable in pre-season.** The Canaries have the home advantage at Carrow Road, but Carlo Ancelotti's setup will face a Baggies team that's won five straight with clinical precision. 🏆\n\nNorwich showed some rust in a friendly loss to Osasuna but otherwise mixed wins with a solid draw. West Brom, meanwhile, has been ruthless—beating everyone by at least two goals in their last three run-outs. The real question: is this Albion momentum sustainable, or just pre-season gloss?\n\nKey storylines:\n\n- **West Brom's attacking threat** has been relentless, with five consecutive wins and an average of over three goals per outing—Norwich's defense will get tested early\n- **Norwich's home crowd** at Carrow Road could be the difference-maker if the Canaries can settle into the game and capitalize on set pieces through **K. McLean** and co.\n- Missing **M. Topić** through injury, Norwich will lean on their midfield engine and defensive stability—**P. Mattsson** and **J. Córdoba** need a clean sheet to build confidence\n\nExpected lineups:\n\n- **Norwich City**: V. Kovačević, J. Córdoba, P. Mattsson, R. McConville, K. McLean, A. B. Slimane, O. Schwartau, P. Maghoma, A. Brooks, M. Touré\n- **West Bromwich Albion**: M. O'Leary, C. Styles, G. Campbell, A. Gilchrist, I. Price, O. Diakité, H. Whitwell, A. Mowatt, J. Morgan\n\nPrediction:\n\n**1-1 draw.** West Brom edges the underlying play, but Norwich's home fortress keeps them honest. 📍",
+          "generated_at": "2026-08-15T02:41:58.000110+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -31222,7 +31266,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Union's dominance on home turf just won't quit** — they've won six of their last eight against Zulte Waregem and look primed to keep the good vibes rolling at the Stade Joseph Marien. 🔵\n\nUnion have found their rhythm with three wins in their last five, though a couple of chaotic draws with Bodø/Glimt show they'll invite pressure. Zulte Waregem counter with a clean sheet record (3W 2D) and the kind of defensive solidity that could frustrate an attack missing **R. Sykes**.\n\nKey storylines:\n\n- **Union's home record** against Zulte Waregem speaks volumes — six wins in eight head-to-heads won't break today\n- **V. Chambaere** and the backline face **I. Átrok** and **N. Mituljikić**, who've been sharp in Zulte's unbeaten run\n- Attack depth matters: **P. David** and **G. Smith** will need to carry the load without Sykes' support\n\nExpected lineups:\n\n- **Royale Union Saint-Gilloise**: V. Chambaere, M. Sylla, K. Mac Allister, A. Khalaili, L. Patris, A. Zorgane, B. Zeneli, K. V. D. Perre, G. Smith, P. David\n- **SV Zulte Waregem**: B. Gabriel, Y. Cappelle, J. Kiilerich, W. Paugain, M. Aké, T. Claes, E. Lofolomo, I. Átrok, A. Ementa, N. Mituljikić\n\nPrediction:\n\n**Union 2-1 Zulte Waregem**. Home edge and historical form tilt this toward the locals, but Zulte's defensive discipline keeps it tight. ⚪",
+            "generated_at": "2026-08-15T02:41:48.624286+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.440430+00:00",
@@ -31451,7 +31498,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Union's dominance on home turf just won't quit** — they've won six of their last eight against Zulte Waregem and look primed to keep the good vibes rolling at the Stade Joseph Marien. 🔵\n\nUnion have found their rhythm with three wins in their last five, though a couple of chaotic draws with Bodø/Glimt show they'll invite pressure. Zulte Waregem counter with a clean sheet record (3W 2D) and the kind of defensive solidity that could frustrate an attack missing **R. Sykes**.\n\nKey storylines:\n\n- **Union's home record** against Zulte Waregem speaks volumes — six wins in eight head-to-heads won't break today\n- **V. Chambaere** and the backline face **I. Átrok** and **N. Mituljikić**, who've been sharp in Zulte's unbeaten run\n- Attack depth matters: **P. David** and **G. Smith** will need to carry the load without Sykes' support\n\nExpected lineups:\n\n- **Royale Union Saint-Gilloise**: V. Chambaere, M. Sylla, K. Mac Allister, A. Khalaili, L. Patris, A. Zorgane, B. Zeneli, K. V. D. Perre, G. Smith, P. David\n- **SV Zulte Waregem**: B. Gabriel, Y. Cappelle, J. Kiilerich, W. Paugain, M. Aké, T. Claes, E. Lofolomo, I. Átrok, A. Ementa, N. Mituljikić\n\nPrediction:\n\n**Union 2-1 Zulte Waregem**. Home edge and historical form tilt this toward the locals, but Zulte's defensive discipline keeps it tight. ⚪",
+          "generated_at": "2026-08-15T02:41:48.624286+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -31930,7 +31980,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Charlton host Derby in a Championship opener that pits momentum against injury chaos.** The Addicks have swagger from three wins in their last five, while the Rams arrive limping—literally—with two key players on the shelf. 🏟️\n\nCharlton's attack has teeth (three goals in a recent away win), and Derby's backline will be stretched with M. Clarke and P. Agyemang sidelined. But Derby snagged a draw against Rotherham, so they've got some fight left. The hosts should have the edge here at The Valley.\n\nKey storylines:\n\n- **M. Godden and T. Campbell** lead a Charlton front line that's clicked in recent weeks, facing a Derby defense already light on bodies\n- **L. Travis and J. Ward** hold the midfield fort for Derby, but it's a lot to ask without reinforcements in the back\n- **Home advantage and form** give Charlton a real lift after solid pre-season results\n\nExpected lineups:\n\n- **Charlton Athletic**: W. Mannion, L. Jones, R. Burke, C. Sichenje, B. Koumetio, C. Coventry, S. Carey, G. Docherty, T. Campbell, M. Leaburn, M. Godden\n- **Derby County**: J. W. Zetterström, D. Murkin, S. K. Langås, O. Fraulo, M. Johnston, J. Ward, L. Travis, C. Morris, F. Bilbija, O. Eames, L. Salvesen\n\nPrediction:\n\n**Charlton 2–1 Derby.** Home form and Derby's injury woes hand the Addicks a slight edge. 🎯",
+            "generated_at": "2026-08-15T02:41:27.266608+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.424983+00:00",
@@ -32164,7 +32217,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Charlton host Derby in a Championship opener that pits momentum against injury chaos.** The Addicks have swagger from three wins in their last five, while the Rams arrive limping—literally—with two key players on the shelf. 🏟️\n\nCharlton's attack has teeth (three goals in a recent away win), and Derby's backline will be stretched with M. Clarke and P. Agyemang sidelined. But Derby snagged a draw against Rotherham, so they've got some fight left. The hosts should have the edge here at The Valley.\n\nKey storylines:\n\n- **M. Godden and T. Campbell** lead a Charlton front line that's clicked in recent weeks, facing a Derby defense already light on bodies\n- **L. Travis and J. Ward** hold the midfield fort for Derby, but it's a lot to ask without reinforcements in the back\n- **Home advantage and form** give Charlton a real lift after solid pre-season results\n\nExpected lineups:\n\n- **Charlton Athletic**: W. Mannion, L. Jones, R. Burke, C. Sichenje, B. Koumetio, C. Coventry, S. Carey, G. Docherty, T. Campbell, M. Leaburn, M. Godden\n- **Derby County**: J. W. Zetterström, D. Murkin, S. K. Langås, O. Fraulo, M. Johnston, J. Ward, L. Travis, C. Morris, F. Bilbija, O. Eames, L. Salvesen\n\nPrediction:\n\n**Charlton 2–1 Derby.** Home form and Derby's injury woes hand the Addicks a slight edge. 🎯",
+          "generated_at": "2026-08-15T02:41:27.266608+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -32667,7 +32723,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Two Championship heavyweights kicking off the season looking to shake off spotty pre-season form** — both teams are hovering right around 40% win rates in their last five, which means this is basically a coin flip dressed up as a fixture. 🔥\n\nBristol City scraped a draw against Exeter but got mugged 1-0 at home by Walsall, while Millwall grabbed a win over Royal Antwerp but couldn't find consistency either. Neither side arrives here swaggering.\n\nKey storylines:\n\n- **Bristol City's home advantage** at Ashton Gate could matter in a tight opener, though that loss to Walsall (H) is a red flag\n- **Millwall without M. Luongo** means their midfield engine is down a gear early on\n- **S. Twine and S. Greenwood** will need to set the tempo for Bristol if they want to control this match\n\nExpected lineups:\n\n- **Bristol City**: S. Tickle, R. Dickie, L. N. Eissat, N. Eile, G. Tanner, J. Knight, S. Greenwood, Y. Hirakawa, M. Bird, S. Twine, L. Tolaj\n- **Millwall**: L. Jensen, Z. Sturge, T. Crama, C. Taylor, J. Cooper, D. Mazou-Sacko, J. Metcalfe, K. Lisbie, F. Azeez, C. Neghli, J. Coburn\n\nPrediction:\n\n**Bristol City 1–1 Millwall**. Both teams are too shaky to pull away; expect a grinding Championship scrap that neither side quite wins.",
+            "generated_at": "2026-08-15T02:42:02.827362+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.431963+00:00",
@@ -32895,7 +32954,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Two Championship heavyweights kicking off the season looking to shake off spotty pre-season form** — both teams are hovering right around 40% win rates in their last five, which means this is basically a coin flip dressed up as a fixture. 🔥\n\nBristol City scraped a draw against Exeter but got mugged 1-0 at home by Walsall, while Millwall grabbed a win over Royal Antwerp but couldn't find consistency either. Neither side arrives here swaggering.\n\nKey storylines:\n\n- **Bristol City's home advantage** at Ashton Gate could matter in a tight opener, though that loss to Walsall (H) is a red flag\n- **Millwall without M. Luongo** means their midfield engine is down a gear early on\n- **S. Twine and S. Greenwood** will need to set the tempo for Bristol if they want to control this match\n\nExpected lineups:\n\n- **Bristol City**: S. Tickle, R. Dickie, L. N. Eissat, N. Eile, G. Tanner, J. Knight, S. Greenwood, Y. Hirakawa, M. Bird, S. Twine, L. Tolaj\n- **Millwall**: L. Jensen, Z. Sturge, T. Crama, C. Taylor, J. Cooper, D. Mazou-Sacko, J. Metcalfe, K. Lisbie, F. Azeez, C. Neghli, J. Coburn\n\nPrediction:\n\n**Bristol City 1–1 Millwall**. Both teams are too shaky to pull away; expect a grinding Championship scrap that neither side quite wins.",
+          "generated_at": "2026-08-15T02:42:02.827362+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -33400,7 +33462,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Stoke roll into the Championship with momentum — Swansea looking to shake off a rough pre-season.** This is the classic tale of a team firing on all cylinders facing one still hunting for rhythm. 🔴\n\nStoke have barely put a foot wrong in their friendlies, posting three wins and two draws. Swansea, meanwhile, got hammered 3-0 by Merthyr Town and are clearly still shaking off the rust with injuries to key defenders.\n\nKey storylines:\n\n- **Stoke's front line** has looked sharp all summer with R. Boženík and L. Cissé linking up well — Swansea's B-list backline will have their hands full\n- **Missing key bodies** for both sides: Stoke without A. Cresswell and A. Ampah, Swansea down C. Burgess and G. Franco — depth will matter\n- **Home advantage** at bet365 Stadium is real; Stoke have won there in pre-season and should have crowd support\n\nExpected lineups:\n\n- **Stoke City**: V. Johansson, E. Bocat, B. Lawal, P. Otegbayo, L. Graham, S. Thomas, M. Manhoef, M. Smit, B. Jun-Ho, R. Boženík, L. Cissé\n- **Swansea City**: L. Vigouroux, B. Cabango, J. Tymon, L. Walta, F. Lissah, M. Stamenić, M. Widell, J. Opoku, E. Just, Ronald, Ž. Vipotnik\n\nPrediction:\n\n**Stoke 2–0 Swansea.** Stoke's form and home edge are too much for a Swansea side still piecing things together.",
+            "generated_at": "2026-08-15T02:41:32.051804+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.454368+00:00",
@@ -33664,7 +33729,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Stoke roll into the Championship with momentum — Swansea looking to shake off a rough pre-season.** This is the classic tale of a team firing on all cylinders facing one still hunting for rhythm. 🔴\n\nStoke have barely put a foot wrong in their friendlies, posting three wins and two draws. Swansea, meanwhile, got hammered 3-0 by Merthyr Town and are clearly still shaking off the rust with injuries to key defenders.\n\nKey storylines:\n\n- **Stoke's front line** has looked sharp all summer with R. Boženík and L. Cissé linking up well — Swansea's B-list backline will have their hands full\n- **Missing key bodies** for both sides: Stoke without A. Cresswell and A. Ampah, Swansea down C. Burgess and G. Franco — depth will matter\n- **Home advantage** at bet365 Stadium is real; Stoke have won there in pre-season and should have crowd support\n\nExpected lineups:\n\n- **Stoke City**: V. Johansson, E. Bocat, B. Lawal, P. Otegbayo, L. Graham, S. Thomas, M. Manhoef, M. Smit, B. Jun-Ho, R. Boženík, L. Cissé\n- **Swansea City**: L. Vigouroux, B. Cabango, J. Tymon, L. Walta, F. Lissah, M. Stamenić, M. Widell, J. Opoku, E. Just, Ronald, Ž. Vipotnik\n\nPrediction:\n\n**Stoke 2–0 Swansea.** Stoke's form and home edge are too much for a Swansea side still piecing things together.",
+          "generated_at": "2026-08-15T02:41:32.051804+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
