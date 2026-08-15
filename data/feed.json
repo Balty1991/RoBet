@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T04:34:19.069Z",
+  "generated_at": "2026-08-15T05:27:45.694Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -78,17 +78,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.68,
+          "odds_home": 2.7,
           "odds_draw": 3.2,
           "odds_away": 2.57,
-          "odds_over_15": 1.32,
-          "odds_over_25": 2.03,
-          "odds_over_35": 3.54,
-          "odds_under_15": 3.14,
-          "odds_under_25": 1.73,
+          "odds_over_15": 1.33,
+          "odds_over_25": 2.05,
+          "odds_over_35": 3.57,
+          "odds_under_15": 3.1,
+          "odds_under_25": 1.72,
           "odds_under_35": 1.26,
-          "odds_btts_yes": 1.77,
-          "odds_btts_no": 1.94,
+          "odds_btts_yes": 1.78,
+          "odds_btts_no": 1.93,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -201,7 +201,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Gamba Osaka are absolutely rolling, and Mito are stuck in a nightmare.** This looks like a David vs. Goliath mismatch on paper — one team's been *shredding* defenses, the other can't buy a goal. 🔥\n\nMito have dropped five straight with zero wins, mustering just one goal across their last three games. Gamba, meanwhile, are 4-1 in their last five with a jaw-dropping 18 goals scored — they're the hottest team in the league right now and this feels like a mismatch.\n\nKey storylines:\n\n- **Gamba's attack is unstoppable**: H. Minamino, T. Usami, and G. Nawata have been clinical in front of goal; Mito's backline (S. Omori, K. Itakura, Danilo Cardoso) will be tested hard.\n- **Mito's goal drought is alarming**: K. Tada and M. Leiria need a spark, but confidence is shot after five losses.\n- **Home turf won't be enough**: K's Denki Stadium Mito rarely saves struggling sides when they face in-form visitors.\n\nExpected lineups:\n\n- **Mito Hollyhock**: K. Nishikawa, S. Omori, K. Itakura, Danilo Cardoso, Y. Torikai, H. Yamamoto, T. Semba, K. Tada\n- **Gamba Osaka**: R. Araki, S. Nakatani, R. Mito, S. Sasaki, T. Usami, Welton, G. Nawata, H. Minamino\n\nPrediction:\n\n**Gamba Osaka 3–0 Mito Hollyhock** — the visitors are the clear favorite and should cruise through without drama.",
+            "generated_at": "2026-08-15T04:41:15.336200+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.806802+00:00",
@@ -282,17 +285,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.68,
+        "odds_home": 2.7,
         "odds_draw": 3.2,
         "odds_away": 2.57,
-        "odds_over_15": 1.32,
-        "odds_over_25": 2.03,
-        "odds_over_35": 3.54,
-        "odds_under_15": 3.14,
-        "odds_under_25": 1.73,
+        "odds_over_15": 1.33,
+        "odds_over_25": 2.05,
+        "odds_over_35": 3.57,
+        "odds_under_15": 3.1,
+        "odds_under_25": 1.72,
         "odds_under_35": 1.26,
-        "odds_btts_yes": 1.77,
-        "odds_btts_no": 1.94,
+        "odds_btts_yes": 1.78,
+        "odds_btts_no": 1.93,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -399,7 +402,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Gamba Osaka are absolutely rolling, and Mito are stuck in a nightmare.** This looks like a David vs. Goliath mismatch on paper — one team's been *shredding* defenses, the other can't buy a goal. 🔥\n\nMito have dropped five straight with zero wins, mustering just one goal across their last three games. Gamba, meanwhile, are 4-1 in their last five with a jaw-dropping 18 goals scored — they're the hottest team in the league right now and this feels like a mismatch.\n\nKey storylines:\n\n- **Gamba's attack is unstoppable**: H. Minamino, T. Usami, and G. Nawata have been clinical in front of goal; Mito's backline (S. Omori, K. Itakura, Danilo Cardoso) will be tested hard.\n- **Mito's goal drought is alarming**: K. Tada and M. Leiria need a spark, but confidence is shot after five losses.\n- **Home turf won't be enough**: K's Denki Stadium Mito rarely saves struggling sides when they face in-form visitors.\n\nExpected lineups:\n\n- **Mito Hollyhock**: K. Nishikawa, S. Omori, K. Itakura, Danilo Cardoso, Y. Torikai, H. Yamamoto, T. Semba, K. Tada\n- **Gamba Osaka**: R. Araki, S. Nakatani, R. Mito, S. Sasaki, T. Usami, Welton, G. Nawata, H. Minamino\n\nPrediction:\n\n**Gamba Osaka 3–0 Mito Hollyhock** — the visitors are the clear favorite and should cruise through without drama.",
+          "generated_at": "2026-08-15T04:41:15.336200+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -678,17 +684,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.8,
-          "odds_draw": 3.5,
-          "odds_away": 4.31,
+          "odds_home": 1.79,
+          "odds_draw": 3.52,
+          "odds_away": 4.32,
           "odds_over_15": 1.3,
           "odds_over_25": 1.98,
-          "odds_over_35": 3.4,
-          "odds_under_15": 3.22,
+          "odds_over_35": 3.37,
+          "odds_under_15": 3.27,
           "odds_under_25": 1.77,
           "odds_under_35": 1.28,
-          "odds_btts_yes": 1.85,
-          "odds_btts_no": 1.86,
+          "odds_btts_yes": 1.84,
+          "odds_btts_no": 1.87,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -801,7 +807,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Kashima's hosting a struggling Nagoya side fresh off five straight wins** — this has \"statement performance\" written all over it. 📊\n\n**Kashima** are rolling hot with four wins in their last five and a clinical home record (5-0 thumping of Sendai, 2-0 over Kobe). **Nagoya**, meanwhile, haven't won in their last five matches and are leaking goals on the road. The head-to-head leans Kashima's way too — five wins to two in the last decade.\n\nKey storylines:\n\n- **Kashima's attacking depth** with L. Ceará and A. Čavrić clicking upfront will be the main test of a Nagoya defence that's conceded in every recent outing\n- **G. Shibasaki** anchoring Kashima's midfield against a Nagoya unit still searching for rhythm\n- Nagoya need **Y. Asano** and **Y. Yamagishi** to spark something creative in attack, but they're facing a team that's suffocating chances at home\n\nExpected lineups:\n\n- **Kashima Antlers**: T. Hayakawa, N. Ueda, K. Anzai, T. H. Kim, G. Shibasaki, K. Chinen, L. Ceará, A. Čavrić\n- **Nagoya Grampus**: A. Pisano, S. Tokumoto, Y. Sato, K. Nakayama, Y. Asano, R. Izumi\n\nPrediction: **Kashima 3-0 Nagoya**\n\nHome-field edge plus form advantage — this feels like a comfortable Antlers win. 🎯",
+            "generated_at": "2026-08-15T04:41:10.019810+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.799972+00:00",
@@ -882,17 +891,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.8,
-        "odds_draw": 3.5,
-        "odds_away": 4.31,
+        "odds_home": 1.79,
+        "odds_draw": 3.52,
+        "odds_away": 4.32,
         "odds_over_15": 1.3,
         "odds_over_25": 1.98,
-        "odds_over_35": 3.4,
-        "odds_under_15": 3.22,
+        "odds_over_35": 3.37,
+        "odds_under_15": 3.27,
         "odds_under_25": 1.77,
         "odds_under_35": 1.28,
-        "odds_btts_yes": 1.85,
-        "odds_btts_no": 1.86,
+        "odds_btts_yes": 1.84,
+        "odds_btts_no": 1.87,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -999,7 +1008,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Kashima's hosting a struggling Nagoya side fresh off five straight wins** — this has \"statement performance\" written all over it. 📊\n\n**Kashima** are rolling hot with four wins in their last five and a clinical home record (5-0 thumping of Sendai, 2-0 over Kobe). **Nagoya**, meanwhile, haven't won in their last five matches and are leaking goals on the road. The head-to-head leans Kashima's way too — five wins to two in the last decade.\n\nKey storylines:\n\n- **Kashima's attacking depth** with L. Ceará and A. Čavrić clicking upfront will be the main test of a Nagoya defence that's conceded in every recent outing\n- **G. Shibasaki** anchoring Kashima's midfield against a Nagoya unit still searching for rhythm\n- Nagoya need **Y. Asano** and **Y. Yamagishi** to spark something creative in attack, but they're facing a team that's suffocating chances at home\n\nExpected lineups:\n\n- **Kashima Antlers**: T. Hayakawa, N. Ueda, K. Anzai, T. H. Kim, G. Shibasaki, K. Chinen, L. Ceará, A. Čavrić\n- **Nagoya Grampus**: A. Pisano, S. Tokumoto, Y. Sato, K. Nakayama, Y. Asano, R. Izumi\n\nPrediction: **Kashima 3-0 Nagoya**\n\nHome-field edge plus form advantage — this feels like a comfortable Antlers win. 🎯",
+          "generated_at": "2026-08-15T04:41:10.019810+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -1484,7 +1496,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Shimizu hosting Yokohama feels like classic David vs. Goliath energy** — the visitors are walking into a ground where they've dominated the fixture, but S-Pulse are hitting some proper form. 🔥\n\nShimizu's last three have been *chef's kiss* — three wins, bags of goals. Yokohama just drew 1-1 at home to Miyazaki and got hammered 3-4 by Kashima, so there's cracks to exploit.\n\nKey storylines:\n\n- **Shimizu's attack** needs to keep the momentum rolling with O. Se-Hun and K. Matsuzaki leading the charge\n- **Yokohama's away-day jitters** — they've won just once in their last five and their defense looks shaky\n- **The H2H curse for Marinos** — Shimizu have been a bogey side (only 1 win in 10), which could be a mental edge tonight\n\nExpected lineups:\n\n- **Shimizu S-Pulse**: T. Umeda, M. Brunetti, Y. Honda, J. R. Sumiyoshi, Y. Yoshida, M. Yumiba, Y. Shimamoto, Z. Uno, O. Se-Hun, T. Takahashi, K. Matsuzaki\n- **Yokohama F. Marinos**: P. Il-Kyu, R. Kato, T. Inoue, K. Suwama, T. Kondo, J. Amano, R. Yamane, R. Miyaichi, K. Watanabe, J. Croux, K. Tanimura\n\nPrediction:\n\n**Shimizu 2-1 Yokohama**. Home form + Marinos' blip = lean toward the hosts.",
+            "generated_at": "2026-08-15T04:41:21.113783+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.793476+00:00",
@@ -1679,7 +1694,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Shimizu hosting Yokohama feels like classic David vs. Goliath energy** — the visitors are walking into a ground where they've dominated the fixture, but S-Pulse are hitting some proper form. 🔥\n\nShimizu's last three have been *chef's kiss* — three wins, bags of goals. Yokohama just drew 1-1 at home to Miyazaki and got hammered 3-4 by Kashima, so there's cracks to exploit.\n\nKey storylines:\n\n- **Shimizu's attack** needs to keep the momentum rolling with O. Se-Hun and K. Matsuzaki leading the charge\n- **Yokohama's away-day jitters** — they've won just once in their last five and their defense looks shaky\n- **The H2H curse for Marinos** — Shimizu have been a bogey side (only 1 win in 10), which could be a mental edge tonight\n\nExpected lineups:\n\n- **Shimizu S-Pulse**: T. Umeda, M. Brunetti, Y. Honda, J. R. Sumiyoshi, Y. Yoshida, M. Yumiba, Y. Shimamoto, Z. Uno, O. Se-Hun, T. Takahashi, K. Matsuzaki\n- **Yokohama F. Marinos**: P. Il-Kyu, R. Kato, T. Inoue, K. Suwama, T. Kondo, J. Amano, R. Yamane, R. Miyaichi, K. Watanabe, J. Croux, K. Tanimura\n\nPrediction:\n\n**Shimizu 2-1 Yokohama**. Home form + Marinos' blip = lean toward the hosts.",
+          "generated_at": "2026-08-15T04:41:21.113783+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -2169,7 +2187,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Nagasaki rolls into Okayama looking to keep their hot streak alive — but Fagiano are desperate to stop the bleeding at home.** 🔥\n\nOkayama have been absolutely rattled, losing four of their last five and shipping goals for fun across three road trips. Nagasaki, by contrast, are clicking: three wins in five with a resilient defensive shape. The head-to-head tells the story too — Nagasaki won both recent clashes with this lot.\n\nKey storylines:\n\n- **V-Varen Nagasaki's away pedigree** — they've turned it up on the road, winning at Mito and holding form despite the NEC Nijmegen loss\n- **Fagiano Okayama's home fortress under pressure** — they've conceded seven goals in three matches and need to tighten up at JFE Harenokuri\n- **Lucao vs the Nagasaki back line** — Okayama's forward will need to be clinical if they're to get anything from this\n\nExpected lineups:\n\n- **Fagiano Okayama**: T. Hamada, Y. Suzuki, H. Omori, K. Abe, Y. Tatsuta, H. Motoyama, E. Miyamoto, K. Ogura, A. Esaka, Lucao, T. Yamane\n- **V-Varen Nagasaki**: G. Masaaki, Y. Shunya, Eduardo, Y. Egawa, M. Sekiguchi, O. Hijiri, Y. Hotaru, R. Yamada, M. Hasegawa, T. Santana, T. Kasayanagi\n\nPrediction:\n\n**V-Varen Nagasaki 2–1 Fagiano Okayama.** Nagasaki's form and h2h edge gives them the lean, even in a hostile yard. 🎯",
+            "generated_at": "2026-08-15T04:41:26.465585+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.784632+00:00",
@@ -2363,7 +2384,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Nagasaki rolls into Okayama looking to keep their hot streak alive — but Fagiano are desperate to stop the bleeding at home.** 🔥\n\nOkayama have been absolutely rattled, losing four of their last five and shipping goals for fun across three road trips. Nagasaki, by contrast, are clicking: three wins in five with a resilient defensive shape. The head-to-head tells the story too — Nagasaki won both recent clashes with this lot.\n\nKey storylines:\n\n- **V-Varen Nagasaki's away pedigree** — they've turned it up on the road, winning at Mito and holding form despite the NEC Nijmegen loss\n- **Fagiano Okayama's home fortress under pressure** — they've conceded seven goals in three matches and need to tighten up at JFE Harenokuri\n- **Lucao vs the Nagasaki back line** — Okayama's forward will need to be clinical if they're to get anything from this\n\nExpected lineups:\n\n- **Fagiano Okayama**: T. Hamada, Y. Suzuki, H. Omori, K. Abe, Y. Tatsuta, H. Motoyama, E. Miyamoto, K. Ogura, A. Esaka, Lucao, T. Yamane\n- **V-Varen Nagasaki**: G. Masaaki, Y. Shunya, Eduardo, Y. Egawa, M. Sekiguchi, O. Hijiri, Y. Hotaru, R. Yamada, M. Hasegawa, T. Santana, T. Kasayanagi\n\nPrediction:\n\n**V-Varen Nagasaki 2–1 Fagiano Okayama.** Nagasaki's form and h2h edge gives them the lean, even in a hostile yard. 🎯",
+          "generated_at": "2026-08-15T04:41:26.465585+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -2803,7 +2827,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Vissel Kobe's looking sharp, but FC Tokyo's desperate to stop the bleeding** — one side's rolling with wins, the other's caught in a spiral. 🔥\n\nKobe just demolished Imabari 6-1 and haven't lost in their last five. Tokyo? They're spiraling after that brutal 5-1 home loss to Zelvia and a goalless defeat to Dortmund. The form gap is real here.\n\nKey storylines:\n\n- **Vissel Kobe's attack** is clicking — three straight wins with clinical finishing suggests the front three of Muto, Osako, and Komatsu are in sync\n- **FC Tokyo's defense** has been leaky; they've conceded 6+ goals across their last two matches and badly need stability from Hashimoto and Muroya\n- **Head-to-head balance** masks Kobe's momentum — they've traded wins evenly historically, but current form tells a different story\n\nExpected lineups:\n\n- **Vissel Kobe**: Gonda, Diego, Sakai, Nduka, Thuler, Ideguchi, Kuwasaki, Hidaka, Muto, Komatsu, Osako\n- **FC Tokyo**: Tanaka, Hashimoto, Muroya, Inamura, Scholz, Hashimoto, Tokiwa, Ko, Sato, Ryan, Nagakura\n\nPrediction:\n\n**Vissel Kobe 3–1 FC Tokyo**\n\nKobe's in a different universe right now. Tokyo will grab a goal on the break but won't have the shape to stop the home side's ruthless finishing. 📍",
+            "generated_at": "2026-08-15T04:41:54.067664+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.778175+00:00",
@@ -3001,7 +3028,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Vissel Kobe's looking sharp, but FC Tokyo's desperate to stop the bleeding** — one side's rolling with wins, the other's caught in a spiral. 🔥\n\nKobe just demolished Imabari 6-1 and haven't lost in their last five. Tokyo? They're spiraling after that brutal 5-1 home loss to Zelvia and a goalless defeat to Dortmund. The form gap is real here.\n\nKey storylines:\n\n- **Vissel Kobe's attack** is clicking — three straight wins with clinical finishing suggests the front three of Muto, Osako, and Komatsu are in sync\n- **FC Tokyo's defense** has been leaky; they've conceded 6+ goals across their last two matches and badly need stability from Hashimoto and Muroya\n- **Head-to-head balance** masks Kobe's momentum — they've traded wins evenly historically, but current form tells a different story\n\nExpected lineups:\n\n- **Vissel Kobe**: Gonda, Diego, Sakai, Nduka, Thuler, Ideguchi, Kuwasaki, Hidaka, Muto, Komatsu, Osako\n- **FC Tokyo**: Tanaka, Hashimoto, Muroya, Inamura, Scholz, Hashimoto, Tokiwa, Ko, Sato, Ryan, Nagakura\n\nPrediction:\n\n**Vissel Kobe 3–1 FC Tokyo**\n\nKobe's in a different universe right now. Tokyo will grab a goal on the break but won't have the shape to stop the home side's ruthless finishing. 📍",
+          "generated_at": "2026-08-15T04:41:54.067664+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -3488,7 +3518,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Kawasaki host Kyoto in a Round 2 clash where inconsistency meets fragility** — the hosts are 1W-2D-2L lately, while Kyoto's battered defense (3L in five) looks ripe to be picked apart. 🔪\n\nKawasaki's draws with Verdy and Hachinohe suggest they're finding their feet at home, but that loss to Hiroshima stings. Kyoto nabbed a win over Kashiwa but got hammered 4-1 at Shonan; they're all over the map.\n\nKey storylines:\n\n- **Kawasaki's creative midfield** anchored by **K. Tachibanada** and **Y. Wakizaka** needs to control tempo and expose Kyoto's leaky backline early.\n- **Rafael Elias** and **M. Túlio** up top for Kyoto offer a spark, but their defense led by **Y. Suzuki** will be tested constantly.\n- The **4-3 H2H edge for Kawasaki** suggests the hosts have the upper hand in this fixture.\n\nExpected lineups:\n\n- **Kawasaki Frontale**: L. Yamaguchi, S. Miura, A. Sasaki, H. Taniguchi, R. Yamahara, K. Tachibanada, Y. Wakizaka, T. Miyagi, T. Ito, K. Mochiyama, L. Romanić\n- **Kyoto Sanga FC**: G. Ota, K. Sato, Y. Suzuki, S. Asada, H. Sugai, R. Nakano, S. Yoon, J. Pedro, H. Arai, Rafael Elias, M. Túlio\n\nPrediction:\n\n**Kawasaki 2-1 Kyoto.** Frontale's experience at home and Kyoto's wobbly shape gives the hosts a slight edge. 📍",
+            "generated_at": "2026-08-15T04:41:37.584142+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.765616+00:00",
@@ -3682,7 +3715,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Kawasaki host Kyoto in a Round 2 clash where inconsistency meets fragility** — the hosts are 1W-2D-2L lately, while Kyoto's battered defense (3L in five) looks ripe to be picked apart. 🔪\n\nKawasaki's draws with Verdy and Hachinohe suggest they're finding their feet at home, but that loss to Hiroshima stings. Kyoto nabbed a win over Kashiwa but got hammered 4-1 at Shonan; they're all over the map.\n\nKey storylines:\n\n- **Kawasaki's creative midfield** anchored by **K. Tachibanada** and **Y. Wakizaka** needs to control tempo and expose Kyoto's leaky backline early.\n- **Rafael Elias** and **M. Túlio** up top for Kyoto offer a spark, but their defense led by **Y. Suzuki** will be tested constantly.\n- The **4-3 H2H edge for Kawasaki** suggests the hosts have the upper hand in this fixture.\n\nExpected lineups:\n\n- **Kawasaki Frontale**: L. Yamaguchi, S. Miura, A. Sasaki, H. Taniguchi, R. Yamahara, K. Tachibanada, Y. Wakizaka, T. Miyagi, T. Ito, K. Mochiyama, L. Romanić\n- **Kyoto Sanga FC**: G. Ota, K. Sato, Y. Suzuki, S. Asada, H. Sugai, R. Nakano, S. Yoon, J. Pedro, H. Arai, Rafael Elias, M. Túlio\n\nPrediction:\n\n**Kawasaki 2-1 Kyoto.** Frontale's experience at home and Kyoto's wobbly shape gives the hosts a slight edge. 📍",
+          "generated_at": "2026-08-15T04:41:37.584142+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -4170,7 +4206,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Machida's the real deal and JEF know it** — the visitors just demolished FC Tokyo 5-1 last time out, while the hosts are genuinely struggling to string wins together. 🔥\n\nJEF United pulled a 0-0 at home vs Kashiwa recently but got hammered 0-3 by Sanfrecce; Machida, meanwhile, hasn't dropped a game in five and are playing like they're on a mission. The H2H is bleak for Chiba too — 0-2 to Zelvia in their last pair.\n\nKey storylines:\n\n- **Machida's firepower** — Erik and Na have been clinical; JEF's backline (Kuboniwa, Kawano, Hidaka) will need to be sharp or get picked apart.\n- **Taguchi and Tsukui's midfield** — JEF's creative spark has to keep the tempo high if they're going to frustrate Machida's rhythm.\n- **Home turf matters little** — Fukuda Denshi isn't saving Chiba from a red-hot away side that's won four straight.\n\nExpected lineups:\n\n- **JEF United Chiba**: Suárez, Kuboniwa, Kawano, Hidaka, Mae, Tsukui, Taguchi, Eduardo, Tanaka, Ishikawa, Issaka\n- **Machida Zelvia**: Tani, Shoji, Okamura, Hayashi, Nakayama, Nakamura, Mae, Lavi, Erik, Na, Yengi\n\nPrediction:\n\n**Machida 2-0 JEF** — too hot to handle right now, and Chiba's leaky defense makes this a mismatch. 📊",
+            "generated_at": "2026-08-15T04:41:31.742884+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.750599+00:00",
@@ -4368,7 +4407,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Machida's the real deal and JEF know it** — the visitors just demolished FC Tokyo 5-1 last time out, while the hosts are genuinely struggling to string wins together. 🔥\n\nJEF United pulled a 0-0 at home vs Kashiwa recently but got hammered 0-3 by Sanfrecce; Machida, meanwhile, hasn't dropped a game in five and are playing like they're on a mission. The H2H is bleak for Chiba too — 0-2 to Zelvia in their last pair.\n\nKey storylines:\n\n- **Machida's firepower** — Erik and Na have been clinical; JEF's backline (Kuboniwa, Kawano, Hidaka) will need to be sharp or get picked apart.\n- **Taguchi and Tsukui's midfield** — JEF's creative spark has to keep the tempo high if they're going to frustrate Machida's rhythm.\n- **Home turf matters little** — Fukuda Denshi isn't saving Chiba from a red-hot away side that's won four straight.\n\nExpected lineups:\n\n- **JEF United Chiba**: Suárez, Kuboniwa, Kawano, Hidaka, Mae, Tsukui, Taguchi, Eduardo, Tanaka, Ishikawa, Issaka\n- **Machida Zelvia**: Tani, Shoji, Okamura, Hayashi, Nakayama, Nakamura, Mae, Lavi, Erik, Na, Yengi\n\nPrediction:\n\n**Machida 2-0 JEF** — too hot to handle right now, and Chiba's leaky defense makes this a mismatch. 📊",
+          "generated_at": "2026-08-15T04:41:31.742884+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -4806,7 +4848,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Cerezo's rolling hot into Fukuoka looking basically unstoppable right now** — four wins in five is proper form, while Avispa are treading water at home. 🔥\n\nCerezo's got **the head-to-head edge** too, winning 6 of the last 10 meetings. Avispa's defensive wobbles (three goals shipped in their last match) scream vulnerability against a visiting side that just beat Dortmund.\n\nKey storylines:\n\n- **Cerezo's attack** keeping the momentum rolling: **S. Sakuragawa**, **D. Cools**, and **Y. Yokoyama** will probe a shaky Fukuoka backline\n- **Avispa hunting the upset at home** — **Y. Kitajima** and **S. Usui** need early chances to rattle Cerezo's rhythm before the visitors settle\n- **Nakamura's distribution** from the back will be crucial; Cerezo sit deep and break, so Fukuoka must press **K. Nakamura** early\n\nExpected lineups:\n\n- **Avispa Fukuoka**: K. Fujita, K. Fujimoto, Y. Tsujioka, T. Oka, M. Yota, T. Miki, Y. Kitajima, S. Usui\n- **Cerezo Osaka**: K. Nakamura, N. Takahashi, R. Inoue, S. Hatanaka, S. Tanaka, M. Shibayama, D. Cools, S. Sakuragawa\n\nPrediction:\n\n**Cerezo Osaka 2–1 Avispa Fukuoka**\n\nVisitors land the three points but Fukuoka grab a consolation. Cerezo's form is just too sharp right now. 🎯",
+            "generated_at": "2026-08-15T04:41:49.101085+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.759676+00:00",
@@ -5003,7 +5048,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Cerezo's rolling hot into Fukuoka looking basically unstoppable right now** — four wins in five is proper form, while Avispa are treading water at home. 🔥\n\nCerezo's got **the head-to-head edge** too, winning 6 of the last 10 meetings. Avispa's defensive wobbles (three goals shipped in their last match) scream vulnerability against a visiting side that just beat Dortmund.\n\nKey storylines:\n\n- **Cerezo's attack** keeping the momentum rolling: **S. Sakuragawa**, **D. Cools**, and **Y. Yokoyama** will probe a shaky Fukuoka backline\n- **Avispa hunting the upset at home** — **Y. Kitajima** and **S. Usui** need early chances to rattle Cerezo's rhythm before the visitors settle\n- **Nakamura's distribution** from the back will be crucial; Cerezo sit deep and break, so Fukuoka must press **K. Nakamura** early\n\nExpected lineups:\n\n- **Avispa Fukuoka**: K. Fujita, K. Fujimoto, Y. Tsujioka, T. Oka, M. Yota, T. Miki, Y. Kitajima, S. Usui\n- **Cerezo Osaka**: K. Nakamura, N. Takahashi, R. Inoue, S. Hatanaka, S. Tanaka, M. Shibayama, D. Cools, S. Sakuragawa\n\nPrediction:\n\n**Cerezo Osaka 2–1 Avispa Fukuoka**\n\nVisitors land the three points but Fukuoka grab a consolation. Cerezo's form is just too sharp right now. 🎯",
+          "generated_at": "2026-08-15T04:41:49.101085+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -5453,7 +5501,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Urawa's misfiring offense meets Hiroshima's juggernaut** — the hosts are in freefall while their visitors just put four past Oita. Home pressure might matter, but form is screaming loud here. 🔴\n\nUrawa are leaking goals (three losses in five) and came apart defensively against Gamba. Hiroshima, meanwhile, are **absolutely cooking** — four straight wins with a goal-scoring rampage. This is a matchup of opposite trajectories.\n\nKey storylines:\n\n- **M. Sávio** and **A. Onaiwu** need to break through for Urawa's sputtering attack, or the pressure mounts fast\n- **Sanfrecce's front pair of K. Mutsuki and A. Suzuki** have been clinical; Urawa's back line (especially **K. Nemoto** and **Y. Miyamoto**) will be tested relentlessly\n- Midfield control: **R. Watanabe** and **K. Yasui** must hold the line for Urawa, or Hiroshima's **S. Sho** and **H. Shunki** dictate tempo\n\nExpected lineups:\n\n- **Urawa Red Diamonds**: S. Nishikawa, Y. Naganuma, Y. Miyamoto, K. Nemoto, D. Boza, R. Watanabe, K. Yasui, M. Sávio, J. Hayakawa, A. Onaiwu, H. Komori\n- **Sanfrecce Hiroshima**: I. Ouchi, S. Nakano, Y. Taichi, S. Tsukasa, S. Sho, H. Shunki, S. Nakamura, Y. Nakajima, K. Mutsuki, A. Suzuki, A. Naoto\n\nPrediction:\n\n**Urawa 1-2 Sanfrecce Hiroshima**. Hiroshima's form is too hot to ignore; Urawa's shaky defense gives them the edge away from home.",
+            "generated_at": "2026-08-15T04:41:43.513599+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.742114+00:00",
@@ -5652,7 +5703,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Urawa's misfiring offense meets Hiroshima's juggernaut** — the hosts are in freefall while their visitors just put four past Oita. Home pressure might matter, but form is screaming loud here. 🔴\n\nUrawa are leaking goals (three losses in five) and came apart defensively against Gamba. Hiroshima, meanwhile, are **absolutely cooking** — four straight wins with a goal-scoring rampage. This is a matchup of opposite trajectories.\n\nKey storylines:\n\n- **M. Sávio** and **A. Onaiwu** need to break through for Urawa's sputtering attack, or the pressure mounts fast\n- **Sanfrecce's front pair of K. Mutsuki and A. Suzuki** have been clinical; Urawa's back line (especially **K. Nemoto** and **Y. Miyamoto**) will be tested relentlessly\n- Midfield control: **R. Watanabe** and **K. Yasui** must hold the line for Urawa, or Hiroshima's **S. Sho** and **H. Shunki** dictate tempo\n\nExpected lineups:\n\n- **Urawa Red Diamonds**: S. Nishikawa, Y. Naganuma, Y. Miyamoto, K. Nemoto, D. Boza, R. Watanabe, K. Yasui, M. Sávio, J. Hayakawa, A. Onaiwu, H. Komori\n- **Sanfrecce Hiroshima**: I. Ouchi, S. Nakano, Y. Taichi, S. Tsukasa, S. Sho, H. Shunki, S. Nakamura, Y. Nakajima, K. Mutsuki, A. Suzuki, A. Naoto\n\nPrediction:\n\n**Urawa 1-2 Sanfrecce Hiroshima**. Hiroshima's form is too hot to ignore; Urawa's shaky defense gives them the edge away from home.",
+          "generated_at": "2026-08-15T04:41:43.513599+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -6758,7 +6812,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**FC Seoul roll into the weekend as home favorites, but Daejeon have the wind at their backs — both teams are locked in identical recent form and the H2H says this rivalry throws curveballs.** 🔥\n\nSeoul are unbeaten in five (2W-2D-1L) but that stretch includes two blanks and a 1-3 hammering at home to Ulsan. Daejeon match that record exactly — same W-D-L split — and they've shown teeth with back-to-back wins before stumbling. At the World Cup Stadium, Seoul should have the edge, but Daejeon's proven they can nick results on the road.\n\nKey storylines:\n\n- **Anderson Oliveira** and **G. Ludwigson** are the midfield creators — whoever controls tempo wins the shape here\n- **C. Young-wook** and **M. K. Ju** need to stay clinical in front of goal; both teams have stuttered finishing lately\n- **H. Babec** and **M. J. Lee** anchor their defenses — a clean sheet battle in disguise\n\nExpected lineups:\n\n- **FC Seoul**: G. Sung-yun, J. Ros, S. Park, H. Babec, C. Jun, D. Hwang, J. Son, Anderson Oliveira, H. Jeong, M. Seon-min, C. Young-wook\n- **Daejeon Hana Citizen**: L. Chang-geun, M. J. Lee, K. Bong-Soo, Y. Kang, M. Kim, G. Ludwigson, J. Jeong, H. U. Kim, J. S. Seo, M. K. Ju, K. H. Yu\n\nPrediction:\n\n**Seoul 1-0 Daejeon.** Home soil and recent history give Seoul a slight lean, but don't sleep on Daejeon nicking a draw.",
+            "generated_at": "2026-08-15T04:42:10.337069+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.725561+00:00",
@@ -6957,7 +7014,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**FC Seoul roll into the weekend as home favorites, but Daejeon have the wind at their backs — both teams are locked in identical recent form and the H2H says this rivalry throws curveballs.** 🔥\n\nSeoul are unbeaten in five (2W-2D-1L) but that stretch includes two blanks and a 1-3 hammering at home to Ulsan. Daejeon match that record exactly — same W-D-L split — and they've shown teeth with back-to-back wins before stumbling. At the World Cup Stadium, Seoul should have the edge, but Daejeon's proven they can nick results on the road.\n\nKey storylines:\n\n- **Anderson Oliveira** and **G. Ludwigson** are the midfield creators — whoever controls tempo wins the shape here\n- **C. Young-wook** and **M. K. Ju** need to stay clinical in front of goal; both teams have stuttered finishing lately\n- **H. Babec** and **M. J. Lee** anchor their defenses — a clean sheet battle in disguise\n\nExpected lineups:\n\n- **FC Seoul**: G. Sung-yun, J. Ros, S. Park, H. Babec, C. Jun, D. Hwang, J. Son, Anderson Oliveira, H. Jeong, M. Seon-min, C. Young-wook\n- **Daejeon Hana Citizen**: L. Chang-geun, M. J. Lee, K. Bong-Soo, Y. Kang, M. Kim, G. Ludwigson, J. Jeong, H. U. Kim, J. S. Seo, M. K. Ju, K. H. Yu\n\nPrediction:\n\n**Seoul 1-0 Daejeon.** Home soil and recent history give Seoul a slight lean, but don't sleep on Daejeon nicking a draw.",
+          "generated_at": "2026-08-15T04:42:10.337069+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -7450,7 +7510,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Jeju SK are due a win against Anyang** — the visitors have won five of the last six meetings, which means this feels ripe for a swing. 🔄\n\nJeju's recent form is **mixed but spirited** (two wins, two draws in five), while Anyang have just **two wins in their last five** with back-to-back losses. The home side have momentum on their side, even if the head-to-head stats scream upset alert.\n\nKey storylines:\n\n- **Jeju's attacking intent** around K. Jae-Min and I. Yu will need to break down an Anyang midfield anchored by M. Seong-Woo\n- **Anyang's historic edge** in this fixture (5 wins in 6) suggests they know how to frustrate Jeju, but recent form favors the hosts\n- **B. Herculano and U. Kim** will carry Anyang's threat on the counter, but Jeju's back four of M. Jang, K. Ki-Min, H. Kang-Jun, and C. Byung-Wook should be solid at home\n\nExpected lineups:\n\n- **Jeju SK**: S. Joo, M. Jang, K. Ki-Min, H. Kang-Jun, C. Byung-Wook, C. M. Lee, K. Jae-Min, I. Yu, S. Sang-Eun, M. Aiás\n- **FC Anyang**: D. S. Kim, G. Choi, Y. C. Kim, J. H. Kang, C. Lee, M. Seong-Woo, G. Choe, B. Knežević, B. Herculano, U. Kim, H. Chae\n\nPrediction:\n\n**Jeju SK 2–1 FC Anyang** — slight lean toward the hosts breaking the curse at home. ⚽",
+            "generated_at": "2026-08-15T04:42:05.137506+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.718138+00:00",
@@ -7648,7 +7711,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Jeju SK are due a win against Anyang** — the visitors have won five of the last six meetings, which means this feels ripe for a swing. 🔄\n\nJeju's recent form is **mixed but spirited** (two wins, two draws in five), while Anyang have just **two wins in their last five** with back-to-back losses. The home side have momentum on their side, even if the head-to-head stats scream upset alert.\n\nKey storylines:\n\n- **Jeju's attacking intent** around K. Jae-Min and I. Yu will need to break down an Anyang midfield anchored by M. Seong-Woo\n- **Anyang's historic edge** in this fixture (5 wins in 6) suggests they know how to frustrate Jeju, but recent form favors the hosts\n- **B. Herculano and U. Kim** will carry Anyang's threat on the counter, but Jeju's back four of M. Jang, K. Ki-Min, H. Kang-Jun, and C. Byung-Wook should be solid at home\n\nExpected lineups:\n\n- **Jeju SK**: S. Joo, M. Jang, K. Ki-Min, H. Kang-Jun, C. Byung-Wook, C. M. Lee, K. Jae-Min, I. Yu, S. Sang-Eun, M. Aiás\n- **FC Anyang**: D. S. Kim, G. Choi, Y. C. Kim, J. H. Kang, C. Lee, M. Seong-Woo, G. Choe, B. Knežević, B. Herculano, U. Kim, H. Chae\n\nPrediction:\n\n**Jeju SK 2–1 FC Anyang** — slight lean toward the hosts breaking the curse at home. ⚽",
+          "generated_at": "2026-08-15T04:42:05.137506+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -8031,7 +8097,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Gwangju hosting a Pohang side in absolute freefall** — this feels like the kind of fixture where the home team finally gets to exhale. 🏠\n\n**Gwangju** are grinding draws and the occasional loss, stuck in neutral. **Pohang**, meanwhile, are catastrophic — zero wins in five, five straight defeats at home included. The Steelers are bleeding confidence, and walking into Gwangju Stadium with that form is brutal.\n\nKey storylines:\n\n- **Pohang's home form collapse** means they've got nowhere to hide; every match feels like a must-win they can't afford to lose\n- **Gwangju's neutral record** suggests they're vulnerable too, but against *this* Pohang side, being mediocre is almost an asset\n- **H2H history favors Pohang** (6 wins in the last 10), but form trumps history when you're losing every week\n\nExpected lineups:\n\n- **Gwangju FC**: D. Kim, Seung-un Ha, Y. Ahn, T. v. Grunsten, S. Y. Kwon, M. Moon, J. Jeong, Y. Je-ho, Y. Hong, H. A. Friðjónsson\n- **Pohang Steelers**: S. Hong, D. Kim, H. Kim, J. Eo, K. Shin, S. Kim, K. Nishiya, C. Sang-Hyeok, A. Jae-joon, H. Seo-woong\n\nPrediction:\n\n**Gwangju 1-0 Pohang**. The home crowd and Pohang's mental state give Gwangju a slight edge — this feels like a chance for the hosts to finally break through. 📍",
+            "generated_at": "2026-08-15T04:41:59.700247+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.711066+00:00",
@@ -8231,7 +8300,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Gwangju hosting a Pohang side in absolute freefall** — this feels like the kind of fixture where the home team finally gets to exhale. 🏠\n\n**Gwangju** are grinding draws and the occasional loss, stuck in neutral. **Pohang**, meanwhile, are catastrophic — zero wins in five, five straight defeats at home included. The Steelers are bleeding confidence, and walking into Gwangju Stadium with that form is brutal.\n\nKey storylines:\n\n- **Pohang's home form collapse** means they've got nowhere to hide; every match feels like a must-win they can't afford to lose\n- **Gwangju's neutral record** suggests they're vulnerable too, but against *this* Pohang side, being mediocre is almost an asset\n- **H2H history favors Pohang** (6 wins in the last 10), but form trumps history when you're losing every week\n\nExpected lineups:\n\n- **Gwangju FC**: D. Kim, Seung-un Ha, Y. Ahn, T. v. Grunsten, S. Y. Kwon, M. Moon, J. Jeong, Y. Je-ho, Y. Hong, H. A. Friðjónsson\n- **Pohang Steelers**: S. Hong, D. Kim, H. Kim, J. Eo, K. Shin, S. Kim, K. Nishiya, C. Sang-Hyeok, A. Jae-joon, H. Seo-woong\n\nPrediction:\n\n**Gwangju 1-0 Pohang**. The home crowd and Pohang's mental state give Gwangju a slight edge — this feels like a chance for the hosts to finally break through. 📍",
+          "generated_at": "2026-08-15T04:41:59.700247+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -8724,7 +8796,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Liaoning's home fortress gets tested by a wounded Shenzhen outfit that can't seem to catch a break.** This is the kind of matchup where form tells the story — one side clawing for consistency, the other spiraling after a 0-4 hammering.\n\nLiaoning showed steel at home against Shanghai Shenhua (3-1 win) but then flopped defensively at Qingdao, so the Tiexi Stadium vibe is mixed. Shenzhen's recent collapse — losing 3-4 to Yunnan after that brutal Beijing Guoan scoreline — screams a team fighting for footing. The H2H edge? Liaoning's got history here.\n\nKey storylines:\n\n- **Liaoning's home record under scrutiny**: One big win sandwiched between two losses at Tiexi means they need to deliver when it counts.\n- **Shenzhen leaking goals**: Three losses in five means defensive shape is dodgy; **Wesley Moraes** and the attack have to justify the lineup.\n- **Mbenza vs Ademi**: Two strikers tasked with being the focal point in a tight midfield scrap.\n\nExpected lineups:\n\n- **Liaoning Tieren FC**: Y. Zhang, Felipe, Y. Mincheng, J. Gao, A. Kouamé, T. Kunimoto, Z. Yifeng, Jeffinho, T. Li, B. Chen, G. Mbenza\n- **Shenzhen Peng City**: P. Peng, Z. Xuan, S. Huanming, G. Xavier, Y. Tian, T. Chow, D. O. Sekyere, Z. Yufeng, L. Ning, A. Ademi, Wesley Moraes\n\nPrediction:\n\n**Liaoning 2-1 Shenzhen** — home court and momentum lean toward the hosts, but Shenzhen's offensive weapons keep it tight. 🎯",
+            "generated_at": "2026-08-15T04:42:15.766776+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.704370+00:00",
@@ -8922,7 +8997,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Liaoning's home fortress gets tested by a wounded Shenzhen outfit that can't seem to catch a break.** This is the kind of matchup where form tells the story — one side clawing for consistency, the other spiraling after a 0-4 hammering.\n\nLiaoning showed steel at home against Shanghai Shenhua (3-1 win) but then flopped defensively at Qingdao, so the Tiexi Stadium vibe is mixed. Shenzhen's recent collapse — losing 3-4 to Yunnan after that brutal Beijing Guoan scoreline — screams a team fighting for footing. The H2H edge? Liaoning's got history here.\n\nKey storylines:\n\n- **Liaoning's home record under scrutiny**: One big win sandwiched between two losses at Tiexi means they need to deliver when it counts.\n- **Shenzhen leaking goals**: Three losses in five means defensive shape is dodgy; **Wesley Moraes** and the attack have to justify the lineup.\n- **Mbenza vs Ademi**: Two strikers tasked with being the focal point in a tight midfield scrap.\n\nExpected lineups:\n\n- **Liaoning Tieren FC**: Y. Zhang, Felipe, Y. Mincheng, J. Gao, A. Kouamé, T. Kunimoto, Z. Yifeng, Jeffinho, T. Li, B. Chen, G. Mbenza\n- **Shenzhen Peng City**: P. Peng, Z. Xuan, S. Huanming, G. Xavier, Y. Tian, T. Chow, D. O. Sekyere, Z. Yufeng, L. Ning, A. Ademi, Wesley Moraes\n\nPrediction:\n\n**Liaoning 2-1 Shenzhen** — home court and momentum lean toward the hosts, but Shenzhen's offensive weapons keep it tight. 🎯",
+          "generated_at": "2026-08-15T04:42:15.766776+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -13315,7 +13393,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Zhejiang host a Chengdu side stuck in draw hell — time to cash in on home advantage.** This is a classic momentum vs. form mismatch: the Zhejiang lads are rolling with 2 wins in their last 5, while Chengdu has somehow scraped together four stalemates in a row. 🔥\n\nZhejiang's offense clicked recently (beat Dalian 3-2 at home), and playing in front of their own crowd at Huanglong should amplify that edge. Chengdu, meanwhile, can't seem to find the back of the net reliably — stuck in a defensive grind that screams \"easy target for a fired-up host.\"\n\nKey storylines:\n\n- **Zhejiang's attacking tempo** (A. Mitriță, M. Tolić, W. Yudong leading the charge) looks primed to exploit Chengdu's sluggish defense\n- **Chengdu's draw curse** continues to haunt them — five straight matches without a win is a mental killer\n- **Home dominance**: Zhejiang have the crowd and recent home form; Chengdu travel badly\n\nExpected lineups:\n\n- **Zhejiang**: B. Zhao, L. Possignolo, L. Haofan, J. S. Park, X. Junchi, Z. Aihui, J. Zhang, A. Mitriță, M. Tolić, D. Gao, W. Yudong\n- **Chengdu Rongcheng**: L. Dianzuo, H. Hetao, H. Yiran, Y. Li, E. Sorokin, W. Silva, Y. Ming-Yang, H. Pengfei, W. Shihao, F. Silva, B. Abuduwaili\n\nPrediction:\n\n**Zhejiang 2–0 Chengdu Rongcheng**\n\nHome side lean — Zhejiang's sharpness should slice through a tired, draw-addicted defense.",
+            "generated_at": "2026-08-15T04:42:28.129900+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.642149+00:00",
@@ -13515,7 +13596,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Zhejiang host a Chengdu side stuck in draw hell — time to cash in on home advantage.** This is a classic momentum vs. form mismatch: the Zhejiang lads are rolling with 2 wins in their last 5, while Chengdu has somehow scraped together four stalemates in a row. 🔥\n\nZhejiang's offense clicked recently (beat Dalian 3-2 at home), and playing in front of their own crowd at Huanglong should amplify that edge. Chengdu, meanwhile, can't seem to find the back of the net reliably — stuck in a defensive grind that screams \"easy target for a fired-up host.\"\n\nKey storylines:\n\n- **Zhejiang's attacking tempo** (A. Mitriță, M. Tolić, W. Yudong leading the charge) looks primed to exploit Chengdu's sluggish defense\n- **Chengdu's draw curse** continues to haunt them — five straight matches without a win is a mental killer\n- **Home dominance**: Zhejiang have the crowd and recent home form; Chengdu travel badly\n\nExpected lineups:\n\n- **Zhejiang**: B. Zhao, L. Possignolo, L. Haofan, J. S. Park, X. Junchi, Z. Aihui, J. Zhang, A. Mitriță, M. Tolić, D. Gao, W. Yudong\n- **Chengdu Rongcheng**: L. Dianzuo, H. Hetao, H. Yiran, Y. Li, E. Sorokin, W. Silva, Y. Ming-Yang, H. Pengfei, W. Shihao, F. Silva, B. Abuduwaili\n\nPrediction:\n\n**Zhejiang 2–0 Chengdu Rongcheng**\n\nHome side lean — Zhejiang's sharpness should slice through a tired, draw-addicted defense.",
+          "generated_at": "2026-08-15T04:42:28.129900+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -14010,7 +14094,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**A heavyweight clash in Tianjin as these two Super League heavyweights lock horns** — Jinmen Tiger have caught fire with four wins in five, while Guoan's defensive solidity (three wins, zero losses recently) makes this a proper test. 🔥\n\nJinmen Tiger are swaggering right now after dismantling Yunnan and blanking Qingdao, but that loss to Shandong showed they can be vulnerable. Guoan, meanwhile, haven't lost in their last five and breezed past Shenzhen 4-0, so they're no slouches either. The H2H leans Guoan's way (4 wins to Jinmen's 2), though draws have been common.\n\nKey storylines:\n\n- **Jinmen Tiger's attack** spearheaded by **A. Quiles** and **G. Schettine** will need to break down a Guoan backline featuring **G. Ramos** and **D. Jiefu**\n- **Guoan's wing play** through **S. Erjini'ao** and **Y. Cao** could exploit Jinmen's wider areas\n- Home advantage at TEDA Stadium gives **Jinmen Tiger** the edge in a tactical midfield battle\n\nExpected lineups:\n\n- **Tianjin Jinmen Tiger**: Y. Bingliang, A. C. Querejeta, D. Ba, M. Sun, F. Yang, X. Wang, B. Xadas, J. Huang, A. Quiles, G. Schettine\n- **Beijing Guoan**: H. Sen, D. Jiefu, G. Ramos, B. Yang, T. Yue, A. Konte, Dawhan, S. Erjini'ao, Y. Cao, F. Abreu\n\nPrediction:\n\n**2-1 Tianjin Jinmen Tiger**. Jinmen's purple patch at home edges the historically stronger H2H profile of Guoan. 🎯",
+            "generated_at": "2026-08-15T04:42:22.987648+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.649164+00:00",
@@ -14207,7 +14294,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**A heavyweight clash in Tianjin as these two Super League heavyweights lock horns** — Jinmen Tiger have caught fire with four wins in five, while Guoan's defensive solidity (three wins, zero losses recently) makes this a proper test. 🔥\n\nJinmen Tiger are swaggering right now after dismantling Yunnan and blanking Qingdao, but that loss to Shandong showed they can be vulnerable. Guoan, meanwhile, haven't lost in their last five and breezed past Shenzhen 4-0, so they're no slouches either. The H2H leans Guoan's way (4 wins to Jinmen's 2), though draws have been common.\n\nKey storylines:\n\n- **Jinmen Tiger's attack** spearheaded by **A. Quiles** and **G. Schettine** will need to break down a Guoan backline featuring **G. Ramos** and **D. Jiefu**\n- **Guoan's wing play** through **S. Erjini'ao** and **Y. Cao** could exploit Jinmen's wider areas\n- Home advantage at TEDA Stadium gives **Jinmen Tiger** the edge in a tactical midfield battle\n\nExpected lineups:\n\n- **Tianjin Jinmen Tiger**: Y. Bingliang, A. C. Querejeta, D. Ba, M. Sun, F. Yang, X. Wang, B. Xadas, J. Huang, A. Quiles, G. Schettine\n- **Beijing Guoan**: H. Sen, D. Jiefu, G. Ramos, B. Yang, T. Yue, A. Konte, Dawhan, S. Erjini'ao, Y. Cao, F. Abreu\n\nPrediction:\n\n**2-1 Tianjin Jinmen Tiger**. Jinmen's purple patch at home edges the historically stronger H2H profile of Guoan. 🎯",
+          "generated_at": "2026-08-15T04:42:22.987648+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -14664,7 +14754,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Yunnan's high-octane offense meets Dalian's recent hot streak** — this Round 23 showdown has all the makings of a goals-fest, with both teams playing attacking football. 🔥\n\nYunnan Yukun has been a proper roller coaster lately, pinging in goals (4 and 2 in their last two) but also leaking them just as freely. Dalian Yingbo FC, meanwhile, are on a **3W-1D run** and looking sharp defensively, though they got turned over badly by Zhejiang last time out.\n\nKey storylines:\n\n- **Yunnan's attacking trio** — Cléber, Z. Han, and B. Abdusalam — need to stay clinical against a tightening Dalian backline\n- **Dalian's midfield control** — N. Stanciu and J. Liao holding the shape while F. Acheampong threatens on the break\n- **Home altitude advantage** — Yuxi's elevation could favor Yunnan's fitness if they manage the tempo\n\nExpected lineups:\n\n- **Yunnan Yukun**: Z. Wang, A. Burcă, C. Zhang, W. Tsui, O. T. Maritu, A. Ioniță, J. H. Sæter, Cléber, Z. Han, B. Abdusalam\n- **Dalian Yingbo FC**: W. Liu, I. Alimi, M. Traoré, L. Zhuoyi, N. Stanciu, J. Liao, F. Acheampong, Y. Mingrui, Z. Pengyu\n\nPrediction:\n\n**2-1 Yunnan Yukun** — slight edge to the hosts' creativity at home, but Dalian will make them sweat. ⚽",
+            "generated_at": "2026-08-15T04:42:38.498335+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.627677+00:00",
@@ -14862,7 +14955,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Yunnan's high-octane offense meets Dalian's recent hot streak** — this Round 23 showdown has all the makings of a goals-fest, with both teams playing attacking football. 🔥\n\nYunnan Yukun has been a proper roller coaster lately, pinging in goals (4 and 2 in their last two) but also leaking them just as freely. Dalian Yingbo FC, meanwhile, are on a **3W-1D run** and looking sharp defensively, though they got turned over badly by Zhejiang last time out.\n\nKey storylines:\n\n- **Yunnan's attacking trio** — Cléber, Z. Han, and B. Abdusalam — need to stay clinical against a tightening Dalian backline\n- **Dalian's midfield control** — N. Stanciu and J. Liao holding the shape while F. Acheampong threatens on the break\n- **Home altitude advantage** — Yuxi's elevation could favor Yunnan's fitness if they manage the tempo\n\nExpected lineups:\n\n- **Yunnan Yukun**: Z. Wang, A. Burcă, C. Zhang, W. Tsui, O. T. Maritu, A. Ioniță, J. H. Sæter, Cléber, Z. Han, B. Abdusalam\n- **Dalian Yingbo FC**: W. Liu, I. Alimi, M. Traoré, L. Zhuoyi, N. Stanciu, J. Liao, F. Acheampong, Y. Mingrui, Z. Pengyu\n\nPrediction:\n\n**2-1 Yunnan Yukun** — slight edge to the hosts' creativity at home, but Dalian will make them sweat. ⚽",
+          "generated_at": "2026-08-15T04:42:38.498335+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -15320,7 +15416,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Shanghai Shenhua's hosting a Henan side that's actually been solid lately — but history says the hosts should have this one.** 🔵\n\nShenhua have been hot-and-cold (2W, 3L in five), while Henan are quietly climbing with 2W, 2D this stretch. The home team's dominance in the head-to-head (7 wins in 10) is hard to ignore, though — Henan's only got one win against them.\n\nKey storylines:\n\n- **Shanghai Shenhua** are chasing consistency at home; **R. Ratão** and **G. Tianyi** need to click in the final third\n- **Henan FC** come in unbeaten in three (2W, 1D), led by their attacking threat **Gustavo** and **Maranhão**\n- The midfield battle between **W. Xi** and **B. Nazário** will set the tempo for this one\n\nExpected lineups:\n\n- **Shanghai Shenhua**: X. Qinghao, S. Chan, C. Zhu, S. Jin, Y. Zexiang, W. Xi, H. Wang, L. Asué, G. Tianyi, L. Chengyu, R. Ratão\n- **Henan FC**: G. Wang, H. Ruifeng, I. Maidana, C. He, Y. Shinar, B. Nazário, S. Wang, Lucão, Y. Zhong, Maranhão, Gustavo\n\nPrediction:\n\n**Shenhua 2–1 Henan.** Home fortress advantage and the historical edge tilt this one toward Shanghai, but Henan's recent form keeps it competitive.",
+            "generated_at": "2026-08-15T04:42:33.054824+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.635676+00:00",
@@ -15520,7 +15619,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Shanghai Shenhua's hosting a Henan side that's actually been solid lately — but history says the hosts should have this one.** 🔵\n\nShenhua have been hot-and-cold (2W, 3L in five), while Henan are quietly climbing with 2W, 2D this stretch. The home team's dominance in the head-to-head (7 wins in 10) is hard to ignore, though — Henan's only got one win against them.\n\nKey storylines:\n\n- **Shanghai Shenhua** are chasing consistency at home; **R. Ratão** and **G. Tianyi** need to click in the final third\n- **Henan FC** come in unbeaten in three (2W, 1D), led by their attacking threat **Gustavo** and **Maranhão**\n- The midfield battle between **W. Xi** and **B. Nazário** will set the tempo for this one\n\nExpected lineups:\n\n- **Shanghai Shenhua**: X. Qinghao, S. Chan, C. Zhu, S. Jin, Y. Zexiang, W. Xi, H. Wang, L. Asué, G. Tianyi, L. Chengyu, R. Ratão\n- **Henan FC**: G. Wang, H. Ruifeng, I. Maidana, C. He, Y. Shinar, B. Nazário, S. Wang, Lucão, Y. Zhong, Maranhão, Gustavo\n\nPrediction:\n\n**Shenhua 2–1 Henan.** Home fortress advantage and the historical edge tilt this one toward Shanghai, but Henan's recent form keeps it competitive.",
+          "generated_at": "2026-08-15T04:42:33.054824+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -19574,7 +19676,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Two teams stuck in neutral fire up for a proper scrap at KFUM Arena.** Both sides are 2W–3L over five, so someone *has* to find their feet here. 🔥\n\nKFUM Oslo bounced back from a hammering at Molde with a solid away win, while Lillestrøm took lumps from Bodø/Glimt and Rosenborg but showed fight against Viking. The head-to-head favors Lillestrøm historically (2 wins to 1), but that's ancient history in form tables.\n\nKey storylines:\n\n- **KFUM's depth test**: Missing Aleesami and M. Nije, the defense leans hard on E. F. Saunes and D. Schneider to hold the line against Lillestrøm's attacking unit\n- **Lillestrøm's strike force**: Y. Paintsil and T. L. Olsen have to convert chances — they've been starved of goals in recent defeats\n- **Home advantage or trap game?**: KFUM won their last home outing; Lillestrøm haven't found rhythm away from Åråsen, so tactical discipline wins this\n\nExpected lineups:\n\n- **KFUM Oslo**: E. Odegaard, D. Schneider, E. F. Saunes, M. L. Njie, J. L. Hjorth, H. H. Hoseth, T. A. Soras, B. Njie, B. M. Kristensen\n- **Lillestrøm SK**: P. Dahlberg, F. Elkær, R. Gabrielsen, S. Kristiansen, Y. Ibrahimaj, G. Nordh, G. K. Nyheim, Y. Paintsil, T. L. Olsen\n\nPrediction:\n\n**KFUM Oslo 2–1 Lillestrøm SK**. Slight edge to the hosts on form momentum and home turf, but this is tighter than it looks. 🎯",
+            "generated_at": "2026-08-15T04:42:54.648781+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.447094+00:00",
@@ -19833,7 +19938,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Two teams stuck in neutral fire up for a proper scrap at KFUM Arena.** Both sides are 2W–3L over five, so someone *has* to find their feet here. 🔥\n\nKFUM Oslo bounced back from a hammering at Molde with a solid away win, while Lillestrøm took lumps from Bodø/Glimt and Rosenborg but showed fight against Viking. The head-to-head favors Lillestrøm historically (2 wins to 1), but that's ancient history in form tables.\n\nKey storylines:\n\n- **KFUM's depth test**: Missing Aleesami and M. Nije, the defense leans hard on E. F. Saunes and D. Schneider to hold the line against Lillestrøm's attacking unit\n- **Lillestrøm's strike force**: Y. Paintsil and T. L. Olsen have to convert chances — they've been starved of goals in recent defeats\n- **Home advantage or trap game?**: KFUM won their last home outing; Lillestrøm haven't found rhythm away from Åråsen, so tactical discipline wins this\n\nExpected lineups:\n\n- **KFUM Oslo**: E. Odegaard, D. Schneider, E. F. Saunes, M. L. Njie, J. L. Hjorth, H. H. Hoseth, T. A. Soras, B. Njie, B. M. Kristensen\n- **Lillestrøm SK**: P. Dahlberg, F. Elkær, R. Gabrielsen, S. Kristiansen, Y. Ibrahimaj, G. Nordh, G. K. Nyheim, Y. Paintsil, T. L. Olsen\n\nPrediction:\n\n**KFUM Oslo 2–1 Lillestrøm SK**. Slight edge to the hosts on form momentum and home turf, but this is tighter than it looks. 🎯",
+          "generated_at": "2026-08-15T04:42:54.648781+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
