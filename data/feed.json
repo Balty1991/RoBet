@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T19:45:53.516Z",
+  "generated_at": "2026-08-15T20:26:06.895Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -95,7 +95,7 @@
           "odds_away": 3.9,
           "odds_over_15": 1.37,
           "odds_over_25": 2.18,
-          "odds_over_35": 3.92,
+          "odds_over_35": 3.93,
           "odds_under_15": 2.93,
           "odds_under_25": 1.65,
           "odds_under_35": 1.23,
@@ -235,7 +235,464 @@
           },
           "incidents": null,
           "live_stats": null,
-          "lineups": null,
+          "lineups": {
+            "away": {
+              "players": [
+                {
+                  "name": "Tiago Volpi",
+                  "goals": 0,
+                  "api_id": 243509,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "G",
+                  "red_card": false,
+                  "player_id": 607,
+                  "yellow_card": false,
+                  "jersey_number": "18",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "T. Volpi",
+                  "specific_position": "GK",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Agustin Sant Anna",
+                  "goals": 0,
+                  "api_id": 869726,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 4043,
+                  "yellow_card": false,
+                  "jersey_number": "23",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "A. Sant Anna",
+                  "specific_position": "DEF",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Gustavo Marques",
+                  "goals": 0,
+                  "api_id": 1174764,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 279,
+                  "yellow_card": false,
+                  "jersey_number": "16",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "G. Marques",
+                  "specific_position": "CB",
+                  "positions_detailed": [
+                    "CB"
+                  ]
+                },
+                {
+                  "name": "Alix Vinicius",
+                  "goals": 0,
+                  "api_id": 1117597,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 278,
+                  "yellow_card": false,
+                  "jersey_number": "4",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "A. Vinicius",
+                  "specific_position": "CB",
+                  "positions_detailed": [
+                    "CB"
+                  ]
+                },
+                {
+                  "name": "Juninho Capixaba",
+                  "goals": 0,
+                  "api_id": 870556,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 280,
+                  "yellow_card": false,
+                  "jersey_number": "29",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "J. Capixaba",
+                  "specific_position": "DEF",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Eric Ramires",
+                  "goals": 0,
+                  "api_id": 950545,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 290,
+                  "yellow_card": false,
+                  "jersey_number": "7",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "E. Ramires",
+                  "specific_position": "MID",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Rodriguinho",
+                  "goals": 0,
+                  "api_id": 1200730,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 4354,
+                  "yellow_card": false,
+                  "jersey_number": "20",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "Rodriguinho",
+                  "specific_position": "CM",
+                  "positions_detailed": [
+                    "CM"
+                  ]
+                },
+                {
+                  "name": "José Herrera",
+                  "goals": 0,
+                  "api_id": 1179171,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 237,
+                  "yellow_card": false,
+                  "jersey_number": "32",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "J. Herrera",
+                  "specific_position": "RW",
+                  "positions_detailed": [
+                    "RW"
+                  ]
+                },
+                {
+                  "name": "Lucas Barbosa",
+                  "goals": 0,
+                  "api_id": 1067641,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 283,
+                  "yellow_card": false,
+                  "jersey_number": "21",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "L. Barbosa",
+                  "specific_position": "RW",
+                  "positions_detailed": [
+                    "RW"
+                  ]
+                },
+                {
+                  "name": "Henry Mosquera",
+                  "goals": 0,
+                  "api_id": 1170680,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 4260,
+                  "yellow_card": false,
+                  "jersey_number": "30",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "H. Mosquera",
+                  "specific_position": "LW",
+                  "positions_detailed": [
+                    "LW",
+                    "RW"
+                  ]
+                },
+                {
+                  "name": "Eduardo Sasha",
+                  "goals": 0,
+                  "api_id": 143846,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 284,
+                  "yellow_card": false,
+                  "jersey_number": "8",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "E. Sasha",
+                  "specific_position": "FWD",
+                  "positions_detailed": []
+                }
+              ],
+              "formation": "4-2-3-1",
+              "substitutes": []
+            },
+            "home": {
+              "players": [
+                {
+                  "name": "Santos",
+                  "goals": 0,
+                  "api_id": 166491,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "G",
+                  "red_card": false,
+                  "player_id": 12238,
+                  "yellow_card": false,
+                  "jersey_number": "23",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "Santos",
+                  "specific_position": "GK",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Gastón Benavídez",
+                  "goals": 0,
+                  "api_id": 981452,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 12241,
+                  "yellow_card": false,
+                  "jersey_number": "29",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "G. Benavídez",
+                  "specific_position": "RB",
+                  "positions_detailed": [
+                    "RB",
+                    "RM"
+                  ]
+                },
+                {
+                  "name": "Juan Felipe Aguirre",
+                  "goals": 0,
+                  "api_id": 925173,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 12239,
+                  "yellow_card": false,
+                  "jersey_number": "33",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "J. F. Aguirre",
+                  "specific_position": "CB",
+                  "positions_detailed": [
+                    "CB"
+                  ]
+                },
+                {
+                  "name": "Arthur Dias",
+                  "goals": 0,
+                  "api_id": 2063956,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 12240,
+                  "yellow_card": false,
+                  "jersey_number": "4",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "A. Dias",
+                  "specific_position": "CB",
+                  "positions_detailed": [
+                    "CB",
+                    "LB"
+                  ]
+                },
+                {
+                  "name": "Gilberto",
+                  "goals": 0,
+                  "api_id": 261687,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 110,
+                  "yellow_card": false,
+                  "jersey_number": "12",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "Gilberto",
+                  "specific_position": "DEF",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Jádson",
+                  "goals": 0,
+                  "api_id": 243651,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 189,
+                  "yellow_card": false,
+                  "jersey_number": "16",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "Jádson",
+                  "specific_position": "MID",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Luiz Gustavo",
+                  "goals": 0,
+                  "api_id": 29735,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 144,
+                  "yellow_card": false,
+                  "jersey_number": "14",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "L. Gustavo",
+                  "specific_position": "MID",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Steven Mendoza",
+                  "goals": 0,
+                  "api_id": 354510,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 12244,
+                  "yellow_card": false,
+                  "jersey_number": "7",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "S. Mendoza",
+                  "specific_position": "MID",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Leozinho",
+                  "goals": 0,
+                  "api_id": 1546647,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 12251,
+                  "yellow_card": false,
+                  "jersey_number": "21",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "Leozinho",
+                  "specific_position": "RM",
+                  "positions_detailed": [
+                    "RM"
+                  ]
+                },
+                {
+                  "name": "João Cruz",
+                  "goals": 0,
+                  "api_id": 1485226,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 12249,
+                  "yellow_card": false,
+                  "jersey_number": "8",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "J. Cruz",
+                  "specific_position": "CM",
+                  "positions_detailed": [
+                    "CM"
+                  ]
+                },
+                {
+                  "name": "Kevin Viveros",
+                  "goals": 0,
+                  "api_id": 925124,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 12246,
+                  "yellow_card": false,
+                  "jersey_number": "9",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "K. Viveros",
+                  "specific_position": "FWD",
+                  "positions_detailed": []
+                }
+              ],
+              "formation": "3-4-2-1",
+              "substitutes": []
+            },
+            "confirmed": false
+          },
           "shotmap": null,
           "momentum": null,
           "xg_per_minute": null,
@@ -344,7 +801,7 @@
         "odds_away": 3.9,
         "odds_over_15": 1.37,
         "odds_over_25": 2.18,
-        "odds_over_35": 3.92,
+        "odds_over_35": 3.93,
         "odds_under_15": 2.93,
         "odds_under_25": 1.65,
         "odds_under_35": 1.23,
@@ -572,7 +1029,464 @@
             }
           ]
         },
-        "lineups": null,
+        "lineups": {
+          "away": {
+            "players": [
+              {
+                "name": "Tiago Volpi",
+                "goals": 0,
+                "api_id": 243509,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "G",
+                "red_card": false,
+                "player_id": 607,
+                "yellow_card": false,
+                "jersey_number": "18",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "T. Volpi",
+                "specific_position": "GK",
+                "positions_detailed": []
+              },
+              {
+                "name": "Agustin Sant Anna",
+                "goals": 0,
+                "api_id": 869726,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 4043,
+                "yellow_card": false,
+                "jersey_number": "23",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "A. Sant Anna",
+                "specific_position": "DEF",
+                "positions_detailed": []
+              },
+              {
+                "name": "Gustavo Marques",
+                "goals": 0,
+                "api_id": 1174764,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 279,
+                "yellow_card": false,
+                "jersey_number": "16",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "G. Marques",
+                "specific_position": "CB",
+                "positions_detailed": [
+                  "CB"
+                ]
+              },
+              {
+                "name": "Alix Vinicius",
+                "goals": 0,
+                "api_id": 1117597,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 278,
+                "yellow_card": false,
+                "jersey_number": "4",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "A. Vinicius",
+                "specific_position": "CB",
+                "positions_detailed": [
+                  "CB"
+                ]
+              },
+              {
+                "name": "Juninho Capixaba",
+                "goals": 0,
+                "api_id": 870556,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 280,
+                "yellow_card": false,
+                "jersey_number": "29",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "J. Capixaba",
+                "specific_position": "DEF",
+                "positions_detailed": []
+              },
+              {
+                "name": "Eric Ramires",
+                "goals": 0,
+                "api_id": 950545,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 290,
+                "yellow_card": false,
+                "jersey_number": "7",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "E. Ramires",
+                "specific_position": "MID",
+                "positions_detailed": []
+              },
+              {
+                "name": "Rodriguinho",
+                "goals": 0,
+                "api_id": 1200730,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 4354,
+                "yellow_card": false,
+                "jersey_number": "20",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "Rodriguinho",
+                "specific_position": "CM",
+                "positions_detailed": [
+                  "CM"
+                ]
+              },
+              {
+                "name": "José Herrera",
+                "goals": 0,
+                "api_id": 1179171,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 237,
+                "yellow_card": false,
+                "jersey_number": "32",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "J. Herrera",
+                "specific_position": "RW",
+                "positions_detailed": [
+                  "RW"
+                ]
+              },
+              {
+                "name": "Lucas Barbosa",
+                "goals": 0,
+                "api_id": 1067641,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 283,
+                "yellow_card": false,
+                "jersey_number": "21",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "L. Barbosa",
+                "specific_position": "RW",
+                "positions_detailed": [
+                  "RW"
+                ]
+              },
+              {
+                "name": "Henry Mosquera",
+                "goals": 0,
+                "api_id": 1170680,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 4260,
+                "yellow_card": false,
+                "jersey_number": "30",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "H. Mosquera",
+                "specific_position": "LW",
+                "positions_detailed": [
+                  "LW",
+                  "RW"
+                ]
+              },
+              {
+                "name": "Eduardo Sasha",
+                "goals": 0,
+                "api_id": 143846,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 284,
+                "yellow_card": false,
+                "jersey_number": "8",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "E. Sasha",
+                "specific_position": "FWD",
+                "positions_detailed": []
+              }
+            ],
+            "formation": "4-2-3-1",
+            "substitutes": []
+          },
+          "home": {
+            "players": [
+              {
+                "name": "Santos",
+                "goals": 0,
+                "api_id": 166491,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "G",
+                "red_card": false,
+                "player_id": 12238,
+                "yellow_card": false,
+                "jersey_number": "23",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "Santos",
+                "specific_position": "GK",
+                "positions_detailed": []
+              },
+              {
+                "name": "Gastón Benavídez",
+                "goals": 0,
+                "api_id": 981452,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 12241,
+                "yellow_card": false,
+                "jersey_number": "29",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "G. Benavídez",
+                "specific_position": "RB",
+                "positions_detailed": [
+                  "RB",
+                  "RM"
+                ]
+              },
+              {
+                "name": "Juan Felipe Aguirre",
+                "goals": 0,
+                "api_id": 925173,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 12239,
+                "yellow_card": false,
+                "jersey_number": "33",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "J. F. Aguirre",
+                "specific_position": "CB",
+                "positions_detailed": [
+                  "CB"
+                ]
+              },
+              {
+                "name": "Arthur Dias",
+                "goals": 0,
+                "api_id": 2063956,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 12240,
+                "yellow_card": false,
+                "jersey_number": "4",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "A. Dias",
+                "specific_position": "CB",
+                "positions_detailed": [
+                  "CB",
+                  "LB"
+                ]
+              },
+              {
+                "name": "Gilberto",
+                "goals": 0,
+                "api_id": 261687,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 110,
+                "yellow_card": false,
+                "jersey_number": "12",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "Gilberto",
+                "specific_position": "DEF",
+                "positions_detailed": []
+              },
+              {
+                "name": "Jádson",
+                "goals": 0,
+                "api_id": 243651,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 189,
+                "yellow_card": false,
+                "jersey_number": "16",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "Jádson",
+                "specific_position": "MID",
+                "positions_detailed": []
+              },
+              {
+                "name": "Luiz Gustavo",
+                "goals": 0,
+                "api_id": 29735,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 144,
+                "yellow_card": false,
+                "jersey_number": "14",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "L. Gustavo",
+                "specific_position": "MID",
+                "positions_detailed": []
+              },
+              {
+                "name": "Steven Mendoza",
+                "goals": 0,
+                "api_id": 354510,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 12244,
+                "yellow_card": false,
+                "jersey_number": "7",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "S. Mendoza",
+                "specific_position": "MID",
+                "positions_detailed": []
+              },
+              {
+                "name": "Leozinho",
+                "goals": 0,
+                "api_id": 1546647,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 12251,
+                "yellow_card": false,
+                "jersey_number": "21",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "Leozinho",
+                "specific_position": "RM",
+                "positions_detailed": [
+                  "RM"
+                ]
+              },
+              {
+                "name": "João Cruz",
+                "goals": 0,
+                "api_id": 1485226,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 12249,
+                "yellow_card": false,
+                "jersey_number": "8",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "J. Cruz",
+                "specific_position": "CM",
+                "positions_detailed": [
+                  "CM"
+                ]
+              },
+              {
+                "name": "Kevin Viveros",
+                "goals": 0,
+                "api_id": 925124,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 12246,
+                "yellow_card": false,
+                "jersey_number": "9",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "K. Viveros",
+                "specific_position": "FWD",
+                "positions_detailed": []
+              }
+            ],
+            "formation": "3-4-2-1",
+            "substitutes": []
+          },
+          "confirmed": false
+        },
         "social": [
           {
             "id": 731431,
@@ -1608,15 +2522,15 @@
           "current_minute": null,
           "period": "",
           "odds_home": 1.99,
-          "odds_draw": 3.05,
-          "odds_away": 4.16,
+          "odds_draw": 3.06,
+          "odds_away": 4.17,
           "odds_over_15": 1.5,
           "odds_over_25": 2.54,
-          "odds_over_35": 4.94,
+          "odds_over_35": 4.95,
           "odds_under_15": 2.46,
           "odds_under_25": 1.47,
           "odds_under_35": 1.15,
-          "odds_btts_yes": 2.17,
+          "odds_btts_yes": 2.18,
           "odds_btts_no": 1.62,
           "actual_home_xg": null,
           "actual_away_xg": null,
@@ -1833,15 +2747,15 @@
         "current_minute": null,
         "period": "",
         "odds_home": 1.99,
-        "odds_draw": 3.05,
-        "odds_away": 4.16,
+        "odds_draw": 3.06,
+        "odds_away": 4.17,
         "odds_over_15": 1.5,
         "odds_over_25": 2.54,
-        "odds_over_35": 4.94,
+        "odds_over_35": 4.95,
         "odds_under_15": 2.46,
         "odds_under_25": 1.47,
         "odds_under_35": 1.15,
-        "odds_btts_yes": 2.17,
+        "odds_btts_yes": 2.18,
         "odds_btts_no": 1.62,
         "actual_home_xg": null,
         "actual_away_xg": null,
@@ -2304,16 +3218,16 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.58,
+          "odds_home": 2.59,
           "odds_draw": 2.74,
-          "odds_away": 3.14,
-          "odds_over_15": 1.69,
-          "odds_over_25": 3.09,
+          "odds_away": 3.12,
+          "odds_over_15": 1.68,
+          "odds_over_25": 3.1,
           "odds_over_35": 6.48,
-          "odds_under_15": 2.11,
-          "odds_under_25": 1.34,
+          "odds_under_15": 2.12,
+          "odds_under_25": 1.33,
           "odds_under_35": 1.09,
-          "odds_btts_yes": 2.39,
+          "odds_btts_yes": 2.38,
           "odds_btts_no": 1.52,
           "actual_home_xg": null,
           "actual_away_xg": null,
@@ -2569,16 +3483,16 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.58,
+        "odds_home": 2.59,
         "odds_draw": 2.74,
-        "odds_away": 3.14,
-        "odds_over_15": 1.69,
-        "odds_over_25": 3.09,
+        "odds_away": 3.12,
+        "odds_over_15": 1.68,
+        "odds_over_25": 3.1,
         "odds_over_35": 6.48,
-        "odds_under_15": 2.11,
-        "odds_under_25": 1.34,
+        "odds_under_15": 2.12,
+        "odds_under_25": 1.33,
         "odds_under_35": 1.09,
-        "odds_btts_yes": 2.39,
+        "odds_btts_yes": 2.38,
         "odds_btts_no": 1.52,
         "actual_home_xg": null,
         "actual_away_xg": null,
@@ -5709,17 +6623,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 5.33,
-          "odds_draw": 4.16,
-          "odds_away": 1.54,
+          "odds_home": 5.4,
+          "odds_draw": 4.21,
+          "odds_away": 1.53,
           "odds_over_15": 1.17,
-          "odds_over_25": 1.6,
-          "odds_over_35": 2.48,
-          "odds_under_15": 4.47,
-          "odds_under_25": 2.24,
-          "odds_under_35": 1.48,
+          "odds_over_25": 1.59,
+          "odds_over_35": 2.46,
+          "odds_under_15": 4.55,
+          "odds_under_25": 2.26,
+          "odds_under_35": 1.5,
           "odds_btts_yes": 1.67,
-          "odds_btts_no": 2.07,
+          "odds_btts_no": 2.08,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -5962,17 +6876,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 5.33,
-        "odds_draw": 4.16,
-        "odds_away": 1.54,
+        "odds_home": 5.4,
+        "odds_draw": 4.21,
+        "odds_away": 1.53,
         "odds_over_15": 1.17,
-        "odds_over_25": 1.6,
-        "odds_over_35": 2.48,
-        "odds_under_15": 4.47,
-        "odds_under_25": 2.24,
-        "odds_under_35": 1.48,
+        "odds_over_25": 1.59,
+        "odds_over_35": 2.46,
+        "odds_under_15": 4.55,
+        "odds_under_25": 2.26,
+        "odds_under_35": 1.5,
         "odds_btts_yes": 1.67,
-        "odds_btts_no": 2.07,
+        "odds_btts_no": 2.08,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -7661,7 +8575,7 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.14,
+          "odds_home": 2.15,
           "odds_draw": 3.56,
           "odds_away": 3.08,
           "odds_over_15": 1.19,
@@ -7732,7 +8646,13 @@
                 "name": "Bode Hidalgo",
                 "status": "injured",
                 "reason": "Muscle Injury",
-                "expected_return": "2026-08-31"
+                "expected_return": "2026-09-10"
+              },
+              {
+                "name": "Efraín Morales",
+                "status": "injured",
+                "reason": "Knock Injury",
+                "expected_return": "2026-09-10"
               },
               {
                 "name": "Frankie Amaya",
@@ -7744,7 +8664,7 @@
                 "name": "Josh Nteziryayo",
                 "status": "injured",
                 "reason": "Knock Injury",
-                "expected_return": "2026-08-31"
+                "expected_return": "2026-09-10"
               },
               {
                 "name": "Thomas Gillier",
@@ -7756,7 +8676,7 @@
                 "name": "Wikelman Carmona",
                 "status": "injured",
                 "reason": "Knee Injury",
-                "expected_return": "2026-08-31"
+                "expected_return": "2026-09-10"
               }
             ],
             "away": [
@@ -7765,6 +8685,12 @@
                 "status": "injured",
                 "reason": "Knock Injury",
                 "expected_return": "2026-08-31"
+              },
+              {
+                "name": "Kye Rowles",
+                "status": "injured",
+                "reason": "Thigh Injury",
+                "expected_return": "2026-09-20"
               },
               {
                 "name": "Lucas Bartlett",
@@ -7940,7 +8866,7 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.14,
+        "odds_home": 2.15,
         "odds_draw": 3.56,
         "odds_away": 3.08,
         "odds_over_15": 1.19,
@@ -8011,7 +8937,13 @@
               "name": "Bode Hidalgo",
               "status": "injured",
               "reason": "Muscle Injury",
-              "expected_return": "2026-08-31"
+              "expected_return": "2026-09-10"
+            },
+            {
+              "name": "Efraín Morales",
+              "status": "injured",
+              "reason": "Knock Injury",
+              "expected_return": "2026-09-10"
             },
             {
               "name": "Frankie Amaya",
@@ -8023,7 +8955,7 @@
               "name": "Josh Nteziryayo",
               "status": "injured",
               "reason": "Knock Injury",
-              "expected_return": "2026-08-31"
+              "expected_return": "2026-09-10"
             },
             {
               "name": "Thomas Gillier",
@@ -8035,7 +8967,7 @@
               "name": "Wikelman Carmona",
               "status": "injured",
               "reason": "Knee Injury",
-              "expected_return": "2026-08-31"
+              "expected_return": "2026-09-10"
             }
           ],
           "away": [
@@ -8044,6 +8976,12 @@
               "status": "injured",
               "reason": "Knock Injury",
               "expected_return": "2026-08-31"
+            },
+            {
+              "name": "Kye Rowles",
+              "status": "injured",
+              "reason": "Thigh Injury",
+              "expected_return": "2026-09-20"
             },
             {
               "name": "Lucas Bartlett",
@@ -8500,9 +9438,9 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.01,
-          "odds_draw": 3.63,
-          "odds_away": 3.33,
+          "odds_home": 2,
+          "odds_draw": 3.66,
+          "odds_away": 3.34,
           "odds_over_15": 1.18,
           "odds_over_25": 1.63,
           "odds_over_35": 2.56,
@@ -8568,6 +9506,18 @@
           "unavailable_players": {
             "home": [
               {
+                "name": "Deandre Kerr",
+                "status": "injured",
+                "reason": "Knock Injury",
+                "expected_return": "2026-09-10"
+              },
+              {
+                "name": "Jonathan Osorio",
+                "status": "injured",
+                "reason": "Knee Injury",
+                "expected_return": "2026-10-10"
+              },
+              {
                 "name": "Lazar Stefanovic",
                 "status": "injured",
                 "reason": "Foot Injury",
@@ -8589,13 +9539,13 @@
                 "name": "Nelson Palacio",
                 "status": "injured",
                 "reason": "Muscle Injury",
-                "expected_return": "2026-08-31"
+                "expected_return": "2026-09-10"
               },
               {
                 "name": "Nickseon Gomis",
                 "status": "injured",
                 "reason": "Muscle Injury",
-                "expected_return": "2026-08-31"
+                "expected_return": "2026-09-10"
               }
             ],
             "away": [
@@ -8603,19 +9553,25 @@
                 "name": "Andrew Farrell",
                 "status": "injured",
                 "reason": "Muscle Injury",
-                "expected_return": "2026-08-31"
+                "expected_return": "2026-09-10"
               },
               {
                 "name": "Ilay Feingold",
                 "status": "injured",
                 "reason": "Knock Injury",
-                "expected_return": "2026-08-31"
+                "expected_return": "2026-09-10"
               },
               {
                 "name": "Leonardo Campana",
                 "status": "injured",
                 "reason": "Muscle Injury",
-                "expected_return": "2026-08-31"
+                "expected_return": "2026-09-10"
+              },
+              {
+                "name": "Luca Langoni",
+                "status": "injured",
+                "reason": "Knock Injury",
+                "expected_return": "2026-09-10"
               }
             ]
           },
@@ -8784,9 +9740,9 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.01,
-        "odds_draw": 3.63,
-        "odds_away": 3.33,
+        "odds_home": 2,
+        "odds_draw": 3.66,
+        "odds_away": 3.34,
         "odds_over_15": 1.18,
         "odds_over_25": 1.63,
         "odds_over_35": 2.56,
@@ -8852,6 +9808,18 @@
         "unavailable_players": {
           "home": [
             {
+              "name": "Deandre Kerr",
+              "status": "injured",
+              "reason": "Knock Injury",
+              "expected_return": "2026-09-10"
+            },
+            {
+              "name": "Jonathan Osorio",
+              "status": "injured",
+              "reason": "Knee Injury",
+              "expected_return": "2026-10-10"
+            },
+            {
               "name": "Lazar Stefanovic",
               "status": "injured",
               "reason": "Foot Injury",
@@ -8873,13 +9841,13 @@
               "name": "Nelson Palacio",
               "status": "injured",
               "reason": "Muscle Injury",
-              "expected_return": "2026-08-31"
+              "expected_return": "2026-09-10"
             },
             {
               "name": "Nickseon Gomis",
               "status": "injured",
               "reason": "Muscle Injury",
-              "expected_return": "2026-08-31"
+              "expected_return": "2026-09-10"
             }
           ],
           "away": [
@@ -8887,19 +9855,25 @@
               "name": "Andrew Farrell",
               "status": "injured",
               "reason": "Muscle Injury",
-              "expected_return": "2026-08-31"
+              "expected_return": "2026-09-10"
             },
             {
               "name": "Ilay Feingold",
               "status": "injured",
               "reason": "Knock Injury",
-              "expected_return": "2026-08-31"
+              "expected_return": "2026-09-10"
             },
             {
               "name": "Leonardo Campana",
               "status": "injured",
               "reason": "Muscle Injury",
-              "expected_return": "2026-08-31"
+              "expected_return": "2026-09-10"
+            },
+            {
+              "name": "Luca Langoni",
+              "status": "injured",
+              "reason": "Knock Injury",
+              "expected_return": "2026-09-10"
             }
           ]
         },
@@ -9362,17 +10336,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.2,
+          "odds_home": 2.22,
           "odds_draw": 4.09,
-          "odds_away": 2.67,
-          "odds_over_15": 1.07,
+          "odds_away": 2.64,
+          "odds_over_15": 1.06,
           "odds_over_25": 1.28,
           "odds_over_35": 1.71,
-          "odds_under_15": 7.73,
-          "odds_under_25": 3.47,
+          "odds_under_15": 7.76,
+          "odds_under_25": 3.48,
           "odds_under_35": 2.07,
           "odds_btts_yes": 1.28,
-          "odds_btts_no": 3.42,
+          "odds_btts_no": 3.43,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -9432,8 +10406,14 @@
               {
                 "name": "Braian Ojeda",
                 "status": "injured",
+                "reason": "Foot Injury",
+                "expected_return": "2026-09-10"
+              },
+              {
+                "name": "Eduard Atuesta",
+                "status": "injured",
                 "reason": "Thigh Injury",
-                "expected_return": "2026-08-31"
+                "expected_return": "2026-09-20"
               },
               {
                 "name": "Martín Ojeda",
@@ -9623,17 +10603,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.2,
+        "odds_home": 2.22,
         "odds_draw": 4.09,
-        "odds_away": 2.67,
-        "odds_over_15": 1.07,
+        "odds_away": 2.64,
+        "odds_over_15": 1.06,
         "odds_over_25": 1.28,
         "odds_over_35": 1.71,
-        "odds_under_15": 7.73,
-        "odds_under_25": 3.47,
+        "odds_under_15": 7.76,
+        "odds_under_25": 3.48,
         "odds_under_35": 2.07,
         "odds_btts_yes": 1.28,
-        "odds_btts_no": 3.42,
+        "odds_btts_no": 3.43,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -9693,8 +10673,14 @@
             {
               "name": "Braian Ojeda",
               "status": "injured",
+              "reason": "Foot Injury",
+              "expected_return": "2026-09-10"
+            },
+            {
+              "name": "Eduard Atuesta",
+              "status": "injured",
               "reason": "Thigh Injury",
-              "expected_return": "2026-08-31"
+              "expected_return": "2026-09-20"
             },
             {
               "name": "Martín Ojeda",
@@ -10132,7 +11118,7 @@
           "odds_away": 2.87,
           "odds_over_15": 1.2,
           "odds_over_25": 1.68,
-          "odds_over_35": 2.66,
+          "odds_over_35": 2.65,
           "odds_under_15": 4.18,
           "odds_under_25": 2.13,
           "odds_under_35": 1.44,
@@ -10201,6 +11187,12 @@
                 "expected_return": "2026-12-10"
               },
               {
+                "name": "Harry Toffolo",
+                "status": "injured",
+                "reason": "Knock Injury",
+                "expected_return": "2026-09-10"
+              },
+              {
                 "name": "Nimfasha Berchimas",
                 "status": "injured",
                 "reason": "Broken Foot",
@@ -10219,6 +11211,18 @@
                 "status": "injured",
                 "reason": "Groin Injury",
                 "expected_return": "2026-08-31"
+              },
+              {
+                "name": "Jamal Thiaré",
+                "status": "injured",
+                "reason": "Knock Injury",
+                "expected_return": "2026-09-10"
+              },
+              {
+                "name": "Sekou Tidiany Bangoura",
+                "status": "injured",
+                "reason": "Ankle Injury",
+                "expected_return": "2026-09-30"
               },
               {
                 "name": "Wessam Abou Ali",
@@ -10399,7 +11403,7 @@
         "odds_away": 2.87,
         "odds_over_15": 1.2,
         "odds_over_25": 1.68,
-        "odds_over_35": 2.66,
+        "odds_over_35": 2.65,
         "odds_under_15": 4.18,
         "odds_under_25": 2.13,
         "odds_under_35": 1.44,
@@ -10468,6 +11472,12 @@
               "expected_return": "2026-12-10"
             },
             {
+              "name": "Harry Toffolo",
+              "status": "injured",
+              "reason": "Knock Injury",
+              "expected_return": "2026-09-10"
+            },
+            {
               "name": "Nimfasha Berchimas",
               "status": "injured",
               "reason": "Broken Foot",
@@ -10486,6 +11496,18 @@
               "status": "injured",
               "reason": "Groin Injury",
               "expected_return": "2026-08-31"
+            },
+            {
+              "name": "Jamal Thiaré",
+              "status": "injured",
+              "reason": "Knock Injury",
+              "expected_return": "2026-09-10"
+            },
+            {
+              "name": "Sekou Tidiany Bangoura",
+              "status": "injured",
+              "reason": "Ankle Injury",
+              "expected_return": "2026-09-30"
             },
             {
               "name": "Wessam Abou Ali",
@@ -10933,17 +11955,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.02,
+          "odds_home": 2.01,
           "odds_draw": 3.92,
-          "odds_away": 3.17,
+          "odds_away": 3.19,
           "odds_over_15": 1.11,
-          "odds_over_25": 1.41,
-          "odds_over_35": 1.99,
-          "odds_under_15": 5.93,
-          "odds_under_25": 2.8,
-          "odds_under_35": 1.77,
+          "odds_over_25": 1.4,
+          "odds_over_35": 2.01,
+          "odds_under_15": 6.05,
+          "odds_under_25": 2.81,
+          "odds_under_35": 1.76,
           "odds_btts_yes": 1.38,
-          "odds_btts_no": 2.87,
+          "odds_btts_no": 2.84,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -11004,7 +12026,7 @@
                 "name": "Ajani Fortune",
                 "status": "injured",
                 "reason": "Hamstring Injury",
-                "expected_return": "2026-08-31"
+                "expected_return": "2026-09-10"
               },
               {
                 "name": "Enea Mihaj",
@@ -11019,10 +12041,22 @@
                 "expected_return": "2026-08-31"
               },
               {
+                "name": "Mauricio Amaro",
+                "status": "injured",
+                "reason": "other",
+                "expected_return": "2026-08-16"
+              },
+              {
                 "name": "Sergio Santos",
                 "status": "injured",
                 "reason": "Calf Injury",
                 "expected_return": "2026-08-31"
+              },
+              {
+                "name": "William Reilly",
+                "status": "doubtful",
+                "reason": "Ankle Injury",
+                "expected_return": "2026-08-29"
               }
             ],
             "away": [
@@ -11199,17 +12233,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.02,
+        "odds_home": 2.01,
         "odds_draw": 3.92,
-        "odds_away": 3.17,
+        "odds_away": 3.19,
         "odds_over_15": 1.11,
-        "odds_over_25": 1.41,
-        "odds_over_35": 1.99,
-        "odds_under_15": 5.93,
-        "odds_under_25": 2.8,
-        "odds_under_35": 1.77,
+        "odds_over_25": 1.4,
+        "odds_over_35": 2.01,
+        "odds_under_15": 6.05,
+        "odds_under_25": 2.81,
+        "odds_under_35": 1.76,
         "odds_btts_yes": 1.38,
-        "odds_btts_no": 2.87,
+        "odds_btts_no": 2.84,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -11270,7 +12304,7 @@
               "name": "Ajani Fortune",
               "status": "injured",
               "reason": "Hamstring Injury",
-              "expected_return": "2026-08-31"
+              "expected_return": "2026-09-10"
             },
             {
               "name": "Enea Mihaj",
@@ -11285,10 +12319,22 @@
               "expected_return": "2026-08-31"
             },
             {
+              "name": "Mauricio Amaro",
+              "status": "injured",
+              "reason": "other",
+              "expected_return": "2026-08-16"
+            },
+            {
               "name": "Sergio Santos",
               "status": "injured",
               "reason": "Calf Injury",
               "expected_return": "2026-08-31"
+            },
+            {
+              "name": "William Reilly",
+              "status": "doubtful",
+              "reason": "Ankle Injury",
+              "expected_return": "2026-08-29"
             }
           ],
           "away": [
@@ -12416,17 +13462,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.72,
-          "odds_draw": 3.5,
-          "odds_away": 5.06,
-          "odds_over_15": 1.29,
-          "odds_over_25": 1.94,
-          "odds_over_35": 3.32,
-          "odds_under_15": 3.35,
-          "odds_under_25": 1.82,
-          "odds_under_35": 1.29,
-          "odds_btts_yes": 1.88,
-          "odds_btts_no": 1.84,
+          "odds_home": 1.73,
+          "odds_draw": 3.48,
+          "odds_away": 4.97,
+          "odds_over_15": 1.33,
+          "odds_over_25": 2.04,
+          "odds_over_35": 3.59,
+          "odds_under_15": 3.16,
+          "odds_under_25": 1.74,
+          "odds_under_35": 1.26,
+          "odds_btts_yes": 1.92,
+          "odds_btts_no": 1.8,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -12696,17 +13742,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.72,
-        "odds_draw": 3.5,
-        "odds_away": 5.06,
-        "odds_over_15": 1.29,
-        "odds_over_25": 1.94,
-        "odds_over_35": 3.32,
-        "odds_under_15": 3.35,
-        "odds_under_25": 1.82,
-        "odds_under_35": 1.29,
-        "odds_btts_yes": 1.88,
-        "odds_btts_no": 1.84,
+        "odds_home": 1.73,
+        "odds_draw": 3.48,
+        "odds_away": 4.97,
+        "odds_over_15": 1.33,
+        "odds_over_25": 2.04,
+        "odds_over_35": 3.59,
+        "odds_under_15": 3.16,
+        "odds_under_25": 1.74,
+        "odds_under_35": 1.26,
+        "odds_btts_yes": 1.92,
+        "odds_btts_no": 1.8,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -13217,17 +14263,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 4.26,
-          "odds_draw": 2.83,
+          "odds_home": 4.28,
+          "odds_draw": 2.81,
           "odds_away": 2.02,
           "odds_over_15": 1.6,
           "odds_over_25": 2.81,
-          "odds_over_35": 5.77,
-          "odds_under_15": 2.27,
-          "odds_under_25": 1.4,
+          "odds_over_35": 5.71,
+          "odds_under_15": 2.28,
+          "odds_under_25": 1.41,
           "odds_under_35": 1.13,
           "odds_btts_yes": 2.34,
-          "odds_btts_no": 1.55,
+          "odds_btts_no": 1.54,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -13482,17 +14528,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 4.26,
-        "odds_draw": 2.83,
+        "odds_home": 4.28,
+        "odds_draw": 2.81,
         "odds_away": 2.02,
         "odds_over_15": 1.6,
         "odds_over_25": 2.81,
-        "odds_over_35": 5.77,
-        "odds_under_15": 2.27,
-        "odds_under_25": 1.4,
+        "odds_over_35": 5.71,
+        "odds_under_15": 2.28,
+        "odds_under_25": 1.41,
         "odds_under_35": 1.13,
         "odds_btts_yes": 2.34,
-        "odds_btts_no": 1.55,
+        "odds_btts_no": 1.54,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -14053,7 +15099,7 @@
                 "name": "Warren Madrigal",
                 "status": "injured",
                 "reason": "Knock Injury",
-                "expected_return": "2026-08-20"
+                "expected_return": "2026-09-10"
               }
             ],
             "away": [
@@ -14067,7 +15113,7 @@
                 "name": "Germán Berterame",
                 "status": "injured",
                 "reason": "Head Injury",
-                "expected_return": "2026-08-31"
+                "expected_return": "2026-09-10"
               },
               {
                 "name": "Gonzalo Luján",
@@ -14076,10 +15122,28 @@
                 "expected_return": "2026-08-31"
               },
               {
+                "name": "Mateo Silvetti",
+                "status": "injured",
+                "reason": "Shoulder Injury",
+                "expected_return": "2026-09-30"
+              },
+              {
                 "name": "Maximiliano Falcón",
                 "status": "injured",
                 "reason": "Calf Injury",
                 "expected_return": "2026-08-31"
+              },
+              {
+                "name": "Micael",
+                "status": "injured",
+                "reason": "Ankle Injury",
+                "expected_return": "2026-09-30"
+              },
+              {
+                "name": "Santiago Morales",
+                "status": "injured",
+                "reason": "Muscle Injury",
+                "expected_return": "2026-09-20"
               },
               {
                 "name": "Sergio Reguilón",
@@ -14361,7 +15425,7 @@
               "name": "Warren Madrigal",
               "status": "injured",
               "reason": "Knock Injury",
-              "expected_return": "2026-08-20"
+              "expected_return": "2026-09-10"
             }
           ],
           "away": [
@@ -14375,7 +15439,7 @@
               "name": "Germán Berterame",
               "status": "injured",
               "reason": "Head Injury",
-              "expected_return": "2026-08-31"
+              "expected_return": "2026-09-10"
             },
             {
               "name": "Gonzalo Luján",
@@ -14384,10 +15448,28 @@
               "expected_return": "2026-08-31"
             },
             {
+              "name": "Mateo Silvetti",
+              "status": "injured",
+              "reason": "Shoulder Injury",
+              "expected_return": "2026-09-30"
+            },
+            {
               "name": "Maximiliano Falcón",
               "status": "injured",
               "reason": "Calf Injury",
               "expected_return": "2026-08-31"
+            },
+            {
+              "name": "Micael",
+              "status": "injured",
+              "reason": "Ankle Injury",
+              "expected_return": "2026-09-30"
+            },
+            {
+              "name": "Santiago Morales",
+              "status": "injured",
+              "reason": "Muscle Injury",
+              "expected_return": "2026-09-20"
             },
             {
               "name": "Sergio Reguilón",
@@ -14928,6 +16010,12 @@
                 "expected_return": "2026-08-31"
               },
               {
+                "name": "Felipe Andrade",
+                "status": "doubtful",
+                "reason": "Knock Injury",
+                "expected_return": "2026-08-30"
+              },
+              {
                 "name": "Ibrahim Aliyu",
                 "status": "doubtful",
                 "reason": "Knock Injury",
@@ -14937,7 +16025,13 @@
                 "name": "Jimmy Maurer",
                 "status": "injured",
                 "reason": "Back Injury",
-                "expected_return": "2026-08-31"
+                "expected_return": "2026-09-10"
+              },
+              {
+                "name": "Marcelo Saracchi",
+                "status": "injured",
+                "reason": "other",
+                "expected_return": "2026-08-16"
               }
             ],
             "away": [
@@ -14945,13 +16039,19 @@
                 "name": "Erik Thommy",
                 "status": "injured",
                 "reason": "Foot Injury",
-                "expected_return": "2026-08-31"
+                "expected_return": "2026-09-10"
               },
               {
                 "name": "João Klauss",
                 "status": "injured",
                 "reason": "Foot Injury",
-                "expected_return": "2026-08-31"
+                "expected_return": "2026-09-10"
+              },
+              {
+                "name": "Marco Reus",
+                "status": "injured",
+                "reason": "other",
+                "expected_return": "2026-08-16"
               },
               {
                 "name": "Miki Yamane",
@@ -15205,6 +16305,12 @@
               "expected_return": "2026-08-31"
             },
             {
+              "name": "Felipe Andrade",
+              "status": "doubtful",
+              "reason": "Knock Injury",
+              "expected_return": "2026-08-30"
+            },
+            {
               "name": "Ibrahim Aliyu",
               "status": "doubtful",
               "reason": "Knock Injury",
@@ -15214,7 +16320,13 @@
               "name": "Jimmy Maurer",
               "status": "injured",
               "reason": "Back Injury",
-              "expected_return": "2026-08-31"
+              "expected_return": "2026-09-10"
+            },
+            {
+              "name": "Marcelo Saracchi",
+              "status": "injured",
+              "reason": "other",
+              "expected_return": "2026-08-16"
             }
           ],
           "away": [
@@ -15222,13 +16334,19 @@
               "name": "Erik Thommy",
               "status": "injured",
               "reason": "Foot Injury",
-              "expected_return": "2026-08-31"
+              "expected_return": "2026-09-10"
             },
             {
               "name": "João Klauss",
               "status": "injured",
               "reason": "Foot Injury",
-              "expected_return": "2026-08-31"
+              "expected_return": "2026-09-10"
+            },
+            {
+              "name": "Marco Reus",
+              "status": "injured",
+              "reason": "other",
+              "expected_return": "2026-08-16"
             },
             {
               "name": "Miki Yamane",
@@ -19973,17 +21091,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.82,
-          "odds_draw": 3.79,
-          "odds_away": 4.01,
+          "odds_home": 1.83,
+          "odds_draw": 3.78,
+          "odds_away": 3.97,
           "odds_over_15": 1.17,
           "odds_over_25": 1.59,
-          "odds_over_35": 2.39,
+          "odds_over_35": 2.4,
           "odds_under_15": 4.63,
           "odds_under_25": 2.31,
           "odds_under_35": 1.53,
           "odds_btts_yes": 1.54,
-          "odds_btts_no": 2.33,
+          "odds_btts_no": 2.34,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -20049,8 +21167,8 @@
               {
                 "name": "Ariath Piol",
                 "status": "injured",
-                "reason": "Achilles Strain",
-                "expected_return": "2026-11-09"
+                "reason": "Achilles Tendon Injury",
+                "expected_return": "2026-08-31"
               },
               {
                 "name": "DeAndre Yedlin",
@@ -20077,6 +21195,18 @@
                 "expected_return": "2026-08-31"
               },
               {
+                "name": "Morgan Guilavogui",
+                "status": "doubtful",
+                "reason": "Head Injury",
+                "expected_return": "2026-08-30"
+              },
+              {
+                "name": "Saba Lobzhanidze",
+                "status": "doubtful",
+                "reason": "Muscle Injury",
+                "expected_return": "2026-08-30"
+              },
+              {
                 "name": "Zavier Gozo",
                 "status": "injured",
                 "reason": "Hip Injury",
@@ -20088,7 +21218,7 @@
                 "name": "Nectarios Triantis",
                 "status": "injured",
                 "reason": "Knock Injury",
-                "expected_return": "2026-08-31"
+                "expected_return": "2026-09-10"
               },
               {
                 "name": "Nicolás Romero",
@@ -20270,17 +21400,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.82,
-        "odds_draw": 3.79,
-        "odds_away": 4.01,
+        "odds_home": 1.83,
+        "odds_draw": 3.78,
+        "odds_away": 3.97,
         "odds_over_15": 1.17,
         "odds_over_25": 1.59,
-        "odds_over_35": 2.39,
+        "odds_over_35": 2.4,
         "odds_under_15": 4.63,
         "odds_under_25": 2.31,
         "odds_under_35": 1.53,
         "odds_btts_yes": 1.54,
-        "odds_btts_no": 2.33,
+        "odds_btts_no": 2.34,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -20346,8 +21476,8 @@
             {
               "name": "Ariath Piol",
               "status": "injured",
-              "reason": "Achilles Strain",
-              "expected_return": "2026-11-09"
+              "reason": "Achilles Tendon Injury",
+              "expected_return": "2026-08-31"
             },
             {
               "name": "DeAndre Yedlin",
@@ -20374,6 +21504,18 @@
               "expected_return": "2026-08-31"
             },
             {
+              "name": "Morgan Guilavogui",
+              "status": "doubtful",
+              "reason": "Head Injury",
+              "expected_return": "2026-08-30"
+            },
+            {
+              "name": "Saba Lobzhanidze",
+              "status": "doubtful",
+              "reason": "Muscle Injury",
+              "expected_return": "2026-08-30"
+            },
+            {
               "name": "Zavier Gozo",
               "status": "injured",
               "reason": "Hip Injury",
@@ -20385,7 +21527,7 @@
               "name": "Nectarios Triantis",
               "status": "injured",
               "reason": "Knock Injury",
-              "expected_return": "2026-08-31"
+              "expected_return": "2026-09-10"
             },
             {
               "name": "Nicolás Romero",
@@ -20843,17 +21985,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.22,
-          "odds_draw": 3.32,
-          "odds_away": 2.73,
+          "odds_home": 2.1,
+          "odds_draw": 3.35,
+          "odds_away": 2.91,
           "odds_over_15": 1.25,
           "odds_over_25": 1.82,
-          "odds_over_35": 3.01,
-          "odds_under_15": 3.54,
-          "odds_under_25": 1.89,
+          "odds_over_35": 3.03,
+          "odds_under_15": 3.56,
+          "odds_under_25": 1.9,
           "odds_under_35": 1.34,
-          "odds_btts_yes": 1.66,
-          "odds_btts_no": 2.08,
+          "odds_btts_yes": 1.68,
+          "odds_btts_no": 2.07,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -21050,17 +22192,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.22,
-        "odds_draw": 3.32,
-        "odds_away": 2.73,
+        "odds_home": 2.1,
+        "odds_draw": 3.35,
+        "odds_away": 2.91,
         "odds_over_15": 1.25,
         "odds_over_25": 1.82,
-        "odds_over_35": 3.01,
-        "odds_under_15": 3.54,
-        "odds_under_25": 1.89,
+        "odds_over_35": 3.03,
+        "odds_under_15": 3.56,
+        "odds_under_25": 1.9,
         "odds_under_35": 1.34,
-        "odds_btts_yes": 1.66,
-        "odds_btts_no": 2.08,
+        "odds_btts_yes": 1.68,
+        "odds_btts_no": 2.07,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -21542,16 +22684,16 @@
           "current_minute": null,
           "period": "",
           "odds_home": 1.46,
-          "odds_draw": 4.72,
-          "odds_away": 5.9,
+          "odds_draw": 4.69,
+          "odds_away": 5.91,
           "odds_over_15": 1.13,
           "odds_over_25": 1.44,
-          "odds_over_35": 2.12,
-          "odds_under_15": 5.5,
-          "odds_under_25": 2.65,
+          "odds_over_35": 2.13,
+          "odds_under_15": 5.47,
+          "odds_under_25": 2.64,
           "odds_under_35": 1.68,
           "odds_btts_yes": 1.58,
-          "odds_btts_no": 2.26,
+          "odds_btts_no": 2.25,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -21612,7 +22754,7 @@
                 "name": "Jackson Travis",
                 "status": "injured",
                 "reason": "Ankle Injury",
-                "expected_return": "2026-08-31"
+                "expected_return": "2026-09-10"
               },
               {
                 "name": "Kimani Stewart-Baynes",
@@ -21825,16 +22967,16 @@
         "current_minute": null,
         "period": "",
         "odds_home": 1.46,
-        "odds_draw": 4.72,
-        "odds_away": 5.9,
+        "odds_draw": 4.69,
+        "odds_away": 5.91,
         "odds_over_15": 1.13,
         "odds_over_25": 1.44,
-        "odds_over_35": 2.12,
-        "odds_under_15": 5.5,
-        "odds_under_25": 2.65,
+        "odds_over_35": 2.13,
+        "odds_under_15": 5.47,
+        "odds_under_25": 2.64,
         "odds_under_35": 1.68,
         "odds_btts_yes": 1.58,
-        "odds_btts_no": 2.26,
+        "odds_btts_no": 2.25,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -21895,7 +23037,7 @@
               "name": "Jackson Travis",
               "status": "injured",
               "reason": "Ankle Injury",
-              "expected_return": "2026-08-31"
+              "expected_return": "2026-09-10"
             },
             {
               "name": "Kimani Stewart-Baynes",
@@ -22378,17 +23520,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 3.57,
-          "odds_draw": 3.53,
+          "odds_home": 3.59,
+          "odds_draw": 3.52,
           "odds_away": 1.86,
-          "odds_over_15": 1.22,
-          "odds_over_25": 1.73,
-          "odds_over_35": 2.79,
-          "odds_under_15": 3.84,
-          "odds_under_25": 2,
+          "odds_over_15": 1.23,
+          "odds_over_25": 1.74,
+          "odds_over_35": 2.83,
+          "odds_under_15": 3.79,
+          "odds_under_25": 1.99,
           "odds_under_35": 1.38,
-          "odds_btts_yes": 1.65,
-          "odds_btts_no": 2.1,
+          "odds_btts_yes": 1.66,
+          "odds_btts_no": 2.08,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -22572,17 +23714,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 3.57,
-        "odds_draw": 3.53,
+        "odds_home": 3.59,
+        "odds_draw": 3.52,
         "odds_away": 1.86,
-        "odds_over_15": 1.22,
-        "odds_over_25": 1.73,
-        "odds_over_35": 2.79,
-        "odds_under_15": 3.84,
-        "odds_under_25": 2,
+        "odds_over_15": 1.23,
+        "odds_over_25": 1.74,
+        "odds_over_35": 2.83,
+        "odds_under_15": 3.79,
+        "odds_under_25": 1.99,
         "odds_under_35": 1.38,
-        "odds_btts_yes": 1.65,
-        "odds_btts_no": 2.1,
+        "odds_btts_yes": 1.66,
+        "odds_btts_no": 2.08,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -23009,17 +24151,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.83,
-          "odds_draw": 3.72,
-          "odds_away": 3.17,
+          "odds_home": 1.81,
+          "odds_draw": 3.79,
+          "odds_away": 3.18,
           "odds_over_15": 1.2,
-          "odds_over_25": 1.67,
-          "odds_over_35": 2.65,
-          "odds_under_15": 4.02,
-          "odds_under_25": 2.09,
-          "odds_under_35": 1.42,
-          "odds_btts_yes": 1.62,
-          "odds_btts_no": 2.16,
+          "odds_over_25": 1.65,
+          "odds_over_35": 2.62,
+          "odds_under_15": 4.1,
+          "odds_under_25": 2.12,
+          "odds_under_35": 1.43,
+          "odds_btts_yes": 1.61,
+          "odds_btts_no": 2.17,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -23216,17 +24358,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.83,
-        "odds_draw": 3.72,
-        "odds_away": 3.17,
+        "odds_home": 1.81,
+        "odds_draw": 3.79,
+        "odds_away": 3.18,
         "odds_over_15": 1.2,
-        "odds_over_25": 1.67,
-        "odds_over_35": 2.65,
-        "odds_under_15": 4.02,
-        "odds_under_25": 2.09,
-        "odds_under_35": 1.42,
-        "odds_btts_yes": 1.62,
-        "odds_btts_no": 2.16,
+        "odds_over_25": 1.65,
+        "odds_over_35": 2.62,
+        "odds_under_15": 4.1,
+        "odds_under_25": 2.12,
+        "odds_under_35": 1.43,
+        "odds_btts_yes": 1.61,
+        "odds_btts_no": 2.17,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -23713,16 +24855,16 @@
           "current_minute": null,
           "period": "",
           "odds_home": 1.64,
-          "odds_draw": 4.3,
+          "odds_draw": 4.31,
           "odds_away": 4.49,
-          "odds_over_15": 1.13,
+          "odds_over_15": 1.12,
           "odds_over_25": 1.45,
-          "odds_over_35": 2.13,
-          "odds_under_15": 5.49,
-          "odds_under_25": 2.62,
-          "odds_under_35": 1.68,
-          "odds_btts_yes": 1.5,
-          "odds_btts_no": 2.45,
+          "odds_over_35": 2.12,
+          "odds_under_15": 5.53,
+          "odds_under_25": 2.64,
+          "odds_under_35": 1.69,
+          "odds_btts_yes": 1.49,
+          "odds_btts_no": 2.47,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -23780,10 +24922,28 @@
           "unavailable_players": {
             "home": [
               {
+                "name": "Aaron Long",
+                "status": "doubtful",
+                "reason": "Leg Injury",
+                "expected_return": "2026-08-30"
+              },
+              {
+                "name": "David Martínez Morales",
+                "status": "injured",
+                "reason": "Leg Injury",
+                "expected_return": "2026-09-20"
+              },
+              {
                 "name": "Sergi Palencia",
                 "status": "injured",
                 "reason": "Leg Injury",
-                "expected_return": "2026-08-31"
+                "expected_return": "2026-09-10"
+              },
+              {
+                "name": "Thomas Hasal",
+                "status": "injured",
+                "reason": "Arm Injury",
+                "expected_return": "2026-09-30"
               }
             ],
             "away": [
@@ -23792,6 +24952,12 @@
                 "status": "injured",
                 "reason": "Muscle Injury",
                 "expected_return": "2026-08-31"
+              },
+              {
+                "name": "Marcus Alstrup",
+                "status": "injured",
+                "reason": "Muscle Injury",
+                "expected_return": "2026-09-20"
               },
               {
                 "name": "Pablo Sisniega",
@@ -23920,16 +25086,16 @@
         "current_minute": null,
         "period": "",
         "odds_home": 1.64,
-        "odds_draw": 4.3,
+        "odds_draw": 4.31,
         "odds_away": 4.49,
-        "odds_over_15": 1.13,
+        "odds_over_15": 1.12,
         "odds_over_25": 1.45,
-        "odds_over_35": 2.13,
-        "odds_under_15": 5.49,
-        "odds_under_25": 2.62,
-        "odds_under_35": 1.68,
-        "odds_btts_yes": 1.5,
-        "odds_btts_no": 2.45,
+        "odds_over_35": 2.12,
+        "odds_under_15": 5.53,
+        "odds_under_25": 2.64,
+        "odds_under_35": 1.69,
+        "odds_btts_yes": 1.49,
+        "odds_btts_no": 2.47,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -23987,10 +25153,28 @@
         "unavailable_players": {
           "home": [
             {
+              "name": "Aaron Long",
+              "status": "doubtful",
+              "reason": "Leg Injury",
+              "expected_return": "2026-08-30"
+            },
+            {
+              "name": "David Martínez Morales",
+              "status": "injured",
+              "reason": "Leg Injury",
+              "expected_return": "2026-09-20"
+            },
+            {
               "name": "Sergi Palencia",
               "status": "injured",
               "reason": "Leg Injury",
-              "expected_return": "2026-08-31"
+              "expected_return": "2026-09-10"
+            },
+            {
+              "name": "Thomas Hasal",
+              "status": "injured",
+              "reason": "Arm Injury",
+              "expected_return": "2026-09-30"
             }
           ],
           "away": [
@@ -23999,6 +25183,12 @@
               "status": "injured",
               "reason": "Muscle Injury",
               "expected_return": "2026-08-31"
+            },
+            {
+              "name": "Marcus Alstrup",
+              "status": "injured",
+              "reason": "Muscle Injury",
+              "expected_return": "2026-09-20"
             },
             {
               "name": "Pablo Sisniega",
@@ -24372,7 +25562,7 @@
           "odds_over_15": 1.14,
           "odds_over_25": 1.48,
           "odds_over_35": 2.19,
-          "odds_under_15": 5.18,
+          "odds_under_15": 5.16,
           "odds_under_25": 2.53,
           "odds_under_35": 1.64,
           "odds_btts_yes": 1.44,
@@ -24443,7 +25633,7 @@
                 "name": "Earl Edwards Jr",
                 "status": "injured",
                 "reason": "Muscle Injury",
-                "expected_return": "2026-08-31"
+                "expected_return": "2026-09-10"
               },
               {
                 "name": "Jonathan Gonzalez",
@@ -24461,7 +25651,7 @@
                 "name": "Nonso Adimabua",
                 "status": "injured",
                 "reason": "Muscle Injury",
-                "expected_return": "2026-08-31"
+                "expected_return": "2026-09-10"
               }
             ],
             "away": [
@@ -24656,7 +25846,7 @@
         "odds_over_15": 1.14,
         "odds_over_25": 1.48,
         "odds_over_35": 2.19,
-        "odds_under_15": 5.18,
+        "odds_under_15": 5.16,
         "odds_under_25": 2.53,
         "odds_under_35": 1.64,
         "odds_btts_yes": 1.44,
@@ -24727,7 +25917,7 @@
               "name": "Earl Edwards Jr",
               "status": "injured",
               "reason": "Muscle Injury",
-              "expected_return": "2026-08-31"
+              "expected_return": "2026-09-10"
             },
             {
               "name": "Jonathan Gonzalez",
@@ -24745,7 +25935,7 @@
               "name": "Nonso Adimabua",
               "status": "injured",
               "reason": "Muscle Injury",
-              "expected_return": "2026-08-31"
+              "expected_return": "2026-09-10"
             }
           ],
           "away": [
@@ -25193,8 +26383,8 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.81,
-          "odds_draw": 3.65,
+          "odds_home": 1.82,
+          "odds_draw": 3.64,
           "odds_away": 3.47,
           "odds_over_15": 1.18,
           "odds_over_25": 1.61,
@@ -25400,8 +26590,8 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.81,
-        "odds_draw": 3.65,
+        "odds_home": 1.82,
+        "odds_draw": 3.64,
         "odds_away": 3.47,
         "odds_over_15": 1.18,
         "odds_over_25": 1.61,
@@ -25816,13 +27006,13 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.98,
+          "odds_home": 1.97,
           "odds_draw": 3.32,
           "odds_away": 3.27,
           "odds_over_15": 1.32,
           "odds_over_25": 1.98,
           "odds_over_35": 3.46,
-          "odds_under_15": 3.13,
+          "odds_under_15": 3.12,
           "odds_under_25": 1.75,
           "odds_under_35": 1.26,
           "odds_btts_yes": 1.8,
@@ -26019,13 +27209,13 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.98,
+        "odds_home": 1.97,
         "odds_draw": 3.32,
         "odds_away": 3.27,
         "odds_over_15": 1.32,
         "odds_over_25": 1.98,
         "odds_over_35": 3.46,
-        "odds_under_15": 3.13,
+        "odds_under_15": 3.12,
         "odds_under_25": 1.75,
         "odds_under_35": 1.26,
         "odds_btts_yes": 1.8,
@@ -26468,15 +27658,15 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 3.17,
-          "odds_draw": 3.19,
-          "odds_away": 2.23,
-          "odds_over_15": 1.35,
-          "odds_over_25": 2.1,
-          "odds_over_35": 3.72,
-          "odds_under_15": 3,
-          "odds_under_25": 1.69,
-          "odds_under_35": 1.25,
+          "odds_home": 3.15,
+          "odds_draw": 3.17,
+          "odds_away": 2.27,
+          "odds_over_15": 1.36,
+          "odds_over_25": 2.11,
+          "odds_over_35": 3.77,
+          "odds_under_15": 2.97,
+          "odds_under_25": 1.68,
+          "odds_under_35": 1.24,
           "odds_btts_yes": 1.83,
           "odds_btts_no": 1.89,
           "actual_home_xg": null,
@@ -26721,15 +27911,15 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 3.17,
-        "odds_draw": 3.19,
-        "odds_away": 2.23,
-        "odds_over_15": 1.35,
-        "odds_over_25": 2.1,
-        "odds_over_35": 3.72,
-        "odds_under_15": 3,
-        "odds_under_25": 1.69,
-        "odds_under_35": 1.25,
+        "odds_home": 3.15,
+        "odds_draw": 3.17,
+        "odds_away": 2.27,
+        "odds_over_15": 1.36,
+        "odds_over_25": 2.11,
+        "odds_over_35": 3.77,
+        "odds_under_15": 2.97,
+        "odds_under_25": 1.68,
+        "odds_under_35": 1.24,
         "odds_btts_yes": 1.83,
         "odds_btts_no": 1.89,
         "actual_home_xg": null,
@@ -27888,8 +29078,8 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.64,
-          "odds_draw": 3.56,
+          "odds_home": 2.63,
+          "odds_draw": 3.57,
           "odds_away": 2.38,
           "odds_over_15": 1.18,
           "odds_over_25": 1.63,
@@ -27897,8 +29087,8 @@
           "odds_under_15": 4.39,
           "odds_under_25": 2.21,
           "odds_under_35": 1.48,
-          "odds_btts_yes": 1.53,
-          "odds_btts_no": 2.37,
+          "odds_btts_yes": 1.52,
+          "odds_btts_no": 2.39,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -28151,8 +29341,8 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.64,
-        "odds_draw": 3.56,
+        "odds_home": 2.63,
+        "odds_draw": 3.57,
         "odds_away": 2.38,
         "odds_over_15": 1.18,
         "odds_over_25": 1.63,
@@ -28160,8 +29350,8 @@
         "odds_under_15": 4.39,
         "odds_under_25": 2.21,
         "odds_under_35": 1.48,
-        "odds_btts_yes": 1.53,
-        "odds_btts_no": 2.37,
+        "odds_btts_yes": 1.52,
+        "odds_btts_no": 2.39,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -28642,17 +29832,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 4.02,
-          "odds_draw": 3.47,
-          "odds_away": 1.76,
+          "odds_home": 3.86,
+          "odds_draw": 3.44,
+          "odds_away": 1.81,
           "odds_over_15": 1.31,
           "odds_over_25": 1.98,
           "odds_over_35": 3.41,
-          "odds_under_15": 3.23,
+          "odds_under_15": 3.22,
           "odds_under_25": 1.77,
           "odds_under_35": 1.28,
-          "odds_btts_yes": 1.86,
-          "odds_btts_no": 1.85,
+          "odds_btts_yes": 1.85,
+          "odds_btts_no": 1.86,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -28849,17 +30039,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 4.02,
-        "odds_draw": 3.47,
-        "odds_away": 1.76,
+        "odds_home": 3.86,
+        "odds_draw": 3.44,
+        "odds_away": 1.81,
         "odds_over_15": 1.31,
         "odds_over_25": 1.98,
         "odds_over_35": 3.41,
-        "odds_under_15": 3.23,
+        "odds_under_15": 3.22,
         "odds_under_25": 1.77,
         "odds_under_35": 1.28,
-        "odds_btts_yes": 1.86,
-        "odds_btts_no": 1.85,
+        "odds_btts_yes": 1.85,
+        "odds_btts_no": 1.86,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -29294,7 +30484,7 @@
           "odds_over_25": 2.07,
           "odds_over_35": 3.59,
           "odds_under_15": 3.08,
-          "odds_under_25": 1.72,
+          "odds_under_25": 1.71,
           "odds_under_35": 1.25,
           "odds_btts_yes": 1.83,
           "odds_btts_no": 1.88,
@@ -29502,7 +30692,7 @@
         "odds_over_25": 2.07,
         "odds_over_35": 3.59,
         "odds_under_15": 3.08,
-        "odds_under_25": 1.72,
+        "odds_under_25": 1.71,
         "odds_under_35": 1.25,
         "odds_btts_yes": 1.83,
         "odds_btts_no": 1.88,
@@ -29939,13 +31129,13 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.55,
-          "odds_draw": 3.24,
-          "odds_away": 2.66,
+          "odds_home": 2.52,
+          "odds_draw": 3.23,
+          "odds_away": 2.69,
           "odds_over_15": 1.27,
           "odds_over_25": 1.89,
           "odds_over_35": 3.14,
-          "odds_under_15": 3.47,
+          "odds_under_15": 3.45,
           "odds_under_25": 1.86,
           "odds_under_35": 1.32,
           "odds_btts_yes": 1.68,
@@ -30147,13 +31337,13 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.55,
-        "odds_draw": 3.24,
-        "odds_away": 2.66,
+        "odds_home": 2.52,
+        "odds_draw": 3.23,
+        "odds_away": 2.69,
         "odds_over_15": 1.27,
         "odds_over_25": 1.89,
         "odds_over_35": 3.14,
-        "odds_under_15": 3.47,
+        "odds_under_15": 3.45,
         "odds_under_25": 1.86,
         "odds_under_35": 1.32,
         "odds_btts_yes": 1.68,
@@ -30562,11 +31752,11 @@
           "odds_over_15": 1.24,
           "odds_over_25": 1.78,
           "odds_over_35": 2.89,
-          "odds_under_15": 3.79,
+          "odds_under_15": 3.8,
           "odds_under_25": 1.97,
           "odds_under_35": 1.38,
           "odds_btts_yes": 1.65,
-          "odds_btts_no": 2.12,
+          "odds_btts_no": 2.13,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -30624,16 +31814,29 @@
                 "name": "Bruno Godeau",
                 "status": "injured",
                 "reason": "Knock Injury",
-                "expected_return": "2026-08-23"
+                "expected_return": "2026-08-24"
               },
               {
                 "name": "Viktor Boone",
                 "status": "injured",
                 "reason": "Knock Injury",
-                "expected_return": "2026-08-23"
+                "expected_return": "2026-08-24"
               }
             ],
-            "away": []
+            "away": [
+              {
+                "name": "Ilay Camara",
+                "status": "injured",
+                "reason": "Foot Injury",
+                "expected_return": "2026-09-10"
+              },
+              {
+                "name": "Lucas Hey",
+                "status": "injured",
+                "reason": "Broken Leg",
+                "expected_return": "2027-01-10"
+              }
+            ]
           },
           "venue": {
             "id": 1565,
@@ -30803,11 +32006,11 @@
         "odds_over_15": 1.24,
         "odds_over_25": 1.78,
         "odds_over_35": 2.89,
-        "odds_under_15": 3.79,
+        "odds_under_15": 3.8,
         "odds_under_25": 1.97,
         "odds_under_35": 1.38,
         "odds_btts_yes": 1.65,
-        "odds_btts_no": 2.12,
+        "odds_btts_no": 2.13,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -30865,16 +32068,29 @@
               "name": "Bruno Godeau",
               "status": "injured",
               "reason": "Knock Injury",
-              "expected_return": "2026-08-23"
+              "expected_return": "2026-08-24"
             },
             {
               "name": "Viktor Boone",
               "status": "injured",
               "reason": "Knock Injury",
-              "expected_return": "2026-08-23"
+              "expected_return": "2026-08-24"
             }
           ],
-          "away": []
+          "away": [
+            {
+              "name": "Ilay Camara",
+              "status": "injured",
+              "reason": "Foot Injury",
+              "expected_return": "2026-09-10"
+            },
+            {
+              "name": "Lucas Hey",
+              "status": "injured",
+              "reason": "Broken Leg",
+              "expected_return": "2027-01-10"
+            }
+          ]
         },
         "venue": {
           "id": 1565,
@@ -31279,8 +32495,8 @@
           "current_minute": null,
           "period": "",
           "odds_home": 1.78,
-          "odds_draw": 3.66,
-          "odds_away": 3.97,
+          "odds_draw": 3.68,
+          "odds_away": 3.96,
           "odds_over_15": 1.17,
           "odds_over_25": 1.56,
           "odds_over_35": 2.4,
@@ -31539,8 +32755,8 @@
         "current_minute": null,
         "period": "",
         "odds_home": 1.78,
-        "odds_draw": 3.66,
-        "odds_away": 3.97,
+        "odds_draw": 3.68,
+        "odds_away": 3.96,
         "odds_over_15": 1.17,
         "odds_over_25": 1.56,
         "odds_over_35": 2.4,
@@ -32747,10 +33963,10 @@
           "odds_away": 4.63,
           "odds_over_15": 1.31,
           "odds_over_25": 1.99,
-          "odds_over_35": 3.47,
+          "odds_over_35": 3.46,
           "odds_under_15": 3.19,
           "odds_under_25": 1.75,
-          "odds_under_35": 1.27,
+          "odds_under_35": 1.28,
           "odds_btts_yes": 1.9,
           "odds_btts_no": 1.8,
           "actual_home_xg": null,
@@ -32981,10 +34197,10 @@
         "odds_away": 4.63,
         "odds_over_15": 1.31,
         "odds_over_25": 1.99,
-        "odds_over_35": 3.47,
+        "odds_over_35": 3.46,
         "odds_under_15": 3.19,
         "odds_under_25": 1.75,
-        "odds_under_35": 1.27,
+        "odds_under_35": 1.28,
         "odds_btts_yes": 1.9,
         "odds_btts_no": 1.8,
         "actual_home_xg": null,
@@ -35107,8 +36323,8 @@
           "current_minute": null,
           "period": "",
           "odds_home": 1.38,
-          "odds_draw": 5.3,
-          "odds_away": 6.82,
+          "odds_draw": 5.35,
+          "odds_away": 6.88,
           "odds_over_15": 1.09,
           "odds_over_25": 1.34,
           "odds_over_35": 1.87,
@@ -35116,7 +36332,7 @@
           "odds_under_25": 3.05,
           "odds_under_35": 1.88,
           "odds_btts_yes": 1.54,
-          "odds_btts_no": 2.37,
+          "odds_btts_no": 2.36,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -35343,8 +36559,8 @@
         "current_minute": null,
         "period": "",
         "odds_home": 1.38,
-        "odds_draw": 5.3,
-        "odds_away": 6.82,
+        "odds_draw": 5.35,
+        "odds_away": 6.88,
         "odds_over_15": 1.09,
         "odds_over_25": 1.34,
         "odds_over_35": 1.87,
@@ -35352,7 +36568,7 @@
         "odds_under_25": 3.05,
         "odds_under_35": 1.88,
         "odds_btts_yes": 1.54,
-        "odds_btts_no": 2.37,
+        "odds_btts_no": 2.36,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -35840,17 +37056,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.55,
-          "odds_draw": 3.74,
-          "odds_away": 2.36,
+          "odds_home": 2.51,
+          "odds_draw": 3.72,
+          "odds_away": 2.4,
           "odds_over_15": 1.11,
           "odds_over_25": 1.4,
-          "odds_over_35": 1.99,
-          "odds_under_15": 5.84,
-          "odds_under_25": 2.78,
-          "odds_under_35": 1.77,
-          "odds_btts_yes": 1.36,
-          "odds_btts_no": 2.93,
+          "odds_over_35": 2,
+          "odds_under_15": 5.76,
+          "odds_under_25": 2.76,
+          "odds_under_35": 1.76,
+          "odds_btts_yes": 1.37,
+          "odds_btts_no": 2.89,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -36100,17 +37316,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.55,
-        "odds_draw": 3.74,
-        "odds_away": 2.36,
+        "odds_home": 2.51,
+        "odds_draw": 3.72,
+        "odds_away": 2.4,
         "odds_over_15": 1.11,
         "odds_over_25": 1.4,
-        "odds_over_35": 1.99,
-        "odds_under_15": 5.84,
-        "odds_under_25": 2.78,
-        "odds_under_35": 1.77,
-        "odds_btts_yes": 1.36,
-        "odds_btts_no": 2.93,
+        "odds_over_35": 2,
+        "odds_under_15": 5.76,
+        "odds_under_25": 2.76,
+        "odds_under_35": 1.76,
+        "odds_btts_yes": 1.37,
+        "odds_btts_no": 2.89,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
