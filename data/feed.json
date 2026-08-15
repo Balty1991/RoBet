@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T05:27:45.694Z",
+  "generated_at": "2026-08-15T05:53:21.352Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -495,7 +495,20 @@
           ]
         },
         "lineups": null,
-        "social": []
+        "social": [
+          {
+            "id": 728432,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOSGJaR2c1cHF3QnFOZDNuTkZpeDFDaVFWSEFkcDVuSjliVko0RDgxVmJlOU81OVRtNlJaNXFzRzNDTHRvdjVHcVFJNVN0SkJVRnlDZ0NzOHAzNW1NaXdzT2Mxb0twZVkxVlZZVVkxVFNBbFUzRDlhSkRSZFVQc2trcWNCdU5xVXJnMXpLN1JLVldpZzRNaGxnN1pTVE0xNkhqSFR2YlBjU1lMVHQ4WWVBOHRqX0RScVln?oc=5",
+            "title": "Mito Hollyhock vs Gamba Osaka Prediction, Betting Tips, Lineups & Odds | 15 Aug 2026",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "sportsgambler",
+            "account_name": "Sportsgambler",
+            "account_verified": false,
+            "published_at": "2026-08-15T05:23:43+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
@@ -1149,7 +1162,20 @@
           ]
         },
         "lineups": null,
-        "social": []
+        "social": [
+          {
+            "id": 728431,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOQVU3SDFndmJKVEZUazFVSlRWWVFtTDB0Qmt6OGduNVJ3ZS1mZDFzOGRSQmN5SnpzYWhQaFl2dkJhTHBzR2NZQ3BpTzA4Q1F3dWtyVEY2bmp1SDRWT0xXU1FOLTZBX3puQ3Jwc1ExMlljQ2hsTTJCSjdRY0ExT09QU3VMdWtXc2tSd3dULVhQbUtwbmJDTXoyV0xtSDRZTS1BeHM5X0RiTjNnSEZ2TmlGYnp3eWQ4VnJuTGhXVzhR?oc=5",
+            "title": "Kashima Antlers vs Nagoya Grampus Prediction, Betting Tips, Lineups & Odds | 15 Aug 2026",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "sportsgambler",
+            "account_name": "Sportsgambler",
+            "account_verified": false,
+            "published_at": "2026-08-15T05:23:46+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
@@ -1835,7 +1861,20 @@
           ]
         },
         "lineups": null,
-        "social": []
+        "social": [
+          {
+            "id": 728140,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOYmRYNDdsZ3NGbjMzREp1dXNpS3pRT2g2VV9Tb3hlZlEtOTZTZXlRR0g1YVpmY0tabkFqNkZLbEw3NTVva2dJazJPVjhDUm5nM2cxeWZjMVNIM3JmOFhaajUwTVVRSWxTclRkNWZhV0locEVLVDZEYThJQlRGNDl2VFFNUzM2eDQyaHVFemZ4WVh0UXEyT3RKd0FCZENQWDcxd1FxOHNOdUZkeXR6MGh4M2MyMjRpN0poQmREWnVMaVV3SVk?oc=5",
+            "title": "Shimizu S-Pulse vs Yokohama F. Marinos Prediction, Betting Tips, Lineups & Odds | 15 Aug 2026",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "sportsgambler",
+            "account_name": "Sportsgambler",
+            "account_verified": false,
+            "published_at": "2026-08-15T05:08:57+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
@@ -2477,7 +2516,20 @@
           ]
         },
         "lineups": null,
-        "social": []
+        "social": [
+          {
+            "id": 728142,
+            "type": "news",
+            "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNX1hzbXFaN3Vjb1laVEwtTTd2NS1Bci04R0NCZkd4YWtmTWFQRVVIdVlqdUJWSE5rWlBxN2NtODJ6SU13MmtiSnRpV2cxSmN2dGZYS2VjTlZHSUNZRVRNb08yNzN2ZWx0b1l2bTFTb0JKblB4V2hSYmdMTTVoYXJFTVpXaVZYWC0yc19SWHI5Vm05V3YxLVpDQnVpMTFVdzJWcGdTR3M5OF8yRHQxX0lORDR4QkwyeEtuS1p4TnlEXzQ?oc=5",
+            "title": "Fagiano Okayama vs V-Varen Nagasaki Prediction, Betting Tips, Lineups & Odds | 15 Aug 2026",
+            "text": "",
+            "thumbnail": "",
+            "account_handle": "sportsgambler",
+            "account_name": "Sportsgambler",
+            "account_verified": false,
+            "published_at": "2026-08-15T05:09:01+00:00"
+          }
+        ]
       },
       "managers": {
         "home": {
@@ -6178,8 +6230,8 @@
           ],
           "sr_stats": null,
           "ai_preview": {
-            "text": "**Atletico CP's looking to bounce back after a loss, while Mafra rolls in hot** — this Liga 3 clash has that freshly-minted-season energy where form matters but nothing's settled yet. 🔥\n\nAtletico CP mixed it up last time out, dropping to Benfica B but showing defensive grit elsewhere. CD Mafra, meanwhile, just hammered Vitória Sernache 5-0 at home and generally looks sharper in the W column.\n\nKey storylines:\n\n- **Atletico CP** need to tighten things up after shipping a goal to Benfica B; **C. Sousa** and the back line will be crucial\n- **CD Mafra** carry serious momentum with three wins in five and a goal-heavy attack led by **R. Moreira**\n- Home advantage for Atletico CP could matter, but Mafra's form is genuinely threatening\n\nExpected lineups:\n\n- **Atletico CP**: R. Dias, V. Durand, D. Henriques, Janico, C. Sousa, C. Pascoal, C. Santana, H. Suker, Delcio\n- **CD Mafra**: F. Lemos, C. Raposo, K. Alves, M. Camara, Y. Maïga, L. Neves, B. Sambú, M. Niang, R. Matos, R. Moreira\n\nPrediction:\n\n**Atletico CP 2–1 CD Mafra**. Home side edges it on familiar ground, but Mafra keeps it tight and punishes on the break. Slight edge to the hosts. 📍",
-            "generated_at": "2026-08-14T10:41:31.804437+00:00"
+            "text": "**Atletico CP host CD Mafra in a Liga 3 clash where form tells a tight story** — both sides just over .500 through their opening fixture. 🏟️\n\nAtletico CP's mixed 2W-1D-2L spell includes a loss to Benfica B U21, while Mafra arrives hot off a demolition of Vitória Sernache (5-0) despite a stumble against Sintrense. The visitor's firepower is real, but consistency at this level remains the question.\n\nKey storylines:\n\n- **Delcio and B. Lourenço** have to unlock Mafra's backline; Atletico's attacking shape could overwhelm if tempo stays high\n- **CD Mafra's M. Niang and R. Moreira** spearhead a potent front three — Atletico's defense needs composure on the wings\n- **Set-piece vulnerability**: both sides' recent draws and tight wins suggest dead-ball moments could shift this\n\n\nExpected lineups:\n\n- **Atletico CP**: R. Dias, V. Durand, D. Henriques, Janico, C. Sousa, B. Lourenço, C. Santana, H. Suker, Delcio\n- **CD Mafra**: F. Lemos, C. Raposo, K. Alves, Y. Maïga, L. Neves, B. Sambú, M. Niang, R. Matos, R. Moreira\n\n\nPrediction:\n\n**Atletico CP 2–1 CD Mafra** — home edge in Liga 3 matters; expect a scrappy, high-intensity affair that swings on individual moments rather than dominance. Slight lean to the hosts. ⚽",
+            "generated_at": "2026-08-15T05:41:39.601200+00:00"
           },
           "live_websocket": true
         },
@@ -6362,8 +6414,8 @@
         ],
         "sr_stats": null,
         "ai_preview": {
-          "text": "**Atletico CP's looking to bounce back after a loss, while Mafra rolls in hot** — this Liga 3 clash has that freshly-minted-season energy where form matters but nothing's settled yet. 🔥\n\nAtletico CP mixed it up last time out, dropping to Benfica B but showing defensive grit elsewhere. CD Mafra, meanwhile, just hammered Vitória Sernache 5-0 at home and generally looks sharper in the W column.\n\nKey storylines:\n\n- **Atletico CP** need to tighten things up after shipping a goal to Benfica B; **C. Sousa** and the back line will be crucial\n- **CD Mafra** carry serious momentum with three wins in five and a goal-heavy attack led by **R. Moreira**\n- Home advantage for Atletico CP could matter, but Mafra's form is genuinely threatening\n\nExpected lineups:\n\n- **Atletico CP**: R. Dias, V. Durand, D. Henriques, Janico, C. Sousa, C. Pascoal, C. Santana, H. Suker, Delcio\n- **CD Mafra**: F. Lemos, C. Raposo, K. Alves, M. Camara, Y. Maïga, L. Neves, B. Sambú, M. Niang, R. Matos, R. Moreira\n\nPrediction:\n\n**Atletico CP 2–1 CD Mafra**. Home side edges it on familiar ground, but Mafra keeps it tight and punishes on the break. Slight edge to the hosts. 📍",
-          "generated_at": "2026-08-14T10:41:31.804437+00:00"
+          "text": "**Atletico CP host CD Mafra in a Liga 3 clash where form tells a tight story** — both sides just over .500 through their opening fixture. 🏟️\n\nAtletico CP's mixed 2W-1D-2L spell includes a loss to Benfica B U21, while Mafra arrives hot off a demolition of Vitória Sernache (5-0) despite a stumble against Sintrense. The visitor's firepower is real, but consistency at this level remains the question.\n\nKey storylines:\n\n- **Delcio and B. Lourenço** have to unlock Mafra's backline; Atletico's attacking shape could overwhelm if tempo stays high\n- **CD Mafra's M. Niang and R. Moreira** spearhead a potent front three — Atletico's defense needs composure on the wings\n- **Set-piece vulnerability**: both sides' recent draws and tight wins suggest dead-ball moments could shift this\n\n\nExpected lineups:\n\n- **Atletico CP**: R. Dias, V. Durand, D. Henriques, Janico, C. Sousa, B. Lourenço, C. Santana, H. Suker, Delcio\n- **CD Mafra**: F. Lemos, C. Raposo, K. Alves, Y. Maïga, L. Neves, B. Sambú, M. Niang, R. Matos, R. Moreira\n\n\nPrediction:\n\n**Atletico CP 2–1 CD Mafra** — home edge in Liga 3 matters; expect a scrappy, high-intensity affair that swings on individual moments rather than dominance. Slight lean to the hosts. ⚽",
+          "generated_at": "2026-08-15T05:41:39.601200+00:00"
         },
         "live_websocket": true,
         "home_form": {
@@ -9415,10 +9467,7 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": {
-            "text": "**Oxford roll up for season-opener looking sharp; Milton Keynes arriving off a rough stretch.** This is a classic League One fixture with serious vibes disparity — one side primed, the other shaky.\n\nOxford's pre-season form is **genuinely tidy**, with three wins in their last four outings and only one loss. Milton Keynes, meanwhile, got hammered 4-1 by Norwich and haven't won since mid-July. The head-to-head leans Oxford's way too — **5 wins to 2** in the last decade.\n\nKey storylines:\n\n- **Oxford's attacking fluidity** will test a Dons backline that's looked fragile in recent weeks\n- **Méndez-Laing and Hepburn-Murphy** need to spark something for Milton Keynes or this could get long\n- **Brannagan and McDonnell** controlling midfield tempo could be the game's pivot\n\nExpected lineups:\n\n- **Oxford United**: Cumming, Currie, Brown, Helik, Spencer, Brannagan, McDonnell, Emakhu, Vaulks, Mills, O'Donkor\n- **Milton Keynes Dons**: McGillivray, Nelson, Sanders, Ekpiteta, Jones, Wiles, Gilbey, Kelly, Méndez-Laing, Hepburn-Murphy, Paterson\n\nPrediction:\n\n**Oxford 2–0 Milton Keynes** — the hosts have a clear edge in form and familiarity. Expect a composed home display.",
-            "generated_at": "2026-08-14T11:42:04.059435+00:00"
-          },
+          "ai_preview": null,
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.677221+00:00",
@@ -9626,10 +9675,7 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": {
-          "text": "**Oxford roll up for season-opener looking sharp; Milton Keynes arriving off a rough stretch.** This is a classic League One fixture with serious vibes disparity — one side primed, the other shaky.\n\nOxford's pre-season form is **genuinely tidy**, with three wins in their last four outings and only one loss. Milton Keynes, meanwhile, got hammered 4-1 by Norwich and haven't won since mid-July. The head-to-head leans Oxford's way too — **5 wins to 2** in the last decade.\n\nKey storylines:\n\n- **Oxford's attacking fluidity** will test a Dons backline that's looked fragile in recent weeks\n- **Méndez-Laing and Hepburn-Murphy** need to spark something for Milton Keynes or this could get long\n- **Brannagan and McDonnell** controlling midfield tempo could be the game's pivot\n\nExpected lineups:\n\n- **Oxford United**: Cumming, Currie, Brown, Helik, Spencer, Brannagan, McDonnell, Emakhu, Vaulks, Mills, O'Donkor\n- **Milton Keynes Dons**: McGillivray, Nelson, Sanders, Ekpiteta, Jones, Wiles, Gilbey, Kelly, Méndez-Laing, Hepburn-Murphy, Paterson\n\nPrediction:\n\n**Oxford 2–0 Milton Keynes** — the hosts have a clear edge in form and familiarity. Expect a composed home display.",
-          "generated_at": "2026-08-14T11:42:04.059435+00:00"
-        },
+        "ai_preview": null,
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -11439,10 +11485,7 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": {
-            "text": "**Leicester rolls into Meadow Lane as heavy favorites, and Notts County's wobbly preseason form isn't exactly screaming \"surprise party.\"** 🎭 This one's all about the Foxes' firepower versus a County side trying to rebuild midseason momentum.\n\nNotts County scraped draws against Burnley and Walsall but got spanked by Forest. Leicester, meanwhile, has won three of five and looks sharp — though that Genoa loss and Málaga thriller suggest they're still shaking off the rust. Form advantage: **Leicester by a country mile.**\n\nKey storylines:\n\n- **S. Mavididi** and **L. Page** will be the creative spark Leicester leans on to dismantle County's defense\n- **C. Roberts** leading the line for Notts will need support from **J. Luker** and **L. Ndlovu** to catch Leicester napping\n- **O. Skipp** controlling the midfield tempo could be the difference between a cagey 1-0 and a rout\n\nExpected lineups:\n\n- **Notts County**: J. Belshaw, L. Ness, R. McDonald, C. Roberts, J. Luker, N. Tsaroulla, L. Ndlovu\n- **Leicester City**: J. Stolarczyk, L. Thomas, O. Aluko, S. Mavididi, K. Otchere, O. Skipp\n\nPrediction:\n\n**Leicester 2–0 Notts County.** The Foxes have too much quality; County lacks the rhythm to trouble them consistently. 🦊",
-            "generated_at": "2026-08-14T11:41:49.977655+00:00"
-          },
+          "ai_preview": null,
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.685111+00:00",
@@ -11646,10 +11689,7 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": {
-          "text": "**Leicester rolls into Meadow Lane as heavy favorites, and Notts County's wobbly preseason form isn't exactly screaming \"surprise party.\"** 🎭 This one's all about the Foxes' firepower versus a County side trying to rebuild midseason momentum.\n\nNotts County scraped draws against Burnley and Walsall but got spanked by Forest. Leicester, meanwhile, has won three of five and looks sharp — though that Genoa loss and Málaga thriller suggest they're still shaking off the rust. Form advantage: **Leicester by a country mile.**\n\nKey storylines:\n\n- **S. Mavididi** and **L. Page** will be the creative spark Leicester leans on to dismantle County's defense\n- **C. Roberts** leading the line for Notts will need support from **J. Luker** and **L. Ndlovu** to catch Leicester napping\n- **O. Skipp** controlling the midfield tempo could be the difference between a cagey 1-0 and a rout\n\nExpected lineups:\n\n- **Notts County**: J. Belshaw, L. Ness, R. McDonald, C. Roberts, J. Luker, N. Tsaroulla, L. Ndlovu\n- **Leicester City**: J. Stolarczyk, L. Thomas, O. Aluko, S. Mavididi, K. Otchere, O. Skipp\n\nPrediction:\n\n**Leicester 2–0 Notts County.** The Foxes have too much quality; County lacks the rhythm to trouble them consistently. 🦊",
-          "generated_at": "2026-08-14T11:41:49.977655+00:00"
-        },
+        "ai_preview": null,
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -12772,10 +12812,7 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": {
-            "text": "**Reading look sharp as a tack to kick off League One, while Luton Town are hunting to bounce back.** This is a proper statement-of-intent opener for the Royals after a pre-season that'll have fans buzzing 🔥\n\nReading have won four of their last five, including a dominant 3-0 demolition of Charlton Athletic at home. Luton Town are knocking on the door too — three wins in their last five — but that shock loss to Go Ahead Eagles is a reminder they're not unbeatable.\n\nKey storylines:\n\n- **Reading's midfield spine** of L. Wing and D. Kyerewaa will be crucial in controlling tempo against Luton's compact setup\n- **K. Palmer and N. Wells** leading Luton's attack will need space to breathe, or this becomes a backs-against-the-wall afternoon\n- Reading have **won both recent head-to-head clashes** — momentum and familiarity matter here\n\nExpected lineups:\n\n- **Reading**: J. Pereira, P. O'Connor, J. Dorsett, B. Ward, K. Abrefa, L. Wing, D. Kyerewaa, P. Lane, J. Stokes, K. Lisbie, J. Brown\n- **Luton Town**: J. Keeley, J. Johnson, K. Naismith, H. Odofin, M. Andersen, J. Richards, L. Walsh, E. Lawrence, S. H. Sandal, K. Palmer, N. Wells\n\nPrediction:\n\n**Reading 2-1 Luton Town**\n\nHome form and that H2H edge give Reading a slight lean, though Luton will make it scrappy.",
-            "generated_at": "2026-08-14T11:41:37.156511+00:00"
-          },
+          "ai_preview": null,
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.691171+00:00",
@@ -12986,10 +13023,7 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": {
-          "text": "**Reading look sharp as a tack to kick off League One, while Luton Town are hunting to bounce back.** This is a proper statement-of-intent opener for the Royals after a pre-season that'll have fans buzzing 🔥\n\nReading have won four of their last five, including a dominant 3-0 demolition of Charlton Athletic at home. Luton Town are knocking on the door too — three wins in their last five — but that shock loss to Go Ahead Eagles is a reminder they're not unbeatable.\n\nKey storylines:\n\n- **Reading's midfield spine** of L. Wing and D. Kyerewaa will be crucial in controlling tempo against Luton's compact setup\n- **K. Palmer and N. Wells** leading Luton's attack will need space to breathe, or this becomes a backs-against-the-wall afternoon\n- Reading have **won both recent head-to-head clashes** — momentum and familiarity matter here\n\nExpected lineups:\n\n- **Reading**: J. Pereira, P. O'Connor, J. Dorsett, B. Ward, K. Abrefa, L. Wing, D. Kyerewaa, P. Lane, J. Stokes, K. Lisbie, J. Brown\n- **Luton Town**: J. Keeley, J. Johnson, K. Naismith, H. Odofin, M. Andersen, J. Richards, L. Walsh, E. Lawrence, S. H. Sandal, K. Palmer, N. Wells\n\nPrediction:\n\n**Reading 2-1 Luton Town**\n\nHome form and that H2H edge give Reading a slight lean, though Luton will make it scrappy.",
-          "generated_at": "2026-08-14T11:41:37.156511+00:00"
-        },
+        "ai_preview": null,
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -16803,7 +16837,18 @@
           "temperature_c": 27,
           "pitch_condition": null,
           "attendance": null,
-          "referee": null,
+          "referee": {
+            "id": 2844,
+            "name": "Flavio Jesus",
+            "country": "Portugal",
+            "nationality_a3": "",
+            "birthdate": null,
+            "yellowCards": 97,
+            "redCards": 5,
+            "career_games": 20,
+            "career_yellow_cards": 97,
+            "career_red_cards": 5
+          },
           "home_coach": {
             "id": 2909,
             "name": "Fábio Pereira",
@@ -16896,8 +16941,8 @@
           ],
           "sr_stats": null,
           "ai_preview": {
-            "text": "**Benfica's kids are rolling, but Leiria's got historical edge in this one.** It's a Liga Portugal 2 clash between a form-hot academy side and a scrappy local outfit that's been here before.\n\nBenfica B U21 are flying — **four wins in five** with only one draw, including a commanding 4-0 thrashing. União de Leiria, meanwhile, are wobbling: one win in their last five, though they've punished Benfica B U21 three times in the last six h2h meetings. Classic David-vs-Goliath, but David's got receipts.\n\nKey storylines:\n\n- **Benfica B U21's unbeaten run** faces its toughest test yet against a side that knows how to win in this fixture\n- **P. Fernández and B. Aguiar Gomes** need to spark an attack that's misfired too often for Leiria this summer\n- **O. P. Edokpolor** and **G. Moreira** leading the Benfica charge with clinical finishing — stopping them is job one\n\nExpected lineups:\n\n- **União de Leiria**: J. Odehnal, M. Baró, Marcelo, V. Rofino, Maga, J. d. Silva, D. Martins, J. Muñoz, A. Lottin, B. Aguiar Gomes, P. Fernández\n- **SL Benfica B U21**: A. Voitinovičius, F. Neto, M. Ferreira, J. Capucho, D. Soares, T. Freitas, T. d. S. Moreira, N. Félix, O. Tomé, O. P. Edokpolor, G. Moreira\n\nPrediction:\n\n**SL Benfica B U21 2–0 União de Leiria.** Benfica's momentum is too much; Leiria's defense looks fragile. Slight favorite for the young Eagles 🦅",
-            "generated_at": "2026-08-14T15:41:48.678677+00:00"
+            "text": "**União de Leiria's home record just got a lot tougher—Benfica's B side is rolling.** 🔴 Two completely different trajectories heading into round 2, and the underdogs have work to do.\n\nLeiria scraped a win at home last time out but have been pretty shaky overall: one win, one draw, three losses across their last five. Benfica B U21, meanwhile, are **absolutely firing**—four straight wins and a draw, with a monster 4-0 thrashing of Mérida fresh in the memory. The H2H favors Leiria historically, but form rarely lies.\n\nKey storylines:\n\n- **União de Leiria** need their home crowd to stay sharp defensively; they've been leaky on the road and can't afford another slow start\n- **SL Benfica B U21** carry serious momentum into this—O. Tomé and O. P. Edokpolor up top have been clinical finishers\n- Set pieces could matter here; Leiria's likely to get bodies forward but Benfica's back line (F. Neto, M. Ferreira, J. Capucho) looks organized\n\nExpected lineups:\n\n- **União de Leiria**: J. Odehnal, Marcelo, V. Rofino, M. Baró, Maga, A. Lottin, D. Martins, J. Muñoz\n- **SL Benfica B U21**: A. Voitinovičius, F. Neto, M. Ferreira, J. Capucho, D. Soares, T. Freitas, O. Tomé, O. P. Edokpolor\n\nPrediction:\n\n**0-2 to Benfica B U21.** Lean toward the visitors—they're just too sharp right now, and Leiria's defense is still finding its feet. 📊",
+            "generated_at": "2026-08-15T05:42:06.157465+00:00"
           },
           "live_websocket": true
         },
@@ -17004,7 +17049,18 @@
         "temperature_c": 27,
         "pitch_condition": null,
         "attendance": null,
-        "referee": null,
+        "referee": {
+          "id": 2844,
+          "name": "Flavio Jesus",
+          "country": "Portugal",
+          "nationality_a3": "",
+          "birthdate": null,
+          "yellowCards": 97,
+          "redCards": 5,
+          "career_games": 20,
+          "career_yellow_cards": 97,
+          "career_red_cards": 5
+        },
         "home_coach": {
           "id": 2909,
           "name": "Fábio Pereira",
@@ -17091,8 +17147,8 @@
         ],
         "sr_stats": null,
         "ai_preview": {
-          "text": "**Benfica's kids are rolling, but Leiria's got historical edge in this one.** It's a Liga Portugal 2 clash between a form-hot academy side and a scrappy local outfit that's been here before.\n\nBenfica B U21 are flying — **four wins in five** with only one draw, including a commanding 4-0 thrashing. União de Leiria, meanwhile, are wobbling: one win in their last five, though they've punished Benfica B U21 three times in the last six h2h meetings. Classic David-vs-Goliath, but David's got receipts.\n\nKey storylines:\n\n- **Benfica B U21's unbeaten run** faces its toughest test yet against a side that knows how to win in this fixture\n- **P. Fernández and B. Aguiar Gomes** need to spark an attack that's misfired too often for Leiria this summer\n- **O. P. Edokpolor** and **G. Moreira** leading the Benfica charge with clinical finishing — stopping them is job one\n\nExpected lineups:\n\n- **União de Leiria**: J. Odehnal, M. Baró, Marcelo, V. Rofino, Maga, J. d. Silva, D. Martins, J. Muñoz, A. Lottin, B. Aguiar Gomes, P. Fernández\n- **SL Benfica B U21**: A. Voitinovičius, F. Neto, M. Ferreira, J. Capucho, D. Soares, T. Freitas, T. d. S. Moreira, N. Félix, O. Tomé, O. P. Edokpolor, G. Moreira\n\nPrediction:\n\n**SL Benfica B U21 2–0 União de Leiria.** Benfica's momentum is too much; Leiria's defense looks fragile. Slight favorite for the young Eagles 🦅",
-          "generated_at": "2026-08-14T15:41:48.678677+00:00"
+          "text": "**União de Leiria's home record just got a lot tougher—Benfica's B side is rolling.** 🔴 Two completely different trajectories heading into round 2, and the underdogs have work to do.\n\nLeiria scraped a win at home last time out but have been pretty shaky overall: one win, one draw, three losses across their last five. Benfica B U21, meanwhile, are **absolutely firing**—four straight wins and a draw, with a monster 4-0 thrashing of Mérida fresh in the memory. The H2H favors Leiria historically, but form rarely lies.\n\nKey storylines:\n\n- **União de Leiria** need their home crowd to stay sharp defensively; they've been leaky on the road and can't afford another slow start\n- **SL Benfica B U21** carry serious momentum into this—O. Tomé and O. P. Edokpolor up top have been clinical finishers\n- Set pieces could matter here; Leiria's likely to get bodies forward but Benfica's back line (F. Neto, M. Ferreira, J. Capucho) looks organized\n\nExpected lineups:\n\n- **União de Leiria**: J. Odehnal, Marcelo, V. Rofino, M. Baró, Maga, A. Lottin, D. Martins, J. Muñoz\n- **SL Benfica B U21**: A. Voitinovičius, F. Neto, M. Ferreira, J. Capucho, D. Soares, T. Freitas, O. Tomé, O. P. Edokpolor\n\nPrediction:\n\n**0-2 to Benfica B U21.** Lean toward the visitors—they're just too sharp right now, and Leiria's defense is still finding its feet. 📊",
+          "generated_at": "2026-08-15T05:42:06.157465+00:00"
         },
         "live_websocket": true,
         "home_form": {
@@ -25171,10 +25227,7 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": {
-            "text": "**Plymouth rolls in hot, but Stockport's got that grit** — one side's flying off preseason, the other just beat Preston. This is the proper League One opener we've been waiting for. ⚽\n\nPlymouth are **4W 1D unbeaten** through their warm-ups, while Stockport steadied the ship with back-to-back wins despite a dodgy draw to Doncaster. Head-to-head is split — each team's got a win in the last two meetings, so there's no clear edge here.\n\nKey storylines:\n\n- **Plymouth's front line** (Evans, Pepple, Sorinola) will test a Stockport backline anchored by O. Norwood in midfield\n- **Stockport's compact 4-1-4-1** under O. Whatmuff should ask Plymouth's wing play (Amaechi, Curtis, White) serious questions\n- Form says **Plymouth are the favorites**, but Stockport's recent wins show they can hit hard on the road\n\nExpected lineups:\n\n- **Plymouth Argyle**: M. Cooper, A. Mitchell, M. Ross, W. Harding, X. Amaechi, R. Curtis, M. Boateng, H. White\n- **Stockport County**: O. Whatmuff, T. Edun, E. Pye, J. Dacres-Cogley, O. Norwood, B. Osborn, L. Bate, C. Gardner\n\nPrediction:\n\n**Plymouth Argyle 2–1 Stockport County**. Slight lean to the Greens on current momentum, but this won't be a walkover.",
-            "generated_at": "2026-08-14T19:42:10.758210+00:00"
-          },
+          "ai_preview": null,
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.535344+00:00",
@@ -25381,10 +25434,7 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": {
-          "text": "**Plymouth rolls in hot, but Stockport's got that grit** — one side's flying off preseason, the other just beat Preston. This is the proper League One opener we've been waiting for. ⚽\n\nPlymouth are **4W 1D unbeaten** through their warm-ups, while Stockport steadied the ship with back-to-back wins despite a dodgy draw to Doncaster. Head-to-head is split — each team's got a win in the last two meetings, so there's no clear edge here.\n\nKey storylines:\n\n- **Plymouth's front line** (Evans, Pepple, Sorinola) will test a Stockport backline anchored by O. Norwood in midfield\n- **Stockport's compact 4-1-4-1** under O. Whatmuff should ask Plymouth's wing play (Amaechi, Curtis, White) serious questions\n- Form says **Plymouth are the favorites**, but Stockport's recent wins show they can hit hard on the road\n\nExpected lineups:\n\n- **Plymouth Argyle**: M. Cooper, A. Mitchell, M. Ross, W. Harding, X. Amaechi, R. Curtis, M. Boateng, H. White\n- **Stockport County**: O. Whatmuff, T. Edun, E. Pye, J. Dacres-Cogley, O. Norwood, B. Osborn, L. Bate, C. Gardner\n\nPrediction:\n\n**Plymouth Argyle 2–1 Stockport County**. Slight lean to the Greens on current momentum, but this won't be a walkover.",
-          "generated_at": "2026-08-14T19:42:10.758210+00:00"
-        },
+        "ai_preview": null,
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -25800,10 +25850,7 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": {
-            "text": "**Mansfield kick off League One with momentum to protect, while Doncaster rolls in looking for their first win of the summer** 🔴⚪\n\nStags showed serious teeth in that 4-0 demolition of Alfreton, but back-to-back home hammerings to Sheffield United and Derby raise questions. Rovers, meanwhile, are winless across the preseason but picked up three draws — not inspiring, but a solid defensive foundation heading into round one.\n\nKey storylines:\n\n- **Mansfield's attack vs Doncaster's patience**: Stags scored four last time out, but Rovers have only conceded one goal in their last outing (to Lincoln), so expect a real test of Mansfield's incisiveness.\n- **L. Roberts and the Mansfield backline**: Staying compact will be crucial; those three goals conceded at home to Derby won't fly in the league.\n- **Doncaster's lack of a killer blow**: Zero wins so far — **B. Hanlan** and the attack need a breakthrough performance or expect another frustrating stalemate.\n\nExpected lineups:\n\n- **Mansfield Town**: L. Roberts, R. Sweeney, S. McLaughlin, R. Hendry, L. Akins, L. Reed, R. Oates, O. Irow, T. Roberts\n- **Doncaster Rovers**: T. Simkin, J. Senior, J. McGrath, J. Sterry, N. Byrne, G. Broadbent, O. Bailey, D. Robinson, B. Hanlan\n\nPrediction:\n\n**Mansfield 2–0 Doncaster** — Stags edge it on balance of form and home advantage, but expect it tighter than their recent fireworks. 🎯",
-            "generated_at": "2026-08-14T19:42:05.821143+00:00"
-          },
+          "ai_preview": null,
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.560888+00:00",
@@ -26014,10 +26061,7 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": {
-          "text": "**Mansfield kick off League One with momentum to protect, while Doncaster rolls in looking for their first win of the summer** 🔴⚪\n\nStags showed serious teeth in that 4-0 demolition of Alfreton, but back-to-back home hammerings to Sheffield United and Derby raise questions. Rovers, meanwhile, are winless across the preseason but picked up three draws — not inspiring, but a solid defensive foundation heading into round one.\n\nKey storylines:\n\n- **Mansfield's attack vs Doncaster's patience**: Stags scored four last time out, but Rovers have only conceded one goal in their last outing (to Lincoln), so expect a real test of Mansfield's incisiveness.\n- **L. Roberts and the Mansfield backline**: Staying compact will be crucial; those three goals conceded at home to Derby won't fly in the league.\n- **Doncaster's lack of a killer blow**: Zero wins so far — **B. Hanlan** and the attack need a breakthrough performance or expect another frustrating stalemate.\n\nExpected lineups:\n\n- **Mansfield Town**: L. Roberts, R. Sweeney, S. McLaughlin, R. Hendry, L. Akins, L. Reed, R. Oates, O. Irow, T. Roberts\n- **Doncaster Rovers**: T. Simkin, J. Senior, J. McGrath, J. Sterry, N. Byrne, G. Broadbent, O. Bailey, D. Robinson, B. Hanlan\n\nPrediction:\n\n**Mansfield 2–0 Doncaster** — Stags edge it on balance of form and home advantage, but expect it tighter than their recent fireworks. 🎯",
-          "generated_at": "2026-08-14T19:42:05.821143+00:00"
-        },
+        "ai_preview": null,
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -26500,10 +26544,7 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": {
-            "text": "**Huddersfield's looking sharp, and Wimbledon's arriving bruised.** Town won their last proper test against Middlesbrough while the Dons just lost to Wealdstone — not exactly the energy you want heading into League One.\n\nTown's form edge is real: two wins and two draws in their last five, with just one loss. Wimbledon's wobbled harder (1W 2D 2L), and that H2H gives Huddersfield clear momentum — they've won or drawn their last two meetings.\n\nKey storylines:\n\n- **Huddersfield's attack** (J. Taylor and A. Fletcher leading the line) has been clicking, especially in that 3-1 away win\n- **Wimbledon's back line** (Seddon, Johnson, Sweeney) faces an early test against a side that just proved it can score on the road\n- **Season openers favoring form** — Town's pre-season rhythm beats Wimbledon's recent inconsistency\n\nExpected lineups:\n\n- **Huddersfield Town**: M. Young, S. Roughan, L. Sørensen, R. Balker, M. Wallace, R. Ledson, M. Harness, D. Kasumu, A. Fletcher, J. Taylor, D. S. Fernandes\n- **AFC Wimbledon**: J. McDonnell, S. Seddon, R. Johnson, D. Sweeney, I. Ogundere, J. Tilley, C. Maycock, Z. Nelson, A. Sasu, M. Browne, A. Hackford\n\nPrediction:\n\n**Huddersfield 2–1 AFC Wimbledon** 🔵 Slight favorite; Town's form and Wimbledon's recent stumbles point to a home opener win.",
-            "generated_at": "2026-08-14T19:41:59.909680+00:00"
-          },
+          "ai_preview": null,
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.548257+00:00",
@@ -26717,10 +26758,7 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": {
-          "text": "**Huddersfield's looking sharp, and Wimbledon's arriving bruised.** Town won their last proper test against Middlesbrough while the Dons just lost to Wealdstone — not exactly the energy you want heading into League One.\n\nTown's form edge is real: two wins and two draws in their last five, with just one loss. Wimbledon's wobbled harder (1W 2D 2L), and that H2H gives Huddersfield clear momentum — they've won or drawn their last two meetings.\n\nKey storylines:\n\n- **Huddersfield's attack** (J. Taylor and A. Fletcher leading the line) has been clicking, especially in that 3-1 away win\n- **Wimbledon's back line** (Seddon, Johnson, Sweeney) faces an early test against a side that just proved it can score on the road\n- **Season openers favoring form** — Town's pre-season rhythm beats Wimbledon's recent inconsistency\n\nExpected lineups:\n\n- **Huddersfield Town**: M. Young, S. Roughan, L. Sørensen, R. Balker, M. Wallace, R. Ledson, M. Harness, D. Kasumu, A. Fletcher, J. Taylor, D. S. Fernandes\n- **AFC Wimbledon**: J. McDonnell, S. Seddon, R. Johnson, D. Sweeney, I. Ogundere, J. Tilley, C. Maycock, Z. Nelson, A. Sasu, M. Browne, A. Hackford\n\nPrediction:\n\n**Huddersfield 2–1 AFC Wimbledon** 🔵 Slight favorite; Town's form and Wimbledon's recent stumbles point to a home opener win.",
-          "generated_at": "2026-08-14T19:41:59.909680+00:00"
-        },
+        "ai_preview": null,
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -27136,10 +27174,7 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": {
-            "text": "**Blackpool and Wycombe both limping into League One's season opener — identical form (2W-3L) means one of these sides badly needs a statement win.** 🔥 Neither team's pre-season painted a pretty picture, but the Tangerines at least found the net against Grimsby. Wanderers have misfired at home, losing to Stevenage and Ipswich after that thumping of Portsmouth.\n\n**Blackpool** look sharper in transition; **Wycombe** need to tighten up defensively if they're going to turn things around early.\n\nKey storylines:\n\n- **N. Ennis** and **D. Taylor** will be crucial for Blackpool's attacking thrust in a 3-1-4-2 shape that demands creativity from midfield\n- **B. Fink** carries Wycombe's goal threat, but the Wanderers' backline—led by **S. Cook** and **C. Taylor**—has been fragile in friendlies\n- **K. Anderson** orchestrating from deep for Blackpool could dominate the middle third if Wycombe's **F. Onyedinma** and **A. Morley** can't press efficiently\n\nExpected lineups:\n\n- **Blackpool**: B. Peacock-Farrell, H. Coulson, O. Casey, Z. Ashworth, C. Hamilton, K. Anderson, J. Brown, T. Bloxham, D. Taylor, N. Ennis\n- **Wycombe Wanderers**: M. v. Sas, C. Taylor, D. Harvie, S. Cook, S. Parker, F. Onyedinma, A. Morley, S. Thomas, J. Mullins, B. Fink\n\nPrediction:\n\n**Blackpool 2–1 Wycombe** — slight edge to the hosts on the road form and midfield control. 📊",
-            "generated_at": "2026-08-14T19:41:48.890459+00:00"
-          },
+          "ai_preview": null,
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.555178+00:00",
@@ -27351,10 +27386,7 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": {
-          "text": "**Blackpool and Wycombe both limping into League One's season opener — identical form (2W-3L) means one of these sides badly needs a statement win.** 🔥 Neither team's pre-season painted a pretty picture, but the Tangerines at least found the net against Grimsby. Wanderers have misfired at home, losing to Stevenage and Ipswich after that thumping of Portsmouth.\n\n**Blackpool** look sharper in transition; **Wycombe** need to tighten up defensively if they're going to turn things around early.\n\nKey storylines:\n\n- **N. Ennis** and **D. Taylor** will be crucial for Blackpool's attacking thrust in a 3-1-4-2 shape that demands creativity from midfield\n- **B. Fink** carries Wycombe's goal threat, but the Wanderers' backline—led by **S. Cook** and **C. Taylor**—has been fragile in friendlies\n- **K. Anderson** orchestrating from deep for Blackpool could dominate the middle third if Wycombe's **F. Onyedinma** and **A. Morley** can't press efficiently\n\nExpected lineups:\n\n- **Blackpool**: B. Peacock-Farrell, H. Coulson, O. Casey, Z. Ashworth, C. Hamilton, K. Anderson, J. Brown, T. Bloxham, D. Taylor, N. Ennis\n- **Wycombe Wanderers**: M. v. Sas, C. Taylor, D. Harvie, S. Cook, S. Parker, F. Onyedinma, A. Morley, S. Thomas, J. Mullins, B. Fink\n\nPrediction:\n\n**Blackpool 2–1 Wycombe** — slight edge to the hosts on the road form and midfield control. 📊",
-          "generated_at": "2026-08-14T19:41:48.890459+00:00"
-        },
+        "ai_preview": null,
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -27805,10 +27837,7 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": {
-            "text": "**Leyton Orient looking sharp after a pre-season rampage, but Sheffield Wednesday's H2H edge is genuinely scary.** Orient crushed everyone in sight (including a 7-1 demolition), while Wednesday wobbled with that 0-4 stinker to Oldham but have won three of four meetings against this exact opponent. 🔥\n\nOrient's form on paper is mint — three wins in five friendlies, bags of goals. Wednesday are messier but have the head-to-head juju and just enough defensive grit to nick it on the day.\n\nKey storylines:\n\n- **Leyton Orient's attacking fluency** vs Wednesday's defensive consistency — can the O's keep their foot on the gas or will pragmatism shut them down?\n- **Barry Bannan orchestrating Wednesday's midfield** — experience counts when form is patchy\n- **Early-season momentum clash** — preseason form rarely tells the whole story; H2H history favors the Owls\n\n\nExpected lineups:\n\n- **Leyton Orient**: N. Baxter, S. Boniface, W. Forrester, P. Chinedu, T. Springett, I. E. Mizouni, I. Hayden, A. Connolly, C. Wellens, Y. Akhamrich, D. Ballard\n- **Sheffield Wednesday**: J. Lumley, M. Lowe, L. Palmer, Otegbayo, J. Liongola, S. Fusire, J. Thornton, J. Lowe, B. Bannan, H. Gray, W. Grainger\n\n\nPrediction:\n\n**1-1 draw** — both teams have enough craft to trouble each other, and the stat gods slightly favor Wednesday, but Orient's sharpness keeps it level. Coin flip territory.",
-            "generated_at": "2026-08-14T19:41:43.274277+00:00"
-          },
+          "ai_preview": null,
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.542122+00:00",
@@ -28016,10 +28045,7 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": {
-          "text": "**Leyton Orient looking sharp after a pre-season rampage, but Sheffield Wednesday's H2H edge is genuinely scary.** Orient crushed everyone in sight (including a 7-1 demolition), while Wednesday wobbled with that 0-4 stinker to Oldham but have won three of four meetings against this exact opponent. 🔥\n\nOrient's form on paper is mint — three wins in five friendlies, bags of goals. Wednesday are messier but have the head-to-head juju and just enough defensive grit to nick it on the day.\n\nKey storylines:\n\n- **Leyton Orient's attacking fluency** vs Wednesday's defensive consistency — can the O's keep their foot on the gas or will pragmatism shut them down?\n- **Barry Bannan orchestrating Wednesday's midfield** — experience counts when form is patchy\n- **Early-season momentum clash** — preseason form rarely tells the whole story; H2H history favors the Owls\n\n\nExpected lineups:\n\n- **Leyton Orient**: N. Baxter, S. Boniface, W. Forrester, P. Chinedu, T. Springett, I. E. Mizouni, I. Hayden, A. Connolly, C. Wellens, Y. Akhamrich, D. Ballard\n- **Sheffield Wednesday**: J. Lumley, M. Lowe, L. Palmer, Otegbayo, J. Liongola, S. Fusire, J. Thornton, J. Lowe, B. Bannan, H. Gray, W. Grainger\n\n\nPrediction:\n\n**1-1 draw** — both teams have enough craft to trouble each other, and the stat gods slightly favor Wednesday, but Orient's sharpness keeps it level. Coin flip territory.",
-          "generated_at": "2026-08-14T19:41:43.274277+00:00"
-        },
+        "ai_preview": null,
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -28490,10 +28516,7 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": {
-            "text": "**Bradford City's home fortress meets a Peterborough side hunting consistency** — the Bantams have dominated this fixture historically and bring better recent form into League One's opener. 🏟️\n\nBradford won 3 of their last 5 friendlies and just beat Preston, while Peterborough stuttered with back-to-back defeats (including a heavy loss to West Brom). The head-to-head tells the story: **Bradford hold a 6-2 edge** over the past decade, and they'll fancy another at Valley Parade.\n\nKey storylines:\n\n- **K. Jackson** and **A. Sarcevic** driving Bradford's attacking play in a 3-4-2-1 shape that looked sharp against Preston\n- Peterborough's **B. Woods** and **B. Khela** tasked with controlling midfield against a hungry home side\n- Can **H. Leonard** spark some creativity for Peterborough's attack, or will Bradford's back three smother them early?\n\nExpected lineups:\n\n- **Bradford City**: J. McCracken, A. Baldwin, J. Wright, C. Connolly, J. Neufville, I. Touray, B. Pointon, A. Phillips\n- **Peterborough United**: A. Bass, H. Mills, D. Okagbue, L. Mendonça, J. Dornelly, B. Woods, B. Khela, D. Kamara\n\nPrediction:\n\n**Bradford City 2-0 Peterborough United**\n\nHome edge and rhythm — Bradford's the lean here. ✅",
-            "generated_at": "2026-08-14T19:41:37.310871+00:00"
-          },
+          "ai_preview": null,
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.580310+00:00",
@@ -28706,10 +28729,7 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": {
-          "text": "**Bradford City's home fortress meets a Peterborough side hunting consistency** — the Bantams have dominated this fixture historically and bring better recent form into League One's opener. 🏟️\n\nBradford won 3 of their last 5 friendlies and just beat Preston, while Peterborough stuttered with back-to-back defeats (including a heavy loss to West Brom). The head-to-head tells the story: **Bradford hold a 6-2 edge** over the past decade, and they'll fancy another at Valley Parade.\n\nKey storylines:\n\n- **K. Jackson** and **A. Sarcevic** driving Bradford's attacking play in a 3-4-2-1 shape that looked sharp against Preston\n- Peterborough's **B. Woods** and **B. Khela** tasked with controlling midfield against a hungry home side\n- Can **H. Leonard** spark some creativity for Peterborough's attack, or will Bradford's back three smother them early?\n\nExpected lineups:\n\n- **Bradford City**: J. McCracken, A. Baldwin, J. Wright, C. Connolly, J. Neufville, I. Touray, B. Pointon, A. Phillips\n- **Peterborough United**: A. Bass, H. Mills, D. Okagbue, L. Mendonça, J. Dornelly, B. Woods, B. Khela, D. Kamara\n\nPrediction:\n\n**Bradford City 2-0 Peterborough United**\n\nHome edge and rhythm — Bradford's the lean here. ✅",
-          "generated_at": "2026-08-14T19:41:37.310871+00:00"
-        },
+        "ai_preview": null,
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -29210,10 +29230,7 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": {
-            "text": "**League One is back, and Burton's looking to shake off a rough preseason while Stevenage rolls in hot.** 🔥 This is a tale of momentum vs. a team desperate to reset.\n\nStevenage won three of their last five friendlies and dispatched Millwall and Colchester convincingly. Burton, meanwhile, have been shaky — just one win in five, with losses to Blackburn and Derby stinging. They'll need to tighten up fast on home soil.\n\nKey storylines:\n\n- **Stevenage's attack** has serious teeth: **J. Reid**, **D. Phillips**, and **P. Patterson** form a dangerous front line that's been clinical in preseason.\n- **Burton's midfield balance** under **K. Chauke** and **C. Webster** will need to suffocate Stevenage's press and tempo.\n- **Z. Scutt** and **T. Shade** have to deliver the spark in Burton's attacking third — preseason hasn't given fans much to cheer.\n\nExpected lineups:\n\n- **Burton Albion**: C. Addai, C. Tilt, F. Delap, T. Sibbick, K. Lofthouse, J. Armer, C. Webster, K. Chauke, T. Shade, Z. Scutt, M. Dennis\n- **Stevenage**: F. Marschall, S. Earley, C. Piergianni, L. James-Wildin, J. Pattenden, D. Kemp, J. Roberts, L. Thompson, D. Phillips, P. Patterson, J. Reid\n\nPrediction:\n\n**Stevenage 2-1 Burton Albion.** Stevenage's form gives them the edge, and Burton's defensive leaks look costly early season.",
-            "generated_at": "2026-08-14T19:41:54.279654+00:00"
-          },
+          "ai_preview": null,
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.574380+00:00",
@@ -29424,10 +29441,7 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": {
-          "text": "**League One is back, and Burton's looking to shake off a rough preseason while Stevenage rolls in hot.** 🔥 This is a tale of momentum vs. a team desperate to reset.\n\nStevenage won three of their last five friendlies and dispatched Millwall and Colchester convincingly. Burton, meanwhile, have been shaky — just one win in five, with losses to Blackburn and Derby stinging. They'll need to tighten up fast on home soil.\n\nKey storylines:\n\n- **Stevenage's attack** has serious teeth: **J. Reid**, **D. Phillips**, and **P. Patterson** form a dangerous front line that's been clinical in preseason.\n- **Burton's midfield balance** under **K. Chauke** and **C. Webster** will need to suffocate Stevenage's press and tempo.\n- **Z. Scutt** and **T. Shade** have to deliver the spark in Burton's attacking third — preseason hasn't given fans much to cheer.\n\nExpected lineups:\n\n- **Burton Albion**: C. Addai, C. Tilt, F. Delap, T. Sibbick, K. Lofthouse, J. Armer, C. Webster, K. Chauke, T. Shade, Z. Scutt, M. Dennis\n- **Stevenage**: F. Marschall, S. Earley, C. Piergianni, L. James-Wildin, J. Pattenden, D. Kemp, J. Roberts, L. Thompson, D. Phillips, P. Patterson, J. Reid\n\nPrediction:\n\n**Stevenage 2-1 Burton Albion.** Stevenage's form gives them the edge, and Burton's defensive leaks look costly early season.",
-          "generated_at": "2026-08-14T19:41:54.279654+00:00"
-        },
+        "ai_preview": null,
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -29888,10 +29902,7 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": {
-            "text": "**Barnsley's looking to make a statement start in League One, but Bromley won't roll over** — the hosts are the favorites here, though their guests have shown they can nab draws against solid sides. 🔴\n\nBarnsley's momentum is real: three wins in their last five with that convincing 3-0 over Lincoln City. Bromley, meanwhile, are drawing their way through preseason—solid defensively but that 0-7 hammering to QPR is a red flag they'll want to forget fast.\n\nKey storylines:\n\n- **Barnsley's attack** spearheaded by **M. Kirk** and **P. Kelly** should have the space to hurt a Bromley back line that's prone to getting overrun\n- **Bromley's defensive shape** under **O. Sowunmi** and **D. Woodman** will need to stay compact; they can't afford another beach ball scenario like the QPR loss\n- **J. Bland** and **C. McGeehan** holding Barnsley's midfield could be the difference in tempo control\n\nExpected lineups:\n\n- **Barnsley**: K. Flavell, J. Earl, M. d. Gevigney, S. Gale, C. McGeehan, L. Connell, J. Bland, R. Cleary, P. Kelly, A. Richards, M. Kirk\n- **Bromley**: G. Smith, O. Sowunmi, D. Woodman, C. Headman, M. Ifill, A. Charles, K. Conteh, A. Stepien-Iwumene, E. Archer, M. Cheek, C. Whitely\n\nPrediction:\n\n**Barnsley 2-0 Barnsley** — home advantage + form edge over a Bromley side still finding their feet.",
-            "generated_at": "2026-08-14T19:41:32.409990+00:00"
-          },
+          "ai_preview": null,
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.587953+00:00",
@@ -30099,10 +30110,7 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": {
-          "text": "**Barnsley's looking to make a statement start in League One, but Bromley won't roll over** — the hosts are the favorites here, though their guests have shown they can nab draws against solid sides. 🔴\n\nBarnsley's momentum is real: three wins in their last five with that convincing 3-0 over Lincoln City. Bromley, meanwhile, are drawing their way through preseason—solid defensively but that 0-7 hammering to QPR is a red flag they'll want to forget fast.\n\nKey storylines:\n\n- **Barnsley's attack** spearheaded by **M. Kirk** and **P. Kelly** should have the space to hurt a Bromley back line that's prone to getting overrun\n- **Bromley's defensive shape** under **O. Sowunmi** and **D. Woodman** will need to stay compact; they can't afford another beach ball scenario like the QPR loss\n- **J. Bland** and **C. McGeehan** holding Barnsley's midfield could be the difference in tempo control\n\nExpected lineups:\n\n- **Barnsley**: K. Flavell, J. Earl, M. d. Gevigney, S. Gale, C. McGeehan, L. Connell, J. Bland, R. Cleary, P. Kelly, A. Richards, M. Kirk\n- **Bromley**: G. Smith, O. Sowunmi, D. Woodman, C. Headman, M. Ifill, A. Charles, K. Conteh, A. Stepien-Iwumene, E. Archer, M. Cheek, C. Whitely\n\nPrediction:\n\n**Barnsley 2-0 Barnsley** — home advantage + form edge over a Bromley side still finding their feet.",
-          "generated_at": "2026-08-14T19:41:32.409990+00:00"
-        },
+        "ai_preview": null,
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
