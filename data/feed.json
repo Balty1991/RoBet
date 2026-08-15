@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-15T05:53:21.352Z",
+  "generated_at": "2026-08-15T06:42:18.112Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -78,13 +78,13 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.7,
+          "odds_home": 2.72,
           "odds_draw": 3.2,
-          "odds_away": 2.57,
-          "odds_over_15": 1.33,
+          "odds_away": 2.55,
+          "odds_over_15": 1.32,
           "odds_over_25": 2.05,
           "odds_over_35": 3.57,
-          "odds_under_15": 3.1,
+          "odds_under_15": 3.11,
           "odds_under_25": 1.72,
           "odds_under_35": 1.26,
           "odds_btts_yes": 1.78,
@@ -285,13 +285,13 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.7,
+        "odds_home": 2.72,
         "odds_draw": 3.2,
-        "odds_away": 2.57,
-        "odds_over_15": 1.33,
+        "odds_away": 2.55,
+        "odds_over_15": 1.32,
         "odds_over_25": 2.05,
         "odds_over_35": 3.57,
-        "odds_under_15": 3.1,
+        "odds_under_15": 3.11,
         "odds_under_25": 1.72,
         "odds_under_35": 1.26,
         "odds_btts_yes": 1.78,
@@ -697,17 +697,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.79,
-          "odds_draw": 3.52,
-          "odds_away": 4.32,
+          "odds_home": 1.87,
+          "odds_draw": 3.48,
+          "odds_away": 4.03,
           "odds_over_15": 1.3,
-          "odds_over_25": 1.98,
-          "odds_over_35": 3.37,
-          "odds_under_15": 3.27,
-          "odds_under_25": 1.77,
-          "odds_under_35": 1.28,
-          "odds_btts_yes": 1.84,
-          "odds_btts_no": 1.87,
+          "odds_over_25": 1.96,
+          "odds_over_35": 3.35,
+          "odds_under_15": 3.28,
+          "odds_under_25": 1.79,
+          "odds_under_35": 1.29,
+          "odds_btts_yes": 1.82,
+          "odds_btts_no": 1.89,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -904,17 +904,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.79,
-        "odds_draw": 3.52,
-        "odds_away": 4.32,
+        "odds_home": 1.87,
+        "odds_draw": 3.48,
+        "odds_away": 4.03,
         "odds_over_15": 1.3,
-        "odds_over_25": 1.98,
-        "odds_over_35": 3.37,
-        "odds_under_15": 3.27,
-        "odds_under_25": 1.77,
-        "odds_under_35": 1.28,
-        "odds_btts_yes": 1.84,
-        "odds_btts_no": 1.87,
+        "odds_over_25": 1.96,
+        "odds_over_35": 3.35,
+        "odds_under_15": 3.28,
+        "odds_under_25": 1.79,
+        "odds_under_35": 1.29,
+        "odds_btts_yes": 1.82,
+        "odds_btts_no": 1.89,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -1402,17 +1402,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.36,
-          "odds_draw": 3.24,
-          "odds_away": 2.91,
+          "odds_home": 2.26,
+          "odds_draw": 3.27,
+          "odds_away": 3.08,
           "odds_over_15": 1.29,
           "odds_over_25": 1.95,
-          "odds_over_35": 3.32,
-          "odds_under_15": 3.28,
+          "odds_over_35": 3.33,
+          "odds_under_15": 3.31,
           "odds_under_25": 1.79,
           "odds_under_35": 1.29,
           "odds_btts_yes": 1.73,
-          "odds_btts_no": 2,
+          "odds_btts_no": 1.99,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -1606,17 +1606,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.36,
-        "odds_draw": 3.24,
-        "odds_away": 2.91,
+        "odds_home": 2.26,
+        "odds_draw": 3.27,
+        "odds_away": 3.08,
         "odds_over_15": 1.29,
         "odds_over_25": 1.95,
-        "odds_over_35": 3.32,
-        "odds_under_15": 3.28,
+        "odds_over_35": 3.33,
+        "odds_under_15": 3.31,
         "odds_under_25": 1.79,
         "odds_under_35": 1.29,
         "odds_btts_yes": 1.73,
-        "odds_btts_no": 2,
+        "odds_btts_no": 1.99,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -2107,17 +2107,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.14,
-          "odds_draw": 3.22,
-          "odds_away": 3.38,
-          "odds_over_15": 1.35,
-          "odds_over_25": 2.11,
-          "odds_over_35": 3.75,
-          "odds_under_15": 2.97,
-          "odds_under_25": 1.67,
-          "odds_under_35": 1.23,
-          "odds_btts_yes": 1.85,
-          "odds_btts_no": 1.86,
+          "odds_home": 1.95,
+          "odds_draw": 3.33,
+          "odds_away": 3.85,
+          "odds_over_15": 1.34,
+          "odds_over_25": 2.09,
+          "odds_over_35": 3.72,
+          "odds_under_15": 3.03,
+          "odds_under_25": 1.69,
+          "odds_under_35": 1.24,
+          "odds_btts_yes": 1.88,
+          "odds_btts_no": 1.84,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -2310,17 +2310,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.14,
-        "odds_draw": 3.22,
-        "odds_away": 3.38,
-        "odds_over_15": 1.35,
-        "odds_over_25": 2.11,
-        "odds_over_35": 3.75,
-        "odds_under_15": 2.97,
-        "odds_under_25": 1.67,
-        "odds_under_35": 1.23,
-        "odds_btts_yes": 1.85,
-        "odds_btts_no": 1.86,
+        "odds_home": 1.95,
+        "odds_draw": 3.33,
+        "odds_away": 3.85,
+        "odds_over_15": 1.34,
+        "odds_over_25": 2.09,
+        "odds_over_35": 3.72,
+        "odds_under_15": 3.03,
+        "odds_under_25": 1.69,
+        "odds_under_35": 1.24,
+        "odds_btts_yes": 1.88,
+        "odds_btts_no": 1.84,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -2756,17 +2756,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.16,
-          "odds_draw": 3.19,
-          "odds_away": 3.34,
+          "odds_home": 2.17,
+          "odds_draw": 3.21,
+          "odds_away": 3.35,
           "odds_over_15": 1.35,
-          "odds_over_25": 2.12,
-          "odds_over_35": 3.76,
-          "odds_under_15": 2.96,
+          "odds_over_25": 2.11,
+          "odds_over_35": 3.75,
+          "odds_under_15": 2.98,
           "odds_under_25": 1.67,
           "odds_under_35": 1.23,
           "odds_btts_yes": 1.85,
-          "odds_btts_no": 1.85,
+          "odds_btts_no": 1.86,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -2963,17 +2963,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.16,
-        "odds_draw": 3.19,
-        "odds_away": 3.34,
+        "odds_home": 2.17,
+        "odds_draw": 3.21,
+        "odds_away": 3.35,
         "odds_over_15": 1.35,
-        "odds_over_25": 2.12,
-        "odds_over_35": 3.76,
-        "odds_under_15": 2.96,
+        "odds_over_25": 2.11,
+        "odds_over_35": 3.75,
+        "odds_under_15": 2.98,
         "odds_under_25": 1.67,
         "odds_under_35": 1.23,
         "odds_btts_yes": 1.85,
-        "odds_btts_no": 1.85,
+        "odds_btts_no": 1.86,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -3451,17 +3451,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.17,
-          "odds_draw": 3.38,
-          "odds_away": 3.14,
+          "odds_home": 2.14,
+          "odds_draw": 3.4,
+          "odds_away": 3.21,
           "odds_over_15": 1.24,
-          "odds_over_25": 1.81,
-          "odds_over_35": 2.97,
-          "odds_under_15": 3.65,
+          "odds_over_25": 1.8,
+          "odds_over_35": 2.96,
+          "odds_under_15": 3.66,
           "odds_under_25": 1.94,
           "odds_under_35": 1.35,
-          "odds_btts_yes": 1.64,
-          "odds_btts_no": 2.13,
+          "odds_btts_yes": 1.65,
+          "odds_btts_no": 2.12,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -3654,17 +3654,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.17,
-        "odds_draw": 3.38,
-        "odds_away": 3.14,
+        "odds_home": 2.14,
+        "odds_draw": 3.4,
+        "odds_away": 3.21,
         "odds_over_15": 1.24,
-        "odds_over_25": 1.81,
-        "odds_over_35": 2.97,
-        "odds_under_15": 3.65,
+        "odds_over_25": 1.8,
+        "odds_over_35": 2.96,
+        "odds_under_15": 3.66,
         "odds_under_25": 1.94,
         "odds_under_35": 1.35,
-        "odds_btts_yes": 1.64,
-        "odds_btts_no": 2.13,
+        "odds_btts_yes": 1.65,
+        "odds_btts_no": 2.12,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -4135,17 +4135,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 4.05,
-          "odds_draw": 3.35,
-          "odds_away": 1.88,
-          "odds_over_15": 1.34,
-          "odds_over_25": 2.1,
-          "odds_over_35": 3.73,
-          "odds_under_15": 2.98,
+          "odds_home": 4.68,
+          "odds_draw": 3.48,
+          "odds_away": 1.75,
+          "odds_over_15": 1.35,
+          "odds_over_25": 2.11,
+          "odds_over_35": 3.76,
+          "odds_under_15": 2.96,
           "odds_under_25": 1.68,
           "odds_under_35": 1.23,
-          "odds_btts_yes": 1.9,
-          "odds_btts_no": 1.8,
+          "odds_btts_yes": 1.98,
+          "odds_btts_no": 1.75,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -4342,17 +4342,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 4.05,
-        "odds_draw": 3.35,
-        "odds_away": 1.88,
-        "odds_over_15": 1.34,
-        "odds_over_25": 2.1,
-        "odds_over_35": 3.73,
-        "odds_under_15": 2.98,
+        "odds_home": 4.68,
+        "odds_draw": 3.48,
+        "odds_away": 1.75,
+        "odds_over_15": 1.35,
+        "odds_over_25": 2.11,
+        "odds_over_35": 3.76,
+        "odds_under_15": 2.96,
         "odds_under_25": 1.68,
         "odds_under_35": 1.23,
-        "odds_btts_yes": 1.9,
-        "odds_btts_no": 1.8,
+        "odds_btts_yes": 1.98,
+        "odds_btts_no": 1.75,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -4778,17 +4778,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.64,
-          "odds_draw": 3.17,
+          "odds_home": 2.66,
+          "odds_draw": 3.18,
           "odds_away": 2.62,
           "odds_over_15": 1.31,
           "odds_over_25": 2,
           "odds_over_35": 3.46,
-          "odds_under_15": 3.2,
-          "odds_under_25": 1.74,
+          "odds_under_15": 3.21,
+          "odds_under_25": 1.75,
           "odds_under_35": 1.27,
-          "odds_btts_yes": 1.75,
-          "odds_btts_no": 1.96,
+          "odds_btts_yes": 1.76,
+          "odds_btts_no": 1.97,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -4984,17 +4984,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.64,
-        "odds_draw": 3.17,
+        "odds_home": 2.66,
+        "odds_draw": 3.18,
         "odds_away": 2.62,
         "odds_over_15": 1.31,
         "odds_over_25": 2,
         "odds_over_35": 3.46,
-        "odds_under_15": 3.2,
-        "odds_under_25": 1.74,
+        "odds_under_15": 3.21,
+        "odds_under_25": 1.75,
         "odds_under_35": 1.27,
-        "odds_btts_yes": 1.75,
-        "odds_btts_no": 1.96,
+        "odds_btts_yes": 1.76,
+        "odds_btts_no": 1.97,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -5432,14 +5432,14 @@
           "odds_home": 3.8,
           "odds_draw": 3.46,
           "odds_away": 1.91,
-          "odds_over_15": 1.27,
+          "odds_over_15": 1.26,
           "odds_over_25": 1.87,
-          "odds_over_35": 3.13,
-          "odds_under_15": 3.47,
+          "odds_over_35": 3.12,
+          "odds_under_15": 3.49,
           "odds_under_25": 1.86,
           "odds_under_35": 1.32,
-          "odds_btts_yes": 1.73,
-          "odds_btts_no": 1.99,
+          "odds_btts_yes": 1.72,
+          "odds_btts_no": 2,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -5640,14 +5640,14 @@
         "odds_home": 3.8,
         "odds_draw": 3.46,
         "odds_away": 1.91,
-        "odds_over_15": 1.27,
+        "odds_over_15": 1.26,
         "odds_over_25": 1.87,
-        "odds_over_35": 3.13,
-        "odds_under_15": 3.47,
+        "odds_over_35": 3.12,
+        "odds_under_15": 3.49,
         "odds_under_25": 1.86,
         "odds_under_35": 1.32,
-        "odds_btts_yes": 1.73,
-        "odds_btts_no": 1.99,
+        "odds_btts_yes": 1.72,
+        "odds_btts_no": 2,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -6123,12 +6123,12 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.49,
-          "odds_draw": 2.96,
-          "odds_away": 2.74,
+          "odds_home": 2.5,
+          "odds_draw": 2.95,
+          "odds_away": 2.73,
           "odds_over_15": 1.37,
-          "odds_over_25": 2.17,
-          "odds_over_35": 3.92,
+          "odds_over_25": 2.18,
+          "odds_over_35": 3.91,
           "odds_under_15": 2.79,
           "odds_under_25": 1.6,
           "odds_under_35": 1.2,
@@ -6313,12 +6313,12 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.49,
-        "odds_draw": 2.96,
-        "odds_away": 2.74,
+        "odds_home": 2.5,
+        "odds_draw": 2.95,
+        "odds_away": 2.73,
         "odds_over_15": 1.37,
-        "odds_over_25": 2.17,
-        "odds_over_35": 3.92,
+        "odds_over_25": 2.18,
+        "odds_over_35": 3.91,
         "odds_under_15": 2.79,
         "odds_under_25": 1.6,
         "odds_under_35": 1.2,
@@ -9467,7 +9467,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Oxford roll in heavy favorites after a pre-season demolition run — MK Dons are limping in after getting thumped by Norwich.** 🔴\n\nU's have won four of their last five friendlies and look sharp, while the Dons' form screams \"not ready yet\" with just one win in five. Oxford's home advantage at the Kassam should seal it.\n\nKey storylines:\n\n- **G. O'Donkor** and **S. Mills** will be hungry to punish a creaky MK Dons backline that's shipped goals for fun\n- **C. Brannagan** pulling strings in midfield gives Oxford the edge in controlling tempo\n- **M. Ekpiteta** and the Dons' three-at-the-back will have their hands full dealing with Oxford's attacking threat\n\nExpected lineups:\n\n- **Oxford United**: J. Cumming, C. Brown, M. Helik, S. Long, B. Spencer, C. Brannagan, J. McDonnell, A. Emakhu, T. Goodrham, S. Mills, G. O'Donkor\n- **Milton Keynes Dons**: C. McGillivray, C. Nelson, J. Sanders, M. Ekpiteta, G. Jones, B. Wiles, A. Gilbey, L. Kelly, C. Paterson, R. Hepburn-Murphy, N. Méndez-Laing\n\nPrediction:\n\n**Oxford United 2–0 Milton Keynes Dons**\n\nThe Dons' shaky pre-season form and Oxford's momentum point to a comfortable home win.",
+            "generated_at": "2026-08-15T06:41:33.681664+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.677221+00:00",
@@ -9675,7 +9678,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Oxford roll in heavy favorites after a pre-season demolition run — MK Dons are limping in after getting thumped by Norwich.** 🔴\n\nU's have won four of their last five friendlies and look sharp, while the Dons' form screams \"not ready yet\" with just one win in five. Oxford's home advantage at the Kassam should seal it.\n\nKey storylines:\n\n- **G. O'Donkor** and **S. Mills** will be hungry to punish a creaky MK Dons backline that's shipped goals for fun\n- **C. Brannagan** pulling strings in midfield gives Oxford the edge in controlling tempo\n- **M. Ekpiteta** and the Dons' three-at-the-back will have their hands full dealing with Oxford's attacking threat\n\nExpected lineups:\n\n- **Oxford United**: J. Cumming, C. Brown, M. Helik, S. Long, B. Spencer, C. Brannagan, J. McDonnell, A. Emakhu, T. Goodrham, S. Mills, G. O'Donkor\n- **Milton Keynes Dons**: C. McGillivray, C. Nelson, J. Sanders, M. Ekpiteta, G. Jones, B. Wiles, A. Gilbey, L. Kelly, C. Paterson, R. Hepburn-Murphy, N. Méndez-Laing\n\nPrediction:\n\n**Oxford United 2–0 Milton Keynes Dons**\n\nThe Dons' shaky pre-season form and Oxford's momentum point to a comfortable home win.",
+          "generated_at": "2026-08-15T06:41:33.681664+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -10170,8 +10176,8 @@
           ],
           "sr_stats": null,
           "ai_preview": {
-            "text": "**Oldham come in ice-cold while Port Vale are actually clicking** — this has all the makings of a potential upset special in League Two's opening weekend. 🔥\n\nOldham are in proper rough form (1W from their last five), though that 4-0 demolition of Sheffield Wednesday shows they can turn it on. Port Vale, meanwhile, have won three of their last five and clearly fancy themselves for a promotion push. The head-to-head is tight as they come, so expect a cagey opener.\n\nKey storylines:\n\n- **K. Taylor and T. Pett** will need to control the tempo for Oldham if they want to limit Port Vale's attacking play\n- **O. Lynch** has been clinical for Vale in pre-season and could be the difference if Oldham's backline gets loose\n- Oldham's **C. Kavanagh** and **R. Woods** have to stay sharp up front; no margin for error on this form\n\nExpected lineups:\n\n- **Oldham Athletic**: M. Hudson, J. Robson, M. Monthe, W. Sutton, G. Scott-Morriss, T. Pett, K. Taylor, K. Payne, R. Woods, K. Drummond, C. Kavanagh\n- **Port Vale**: J. Smith, C. Humphreys, J. Lawrence-Gabriel, R. Walters, L. Gordon, G. Hall, B. Garrity, O. Hernández, J. Headley, O. Lynch, B. Waine\n\nPrediction:\n\n**Port Vale 2-0 Oldham Athletic** — Vale's momentum is real, and Oldham's form is a concern. Slight favorite to Vale. ⚪",
-            "generated_at": "2026-08-14T11:41:59.265825+00:00"
+            "text": "**Oldham's form is a minefield, but Port Vale's looking sharp** — this is a classic yo-yo clash between two sides hunting for consistency on day one. 🎭\n\nOldham picked up a 4-0 shellacking of Sheffield Wednesday but sandwiched it between three straight defeats. Port Vale are the steadier hand with three wins in five, though that hammering from Wolves suggests they can still get caught cold.\n\nKey storylines:\n\n- **Port Vale's tempo game**: L. Gordon and G. Hall control the middle, and Oldham's T. Pett and K. Payne will need to match that intensity or get overrun.\n- **Oldham's home hope**: W. Sutton and the backline have to tighten up after leaking soft goals; M. Hudson's distribution will be key.\n- **Clinical edge**: Port Vale's O. Hernández and B. Waine punished Blackpool and Real Murcia — K. Drummond and R. Woods have to stay switched on.\n\nExpected lineups:\n\n- **Oldham Athletic**: M. Hudson, J. Robson, M. Monthe, W. Sutton, G. Scott-Morriss, T. Pett, K. Payne, K. Appiah-Forson\n- **Port Vale**: J. Smith, C. Humphreys, J. Lawrence-Gabriel, R. Walters, L. Gordon, G. Hall, B. Garrity, J. Headley\n\nPrediction:\n\n**1-2 Port Vale**. Vale's recent form edges them over Oldham's misfiring start. ⚪",
+            "generated_at": "2026-08-15T06:41:18.908134+00:00"
           },
           "live_websocket": true
         },
@@ -10377,8 +10383,8 @@
         ],
         "sr_stats": null,
         "ai_preview": {
-          "text": "**Oldham come in ice-cold while Port Vale are actually clicking** — this has all the makings of a potential upset special in League Two's opening weekend. 🔥\n\nOldham are in proper rough form (1W from their last five), though that 4-0 demolition of Sheffield Wednesday shows they can turn it on. Port Vale, meanwhile, have won three of their last five and clearly fancy themselves for a promotion push. The head-to-head is tight as they come, so expect a cagey opener.\n\nKey storylines:\n\n- **K. Taylor and T. Pett** will need to control the tempo for Oldham if they want to limit Port Vale's attacking play\n- **O. Lynch** has been clinical for Vale in pre-season and could be the difference if Oldham's backline gets loose\n- Oldham's **C. Kavanagh** and **R. Woods** have to stay sharp up front; no margin for error on this form\n\nExpected lineups:\n\n- **Oldham Athletic**: M. Hudson, J. Robson, M. Monthe, W. Sutton, G. Scott-Morriss, T. Pett, K. Taylor, K. Payne, R. Woods, K. Drummond, C. Kavanagh\n- **Port Vale**: J. Smith, C. Humphreys, J. Lawrence-Gabriel, R. Walters, L. Gordon, G. Hall, B. Garrity, O. Hernández, J. Headley, O. Lynch, B. Waine\n\nPrediction:\n\n**Port Vale 2-0 Oldham Athletic** — Vale's momentum is real, and Oldham's form is a concern. Slight favorite to Vale. ⚪",
-          "generated_at": "2026-08-14T11:41:59.265825+00:00"
+          "text": "**Oldham's form is a minefield, but Port Vale's looking sharp** — this is a classic yo-yo clash between two sides hunting for consistency on day one. 🎭\n\nOldham picked up a 4-0 shellacking of Sheffield Wednesday but sandwiched it between three straight defeats. Port Vale are the steadier hand with three wins in five, though that hammering from Wolves suggests they can still get caught cold.\n\nKey storylines:\n\n- **Port Vale's tempo game**: L. Gordon and G. Hall control the middle, and Oldham's T. Pett and K. Payne will need to match that intensity or get overrun.\n- **Oldham's home hope**: W. Sutton and the backline have to tighten up after leaking soft goals; M. Hudson's distribution will be key.\n- **Clinical edge**: Port Vale's O. Hernández and B. Waine punished Blackpool and Real Murcia — K. Drummond and R. Woods have to stay switched on.\n\nExpected lineups:\n\n- **Oldham Athletic**: M. Hudson, J. Robson, M. Monthe, W. Sutton, G. Scott-Morriss, T. Pett, K. Payne, K. Appiah-Forson\n- **Port Vale**: J. Smith, C. Humphreys, J. Lawrence-Gabriel, R. Walters, L. Gordon, G. Hall, B. Garrity, J. Headley\n\nPrediction:\n\n**1-2 Port Vale**. Vale's recent form edges them over Oldham's misfiring start. ⚪",
+          "generated_at": "2026-08-15T06:41:18.908134+00:00"
         },
         "live_websocket": true,
         "home_form": {
@@ -10851,8 +10857,8 @@
           ],
           "sr_stats": null,
           "ai_preview": {
-            "text": "**Newport need a fast start** — Rochdale's defensive frailties are begging to be exploited early on. 📊\n\nNewport look sharper on paper with a 1W-2D-2L stretch, while Rochdale are stuck in neutral (0W-3D-2L). But the fixture history is spicy: **Rochdale have owned this tie**, winning 4 of the last 6 meetings. That's the kind of stat that makes you wonder if there's something deeper than league form at play here.\n\nKey storylines:\n\n- **Newport's attack vs Rochdale's soft backline** — if S. Gwengwe and Y. Bamba get space, expect chances\n- **Rochdale's draw addiction** — three stalemates in five games; they might frustrate rather than spark\n- **J. Wright's distribution** will be vital; Newport control the tempo through the keeper and J. Thomas in midfield\n\nExpected lineups:\n\n- **Newport County**: J. Wright, L. Jenkins, C. Evans, K. Cameron, J. Thomas, H. Biggins, C. Brennan, J. Crole, M. Smith, S. Gwengwe, Y. Bamba\n- **Rochdale**: N. Ramming, B. A. Bilongo, E. Ebanks-Landell, H. Gilmour, D. Moss, J. Keohane, R. East, D. Rodney, T. Adebayo-Rowling, C. Hayes, E. Dieseruvwe\n\nPrediction:\n\n**Newport 2–1 Rochdale** — home edge and recent form carry the day, but it's tight. 🏆",
-            "generated_at": "2026-08-14T11:41:54.545298+00:00"
+            "text": "**Rochdale's coming to Rodney's Park with serious pedigree in this fixture** — they've taken 4 of the last 6 head-to-heads and won't be playing around in the League Two opener. 🔴\n\nNewport's uneven preseason (two wins, two losses) has left questions. Rochdale barely scraped through their own tune-ups, but their H2H record screams **\"away threat\"** against a host that hasn't convinced yet.\n\nKey storylines:\n\n- **Rochdale's set-piece stranglehold**: their recent draws suggest solidity at the back; Newport's mixed form gives them room to exploit\n- **Brennan and Crole carry Newport's midfield tempo**: if they can control possession, it limits Rochdale's counter chances\n- **Early-season jitters meet ruthless experience**: Rochdale's four draws show they're hard to beat; Newport need to avoid sitting deep\n\nExpected lineups:\n\n- **Newport County**: J. Wright, T. Davies, L. Jenkins, D. Sassi, J. Thomas, H. Biggins, C. Brennan, J. Crole, M. Smith, S. Gwengwe, Y. Bamba\n- **Rochdale**: N. Ramming, B. A. Bilongo, E. Ebanks-Landell, S. Sherring, D. Moss, R. East, T. Adebayo-Rowling, D. Rodney, L. Hanannt, C. Hayes, E. Dieseruvwe\n\nPrediction:\n\n**1-1 draw**. Rochdale's defensive resilience edges this toward stalemate; Newport's midfield keeps it tight enough to nick a point.",
+            "generated_at": "2026-08-15T06:41:23.864143+00:00"
           },
           "live_websocket": true
         },
@@ -11051,8 +11057,8 @@
         ],
         "sr_stats": null,
         "ai_preview": {
-          "text": "**Newport need a fast start** — Rochdale's defensive frailties are begging to be exploited early on. 📊\n\nNewport look sharper on paper with a 1W-2D-2L stretch, while Rochdale are stuck in neutral (0W-3D-2L). But the fixture history is spicy: **Rochdale have owned this tie**, winning 4 of the last 6 meetings. That's the kind of stat that makes you wonder if there's something deeper than league form at play here.\n\nKey storylines:\n\n- **Newport's attack vs Rochdale's soft backline** — if S. Gwengwe and Y. Bamba get space, expect chances\n- **Rochdale's draw addiction** — three stalemates in five games; they might frustrate rather than spark\n- **J. Wright's distribution** will be vital; Newport control the tempo through the keeper and J. Thomas in midfield\n\nExpected lineups:\n\n- **Newport County**: J. Wright, L. Jenkins, C. Evans, K. Cameron, J. Thomas, H. Biggins, C. Brennan, J. Crole, M. Smith, S. Gwengwe, Y. Bamba\n- **Rochdale**: N. Ramming, B. A. Bilongo, E. Ebanks-Landell, H. Gilmour, D. Moss, J. Keohane, R. East, D. Rodney, T. Adebayo-Rowling, C. Hayes, E. Dieseruvwe\n\nPrediction:\n\n**Newport 2–1 Rochdale** — home edge and recent form carry the day, but it's tight. 🏆",
-          "generated_at": "2026-08-14T11:41:54.545298+00:00"
+          "text": "**Rochdale's coming to Rodney's Park with serious pedigree in this fixture** — they've taken 4 of the last 6 head-to-heads and won't be playing around in the League Two opener. 🔴\n\nNewport's uneven preseason (two wins, two losses) has left questions. Rochdale barely scraped through their own tune-ups, but their H2H record screams **\"away threat\"** against a host that hasn't convinced yet.\n\nKey storylines:\n\n- **Rochdale's set-piece stranglehold**: their recent draws suggest solidity at the back; Newport's mixed form gives them room to exploit\n- **Brennan and Crole carry Newport's midfield tempo**: if they can control possession, it limits Rochdale's counter chances\n- **Early-season jitters meet ruthless experience**: Rochdale's four draws show they're hard to beat; Newport need to avoid sitting deep\n\nExpected lineups:\n\n- **Newport County**: J. Wright, T. Davies, L. Jenkins, D. Sassi, J. Thomas, H. Biggins, C. Brennan, J. Crole, M. Smith, S. Gwengwe, Y. Bamba\n- **Rochdale**: N. Ramming, B. A. Bilongo, E. Ebanks-Landell, S. Sherring, D. Moss, R. East, T. Adebayo-Rowling, D. Rodney, L. Hanannt, C. Hayes, E. Dieseruvwe\n\nPrediction:\n\n**1-1 draw**. Rochdale's defensive resilience edges this toward stalemate; Newport's midfield keeps it tight enough to nick a point.",
+          "generated_at": "2026-08-15T06:41:23.864143+00:00"
         },
         "live_websocket": true,
         "home_form": {
@@ -11485,7 +11491,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Leicester roll into League One with serious momentum, but Notts County won't make this a coronation.** 🏆 The Foxes are the clear favourites here, yet the hosts have shown they can grind out results — that's what keeping you afloat in this tier looks like.\n\nLeicester's **3W-1D-1L** recent form is slick, and they've got the squad depth to dominate possession. Notts County, meanwhile, are **winless in five** but clutching draws like lifelines. The question is whether the Midlands rivalry adds spice or if Leicester's quality just runs away with it.\n\nKey storylines:\n\n- **Leicester's midfield engine** with **O. Skipp** pulling strings should control the tempo; Notts need to stay compact and hit on the break\n- **C. Roberts** and **Q. Kouhyar** tasked with creating chaos in Leicester's backline from advanced positions — tall order against **C. Okoli** and **T. Wilson-Brown**\n- Notts' draw addiction suggests they'll sit deep; if Leicester can break through early, floodgates could open 💧\n\nExpected lineups:\n\n- **Notts County**: J. Belshaw, J. Jones, L. Ness, J. Bedeau, N. Tsaroulla, D. Lipsiuc, C. Roberts\n- **Leicester City**: J. Stolarczyk, L. Thomas, C. Okoli, T. Wilson-Brown, O. Skipp, S. Mavididi, B. De cordova-Reid, K. Otchere\n\nPrediction:\n\n**Leicester 2-0 Notts County**\n\nLeicester's class and rhythm are too much; Notts hold firm for a half, then crack.",
+            "generated_at": "2026-08-15T06:41:13.969591+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.685111+00:00",
@@ -11689,7 +11698,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Leicester roll into League One with serious momentum, but Notts County won't make this a coronation.** 🏆 The Foxes are the clear favourites here, yet the hosts have shown they can grind out results — that's what keeping you afloat in this tier looks like.\n\nLeicester's **3W-1D-1L** recent form is slick, and they've got the squad depth to dominate possession. Notts County, meanwhile, are **winless in five** but clutching draws like lifelines. The question is whether the Midlands rivalry adds spice or if Leicester's quality just runs away with it.\n\nKey storylines:\n\n- **Leicester's midfield engine** with **O. Skipp** pulling strings should control the tempo; Notts need to stay compact and hit on the break\n- **C. Roberts** and **Q. Kouhyar** tasked with creating chaos in Leicester's backline from advanced positions — tall order against **C. Okoli** and **T. Wilson-Brown**\n- Notts' draw addiction suggests they'll sit deep; if Leicester can break through early, floodgates could open 💧\n\nExpected lineups:\n\n- **Notts County**: J. Belshaw, J. Jones, L. Ness, J. Bedeau, N. Tsaroulla, D. Lipsiuc, C. Roberts\n- **Leicester City**: J. Stolarczyk, L. Thomas, C. Okoli, T. Wilson-Brown, O. Skipp, S. Mavididi, B. De cordova-Reid, K. Otchere\n\nPrediction:\n\n**Leicester 2-0 Notts County**\n\nLeicester's class and rhythm are too much; Notts hold firm for a half, then crack.",
+          "generated_at": "2026-08-15T06:41:13.969591+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -12812,7 +12824,10 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": null,
+          "ai_preview": {
+            "text": "**Reading roll up as heavy favorites**, and for good reason — they're absolutely flying into League One with **four wins in their last five**. Luton are no slouches, but they've hit a bump with a loss to Go Ahead Eagles that'll sting. 🔴\n\nReading's attack has been clinical, putting three past Charlton and blanking Crawley. Luton showed defensive grit against Gillingham but will need **J. Keeley** sharp between the sticks if Reading get going early. Form suggests Reading should edge this.\n\nKey storylines:\n\n- **Reading's attacking rhythm** — they've scored in almost every outing; Luton's backline gets tested immediately\n- **P. Lane** and **K. Lisbie** leading the charge for Reading against a Luton side searching for consistency\n- Luton's midfield mettle with **J. Richards** and **L. Walsh** fighting to control the tempo\n\nExpected lineups:\n\n- **Reading**: J. Pereira, P. O'Connor, J. Dorsett, B. Ward, K. Abrefa, L. Wing, D. Kyerewaa, J. Brown, J. Stokes, P. Lane, K. Lisbie\n- **Luton Town**: J. Keeley, J. Johnson, K. Naismith, H. Odofin, M. Andersen, J. Richards, E. Lawrence, L. Walsh, S. H. Sandal, K. Palmer, N. Wells\n\nPrediction:\n\n**Reading 2-0 Luton Town**. Reading's form is too sharp to ignore — they should take the opening-day honours. 📊",
+            "generated_at": "2026-08-15T06:41:29.143347+00:00"
+          },
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.691171+00:00",
@@ -13023,7 +13038,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Reading roll up as heavy favorites**, and for good reason — they're absolutely flying into League One with **four wins in their last five**. Luton are no slouches, but they've hit a bump with a loss to Go Ahead Eagles that'll sting. 🔴\n\nReading's attack has been clinical, putting three past Charlton and blanking Crawley. Luton showed defensive grit against Gillingham but will need **J. Keeley** sharp between the sticks if Reading get going early. Form suggests Reading should edge this.\n\nKey storylines:\n\n- **Reading's attacking rhythm** — they've scored in almost every outing; Luton's backline gets tested immediately\n- **P. Lane** and **K. Lisbie** leading the charge for Reading against a Luton side searching for consistency\n- Luton's midfield mettle with **J. Richards** and **L. Walsh** fighting to control the tempo\n\nExpected lineups:\n\n- **Reading**: J. Pereira, P. O'Connor, J. Dorsett, B. Ward, K. Abrefa, L. Wing, D. Kyerewaa, J. Brown, J. Stokes, P. Lane, K. Lisbie\n- **Luton Town**: J. Keeley, J. Johnson, K. Naismith, H. Odofin, M. Andersen, J. Richards, E. Lawrence, L. Walsh, S. H. Sandal, K. Palmer, N. Wells\n\nPrediction:\n\n**Reading 2-0 Luton Town**. Reading's form is too sharp to ignore — they should take the opening-day honours. 📊",
+          "generated_at": "2026-08-15T06:41:29.143347+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -19045,10 +19063,7 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": {
-            "text": "**Tranmere's got momentum, but Shrewsbury won't roll over easy** — this is a classic League Two coin flip where recent form and a solid head-to-head record make it properly spicy. 🔥\n\nTranmere are clicking at home (2W in last three), while Shrewsbury look a bit shaky after a hammering from West Brom but steadied themselves with draws. The H2H is locked at 2-2 over their last four meetings, so neither side has an obvious edge here.\n\nKey storylines:\n\n- **Tranmere's home heartbeat**: J. Ironside and Z. Okoro up front need to punish a **Shrewsbury** defence still finding rhythm\n- **Shrewsbury's draw habit**: I. Fletcher and J. Davison are tasked with breaking down a solid **Tranmere** shape; three of five recent matches ended level\n- **Midfield battle**: S. Finley and J. Davies anchor **Tranmere's** tempo; W. Gray and J. Turner-Cooke must match that intensity for **Shrewsbury**\n\nExpected lineups:\n\n- **Tranmere Rovers**: H. Male, J. Slater, N. Smith, P. Brough, J. Senior, S. Finley, J. Davies, T. Conlon, C. Whitaker, J. Ironside, Z. Okoro\n- **Shrewsbury Town**: W. Brook, J. Ruffels, S. Stubbs, I. Lee, A. Jude-Boyd, W. Gray, J. Turner-Cooke, I. Fletcher, G. Lloyd, J. Gbode, J. Davison\n\nPrediction:\n\n**Tranmere Rovers 2–1 Shrewsbury Town**\n\nSlight lean to the hosts on home comfort and sharper recent form, but it's genuinely tight. ⚽",
-            "generated_at": "2026-08-14T19:42:59.043822+00:00"
-          },
+          "ai_preview": null,
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.514079+00:00",
@@ -19254,10 +19269,7 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": {
-          "text": "**Tranmere's got momentum, but Shrewsbury won't roll over easy** — this is a classic League Two coin flip where recent form and a solid head-to-head record make it properly spicy. 🔥\n\nTranmere are clicking at home (2W in last three), while Shrewsbury look a bit shaky after a hammering from West Brom but steadied themselves with draws. The H2H is locked at 2-2 over their last four meetings, so neither side has an obvious edge here.\n\nKey storylines:\n\n- **Tranmere's home heartbeat**: J. Ironside and Z. Okoro up front need to punish a **Shrewsbury** defence still finding rhythm\n- **Shrewsbury's draw habit**: I. Fletcher and J. Davison are tasked with breaking down a solid **Tranmere** shape; three of five recent matches ended level\n- **Midfield battle**: S. Finley and J. Davies anchor **Tranmere's** tempo; W. Gray and J. Turner-Cooke must match that intensity for **Shrewsbury**\n\nExpected lineups:\n\n- **Tranmere Rovers**: H. Male, J. Slater, N. Smith, P. Brough, J. Senior, S. Finley, J. Davies, T. Conlon, C. Whitaker, J. Ironside, Z. Okoro\n- **Shrewsbury Town**: W. Brook, J. Ruffels, S. Stubbs, I. Lee, A. Jude-Boyd, W. Gray, J. Turner-Cooke, I. Fletcher, G. Lloyd, J. Gbode, J. Davison\n\nPrediction:\n\n**Tranmere Rovers 2–1 Shrewsbury Town**\n\nSlight lean to the hosts on home comfort and sharper recent form, but it's genuinely tight. ⚽",
-          "generated_at": "2026-08-14T19:42:59.043822+00:00"
-        },
+        "ai_preview": null,
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -20441,8 +20453,8 @@
           ],
           "sr_stats": null,
           "ai_preview": {
-            "text": "**York City and Bristol Rovers kick off League Two with a bit of baggage.** Both sides scraped through preseason with mixed results, but the Rovers hold the edge in recent head-to-head — **Bristol have won three of the last six meetings** 📊\n\nYork's defense has been porous (conceded 5 in their last three), while Bristol looked solid through draws but haven't found a rhythm in attack. This screams cagey opener energy.\n\nKey storylines:\n\n- **A. McNally and B. Young** will need their defenses locked in tight — neither backline inspired confidence lately\n- **O. Pearce and G. Olley** carry York's creative load; they'll need service early before Bristol settles\n- **S. Forde and J. Quigley** are Bristol's attacking focal points but haven't clicked consistently in preseason\n\nExpected lineups:\n\n- **York City**: A. McNally, M. Kitching, M. Williams, Z. Johnson, J. Felix, A. Hunt, O. Banks, G. Olley, O. Pearce, J. Stones, A. Akinyemi\n- **Bristol Rovers**: B. Young, K. Balmer, R. Harbottle, J. Sparkes, M. Southam, R. Smallwood, R. D. Havilland, E. Harrison, T. Leigh, S. Forde, J. Quigley\n\nPrediction:\n\n**1-1** — Both sides have the tools to score but neither convinces defensively. A draw feels like the path of least resistance here 🤝",
-            "generated_at": "2026-08-14T19:42:54.050763+00:00"
+            "text": "**York's season-opener against a Bristol Rovers side riding sketchy form — this could be a proper slugfest.** Both teams are middling it right now, but someone's got to grab the points. 🔥\n\nYork have dropped hard since their opener (three losses in the last four), while Rovers scraped two draws but keep shipping goals. The away side edges the H2H over six meetings (3 wins to 1), though that's cold comfort when form's this fragile.\n\nKey storylines:\n\n- **O. Pearce** and **J. Stones** need to spark York's attack after a run of defeats at home\n- **Bristol Rovers' defense** has looked shaky — three straight games without a clean sheet\n- **First-day jitters** could swing this either way; expect a cagey start\n\nExpected lineups:\n\n- **York City**: McNally, Williams, Kitching, Johnson, Felix, Hunt, Banks, Olley, Pearce, Stones, Grey\n- **Bristol Rovers**: Young, Mola, Balmer, Harbottle, Sparkes, Smallwood, D. Havilland, Harrison, Leigh, Forde, Cavegn\n\nPrediction:\n\n**1-1** — Lean to a draw. Both teams are hesitant, defenses are dodgy, and neither looks sharp enough to steal it clean. Classic League Two opener vibes. 📊",
+            "generated_at": "2026-08-15T06:41:43.503676+00:00"
           },
           "live_websocket": true
         },
@@ -20637,8 +20649,8 @@
         ],
         "sr_stats": null,
         "ai_preview": {
-          "text": "**York City and Bristol Rovers kick off League Two with a bit of baggage.** Both sides scraped through preseason with mixed results, but the Rovers hold the edge in recent head-to-head — **Bristol have won three of the last six meetings** 📊\n\nYork's defense has been porous (conceded 5 in their last three), while Bristol looked solid through draws but haven't found a rhythm in attack. This screams cagey opener energy.\n\nKey storylines:\n\n- **A. McNally and B. Young** will need their defenses locked in tight — neither backline inspired confidence lately\n- **O. Pearce and G. Olley** carry York's creative load; they'll need service early before Bristol settles\n- **S. Forde and J. Quigley** are Bristol's attacking focal points but haven't clicked consistently in preseason\n\nExpected lineups:\n\n- **York City**: A. McNally, M. Kitching, M. Williams, Z. Johnson, J. Felix, A. Hunt, O. Banks, G. Olley, O. Pearce, J. Stones, A. Akinyemi\n- **Bristol Rovers**: B. Young, K. Balmer, R. Harbottle, J. Sparkes, M. Southam, R. Smallwood, R. D. Havilland, E. Harrison, T. Leigh, S. Forde, J. Quigley\n\nPrediction:\n\n**1-1** — Both sides have the tools to score but neither convinces defensively. A draw feels like the path of least resistance here 🤝",
-          "generated_at": "2026-08-14T19:42:54.050763+00:00"
+          "text": "**York's season-opener against a Bristol Rovers side riding sketchy form — this could be a proper slugfest.** Both teams are middling it right now, but someone's got to grab the points. 🔥\n\nYork have dropped hard since their opener (three losses in the last four), while Rovers scraped two draws but keep shipping goals. The away side edges the H2H over six meetings (3 wins to 1), though that's cold comfort when form's this fragile.\n\nKey storylines:\n\n- **O. Pearce** and **J. Stones** need to spark York's attack after a run of defeats at home\n- **Bristol Rovers' defense** has looked shaky — three straight games without a clean sheet\n- **First-day jitters** could swing this either way; expect a cagey start\n\nExpected lineups:\n\n- **York City**: McNally, Williams, Kitching, Johnson, Felix, Hunt, Banks, Olley, Pearce, Stones, Grey\n- **Bristol Rovers**: Young, Mola, Balmer, Harbottle, Sparkes, Smallwood, D. Havilland, Harrison, Leigh, Forde, Cavegn\n\nPrediction:\n\n**1-1** — Lean to a draw. Both teams are hesitant, defenses are dodgy, and neither looks sharp enough to steal it clean. Classic League Two opener vibes. 📊",
+          "generated_at": "2026-08-15T06:41:43.503676+00:00"
         },
         "live_websocket": true,
         "home_form": {
@@ -21073,10 +21085,7 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": {
-            "text": "**New season, same intrigue** — Northampton and Swindon kick off League Two with a classic Saturday afternoon clash that's got unpredictability written all over it. 📅\n\nBoth sides have recent form all over the map. Northampton's won twice and drawn but also dropped two, while Swindon's on a similar rollercoaster with three losses in their last five. The head-to-head tells the real story though: Swindon have the edge historically, winning 5 of the last 10, so there's genuine narrative tension here.\n\nKey storylines:\n\n- **Northampton's attacking depth** around D. Campbell and K. Swyer will be crucial—they need clinical finishing to punish Swindon's shaky recent form\n- **Swindon's defensive solidity** with B. Kirkman and S. Negru anchoring the back line could be the difference if they can stay compact\n- **T. Fornah and J. Perkins** controlling Northampton's midfield tempo will set the tone for how the game flows\n\nExpected lineups:\n\n- **Northampton Town**: R. Fitzsimons, J. Maxwell, J. Guthrie, M. Dyche, J. Wormleighton, T. Fornah, J. Perkins, C. Lemonheigh-Evans, D. Campbell, K. Swyer, M. Warhurst\n- **Swindon Town**: C. Ripley, B. Kirkman, S. Negru, F. Mabete, J. McGregor, M. Virtue-Thick, B. Middlemas, J. Ball, J. Scanlon, F. Holman, A. Drinan\n\nPrediction:\n\n**Northampton 1–1 Swindon**. Swindon's historic edge in the fixture keeps this tight, but inconsistency across both teams screams stalemate opener. 🤝",
-            "generated_at": "2026-08-14T19:42:48.647268+00:00"
-          },
+          "ai_preview": null,
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.460773+00:00",
@@ -21284,10 +21293,7 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": {
-          "text": "**New season, same intrigue** — Northampton and Swindon kick off League Two with a classic Saturday afternoon clash that's got unpredictability written all over it. 📅\n\nBoth sides have recent form all over the map. Northampton's won twice and drawn but also dropped two, while Swindon's on a similar rollercoaster with three losses in their last five. The head-to-head tells the real story though: Swindon have the edge historically, winning 5 of the last 10, so there's genuine narrative tension here.\n\nKey storylines:\n\n- **Northampton's attacking depth** around D. Campbell and K. Swyer will be crucial—they need clinical finishing to punish Swindon's shaky recent form\n- **Swindon's defensive solidity** with B. Kirkman and S. Negru anchoring the back line could be the difference if they can stay compact\n- **T. Fornah and J. Perkins** controlling Northampton's midfield tempo will set the tone for how the game flows\n\nExpected lineups:\n\n- **Northampton Town**: R. Fitzsimons, J. Maxwell, J. Guthrie, M. Dyche, J. Wormleighton, T. Fornah, J. Perkins, C. Lemonheigh-Evans, D. Campbell, K. Swyer, M. Warhurst\n- **Swindon Town**: C. Ripley, B. Kirkman, S. Negru, F. Mabete, J. McGregor, M. Virtue-Thick, B. Middlemas, J. Ball, J. Scanlon, F. Holman, A. Drinan\n\nPrediction:\n\n**Northampton 1–1 Swindon**. Swindon's historic edge in the fixture keeps this tight, but inconsistency across both teams screams stalemate opener. 🤝",
-          "generated_at": "2026-08-14T19:42:48.647268+00:00"
-        },
+        "ai_preview": null,
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -21787,10 +21793,7 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": {
-            "text": "**Rotherham roll into the West Country as early favorites**, but Cheltenham will fancy their chances at home after a confidence-building cup win midweek. 🏟️\n\nCheltenham are wobbling in the league (1 win in 5) but that 3-0 demolition of Evesham could be exactly the spark they need. Rotherham, meantime, have shown flashes—two wins recently—but got hammered 1-4 by West Brom, so they're hardly watertight either.\n\nKey storylines:\n\n- **R. Broom** anchoring Cheltenham's midfield will need to control the tempo and break up Rotherham's build-up play\n- **F. Tavares** leading the Rotherham attack offers a physical edge that Cheltenham's back line (J. Wilson, G. Nurse) must respect\n- The head-to-head is a dead heat (2-2-3 in Rotherham's favor on wins), so no clear pattern to lean on\n\nExpected lineups:\n\n- **Cheltenham Town**: W. Stanway, J. Wilson, J. Tomkinson, G. Nurse, R. Cundy, R. Broom, B. Stevenson, J. Day, S. McWilliams, J. Tomlinson, J. Bickerstaff\n- **Rotherham United**: T. Cann, J. Buyabu, E. Adegboyega, S. Aljofree, B. Cover, K. Spence, E. Otoo, J. Jellis, D. Hall, F. Tavares, P. Mullin\n\nPrediction:\n\n**1-2 Rotherham.** Slight edge to the visitors' recent momentum and squad depth, but it's tight enough that a home shock wouldn't shock anyone.",
-            "generated_at": "2026-08-14T19:42:27.811345+00:00"
-          },
+          "ai_preview": null,
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.501761+00:00",
@@ -21999,10 +22002,7 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": {
-          "text": "**Rotherham roll into the West Country as early favorites**, but Cheltenham will fancy their chances at home after a confidence-building cup win midweek. 🏟️\n\nCheltenham are wobbling in the league (1 win in 5) but that 3-0 demolition of Evesham could be exactly the spark they need. Rotherham, meantime, have shown flashes—two wins recently—but got hammered 1-4 by West Brom, so they're hardly watertight either.\n\nKey storylines:\n\n- **R. Broom** anchoring Cheltenham's midfield will need to control the tempo and break up Rotherham's build-up play\n- **F. Tavares** leading the Rotherham attack offers a physical edge that Cheltenham's back line (J. Wilson, G. Nurse) must respect\n- The head-to-head is a dead heat (2-2-3 in Rotherham's favor on wins), so no clear pattern to lean on\n\nExpected lineups:\n\n- **Cheltenham Town**: W. Stanway, J. Wilson, J. Tomkinson, G. Nurse, R. Cundy, R. Broom, B. Stevenson, J. Day, S. McWilliams, J. Tomlinson, J. Bickerstaff\n- **Rotherham United**: T. Cann, J. Buyabu, E. Adegboyega, S. Aljofree, B. Cover, K. Spence, E. Otoo, J. Jellis, D. Hall, F. Tavares, P. Mullin\n\nPrediction:\n\n**1-2 Rotherham.** Slight edge to the visitors' recent momentum and squad depth, but it's tight enough that a home shock wouldn't shock anyone.",
-          "generated_at": "2026-08-14T19:42:27.811345+00:00"
-        },
+        "ai_preview": null,
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -22452,8 +22452,8 @@
           ],
           "sr_stats": null,
           "ai_preview": {
-            "text": "**Grimsby's fresh start, but Exeter have the recent edge** — the Mariners arrive as marginal favorites in League Two's curtain-raiser, yet the Grecians' 6-2 head-to-head record whispers otherwise. 🔵\n\nGrimsby showed flashes in preseason (two wins in the last five), but inconsistency plagued them; Exeter have been a mess lately, though that H2H tells you they know how to trouble this opponent. Mixed omens all round.\n\nKey storylines:\n\n- **Grimsby's midfield balance** hinges on K. Green anchoring play while J. Amaluzor and G. D. Turi drive forward\n- **Exeter's attacking impetus** will rest on J. Gordon and J. Wareham linking with J. Bycroft's distribution from deep\n- **Home nerves for the Mariners** — opening day jitters can cut both ways, but Grimsby need to translate preseason promise into points\n\nExpected lineups:\n\n- **Grimsby Town**: C. Pym, H. Rodgers, C. McJannett, M. Kacurri, R. Staunton, K. Green, J. Amaluzor, G. D. Turi, C. Doyle, C. Vernam, I. Morgan\n- **Exeter City**: J. Bycroft, L. Oakes, E. James, L. Woodhouse, J. Fitzwater, C. Cummins, R. Cole, A. Oluwabori, G. Edwards, J. Gordon, J. Wareham\n\nPrediction:\n\n**Grimsby 2–1 Exeter**. Slight lean to the home side despite the historical edge — preseason form and a packed crowd edge it. ⚽",
-            "generated_at": "2026-08-14T19:42:43.850754+00:00"
+            "text": "**Grimsby's been hot, but Exeter showed teeth in pre-season** — these two are coming in with very different vibes, and the H2H tells a story of pain for the Mariners. 🔥\n\nGrimsby won two of their last three, including a solid 2-0 over Wigan. Exeter, though, are in shaky form (1W in five) and got turned over 2-0 by Plymouth last time out. On paper, this should favor the hosts.\n\nKey storylines:\n\n- **Grimsby's midfield balance** around K. Green and J. Walker will need to keep Exeter's **R. Cole and C. Cummins** from dictating tempo.\n- **I. Morgan** leading the Grimsby line faces a **E. James and L. Woodhouse** pairing that's been leaky — could be a chance for the home strikers.\n- **Exeter's away-day curse**: 1W in five pre-season, including defeats, means confidence is fragile heading to the coast.\n\nExpected lineups:\n\n- **Grimsby Town**: C. Pym, H. Rodgers, C. McJannett, M. Kacurri, J. Amaluzor, K. Green, J. Walker, G. D. Turi, C. Vernam, C. Doyle, I. Morgan\n- **Exeter City**: J. Bycroft, L. Oakes, E. James, L. Woodhouse, J. Fitzwater, C. Cummins, R. Cole, A. Oluwabori, G. Edwards, J. Wareham, J. Gordon\n\nPrediction:\n\n**Grimsby 2-1 Exeter**. Home edge in form and confidence — slight lean to the Mariners.",
+            "generated_at": "2026-08-15T06:41:48.868888+00:00"
           },
           "live_websocket": true
         },
@@ -22664,8 +22664,8 @@
         ],
         "sr_stats": null,
         "ai_preview": {
-          "text": "**Grimsby's fresh start, but Exeter have the recent edge** — the Mariners arrive as marginal favorites in League Two's curtain-raiser, yet the Grecians' 6-2 head-to-head record whispers otherwise. 🔵\n\nGrimsby showed flashes in preseason (two wins in the last five), but inconsistency plagued them; Exeter have been a mess lately, though that H2H tells you they know how to trouble this opponent. Mixed omens all round.\n\nKey storylines:\n\n- **Grimsby's midfield balance** hinges on K. Green anchoring play while J. Amaluzor and G. D. Turi drive forward\n- **Exeter's attacking impetus** will rest on J. Gordon and J. Wareham linking with J. Bycroft's distribution from deep\n- **Home nerves for the Mariners** — opening day jitters can cut both ways, but Grimsby need to translate preseason promise into points\n\nExpected lineups:\n\n- **Grimsby Town**: C. Pym, H. Rodgers, C. McJannett, M. Kacurri, R. Staunton, K. Green, J. Amaluzor, G. D. Turi, C. Doyle, C. Vernam, I. Morgan\n- **Exeter City**: J. Bycroft, L. Oakes, E. James, L. Woodhouse, J. Fitzwater, C. Cummins, R. Cole, A. Oluwabori, G. Edwards, J. Gordon, J. Wareham\n\nPrediction:\n\n**Grimsby 2–1 Exeter**. Slight lean to the home side despite the historical edge — preseason form and a packed crowd edge it. ⚽",
-          "generated_at": "2026-08-14T19:42:43.850754+00:00"
+          "text": "**Grimsby's been hot, but Exeter showed teeth in pre-season** — these two are coming in with very different vibes, and the H2H tells a story of pain for the Mariners. 🔥\n\nGrimsby won two of their last three, including a solid 2-0 over Wigan. Exeter, though, are in shaky form (1W in five) and got turned over 2-0 by Plymouth last time out. On paper, this should favor the hosts.\n\nKey storylines:\n\n- **Grimsby's midfield balance** around K. Green and J. Walker will need to keep Exeter's **R. Cole and C. Cummins** from dictating tempo.\n- **I. Morgan** leading the Grimsby line faces a **E. James and L. Woodhouse** pairing that's been leaky — could be a chance for the home strikers.\n- **Exeter's away-day curse**: 1W in five pre-season, including defeats, means confidence is fragile heading to the coast.\n\nExpected lineups:\n\n- **Grimsby Town**: C. Pym, H. Rodgers, C. McJannett, M. Kacurri, J. Amaluzor, K. Green, J. Walker, G. D. Turi, C. Vernam, C. Doyle, I. Morgan\n- **Exeter City**: J. Bycroft, L. Oakes, E. James, L. Woodhouse, J. Fitzwater, C. Cummins, R. Cole, A. Oluwabori, G. Edwards, J. Wareham, J. Gordon\n\nPrediction:\n\n**Grimsby 2-1 Exeter**. Home edge in form and confidence — slight lean to the Mariners.",
+          "generated_at": "2026-08-15T06:41:48.868888+00:00"
         },
         "live_websocket": true,
         "home_form": {
@@ -23166,10 +23166,7 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": {
-            "text": "**Crewe look downright scary in the H2H — eight wins in the last 10 meetings — but Crawley's on a high after that York demolition.** 🔴⚪ This opening day could tell us volumes about who's ready to push for promotion.\n\nCrawley mixed results but found some attacking rhythm lately; Crewe's been rock solid (2W-2D-1L) and absolutely owns this fixture historically. That's a tension worth watching.\n\nKey storylines:\n\n- **Crewe's historical dominance** over Crawley makes them the obvious opener favorites, but opening days punish complacency\n- **Crawley's attacking edge** — **J. Williams**, **G. D. Biase**, and **P. Aderoju** will need to stay sharp against a solid Crewe backline led by **M. Demetriou**\n- **Crewe's midfield control** through **J. Gibson** and **J. Tabiner** could suffocate Crawley's rhythm if they let it\n\nExpected lineups:\n\n- **Crawley Town**: V. Mannone, J. Russell, C. Barker, P. Arganese-McDermott, L. Richards, A. Adeyemo, L. Watson, J. Arthurs, J. Williams, G. D. Biase, P. Aderoju\n- **Crewe Alexandra**: T. Booth, R. Hutchinson, M. Demetriou, S. Dancey, L. Billington, J. Gibson, J. Tabiner, C. Agius, M. Holíček, T. O'Reilly, A. Thibaut\n\nPrediction:\n\n**1-2 Crewe.** History plus form points to the Railwaymen nicking this on the road. 🚂",
-            "generated_at": "2026-08-14T19:42:33.203826+00:00"
-          },
+          "ai_preview": null,
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.476637+00:00",
@@ -23380,10 +23377,7 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": {
-          "text": "**Crewe look downright scary in the H2H — eight wins in the last 10 meetings — but Crawley's on a high after that York demolition.** 🔴⚪ This opening day could tell us volumes about who's ready to push for promotion.\n\nCrawley mixed results but found some attacking rhythm lately; Crewe's been rock solid (2W-2D-1L) and absolutely owns this fixture historically. That's a tension worth watching.\n\nKey storylines:\n\n- **Crewe's historical dominance** over Crawley makes them the obvious opener favorites, but opening days punish complacency\n- **Crawley's attacking edge** — **J. Williams**, **G. D. Biase**, and **P. Aderoju** will need to stay sharp against a solid Crewe backline led by **M. Demetriou**\n- **Crewe's midfield control** through **J. Gibson** and **J. Tabiner** could suffocate Crawley's rhythm if they let it\n\nExpected lineups:\n\n- **Crawley Town**: V. Mannone, J. Russell, C. Barker, P. Arganese-McDermott, L. Richards, A. Adeyemo, L. Watson, J. Arthurs, J. Williams, G. D. Biase, P. Aderoju\n- **Crewe Alexandra**: T. Booth, R. Hutchinson, M. Demetriou, S. Dancey, L. Billington, J. Gibson, J. Tabiner, C. Agius, M. Holíček, T. O'Reilly, A. Thibaut\n\nPrediction:\n\n**1-2 Crewe.** History plus form points to the Railwaymen nicking this on the road. 🚂",
-          "generated_at": "2026-08-14T19:42:33.203826+00:00"
-        },
+        "ai_preview": null,
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -23883,10 +23877,7 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": {
-            "text": "**Accrington come into League Two looking sharp, while Colchester are limping through preseason.** This feels like a statement moment for the hosts in round 1. 🔴\n\nAccrington's picked up 3 wins in their last 5 with just one loss; Colchester have gone winless in their last five, bleeding goals and sitting 0–2, 0–1, 0–2 in their most recent warm-ups. The head-to-head leans Accrington's way too (6 wins to 2 in the last decade).\n\nKey storylines:\n\n- **Accrington's attacking threat** led by **S. Whalley** and **J. Woods** should find space against a Colchester defense that's shipped eight goals in three recent games.\n- **Colchester's form crisis** means they'll need **B. Ihionvien** and **T. Bishop** to spark something creative, but the pressure starts immediately on the road.\n- **Home advantage and momentum** — Accrington's won twice at home already this summer and look organized; Colchester haven't found a rhythm yet.\n\nExpected lineups:\n\n- **Accrington Stanley**: L. Moulden, F. Sass, D. Matthews, J. Anderson, C. O'Brien, L. Coyle, I. Sinclair, S. Whalley, J. Woods, S. Mols\n- **Colchester United**: T. Lo-Tutala, J. Tucker, F. Terry, R. Hunt, K. Vincent-Young, J. Payne, H. Anderson, B. Ihionvien\n\nPrediction:\n\n**Accrington 2–0 Colchester.** Accrington's the lean here — form, history, and home advantage all point to a comfortable opening day win. ⚪",
-            "generated_at": "2026-08-14T19:42:21.965337+00:00"
-          },
+          "ai_preview": null,
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.492175+00:00",
@@ -24098,10 +24089,7 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": {
-          "text": "**Accrington come into League Two looking sharp, while Colchester are limping through preseason.** This feels like a statement moment for the hosts in round 1. 🔴\n\nAccrington's picked up 3 wins in their last 5 with just one loss; Colchester have gone winless in their last five, bleeding goals and sitting 0–2, 0–1, 0–2 in their most recent warm-ups. The head-to-head leans Accrington's way too (6 wins to 2 in the last decade).\n\nKey storylines:\n\n- **Accrington's attacking threat** led by **S. Whalley** and **J. Woods** should find space against a Colchester defense that's shipped eight goals in three recent games.\n- **Colchester's form crisis** means they'll need **B. Ihionvien** and **T. Bishop** to spark something creative, but the pressure starts immediately on the road.\n- **Home advantage and momentum** — Accrington's won twice at home already this summer and look organized; Colchester haven't found a rhythm yet.\n\nExpected lineups:\n\n- **Accrington Stanley**: L. Moulden, F. Sass, D. Matthews, J. Anderson, C. O'Brien, L. Coyle, I. Sinclair, S. Whalley, J. Woods, S. Mols\n- **Colchester United**: T. Lo-Tutala, J. Tucker, F. Terry, R. Hunt, K. Vincent-Young, J. Payne, H. Anderson, B. Ihionvien\n\nPrediction:\n\n**Accrington 2–0 Colchester.** Accrington's the lean here — form, history, and home advantage all point to a comfortable opening day win. ⚪",
-          "generated_at": "2026-08-14T19:42:21.965337+00:00"
-        },
+        "ai_preview": null,
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -24600,10 +24588,7 @@
             }
           ],
           "sr_stats": null,
-          "ai_preview": {
-            "text": "**Salford's ready to flex muscle on day one** — the Reds have won three of their last five and own a perfect 2-0 head-to-head record against Barnet. The hosts, meanwhile, are winless in their last five and looking shaky to start the campaign. 🔴\n\nBarnet's three draws suggest they can keep it tight, but Salford's offensive form under the lights is hard to ignore. The visitors have posted back-to-back draws and a clean away win, so they've got momentum. The real question: can Barnet's XI stay compact enough to frustrate a sharper unit?\n\nKey storylines:\n\n- **Salford's form meets Barnet's fragility** — the Reds are the clear favorites here, and their 2-0 head-to-head dominance stacks the deck further\n- **K. Tshimanga and the Barnet attack** — they'll need penetration if they're going to nick anything on home soil\n- **Midfield battle between M. Butcher and I. Kanu** — whoever controls the center will likely control the game\n\nExpected lineups:\n\n- **Barnet**: M. Cox, R. Crichlow, D. Collinge, N. Tavares, A. Senior, I. Kanu, N. Ofoborh, T. Knowles, C. Lakin, K. Smith, K. Tshimanga\n- **Salford City**: W. Norris, L. Garbutt, A. Oluwo, B. Cooper, O. Turton, M. Butcher, J. Austerfield, K. Cesay, R. Longelo, R. Graydon, P. Ehibhatiomhan\n\nPrediction:\n\n**Salford City 2–0 Barnet**\n\nSalford's the clear lean here — sharper form, head-to-head pedigree, and Barnet's lack of wins make this a one-way script. ⚽",
-            "generated_at": "2026-08-14T19:42:15.923786+00:00"
-          },
+          "ai_preview": null,
           "live_websocket": true
         },
         "created_at": "2026-08-09T02:15:15.520279+00:00",
@@ -24815,10 +24800,7 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": {
-          "text": "**Salford's ready to flex muscle on day one** — the Reds have won three of their last five and own a perfect 2-0 head-to-head record against Barnet. The hosts, meanwhile, are winless in their last five and looking shaky to start the campaign. 🔴\n\nBarnet's three draws suggest they can keep it tight, but Salford's offensive form under the lights is hard to ignore. The visitors have posted back-to-back draws and a clean away win, so they've got momentum. The real question: can Barnet's XI stay compact enough to frustrate a sharper unit?\n\nKey storylines:\n\n- **Salford's form meets Barnet's fragility** — the Reds are the clear favorites here, and their 2-0 head-to-head dominance stacks the deck further\n- **K. Tshimanga and the Barnet attack** — they'll need penetration if they're going to nick anything on home soil\n- **Midfield battle between M. Butcher and I. Kanu** — whoever controls the center will likely control the game\n\nExpected lineups:\n\n- **Barnet**: M. Cox, R. Crichlow, D. Collinge, N. Tavares, A. Senior, I. Kanu, N. Ofoborh, T. Knowles, C. Lakin, K. Smith, K. Tshimanga\n- **Salford City**: W. Norris, L. Garbutt, A. Oluwo, B. Cooper, O. Turton, M. Butcher, J. Austerfield, K. Cesay, R. Longelo, R. Graydon, P. Ehibhatiomhan\n\nPrediction:\n\n**Salford City 2–0 Barnet**\n\nSalford's the clear lean here — sharper form, head-to-head pedigree, and Barnet's lack of wins make this a one-way script. ⚽",
-          "generated_at": "2026-08-14T19:42:15.923786+00:00"
-        },
+        "ai_preview": null,
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -26061,7 +26043,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Mansfield are heavy favorites here, but Doncaster's knack for grinding out draws could spoil the party.** 🎯 League One kicks off with a classic David-vs-Goliath vibe — one side hunting a bounce-back, the other just happy to be solid.\n\nMansfield have the pedigree (4-0 demolition of Alfreton shows bite) but face a Doncaster side that's been a fortress defensively despite zero wins. Three straight draws suggest they know how to stay compact. The hosts need momentum badly after back-to-back home hammerings.\n\nKey storylines:\n\n- **D. McGoldrick** leads the Mansfield attack against a Rovers rearguard anchored by **J. McGrath** and **N. Byrne**\n- Midfield battle: can **N. Moriah-Welsh** and **R. Hendry** boss possession, or will **G. Broadbent** and **O. Bailey** disrupt the flow?\n- Set pieces could decide it — both sides love a scrap from dead-ball situations\n\nExpected lineups:\n\n- **Mansfield Town**: L. Roberts, R. Sweeney, S. McLaughlin, K. Knoyle, A. Oshilaja, L. Akins, R. Hendry, N. Moriah-Welsh, R. Oates, T. Roberts, D. McGoldrick\n- **Doncaster Rovers**: T. Simkin, J. Senior, J. McGrath, N. Byrne, J. Sterry, G. Broadbent, O. Bailey, D. Robinson, A. May, B. Hanlan, J. Thomas\n\nPrediction:\n\n**Mansfield 2-0 Doncaster.** Mansfield have the edge in quality and desperately need the win — Doncaster's draw streak snaps here.",
+          "generated_at": "2026-08-15T06:42:09.674324+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
@@ -26758,7 +26743,10 @@
           }
         ],
         "sr_stats": null,
-        "ai_preview": null,
+        "ai_preview": {
+          "text": "**Huddersfield Town look the goods to kick off League One with three points, and Wimbledon's shaky preseason form won't help their cause.** Town have been sharp in buildup — two draws against serious opposition sandwiching a convincing 3-1 road win — while the Dons are still finding their feet. 🔵\n\nTown's cushion is real: they've got the edge in head-to-head and come in fresher. Wimbledon scraped a point at home vs Newport and lost to lower-league Wealdstone, which isn't the vibe you want before facing a side that's clicking.\n\nKey storylines:\n\n- **Huddersfield's build from the back** — Roughan, Sørensen, and Balker will be crucial to controlling tempo against Wimbledon's press\n- **Wimbledon's attacking depth** — Stockley and Browne up front need to be sharp; Reeves orchestrating midfield is their lifeline\n- **Huddersfield's experience edge** — Town's blend of Fletcher and Taylor in the no. 10 roles should find space against Wimbledon's settling defence\n\nExpected lineups:\n\n- **Huddersfield Town**: M. Young, S. Roughan, L. Sørensen, R. Balker, M. Wallace, R. Ledson, M. Harness, D. Kasumu, A. Fletcher, J. Taylor, D. S. Fernandes\n- **AFC Wimbledon**: N. Bishop, S. Seddon, R. Johnson, D. Sweeney, I. Ogundere, J. Reeves, J. Tilley, Z. Nelson, A. Sasu, M. Browne, J. Stockley\n\nPrediction:\n\n**Huddersfield Town 2–1 AFC Wimbledon.** Town's fluency gives them a slight lean; Wimbledon make it tight late but can't quite find the leveller. ⚽",
+          "generated_at": "2026-08-15T06:42:04.572707+00:00"
+        },
         "live_websocket": true,
         "home_form": {
           "calculated_at": "2026-08-15",
