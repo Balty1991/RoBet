@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-17T23:26:22.787Z",
+  "generated_at": "2026-08-17T23:48:36.504Z",
   "timezone": "Europe/Bucharest",
   "source": {
     "api_base": "https://sports.bzzoiro.com/api/",
@@ -78,12 +78,12 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 3.09,
+          "odds_home": 3.04,
           "odds_draw": 2.83,
-          "odds_away": 2.53,
+          "odds_away": 2.56,
           "odds_over_15": 1.53,
           "odds_over_25": 2.64,
-          "odds_over_35": 5.21,
+          "odds_over_35": 5.2,
           "odds_under_15": 2.4,
           "odds_under_25": 1.44,
           "odds_under_35": 1.13,
@@ -122,7 +122,7 @@
             "country": "Argentina",
             "profile": "defensive",
             "preferred_formation": "4-4-2",
-            "pressing_intensity": 0.6747429665886462,
+            "pressing_intensity": 0.6961936378695927,
             "defensive_line": "mid",
             "top_styles": [
               "gegenpressing",
@@ -134,9 +134,9 @@
             "name": "Jorge Sampaoli",
             "short_name": "J. Sampaoli",
             "country": "Argentina",
-            "profile": "balanced",
+            "profile": "defensive",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.6911772268861013,
+            "pressing_intensity": 0.6695229872733119,
             "defensive_line": "mid",
             "top_styles": [
               "gegenpressing",
@@ -739,12 +739,12 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 3.09,
+        "odds_home": 3.04,
         "odds_draw": 2.83,
-        "odds_away": 2.53,
+        "odds_away": 2.56,
         "odds_over_15": 1.53,
         "odds_over_25": 2.64,
-        "odds_over_35": 5.21,
+        "odds_over_35": 5.2,
         "odds_under_15": 2.4,
         "odds_under_25": 1.44,
         "odds_under_35": 1.13,
@@ -783,7 +783,7 @@
           "country": "Argentina",
           "profile": "defensive",
           "preferred_formation": "4-4-2",
-          "pressing_intensity": 0.6747429665886462,
+          "pressing_intensity": 0.6961936378695927,
           "defensive_line": "mid",
           "top_styles": [
             "gegenpressing",
@@ -795,9 +795,9 @@
           "name": "Jorge Sampaoli",
           "short_name": "J. Sampaoli",
           "country": "Argentina",
-          "profile": "balanced",
+          "profile": "defensive",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.6911772268861013,
+          "pressing_intensity": 0.6695229872733119,
           "defensive_line": "mid",
           "top_styles": [
             "gegenpressing",
@@ -1647,16 +1647,16 @@
           "current_minute": null,
           "period": "",
           "odds_home": 2.52,
-          "odds_draw": 3.38,
-          "odds_away": 2.59,
+          "odds_draw": 3.39,
+          "odds_away": 2.58,
           "odds_over_15": 1.22,
-          "odds_over_25": 1.75,
-          "odds_over_35": 2.85,
-          "odds_under_15": 3.86,
+          "odds_over_25": 1.74,
+          "odds_over_35": 2.84,
+          "odds_under_15": 3.87,
           "odds_under_25": 2.01,
           "odds_under_35": 1.38,
           "odds_btts_yes": 1.59,
-          "odds_btts_no": 2.22,
+          "odds_btts_no": 2.21,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -1690,7 +1690,7 @@
             "country": "Uruguay",
             "profile": "balanced",
             "preferred_formation": "3-4-2-1",
-            "pressing_intensity": 0.5412199759476658,
+            "pressing_intensity": 0.5586153722559616,
             "defensive_line": "high",
             "top_styles": [
               "ball_dominant",
@@ -1704,7 +1704,7 @@
             "country": "Argentina",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.5585943021193353,
+            "pressing_intensity": 0.5688077665623116,
             "defensive_line": "mid",
             "top_styles": [
               "tiki_taka",
@@ -1761,7 +1761,455 @@
           },
           "incidents": null,
           "live_stats": null,
-          "lineups": null,
+          "lineups": {
+            "away": {
+              "players": [
+                {
+                  "name": "O. D. G. Herrera",
+                  "goals": 0,
+                  "api_id": 1539857,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "G",
+                  "red_card": false,
+                  "player_id": null,
+                  "yellow_card": false,
+                  "jersey_number": "23",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "O. D. G. Herrera",
+                  "specific_position": "GK",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Iván Moreno",
+                  "goals": 0,
+                  "api_id": 941187,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 10125,
+                  "yellow_card": false,
+                  "jersey_number": "7",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "I. Moreno",
+                  "specific_position": "DEF",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Jhohan Romaña",
+                  "goals": 0,
+                  "api_id": 839734,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 22995,
+                  "yellow_card": false,
+                  "jersey_number": "14",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "J. Romaña",
+                  "specific_position": "DEF",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Juan Guevara",
+                  "goals": 0,
+                  "api_id": 1175008,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 26630,
+                  "yellow_card": false,
+                  "jersey_number": "3",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "J. Guevara",
+                  "specific_position": "CB",
+                  "positions_detailed": [
+                    "CB"
+                  ]
+                },
+                {
+                  "name": "Sebastián Vegas",
+                  "goals": 0,
+                  "api_id": 363748,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 10512,
+                  "yellow_card": false,
+                  "jersey_number": "5",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "S. Vegas",
+                  "specific_position": "DEF",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "José Rodríguez",
+                  "goals": 0,
+                  "api_id": 865755,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 10270,
+                  "yellow_card": false,
+                  "jersey_number": "29",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "J. Rodríguez",
+                  "specific_position": "MID",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Jordi Cortizo",
+                  "goals": 0,
+                  "api_id": 837400,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 10132,
+                  "yellow_card": false,
+                  "jersey_number": "16",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "J. Cortizo",
+                  "specific_position": "MID",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Fernando Beltrán",
+                  "goals": 0,
+                  "api_id": 889214,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 10126,
+                  "yellow_card": false,
+                  "jersey_number": "6",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "F. Beltrán",
+                  "specific_position": "MID",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Rodrigo Echeverría",
+                  "goals": 0,
+                  "api_id": 339265,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 10123,
+                  "yellow_card": false,
+                  "jersey_number": "20",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "R. Echeverría",
+                  "specific_position": "MID",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Daniel Arcila",
+                  "goals": 0,
+                  "api_id": 1113526,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 10459,
+                  "yellow_card": false,
+                  "jersey_number": "13",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "D. Arcila",
+                  "specific_position": "AM",
+                  "positions_detailed": [
+                    "AM",
+                    "ST"
+                  ]
+                },
+                {
+                  "name": "Diber Cambindo",
+                  "goals": 0,
+                  "api_id": 947337,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 10272,
+                  "yellow_card": false,
+                  "jersey_number": "27",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "D. Cambindo",
+                  "specific_position": "FWD",
+                  "positions_detailed": []
+                }
+              ],
+              "formation": "4-1-4-1",
+              "substitutes": []
+            },
+            "home": {
+              "players": [
+                {
+                  "name": "Luis Jimenez",
+                  "goals": 0,
+                  "api_id": 1633246,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "G",
+                  "red_card": false,
+                  "player_id": 10277,
+                  "yellow_card": false,
+                  "jersey_number": "12",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "L. Jimenez",
+                  "specific_position": "GK",
+                  "positions_detailed": [
+                    "GK"
+                  ]
+                },
+                {
+                  "name": "Raúl Martínez",
+                  "goals": 0,
+                  "api_id": 1150065,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 10527,
+                  "yellow_card": false,
+                  "jersey_number": "33",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "R. Martínez",
+                  "specific_position": "CB",
+                  "positions_detailed": [
+                    "CB",
+                    "RB"
+                  ]
+                },
+                {
+                  "name": "Alexis Peña",
+                  "goals": 0,
+                  "api_id": 817679,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 10278,
+                  "yellow_card": false,
+                  "jersey_number": "4",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "A. Peña",
+                  "specific_position": "DEF",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Francisco Méndez",
+                  "goals": 0,
+                  "api_id": 1410206,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 10531,
+                  "yellow_card": false,
+                  "jersey_number": "20",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "F. Méndez",
+                  "specific_position": "CB",
+                  "positions_detailed": [
+                    "CB"
+                  ]
+                },
+                {
+                  "name": "Emilio Martinez",
+                  "goals": 0,
+                  "api_id": 1091722,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 10279,
+                  "yellow_card": false,
+                  "jersey_number": "2",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "E. Martínez",
+                  "specific_position": "DEF",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Danny Leyva",
+                  "goals": 0,
+                  "api_id": 981054,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 9272,
+                  "yellow_card": false,
+                  "jersey_number": "6",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "D. Leyva",
+                  "specific_position": "MID",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Lorenzo Faravelli",
+                  "goals": 0,
+                  "api_id": 250009,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 10053,
+                  "yellow_card": false,
+                  "jersey_number": "8",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "L. Faravelli",
+                  "specific_position": "MID",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Carlos Vargas",
+                  "goals": 0,
+                  "api_id": 876020,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "D",
+                  "red_card": false,
+                  "player_id": 10572,
+                  "yellow_card": false,
+                  "jersey_number": "88",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "C. A. V. Tenorio",
+                  "specific_position": "DEF",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Ricardo Monreal",
+                  "goals": 0,
+                  "api_id": 889813,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 10275,
+                  "yellow_card": false,
+                  "jersey_number": "30",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "R. Monreal",
+                  "specific_position": "FWD",
+                  "positions_detailed": []
+                },
+                {
+                  "name": "Juan Valencia",
+                  "goals": 0,
+                  "api_id": 1478323,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "F",
+                  "red_card": false,
+                  "player_id": 66505,
+                  "yellow_card": false,
+                  "jersey_number": "90",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "J. Valencia",
+                  "specific_position": "ST",
+                  "positions_detailed": [
+                    "ST"
+                  ]
+                },
+                {
+                  "name": "Javier Ruiz",
+                  "goals": 0,
+                  "api_id": 1512540,
+                  "rating": null,
+                  "sub_in": null,
+                  "captain": false,
+                  "sub_out": null,
+                  "position": "M",
+                  "red_card": false,
+                  "player_id": 10623,
+                  "yellow_card": false,
+                  "jersey_number": "10",
+                  "replaces_player_id": null,
+                  "replaced_by_player_id": null,
+                  "short_name": "J. Ruiz",
+                  "specific_position": "AM",
+                  "positions_detailed": [
+                    "AM"
+                  ]
+                }
+              ],
+              "formation": "3-4-3",
+              "substitutes": []
+            },
+            "confirmed": false
+          },
           "shotmap": null,
           "momentum": null,
           "xg_per_minute": null,
@@ -1866,16 +2314,16 @@
         "current_minute": null,
         "period": "",
         "odds_home": 2.52,
-        "odds_draw": 3.38,
-        "odds_away": 2.59,
+        "odds_draw": 3.39,
+        "odds_away": 2.58,
         "odds_over_15": 1.22,
-        "odds_over_25": 1.75,
-        "odds_over_35": 2.85,
-        "odds_under_15": 3.86,
+        "odds_over_25": 1.74,
+        "odds_over_35": 2.84,
+        "odds_under_15": 3.87,
         "odds_under_25": 2.01,
         "odds_under_35": 1.38,
         "odds_btts_yes": 1.59,
-        "odds_btts_no": 2.22,
+        "odds_btts_no": 2.21,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -1909,7 +2357,7 @@
           "country": "Uruguay",
           "profile": "balanced",
           "preferred_formation": "3-4-2-1",
-          "pressing_intensity": 0.5412199759476658,
+          "pressing_intensity": 0.5586153722559616,
           "defensive_line": "high",
           "top_styles": [
             "ball_dominant",
@@ -1923,7 +2371,7 @@
           "country": "Argentina",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.5585943021193353,
+          "pressing_intensity": 0.5688077665623116,
           "defensive_line": "mid",
           "top_styles": [
             "tiki_taka",
@@ -2122,7 +2570,455 @@
             }
           ]
         },
-        "lineups": null,
+        "lineups": {
+          "away": {
+            "players": [
+              {
+                "name": "O. D. G. Herrera",
+                "goals": 0,
+                "api_id": 1539857,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "G",
+                "red_card": false,
+                "player_id": null,
+                "yellow_card": false,
+                "jersey_number": "23",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "O. D. G. Herrera",
+                "specific_position": "GK",
+                "positions_detailed": []
+              },
+              {
+                "name": "Iván Moreno",
+                "goals": 0,
+                "api_id": 941187,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 10125,
+                "yellow_card": false,
+                "jersey_number": "7",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "I. Moreno",
+                "specific_position": "DEF",
+                "positions_detailed": []
+              },
+              {
+                "name": "Jhohan Romaña",
+                "goals": 0,
+                "api_id": 839734,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 22995,
+                "yellow_card": false,
+                "jersey_number": "14",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "J. Romaña",
+                "specific_position": "DEF",
+                "positions_detailed": []
+              },
+              {
+                "name": "Juan Guevara",
+                "goals": 0,
+                "api_id": 1175008,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 26630,
+                "yellow_card": false,
+                "jersey_number": "3",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "J. Guevara",
+                "specific_position": "CB",
+                "positions_detailed": [
+                  "CB"
+                ]
+              },
+              {
+                "name": "Sebastián Vegas",
+                "goals": 0,
+                "api_id": 363748,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 10512,
+                "yellow_card": false,
+                "jersey_number": "5",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "S. Vegas",
+                "specific_position": "DEF",
+                "positions_detailed": []
+              },
+              {
+                "name": "José Rodríguez",
+                "goals": 0,
+                "api_id": 865755,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 10270,
+                "yellow_card": false,
+                "jersey_number": "29",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "J. Rodríguez",
+                "specific_position": "MID",
+                "positions_detailed": []
+              },
+              {
+                "name": "Jordi Cortizo",
+                "goals": 0,
+                "api_id": 837400,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 10132,
+                "yellow_card": false,
+                "jersey_number": "16",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "J. Cortizo",
+                "specific_position": "MID",
+                "positions_detailed": []
+              },
+              {
+                "name": "Fernando Beltrán",
+                "goals": 0,
+                "api_id": 889214,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 10126,
+                "yellow_card": false,
+                "jersey_number": "6",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "F. Beltrán",
+                "specific_position": "MID",
+                "positions_detailed": []
+              },
+              {
+                "name": "Rodrigo Echeverría",
+                "goals": 0,
+                "api_id": 339265,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 10123,
+                "yellow_card": false,
+                "jersey_number": "20",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "R. Echeverría",
+                "specific_position": "MID",
+                "positions_detailed": []
+              },
+              {
+                "name": "Daniel Arcila",
+                "goals": 0,
+                "api_id": 1113526,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 10459,
+                "yellow_card": false,
+                "jersey_number": "13",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "D. Arcila",
+                "specific_position": "AM",
+                "positions_detailed": [
+                  "AM",
+                  "ST"
+                ]
+              },
+              {
+                "name": "Diber Cambindo",
+                "goals": 0,
+                "api_id": 947337,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 10272,
+                "yellow_card": false,
+                "jersey_number": "27",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "D. Cambindo",
+                "specific_position": "FWD",
+                "positions_detailed": []
+              }
+            ],
+            "formation": "4-1-4-1",
+            "substitutes": []
+          },
+          "home": {
+            "players": [
+              {
+                "name": "Luis Jimenez",
+                "goals": 0,
+                "api_id": 1633246,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "G",
+                "red_card": false,
+                "player_id": 10277,
+                "yellow_card": false,
+                "jersey_number": "12",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "L. Jimenez",
+                "specific_position": "GK",
+                "positions_detailed": [
+                  "GK"
+                ]
+              },
+              {
+                "name": "Raúl Martínez",
+                "goals": 0,
+                "api_id": 1150065,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 10527,
+                "yellow_card": false,
+                "jersey_number": "33",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "R. Martínez",
+                "specific_position": "CB",
+                "positions_detailed": [
+                  "CB",
+                  "RB"
+                ]
+              },
+              {
+                "name": "Alexis Peña",
+                "goals": 0,
+                "api_id": 817679,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 10278,
+                "yellow_card": false,
+                "jersey_number": "4",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "A. Peña",
+                "specific_position": "DEF",
+                "positions_detailed": []
+              },
+              {
+                "name": "Francisco Méndez",
+                "goals": 0,
+                "api_id": 1410206,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 10531,
+                "yellow_card": false,
+                "jersey_number": "20",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "F. Méndez",
+                "specific_position": "CB",
+                "positions_detailed": [
+                  "CB"
+                ]
+              },
+              {
+                "name": "Emilio Martinez",
+                "goals": 0,
+                "api_id": 1091722,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 10279,
+                "yellow_card": false,
+                "jersey_number": "2",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "E. Martínez",
+                "specific_position": "DEF",
+                "positions_detailed": []
+              },
+              {
+                "name": "Danny Leyva",
+                "goals": 0,
+                "api_id": 981054,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 9272,
+                "yellow_card": false,
+                "jersey_number": "6",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "D. Leyva",
+                "specific_position": "MID",
+                "positions_detailed": []
+              },
+              {
+                "name": "Lorenzo Faravelli",
+                "goals": 0,
+                "api_id": 250009,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 10053,
+                "yellow_card": false,
+                "jersey_number": "8",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "L. Faravelli",
+                "specific_position": "MID",
+                "positions_detailed": []
+              },
+              {
+                "name": "Carlos Vargas",
+                "goals": 0,
+                "api_id": 876020,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "D",
+                "red_card": false,
+                "player_id": 10572,
+                "yellow_card": false,
+                "jersey_number": "88",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "C. A. V. Tenorio",
+                "specific_position": "DEF",
+                "positions_detailed": []
+              },
+              {
+                "name": "Ricardo Monreal",
+                "goals": 0,
+                "api_id": 889813,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 10275,
+                "yellow_card": false,
+                "jersey_number": "30",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "R. Monreal",
+                "specific_position": "FWD",
+                "positions_detailed": []
+              },
+              {
+                "name": "Juan Valencia",
+                "goals": 0,
+                "api_id": 1478323,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "F",
+                "red_card": false,
+                "player_id": 66505,
+                "yellow_card": false,
+                "jersey_number": "90",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "J. Valencia",
+                "specific_position": "ST",
+                "positions_detailed": [
+                  "ST"
+                ]
+              },
+              {
+                "name": "Javier Ruiz",
+                "goals": 0,
+                "api_id": 1512540,
+                "rating": null,
+                "sub_in": null,
+                "captain": false,
+                "sub_out": null,
+                "position": "M",
+                "red_card": false,
+                "player_id": 10623,
+                "yellow_card": false,
+                "jersey_number": "10",
+                "replaces_player_id": null,
+                "replaced_by_player_id": null,
+                "short_name": "J. Ruiz",
+                "specific_position": "AM",
+                "positions_detailed": [
+                  "AM"
+                ]
+              }
+            ],
+            "formation": "3-4-3",
+            "substitutes": []
+          },
+          "confirmed": false
+        },
         "social": []
       },
       "managers": {
@@ -2372,16 +3268,16 @@
           "current_minute": null,
           "period": "",
           "odds_home": 1.53,
-          "odds_draw": 4.02,
-          "odds_away": 5.62,
+          "odds_draw": 4.03,
+          "odds_away": 5.61,
           "odds_over_15": 1.19,
-          "odds_over_25": 1.66,
-          "odds_over_35": 2.62,
-          "odds_under_15": 4.18,
-          "odds_under_25": 2.13,
-          "odds_under_35": 1.44,
-          "odds_btts_yes": 1.73,
-          "odds_btts_no": 1.99,
+          "odds_over_25": 1.65,
+          "odds_over_35": 2.59,
+          "odds_under_15": 4.25,
+          "odds_under_25": 2.15,
+          "odds_under_35": 1.45,
+          "odds_btts_yes": 1.72,
+          "odds_btts_no": 2.01,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -2568,16 +3464,16 @@
         "current_minute": null,
         "period": "",
         "odds_home": 1.53,
-        "odds_draw": 4.02,
-        "odds_away": 5.62,
+        "odds_draw": 4.03,
+        "odds_away": 5.61,
         "odds_over_15": 1.19,
-        "odds_over_25": 1.66,
-        "odds_over_35": 2.62,
-        "odds_under_15": 4.18,
-        "odds_under_25": 2.13,
-        "odds_under_35": 1.44,
-        "odds_btts_yes": 1.73,
-        "odds_btts_no": 1.99,
+        "odds_over_25": 1.65,
+        "odds_over_35": 2.59,
+        "odds_under_15": 4.25,
+        "odds_under_25": 2.15,
+        "odds_under_35": 1.45,
+        "odds_btts_yes": 1.72,
+        "odds_btts_no": 2.01,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -3002,17 +3898,17 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 1.73,
+          "odds_home": 1.72,
           "odds_draw": 3.93,
-          "odds_away": 4.35,
-          "odds_over_15": 1.19,
+          "odds_away": 4.37,
+          "odds_over_15": 1.18,
           "odds_over_25": 1.62,
-          "odds_over_35": 2.55,
-          "odds_under_15": 4.37,
-          "odds_under_25": 2.22,
-          "odds_under_35": 1.47,
-          "odds_btts_yes": 1.61,
-          "odds_btts_no": 2.2,
+          "odds_over_35": 2.52,
+          "odds_under_15": 4.4,
+          "odds_under_25": 2.23,
+          "odds_under_35": 1.48,
+          "odds_btts_yes": 1.6,
+          "odds_btts_no": 2.21,
           "actual_home_xg": null,
           "actual_away_xg": null,
           "home_xg_live": null,
@@ -3035,7 +3931,7 @@
             "country": "Croatia",
             "profile": "attacking",
             "preferred_formation": "4-3-3",
-            "pressing_intensity": 0.500032041030371,
+            "pressing_intensity": 0.5157412747428342,
             "defensive_line": "mid",
             "top_styles": [
               "chaos_ball",
@@ -3049,7 +3945,7 @@
             "country": "Norway",
             "profile": "attacking",
             "preferred_formation": "4-1-4-1",
-            "pressing_intensity": 0.4389483263984922,
+            "pressing_intensity": 0.4184323475452819,
             "defensive_line": "mid",
             "top_styles": [
               "cross_pray",
@@ -3216,17 +4112,17 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 1.73,
+        "odds_home": 1.72,
         "odds_draw": 3.93,
-        "odds_away": 4.35,
-        "odds_over_15": 1.19,
+        "odds_away": 4.37,
+        "odds_over_15": 1.18,
         "odds_over_25": 1.62,
-        "odds_over_35": 2.55,
-        "odds_under_15": 4.37,
-        "odds_under_25": 2.22,
-        "odds_under_35": 1.47,
-        "odds_btts_yes": 1.61,
-        "odds_btts_no": 2.2,
+        "odds_over_35": 2.52,
+        "odds_under_15": 4.4,
+        "odds_under_25": 2.23,
+        "odds_under_35": 1.48,
+        "odds_btts_yes": 1.6,
+        "odds_btts_no": 2.21,
         "actual_home_xg": null,
         "actual_away_xg": null,
         "home_xg_live": null,
@@ -3249,7 +4145,7 @@
           "country": "Croatia",
           "profile": "attacking",
           "preferred_formation": "4-3-3",
-          "pressing_intensity": 0.500032041030371,
+          "pressing_intensity": 0.5157412747428342,
           "defensive_line": "mid",
           "top_styles": [
             "chaos_ball",
@@ -3263,7 +4159,7 @@
           "country": "Norway",
           "profile": "attacking",
           "preferred_formation": "4-1-4-1",
-          "pressing_intensity": 0.4389483263984922,
+          "pressing_intensity": 0.4184323475452819,
           "defensive_line": "mid",
           "top_styles": [
             "cross_pray",
@@ -3574,16 +4470,16 @@
           "away_score_ht": null,
           "current_minute": null,
           "period": "",
-          "odds_home": 2.02,
+          "odds_home": 2.01,
           "odds_draw": 3.59,
           "odds_away": 3.46,
           "odds_over_15": 1.22,
           "odds_over_25": 1.72,
           "odds_over_35": 2.77,
-          "odds_under_15": 4.04,
-          "odds_under_25": 2.07,
+          "odds_under_15": 4.03,
+          "odds_under_25": 2.06,
           "odds_under_35": 1.41,
-          "odds_btts_yes": 1.62,
+          "odds_btts_yes": 1.61,
           "odds_btts_no": 2.19,
           "actual_home_xg": null,
           "actual_away_xg": null,
@@ -3606,12 +4502,12 @@
             "short_name": "I. Kartal",
             "country": "Türkiye",
             "profile": "attacking",
-            "preferred_formation": "4-1-4-1",
+            "preferred_formation": "4-2-3-1",
             "pressing_intensity": 1,
-            "defensive_line": "high",
+            "defensive_line": "mid",
             "top_styles": [
               "tiki_taka",
-              "positional"
+              "gegenpressing"
             ]
           },
           "away_coach": {
@@ -3621,7 +4517,7 @@
             "country": "Portugal",
             "profile": "attacking",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.5198929590036638,
+            "pressing_intensity": 0.5251970679667238,
             "defensive_line": "mid",
             "top_styles": [
               "tiki_taka",
@@ -3806,16 +4702,16 @@
         "away_score_ht": null,
         "current_minute": null,
         "period": "",
-        "odds_home": 2.02,
+        "odds_home": 2.01,
         "odds_draw": 3.59,
         "odds_away": 3.46,
         "odds_over_15": 1.22,
         "odds_over_25": 1.72,
         "odds_over_35": 2.77,
-        "odds_under_15": 4.04,
-        "odds_under_25": 2.07,
+        "odds_under_15": 4.03,
+        "odds_under_25": 2.06,
         "odds_under_35": 1.41,
-        "odds_btts_yes": 1.62,
+        "odds_btts_yes": 1.61,
         "odds_btts_no": 2.19,
         "actual_home_xg": null,
         "actual_away_xg": null,
@@ -3838,12 +4734,12 @@
           "short_name": "I. Kartal",
           "country": "Türkiye",
           "profile": "attacking",
-          "preferred_formation": "4-1-4-1",
+          "preferred_formation": "4-2-3-1",
           "pressing_intensity": 1,
-          "defensive_line": "high",
+          "defensive_line": "mid",
           "top_styles": [
             "tiki_taka",
-            "positional"
+            "gegenpressing"
           ]
         },
         "away_coach": {
@@ -3853,7 +4749,7 @@
           "country": "Portugal",
           "profile": "attacking",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.5198929590036638,
+          "pressing_intensity": 0.5251970679667238,
           "defensive_line": "mid",
           "top_styles": [
             "tiki_taka",
@@ -4273,7 +5169,7 @@
           "odds_over_25": 2.16,
           "odds_over_35": 3.88,
           "odds_under_15": 2.94,
-          "odds_under_25": 1.66,
+          "odds_under_25": 1.65,
           "odds_under_35": 1.23,
           "odds_btts_yes": 1.84,
           "odds_btts_no": 1.87,
@@ -4299,7 +5195,7 @@
             "country": "Spain",
             "profile": "attacking",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.3445076230104497,
+            "pressing_intensity": 0.3360416355236434,
             "defensive_line": "mid",
             "top_styles": [
               "tiki_taka",
@@ -4313,11 +5209,11 @@
             "country": "Serbia",
             "profile": "attacking",
             "preferred_formation": "4-4-2",
-            "pressing_intensity": 0.5521186315267695,
+            "pressing_intensity": 0.5813205323739157,
             "defensive_line": "high",
             "top_styles": [
-              "total_football",
-              "ball_dominant"
+              "wing_play",
+              "total_football"
             ]
           },
           "unavailable_players": {
@@ -4487,7 +5383,7 @@
         "odds_over_25": 2.16,
         "odds_over_35": 3.88,
         "odds_under_15": 2.94,
-        "odds_under_25": 1.66,
+        "odds_under_25": 1.65,
         "odds_under_35": 1.23,
         "odds_btts_yes": 1.84,
         "odds_btts_no": 1.87,
@@ -4513,7 +5409,7 @@
           "country": "Spain",
           "profile": "attacking",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.3445076230104497,
+          "pressing_intensity": 0.3360416355236434,
           "defensive_line": "mid",
           "top_styles": [
             "tiki_taka",
@@ -4527,11 +5423,11 @@
           "country": "Serbia",
           "profile": "attacking",
           "preferred_formation": "4-4-2",
-          "pressing_intensity": 0.5521186315267695,
+          "pressing_intensity": 0.5813205323739157,
           "defensive_line": "high",
           "top_styles": [
-            "total_football",
-            "ball_dominant"
+            "wing_play",
+            "total_football"
           ]
         },
         "unavailable_players": {
@@ -4933,13 +5829,13 @@
             "name": "Alfredo Berti",
             "short_name": "A. Berti",
             "country": "Argentina",
-            "profile": "attacking",
+            "profile": "balanced",
             "preferred_formation": "5-3-2",
-            "pressing_intensity": 0.6604340272639581,
+            "pressing_intensity": 0.6161329440772044,
             "defensive_line": "mid",
             "top_styles": [
-              "gegenpressing",
-              "high_press"
+              "cross_pray",
+              "set_piece"
             ]
           },
           "away_coach": {
@@ -4947,8 +5843,8 @@
             "name": "Marcão",
             "short_name": "Marcão",
             "country": "Brazil",
-            "profile": "",
-            "preferred_formation": "",
+            "profile": "defensive",
+            "preferred_formation": "4-2-3-1",
             "pressing_intensity": null,
             "defensive_line": "",
             "top_styles": []
@@ -5162,13 +6058,13 @@
           "name": "Alfredo Berti",
           "short_name": "A. Berti",
           "country": "Argentina",
-          "profile": "attacking",
+          "profile": "balanced",
           "preferred_formation": "5-3-2",
-          "pressing_intensity": 0.6604340272639581,
+          "pressing_intensity": 0.6161329440772044,
           "defensive_line": "mid",
           "top_styles": [
-            "gegenpressing",
-            "high_press"
+            "cross_pray",
+            "set_piece"
           ]
         },
         "away_coach": {
@@ -5176,8 +6072,8 @@
           "name": "Marcão",
           "short_name": "Marcão",
           "country": "Brazil",
-          "profile": "",
-          "preferred_formation": "",
+          "profile": "defensive",
+          "preferred_formation": "4-2-3-1",
           "pressing_intensity": null,
           "defensive_line": "",
           "top_styles": []
@@ -5637,11 +6533,11 @@
             "country": "Paraguay",
             "profile": "balanced",
             "preferred_formation": "4-4-2",
-            "pressing_intensity": 0.45755790829897997,
+            "pressing_intensity": 0.4270354828090831,
             "defensive_line": "mid",
             "top_styles": [
               "terrorist_fb",
-              "anti_football"
+              "park_the_bus"
             ]
           },
           "away_coach": {
@@ -5649,9 +6545,9 @@
             "name": "Rodolfo Arruabarrena",
             "short_name": "R. Arruabarrena",
             "country": "Argentina",
-            "profile": "defensive",
-            "preferred_formation": "4-3-3",
-            "pressing_intensity": 0.9013765936911282,
+            "profile": "balanced",
+            "preferred_formation": "4-4-2",
+            "pressing_intensity": 0.8716844713733254,
             "defensive_line": "mid",
             "top_styles": [
               "gegenpressing",
@@ -5850,11 +6746,11 @@
           "country": "Paraguay",
           "profile": "balanced",
           "preferred_formation": "4-4-2",
-          "pressing_intensity": 0.45755790829897997,
+          "pressing_intensity": 0.4270354828090831,
           "defensive_line": "mid",
           "top_styles": [
             "terrorist_fb",
-            "anti_football"
+            "park_the_bus"
           ]
         },
         "away_coach": {
@@ -5862,9 +6758,9 @@
           "name": "Rodolfo Arruabarrena",
           "short_name": "R. Arruabarrena",
           "country": "Argentina",
-          "profile": "defensive",
-          "preferred_formation": "4-3-3",
-          "pressing_intensity": 0.9013765936911282,
+          "profile": "balanced",
+          "preferred_formation": "4-4-2",
+          "pressing_intensity": 0.8716844713733254,
           "defensive_line": "mid",
           "top_styles": [
             "gegenpressing",
@@ -6257,11 +7153,11 @@
           "odds_away": 2.53,
           "odds_over_15": 1.33,
           "odds_over_25": 2.06,
-          "odds_over_35": 3.61,
+          "odds_over_35": 3.62,
           "odds_under_15": 3.08,
           "odds_under_25": 1.7,
           "odds_under_35": 1.25,
-          "odds_btts_yes": 1.78,
+          "odds_btts_yes": 1.79,
           "odds_btts_no": 1.93,
           "actual_home_xg": null,
           "actual_away_xg": null,
@@ -6284,12 +7180,12 @@
             "short_name": "R. Micale",
             "country": "Brazil",
             "profile": "balanced",
-            "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.49128536191424627,
+            "preferred_formation": "4-1-4-1",
+            "pressing_intensity": 0.4621766455442585,
             "defensive_line": "high",
             "top_styles": [
-              "anti_football",
-              "set_piece"
+              "cross_pray",
+              "wing_play"
             ]
           },
           "away_coach": {
@@ -6298,8 +7194,8 @@
             "short_name": "R. R. d. Silva",
             "country": "Brazil",
             "profile": "defensive",
-            "preferred_formation": "4-1-4-1",
-            "pressing_intensity": 0.5443546922424075,
+            "preferred_formation": "4-2-3-1",
+            "pressing_intensity": 0.5393214106251714,
             "defensive_line": "mid",
             "top_styles": [
               "cross_pray",
@@ -6430,11 +7326,11 @@
         "odds_away": 2.53,
         "odds_over_15": 1.33,
         "odds_over_25": 2.06,
-        "odds_over_35": 3.61,
+        "odds_over_35": 3.62,
         "odds_under_15": 3.08,
         "odds_under_25": 1.7,
         "odds_under_35": 1.25,
-        "odds_btts_yes": 1.78,
+        "odds_btts_yes": 1.79,
         "odds_btts_no": 1.93,
         "actual_home_xg": null,
         "actual_away_xg": null,
@@ -6457,12 +7353,12 @@
           "short_name": "R. Micale",
           "country": "Brazil",
           "profile": "balanced",
-          "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.49128536191424627,
+          "preferred_formation": "4-1-4-1",
+          "pressing_intensity": 0.4621766455442585,
           "defensive_line": "high",
           "top_styles": [
-            "anti_football",
-            "set_piece"
+            "cross_pray",
+            "wing_play"
           ]
         },
         "away_coach": {
@@ -6471,8 +7367,8 @@
           "short_name": "R. R. d. Silva",
           "country": "Brazil",
           "profile": "defensive",
-          "preferred_formation": "4-1-4-1",
-          "pressing_intensity": 0.5443546922424075,
+          "preferred_formation": "4-2-3-1",
+          "pressing_intensity": 0.5393214106251714,
           "defensive_line": "mid",
           "top_styles": [
             "cross_pray",
@@ -6892,7 +7788,7 @@
             "country": "Colombia",
             "profile": "defensive",
             "preferred_formation": "4-1-4-1",
-            "pressing_intensity": 0.5153636486061762,
+            "pressing_intensity": 0.5243607468725605,
             "defensive_line": "mid",
             "top_styles": [
               "anti_football",
@@ -7052,7 +7948,7 @@
           "country": "Colombia",
           "profile": "defensive",
           "preferred_formation": "4-1-4-1",
-          "pressing_intensity": 0.5153636486061762,
+          "pressing_intensity": 0.5243607468725605,
           "defensive_line": "mid",
           "top_styles": [
             "anti_football",
@@ -7413,7 +8309,7 @@
             "country": "Colombia",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.46748434411086204,
+            "pressing_intensity": 0.47030761004359856,
             "defensive_line": "mid",
             "top_styles": [
               "inverted_fb",
@@ -7425,9 +8321,9 @@
             "name": "Joaquin Papa",
             "short_name": "J. Papa",
             "country": "Uruguay",
-            "profile": "attacking",
+            "profile": "balanced",
             "preferred_formation": "4-1-4-1",
-            "pressing_intensity": 0.48636832879869923,
+            "pressing_intensity": 0.4369369394063305,
             "defensive_line": "mid",
             "top_styles": [
               "wing_play",
@@ -7583,7 +8479,7 @@
           "country": "Colombia",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.46748434411086204,
+          "pressing_intensity": 0.47030761004359856,
           "defensive_line": "mid",
           "top_styles": [
             "inverted_fb",
@@ -7595,9 +8491,9 @@
           "name": "Joaquin Papa",
           "short_name": "J. Papa",
           "country": "Uruguay",
-          "profile": "attacking",
+          "profile": "balanced",
           "preferred_formation": "4-1-4-1",
-          "pressing_intensity": 0.48636832879869923,
+          "pressing_intensity": 0.4369369394063305,
           "defensive_line": "mid",
           "top_styles": [
             "wing_play",
@@ -7984,7 +8880,7 @@
             "country": "Argentina",
             "profile": "defensive",
             "preferred_formation": "4-1-4-1",
-            "pressing_intensity": 0.5871388460190698,
+            "pressing_intensity": 0.602877450213134,
             "defensive_line": "mid",
             "top_styles": [
               "cross_pray",
@@ -7998,7 +8894,7 @@
             "country": "Uruguay",
             "profile": "defensive",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.6756878494602971,
+            "pressing_intensity": 0.7340407790992096,
             "defensive_line": "mid",
             "top_styles": [
               "gegenpressing",
@@ -8195,7 +9091,7 @@
           "country": "Argentina",
           "profile": "defensive",
           "preferred_formation": "4-1-4-1",
-          "pressing_intensity": 0.5871388460190698,
+          "pressing_intensity": 0.602877450213134,
           "defensive_line": "mid",
           "top_styles": [
             "cross_pray",
@@ -8209,7 +9105,7 @@
           "country": "Uruguay",
           "profile": "defensive",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.6756878494602971,
+          "pressing_intensity": 0.7340407790992096,
           "defensive_line": "mid",
           "top_styles": [
             "gegenpressing",
@@ -8626,9 +9522,9 @@
             "name": "Joaquin Papa",
             "short_name": "J. Papa",
             "country": "Uruguay",
-            "profile": "attacking",
+            "profile": "balanced",
             "preferred_formation": "4-1-4-1",
-            "pressing_intensity": 0.48636832879869923,
+            "pressing_intensity": 0.4369369394063305,
             "defensive_line": "mid",
             "top_styles": [
               "wing_play",
@@ -8642,7 +9538,7 @@
             "country": "Colombia",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.46748434411086204,
+            "pressing_intensity": 0.47030761004359856,
             "defensive_line": "mid",
             "top_styles": [
               "inverted_fb",
@@ -8796,9 +9692,9 @@
           "name": "Joaquin Papa",
           "short_name": "J. Papa",
           "country": "Uruguay",
-          "profile": "attacking",
+          "profile": "balanced",
           "preferred_formation": "4-1-4-1",
-          "pressing_intensity": 0.48636832879869923,
+          "pressing_intensity": 0.4369369394063305,
           "defensive_line": "mid",
           "top_styles": [
             "wing_play",
@@ -8812,7 +9708,7 @@
           "country": "Colombia",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.46748434411086204,
+          "pressing_intensity": 0.47030761004359856,
           "defensive_line": "mid",
           "top_styles": [
             "inverted_fb",
@@ -9193,7 +10089,7 @@
             "country": "Brazil",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.6803563161989921,
+            "pressing_intensity": 0.7372056081054151,
             "defensive_line": "mid",
             "top_styles": [
               "cross_pray",
@@ -9207,11 +10103,11 @@
             "country": "Brazil",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.5029550154268436,
+            "pressing_intensity": 0.5105184402944305,
             "defensive_line": "low",
             "top_styles": [
               "tiki_taka",
-              "anti_football"
+              "false_9"
             ]
           },
           "unavailable_players": {
@@ -9367,7 +10263,7 @@
           "country": "Brazil",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.6803563161989921,
+          "pressing_intensity": 0.7372056081054151,
           "defensive_line": "mid",
           "top_styles": [
             "cross_pray",
@@ -9381,11 +10277,11 @@
           "country": "Brazil",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.5029550154268436,
+          "pressing_intensity": 0.5105184402944305,
           "defensive_line": "low",
           "top_styles": [
             "tiki_taka",
-            "anti_football"
+            "false_9"
           ]
         },
         "unavailable_players": {
@@ -9809,7 +10705,7 @@
             "country": "Brazil",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.5410796145538366,
+            "pressing_intensity": 0.548148033804664,
             "defensive_line": "high",
             "top_styles": [
               "ball_dominant",
@@ -9822,7 +10718,7 @@
             "short_name": "A. Restrepo",
             "country": "Colombia",
             "profile": "balanced",
-            "preferred_formation": "3-4-2-1",
+            "preferred_formation": "4-3-3",
             "pressing_intensity": null,
             "defensive_line": "",
             "top_styles": []
@@ -9986,7 +10882,7 @@
           "country": "Brazil",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.5410796145538366,
+          "pressing_intensity": 0.548148033804664,
           "defensive_line": "high",
           "top_styles": [
             "ball_dominant",
@@ -9999,7 +10895,7 @@
           "short_name": "A. Restrepo",
           "country": "Colombia",
           "profile": "balanced",
-          "preferred_formation": "3-4-2-1",
+          "preferred_formation": "4-3-3",
           "pressing_intensity": null,
           "defensive_line": "",
           "top_styles": []
@@ -10363,13 +11259,13 @@
             "name": "Mozart Santos",
             "short_name": "M. Santos",
             "country": "Brazil",
-            "profile": "balanced",
+            "profile": "defensive",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.39498736181274974,
+            "pressing_intensity": 0.38488286963308765,
             "defensive_line": "mid",
             "top_styles": [
-              "anti_football",
-              "terrorist_fb"
+              "terrorist_fb",
+              "anti_football"
             ]
           },
           "away_coach": {
@@ -10379,7 +11275,7 @@
             "country": "Brazil",
             "profile": "balanced",
             "preferred_formation": "3-4-2-1",
-            "pressing_intensity": 0.5014961170376857,
+            "pressing_intensity": 0.5073907067435828,
             "defensive_line": "mid",
             "top_styles": [
               "terrorist_fb",
@@ -10556,13 +11452,13 @@
           "name": "Mozart Santos",
           "short_name": "M. Santos",
           "country": "Brazil",
-          "profile": "balanced",
+          "profile": "defensive",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.39498736181274974,
+          "pressing_intensity": 0.38488286963308765,
           "defensive_line": "mid",
           "top_styles": [
-            "anti_football",
-            "terrorist_fb"
+            "terrorist_fb",
+            "anti_football"
           ]
         },
         "away_coach": {
@@ -10572,7 +11468,7 @@
           "country": "Brazil",
           "profile": "balanced",
           "preferred_formation": "3-4-2-1",
-          "pressing_intensity": 0.5014961170376857,
+          "pressing_intensity": 0.5073907067435828,
           "defensive_line": "mid",
           "top_styles": [
             "terrorist_fb",
@@ -10967,9 +11863,12 @@
             "country": "Côte d'Ivoire",
             "profile": "balanced",
             "preferred_formation": "4-1-4-1",
-            "pressing_intensity": null,
-            "defensive_line": "",
-            "top_styles": []
+            "pressing_intensity": 0.4793143117573024,
+            "defensive_line": "mid",
+            "top_styles": [
+              "park_the_bus",
+              "anti_football"
+            ]
           },
           "away_coach": {
             "id": 626,
@@ -10978,9 +11877,12 @@
             "country": "Portugal",
             "profile": "attacking",
             "preferred_formation": "4-3-3",
-            "pressing_intensity": null,
-            "defensive_line": "",
-            "top_styles": []
+            "pressing_intensity": 0.4948320441402949,
+            "defensive_line": "high",
+            "top_styles": [
+              "tiki_taka",
+              "ball_dominant"
+            ]
           },
           "unavailable_players": {
             "home": [
@@ -11148,9 +12050,12 @@
           "country": "Côte d'Ivoire",
           "profile": "balanced",
           "preferred_formation": "4-1-4-1",
-          "pressing_intensity": null,
-          "defensive_line": "",
-          "top_styles": []
+          "pressing_intensity": 0.4793143117573024,
+          "defensive_line": "mid",
+          "top_styles": [
+            "park_the_bus",
+            "anti_football"
+          ]
         },
         "away_coach": {
           "id": 626,
@@ -11159,9 +12064,12 @@
           "country": "Portugal",
           "profile": "attacking",
           "preferred_formation": "4-3-3",
-          "pressing_intensity": null,
-          "defensive_line": "",
-          "top_styles": []
+          "pressing_intensity": 0.4948320441402949,
+          "defensive_line": "high",
+          "top_styles": [
+            "tiki_taka",
+            "ball_dominant"
+          ]
         },
         "unavailable_players": {
           "home": [
@@ -11494,11 +12402,14 @@
             "name": "Valdas Dambrauskas",
             "short_name": "V. Dambrauskas",
             "country": "Lithuania",
-            "profile": "balanced",
+            "profile": "attacking",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": null,
-            "defensive_line": "",
-            "top_styles": []
+            "pressing_intensity": 0.4007030030765452,
+            "defensive_line": "high",
+            "top_styles": [
+              "wing_play",
+              "overload_isolate"
+            ]
           },
           "unavailable_players": {
             "home": [
@@ -11680,11 +12591,14 @@
           "name": "Valdas Dambrauskas",
           "short_name": "V. Dambrauskas",
           "country": "Lithuania",
-          "profile": "balanced",
+          "profile": "attacking",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": null,
-          "defensive_line": "",
-          "top_styles": []
+          "pressing_intensity": 0.4007030030765452,
+          "defensive_line": "high",
+          "top_styles": [
+            "wing_play",
+            "overload_isolate"
+          ]
         },
         "unavailable_players": {
           "home": [
@@ -11984,8 +12898,8 @@
             "short_name": "D. Schreuder",
             "country": "Netherlands",
             "profile": "attacking",
-            "preferred_formation": "3-4-1-2",
-            "pressing_intensity": 0.6666590457772915,
+            "preferred_formation": "3-4-2-1",
+            "pressing_intensity": 0.6913516918325516,
             "defensive_line": "mid",
             "top_styles": [
               "gegenpressing",
@@ -11999,11 +12913,11 @@
             "country": "Norway",
             "profile": "attacking",
             "preferred_formation": "4-3-3",
-            "pressing_intensity": 0.5577865647488807,
+            "pressing_intensity": 0.5987891696526352,
             "defensive_line": "mid",
             "top_styles": [
               "chaos_ball",
-              "tiki_taka"
+              "positional"
             ]
           },
           "unavailable_players": {
@@ -12195,8 +13109,8 @@
           "short_name": "D. Schreuder",
           "country": "Netherlands",
           "profile": "attacking",
-          "preferred_formation": "3-4-1-2",
-          "pressing_intensity": 0.6666590457772915,
+          "preferred_formation": "3-4-2-1",
+          "pressing_intensity": 0.6913516918325516,
           "defensive_line": "mid",
           "top_styles": [
             "gegenpressing",
@@ -12210,11 +13124,11 @@
           "country": "Norway",
           "profile": "attacking",
           "preferred_formation": "4-3-3",
-          "pressing_intensity": 0.5577865647488807,
+          "pressing_intensity": 0.5987891696526352,
           "defensive_line": "mid",
           "top_styles": [
             "chaos_ball",
-            "tiki_taka"
+            "positional"
           ]
         },
         "unavailable_players": {
@@ -12616,7 +13530,7 @@
             "country": "Argentina",
             "profile": "attacking",
             "preferred_formation": "4-4-2",
-            "pressing_intensity": 0.4796717165078982,
+            "pressing_intensity": 0.4810161955116309,
             "defensive_line": "mid",
             "top_styles": [
               "tiki_taka",
@@ -12630,7 +13544,7 @@
             "country": "Spain",
             "profile": "attacking",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.48468166606725177,
+            "pressing_intensity": 0.47082986482162115,
             "defensive_line": "high",
             "top_styles": [
               "ball_dominant",
@@ -12833,7 +13747,7 @@
           "country": "Argentina",
           "profile": "attacking",
           "preferred_formation": "4-4-2",
-          "pressing_intensity": 0.4796717165078982,
+          "pressing_intensity": 0.4810161955116309,
           "defensive_line": "mid",
           "top_styles": [
             "tiki_taka",
@@ -12847,7 +13761,7 @@
           "country": "Spain",
           "profile": "attacking",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.48468166606725177,
+          "pressing_intensity": 0.47082986482162115,
           "defensive_line": "high",
           "top_styles": [
             "ball_dominant",
@@ -13332,7 +14246,7 @@
             "country": "Northern Ireland",
             "profile": "attacking",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.5749819660651152,
+            "pressing_intensity": 0.5873734763458689,
             "defensive_line": "mid",
             "top_styles": [
               "tiki_taka",
@@ -13522,7 +14436,7 @@
           "country": "Northern Ireland",
           "profile": "attacking",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.5749819660651152,
+          "pressing_intensity": 0.5873734763458689,
           "defensive_line": "mid",
           "top_styles": [
             "tiki_taka",
@@ -13871,7 +14785,7 @@
             "country": "Argentina",
             "profile": "balanced",
             "preferred_formation": "4-4-2",
-            "pressing_intensity": 0.3980734691385291,
+            "pressing_intensity": 0.39741078191169776,
             "defensive_line": "high",
             "top_styles": [
               "territory",
@@ -13885,7 +14799,7 @@
             "country": "Colombia",
             "profile": "defensive",
             "preferred_formation": "4-1-4-1",
-            "pressing_intensity": 0.5153636486061762,
+            "pressing_intensity": 0.5243607468725605,
             "defensive_line": "mid",
             "top_styles": [
               "anti_football",
@@ -14045,7 +14959,7 @@
           "country": "Argentina",
           "profile": "balanced",
           "preferred_formation": "4-4-2",
-          "pressing_intensity": 0.3980734691385291,
+          "pressing_intensity": 0.39741078191169776,
           "defensive_line": "high",
           "top_styles": [
             "territory",
@@ -14059,7 +14973,7 @@
           "country": "Colombia",
           "profile": "defensive",
           "preferred_formation": "4-1-4-1",
-          "pressing_intensity": 0.5153636486061762,
+          "pressing_intensity": 0.5243607468725605,
           "defensive_line": "mid",
           "top_styles": [
             "anti_football",
@@ -14467,7 +15381,7 @@
             "country": "Argentina",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.5315552821976621,
+            "pressing_intensity": 0.5251943943828998,
             "defensive_line": "high",
             "top_styles": [
               "heritage",
@@ -14481,7 +15395,7 @@
             "country": "Brazil",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.5330593239283196,
+            "pressing_intensity": 0.5337233858877817,
             "defensive_line": "mid",
             "top_styles": [
               "anti_football",
@@ -14702,7 +15616,7 @@
           "country": "Argentina",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.5315552821976621,
+          "pressing_intensity": 0.5251943943828998,
           "defensive_line": "high",
           "top_styles": [
             "heritage",
@@ -14716,7 +15630,7 @@
           "country": "Brazil",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.5330593239283196,
+          "pressing_intensity": 0.5337233858877817,
           "defensive_line": "mid",
           "top_styles": [
             "anti_football",
@@ -15169,7 +16083,7 @@
             "country": "Argentina",
             "profile": "defensive",
             "preferred_formation": "4-3-3",
-            "pressing_intensity": 0.697856471777619,
+            "pressing_intensity": 0.6825401102791587,
             "defensive_line": "mid",
             "top_styles": [
               "terrorist_fb",
@@ -15183,11 +16097,11 @@
             "country": "Portugal",
             "profile": "attacking",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.5681529930318336,
+            "pressing_intensity": 0.5758700060792782,
             "defensive_line": "mid",
             "top_styles": [
-              "tiki_taka",
-              "ball_dominant"
+              "wing_play",
+              "tiki_taka"
             ]
           },
           "unavailable_players": {
@@ -15385,7 +16299,7 @@
           "country": "Argentina",
           "profile": "defensive",
           "preferred_formation": "4-3-3",
-          "pressing_intensity": 0.697856471777619,
+          "pressing_intensity": 0.6825401102791587,
           "defensive_line": "mid",
           "top_styles": [
             "terrorist_fb",
@@ -15399,11 +16313,11 @@
           "country": "Portugal",
           "profile": "attacking",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.5681529930318336,
+          "pressing_intensity": 0.5758700060792782,
           "defensive_line": "mid",
           "top_styles": [
-            "tiki_taka",
-            "ball_dominant"
+            "wing_play",
+            "tiki_taka"
           ]
         },
         "unavailable_players": {
@@ -15887,7 +16801,7 @@
             "country": "Argentina",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.8933599154630427,
+            "pressing_intensity": 0.9780056933829666,
             "defensive_line": "mid",
             "top_styles": [
               "cross_pray",
@@ -15899,11 +16813,14 @@
             "name": "Martin Palermo",
             "short_name": "M. Palermo",
             "country": "Argentina",
-            "profile": "",
-            "preferred_formation": "",
-            "pressing_intensity": null,
-            "defensive_line": "",
-            "top_styles": []
+            "profile": "defensive",
+            "preferred_formation": "4-2-3-1",
+            "pressing_intensity": 0.7375100208529177,
+            "defensive_line": "mid",
+            "top_styles": [
+              "gegenpressing",
+              "high_press"
+            ]
           },
           "unavailable_players": {
             "home": [],
@@ -16076,7 +16993,7 @@
           "country": "Argentina",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.8933599154630427,
+          "pressing_intensity": 0.9780056933829666,
           "defensive_line": "mid",
           "top_styles": [
             "cross_pray",
@@ -16088,11 +17005,14 @@
           "name": "Martin Palermo",
           "short_name": "M. Palermo",
           "country": "Argentina",
-          "profile": "",
-          "preferred_formation": "",
-          "pressing_intensity": null,
-          "defensive_line": "",
-          "top_styles": []
+          "profile": "defensive",
+          "preferred_formation": "4-2-3-1",
+          "pressing_intensity": 0.7375100208529177,
+          "defensive_line": "mid",
+          "top_styles": [
+            "gegenpressing",
+            "high_press"
+          ]
         },
         "unavailable_players": {
           "home": [],
@@ -16443,9 +17363,9 @@
             "name": "Paulo Autuori",
             "short_name": "P. Autuori",
             "country": "Brazil",
-            "profile": "attacking",
+            "profile": "balanced",
             "preferred_formation": "4-3-3",
-            "pressing_intensity": 0.377686037779464,
+            "pressing_intensity": 0.35944610836269897,
             "defensive_line": "mid",
             "top_styles": [
               "anti_football",
@@ -16457,8 +17377,8 @@
             "name": "Vinícius Bergantin",
             "short_name": "V. Bergantin",
             "country": "Brazil",
-            "profile": "",
-            "preferred_formation": "",
+            "profile": "defensive",
+            "preferred_formation": "4-3-3",
             "pressing_intensity": null,
             "defensive_line": "",
             "top_styles": []
@@ -16633,9 +17553,9 @@
           "name": "Paulo Autuori",
           "short_name": "P. Autuori",
           "country": "Brazil",
-          "profile": "attacking",
+          "profile": "balanced",
           "preferred_formation": "4-3-3",
-          "pressing_intensity": 0.377686037779464,
+          "pressing_intensity": 0.35944610836269897,
           "defensive_line": "mid",
           "top_styles": [
             "anti_football",
@@ -16647,8 +17567,8 @@
           "name": "Vinícius Bergantin",
           "short_name": "V. Bergantin",
           "country": "Brazil",
-          "profile": "",
-          "preferred_formation": "",
+          "profile": "defensive",
+          "preferred_formation": "4-3-3",
           "pressing_intensity": null,
           "defensive_line": "",
           "top_styles": []
@@ -17039,11 +17959,11 @@
             "country": "USA",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.6133765328080459,
+            "pressing_intensity": 0.6057123132659622,
             "defensive_line": "mid",
             "top_styles": [
-              "park_the_bus",
-              "no_midfield"
+              "no_midfield",
+              "park_the_bus"
             ]
           },
           "away_coach": {
@@ -17053,7 +17973,7 @@
             "country": "England",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.6982188289476597,
+            "pressing_intensity": 0.7418877380660961,
             "defensive_line": "mid",
             "top_styles": [
               "gegenpressing",
@@ -17197,11 +18117,11 @@
           "country": "USA",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.6133765328080459,
+          "pressing_intensity": 0.6057123132659622,
           "defensive_line": "mid",
           "top_styles": [
-            "park_the_bus",
-            "no_midfield"
+            "no_midfield",
+            "park_the_bus"
           ]
         },
         "away_coach": {
@@ -17211,7 +18131,7 @@
           "country": "England",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.6982188289476597,
+          "pressing_intensity": 0.7418877380660961,
           "defensive_line": "mid",
           "top_styles": [
             "gegenpressing",
@@ -17602,11 +18522,11 @@
             "country": "Brazil",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.40177590048149847,
+            "pressing_intensity": 0.34753938702900755,
             "defensive_line": "high",
             "top_styles": [
               "terrorist_fb",
-              "total_football"
+              "moments_fc"
             ]
           },
           "away_coach": {
@@ -17616,11 +18536,11 @@
             "country": "Brazil",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.7919408615257761,
+            "pressing_intensity": 0.786004405388226,
             "defensive_line": "low",
             "top_styles": [
-              "cross_pray",
-              "park_the_bus"
+              "park_the_bus",
+              "man_press"
             ]
           },
           "unavailable_players": null,
@@ -17772,11 +18692,11 @@
           "country": "Brazil",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.40177590048149847,
+          "pressing_intensity": 0.34753938702900755,
           "defensive_line": "high",
           "top_styles": [
             "terrorist_fb",
-            "total_football"
+            "moments_fc"
           ]
         },
         "away_coach": {
@@ -17786,11 +18706,11 @@
           "country": "Brazil",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.7919408615257761,
+          "pressing_intensity": 0.786004405388226,
           "defensive_line": "low",
           "top_styles": [
-            "cross_pray",
-            "park_the_bus"
+            "park_the_bus",
+            "man_press"
           ]
         },
         "unavailable_players": null,
@@ -18191,7 +19111,7 @@
             "country": "Uruguay",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.3532631759738333,
+            "pressing_intensity": 0.3509352085288271,
             "defensive_line": "mid",
             "top_styles": [
               "low_counter",
@@ -18203,7 +19123,7 @@
             "name": "Eduardo Coudet",
             "short_name": "E. Coudet",
             "country": "Argentina",
-            "profile": "defensive",
+            "profile": "balanced",
             "preferred_formation": "4-2-3-1",
             "pressing_intensity": 1,
             "defensive_line": "mid",
@@ -18390,7 +19310,7 @@
           "country": "Uruguay",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.3532631759738333,
+          "pressing_intensity": 0.3509352085288271,
           "defensive_line": "mid",
           "top_styles": [
             "low_counter",
@@ -18402,7 +19322,7 @@
           "name": "Eduardo Coudet",
           "short_name": "E. Coudet",
           "country": "Argentina",
-          "profile": "defensive",
+          "profile": "balanced",
           "preferred_formation": "4-2-3-1",
           "pressing_intensity": 1,
           "defensive_line": "mid",
@@ -18794,7 +19714,7 @@
             "country": "Venezuela",
             "profile": "balanced",
             "preferred_formation": "4-3-3",
-            "pressing_intensity": 0.2141639428769232,
+            "pressing_intensity": 0.19944121644868423,
             "defensive_line": "mid",
             "top_styles": [
               "park_the_bus",
@@ -18808,7 +19728,7 @@
             "country": "Argentina",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.36332467933231627,
+            "pressing_intensity": 0.35875998647880314,
             "defensive_line": "mid",
             "top_styles": [
               "anti_football",
@@ -18974,7 +19894,7 @@
           "country": "Venezuela",
           "profile": "balanced",
           "preferred_formation": "4-3-3",
-          "pressing_intensity": 0.2141639428769232,
+          "pressing_intensity": 0.19944121644868423,
           "defensive_line": "mid",
           "top_styles": [
             "park_the_bus",
@@ -18988,7 +19908,7 @@
           "country": "Argentina",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.36332467933231627,
+          "pressing_intensity": 0.35875998647880314,
           "defensive_line": "mid",
           "top_styles": [
             "anti_football",
@@ -19395,7 +20315,7 @@
             "country": "USA",
             "profile": "balanced",
             "preferred_formation": "4-3-3",
-            "pressing_intensity": 0.48488364320383737,
+            "pressing_intensity": 0.4816038868294814,
             "defensive_line": "high",
             "top_styles": [
               "ball_dominant",
@@ -19409,7 +20329,7 @@
             "country": "USA",
             "profile": "attacking",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.3904924427628126,
+            "pressing_intensity": 0.3905296954980315,
             "defensive_line": "mid",
             "top_styles": [
               "counter",
@@ -19612,7 +20532,7 @@
           "country": "USA",
           "profile": "balanced",
           "preferred_formation": "4-3-3",
-          "pressing_intensity": 0.48488364320383737,
+          "pressing_intensity": 0.4816038868294814,
           "defensive_line": "high",
           "top_styles": [
             "ball_dominant",
@@ -19626,7 +20546,7 @@
           "country": "USA",
           "profile": "attacking",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.3904924427628126,
+          "pressing_intensity": 0.3905296954980315,
           "defensive_line": "mid",
           "top_styles": [
             "counter",
@@ -20105,7 +21025,7 @@
             "country": "France",
             "profile": "balanced",
             "preferred_formation": "4-4-2",
-            "pressing_intensity": 0.5253736938077556,
+            "pressing_intensity": 0.5274508918785654,
             "defensive_line": "mid",
             "top_styles": [
               "tiki_taka",
@@ -20119,7 +21039,7 @@
             "country": "France",
             "profile": "balanced",
             "preferred_formation": "4-3-3",
-            "pressing_intensity": 0.4332782462853269,
+            "pressing_intensity": 0.4371241306785864,
             "defensive_line": "mid",
             "top_styles": [
               "set_piece",
@@ -20346,7 +21266,7 @@
           "country": "France",
           "profile": "balanced",
           "preferred_formation": "4-4-2",
-          "pressing_intensity": 0.5253736938077556,
+          "pressing_intensity": 0.5274508918785654,
           "defensive_line": "mid",
           "top_styles": [
             "tiki_taka",
@@ -20360,7 +21280,7 @@
           "country": "France",
           "profile": "balanced",
           "preferred_formation": "4-3-3",
-          "pressing_intensity": 0.4332782462853269,
+          "pressing_intensity": 0.4371241306785864,
           "defensive_line": "mid",
           "top_styles": [
             "set_piece",
@@ -20869,7 +21789,7 @@
             "country": "USA",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.45129309198684764,
+            "pressing_intensity": 0.44375773976845106,
             "defensive_line": "mid",
             "top_styles": [
               "set_piece",
@@ -20883,11 +21803,11 @@
             "country": "England",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.21046931279423692,
+            "pressing_intensity": 0.19507544818825395,
             "defensive_line": "mid",
             "top_styles": [
               "moments_fc",
-              "inverted_fb"
+              "counter"
             ]
           },
           "unavailable_players": {
@@ -21110,7 +22030,7 @@
           "country": "USA",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.45129309198684764,
+          "pressing_intensity": 0.44375773976845106,
           "defensive_line": "mid",
           "top_styles": [
             "set_piece",
@@ -21124,11 +22044,11 @@
           "country": "England",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.21046931279423692,
+          "pressing_intensity": 0.19507544818825395,
           "defensive_line": "mid",
           "top_styles": [
             "moments_fc",
-            "inverted_fb"
+            "counter"
           ]
         },
         "unavailable_players": {
@@ -21634,7 +22554,7 @@
             "country": "USA",
             "profile": "attacking",
             "preferred_formation": "3-4-1-2",
-            "pressing_intensity": 0.3868432301059735,
+            "pressing_intensity": 0.37709930452939744,
             "defensive_line": "high",
             "top_styles": [
               "ball_dominant",
@@ -21648,7 +22568,7 @@
             "country": "Netherlands",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.523243639776119,
+            "pressing_intensity": 0.5207763628504666,
             "defensive_line": "mid",
             "top_styles": [
               "tiki_taka",
@@ -21868,7 +22788,7 @@
           "country": "USA",
           "profile": "attacking",
           "preferred_formation": "3-4-1-2",
-          "pressing_intensity": 0.3868432301059735,
+          "pressing_intensity": 0.37709930452939744,
           "defensive_line": "high",
           "top_styles": [
             "ball_dominant",
@@ -21882,7 +22802,7 @@
           "country": "Netherlands",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.523243639776119,
+          "pressing_intensity": 0.5207763628504666,
           "defensive_line": "mid",
           "top_styles": [
             "tiki_taka",
@@ -22389,7 +23309,7 @@
             "name": "Ryan Richter",
             "short_name": "R. Richter",
             "country": "USA",
-            "profile": "balanced",
+            "profile": "attacking",
             "preferred_formation": "4-4-2",
             "pressing_intensity": null,
             "defensive_line": "",
@@ -22402,7 +23322,7 @@
             "country": "Argentina",
             "profile": "attacking",
             "preferred_formation": "4-4-2",
-            "pressing_intensity": 0.49913987051017744,
+            "pressing_intensity": 0.4986240681684981,
             "defensive_line": "mid",
             "top_styles": [
               "inverted_fb",
@@ -22621,7 +23541,7 @@
           "name": "Ryan Richter",
           "short_name": "R. Richter",
           "country": "USA",
-          "profile": "balanced",
+          "profile": "attacking",
           "preferred_formation": "4-4-2",
           "pressing_intensity": null,
           "defensive_line": "",
@@ -22634,7 +23554,7 @@
           "country": "Argentina",
           "profile": "attacking",
           "preferred_formation": "4-4-2",
-          "pressing_intensity": 0.49913987051017744,
+          "pressing_intensity": 0.4986240681684981,
           "defensive_line": "mid",
           "top_styles": [
             "inverted_fb",
@@ -23139,7 +24059,7 @@
             "country": "Switzerland",
             "profile": "balanced",
             "preferred_formation": "4-4-2",
-            "pressing_intensity": 0.4545078724995206,
+            "pressing_intensity": 0.45422780646972494,
             "defensive_line": "mid",
             "top_styles": [
               "terrorist_fb",
@@ -23153,7 +24073,7 @@
             "country": "Serbia",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.3900812451463875,
+            "pressing_intensity": 0.3930456977771928,
             "defensive_line": "mid",
             "top_styles": [
               "tiki_taka",
@@ -23350,7 +24270,7 @@
           "country": "Switzerland",
           "profile": "balanced",
           "preferred_formation": "4-4-2",
-          "pressing_intensity": 0.4545078724995206,
+          "pressing_intensity": 0.45422780646972494,
           "defensive_line": "mid",
           "top_styles": [
             "terrorist_fb",
@@ -23364,7 +24284,7 @@
           "country": "Serbia",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.3900812451463875,
+          "pressing_intensity": 0.3930456977771928,
           "defensive_line": "mid",
           "top_styles": [
             "tiki_taka",
@@ -23841,9 +24761,9 @@
             "name": "Eduardo Barros",
             "short_name": "E. Barros",
             "country": "Brazil",
-            "profile": "defensive",
-            "preferred_formation": "3-4-2-1",
-            "pressing_intensity": 0.5240276648272292,
+            "profile": "balanced",
+            "preferred_formation": "5-4-1",
+            "pressing_intensity": 0.5445212461371379,
             "defensive_line": "high",
             "top_styles": [
               "cross_pray",
@@ -23857,7 +24777,7 @@
             "country": "Brazil",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.5125185380344316,
+            "pressing_intensity": 0.5127407486271789,
             "defensive_line": "high",
             "top_styles": [
               "anti_football",
@@ -24005,9 +24925,9 @@
           "name": "Eduardo Barros",
           "short_name": "E. Barros",
           "country": "Brazil",
-          "profile": "defensive",
-          "preferred_formation": "3-4-2-1",
-          "pressing_intensity": 0.5240276648272292,
+          "profile": "balanced",
+          "preferred_formation": "5-4-1",
+          "pressing_intensity": 0.5445212461371379,
           "defensive_line": "high",
           "top_styles": [
             "cross_pray",
@@ -24021,7 +24941,7 @@
           "country": "Brazil",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.5125185380344316,
+          "pressing_intensity": 0.5127407486271789,
           "defensive_line": "high",
           "top_styles": [
             "anti_football",
@@ -24444,7 +25364,7 @@
             "country": "Brazil",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.5922547712420624,
+            "pressing_intensity": 0.5785134249213089,
             "defensive_line": "mid",
             "top_styles": [
               "anti_football",
@@ -24458,7 +25378,7 @@
             "country": "Brazil",
             "profile": "defensive",
             "preferred_formation": "3-4-2-1",
-            "pressing_intensity": 0.49049688677240233,
+            "pressing_intensity": 0.5531928173527999,
             "defensive_line": "high",
             "top_styles": [
               "terrorist_fb",
@@ -24614,7 +25534,7 @@
           "country": "Brazil",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.5922547712420624,
+          "pressing_intensity": 0.5785134249213089,
           "defensive_line": "mid",
           "top_styles": [
             "anti_football",
@@ -24628,7 +25548,7 @@
           "country": "Brazil",
           "profile": "defensive",
           "preferred_formation": "3-4-2-1",
-          "pressing_intensity": 0.49049688677240233,
+          "pressing_intensity": 0.5531928173527999,
           "defensive_line": "high",
           "top_styles": [
             "terrorist_fb",
@@ -24965,7 +25885,7 @@
             "country": "Argentina",
             "profile": "attacking",
             "preferred_formation": "4-4-2",
-            "pressing_intensity": 0.32031092412738893,
+            "pressing_intensity": 0.31321375425898823,
             "defensive_line": "mid",
             "top_styles": [
               "chaos_ball",
@@ -24978,12 +25898,12 @@
             "short_name": "G. Berhalter",
             "country": "USA",
             "profile": "attacking",
-            "preferred_formation": "4-3-3",
-            "pressing_intensity": 0.4338260204636625,
+            "preferred_formation": "4-2-3-1",
+            "pressing_intensity": 0.4297667195516456,
             "defensive_line": "mid",
             "top_styles": [
               "inverted_fb",
-              "chaos_ball"
+              "counter"
             ]
           },
           "unavailable_players": {
@@ -25176,7 +26096,7 @@
           "country": "Argentina",
           "profile": "attacking",
           "preferred_formation": "4-4-2",
-          "pressing_intensity": 0.32031092412738893,
+          "pressing_intensity": 0.31321375425898823,
           "defensive_line": "mid",
           "top_styles": [
             "chaos_ball",
@@ -25189,12 +26109,12 @@
           "short_name": "G. Berhalter",
           "country": "USA",
           "profile": "attacking",
-          "preferred_formation": "4-3-3",
-          "pressing_intensity": 0.4338260204636625,
+          "preferred_formation": "4-2-3-1",
+          "pressing_intensity": 0.4297667195516456,
           "defensive_line": "mid",
           "top_styles": [
             "inverted_fb",
-            "chaos_ball"
+            "counter"
           ]
         },
         "unavailable_players": {
@@ -25627,7 +26547,7 @@
             "country": "Switzerland",
             "profile": "balanced",
             "preferred_formation": "4-3-3",
-            "pressing_intensity": 0.3512914283764649,
+            "pressing_intensity": 0.3479298657346061,
             "defensive_line": "high",
             "top_styles": [
               "moments_fc",
@@ -25640,12 +26560,12 @@
             "short_name": "Y. Damet",
             "country": "France",
             "profile": "balanced",
-            "preferred_formation": "3-4-3",
-            "pressing_intensity": 0.4146747633044969,
+            "preferred_formation": "4-2-3-1",
+            "pressing_intensity": 0.4230562809414195,
             "defensive_line": "mid",
             "top_styles": [
-              "ball_dominant",
-              "tiki_taka"
+              "tiki_taka",
+              "ball_dominant"
             ]
           },
           "unavailable_players": {
@@ -25850,7 +26770,7 @@
           "country": "Switzerland",
           "profile": "balanced",
           "preferred_formation": "4-3-3",
-          "pressing_intensity": 0.3512914283764649,
+          "pressing_intensity": 0.3479298657346061,
           "defensive_line": "high",
           "top_styles": [
             "moments_fc",
@@ -25863,12 +26783,12 @@
           "short_name": "Y. Damet",
           "country": "France",
           "profile": "balanced",
-          "preferred_formation": "3-4-3",
-          "pressing_intensity": 0.4146747633044969,
+          "preferred_formation": "4-2-3-1",
+          "pressing_intensity": 0.4230562809414195,
           "defensive_line": "mid",
           "top_styles": [
-            "ball_dominant",
-            "tiki_taka"
+            "tiki_taka",
+            "ball_dominant"
           ]
         },
         "unavailable_players": {
@@ -26349,12 +27269,12 @@
             "short_name": "F. Gautrat",
             "country": "USA",
             "profile": "balanced",
-            "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.5770763590266399,
+            "preferred_formation": "4-4-2",
+            "pressing_intensity": 0.6395536893376477,
             "defensive_line": "mid",
             "top_styles": [
               "moments_fc",
-              "park_the_bus"
+              "counter"
             ]
           },
           "away_coach": {
@@ -26504,12 +27424,12 @@
           "short_name": "F. Gautrat",
           "country": "USA",
           "profile": "balanced",
-          "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.5770763590266399,
+          "preferred_formation": "4-4-2",
+          "pressing_intensity": 0.6395536893376477,
           "defensive_line": "mid",
           "top_styles": [
             "moments_fc",
-            "park_the_bus"
+            "counter"
           ]
         },
         "away_coach": {
@@ -26894,7 +27814,7 @@
             "name": "Eduardo Coudet",
             "short_name": "E. Coudet",
             "country": "Argentina",
-            "profile": "defensive",
+            "profile": "balanced",
             "preferred_formation": "4-2-3-1",
             "pressing_intensity": 1,
             "defensive_line": "mid",
@@ -26910,7 +27830,7 @@
             "country": "Uruguay",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.3532631759738333,
+            "pressing_intensity": 0.3509352085288271,
             "defensive_line": "mid",
             "top_styles": [
               "low_counter",
@@ -27093,7 +28013,7 @@
           "name": "Eduardo Coudet",
           "short_name": "E. Coudet",
           "country": "Argentina",
-          "profile": "defensive",
+          "profile": "balanced",
           "preferred_formation": "4-2-3-1",
           "pressing_intensity": 1,
           "defensive_line": "mid",
@@ -27109,7 +28029,7 @@
           "country": "Uruguay",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.3532631759738333,
+          "pressing_intensity": 0.3509352085288271,
           "defensive_line": "mid",
           "top_styles": [
             "low_counter",
@@ -27511,11 +28431,11 @@
             "country": "Uruguay",
             "profile": "balanced",
             "preferred_formation": "4-3-3",
-            "pressing_intensity": 0.5608042680549346,
+            "pressing_intensity": 0.5894275155857487,
             "defensive_line": "mid",
             "top_styles": [
-              "high_press",
-              "gegenpressing"
+              "gegenpressing",
+              "high_press"
             ]
           },
           "away_coach": {
@@ -27523,13 +28443,13 @@
             "name": "Diego Dabove",
             "short_name": "D. Dabove",
             "country": "Argentina",
-            "profile": "balanced",
+            "profile": "defensive",
             "preferred_formation": "4-4-2",
-            "pressing_intensity": 0.6510629628121474,
+            "pressing_intensity": 0.6114081357283127,
             "defensive_line": "mid",
             "top_styles": [
-              "gegenpressing",
-              "set_piece"
+              "set_piece",
+              "gegenpressing"
             ]
           },
           "unavailable_players": {
@@ -27715,11 +28635,11 @@
           "country": "Uruguay",
           "profile": "balanced",
           "preferred_formation": "4-3-3",
-          "pressing_intensity": 0.5608042680549346,
+          "pressing_intensity": 0.5894275155857487,
           "defensive_line": "mid",
           "top_styles": [
-            "high_press",
-            "gegenpressing"
+            "gegenpressing",
+            "high_press"
           ]
         },
         "away_coach": {
@@ -27727,13 +28647,13 @@
           "name": "Diego Dabove",
           "short_name": "D. Dabove",
           "country": "Argentina",
-          "profile": "balanced",
+          "profile": "defensive",
           "preferred_formation": "4-4-2",
-          "pressing_intensity": 0.6510629628121474,
+          "pressing_intensity": 0.6114081357283127,
           "defensive_line": "mid",
           "top_styles": [
-            "gegenpressing",
-            "set_piece"
+            "set_piece",
+            "gegenpressing"
           ]
         },
         "unavailable_players": {
@@ -28133,7 +29053,7 @@
             "country": "Colombia",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.34405822269913894,
+            "pressing_intensity": 0.3411125398452225,
             "defensive_line": "mid",
             "top_styles": [
               "positional",
@@ -28147,11 +29067,11 @@
             "country": "Colombia",
             "profile": "balanced",
             "preferred_formation": "4-1-4-1",
-            "pressing_intensity": 0.4063624297575479,
+            "pressing_intensity": 0.4012383130193694,
             "defensive_line": "mid",
             "top_styles": [
               "anti_football",
-              "terrorist_fb"
+              "positional"
             ]
           },
           "unavailable_players": null,
@@ -28280,7 +29200,7 @@
           "country": "Colombia",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.34405822269913894,
+          "pressing_intensity": 0.3411125398452225,
           "defensive_line": "mid",
           "top_styles": [
             "positional",
@@ -28294,11 +29214,11 @@
           "country": "Colombia",
           "profile": "balanced",
           "preferred_formation": "4-1-4-1",
-          "pressing_intensity": 0.4063624297575479,
+          "pressing_intensity": 0.4012383130193694,
           "defensive_line": "mid",
           "top_styles": [
             "anti_football",
-            "terrorist_fb"
+            "positional"
           ]
         },
         "unavailable_players": null,
@@ -28683,7 +29603,7 @@
             "country": "New Zealand",
             "profile": "balanced",
             "preferred_formation": "5-3-2",
-            "pressing_intensity": 0.3356399013900154,
+            "pressing_intensity": 0.32678586543365395,
             "defensive_line": "high",
             "top_styles": [
               "terrorist_fb",
@@ -28697,7 +29617,7 @@
             "country": "Argentina",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.37090523726873503,
+            "pressing_intensity": 0.36893280936803263,
             "defensive_line": "mid",
             "top_styles": [
               "tiki_taka",
@@ -28900,7 +29820,7 @@
           "country": "New Zealand",
           "profile": "balanced",
           "preferred_formation": "5-3-2",
-          "pressing_intensity": 0.3356399013900154,
+          "pressing_intensity": 0.32678586543365395,
           "defensive_line": "high",
           "top_styles": [
             "terrorist_fb",
@@ -28914,7 +29834,7 @@
           "country": "Argentina",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.37090523726873503,
+          "pressing_intensity": 0.36893280936803263,
           "defensive_line": "mid",
           "top_styles": [
             "tiki_taka",
@@ -29371,7 +30291,7 @@
             "country": "Portugal",
             "profile": "attacking",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.5299846696748243,
+            "pressing_intensity": 0.5443153984408547,
             "defensive_line": "mid",
             "top_styles": [
               "heritage",
@@ -29385,11 +30305,11 @@
             "country": "Portugal",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.5700599602235958,
+            "pressing_intensity": 0.5755765387865962,
             "defensive_line": "mid",
             "top_styles": [
-              "anti_football",
-              "tiki_taka"
+              "tiki_taka",
+              "anti_football"
             ]
           },
           "unavailable_players": {
@@ -29600,7 +30520,7 @@
           "country": "Portugal",
           "profile": "attacking",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.5299846696748243,
+          "pressing_intensity": 0.5443153984408547,
           "defensive_line": "mid",
           "top_styles": [
             "heritage",
@@ -29614,11 +30534,11 @@
           "country": "Portugal",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.5700599602235958,
+          "pressing_intensity": 0.5755765387865962,
           "defensive_line": "mid",
           "top_styles": [
-            "anti_football",
-            "tiki_taka"
+            "tiki_taka",
+            "anti_football"
           ]
         },
         "unavailable_players": {
@@ -30030,11 +30950,11 @@
             "country": "Brazil",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.5294641671727093,
+            "pressing_intensity": 0.4789021207001426,
             "defensive_line": "mid",
             "top_styles": [
-              "set_piece",
-              "cross_pray"
+              "cross_pray",
+              "set_piece"
             ]
           },
           "away_coach": {
@@ -30044,7 +30964,7 @@
             "country": "Brazil",
             "profile": "defensive",
             "preferred_formation": "3-4-3",
-            "pressing_intensity": 0.6411400944353306,
+            "pressing_intensity": 0.6451208288183607,
             "defensive_line": "mid",
             "top_styles": [
               "cross_pray",
@@ -30210,11 +31130,11 @@
           "country": "Brazil",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.5294641671727093,
+          "pressing_intensity": 0.4789021207001426,
           "defensive_line": "mid",
           "top_styles": [
-            "set_piece",
-            "cross_pray"
+            "cross_pray",
+            "set_piece"
           ]
         },
         "away_coach": {
@@ -30224,7 +31144,7 @@
           "country": "Brazil",
           "profile": "defensive",
           "preferred_formation": "3-4-3",
-          "pressing_intensity": 0.6411400944353306,
+          "pressing_intensity": 0.6451208288183607,
           "defensive_line": "mid",
           "top_styles": [
             "cross_pray",
@@ -30650,7 +31570,7 @@
             "country": "USA",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.4425535264833656,
+            "pressing_intensity": 0.44264478675998464,
             "defensive_line": "low",
             "top_styles": [
               "tiki_taka",
@@ -30664,11 +31584,11 @@
             "country": "USA",
             "profile": "balanced",
             "preferred_formation": "4-4-2",
-            "pressing_intensity": 0.2658589490176496,
+            "pressing_intensity": 0.266251288141937,
             "defensive_line": "high",
             "top_styles": [
-              "chaos_ball",
-              "terrorist_fb"
+              "ball_dominant",
+              "chaos_ball"
             ]
           },
           "unavailable_players": {
@@ -30885,7 +31805,7 @@
           "country": "USA",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.4425535264833656,
+          "pressing_intensity": 0.44264478675998464,
           "defensive_line": "low",
           "top_styles": [
             "tiki_taka",
@@ -30899,11 +31819,11 @@
           "country": "USA",
           "profile": "balanced",
           "preferred_formation": "4-4-2",
-          "pressing_intensity": 0.2658589490176496,
+          "pressing_intensity": 0.266251288141937,
           "defensive_line": "high",
           "top_styles": [
-            "chaos_ball",
-            "terrorist_fb"
+            "ball_dominant",
+            "chaos_ball"
           ]
         },
         "unavailable_players": {
@@ -31400,7 +32320,7 @@
             "country": "England",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.3263868381878049,
+            "pressing_intensity": 0.3351604510687526,
             "defensive_line": "high",
             "top_styles": [
               "ball_dominant",
@@ -31414,7 +32334,7 @@
             "country": "Canada",
             "profile": "attacking",
             "preferred_formation": "4-3-3",
-            "pressing_intensity": 0.33135757587988335,
+            "pressing_intensity": 0.32349248322002044,
             "defensive_line": "mid",
             "top_styles": [
               "inverted_fb",
@@ -31623,7 +32543,7 @@
           "country": "England",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.3263868381878049,
+          "pressing_intensity": 0.3351604510687526,
           "defensive_line": "high",
           "top_styles": [
             "ball_dominant",
@@ -31637,7 +32557,7 @@
           "country": "Canada",
           "profile": "attacking",
           "preferred_formation": "4-3-3",
-          "pressing_intensity": 0.33135757587988335,
+          "pressing_intensity": 0.32349248322002044,
           "defensive_line": "mid",
           "top_styles": [
             "inverted_fb",
@@ -32127,7 +33047,7 @@
             "country": "USA",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.38443089141712067,
+            "pressing_intensity": 0.39506860507178043,
             "defensive_line": "high",
             "top_styles": [
               "ball_dominant",
@@ -32141,7 +33061,7 @@
             "country": "USA",
             "profile": "balanced",
             "preferred_formation": "4-2-3-1",
-            "pressing_intensity": 0.29368148173290864,
+            "pressing_intensity": 0.2802077069007538,
             "defensive_line": "mid",
             "top_styles": [
               "terrorist_fb",
@@ -32380,7 +33300,7 @@
           "country": "USA",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.38443089141712067,
+          "pressing_intensity": 0.39506860507178043,
           "defensive_line": "high",
           "top_styles": [
             "ball_dominant",
@@ -32394,7 +33314,7 @@
           "country": "USA",
           "profile": "balanced",
           "preferred_formation": "4-2-3-1",
-          "pressing_intensity": 0.29368148173290864,
+          "pressing_intensity": 0.2802077069007538,
           "defensive_line": "mid",
           "top_styles": [
             "terrorist_fb",
